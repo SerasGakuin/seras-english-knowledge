@@ -1,0 +1,198 @@
+source:
+  book: はじめの英文読解ドリル
+  section: Ch01_01
+  title: "5文型と「M」"
+  pages: "p.8-11"
+
+sentences:
+  # ===== ドリル1 =====
+  - id: haj-01-01-d1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "The old woman lives quietly in the countryside."
+    japanese: "その高齢の女性は、静かに田舎で暮らしている。"
+    structure:
+      全体: "S V M M"
+    knowledge_tags:
+      - strc-008
+    notes: "oldは形容詞で名詞womanを修飾。quietlyは副詞で動詞livesを修飾。in the countrysideは前置詞+名詞で動詞livesを修飾する副詞句"
+
+  - id: haj-01-01-d1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "The students in the classroom are very noisy."
+    japanese: "その教室にいる生徒たちは、とてもうるさい。"
+    structure:
+      全体: "S M V C"
+    knowledge_tags:
+      - strc-008
+      - strc-009
+    notes: "in the classroomは前置詞+名詞で名詞studentsを修飾する形容詞句。noisyは名詞を修飾していない形容詞なのでC。SVCでThe students=noisy"
+
+  - id: haj-01-01-d1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "Surprisingly, the rich man took to the party his tiger."
+    japanese: "驚くべきことに、その金持ちの男は、そのパーティーに彼のトラを連れていった。"
+    structure:
+      全体: "M S V M O"
+    knowledge_tags:
+      - strc-008
+    notes: "Surprisinglyは副詞で文全体を修飾。to the partyは前置詞+名詞で動詞tookを修飾する副詞句。文末に置くのが普通だが文章の流れでこの語順になる"
+
+  - id: haj-01-01-d1-04
+    drill: 1
+    number: 4
+    role: practice
+    english: "Last night, he gave a cat on the street some food."
+    japanese: "昨晩、彼は、道にいたネコにいくらかの食べ物を与えた。"
+    structure:
+      全体: "M S V O1 M O2"
+    knowledge_tags:
+      - strc-007
+      - strc-008
+    notes: "Last nightは副詞で動詞gaveを修飾。on the streetは前置詞+名詞で名詞catを修飾する形容詞句。第4文型SVO1O2"
+
+  - id: haj-01-01-d1-05
+    drill: 1
+    number: 5
+    role: practice
+    english: "During the ceremony, the mother kept her child quiet."
+    japanese: "その式典の間、その母親は、彼女の子どもを静かにさせておいた。"
+    structure:
+      全体: "M S V O C"
+    knowledge_tags:
+      - strc-007
+      - strc-009
+    notes: "During the ceremonyは前置詞+名詞で動詞keptを修飾する副詞句。quietは名詞を修飾していない形容詞なのでC。SVOCでher child=quiet。keep OC=OをCのままにする"
+
+  # ===== ドリル3 =====
+  - id: haj-01-01-d3-01
+    drill: 3
+    number: 1
+    role: practice
+    english: "In 1939, the war between those two countries began."
+    japanese: "1939年に、その2国間での戦争が始まった。"
+    structure:
+      全体: "M S M V"
+    knowledge_tags:
+      - strc-008
+    notes: "In 1939は前置詞+名詞で動詞beganを修飾する副詞句。between those two countriesは前置詞+名詞で名詞warを修飾する形容詞句"
+
+  - id: haj-01-01-d3-02
+    drill: 3
+    number: 2
+    role: practice
+    english: "All employees of the company are familiar with the new system."
+    japanese: "その会社のすべての従業員は、その新しいシステムを熟知している。"
+    structure:
+      全体: "S M V C M"
+    knowledge_tags:
+      - strc-008
+      - strc-009
+    notes: "of the companyは前置詞+名詞で名詞employeesを修飾する形容詞句。familiarは名詞を修飾していない形容詞なのでC。with the new systemは前置詞+名詞で副詞句"
+
+  - id: haj-01-01-d3-03
+    drill: 3
+    number: 3
+    role: practice
+    english: "Yesterday I learned from my father an incredible fact about my mother."
+    japanese: "昨日私は、私の母についての信じがたい事実を、私の父から知った。"
+    structure:
+      全体: "M S V M O M"
+    knowledge_tags:
+      - strc-008
+    notes: "Yesterdayは副詞。from my fatherは前置詞+名詞で動詞learnedを修飾する副詞句。about my motherは前置詞+名詞で名詞factを修飾する形容詞句（書き起こしMDでは副詞句と誤記されているがPDF原本p.10では形容詞句のカッコ）"
+
+  - id: haj-01-01-d3-04
+    drill: 3
+    number: 4
+    role: practice
+    english: "On my birthday, my parents bought me new furniture."
+    japanese: "私の誕生日に、私の両親は私に新しい家具を買ってくれた。"
+    structure:
+      全体: "M S V O1 O2"
+    knowledge_tags:
+      - strc-007
+      - strc-008
+    notes: "On my birthdayは前置詞+名詞で動詞boughtを修飾する副詞句。第4文型SVO1O2。buy O1O2=O1にO2を買ってあげる"
+
+  - id: haj-01-01-d3-05
+    drill: 3
+    number: 5
+    role: practice
+    english: "This movie made the actor famous around the world."
+    japanese: "この映画は、その俳優を世界中で有名にした。"
+    structure:
+      全体: "S V O C M"
+    knowledge_tags:
+      - strc-007
+      - strc-009
+    notes: "famousは名詞を修飾していない形容詞なのでC。SVOCでthe actor=famous。around the worldは前置詞+名詞で副詞句。make OC=OをCにする"
+
+  # ===== ドリル4 =====
+  - id: haj-01-01-d4-01
+    drill: 4
+    number: 1
+    role: practice
+    english: "Unfortunately, many problems exist in this country."
+    japanese: "残念ながら、この国には多くの問題が存在する。"
+    structure:
+      全体: "M S V M"
+    knowledge_tags:
+      - strc-008
+    notes: "Unfortunatelyは副詞で文全体を修飾。in this countryは前置詞+名詞で動詞existを修飾する副詞句。第1文型SV"
+
+  - id: haj-01-01-d4-02
+    drill: 4
+    number: 2
+    role: practice
+    english: "For many years, he has been president of our country."
+    japanese: "何年もの間、彼は私たちの国の大統領である。"
+    structure:
+      全体: "M S V C M"
+    knowledge_tags:
+      - strc-007
+      - strc-009
+    notes: "For many yearsは前置詞+名詞で動詞has beenを修飾する副詞句。presidentは名詞でC。of our countryは前置詞+名詞で名詞presidentを修飾する形容詞句。SVCでhe=president"
+
+  - id: haj-01-01-d4-03
+    drill: 4
+    number: 3
+    role: practice
+    english: "Last Saturday, Tom brought here a shiny stone."
+    japanese: "先週の土曜日、トムはここに輝いている石を持ってきた。"
+    structure:
+      全体: "M S V M O"
+    knowledge_tags:
+      - strc-008
+    notes: "Last Saturdayは副詞。hereは副詞で動詞broughtを修飾。第3文型SVO"
+
+  - id: haj-01-01-d4-04
+    drill: 4
+    number: 4
+    role: practice
+    english: "My father suddenly gave my sister a book about philosophy."
+    japanese: "私の父は、突然、私の姉[妹]に哲学についての本を与えた。"
+    structure:
+      全体: "S M V O1 O2 M"
+    knowledge_tags:
+      - strc-007
+      - strc-008
+    notes: "suddenlyは副詞で動詞gaveを修飾。about philosophyは前置詞+名詞で名詞bookを修飾する形容詞句。第4文型SVO1O2"
+
+  - id: haj-01-01-d4-05
+    drill: 4
+    number: 5
+    role: practice
+    english: "The message from the singer made people around the world happy."
+    japanese: "その歌手からのそのメッセージは、世界中の人々を幸せにした。"
+    structure:
+      全体: "S M V O M C"
+    knowledge_tags:
+      - strc-007
+      - strc-009
+    notes: "from the singerは前置詞+名詞で名詞messageを修飾する形容詞句。around the worldは前置詞+名詞で名詞peopleを修飾する形容詞句。happyは名詞を修飾していない形容詞なのでC。SVOCでpeople=happy"

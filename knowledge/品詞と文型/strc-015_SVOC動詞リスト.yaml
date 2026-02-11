@@ -1,0 +1,27 @@
+id: strc-015
+name: "SVOCをとれる動詞リスト（3グループ分類）"
+category: "品詞と文型/SVOC動詞"
+priority: P1
+prerequisites:
+  - strc-002
+  - strc-007
+  - strc-009
+  - strc-010
+understanding_goals:
+  - "SVOC動詞は数が限られていることを理解し、3グループに分類できる"
+  - "グループ1「OをCにする」: make/keep/call/choose/appoint/get/leave/name/electを言える"
+  - "グループ2「OはCだと思う」: find/think/consider/believeを言える"
+  - "グループ3「O as C（asは省略不可）」: regard/see/view/look upon/think of/describeを言え、全て「OはCだと見なす」系の意味であることを説明できる"
+  - "OとCの間にto beやasが入る動詞があることを知っている（choose/appoint/elect/find/think/consider/believe）"
+  - "グループ3のasは省略できないことを知っている"
+check_points:
+  - "「SVOC『OをCにする』グループの動詞を5つ以上言って」→ make/keep/call/choose/appoint/get/leave/name/elect のうち5つ以上答えられるか"
+  - "「SVOC『OはCだと思う』グループの動詞を全部言って」→ find/think/consider/believe の4つを答えられるか"
+  - "「regard O as Cのasは省略できる？」→「できない」と答えられるか"
+  - "「consider O CのOとCの間に入りうるものは？」→「to beまたはas」と答えられるか"
+  - "「look upon O as Cの意味は？」→「OはCだと見なす」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch01_06"
+    pages: "p.28"
+notes: "グループ3のas付き動詞は要注意。asの後にCが来ることを見抜けないと文型を見失う"

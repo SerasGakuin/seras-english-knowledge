@@ -1,0 +1,26 @@
+id: strc-013
+name: "SVCをとれる動詞リスト（4グループ分類）"
+category: "品詞と文型/SVC動詞"
+priority: P1
+prerequisites:
+  - strc-002
+  - strc-007
+  - strc-009
+understanding_goals:
+  - "SVC動詞は数が限られていることを理解し、4グループに分類できる"
+  - "グループ1「Cである」: be動詞を言える"
+  - "グループ2「Cに感じる（五感・印象）」: look/taste/seem/appear/sound/smell/feelを言える。Cが名詞の場合はV+like Cとなることを知っている"
+  - "グループ3「Cのままである（維持）」: keep/remain/stayを言える"
+  - "グループ4「Cになる（変化）」: prove/turn out/become/get/come/grow/turn/go/fallを言え、それぞれの意味のニュアンス（come=良い状態、go=悪い状態、grow=次第に、fall=急に、turn=主に色）を説明できる"
+  - "動詞によってVとCの間にto beが入る場合があること（seem/appear/prove/turn out）を知っている"
+check_points:
+  - "「SVCの『Cに感じる』グループの動詞を全部言って」→ look/taste/seem/appear/sound/smell/feel の7つを答えられるか"
+  - "「Cのままである、の動詞3つは？」→ keep/remain/stay と答えられるか"
+  - "「come CとgoC の違いは？」→「come=良い状態になる、go=悪い状態になる」と答えられるか"
+  - "「look Cで、Cが名詞のとき何が入る？」→「likeが入る。look like C」と答えられるか"
+  - "「fall Cの特徴は？」→「急にCになる。fall asleep=眠りにつく」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch01_04"
+    pages: "p.20"
+notes: "SVC動詞はVを見た時点でS=Cの関係を予想できるようになるのが目標。4グループの分類は意味理解に直結する"

@@ -1,0 +1,26 @@
+id: strc-012
+name: "複数の文型をとる動詞リスト（get/find/prove/remain/appear/stay）"
+category: "品詞と文型/5文型"
+priority: P1
+prerequisites:
+  - strc-002
+  - strc-007
+  - strc-009
+understanding_goals:
+  - "getの5用法（get=到着する / get C=Cになる / get O=Oを得る / get O1O2=O1にO2を手に入れる / get OC=OをCにする）を言える"
+  - "findの3用法（find O=Oを見つける / find O1O2=O1にO2を見つけてあげる / find OC=OはCだと思う・分かる）を言える"
+  - "proveの2用法（prove (to be) C=Cだと分かる / prove O=Oを証明する）を言える"
+  - "remainの2用法（remain=留まる・残る / remain C=Cのままである）を言える"
+  - "appearの2用法（appear=現れる / appear (to be) C=Cのようだ）を言える"
+  - "stayの2用法（stay=滞在する / stay C=Cのままである）を言える"
+check_points:
+  - "「getが第2文型のとき意味は？」→「Cになる」と答えられるか"
+  - "「find OCの意味は？」→「OはCだと思う・分かる」と答えられるか"
+  - "「proveがCをとるとき意味は？」→「Cだと分かる」と答えられるか"
+  - "「remain CとstayC の共通する意味は？」→「Cのままである」と答えられるか"
+  - "「appearのCをとるとき意味は？」→「Cのようだ」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch01_03"
+    pages: "p.16"
+notes: "prove/appearはto beが間に入ることがある。to beには下線や記号を付けない"

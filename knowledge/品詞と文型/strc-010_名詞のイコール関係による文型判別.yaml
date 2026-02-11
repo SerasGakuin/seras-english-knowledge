@@ -1,0 +1,21 @@
+id: strc-010
+name: "名詞のイコール関係による文型判別"
+category: "品詞と文型/5文型"
+priority: P1
+prerequisites:
+  - strc-009
+understanding_goals:
+  - "SV+名詞の場合、SとのイコールがあればC（SVC）、なければO（SVO）と判別できる"
+  - "SVO+名詞の場合、OとのイコールがあればC（SVOC）、なければO2（SVO1O2）と判別できる"
+  - "名詞はOにもCにもなれるため、品詞だけでは判別できず「イコール関係の成立可否」が必要であることを説明できる"
+check_points:
+  - "「SV+名詞で、S=名詞なら？」→「C。第2文型SVC」と答えられるか"
+  - "「SV+名詞で、S≠名詞なら？」→「O。第3文型SVO」と答えられるか"
+  - "「SVO+名詞で、O=名詞なら？」→「C。第5文型SVOC」と答えられるか"
+  - "「SVO+名詞で、O≠名詞なら？」→「O2。第4文型SVO1O2」と答えられるか"
+  - "「He made her a great actress.のa great actressはOかCか？」→「her=a great actressなのでC。SVOC」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch01_02"
+    pages: "p.12"
+notes: "形容詞ならC確定（strc-009）だが、名詞の場合はイコール関係で判断が必要。この2つのルールが文型判別の柱"

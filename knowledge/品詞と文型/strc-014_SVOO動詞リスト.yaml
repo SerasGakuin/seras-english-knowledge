@@ -1,0 +1,25 @@
+id: strc-014
+name: "SVO1O2をとれる動詞リスト（3グループ分類）"
+category: "品詞と文型/SVOO動詞"
+priority: P1
+prerequisites:
+  - strc-002
+  - strc-007
+understanding_goals:
+  - "SVO1O2動詞は数が限られていることを理解し、3グループに分類できる"
+  - "グループ1「O1にO2を与える」のタイプA（to言い換え）: give/tell/send/lend/show/teachを言える"
+  - "グループ1「O1にO2を与える」のタイプB（for言い換え）: buy/get/find/cook/choose/makeを言える"
+  - "タイプAはSVO2 to O1、タイプBはSVO2 for O1で言い換え可能であることを知っている"
+  - "グループ2「注意すべきもの」: do O1O2（利益/害を与える）、cause O1O2（損害をもたらす）、deny O1O2（権利を与えない）を言える"
+  - "グループ3「O1からO2を奪う」: take O1O2（O1はO2を必要とする）、cost O1O2（O1はO2を払う/失う）、spare/save O1O2（O1からO2を省く）を言える"
+check_points:
+  - "「give型（toで言い換え）の動詞を4つ以上言って」→ give/tell/send/lend/show/teach のうち4つ以上答えられるか"
+  - "「buy型（forで言い換え）の動詞を4つ以上言って」→ buy/get/find/cook/choose/make のうち4つ以上答えられるか"
+  - "「cost O1O2の意味は？」→「Sのために、O1はO2（金/犠牲）を払う・失う」と答えられるか"
+  - "「deny O1O2の意味は？」→「O1にO2（機会/権利）を与えない」と答えられるか"
+  - "「spare O1O2の意味は？」→「O1からO2（苦労/面倒）を省く」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch01_05"
+    pages: "p.24"
+notes: "グループ3の動詞は「与える」の逆で「奪う」系。cost/takeは主語が物・事になる無生物主語構文の典型"

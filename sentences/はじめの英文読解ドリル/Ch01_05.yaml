@@ -1,0 +1,190 @@
+source:
+  book: はじめの英文読解ドリル
+  section: Ch01_05
+  title: "SVO1O2をとれる動詞"
+  pages: "p.24-27"
+
+sentences:
+  # ===== ドリル1 =====
+  - id: haj-01-05-d1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "The lawyer gave him practical advice."
+    japanese: "その弁護士は、彼に実践的な助言を与えた。"
+    structure:
+      全体: "S V O1 O2"
+    knowledge_tags:
+      - strc-014
+    notes: "give O1O2=O1にO2を与える（タイプA）。giveはgive OCの形では使えない"
+
+  - id: haj-01-05-d1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "She chose me a new dress."
+    japanese: "彼女は私に、新しいドレスを選んでくれた。"
+    structure:
+      全体: "S V O1 O2"
+    knowledge_tags:
+      - strc-010
+      - strc-014
+    notes: "chooseはchoose OCでもchoose O1O2でも使えるので品詞判断が必要。me≠a new dressなのでO1O2。choose O1O2=O1にO2を選んであげる（タイプB）"
+
+  - id: haj-01-05-d1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "The government will deny him access to the information."
+    japanese: "政府は彼に、その情報を得る権利を与えないだろう。"
+    structure:
+      全体: "S V O1 O2 M"
+    knowledge_tags:
+      - strc-014
+    notes: "deny O1O2=O1にO2(機会/権利)を与えない（注意すべきもの）。to the informationは前置詞+名詞で名詞accessを修飾する形容詞句"
+
+  - id: haj-01-05-d1-04
+    drill: 1
+    number: 4
+    role: practice
+    english: "This assignment will take you a few hours."
+    japanese: "この課題のために、あなたは数時間を必要とするだろう。"
+    structure:
+      全体: "S V O1 O2"
+    knowledge_tags:
+      - strc-014
+    notes: "take O1O2=Sのせいで、O1はO2(時間/労力)を必要とする（O1からO2を奪う系）"
+
+  - id: haj-01-05-d1-05
+    drill: 1
+    number: 5
+    role: practice
+    english: "Machines have saved humans a lot of trouble."
+    japanese: "機械は、人間から多くの面倒を省いてきた。"
+    structure:
+      全体: "S V O1 O2"
+    knowledge_tags:
+      - strc-014
+    notes: "save O1O2=O1からO2(苦労/面倒)を省く（O1からO2を奪う系）"
+
+  # ===== ドリル3 =====
+  - id: haj-01-05-d3-01
+    drill: 3
+    number: 1
+    role: practice
+    english: "We will give the developing country financial aid."
+    japanese: "私たちは、その発展途上国に、経済的支援を与えるつもりだ。"
+    structure:
+      全体: "S V O1 O2"
+    knowledge_tags:
+      - strc-014
+    notes: "give O1O2=O1にO2を与える（タイプA）"
+
+  - id: haj-01-05-d3-02
+    drill: 3
+    number: 2
+    role: practice
+    english: "Food with a lot of salt will do you harm."
+    japanese: "たくさんの塩を含む食べ物は、あなたに害を与えるだろう。"
+    structure:
+      全体: "S M V O1 O2"
+    knowledge_tags:
+      - strc-014
+    notes: "with a lot of saltは前置詞+名詞で名詞Foodを修飾する形容詞句。do O1O2=O1にO2(利益/害)を与える（注意すべきもの）"
+
+  - id: haj-01-05-d3-03
+    drill: 3
+    number: 3
+    role: practice
+    english: "This project will take us about three years."
+    japanese: "このプロジェクトのために、私たちは約3年を要するだろう。"
+    structure:
+      全体: "S V O1 O2"
+    knowledge_tags:
+      - strc-014
+    notes: "take O1O2=Sのせいで、O1はO2(時間)を必要とする（O1からO2を奪う系）"
+
+  - id: haj-01-05-d3-04
+    drill: 3
+    number: 4
+    role: practice
+    english: "This website spares you the trouble of visiting our store."
+    japanese: "このウェブサイトは、あなたから、私たちの店を訪れる面倒を省いてくれる。"
+    structure:
+      全体: "S V O1 O2 M"
+    knowledge_tags:
+      - strc-014
+    notes: "spare O1O2=O1からO2(面倒)を省く（O1からO2を奪う系）。of visiting our storeは前置詞+名詞で名詞troubleを修飾する形容詞句"
+
+  - id: haj-01-05-d3-05
+    drill: 3
+    number: 5
+    role: practice
+    english: "They denied me access to the building."
+    japanese: "彼らは、私に、その建物に入る権利を与えなかった。"
+    structure:
+      全体: "S V O1 O2 M"
+    knowledge_tags:
+      - strc-014
+    notes: "deny O1O2=O1にO2(権利)を与えない（注意すべきもの）。to the buildingは前置詞+名詞で名詞accessを修飾する形容詞句"
+
+  # ===== ドリル4 =====
+  - id: haj-01-05-d4-01
+    drill: 4
+    number: 1
+    role: practice
+    english: "The police didn't give us any details of the murder case."
+    japanese: "警察は私たちに、その殺人事件についての詳細を少しも与えなかった。"
+    structure:
+      全体: "S V O1 O2 M"
+    knowledge_tags:
+      - strc-014
+    notes: "give O1O2=O1にO2を与える（タイプA）。of the murder caseは前置詞+名詞で名詞detailsを修飾する形容詞句"
+
+  - id: haj-01-05-d4-02
+    drill: 4
+    number: 2
+    role: practice
+    english: "A false rumor caused people unnecessary worry."
+    japanese: "誤った[うその]うわさは、人々に不必要な心配をもたらした。"
+    structure:
+      全体: "S V O1 O2"
+    knowledge_tags:
+      - strc-014
+    notes: "cause O1O2=O1にO2(損害/原因)をもたらす（注意すべきもの）"
+
+  - id: haj-01-05-d4-03
+    drill: 4
+    number: 3
+    role: practice
+    english: "The big scandal cost the actor everything."
+    japanese: "その大スキャンダルによって、その俳優はすべてを失った。"
+    structure:
+      全体: "S V O1 O2"
+    knowledge_tags:
+      - strc-014
+    notes: "cost O1O2=Sのために、O1はO2(金/犠牲)を払う・失う（O1からO2を奪う系）"
+
+  - id: haj-01-05-d4-04
+    drill: 4
+    number: 4
+    role: practice
+    english: "This application saves you the trouble of searching for an excellent restaurant."
+    japanese: "このアプリは、あなたから、素晴らしいレストランを探す面倒を省いてくれる。"
+    structure:
+      全体: "S V O1 O2 M"
+    knowledge_tags:
+      - strc-014
+    notes: "save O1O2=O1からO2(面倒)を省く（O1からO2を奪う系）。of searching for an excellent restaurantは前置詞+名詞で名詞troubleを修飾する形容詞句"
+
+  - id: haj-01-05-d4-05
+    drill: 4
+    number: 5
+    role: practice
+    english: "In those days, the government denied African Americans the right to vote."
+    japanese: "当時、政府は、アフリカ系アメリカ人に、投票する権利を与えなかった。"
+    structure:
+      全体: "M S V O1 O2 M"
+    knowledge_tags:
+      - strc-014
+    notes: "In those daysは前置詞+名詞で副詞句。deny O1O2=O1にO2(権利)を与えない（注意すべきもの）。to voteは名詞rightを修飾する形容詞句"

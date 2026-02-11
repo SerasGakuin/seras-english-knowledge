@@ -1,0 +1,82 @@
+book: はじめの英文読解ドリル
+sections:
+  - id: Ch01_00
+    title: "「品詞と文型」を始める前に"
+    pages: "p.6-7"
+    type: introduction
+    knowledge_nodes:
+      - strc-001
+      - strc-002
+      - strc-003
+      - strc-004
+      - strc-005
+      - strc-006
+
+  - id: Ch01_01
+    title: "5文型と「M」"
+    pages: "p.8-11"
+    type: drill
+    knowledge_nodes:
+      - strc-007
+      - strc-008
+      - strc-009
+    prerequisites:
+      - Ch01_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch01_01.yaml
+
+  - id: Ch01_02
+    title: "文型の判別＆複数の文型をとる動詞①"
+    pages: "p.12-15"
+    type: drill
+    knowledge_nodes:
+      - strc-010
+      - strc-011
+    prerequisites:
+      - Ch01_00
+      - Ch01_01
+    sentence_file: sentences/はじめの英文読解ドリル/Ch01_02.yaml
+
+  - id: Ch01_03
+    title: "文型の判別＆複数の文型をとる動詞②"
+    pages: "p.16-19"
+    type: drill
+    knowledge_nodes:
+      - strc-012
+    prerequisites:
+      - Ch01_00
+      - Ch01_01
+    sentence_file: sentences/はじめの英文読解ドリル/Ch01_03.yaml
+
+  - id: Ch01_04
+    title: "SVCをとれる動詞"
+    pages: "p.20-23"
+    type: drill
+    knowledge_nodes:
+      - strc-013
+    prerequisites:
+      - Ch01_00
+      - Ch01_01
+    sentence_file: sentences/はじめの英文読解ドリル/Ch01_04.yaml
+
+  - id: Ch01_05
+    title: "SVO1O2をとれる動詞"
+    pages: "p.24-27"
+    type: drill
+    knowledge_nodes:
+      - strc-014
+    prerequisites:
+      - Ch01_00
+      - Ch01_01
+    sentence_file: sentences/はじめの英文読解ドリル/Ch01_05.yaml
+
+  - id: Ch01_06
+    title: "SVOCをとれる動詞"
+    pages: "p.28-31"
+    type: drill
+    knowledge_nodes:
+      - strc-015
+    prerequisites:
+      - Ch01_00
+      - Ch01_01
+      - Ch01_02
+    sentence_file: sentences/はじめの英文読解ドリル/Ch01_06.yaml
