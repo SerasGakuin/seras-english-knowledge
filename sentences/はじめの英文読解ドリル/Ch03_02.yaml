@@ -1,0 +1,204 @@
+source:
+  book: はじめの英文読解ドリル
+  section: Ch03_02
+  title: "名詞節①　疑問代名詞・関係代名詞"
+  pages: "p.72-75"
+
+sentences:
+  # ===== ドリル1 =====
+  - id: haj-03-02-d1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "I don't know [which you should buy]."
+    japanese: "私は，あなたがどちら[どれ]を買うべきかが分からない。"
+    structure:
+      全体: "S V O"
+      内部: "Ⓞ Ⓢ Ⓥ"
+    knowledge_tags:
+      - clau-005
+    notes: "which節がO。whichは内部でbuyのⓄ（目的語）。疑問代名詞whichの用法"
+
+  - id: haj-03-02-d1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "The problem is [who will attend the meeting]."
+    japanese: "問題は，誰がその会議に出席するかである。"
+    structure:
+      全体: "S V C"
+      内部: "Ⓢ Ⓥ Ⓞ"
+    knowledge_tags:
+      - clau-005
+    notes: "who節がC。whoは内部でwill attendのⓈ（主語）。疑問代名詞whoの用法"
+
+  - id: haj-03-02-d1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "[What he wrote about <in the article>] is interesting."
+    japanese: "[彼がその記事の中で書いたこと]は，興味深い。"
+    structure:
+      全体: "S V C"
+      内部: "前のⓄ Ⓢ Ⓥ Ⓜ"
+    knowledge_tags:
+      - clau-005
+    notes: "what節がS。whatは内部でaboutの目的語（前置詞のⓄ）。関係代名詞whatの用法（...こと）"
+
+  - id: haj-03-02-d1-04
+    drill: 1
+    number: 4
+    role: practice
+    english: "I am interested <in [who he is]>."
+    japanese: "私は，[彼が誰であるか]に興味がある。"
+    structure:
+      全体: "S V C M"
+      内部: "Ⓒ Ⓢ Ⓥ"
+    knowledge_tags:
+      - clau-005
+    notes: "who節がinの前置詞のO。whoは内部でisのⓒ（補語）。疑問代名詞whoの用法"
+
+  - id: haj-03-02-d1-05
+    drill: 1
+    number: 5
+    role: practice
+    english: "I don't remember [what he said]."
+    japanese: "私は，[彼が何を言ったか / 彼が言ったこと]を覚えていない。"
+    structure:
+      全体: "S V O"
+      内部: "Ⓞ Ⓢ Ⓥ"
+    knowledge_tags:
+      - clau-005
+    notes: "what節がO。whatは内部でsaidのⓄ（目的語）。疑問代名詞/関係代名詞どちらの訳も可能"
+
+  # ===== ドリル3 =====
+  - id: haj-03-02-d3-01
+    drill: 3
+    number: 1
+    role: practice
+    english: "You should ask your boss [which should be done <first>]."
+    japanese: "あなたは，[どちら[どれ]が初めになされるべきか]を，あなたの上司に尋ねるべきだ。"
+    structure:
+      全体: "S V O1 O2"
+      内部: "Ⓢ Ⓥ Ⓜ"
+    knowledge_tags:
+      - clau-005
+    notes: "which節がO2。whichは内部でⓈ（should be doneの主語）。疑問代名詞which"
+
+  - id: haj-03-02-d3-02
+    drill: 3
+    number: 2
+    role: practice
+    english: "[What seems easy <at first>] <sometimes> turns out to be difficult."
+    japanese: "[最初は簡単に思われること]が，難しいと分かることが時々ある。"
+    structure:
+      全体: "S M V C"
+      内部: "Ⓢ Ⓥ Ⓒ Ⓜ"
+    knowledge_tags:
+      - clau-005
+    notes: "what節がS。whatは内部でⓈ（seemsの主語）。関係代名詞whatの用法（...こと）"
+
+  - id: haj-03-02-d3-03
+    drill: 3
+    number: 3
+    role: practice
+    english: "The question is [who will replace him <as president (of the company)>]."
+    japanese: "問題は，[誰がその会社の社長として彼の代わりになるか]である。"
+    structure:
+      全体: "S V C"
+      内部: "Ⓢ Ⓥ Ⓞ Ⓜ"
+    knowledge_tags:
+      - clau-005
+    notes: "who節がC。whoは内部でⓈ（will replaceの主語）。疑問代名詞who"
+
+  - id: haj-03-02-d3-04
+    drill: 3
+    number: 4
+    role: practice
+    english: "You must not confess the truth <to anyone> <regardless of [who he is]>."
+    japanese: "[彼[その人]が誰であるか]にかかわらず，誰にも真実を告白してはいけない。"
+    structure:
+      全体: "S V O M M"
+      内部: "Ⓒ Ⓢ Ⓥ"
+    knowledge_tags:
+      - clau-005
+    notes: "who節がregardless ofの前置詞のO。whoは内部でisのⓒ（補語）。疑問代名詞who"
+
+  - id: haj-03-02-d3-05
+    drill: 3
+    number: 5
+    role: practice
+    english: "[What people worry about] varies <from person to person>."
+    japanese: "[人が心配していること[人が何を心配しているか]]は，人によってさまざまだ。"
+    structure:
+      全体: "S V M"
+      内部: "前のⓄ Ⓢ Ⓥ"
+    knowledge_tags:
+      - clau-005
+    notes: "what節がS。whatは内部でworry aboutの前置詞のⓄ。疑問代名詞/関係代名詞どちらの訳も可能"
+
+  # ===== ドリル4 =====
+  - id: haj-03-02-d4-01
+    drill: 4
+    number: 1
+    role: practice
+    english: "This article tells you [which is more valuable <to us>, knowledge or experience]."
+    japanese: "この記事はあなたに，[知識か経験のどちらが私たちにとってより価値があるか]を教えてくれる。"
+    structure:
+      全体: "S V O1 O2"
+      内部: "Ⓢ Ⓥ Ⓒ Ⓜ"
+    knowledge_tags:
+      - clau-005
+    notes: "which節がO2。whichは内部でⓈ（isの主語）。knowledge or experienceがwhichの内容を示す"
+
+  - id: haj-03-02-d4-02
+    drill: 4
+    number: 2
+    role: practice
+    english: "[What he had believed true] turned out to be false."
+    japanese: "[彼が本当だと信じていたこと]は，間違いだと分かった。"
+    structure:
+      全体: "S V C"
+      内部: "Ⓞ Ⓢ Ⓥ Ⓒ"
+    knowledge_tags:
+      - clau-005
+    notes: "what節がS。whatは内部でhad believedのⓄ（目的語）、trueはⓒ（SVOC構造）。関係代名詞what"
+
+  - id: haj-03-02-d4-03
+    drill: 4
+    number: 3
+    role: practice
+    english: "The topic (for discussion) is [who is suitable <for the job>]."
+    japanese: "議論のトピックは，[誰がその仕事に適しているか]である。"
+    structure:
+      全体: "S M V C"
+      内部: "Ⓢ Ⓥ Ⓒ Ⓜ"
+    knowledge_tags:
+      - clau-005
+    notes: "who節がC。whoは内部でⓈ（isの主語）。for discussionは形容詞句でtopicを修飾"
+
+  - id: haj-03-02-d4-04
+    drill: 4
+    number: 4
+    role: practice
+    english: "We need to determine [what the problem is]."
+    japanese: "私たちは，[問題が何であるか]を特定する必要がある。"
+    structure:
+      全体: "S V O"
+      内部: "Ⓒ Ⓢ Ⓥ"
+    knowledge_tags:
+      - clau-005
+    notes: "what節がO。whatは内部でisのⓒ（補語）。疑問代名詞what。間接疑問で語順がS+Vになる"
+
+  - id: haj-03-02-d4-05
+    drill: 4
+    number: 5
+    role: practice
+    english: "[What the president talked about <at the meeting>] was difficult."
+    japanese: "[社長がその会議で話したこと]は，難しかった。"
+    structure:
+      全体: "S V C"
+      内部: "前のⓄ Ⓢ Ⓥ Ⓜ"
+    knowledge_tags:
+      - clau-005
+    notes: "what節がS。whatは内部でtalked aboutの前置詞のⓄ。関係代名詞what（...こと）"

@@ -1,0 +1,24 @@
+id: clau-005
+name: "名詞節（疑問代名詞・関係代名詞what）"
+category: "句と節/名詞節"
+priority: P1
+prerequisites:
+  - strc-001
+  - clau-001
+  - clau-002
+  - clau-003
+understanding_goals:
+  - "which/who（疑問代名詞）やwhat（疑問代名詞・関係代名詞）が名詞節を作り、S・O・C・前置詞のOになることを説明できる"
+  - "which/who/whatがカタマリ内部で自分自身が名詞（S・O・C・前置詞のO）の役割を担うことを説明できる"
+  - "whatの疑問代名詞用法（何...か）と関係代名詞用法（...こと/もの）を訳で区別できる"
+  - "which/whoには関係代名詞用法がなく疑問代名詞のみであることを言える"
+check_points:
+  - "「名詞節を作る疑問代名詞を3つ挙げて」→「which, who, what」と答えられるか"
+  - "「What he saidのwhatは内部で何の役割？」→「saidのO（目的語）」と答えられるか"
+  - "「what節を『...こと/もの』と訳したらwhatは何？」→「関係代名詞」と答えられるか"
+  - "「who/whichは関係代名詞として名詞節を作れる？」→「作れない（疑問代名詞のみ）」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch03_02"
+    pages: "p.72"
+notes: "whatの二面性（疑問代名詞/関係代名詞）が最重要ポイント。内部構造の分析は句・節全般の基本スキル"
