@@ -1,0 +1,20 @@
+book: はじめの英文読解ドリル
+sections:
+  - id: Ch01_00
+    title: "「品詞と文型」を始める前に"
+    pages: "p.6-7"
+    type: introduction
+    knowledge_nodes:
+      - strc-001
+
+  - id: Ch01_01
+    title: "5文型と「M」"
+    pages: "p.8-11"
+    type: drill
+    knowledge_nodes:
+      - strc-007
+      - strc-008
+      - strc-009
+    prerequisites:
+      - Ch01_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch01_01.yaml

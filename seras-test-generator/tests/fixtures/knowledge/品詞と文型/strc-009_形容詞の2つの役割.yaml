@@ -1,0 +1,21 @@
+id: strc-009
+name: "形容詞の2つの役割と文型判別への応用"
+category: "品詞と文型/基本概念"
+priority: P1
+prerequisites:
+  - strc-001
+understanding_goals:
+  - "形容詞には「名詞を修飾する」と「Cになる」の2つの役割しかないことを言える"
+  - "名詞を修飾していない形容詞は自動的にCであることを即答できる"
+check_points:
+  - question: "名詞を修飾していない形容詞は何？"
+    answer: "自動的にC"
+  - question: "a beautiful ladyのbeautifulの役割は？"
+    answer: "名詞ladyを修飾。セットで1つの名詞"
+  - question: "SVO+形容詞の文型は？"
+    answer: "SVOC。O=形容詞のイコール関係が成立"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch01_01"
+    pages: "p.8"
+notes: ""

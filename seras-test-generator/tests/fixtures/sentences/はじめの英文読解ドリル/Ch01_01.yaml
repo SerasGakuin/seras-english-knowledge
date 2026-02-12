@@ -1,0 +1,69 @@
+source:
+  book: はじめの英文読解ドリル
+  section: Ch01_01
+  title: "5文型と「M」"
+  pages: "p.8-11"
+
+sentences:
+  - id: haj-01-01-d1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "The old woman lives quietly in the countryside."
+    japanese: "その高齢の女性は、静かに田舎で暮らしている。"
+    structure:
+      全体: "S V M M"
+    knowledge_tags:
+      - strc-008
+    notes: "oldは形容詞で名詞womanを修飾"
+
+  - id: haj-01-01-d1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "The students in the classroom are very noisy."
+    japanese: "その教室にいる生徒たちは、とてもうるさい。"
+    structure:
+      全体: "S M V C"
+    knowledge_tags:
+      - strc-008
+      - strc-009
+    notes: "in the classroomは前置詞+名詞で名詞studentsを修飾する形容詞句"
+
+  - id: haj-01-01-d1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "Surprisingly, the rich man took to the party his tiger."
+    japanese: "驚くべきことに、その金持ちの男は、そのパーティーに彼のトラを連れていった。"
+    structure:
+      全体: "M S V M O"
+    knowledge_tags:
+      - strc-008
+    notes: "Surprisinglyは副詞で文全体を修飾"
+
+  - id: haj-01-01-d3-04
+    drill: 3
+    number: 4
+    role: practice
+    english: "On my birthday, my parents bought me new furniture."
+    japanese: "私の誕生日に、私の両親は私に新しい家具を買ってくれた。"
+    structure:
+      全体: "M S V O1 O2"
+    knowledge_tags:
+      - strc-007
+      - strc-008
+    notes: "On my birthdayは前置詞+名詞で動詞boughtを修飾する副詞句"
+
+  - id: haj-01-01-d3-05
+    drill: 3
+    number: 5
+    role: practice
+    english: "This movie made the actor famous around the world."
+    japanese: "この映画は、その俳優を世界中で有名にした。"
+    structure:
+      全体: "S V O C M"
+    knowledge_tags:
+      - strc-007
+      - strc-009
+    notes: "famousは名詞を修飾していない形容詞なのでC"

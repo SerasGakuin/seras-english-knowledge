@@ -1,0 +1,15 @@
+id: strc-002
+name: "5文型の定義"
+category: "品詞と文型/基本概念"
+priority: P1
+prerequisites: []
+understanding_goals:
+  - "5つの文型を定義として言える"
+check_points:
+  - question: "5文型を全部言って"
+    answer: "SV, SVC, SVO, SVO1O2, SVOC"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch01_00"
+    pages: "p.6"
+notes: ""

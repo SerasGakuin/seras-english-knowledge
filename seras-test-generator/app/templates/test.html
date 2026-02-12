@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>確認テスト</title>
+</head>
+<body>
+  <header>
+    <h1>確認テスト</h1>
+    <div class="meta">
+      <span class="range">範囲: {{ data.sections_label }}</span>
+      <span class="date">日付: {{ data.generated_at[:10] }}</span>
+      <span class="name-field">名前: _______________</span>
+    </div>
+  </header>
+
+  {% if data.warmup_questions %}
+  <section class="warmup-section">
+    <h2>ウォームアップ（前提知識の復習）</h2>
+    {% for q in data.warmup_questions %}
+    <div class="question-compact">
+      <p class="q-inline"><span class="q-num">({{ q.number }})</span> {{ q.question }}</p>
+      <div class="answer-line-single"></div>
+    </div>
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  {% for ns in data.node_sections %}
+  <section class="node-section">
+    <div class="node-section-header">
+      <h2>セクション {{ ns.section_number }}: {{ ns.node_name }} [{{ ns.node_id }}]</h2>
+    </div>
+
+    {% if ns.knowledge_questions %}
+    {% for q in ns.knowledge_questions %}
+    <div class="question-compact">
+      <p class="q-inline"><span class="q-num">({{ q.number }})</span> {{ q.question }}</p>
+      <div class="answer-line-single"></div>
+    </div>
+    {% endfor %}
+    {% endif %}
+
+    {% if ns.sentence_questions %}
+    {% for q in ns.sentence_questions %}
+    <div class="question">
+      <p class="q-inline"><span class="q-num">({{ q.number }})</span> <span class="q-english-inline">{{ q.english }}</span></p>
+      {% if q.focus_points %}
+      <p class="focus-points">着眼点: {{ q.focus_points | join(' / ') }}</p>
+      {% endif %}
+      <div class="answer-fields">
+        <p>構造: <span class="underline"></span></p>
+        <p>和訳: <span class="underline"></span></p>
+        <p class="extra-line"><span class="underline"></span></p>
+      </div>
+    </div>
+    {% endfor %}
+    {% endif %}
+  </section>
+  {% endfor %}
+</body>
+</html>

@@ -1,0 +1,210 @@
+@page {
+  size: A4;
+  margin: 12mm 18mm;
+}
+
+body {
+  font-family: "Noto Sans CJK JP", "Hiragino Sans", sans-serif;
+  font-size: 9pt;
+  line-height: 1.4;
+  color: #333;
+}
+
+header {
+  border-bottom: 2px solid #333;
+  padding-bottom: 6px;
+  margin-bottom: 12px;
+}
+
+header h1 {
+  font-size: 14pt;
+  margin: 0 0 4px 0;
+}
+
+.meta {
+  display: flex;
+  justify-content: space-between;
+  font-size: 8pt;
+}
+
+.name-field {
+  min-width: 180px;
+}
+
+h2 {
+  font-size: 10pt;
+  border-left: 4px solid #333;
+  padding-left: 6px;
+  margin: 10px 0 6px 0;
+}
+
+.sub-heading {
+  font-size: 8pt;
+  font-weight: bold;
+  color: #555;
+  margin: 4px 0 4px 4px;
+}
+
+.instruction {
+  font-size: 8pt;
+  color: #555;
+  margin-bottom: 8px;
+}
+
+.question {
+  margin-bottom: 8px;
+  page-break-inside: avoid;
+}
+
+.question-compact {
+  margin-bottom: 4px;
+  page-break-inside: avoid;
+}
+
+.q-number {
+  font-weight: bold;
+  margin: 0;
+  font-size: 9pt;
+}
+
+.q-inline {
+  margin: 0;
+}
+
+.q-num {
+  font-weight: bold;
+}
+
+.q-text, .q-english {
+  margin: 2px 0 4px 18px;
+}
+
+.q-english {
+  font-family: "Times New Roman", "Noto Serif", serif;
+  font-size: 10pt;
+}
+
+.q-english-inline {
+  font-family: "Times New Roman", "Noto Serif", serif;
+  font-size: 10pt;
+}
+
+.answer-line-single {
+  margin-left: 18px;
+  border-bottom: 1px solid #999;
+  height: 18px;
+  margin-bottom: 2px;
+}
+
+.answer-lines {
+  margin-left: 18px;
+}
+
+.answer-lines .line {
+  border-bottom: 1px solid #999;
+  height: 18px;
+  margin-bottom: 2px;
+}
+
+.answer-fields {
+  margin-left: 18px;
+}
+
+.answer-fields p {
+  margin: 2px 0;
+}
+
+.underline {
+  display: inline-block;
+  width: 80%;
+  border-bottom: 1px solid #999;
+  min-height: 16px;
+}
+
+.extra-line {
+  margin-left: 32px;
+}
+
+/* Answer sheet styles */
+.answer-item {
+  margin-bottom: 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px dotted #ccc;
+  page-break-inside: avoid;
+}
+
+.answer-text {
+  margin: 2px 0 2px 18px;
+  font-weight: bold;
+}
+
+.source {
+  font-size: 7pt;
+  color: #666;
+  margin: 1px 0 1px 18px;
+}
+
+.reference {
+  font-size: 7pt;
+  color: #888;
+  margin: 0 0 0 18px;
+}
+
+.notes {
+  font-size: 8pt;
+  color: #555;
+  margin: 2px 0 2px 18px;
+  font-style: italic;
+}
+
+/* Warmup section */
+.warmup-section {
+  margin-bottom: 8px;
+}
+
+/* Node section */
+.node-section {
+  border-top: 1.5pt solid #999;
+  padding-top: 4px;
+  margin-top: 8px;
+}
+
+.node-section-header h2 {
+  font-size: 9pt;
+  margin: 0 0 4px 0;
+}
+
+/* Focus points */
+.focus-points {
+  font-size: 7pt;
+  color: #666;
+  margin: 0 0 4px 18px;
+}
+
+/* Review guide */
+.review-guide {
+  margin: 6px 0 4px 18px;
+  padding: 4px 6px;
+  background-color: #f9f9f9;
+  border-left: 2px solid #ccc;
+}
+
+.review-guide-title {
+  font-size: 8pt;
+  font-weight: bold;
+  margin: 0 0 2px 0;
+}
+
+.review-guide-item {
+  font-size: 7pt;
+  color: #555;
+  margin: 1px 0;
+}
+
+/* Warmup note */
+.warmup-note {
+  font-size: 7pt;
+  color: #888;
+  margin: 1px 0 1px 18px;
+  font-style: italic;
+}
