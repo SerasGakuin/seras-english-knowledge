@@ -20,7 +20,8 @@ seras-english-knowledge/
 ├── manifest.yaml        # 作業進捗管理
 ├── scripts/
 │   └── validate.py      # バリデーション（10種チェック）
-├── seras-test-generator/ # 確認テスト生成API（FastAPI + WeasyPrint）
+├── seras-test-generator/ # 確認テスト生成API（→ デプロイ情報は ROADMAP.md 参照）
+├── Dockerfile           # Cloud Run デプロイ用（リポジトリルート）
 ├── reference/           # 他参考書の書き起こし（参照用）
 └── docs/                # ドキュメント
     ├── ROADMAP.md       # ロードマップ（今どこにいるか）
@@ -31,7 +32,7 @@ seras-english-knowledge/
 
 ## 現在のフェーズ
 
-> Phase B（知識ノード品質改善）完了。Phase C（確認テスト生成API）進行中（改善適用完了、デプロイ待ち）。
+> Phase C（確認テスト生成API）完了。GCP Cloud Run にデプロイ済み。次は GAS統合 → 実運用開始。
 > 詳細は [ROADMAP.md](docs/ROADMAP.md) を参照。
 
 ## 作業別ガイド：何を読むべきか

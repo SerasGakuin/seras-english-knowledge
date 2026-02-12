@@ -9,8 +9,8 @@
 ```
 GAS（既存の確認テスト生成スクリプト）
     ↓ POST /generate-test  { "sections": "1-1~1-5" }
-Railway（FastAPI + WeasyPrint）
-    ↓ 問題選定 → HTML → PDF → Drive アップロード
+Cloud Run（FastAPI + WeasyPrint）
+    ↓ 問題選定 → HTML → PDF → GCS アップロード
     ↓ { "pdf_url": "...", "answer_pdf_url": "..." }
 GAS
     ↓ 生成されたリンクを講師に返す
@@ -29,8 +29,8 @@ GAS
 | Webフレームワーク | **FastAPI** | API エンドポイント |
 | テンプレートエンジン | **Jinja2** | HTML テンプレート生成 |
 | PDF 変換 | **WeasyPrint** | HTML → PDF |
-| ファイルストレージ | **Google Drive API** | PDF アップロード・共有リンク生成 |
-| デプロイ | **Railway** | Docker ベースのホスティング |
+| ファイルストレージ | **Google Cloud Storage** | PDF アップロード・公開URL生成 |
+| デプロイ | **GCP Cloud Run** | Docker ベースのサーバーレスホスティング |
 | データソース | **YAML ファイル（リポジトリ同梱）** | 知識ノード・英文・マッピング |
 
 ---
@@ -505,12 +505,14 @@ class TestData:
 - 出力: 問題PDF bytes, 解答PDF bytes
 - Jinja2 で HTML レンダリング → WeasyPrint で PDF 変換
 
-#### `drive_uploader.py`
+#### `gcs_uploader.py`
 - 入力: PDF bytes, ファイル名
-- 出力: Google Drive の共有リンク URL
-- サービスアカウント認証
-- 指定フォルダにアップロード
-- 共有リンク（リンクを知っている人が閲覧可能）を生成
+- 出力: GCS の公開 URL（`https://storage.googleapis.com/seras-test-pdfs/...`）
+- Cloud Run のデフォルト認証（サービスアカウント不要）
+- 公開バケットにアップロード
+
+#### `drive_uploader.py`（非使用・将来のWorkspace対応用に残置）
+- Google Drive API によるアップロード（個人Gmailではストレージ容量制限により使用不可）
 
 ---
 
@@ -548,58 +550,100 @@ check_points は dict形式で記述される（旧文字列形式は Phase B �
 
 ## 9. デプロイ
 
-### 9.1 Dockerfile
+### 9.1 本番環境
+
+| 項目 | 値 |
+|------|-----|
+| プラットフォーム | GCP Cloud Run |
+| GCPプロジェクト | `seras-test-generator` |
+| リージョン | asia-northeast1（東京） |
+| API URL | `https://seras-test-generator-hif2eccama-an.a.run.app` |
+| APIドキュメント | `https://seras-test-generator-hif2eccama-an.a.run.app/docs` |
+| PDF保存先 | GCS `gs://seras-test-pdfs`（公開バケット） |
+| メモリ | 1GiB |
+| タイムアウト | 120秒 |
+
+### 9.2 Dockerfile（リポジトリルート）
 
 ```dockerfile
-FROM python:3.12-slim
+FROM python:3.14-slim
 
-# WeasyPrint の依存ライブラリ
-RUN apt-get update && apt-get install -y \
-    libpango-1.0-0 \
-    libpangocairo-1.0-0 \
-    libgdk-pixbuf2.0-0 \
-    libffi-dev \
-    libcairo2 \
-    fonts-noto-cjk \
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libpango-1.0-0 libpangocairo-1.0-0 libgdk-pixbuf-2.0-0 \
+    libffi-dev libcairo2 fonts-noto-cjk \
     && rm -rf /var/lib/apt/lists/*
 
+COPY --from=ghcr.io/astral-sh/uv:latest /uv /usr/local/bin/uv
+
 WORKDIR /app
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+COPY seras-test-generator/pyproject.toml seras-test-generator/uv.lock ./
+RUN uv sync --frozen --no-dev
 
-COPY . .
+COPY seras-test-generator/app/ app/
+COPY knowledge/ data/knowledge/
+COPY sentences/ data/sentences/
+COPY mappings/ data/mappings/
 
-CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8080"]
+ENV DATA_DIR=/app/data
+
+CMD ["sh", "-c", "uv run uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8080}"]
 ```
 
-**重要**: `fonts-noto-cjk` で日本語フォント（Noto Sans CJK）をインストール。
+**ポイント**:
+- Dockerfile は**リポジトリルート**に配置（`seras-test-generator/` 内ではない）
+- アプリコードとデータ（knowledge/sentences/mappings）を1イメージに同梱
+- `DATA_DIR=/app/data` でデータ参照先を指定
+- `PORT` は Cloud Run が自動設定
+- `fonts-noto-cjk` で日本語フォント（Noto Sans CJK）をインストール
+- パッケージ名は `libgdk-pixbuf-2.0-0`（Debian Trixie対応。旧名 `libgdk-pixbuf2.0-0` は廃止）
 
-### 9.2 requirements.txt
+### 9.3 環境変数（Cloud Run）
+
+| 変数 | 用途 | 設定方法 |
+|------|------|---------|
+| `GCS_BUCKET_NAME` | PDFアップロード先バケット名 | `seras-test-pdfs` |
+| `DATA_DIR` | データディレクトリパス | Dockerfile内で `/app/data` に設定済み |
+| `PORT` | リッスンポート | Cloud Run が自動設定 |
+
+### 9.4 デプロイ手順
+
+```bash
+# リポジトリルートから実行
+gcloud run deploy seras-test-generator \
+  --source . \
+  --region asia-northeast1 \
+  --allow-unauthenticated \
+  --memory 1Gi \
+  --timeout 120 \
+  --set-env-vars "GCS_BUCKET_NAME=seras-test-pdfs" \
+  --project seras-test-generator
+```
+
+`--source .` でリポジトリルートのDockerfileを使い、Cloud Build → Cloud Run まで一発でデプロイされる。
+
+### 9.5 データの同期
+
+knowledge/sentences/mappings のデータは **Dockerイメージに同梱** する方式を採用。
+
+- リポジトリルートの Dockerfile が `COPY knowledge/ data/knowledge/` 等でデータを含める
+- コードとデータが同一リポジトリ・同一コミットなので常に同期
+- データ変更時は再デプロイが必要（`gcloud run deploy` を再実行）
+
+### 9.6 GCPリソース構成
 
 ```
-fastapi
-uvicorn[standard]
-weasyprint
-jinja2
-pyyaml
-google-api-python-client
-google-auth
+GCPプロジェクト: seras-test-generator
+├── Cloud Run: seras-test-generator（asia-northeast1）
+├── Artifact Registry: cloud-run-source-deploy（Dockerイメージ保存）
+├── Cloud Storage: gs://seras-test-pdfs（PDF公開バケット）
+└── Cloud Build: ソースからのビルドに使用
 ```
 
-### 9.3 Railway 設定
+### 9.7 設計判断の経緯
 
-- GitHub リポジトリ接続 → push 時自動デプロイ
-- 環境変数:
-  - `GOOGLE_SERVICE_ACCOUNT_JSON`: サービスアカウントの認証情報（JSON文字列）
-  - `GOOGLE_DRIVE_FOLDER_ID`: アップロード先の Google Drive フォルダID
-  - `PORT`: 8080（Railway が自動設定）
-
-### 9.4 データの同期
-
-knowledge/sentences/mappings のデータは以下のいずれかの方法で同梱:
-- **方法A（推奨）**: seras-english-knowledge リポジトリを git submodule として追加
-- **方法B**: データファイルをコピーして同梱（シンプルだが同期が手動）
-- **方法C**: GitHub API 経由でリアルタイム取得（レイテンシ増加）
+- **Railway → Cloud Run**: Railway は有料プラン必須。Cloud Run は無料枠で十分
+- **Google Drive → GCS**: 個人Gmail のサービスアカウントにはDriveストレージ容量がなく、ファイル作成不可。GCS は同一GCPプロジェクト内で容量制限なし
+- **submodule → 同梱**: 1人運用のプロジェクトにsubmoduleは過剰。同一リポジトリからデータをCOPYするのが最もシンプル
 
 ---
 
