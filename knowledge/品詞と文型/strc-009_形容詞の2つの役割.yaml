@@ -11,9 +11,12 @@ understanding_goals:
   - "SV+形容詞→SVC、SVO+形容詞→SVOCと判断できる"
   - "SVCならS=C、SVOCならO=Cのイコール関係が成り立つことを確認に使える"
 check_points:
-  - "「名詞を修飾していない形容詞は何？」→「自動的にC」と答えられるか"
-  - "「a beautiful ladyのbeautifulの役割は？」→「名詞ladyを修飾。セットで1つの名詞」と答えられるか"
-  - "「SVO+形容詞の文型は？」→「SVOC。O=形容詞のイコール関係が成立」と答えられるか"
+  - question: "名詞を修飾していない形容詞は何？"
+    answer: "自動的にC"
+  - question: "a beautiful ladyのbeautifulの役割は？"
+    answer: "名詞ladyを修飾。セットで1つの名詞"
+  - question: "SVO+形容詞の文型は？"
+    answer: "SVOC。O=形容詞のイコール関係が成立"
 references:
   はじめの英文読解ドリル:
     section: "Ch01_01"

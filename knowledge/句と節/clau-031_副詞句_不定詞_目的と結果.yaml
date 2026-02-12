@@ -15,10 +15,14 @@ understanding_goals:
   - "結果の代表パターン（wake up to find, only to do, grow up to be, live to be）を説明できる"
   - "目的と結果の判別ができる（目的意識の有無で区別する）"
 check_points:
-  - "「不定詞の副詞的用法で、to doの主語は？」→「原則として文の主語Sと一致」と答えられるか"
-  - "「目的のto doの言い換え表現は？」→「in order to do / so as to do」と答えられるか"
-  - "「She woke up to find...のto findの訳出は？」→「結果（目的意識なく生じる結果）」と答えられるか"
-  - "「結果の代表パターンを4つ言って」→「wake up to find, only to do, grow up to be, live to be」と答えられるか"
+  - question: "不定詞の副詞的用法で、to doの主語は？"
+    answer: "原則として文の主語Sと一致"
+  - question: "目的のto doの言い換え表現は？"
+    answer: "in order to do / so as to do"
+  - question: "She woke up to find...のto findの訳出は？"
+    answer: "結果（目的意識なく生じる結果）"
+  - question: "結果の代表パターンを4つ言って"
+    answer: "wake up to find, only to do, grow up to be, live to be"
 references:
   はじめの英文読解ドリル:
     section: "Ch04_04"

@@ -15,11 +15,16 @@ understanding_goals:
   - "本来のSはby+本来のSの形で文末に置かれるが、書かれないことが多いことを知っている"
   - "O1を後ろに残す場合のto/forの使い分け（タイプAならto、タイプBならfor）を知っている"
 check_points:
-  - "「SVOの受動態は？」→「O be done (by S)」と答えられるか"
-  - "「give O1 O2の受動態を2通り言って」→「O1 be given O2 / O2 be given to O1」と答えられるか"
-  - "「regard O as Cの受動態は？」→「O be regarded as C」と答えられるか"
-  - "「受動態で本来のSはどうなる？」→「by+本来のSの形で文末に置かれるが、省略されることが多い」と答えられるか"
-  - "「consider O (to be) Cの受動態は？」→「O be considered (to be) C」と答えられるか"
+  - question: "SVOの受動態は？"
+    answer: "O be done (by S)"
+  - question: "give O1 O2の受動態を2通り言って"
+    answer: "O1 be given O2 / O2 be given to O1"
+  - question: "regard O as Cの受動態は？"
+    answer: "O be regarded as C"
+  - question: "受動態で本来のSはどうなる？"
+    answer: "by+本来のSの形で文末に置かれるが、省略されることが多い"
+  - question: "consider O (to be) Cの受動態は？"
+    answer: "O be considered (to be) C"
 references:
   はじめの英文読解ドリル:
     section: "Ch02_06"

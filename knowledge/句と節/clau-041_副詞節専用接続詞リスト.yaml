@@ -10,9 +10,12 @@ understanding_goals:
   - "even though SV（...だけど/にもかかわらず）の意味と用法を説明できる"
   - "provided (that) SV（...ならば/...という条件で）、as long as SV（...なら/...する限りは）、unless SV（...しない限り）、now that SV（今や...なので）の意味を説明できる"
 check_points:
-  - "「the moment SVの意味は？」→「...する瞬間に/...するとすぐに」と答えられるか"
-  - "「provided (that) SVの意味は？」→「...ならば/...という条件で」と答えられるか"
-  - "「now that SVの意味は？」→「今や...なので」と答えられるか"
+  - question: "the moment SVの意味は？"
+    answer: "...する瞬間に/...するとすぐに"
+  - question: "provided (that) SVの意味は？"
+    answer: "...ならば/...という条件で"
+  - question: "now that SVの意味は？"
+    answer: "今や...なので"
 references:
   はじめの英文読解ドリル:
     section: "Ch04_06"

@@ -11,10 +11,14 @@ understanding_goals:
   - "区別グループ（distinguish/tell O from 〜「Oを〜と区別する」）を言える"
   - "妨害・禁止グループのfromの後はdoing（動名詞）が来ることを知っている"
 check_points:
-  - "「prevent O from doingの意味は？」→「Oが…するのを妨げる」と答えられるか"
-  - "「distinguish O from 〜の意味は？」→「Oを〜と区別する」と答えられるか"
-  - "「『Oが…するのを妨げる』を表す動詞を3つ言って」→「prevent/stop/keep」と答えられるか"
-  - "「妨害・禁止グループのfromの後ろに来る形は？」→「doing（動名詞）」と答えられるか"
+  - question: "prevent O from doingの意味は？"
+    answer: "Oが…するのを妨げる"
+  - question: "distinguish O from 〜の意味は？"
+    answer: "Oを〜と区別する"
+  - question: "『Oが…するのを妨げる』を表す動詞を3つ言って"
+    answer: "prevent/stop/keep"
+  - question: "妨害・禁止グループのfromの後ろに来る形は？"
+    answer: "doing（動名詞）"
 references:
   はじめの英文読解ドリル:
     section: "Ch02_04"

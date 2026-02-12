@@ -324,6 +324,27 @@ def check_10_manifest_consistency(result: ValidationResult, section_filter: str 
                                f"status=completed but sentences_created=0")
 
 
+# ===== CHECK-11: check_points構造検証 =====
+def check_11_checkpoint_structure(result: ValidationResult, section_filter: str | None = None):
+    """check_pointsの項目が辞書形式であることを検証"""
+    for f, data in collect_knowledge_nodes(section_filter):
+        if "_parse_error" in data:
+            continue
+        for i, item in enumerate(data.get("check_points", [])):
+            if isinstance(item, str):
+                result.error("CHECK-11", f"{f.relative_to(PROJECT_ROOT)}: "
+                             f"check_points[{i}] is string (unconverted)")
+            elif isinstance(item, dict):
+                has_qa = "question" in item and "answer" in item
+                has_assess = "assessment" in item
+                if not (has_qa or has_assess):
+                    result.error("CHECK-11", f"{f.relative_to(PROJECT_ROOT)}: "
+                                 f"check_points[{i}] has invalid keys {list(item.keys())}")
+            else:
+                result.error("CHECK-11", f"{f.relative_to(PROJECT_ROOT)}: "
+                             f"check_points[{i}] has unexpected type {type(item).__name__}")
+
+
 ALL_CHECKS = {
     "01": check_01_yaml_syntax,
     "02": check_02_knowledge_required,
@@ -335,6 +356,7 @@ ALL_CHECKS = {
     "08": check_08_circular_deps,
     "09": check_09_id_naming,
     "10": check_10_manifest_consistency,
+    "11": check_11_checkpoint_structure,
 }
 
 

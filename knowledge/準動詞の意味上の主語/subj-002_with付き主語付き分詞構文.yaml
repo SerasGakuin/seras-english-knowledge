@@ -11,9 +11,12 @@ understanding_goals:
   - "withの有無で意味はほぼ変わらず、訳出は通常の分詞構文とほぼ同じであることを説明できる"
   - "「付帯状況のwith」という用語を知っている"
 check_points:
-  - "「付帯状況のwithの形は？」→「with+名詞+doing/done」と答えられるか"
-  - "「withの有無で意味は変わる？」→「ほぼ変わらない。訳出は分詞構文と同じ」と答えられるか"
-  - "「付帯状況のwithの主な訳は？」→「...しながら、が多いが理由・条件なども可」と答えられるか"
+  - question: "付帯状況のwithの形は？"
+    answer: "with+名詞+doing/done"
+  - question: "withの有無で意味は変わる？"
+    answer: "ほぼ変わらない。訳出は分詞構文と同じ"
+  - question: "付帯状況のwithの主な訳は？"
+    answer: "...しながら、が多いが理由・条件なども可"
 references:
   はじめの英文読解ドリル:
     section: "Ch05_00"

@@ -10,9 +10,12 @@ understanding_goals:
   - "rob O of 〜やprevent O from doingのように動詞によって前置詞が決まっていることを具体例で説明できる"
   - "前置詞ごとに意味傾向の分類が可能であり、前置詞ごとに整理して覚えるのが得策であることを言える"
 check_points:
-  - "「SVO+決まった前置詞句とは？」→「動詞によって後ろにとる前置詞が決まっているパターン。rob O of 〜、prevent O from doingなど」と答えられるか"
-  - "「なぜ前置詞ごとに整理するのが得策？」→「前置詞によって意味傾向の分類が可能だから」と答えられるか"
-  - "「rob O of 〜の意味は？」→「Oから〜を奪う」と答えられるか"
+  - question: "SVO+決まった前置詞句とは？"
+    answer: "動詞によって後ろにとる前置詞が決まっているパターン。rob O of 〜、prevent O from doingなど"
+  - question: "なぜ前置詞ごとに整理するのが得策？"
+    answer: "前置詞によって意味傾向の分類が可能だから"
+  - question: "rob O of 〜の意味は？"
+    answer: "Oから〜を奪う"
 references:
   はじめの英文読解ドリル:
     section: "Ch02_00"

@@ -17,9 +17,12 @@ understanding_goals:
   - "thatは前置詞の直後に置けない（×about that）ため、前置詞+関代ではwhich/whomを用いることを言える"
   - "訳出は前の名詞にかける。訳しにくい場合は《元の形》を考えて意訳することを説明できる"
 check_points:
-  - "「前置詞+関係代名詞のカタマリ内部の役割は？」→「副詞（Ⓜ）」と答えられるか"
-  - "「without which we cannot liveの《元の形》は？」→「We cannot live without the substances」と答えられるか"
-  - "「前置詞+thatは使えるか？」→「使えない。前置詞の直後にはwhich/whomを使う」と答えられるか"
+  - question: "前置詞+関係代名詞のカタマリ内部の役割は？"
+    answer: "副詞（Ⓜ）"
+  - question: "without which we cannot liveの《元の形》は？"
+    answer: "We cannot live without the substances"
+  - question: "前置詞+thatは使えるか？"
+    answer: "使えない。前置詞の直後にはwhich/whomを使う"
 references:
   はじめの英文読解ドリル:
     section: "Ch04_03"

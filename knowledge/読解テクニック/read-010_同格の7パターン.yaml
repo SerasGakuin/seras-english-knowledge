@@ -14,10 +14,14 @@ understanding_goals:
   - "同格の不定詞（to do）を取る名詞（desire/ability/way/duty等）を言える"
   - "形容詞句を作る不定詞が主格でも目的格でもなければ同格と考えることを説明できる"
 check_points:
-  - "「同格の7パターンを挙げよ」→ 直接並べる/記号/同格表現/that節/疑問詞節/of/to doと答えられるか"
-  - "「the fact that SV...のthatの役割は？」→「同格のthat。名詞節を作る接続詞that」と答えられるか"
-  - "「the idea of leaving earlyのofの役割は？」→「同格のof。「早く出発するという考え」」と答えられるか"
-  - "「同格を見抜く基本は？」→「S/O/C/前置詞のOでない名詞を見つけたら同格を疑う」と答えられるか"
+  - question: "同格の7パターンを挙げよ"
+    answer: "直接並べる/記号/同格表現/that節/疑問詞節/of/to do"
+  - question: "the fact that SV...のthatの役割は？"
+    answer: "同格のthat。名詞節を作る接続詞that"
+  - question: "the idea of leaving earlyのofの役割は？"
+    answer: "同格のof。「早く出発するという考え」"
+  - question: "同格を見抜く基本は？"
+    answer: "S/O/C/前置詞のOでない名詞を見つけたら同格を疑う"
 references:
   はじめの英文読解ドリル:
     section: "Ch06_03"

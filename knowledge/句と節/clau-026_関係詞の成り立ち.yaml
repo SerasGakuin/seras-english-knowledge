@@ -12,9 +12,12 @@ understanding_goals:
   - "「前置詞+関係代名詞」が「関係副詞」に生まれ変われることを説明できる"
   - "関係代名詞 → 前置詞+関係代名詞 → 関係副詞の3形態が同じ意味であることを説明できる"
 check_points:
-  - "「the house which she lives inのwhichは元々何？」→「the house（名詞が関係代名詞に変わった）」と答えられるか"
-  - "「in whichとwhereの関係は？」→「前置詞+関係代名詞=関係副詞。同じ意味」と答えられるか"
-  - "「whoseは元々何の生まれ変わり？」→「所有格（his/theirなど）」と答えられるか"
+  - question: "the house which she lives inのwhichは元々何？"
+    answer: "the house（名詞が関係代名詞に変わった）"
+  - question: "in whichとwhereの関係は？"
+    answer: "前置詞+関係代名詞=関係副詞。同じ意味"
+  - question: "whoseは元々何の生まれ変わり？"
+    answer: "所有格（his/theirなど）"
 references:
   はじめの英文読解ドリル:
     section: "Ch04_00"

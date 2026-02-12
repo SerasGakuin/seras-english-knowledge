@@ -11,9 +11,12 @@ understanding_goals:
   - "セットで1つのVと見なす表現があることを言える"
   - "1つのVと見なした場合の文型分析の仕方を具体例で示せる"
 check_points:
-  - "「I want to watch a movie.の文型を2通りで分析して」→「SVO(to watch a movieがO) または want to watchを1つのVと見なしてSVO(a movieがO)」と答えられるか"
-  - "「1つのVと見なす方が分かりやすいのはなぜ？」→「日本語の意味と直感的に対応するから（『映画を観たい』）」と答えられるか"
-  - "「1つのVと見なす表現はどこで整理する？」→「Ch02_03」と答えられるか"
+  - question: "I want to watch a movie.の文型を2通りで分析して"
+    answer: "SVO(to watch a movieがO) または want to watchを1つのVと見なしてSVO(a movieがO)"
+  - question: "1つのVと見なす方が分かりやすいのはなぜ？"
+    answer: "日本語の意味と直感的に対応するから（『映画を観たい』）"
+  - question: "1つのVと見なす表現はどこで整理する？"
+    answer: "Ch02_03"
 references:
   はじめの英文読解ドリル:
     section: "Ch02_00"

@@ -9,9 +9,12 @@ understanding_goals:
   - "enoughは形容詞・副詞を後ろから修飾する語順であることを説明できる"
   - "too構文（too+形副+to do）の程度訳「...するには形副すぎる」と因果訳「形副すぎて...できない」の両方で訳出できる"
 check_points:
-  - "「enough to doの語順は？」→「形副+enough to do」と答えられるか"
-  - "「too+形副+to doの2つの訳出は？」→「程度訳（...するには形副すぎる）と因果訳（形副すぎて...できない）」と答えられるか"
-  - "「He is mature enough to use a knife properly. を訳して」→「ナイフを適切に使えるほど十分に大人だ」と答えられるか"
+  - question: "enough to doの語順は？"
+    answer: "形副+enough to do"
+  - question: "too+形副+to doの2つの訳出は？"
+    answer: "程度訳（...するには形副すぎる）と因果訳（形副すぎて...できない）"
+  - question: "He is mature enough to use a knife properly. を訳して"
+    answer: "ナイフを適切に使えるほど十分に大人だ"
 references:
   はじめの英文読解ドリル:
     section: "Ch04_04"

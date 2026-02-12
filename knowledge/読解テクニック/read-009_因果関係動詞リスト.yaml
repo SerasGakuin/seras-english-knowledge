@@ -9,8 +9,10 @@ understanding_goals:
   - "これらを「1つのV」と捉えて文構造を把握できる"
   - "無生物主語構文と組み合わせて、原因のSを副詞的に訳出できる"
 check_points:
-  - "「因果関係を示す動詞表現を5つ以上挙げよ」→ cause/result in/account for/be responsible for/lead to/bring about/give rise to/contribute to から5つ以上答えられるか"
-  - "「Tourism contributed to the growth of the Chinese economy.の意訳は？」→「観光業によって中国経済は成長した」と答えられるか"
+  - question: "因果関係を示す動詞表現を5つ以上挙げよ"
+    answer: "cause/result in/account for/be responsible for/lead to/bring about/give rise to/contribute to"
+  - question: "Tourism contributed to the growth of the Chinese economy.の意訳は？"
+    answer: "観光業によって中国経済は成長した"
 references:
   はじめの英文読解ドリル:
     section: "Ch06_02"

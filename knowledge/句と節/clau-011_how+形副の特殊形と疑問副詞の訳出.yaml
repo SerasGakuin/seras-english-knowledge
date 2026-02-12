@@ -10,9 +10,14 @@ understanding_goals:
   - "how+形・副の形には関係副詞の訳がないことを言える"
   - "This is why.../This is how...の訳出パターンを即答できる"
 check_points:
-  - "「how effective this isのhowは何を修飾？」→「直後の形容詞effectiveを修飾する副詞（M）」と答えられるか"
-  - "「how+形・副の訳は？」→「どれほど...か」。関係副詞の訳はある？→「ない」と答えられるか"
-  - "「This is why/howの訳は？」→「これが...理由だ / これが...方法だ（このようにして...）」と答えられるか"
+  - question: "how effective this isのhowは何を修飾？"
+    answer: "直後の形容詞effectiveを修飾する副詞（M）"
+  - question: "how+形・副の訳は？"
+    answer: "どれほど...か"
+  - question: "how+形・副に関係副詞の訳はある？"
+    answer: "ない"
+  - question: "This is why/howの訳は？"
+    answer: "これが...理由だ / これが...方法だ（このようにして...）"
 references:
   はじめの英文読解ドリル:
     section: "Ch03_03"

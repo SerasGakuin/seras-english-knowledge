@@ -9,11 +9,16 @@ understanding_goals:
   - "SVO+名詞の場合、OとのイコールがあればC（SVOC）、なければO2（SVO1O2）と判別できる"
   - "名詞はOにもCにもなれるため、品詞だけでは判別できず「イコール関係の成立可否」が必要であることを説明できる"
 check_points:
-  - "「SV+名詞で、S=名詞なら？」→「C。第2文型SVC」と答えられるか"
-  - "「SV+名詞で、S≠名詞なら？」→「O。第3文型SVO」と答えられるか"
-  - "「SVO+名詞で、O=名詞なら？」→「C。第5文型SVOC」と答えられるか"
-  - "「SVO+名詞で、O≠名詞なら？」→「O2。第4文型SVO1O2」と答えられるか"
-  - "「He made her a great actress.のa great actressはOかCか？」→「her=a great actressなのでC。SVOC」と答えられるか"
+  - question: "SV+名詞で、S=名詞なら？"
+    answer: "C。第2文型SVC"
+  - question: "SV+名詞で、S≠名詞なら？"
+    answer: "O。第3文型SVO"
+  - question: "SVO+名詞で、O=名詞なら？"
+    answer: "C。第5文型SVOC"
+  - question: "SVO+名詞で、O≠名詞なら？"
+    answer: "O2。第4文型SVO1O2"
+  - question: "He made her a great actress.のa great actressはOかCか？"
+    answer: "her=a great actressなのでC。SVOC"
 references:
   はじめの英文読解ドリル:
     section: "Ch01_02"

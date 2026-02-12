@@ -13,9 +13,12 @@ understanding_goals:
   - "when/where/why/howがカタマリ内部で自分自身が副詞（M）の役割を担うことを説明できる"
   - "疑問代名詞（内部でS/O/C）と疑問副詞（内部でM）の違いを区別できる"
 check_points:
-  - "「名詞節を作る疑問副詞/関係副詞を4つ挙げて」→「when, where, why, how」と答えられるか"
-  - "「where SV...のwhereは内部で何の役割？」→「動詞を修飾する副詞（M）」と答えられるか"
-  - "「疑問代名詞と疑問副詞の内部役割の違いは？」→「疑問代名詞は名詞（S/O/C/前O）、疑問副詞は副詞（M）」と答えられるか"
+  - question: "名詞節を作る疑問副詞/関係副詞を4つ挙げて"
+    answer: "when, where, why, how"
+  - question: "where SV...のwhereは内部で何の役割？"
+    answer: "動詞を修飾する副詞（M）"
+  - question: "疑問代名詞と疑問副詞の内部役割の違いは？"
+    answer: "疑問代名詞は名詞（S/O/C/前O）、疑問副詞は副詞（M）"
 references:
   はじめの英文読解ドリル:
     section: "Ch03_03"

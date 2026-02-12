@@ -12,11 +12,16 @@ understanding_goals:
   - "be about to do「まさに…しようとしている」、be due to do「…する予定である/…するはずである」を言える"
   - "拡張（代表）: be eager/anxious/ready/apt to do も1つのVとして扱えることを理解し、文脈に応じて使い分けられる"
 check_points:
-  - "「be likely/unlikely to doの意味は？」→「…しそうである/…しそうにない」と答えられるか"
-  - "「be sure/certain to doの違いは？」→「確信度は文脈依存だが、どちらも『必ず/きっと…する』」と答えられるか"
-  - "「be willing/reluctant to doの意味は？」→「…するのをいとわない/…したがらない」と答えられるか"
-  - "「『まさに…しようとしている』を英語で？」→「be about to do」と答えられるか"
-  - "「『…する予定（のはず）だ』を英語で？」→「be due to do」と答えられるか"
+  - question: "be likely/unlikely to doの意味は？"
+    answer: "…しそうである/…しそうにない"
+  - question: "be sure/certain to doの違いは？"
+    answer: "確信度は文脈依存だが、どちらも『必ず/きっと…する』"
+  - question: "be willing/reluctant to doの意味は？"
+    answer: "…するのをいとわない/…したがらない"
+  - question: "『まさに…しようとしている』を英語で？"
+    answer: "be about to do"
+  - question: "『…する予定（のはず）だ』を英語で？"
+    answer: "be due to do"
 references:
   はじめの英文読解ドリル:
     section: "Ch02_03"

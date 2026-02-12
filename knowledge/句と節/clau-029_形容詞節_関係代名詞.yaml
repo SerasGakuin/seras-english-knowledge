@@ -16,10 +16,14 @@ understanding_goals:
   - "whoseは所有格で直後の名詞にかかることを説明できる"
   - "補格の関係代名詞は原則thatを使うことを言える"
 check_points:
-  - "「関係代名詞の4つの格は？」→「主格（Ⓢ）、目的格（Ⓞ/前のⒶ）、補格（Ⓒ）、所有格（whose）」と答えられるか"
-  - "「物の主格には何を使う？」→「which（またはthat）」と答えられるか"
-  - "「whoseの後には何が来る？」→「名詞（whose father等。所有格で直後の名詞にかかる）」と答えられるか"
-  - "「補格の関係代名詞は何を使う？」→「原則that」と答えられるか"
+  - question: "関係代名詞の4つの格は？"
+    answer: "主格（Ⓢ）、目的格（Ⓞ/前のⒶ）、補格（Ⓒ）、所有格（whose）"
+  - question: "物の主格には何を使う？"
+    answer: "which（またはthat）"
+  - question: "whoseの後には何が来る？"
+    answer: "名詞（whose father等。所有格で直後の名詞にかかる）"
+  - question: "補格の関係代名詞は何を使う？"
+    answer: "原則that"
 references:
   はじめの英文読解ドリル:
     section: "Ch04_02"

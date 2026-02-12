@@ -12,10 +12,13 @@ understanding_goals:
   - "Mを見つけたら（ ）または〈 〉でくくって主要素をあぶり出す実践ができる"
   - "this/that/last/next/every + 時を表す名詞（例: this morning）は前置詞なしでも時間の副詞Mとして機能することを知っている"
 check_points:
-  - "「Mになるものを2つ言って」→「副詞（単体）と前置詞+名詞」と答えられるか"
-  - "「in the classroomがstudentsを修飾する場合、何句？」→「形容詞句」と答えられるか"
-  - "「in the classroomが動詞を修飾する場合、何句？」→「副詞句」と答えられるか"
-  - "英文を与えてMを正しくカッコでくくれるか"
+  - question: "Mになるものを2つ言って"
+    answer: "副詞（単体）と前置詞+名詞"
+  - question: "in the classroomがstudentsを修飾する場合、何句？"
+    answer: "形容詞句"
+  - question: "in the classroomが動詞を修飾する場合、何句？"
+    answer: "副詞句"
+  - assessment: "英文を与えてMを正しくカッコでくくれるか"
 references:
   はじめの英文読解ドリル:
     section: "Ch01_01"

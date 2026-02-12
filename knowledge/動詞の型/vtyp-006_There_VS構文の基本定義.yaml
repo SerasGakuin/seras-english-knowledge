@@ -11,9 +11,12 @@ understanding_goals:
   - "There VS構文ではbe動詞の後の名詞がS、be動詞がVであることを言える"
   - "語順が「There VS」となる倒置構文であることを説明できる"
 check_points:
-  - "「There is a bench in the park.のSとVは？」→「Sはa bench、Vはis」と答えられるか"
-  - "「なぜThereはSではない？」→「thereは副詞だからSにはなれない」と答えられるか"
-  - "「There VS構文の語順の特徴は？」→「通常のSVではなくVSの語順になっている倒置」と答えられるか"
+  - question: "There is a bench in the park.のSとVは？"
+    answer: "Sはa bench、Vはis"
+  - question: "なぜThereはSではない？"
+    answer: "thereは副詞だからSにはなれない"
+  - question: "There VS構文の語順の特徴は？"
+    answer: "通常のSVではなくVSの語順になっている倒置"
 references:
   はじめの英文読解ドリル:
     section: "Ch02_00"

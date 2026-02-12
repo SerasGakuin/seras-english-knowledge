@@ -12,10 +12,14 @@ understanding_goals:
   - "第5文型の倒置パターン（SVOC→SVCO）を説明できる。思考回路：形容詞はOになれない→名詞を修飾していない形容詞はCに決まる"
   - "倒置に気付くための思考回路（品詞と文の要素のルールから逆算）を自分で実行できる"
 check_points:
-  - "「第1文型の倒置は？」→「場所の副詞が文頭→MVSの語順」と答えられるか"
-  - "「Happy are those who〜の文構造は？」→「C V S M（第2文型の倒置）」と答えられるか"
-  - "「She made clear her intention〜の文構造は？」→「S V C O（第5文型の倒置、元はSVOC）」と答えられるか"
-  - "「倒置に気付く思考回路は？」→「品詞と文の要素のルールで逆算する（副詞→S不可→M、形容詞→S不可→C）」と答えられるか"
+  - question: "第1文型の倒置は？"
+    answer: "場所の副詞が文頭→MVSの語順"
+  - question: "Happy are those who〜の文構造は？"
+    answer: "C V S M（第2文型の倒置）"
+  - question: "She made clear her intention〜の文構造は？"
+    answer: "S V C O（第5文型の倒置、元はSVOC）"
+  - question: "倒置に気付く思考回路は？"
+    answer: "品詞と文の要素のルールで逆算する（副詞→S不可→M、形容詞→S不可→C）"
 references:
   はじめの英文読解ドリル:
     section: "Ch06_06"

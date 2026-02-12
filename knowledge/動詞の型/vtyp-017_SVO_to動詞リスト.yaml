@@ -11,10 +11,14 @@ understanding_goals:
   - "制限・限定グループ（limit/restrict O to 〜「Oを〜に制限する」、confine O to 〜「Oを〜に限定/集中する」）を言える"
   - "付加・その他グループ（add O to 〜「Oを〜に加える」、attach O to 〜「Oを〜に取り付ける」、devote O to 〜「Oを〜に捧げる」、expose O to 〜「Oを〜にさらす」）を言える"
 check_points:
-  - "「apply O to 〜の意味は？」→「Oを〜に応用する」と答えられるか"
-  - "「devote O to 〜の意味は？」→「Oを〜に捧げる」と答えられるか"
-  - "「SVO to 〜の制限・限定グループの動詞を全部言って」→「limit/restrict/confine」と答えられるか"
-  - "「expose O to 〜の意味は？」→「Oを〜にさらす」と答えられるか"
+  - question: "apply O to 〜の意味は？"
+    answer: "Oを〜に応用する"
+  - question: "devote O to 〜の意味は？"
+    answer: "Oを〜に捧げる"
+  - question: "SVO to 〜の制限・限定グループの動詞を全部言って"
+    answer: "limit/restrict/confine"
+  - question: "expose O to 〜の意味は？"
+    answer: "Oを〜にさらす"
 references:
   はじめの英文読解ドリル:
     section: "Ch02_05"

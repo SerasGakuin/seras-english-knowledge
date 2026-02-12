@@ -10,10 +10,14 @@ understanding_goals:
   - "変化グループ（change/turn O into 〜「Oを〜に変える」、translate O into 〜「Oを〜に翻訳する」、transform O into 〜「Oを〜に変える」）を全て言える"
   - "分割・分類グループ（divide O into 〜「Oを〜に分ける」、classify O into 〜「Oを〜に分類する」）を言える"
 check_points:
-  - "「change O into 〜の意味は？」→「Oを〜に変える」と答えられるか"
-  - "「translate O into 〜の意味は？」→「Oを〜に翻訳する」と答えられるか"
-  - "「divide O into 〜の意味は？」→「Oを〜に分ける」と答えられるか"
-  - "「SVO into 〜の変化グループの動詞を全部言って」→「change/turn/translate/transform」と答えられるか"
+  - question: "change O into 〜の意味は？"
+    answer: "Oを〜に変える"
+  - question: "translate O into 〜の意味は？"
+    answer: "Oを〜に翻訳する"
+  - question: "divide O into 〜の意味は？"
+    answer: "Oを〜に分ける"
+  - question: "SVO into 〜の変化グループの動詞を全部言って"
+    answer: "change/turn/translate/transform"
 references:
   はじめの英文読解ドリル:
     section: "Ch02_05"

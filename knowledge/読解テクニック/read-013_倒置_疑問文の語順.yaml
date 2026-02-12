@@ -11,9 +11,12 @@ understanding_goals:
   - "onlyが否定の副詞として倒置を引き起こすことを認識できる"
   - "否定の副詞を見たら「M S V」の語順で構造を把握できる"
 check_points:
-  - "「否定の副詞が文頭に来るとどうなる？」→「後続が疑問文の語順になる（倒置）」と答えられるか"
-  - "「否定の副詞を5つ挙げて」→「never, little, hardly, seldom, by no meansなど」と答えられるか"
-  - "「Only recently did I〜の文構造は？」→「M S V〜（否定の副詞による倒置）」と答えられるか"
+  - question: "否定の副詞が文頭に来るとどうなる？"
+    answer: "後続が疑問文の語順になる（倒置）"
+  - question: "否定の副詞を5つ挙げて"
+    answer: "never, little, hardly, seldom, by no meansなど"
+  - question: "Only recently did I〜の文構造は？"
+    answer: "M S V〜（否定の副詞による倒置）"
 references:
   はじめの英文読解ドリル:
     section: "Ch06_06"

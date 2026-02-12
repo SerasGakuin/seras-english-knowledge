@@ -12,9 +12,12 @@ understanding_goals:
   - "形式主語（itがSの位置）の構造を識別できる（It is C + [名詞句/節]）"
   - "形式のitが指せる名詞句（不定詞/動名詞）と名詞節（that節/whether節/疑問詞節）を列挙できる"
 check_points:
-  - "「It is difficult to...のitは何？」→「形式主語。後ろのto不定詞句を指す」と答えられるか"
-  - "「形式のitが指せるものを挙げて」→「名詞句（不定詞/動名詞）と名詞節（that/whether/疑問詞節）」と答えられるか"
-  - "「It seems true that...のitは何？」→「形式主語。後ろのthat節を指す」と答えられるか"
+  - question: "It is difficult to...のitは何？"
+    answer: "形式主語。後ろのto不定詞句を指す"
+  - question: "形式のitが指せるものを挙げて"
+    answer: "名詞句（不定詞/動名詞）と名詞節（that/whether/疑問詞節）"
+  - question: "It seems true that...のitは何？"
+    answer: "形式主語。後ろのthat節を指す"
 references:
   はじめの英文読解ドリル:
     section: "Ch03_05"

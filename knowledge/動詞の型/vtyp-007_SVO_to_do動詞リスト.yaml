@@ -13,11 +13,16 @@ understanding_goals:
   - "説得グループ（get/persuade/encourage）、その他グループ（cause/enable/help）を全て列挙できる"
   - "help O (to) doのtoは省略されることが多いことを知っている"
 check_points:
-  - "「SVO+to doの命令グループの動詞を全部言って」→「tell/order/force」と答えられるか"
-  - "「SVO+to doの許可グループは？」→「allow/permit。どちらも『Oが…するのを許す/可能にする』」と答えられるか"
-  - "「help O to doのtoは省略できる？」→「できる。省略されることが多い」と答えられるか"
-  - "「get O to doとpersuade O to doの意味は？」→「どちらも『(説得して)Oに…させる』」と答えられるか"
-  - "「cause O to doの意味は？」→「(結果として)Oに…させる」と答えられるか"
+  - question: "SVO+to doの命令グループの動詞を全部言って"
+    answer: "tell/order/force"
+  - question: "SVO+to doの許可グループは？"
+    answer: "allow/permit。どちらも『Oが…するのを許す/可能にする』"
+  - question: "help O to doのtoは省略できる？"
+    answer: "できる。省略されることが多い"
+  - question: "get O to doとpersuade O to doの意味は？"
+    answer: "どちらも『(説得して)Oに…させる』"
+  - question: "cause O to doの意味は？"
+    answer: "(結果として)Oに…させる"
 references:
   はじめの英文読解ドリル:
     section: "Ch02_01"

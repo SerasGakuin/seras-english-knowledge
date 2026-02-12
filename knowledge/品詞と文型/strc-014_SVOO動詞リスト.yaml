@@ -13,11 +13,16 @@ understanding_goals:
   - "グループ2「注意すべきもの」: do O1O2（利益/害を与える）、cause O1O2（損害をもたらす）、deny O1O2（権利を与えない）を言える"
   - "グループ3「O1からO2を奪う」: take O1O2（O1はO2を必要とする）、cost O1O2（O1はO2を払う/失う）、spare/save O1O2（O1からO2を省く）を言える"
 check_points:
-  - "「give型（toで言い換え）の動詞を4つ以上言って」→ give/tell/send/lend/show/teach のうち4つ以上答えられるか"
-  - "「buy型（forで言い換え）の動詞を4つ以上言って」→ buy/get/find/cook/choose/make のうち4つ以上答えられるか"
-  - "「cost O1O2の意味は？」→「Sのために、O1はO2（金/犠牲）を払う・失う」と答えられるか"
-  - "「deny O1O2の意味は？」→「O1にO2（機会/権利）を与えない」と答えられるか"
-  - "「spare O1O2の意味は？」→「O1からO2（苦労/面倒）を省く」と答えられるか"
+  - question: "give型（toで言い換え）の動詞を4つ以上言って"
+    answer: "give/tell/send/lend/show/teach"
+  - question: "buy型（forで言い換え）の動詞を4つ以上言って"
+    answer: "buy/get/find/cook/choose/make"
+  - question: "cost O1O2の意味は？"
+    answer: "Sのために、O1はO2（金/犠牲）を払う・失う"
+  - question: "deny O1O2の意味は？"
+    answer: "O1にO2（機会/権利）を与えない"
+  - question: "spare O1O2の意味は？"
+    answer: "O1からO2（苦労/面倒）を省く"
 references:
   はじめの英文読解ドリル:
     section: "Ch01_05"

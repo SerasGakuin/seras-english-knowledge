@@ -10,9 +10,12 @@ understanding_goals:
   - "カタマリ内部にA or Bの形を含む場合（whetherのみ）を識別できる"
   - "whether=...かどうか/AかBか、if=...かどうか の訳を使い分けられる"
 check_points:
-  - "「ifが名詞節を作れるのはどんな時？」→「原則、動詞のOに置かれる場合のみ」と答えられるか"
-  - "「whether or notの位置パターンは？」→「先頭(whether or not SV)と末尾(whether SV or not)の2つ」と答えられるか"
-  - "「whether the bird is a male or a femaleのwhetherの訳は？」→「AかBか（オスであるかメスであるか）」と答えられるか"
+  - question: "ifが名詞節を作れるのはどんな時？"
+    answer: "原則、動詞のOに置かれる場合のみ"
+  - question: "whether or notの位置パターンは？"
+    answer: "先頭(whether or not SV)と末尾(whether SV or not)の2つ"
+  - question: "whether the bird is a male or a femaleのwhetherの訳は？"
+    answer: "AかBか（オスであるかメスであるか）"
 references:
   はじめの英文読解ドリル:
     section: "Ch03_04"

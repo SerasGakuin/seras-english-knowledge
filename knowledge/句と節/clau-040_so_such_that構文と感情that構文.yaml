@@ -10,9 +10,12 @@ understanding_goals:
   - "soとsuchの使い分け（soは形副の前、suchは名詞の前）を説明できる"
   - "感情の形容詞・分詞+that SVが副詞節（理由: ...なので）になることを説明できる"
 check_points:
-  - "「so...that構文の2つの訳出は？」→「程度訳（...するほど～）と因果訳（とても～なので...）」と答えられるか"
-  - "「soとsuchの使い分けは？」→「soは形副の前、suchは名詞の前」と答えられるか"
-  - "「感情の形容詞+that SVの訳出は？」→「...なので（理由）」と答えられるか"
+  - question: "so...that構文の2つの訳出は？"
+    answer: "程度訳（...するほど～）と因果訳（とても～なので...）"
+  - question: "soとsuchの使い分けは？"
+    answer: "soは形副の前、suchは名詞の前"
+  - question: "感情の形容詞+that SVの訳出は？"
+    answer: "...なので（理由）"
 references:
   はじめの英文読解ドリル:
     section: "Ch04_06"

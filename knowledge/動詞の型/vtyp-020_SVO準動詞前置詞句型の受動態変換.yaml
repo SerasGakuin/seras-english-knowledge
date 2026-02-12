@@ -14,11 +14,16 @@ understanding_goals:
   - "SVO done型の受動態はそのままdoneが残ることを説明できる（leave O done→O be left done）"
   - "SVO 前置詞句型の受動態はそのまま前置詞句が残ることを説明できる（rob O of〜→O be robbed of〜）"
 check_points:
-  - "「make O doの受動態は？」→「O be made to do（doがto doになる）」と答えられるか"
-  - "「keep O doingの受動態は？」→「O be kept doing」と答えられるか"
-  - "「leave O doneの受動態は？」→「O be left done」と答えられるか"
-  - "「SVO do型だけ受動態で何が変わる？」→「doがto doになる。他の型はそのまま」と答えられるか"
-  - "「rob O of〜の受動態は？」→「O be robbed of〜」と答えられるか"
+  - question: "make O doの受動態は？"
+    answer: "O be made to do（doがto doになる）"
+  - question: "keep O doingの受動態は？"
+    answer: "O be kept doing"
+  - question: "leave O doneの受動態は？"
+    answer: "O be left done"
+  - question: "SVO do型だけ受動態で何が変わる？"
+    answer: "doがto doになる。他の型はそのまま"
+  - question: "rob O of〜の受動態は？"
+    answer: "O be robbed of〜"
 references:
   はじめの英文読解ドリル:
     section: "Ch02_07"

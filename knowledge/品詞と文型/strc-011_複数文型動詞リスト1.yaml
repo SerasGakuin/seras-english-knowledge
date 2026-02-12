@@ -15,10 +15,14 @@ understanding_goals:
   - "taste/smellの2用法（taste/smell C=Cな味/においがする / taste/smell O=Oを味見する/においを嗅ぐ）を言える"
   - "OとCの間にto beやasが入ることがあり、その場合は下線や記号を付けないことを知っている"
 check_points:
-  - "「keepが第2文型のとき意味は？」→「Cのままでいる」と答えられるか"
-  - "「He made her a cake.の文型は？」→「her≠a cakeなので第4文型SVO1O2、O1にO2を作ってあげる」と答えられるか"
-  - "「He made her happy.の文型は？」→「her=happyなので第5文型SVOC、OをCにする」と答えられるか"
-  - "「leaveの4つの文型を言って」→「SV, SVO, SVO1O2, SVOC」と答えられるか"
+  - question: "keepが第2文型のとき意味は？"
+    answer: "Cのままでいる"
+  - question: "He made her a cake.の文型は？"
+    answer: "her≠a cakeなので第4文型SVO1O2、O1にO2を作ってあげる"
+  - question: "He made her happy.の文型は？"
+    answer: "her=happyなので第5文型SVOC、OをCにする"
+  - question: "leaveの4つの文型を言って"
+    answer: "SV, SVO, SVO1O2, SVOC"
 references:
   はじめの英文読解ドリル:
     section: "Ch01_02"

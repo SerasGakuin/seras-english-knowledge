@@ -17,10 +17,14 @@ understanding_goals:
   - "関係副詞は前置詞+関係代名詞に書き換え可能であることを説明できる（when=on which, where=at/in which, why=for which）"
   - "関係副詞節が離れた名詞を修飾するパターンを識別できる（例: The day will come when...）"
 check_points:
-  - "「関係副詞whenは前置詞+関係代名詞に書き換えると？」→「on which」と答えられるか"
-  - "「関係副詞whereは前置詞+関係代名詞に書き換えると？」→「at which / in which」と答えられるか"
-  - "「関係副詞whyは前置詞+関係代名詞に書き換えると？」→「for which」と答えられるか"
-  - "「The day will come when...のwhen節は何を修飾？」→「離れた名詞dayを修飾」と答えられるか"
+  - question: "関係副詞whenは前置詞+関係代名詞に書き換えると？"
+    answer: "on which"
+  - question: "関係副詞whereは前置詞+関係代名詞に書き換えると？"
+    answer: "at which / in which"
+  - question: "関係副詞whyは前置詞+関係代名詞に書き換えると？"
+    answer: "for which"
+  - question: "The day will come when...のwhen節は何を修飾？"
+    answer: "離れた名詞dayを修飾"
 references:
   はじめの英文読解ドリル:
     section: "Ch04_03"

@@ -14,11 +14,16 @@ understanding_goals:
   - "appearの2用法（appear=現れる / appear (to be) C=Cのようだ）を言える"
   - "stayの2用法（stay=滞在する / stay C=Cのままである）を言える"
 check_points:
-  - "「getが第2文型のとき意味は？」→「Cになる」と答えられるか"
-  - "「find OCの意味は？」→「OはCだと思う・分かる」と答えられるか"
-  - "「proveがCをとるとき意味は？」→「Cだと分かる」と答えられるか"
-  - "「remain CとstayC の共通する意味は？」→「Cのままである」と答えられるか"
-  - "「appearのCをとるとき意味は？」→「Cのようだ」と答えられるか"
+  - question: "getが第2文型のとき意味は？"
+    answer: "Cになる"
+  - question: "find OCの意味は？"
+    answer: "OはCだと思う・分かる"
+  - question: "proveがCをとるとき意味は？"
+    answer: "Cだと分かる"
+  - question: "remain CとstayC の共通する意味は？"
+    answer: "Cのままである"
+  - question: "appearのCをとるとき意味は？"
+    answer: "Cのようだ"
 references:
   はじめの英文読解ドリル:
     section: "Ch01_03"

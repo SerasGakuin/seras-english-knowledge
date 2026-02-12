@@ -12,9 +12,12 @@ understanding_goals:
   - "接続詞はカタマリ内部で自分自身に役割なし（接続詞以外で文が完成する）ことを説明できる"
   - "疑問代名詞/疑問副詞（内部で役割あり）と接続詞（内部で役割なし）の違いを区別できる"
 check_points:
-  - "「名詞節を作る接続詞を3つ挙げて」→「that, whether, if」と答えられるか"
-  - "「that節の内部でthatの役割は？」→「役割なし（接続詞以外で文が完成する）」と答えられるか"
-  - "「that節の訳は？」→「...（という）こと」と答えられるか"
+  - question: "名詞節を作る接続詞を3つ挙げて"
+    answer: "that, whether, if"
+  - question: "that節の内部でthatの役割は？"
+    answer: "役割なし（接続詞以外で文が完成する）"
+  - question: "that節の訳は？"
+    answer: "...（という）こと"
 references:
   はじめの英文読解ドリル:
     section: "Ch03_04"

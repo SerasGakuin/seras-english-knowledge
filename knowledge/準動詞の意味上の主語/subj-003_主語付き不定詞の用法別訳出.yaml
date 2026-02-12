@@ -16,10 +16,14 @@ understanding_goals:
   - "形容詞的用法の訳出パターン「Sが...する（ための）/すべき/できる名詞」を言える"
   - "副詞的用法の訳出パターン3つ（目的: for/in order for、enough、too）を挙げられる"
 check_points:
-  - "「主語付き不定詞の名詞的用法の訳し方は？」→「Sが...すること」と答えられるか"
-  - "「too...for S to doの訳出は？」→「程度訳: Sが...するには形・副すぎる／因果訳: 形・副すぎてSは...できない」と答えられるか"
-  - "「enough for S to doの訳出は？」→「Sが...できるほど（十分に）形・副だ」と答えられるか"
-  - "「in order for S to doの意味は？」→「Sが...するために（目的）」と答えられるか"
+  - question: "主語付き不定詞の名詞的用法の訳し方は？"
+    answer: "Sが...すること"
+  - question: "too...for S to doの訳出は？"
+    answer: "程度訳: Sが...するには形・副すぎる／因果訳: 形・副すぎてSは...できない"
+  - question: "enough for S to doの訳出は？"
+    answer: "Sが...できるほど（十分に）形・副だ"
+  - question: "in order for S to doの意味は？"
+    answer: "Sが...するために（目的）"
 references:
   はじめの英文読解ドリル:
     section: "Ch05_01"

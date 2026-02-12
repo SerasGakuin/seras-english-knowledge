@@ -9,9 +9,12 @@ understanding_goals:
   - "判断の根拠の訳出「...するなんて/...するとは」ができ、なぜそう言えるのかを示す用法だと説明できる"
   - "感情の理由と判断の根拠を文脈から区別できる"
 check_points:
-  - "「She was disappointed to see the result. のto seeの訳出は？」→「感情の理由（...して/...したので）」と答えられるか"
-  - "「He must be generous to donate... のto donateの訳出は？」→「判断の根拠（...するなんて）」と答えられるか"
-  - "「感情の理由と判断の根拠の違いは？」→「感情の理由はなぜその感情か、判断の根拠はなぜそう言えるか」と答えられるか"
+  - question: "She was disappointed to see the result. のto seeの訳出は？"
+    answer: "感情の理由（...して/...したので）"
+  - question: "He must be generous to donate... のto donateの訳出は？"
+    answer: "判断の根拠（...するなんて）"
+  - question: "感情の理由と判断の根拠の違いは？"
+    answer: "感情の理由はなぜその感情か、判断の根拠はなぜそう言えるか"
 references:
   はじめの英文読解ドリル:
     section: "Ch04_04"

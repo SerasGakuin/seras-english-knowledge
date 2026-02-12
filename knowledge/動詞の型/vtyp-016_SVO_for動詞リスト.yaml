@@ -10,10 +10,14 @@ understanding_goals:
   - "交換グループ（exchange O for 〜「Oを〜と交換する」、substitute O for 〜「Oを〜の代わりに使う」）を言える"
   - "理由グループ（praise/admire O for 〜「Oを〜を理由に賞賛する」、criticize/blame/scold O for 〜「Oを〜を理由に批判/責める/しかる」、punish O for 〜「Oを〜を理由に罰する」）を全て言える"
 check_points:
-  - "「blame O for 〜の意味は？」→「Oを〜を理由に責める」と答えられるか"
-  - "「exchange O for 〜の意味は？」→「Oを〜と交換する」と答えられるか"
-  - "「SVO for 〜の理由グループの動詞を5つ言って」→「praise/admire/criticize/blame/scold/punish」のうち5つ答えられるか"
-  - "「substitute O for 〜の意味は？」→「Oを〜の代わりに使う」と答えられるか"
+  - question: "blame O for 〜の意味は？"
+    answer: "Oを〜を理由に責める"
+  - question: "exchange O for 〜の意味は？"
+    answer: "Oを〜と交換する"
+  - question: "SVO for 〜の理由グループの動詞を5つ言って"
+    answer: "「praise/admire/criticize/blame/scold/punish」のうち5つ"
+  - question: "substitute O for 〜の意味は？"
+    answer: "Oを〜の代わりに使う"
 references:
   はじめの英文読解ドリル:
     section: "Ch02_05"

@@ -10,9 +10,12 @@ understanding_goals:
   - "疑問代名詞型（what to do/which to do/who to do）の訳出パターンを即答できる"
   - "疑問副詞型（where to do/when to do/how to do）の訳出パターンを即答できる"
 check_points:
-  - "「what to useのwhatはカタマリ内部で何の役割？」→「O（useの目的語）」と答えられるか"
-  - "「how to useのhowはカタマリ内部で何の役割？」→「M（useを修飾する副詞）」と答えられるか"
-  - "「疑問詞+不定詞の訳出パターンを6つ言って」→「what=何を...すべきか、which=どちらを...すべきか、who=誰を...すべきか、where=どこで...すべきか、when=いつ...すべきか、how=どのように...すべきか」と答えられるか"
+  - question: "what to useのwhatはカタマリ内部で何の役割？"
+    answer: "O（useの目的語）"
+  - question: "how to useのhowはカタマリ内部で何の役割？"
+    answer: "M（useを修飾する副詞）"
+  - question: "疑問詞+不定詞の訳出パターンを6つ言って"
+    answer: "what=何を...すべきか、which=どちらを...すべきか、who=誰を...すべきか、where=どこで...すべきか、when=いつ...すべきか、how=どのように...すべきか"
 references:
   はじめの英文読解ドリル:
     section: "Ch03_01"

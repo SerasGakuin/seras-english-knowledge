@@ -12,10 +12,14 @@ understanding_goals:
   - "be thought to do「…すると考えられている」、be expected to do「…すると予想されている」を言える"
   - "これらが受動態＋不定詞の形であることを理解し、全体で1つのVと見なせることを説明できる"
 check_points:
-  - "「be said to doの意味は？」→「…すると言われている」と答えられるか"
-  - "「be expected to doの意味は？」→「…すると予想されている」と答えられるか"
-  - "「be thought to doの元の能動態は？」→「People think ... to do / They think ... to do」と答えられるか"
-  - "「be 過去分詞 to do型の表現を4つ言って」→「be said/believed/thought/expected to do」と答えられるか"
+  - question: "be said to doの意味は？"
+    answer: "…すると言われている"
+  - question: "be expected to doの意味は？"
+    answer: "…すると予想されている"
+  - question: "be thought to doの元の能動態は？"
+    answer: "People think ... to do / They think ... to do"
+  - question: "be 過去分詞 to do型の表現を4つ言って"
+    answer: "be said/believed/thought/expected to do"
 references:
   はじめの英文読解ドリル:
     section: "Ch02_03"

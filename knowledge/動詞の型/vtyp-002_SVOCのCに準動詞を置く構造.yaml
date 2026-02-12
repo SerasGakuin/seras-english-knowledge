@@ -13,9 +13,12 @@ understanding_goals:
   - "動詞によってCにとれる準動詞の形が決まっていることを言える"
   - "Cに準動詞を置く場合、準動詞がとる文型（O・C）も含めて全体をCと捉えることを説明できる"
 check_points:
-  - "「SVOCのCに準動詞が来る場合、OとCの関係は？」→「OがCする/OがCしている/OがCされる、という主語-述語の関係」と答えられるか"
-  - "「see O doingの文型は？」→「SVOC。doingがCで、doingがとるO等も含めて全体がCの範囲」と答えられるか"
-  - "「全ての動詞がCにto doもdoもdoingもdoneもとれる？」→「とれない。動詞によってとれる形が決まっている」と答えられるか"
+  - question: "SVOCのCに準動詞が来る場合、OとCの関係は？"
+    answer: "OがCする/OがCしている/OがCされる、という主語-述語の関係"
+  - question: "see O doingの文型は？"
+    answer: "SVOC。doingがCで、doingがとるO等も含めて全体がCの範囲"
+  - question: "全ての動詞がCにto doもdoもdoingもdoneもとれる？"
+    answer: "とれない。動詞によってとれる形が決まっている"
 references:
   はじめの英文読解ドリル:
     section: "Ch02_00"
