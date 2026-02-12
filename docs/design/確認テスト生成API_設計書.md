@@ -3,15 +3,15 @@
 ## 1. 概要
 
 ### 目的
-知識ノードの `check_points` と英文データベースの `sentences` から、A4 2枚程度の確認テスト（問題PDF + 解答PDF）を動的に生成する API。
+知識ノードの `check_points` と英文データベースの `sentences` から、確認テスト（問題+解答の統合PDF）を動的に生成する API。
 
 ### 利用フロー
 ```
 GAS（既存の確認テスト生成スクリプト）
     ↓ POST /generate-test  { "sections": "1-1~1-5" }
 Cloud Run（FastAPI + WeasyPrint）
-    ↓ 問題選定 → HTML → PDF → GCS アップロード
-    ↓ { "pdf_url": "...", "answer_pdf_url": "..." }
+    ↓ 問題選定 → HTML → 統合PDF → GCS アップロード
+    ↓ { "pdf_url": "..." }
 GAS
     ↓ 生成されたリンクを講師に返す
 ```
@@ -65,8 +65,7 @@ Content-Type: application/json
 
 ```json
 {
-  "pdf_url": "https://drive.google.com/file/d/xxx/view",
-  "answer_pdf_url": "https://drive.google.com/file/d/yyy/view",
+  "pdf_url": "https://storage.googleapis.com/seras-test-pdfs/確認テスト_Ch01_01〜Ch01_05_20260212_143000.pdf",
   "metadata": {
     "sections": ["Ch01_01", "Ch01_02", "Ch01_03", "Ch01_04", "Ch01_05"],
     "knowledge_nodes_used": ["strc-007", "strc-008", "strc-009", "strc-010", "strc-011", "strc-012", "strc-013"],
@@ -100,7 +99,7 @@ Content-Type: application/json
 4. 英文をノードに紐付け（knowledge_tags overlap で best-matching node に割当、最大6文）
 5. ノードセクション構築（知識確認 max 2問 + 英文 0-1文 + ReviewGuide）
 6. 全問に通し番号を振り、TestData を組み立て
-7. 問題PDF と 解答PDF を生成
+7. 統合PDF（問題+解答）を生成
 ```
 
 ### 4.2 ノード単位セット出題
@@ -138,7 +137,9 @@ Content-Type: application/json
 
 ## 5. PDF レイアウト仕様
 
-### 5.1 問題 PDF
+問題パートと解答パートを1つの統合PDFとして生成する。問題パートの後に改ページを入れ、解答パートが続く構成。
+
+### 5.1 問題パート
 
 ```
 ┌─────────────────────────────────────┐
@@ -174,14 +175,14 @@ Content-Type: application/json
 └─────────────────────────────────────┘
 ```
 
-**問題PDFの構成**（`templates/test.html`）:
+**問題パートの構成**（`templates/combined.html` 前半）:
 1. **ウォームアップ**: 前提知識ノードからの復習問題（2-4問）
 2. **ノード別セクション**（繰り返し）:
    - セクションヘッダ（ノード名 + ID）
    - 知識確認問題（check_points から最大2問 + 解答欄）
    - 英文問題（着眼点付き + 構造/和訳解答欄）
 
-### 5.2 解答 PDF
+### 5.2 解答パート（改ページ後）
 
 ```
 ┌─────────────────────────────────────┐
@@ -222,7 +223,7 @@ Content-Type: application/json
 └─────────────────────────────────────┘
 ```
 
-**解答PDFの構成**（`templates/answer.html`）:
+**解答パートの構成**（`templates/combined.html` 後半）:
 1. **ウォームアップ解答**: 正解 + 出典ノード + 参考書ページ + 復習コメント
 2. **ノード別セクション**（繰り返し）:
    - 知識確認 解答: 正解 + 出典ノード + ページ
@@ -350,11 +351,10 @@ seras-test-generator/          # seras-english-knowledge のサブディレク�
 │   │   ├── data_loader.py     # YAML データ読み込み + キャッシュ（DataStore）
 │   │   ├── section_parser.py  # セクション範囲パース（"1-1~1-5" → IDリスト）
 │   │   ├── question_selector.py  # 問題選定ロジック（ノード単位セット出題）
-│   │   ├── pdf_generator.py   # Jinja2 + WeasyPrint で PDF 生成
-│   │   └── drive_uploader.py  # Google Drive API でアップロード
+│   │   ├── pdf_generator.py   # Jinja2 + WeasyPrint で統合PDF生成
+│   │   └── gcs_uploader.py    # GCS でアップロード・公開URL生成
 │   ├── templates/
-│   │   ├── test.html          # 問題PDF用テンプレート（ウォームアップ + ノード別セクション）
-│   │   └── answer.html        # 解答PDF用テンプレート（解答 + 逆引きガイド）
+│   │   └── combined.html      # 統合PDFテンプレート（問題+改ページ+解答）
 │   └── static/
 │       └── styles.css         # PDF用 CSS（A4レイアウト、フォント等）
 ├── tests/
@@ -365,7 +365,6 @@ seras-test-generator/          # seras-english-knowledge のサブディレク�
 │   ├── test_section_parser.py
 │   ├── test_question_selector.py
 │   ├── test_pdf_generator.py
-│   ├── test_drive_uploader.py
 │   └── test_integration.py
 └── README.md
 ```
@@ -502,17 +501,14 @@ class TestData:
 
 #### `pdf_generator.py`
 - 入力: `TestData`
-- 出力: 問題PDF bytes, 解答PDF bytes
-- Jinja2 で HTML レンダリング → WeasyPrint で PDF 変換
+- 出力: 統合PDF bytes（問題パート+改ページ+解答パートを1ファイルに）
+- `combined.html` テンプレートで HTML レンダリング → WeasyPrint で PDF 変換
 
 #### `gcs_uploader.py`
 - 入力: PDF bytes, ファイル名
 - 出力: GCS の公開 URL（`https://storage.googleapis.com/seras-test-pdfs/...`）
 - Cloud Run のデフォルト認証（サービスアカウント不要）
 - 公開バケットにアップロード
-
-#### `drive_uploader.py`（非使用・将来のWorkspace対応用に残置）
-- Google Drive API によるアップロード（個人Gmailではストレージ容量制限により使用不可）
 
 ---
 
@@ -621,15 +617,30 @@ gcloud run deploy seras-test-generator \
 
 `--source .` でリポジトリルートのDockerfileを使い、Cloud Build → Cloud Run まで一発でデプロイされる。
 
-### 9.5 データの同期
+### 9.5 CI/CD（GitHub Actions）
+
+main ブランチへの push 時に自動でCloud Runへデプロイされる。
+
+**ワークフロー**: `.github/workflows/deploy.yml`
+
+**トリガー条件**（以下のパスの変更時のみ）:
+- `knowledge/**`, `sentences/**`, `mappings/**`
+- `seras-test-generator/**`
+- `Dockerfile`
+
+docs/ のみの変更では再デプロイされない。
+
+**GitHub Secret**: `GCP_SA_KEY`（`github-deployer` サービスアカウントの鍵）
+
+### 9.6 データの同期
 
 knowledge/sentences/mappings のデータは **Dockerイメージに同梱** する方式を採用。
 
 - リポジトリルートの Dockerfile が `COPY knowledge/ data/knowledge/` 等でデータを含める
 - コードとデータが同一リポジトリ・同一コミットなので常に同期
-- データ変更時は再デプロイが必要（`gcloud run deploy` を再実行）
+- main push 時に GitHub Actions が自動デプロイするため、手動デプロイ不要
 
-### 9.6 GCPリソース構成
+### 9.7 GCPリソース構成
 
 ```
 GCPプロジェクト: seras-test-generator
@@ -639,7 +650,7 @@ GCPプロジェクト: seras-test-generator
 └── Cloud Build: ソースからのビルドに使用
 ```
 
-### 9.7 設計判断の経緯
+### 9.8 設計判断の経緯
 
 - **Railway → Cloud Run**: Railway は有料プラン必須。Cloud Run は無料枠で十分
 - **Google Drive → GCS**: 個人Gmail のサービスアカウントにはDriveストレージ容量がなく、ファイル作成不可。GCS は同一GCPプロジェクト内で容量制限なし
@@ -692,18 +703,17 @@ GCPプロジェクト: seras-test-generator
 
 ## 12. テスト方針
 
-テスト総数: **67件**（pytest）、mypy + ruff パス済。
+テスト総数: **68件**（pytest）、ruff パス済。
 
 ### ユニットテスト
 - `test_section_parser.py`: パース正常系・異常系（存在しないセクション、不正入力等）
 - `test_data_loader.py`: YAML読み込み、check_points dict パース、DataStore API
 - `test_question_selector.py`: ウォームアップ選出、英文ノード紐付け、ノードセクション構築、通し番号、parse_check_point
-- `test_pdf_generator.py`: HTML生成の確認（テンプレートレンダリング、ウォームアップ/ノードセクション/逆引きガイドの出力検証）
-- `test_drive_uploader.py`: Google Drive API のモックテスト
+- `test_pdf_generator.py`: 統合HTML生成の確認（問題+解答の両方が含まれること、改ページ、テンプレートレンダリング）
 
 ### 結合テスト
-- `test_integration.py`: 実際のYAMLデータを使って `build_test_data()` → PDF生成の一連フローを確認
-- Drive アップロードはモックで代替
+- `test_integration.py`: 実際のYAMLデータを使って `build_test_data()` → 統合PDF生成の一連フローを確認
+- GCS アップロードはモックで代替
 
 ### テスト基盤
 - `conftest.py`: pytest フィクスチャ設定
