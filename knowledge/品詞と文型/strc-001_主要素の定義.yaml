@@ -8,7 +8,6 @@ understanding_goals:
   - "S=名詞、V=動詞、O=名詞、C=形容詞または名詞、という品詞の対応を即答できる"
   - "Cの働き（SとC、OとCの間にイコール関係を作る）を説明できる"
 check_points:
-  - assessment: "S・V・O・Cそれぞれの品詞を即答できるか"
   - question: "Cになれる品詞は？"
     answer: "形容詞と名詞"
   - question: "OとCの違いは？"
