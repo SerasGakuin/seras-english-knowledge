@@ -1,0 +1,20 @@
+id: subj-002
+name: "with+主語付き分詞構文（付帯状況のwith）"
+category: "準動詞の意味上の主語/基本概念"
+priority: P1
+prerequisites:
+  - subj-001
+understanding_goals:
+  - "主語付き分詞構文の先頭にwithが付く形（with+名詞+doing/done）を言える"
+  - "withが付く場合の訳出は付帯状況（...しながら）が多いが、理由・条件なども可能であることを説明できる"
+  - "withの有無で意味はほぼ変わらず、訳出は通常の分詞構文とほぼ同じであることを説明できる"
+  - "「付帯状況のwith」という用語を知っている"
+check_points:
+  - "「付帯状況のwithの形は？」→「with+名詞+doing/done」と答えられるか"
+  - "「withの有無で意味は変わる？」→「ほぼ変わらない。訳出は分詞構文と同じ」と答えられるか"
+  - "「付帯状況のwithの主な訳は？」→「...しながら、が多いが理由・条件なども可」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch05_00"
+    pages: "p.115"
+notes: "Ch03/Ch04完了後にリーダーがprerequisites調整予定。本来は分詞構文の知識が前提"

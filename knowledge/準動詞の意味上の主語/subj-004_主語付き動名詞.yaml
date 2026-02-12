@@ -1,0 +1,23 @@
+id: subj-004
+name: "主語付き動名詞"
+category: "準動詞の意味上の主語/動名詞・分詞構文"
+priority: P1
+prerequisites:
+  - subj-001
+  - strc-001
+understanding_goals:
+  - "名詞+doingの形で動名詞の意味上の主語を示すことを即答できる"
+  - "目的格または所有格+doingの形もあることを説明できる（例: him/his swimming）"
+  - "訳出は動名詞「...すること」に「Sが」を付けて「Sが...すること」とすることを言える"
+  - "前置詞の目的語として主語付き動名詞が来るパターン（of/for/in/to+名詞+doing）を識別できる"
+check_points:
+  - "「動名詞で意味上の主語を明示する形は？」→「名詞+doing（目的格/所有格+doingも可）」と答えられるか"
+  - "「主語付き動名詞の訳し方は？」→「Sが...すること」と答えられるか"
+  - "「result in+主語付き動名詞の構造は？」→「前置詞inの目的語として名詞+doingが来る」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch05_02"
+    pages: "p.120-123"
+notes: "Ch03/Ch04完了後にリーダーがprerequisites調整予定。本来は動名詞（名詞句）の知識が前提"
+additional_notes:
+  - "目的格+doing（him swimming）と所有格+doing（his swimming）はどちらも可。フォーマルには所有格が推奨されるが現代英語では目的格も広く用いられる"
