@@ -25,12 +25,12 @@ def client() -> TestClient:  # type: ignore[misc]
 
 def _mock_uploader() -> MagicMock:
     mock = MagicMock()
-    mock.upload.return_value = "https://drive.google.com/file/d/test123/view"
+    mock.upload.return_value = "https://storage.googleapis.com/seras-test-pdfs/test123.pdf"
     return mock
 
 
 class TestIntegration:
-    @patch("app.routers.test_generator.DriveUploader")
+    @patch("app.routers.test_generator.GCSUploader")
     def test_full_flow_200(self, mock_cls: MagicMock, client: TestClient) -> None:
         mock_cls.from_env.return_value = _mock_uploader()
         response = client.post(
@@ -38,7 +38,7 @@ class TestIntegration:
         )
         assert response.status_code == 200
 
-    @patch("app.routers.test_generator.DriveUploader")
+    @patch("app.routers.test_generator.GCSUploader")
     def test_response_has_urls(self, mock_cls: MagicMock, client: TestClient) -> None:
         mock_cls.from_env.return_value = _mock_uploader()
         response = client.post(
@@ -49,7 +49,7 @@ class TestIntegration:
         assert "answer_pdf_url" in data
         assert data["pdf_url"].startswith("https://")
 
-    @patch("app.routers.test_generator.DriveUploader")
+    @patch("app.routers.test_generator.GCSUploader")
     def test_metadata_sections(self, mock_cls: MagicMock, client: TestClient) -> None:
         mock_cls.from_env.return_value = _mock_uploader()
         response = client.post(

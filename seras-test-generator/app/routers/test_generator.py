@@ -10,7 +10,7 @@ from app.models import (
     TestMetadata,
 )
 from app.services.data_loader import DataStore, get_data_store
-from app.services.drive_uploader import DriveUploader
+from app.services.gcs_uploader import GCSUploader
 from app.services.pdf_generator import generate_answer_pdf, generate_test_pdf
 from app.services.question_selector import build_test_data
 from app.services.section_parser import parse_sections
@@ -29,7 +29,7 @@ async def generate_test(
     test_pdf = generate_test_pdf(test_data)
     answer_pdf = generate_answer_pdf(test_data)
 
-    uploader = DriveUploader.from_env()
+    uploader = GCSUploader.from_env()
     timestamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
     range_str = test_data.sections_label
     test_url = uploader.upload(test_pdf, f"確認テスト_{range_str}_{timestamp}.pdf")
