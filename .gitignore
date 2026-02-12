@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 *.pyc
+*.pdf
+seras-test-generator/.venv/
+seras-test-generator/output/
