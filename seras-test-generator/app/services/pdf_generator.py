@@ -18,27 +18,14 @@ def _get_env() -> Environment:
     )
 
 
-def render_test_html(data: TestData) -> str:
+def render_combined_html(data: TestData) -> str:
     env = _get_env()
-    template = env.get_template("test.html")
+    template = env.get_template("combined.html")
     return template.render(data=data)
 
 
-def render_answer_html(data: TestData) -> str:
-    env = _get_env()
-    template = env.get_template("answer.html")
-    return template.render(data=data)
-
-
-def generate_test_pdf(data: TestData) -> bytes:
-    html_str = render_test_html(data)
-    css_path = _STATIC_DIR / "styles.css"
-    stylesheets = [str(css_path)] if css_path.exists() else []
-    return HTML(string=html_str).write_pdf(stylesheets=stylesheets)
-
-
-def generate_answer_pdf(data: TestData) -> bytes:
-    html_str = render_answer_html(data)
+def generate_combined_pdf(data: TestData) -> bytes:
+    html_str = render_combined_html(data)
     css_path = _STATIC_DIR / "styles.css"
     stylesheets = [str(css_path)] if css_path.exists() else []
     return HTML(string=html_str).write_pdf(stylesheets=stylesheets)

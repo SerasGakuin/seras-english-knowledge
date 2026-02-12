@@ -9,10 +9,8 @@ from app.models import (
     WarmupQuestion,
 )
 from app.services.pdf_generator import (
-    render_answer_html,
-    render_test_html,
-    generate_test_pdf,
-    generate_answer_pdf,
+    render_combined_html,
+    generate_combined_pdf,
 )
 
 
@@ -74,55 +72,60 @@ def _sample_test_data() -> TestData:
     )
 
 
-class TestRenderHTML:
+class TestRenderCombinedHTML:
     def test_renders_warmup(self) -> None:
-        html = render_test_html(_sample_test_data())
+        html = render_combined_html(_sample_test_data())
         assert "ウォームアップ" in html
         assert "5文型を全部言って" in html
 
     def test_renders_node_sections(self) -> None:
-        html = render_test_html(_sample_test_data())
+        html = render_combined_html(_sample_test_data())
         assert "セクション 1" in html
         assert "5文型の意味" in html
         assert "第2文型の意味を全部言って" in html
 
     def test_renders_focus_points(self) -> None:
-        html = render_test_html(_sample_test_data())
+        html = render_combined_html(_sample_test_data())
         assert "着眼点" in html
         assert "Mの識別方法" in html
 
     def test_renders_sentence_in_section(self) -> None:
-        html = render_test_html(_sample_test_data())
+        html = render_combined_html(_sample_test_data())
         assert "The students in the classroom" in html
         assert "構造" in html
 
-    def test_renders_answer_sheet(self) -> None:
-        html = render_answer_html(_sample_test_data())
+    def test_renders_answer_in_same_html(self) -> None:
+        html = render_combined_html(_sample_test_data())
         assert "解答" in html
         assert "Cである/Cに感じる" in html
 
     def test_renders_review_guide(self) -> None:
-        html = render_answer_html(_sample_test_data())
+        html = render_combined_html(_sample_test_data())
         assert "この問題が解けなかった場合" in html
         assert "主要素" in html
         assert "前提知識" in html
 
     def test_renders_warmup_answer(self) -> None:
-        html = render_answer_html(_sample_test_data())
+        html = render_combined_html(_sample_test_data())
         assert "ウォームアップ 解答" in html
         assert "SV, SVC, SVO" in html
 
     def test_header_has_range_and_date(self) -> None:
-        html = render_test_html(_sample_test_data())
+        html = render_combined_html(_sample_test_data())
         assert "Ch01_01〜Ch01_01" in html
         assert "2026-02-12" in html
 
+    def test_has_page_break(self) -> None:
+        html = render_combined_html(_sample_test_data())
+        assert "page-break-before" in html
+
+    def test_has_both_headers(self) -> None:
+        html = render_combined_html(_sample_test_data())
+        assert "確認テスト<" in html or ">確認テスト<" in html
+        assert "確認テスト【解答・解説】" in html
+
 
 class TestGeneratePDF:
-    def test_pdf_bytes_valid(self) -> None:
-        pdf = generate_test_pdf(_sample_test_data())
-        assert pdf[:5] == b"%PDF-"
-
-    def test_answer_pdf_bytes_valid(self) -> None:
-        pdf = generate_answer_pdf(_sample_test_data())
+    def test_combined_pdf_bytes_valid(self) -> None:
+        pdf = generate_combined_pdf(_sample_test_data())
         assert pdf[:5] == b"%PDF-"

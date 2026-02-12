@@ -135,7 +135,6 @@ class TestMetadata(BaseModel):
 
 class GenerateTestResponse(BaseModel):
     pdf_url: str
-    answer_pdf_url: str
     metadata: TestMetadata
 
 

@@ -11,7 +11,7 @@ from app.models import (
 )
 from app.services.data_loader import DataStore, get_data_store
 from app.services.gcs_uploader import GCSUploader
-from app.services.pdf_generator import generate_answer_pdf, generate_test_pdf
+from app.services.pdf_generator import generate_combined_pdf
 from app.services.question_selector import build_test_data
 from app.services.section_parser import parse_sections
 
@@ -26,16 +26,12 @@ async def generate_test(
     section_ids = parse_sections(request.sections, data_store)
     test_data = build_test_data(section_ids, data_store)
 
-    test_pdf = generate_test_pdf(test_data)
-    answer_pdf = generate_answer_pdf(test_data)
+    pdf_bytes = generate_combined_pdf(test_data)
 
     uploader = GCSUploader.from_env()
     timestamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
     range_str = test_data.sections_label
-    test_url = uploader.upload(test_pdf, f"確認テスト_{range_str}_{timestamp}.pdf")
-    answer_url = uploader.upload(
-        answer_pdf, f"確認テスト_解答_{range_str}_{timestamp}.pdf"
-    )
+    pdf_url = uploader.upload(pdf_bytes, f"確認テスト_{range_str}_{timestamp}.pdf")
 
     # Collect all knowledge node IDs used
     node_ids = sorted(
@@ -51,8 +47,7 @@ async def generate_test(
     )
 
     return GenerateTestResponse(
-        pdf_url=test_url,
-        answer_pdf_url=answer_url,
+        pdf_url=pdf_url,
         metadata=TestMetadata(
             sections=test_data.sections,
             knowledge_nodes_used=node_ids,

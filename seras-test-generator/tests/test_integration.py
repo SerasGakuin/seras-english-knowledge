@@ -39,14 +39,14 @@ class TestIntegration:
         assert response.status_code == 200
 
     @patch("app.routers.test_generator.GCSUploader")
-    def test_response_has_urls(self, mock_cls: MagicMock, client: TestClient) -> None:
+    def test_response_has_url(self, mock_cls: MagicMock, client: TestClient) -> None:
         mock_cls.from_env.return_value = _mock_uploader()
         response = client.post(
             "/generate-test", json={"sections": "1-0~1-1"}
         )
         data = response.json()
         assert "pdf_url" in data
-        assert "answer_pdf_url" in data
+        assert "answer_pdf_url" not in data
         assert data["pdf_url"].startswith("https://")
 
     @patch("app.routers.test_generator.GCSUploader")

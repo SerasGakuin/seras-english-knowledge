@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>確認テスト</title>
+</head>
+<body>
+  {# ===== 問題パート ===== #}
+  <header>
+    <h1>確認テスト</h1>
+    <div class="meta">
+      <span class="range">範囲: {{ data.sections_label }}</span>
+      <span class="date">日付: {{ data.generated_at[:10] }}</span>
+      <span class="name-field">名前: _______________</span>
+    </div>
+  </header>
+
+  {% if data.warmup_questions %}
+  <section class="warmup-section">
+    <h2>ウォームアップ（前提知識の復習）</h2>
+    {% for q in data.warmup_questions %}
+    <div class="question-compact">
+      <p class="q-inline"><span class="q-num">({{ q.number }})</span> {{ q.question }}</p>
+      <div class="answer-line-single"></div>
+    </div>
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  {% for ns in data.node_sections %}
+  <section class="node-section">
+    <div class="node-section-header">
+      <h2>セクション {{ ns.section_number }}: {{ ns.node_name }} [{{ ns.node_id }}]</h2>
+    </div>
+
+    {% if ns.knowledge_questions %}
+    {% for q in ns.knowledge_questions %}
+    <div class="question-compact">
+      <p class="q-inline"><span class="q-num">({{ q.number }})</span> {{ q.question }}</p>
+      <div class="answer-line-single"></div>
+    </div>
+    {% endfor %}
+    {% endif %}
+
+    {% if ns.sentence_questions %}
+    {% for q in ns.sentence_questions %}
+    <div class="question">
+      <p class="q-inline"><span class="q-num">({{ q.number }})</span> <span class="q-english-inline">{{ q.english }}</span></p>
+      {% if q.focus_points %}
+      <p class="focus-points">着眼点: {{ q.focus_points | join(' / ') }}</p>
+      {% endif %}
+      <div class="answer-fields">
+        <p>構造: <span class="underline"></span></p>
+        <p>和訳: <span class="underline"></span></p>
+        <p class="extra-line"><span class="underline"></span></p>
+      </div>
+    </div>
+    {% endfor %}
+    {% endif %}
+  </section>
+  {% endfor %}
+
+  {# ===== 解答パート（改ページ） ===== #}
+  <div style="page-break-before: always"></div>
+
+  <header>
+    <h1>確認テスト【解答・解説】</h1>
+    <div class="meta">
+      <span class="range">範囲: {{ data.sections_label }}</span>
+    </div>
+  </header>
+
+  {% if data.warmup_questions %}
+  <section class="warmup-section">
+    <h2>ウォームアップ 解答</h2>
+    {% for q in data.warmup_questions %}
+    <div class="answer-item">
+      <p class="q-number">({{ q.number }})</p>
+      <p class="answer-text">{{ q.answer }}</p>
+      <p class="source">[{{ q.node_id }}: {{ q.node_name }}]</p>
+      <p class="reference">→ はじめの英文読解ドリル {{ q.reference_pages }}</p>
+      <p class="warmup-note">※ {{ q.note }}</p>
+    </div>
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  {% for ns in data.node_sections %}
+  <section class="node-section">
+    <div class="node-section-header">
+      <h2>セクション {{ ns.section_number }}: {{ ns.node_name }} [{{ ns.node_id }}]</h2>
+    </div>
+
+    {% if ns.knowledge_questions %}
+    <p class="sub-heading">知識確認 解答:</p>
+    {% for q in ns.knowledge_questions %}
+    <div class="answer-item">
+      <p class="q-number">({{ q.number }})</p>
+      <p class="answer-text">{{ q.answer }}</p>
+      <p class="source">[{{ q.node_id }}: {{ q.node_name }}]</p>
+      <p class="reference">→ はじめの英文読解ドリル {{ q.reference_pages }}</p>
+    </div>
+    {% endfor %}
+    {% endif %}
+
+    {% if ns.sentence_questions %}
+    <p class="sub-heading">英文 解答:</p>
+    {% for q in ns.sentence_questions %}
+    <div class="answer-item">
+      <p class="q-number">({{ q.number }})</p>
+      <p class="q-english">{{ q.english }}</p>
+      <p>構造: {{ q.structure }}</p>
+      <p>和訳: {{ q.japanese }}</p>
+      {% if q.notes %}
+      <p class="notes">{{ q.notes }}</p>
+      {% endif %}
+      <p class="source">[{{ q.knowledge_tags | join(', ') }}]</p>
+      <p class="reference">→ はじめの英文読解ドリル {{ q.source_pages }}</p>
+    </div>
+    {% endfor %}
+    {% endif %}
+
+    {% if ns.review_guide %}
+    <div class="review-guide">
+      <p class="review-guide-title">この問題が解けなかった場合:</p>
+      {% for rg in ns.review_guide %}
+      <p class="review-guide-item">→ {{ rg.node_id }}: {{ rg.node_name }}（{{ rg.reference_pages }}）を復習{% if rg.reason %}（{{ rg.reason }}）{% endif %}</p>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </section>
+  {% endfor %}
+</body>
+</html>
