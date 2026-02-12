@@ -1,0 +1,28 @@
+id: vtyp-009
+name: "SVO+do/doing/done動詞リスト（知覚動詞・使役動詞）"
+category: "動詞の型/SVO+準動詞"
+priority: P1
+prerequisites:
+  - strc-002
+  - strc-015
+  - vtyp-002
+understanding_goals:
+  - "知覚動詞（see/hear/feel/watch/notice）がCにdo/doing/doneの3形式をとれることを説明できる"
+  - "haveがCにdo（依頼・指示）とdone（してもらう/される）をとれることを説明できる"
+  - "makeがCにdo（させる/因果関係）とdone（定型表現のみ）をとれることを説明できる"
+  - "make O doneの定型表現3つ（make oneself understood/heard、make O known）を列挙できる"
+  - "let+O doの意味を言える"
+  - "keep/leaveがCにdoing/doneをとれ、状態を保つ/ままにするの意味であることを説明でき、keepは意識的、leaveは無意識的という違いを言える"
+check_points:
+  - "「see O doとsee O doingの意味の違いは？」→「doは『Oが…するのを見る』、doingは『Oが…しているのを見る』」と答えられるか"
+  - "「have O doとhave O doneの違いは？」→「doは『Oに…してもらう/させる』（依頼・指示）、doneは『Oを…してもらう/される』」と答えられるか"
+  - "「make O doneの形は自由に使える？」→「使えない。make oneself understood/heard、make O knownの定型表現に限る」と答えられるか"
+  - "「keepとleaveの違いは？」→「keepは意識的に状態を保つ、leaveは無意識的にそのままにする」と答えられるか"
+  - "「let O doの意味は？」→「Oに…させる」と答えられるか"
+  - "「watch O do/doingの意味は？」→「Oが…するのをじっと見る/Oが…しているのを（継続的に）見る」と答えられるか"
+  - "「notice O do/doingの使い分けは？」→「瞬間的に気づく=do/進行中の状態に気づく=doingが基本」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch02_02"
+    pages: "p.38"
+notes: "知覚動詞は see/hear/feel/watch/notice の5種、使役動詞は have/make/let。keep/leaveの意識的/無意識的の区別も重要"

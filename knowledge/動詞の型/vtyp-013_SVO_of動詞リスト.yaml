@@ -1,0 +1,21 @@
+id: vtyp-013
+name: "SVO+of動詞リスト（分離・除去/伝達）"
+category: "動詞の型/SVO+前置詞句"
+priority: P1
+prerequisites:
+  - strc-002
+  - vtyp-004
+understanding_goals:
+  - "SVO of 〜の動詞を「分離・除去」と「伝達」の2グループに分類して列挙できる"
+  - "分離・除去グループ（rob/deprive O of 〜「Oから〜を奪う」、cure O of 〜「Oの〜を治す」、clear O of 〜「Oから〜を取り除く」）を全て言える"
+  - "伝達グループ（remind O of 〜「Oに〜を思い出させる」、inform/notify O of 〜「Oに〜を知らせる」、convince O of 〜「Oに〜を確信させる」）を全て言える"
+check_points:
+  - "「rob O of 〜の意味は？」→「Oから〜を奪う」と答えられるか"
+  - "「remind O of 〜の意味は？」→「Oに〜を思い出させる」と答えられるか"
+  - "「SVO of 〜の分離・除去グループの動詞を全部言って」→「rob/deprive/cure/clear」と答えられるか"
+  - "「convince O of 〜の意味は？」→「Oに〜を確信させる」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch02_04"
+    pages: "p.46"
+notes: "ofの後ろに「奪われるもの」または「知らされる内容」が来る。意味傾向で分類"

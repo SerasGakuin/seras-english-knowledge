@@ -1,0 +1,21 @@
+id: vtyp-006
+name: "There VS構文の基本定義"
+category: "動詞の型/There VS構文"
+priority: P1
+prerequisites:
+  - strc-001
+  - strc-002
+  - strc-004
+understanding_goals:
+  - "There is/are ...構文でthereは副詞でありSではないことを説明できる"
+  - "There VS構文ではbe動詞の後の名詞がS、be動詞がVであることを言える"
+  - "語順が「There VS」となる倒置構文であることを説明できる"
+check_points:
+  - "「There is a bench in the park.のSとVは？」→「Sはa bench、Vはis」と答えられるか"
+  - "「なぜThereはSではない？」→「thereは副詞だからSにはなれない」と答えられるか"
+  - "「There VS構文の語順の特徴は？」→「通常のSVではなくVSの語順になっている倒置」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch02_00"
+    pages: "p.33"
+notes: "Ch02_08の前提概念。Ch06_06（倒置）とも関連する"

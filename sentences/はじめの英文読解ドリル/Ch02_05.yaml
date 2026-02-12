@@ -1,0 +1,190 @@
+source:
+  book: はじめの英文読解ドリル
+  section: Ch02_05
+  title: "SVO+決まった前置詞句(2)"
+  pages: "p.50-53"
+
+sentences:
+  # ===== ドリル1 =====
+  - id: haj-02-05-d1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "We applied his theory to our new product."
+    japanese: "私たちは、彼の理論を私たちの新製品に応用した。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-017
+    notes: "apply O to 〜「Oを〜に応用する」"
+
+  - id: haj-02-05-d1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "We should limit the size of the audience to 100 people."
+    japanese: "私たちは、聴衆の規模を100人に制限するべきだ。"
+    structure:
+      全体: "S V O M M"
+    knowledge_tags:
+      - vtyp-017
+    notes: "limit O to 〜「Oを〜に制限する」。of the audienceは形容詞句()でsizeを修飾"
+
+  - id: haj-02-05-d1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "The lawyer blamed the driver for the accident."
+    japanese: "その弁護士は、その運転手を、事故を理由に責めた。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-016
+    notes: "blame O for 〜「Oを〜を理由に責める」"
+
+  - id: haj-02-05-d1-04
+    drill: 1
+    number: 4
+    role: practice
+    english: "Heat changes water into steam."
+    japanese: "熱は、水を蒸気に変える。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-018
+    notes: "change O into 〜「Oを〜に変える」"
+
+  - id: haj-02-05-d1-05
+    drill: 1
+    number: 5
+    role: practice
+    english: "She divided the cake into five pieces."
+    japanese: "彼女は、そのケーキを5切れに分けた。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-018
+    notes: "divide O into 〜「Oを〜に分ける」"
+
+  # ===== ドリル3 =====
+  - id: haj-02-05-d3-01
+    drill: 3
+    number: 1
+    role: practice
+    english: "She easily adapted herself to the new circumstances."
+    japanese: "彼女は、容易に、自分自身を新しい環境に適応させた。"
+    structure:
+      全体: "S M V O M"
+    knowledge_tags:
+      - vtyp-017
+    notes: "adapt O to 〜「Oを〜に適応させる」。easilyは副詞〈〉"
+
+  - id: haj-02-05-d3-02
+    drill: 3
+    number: 2
+    role: practice
+    english: "The single man devotes all his time and energy to his business."
+    japanese: "その独身の男性は、すべての時間とエネルギーを、彼のビジネスに捧げている。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-017
+    notes: "devote O to 〜「Oを〜に捧げる」"
+
+  - id: haj-02-05-d3-03
+    drill: 3
+    number: 3
+    role: practice
+    english: "We have to exchange yen for dollars at the airport."
+    japanese: "私たちは、空港で、円をドルに交換しなければならない。"
+    structure:
+      全体: "S V O M M"
+    knowledge_tags:
+      - vtyp-016
+    notes: "exchange O for 〜「Oを〜と交換する」。at the airportは副詞句〈〉"
+
+  - id: haj-02-05-d3-04
+    drill: 3
+    number: 4
+    role: practice
+    english: "He harshly criticized the government for the lack of transparency."
+    japanese: "彼は、政府を、透明性の欠如を理由に厳しく批判した。"
+    structure:
+      全体: "S M V O M M"
+    knowledge_tags:
+      - vtyp-016
+    notes: "criticize O for 〜「Oを〜を理由に批判する」。harshlyは副詞〈〉、of transparencyは形容詞句()でlackを修飾"
+
+  - id: haj-02-05-d3-05
+    drill: 3
+    number: 5
+    role: practice
+    english: "I need to translate this document into Japanese."
+    japanese: "私は、この書類を日本語に翻訳する必要がある。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-018
+      - vtyp-003
+    notes: "translate O into 〜「Oを〜に翻訳する」。need to translateを1つのVと見なす"
+
+  # ===== ドリル4 =====
+  - id: haj-02-05-d4-01
+    drill: 4
+    number: 1
+    role: practice
+    english: "We should confine the discussion to the point at issue."
+    japanese: "私たちは、議論を、問題となっている点に限定するべきだ。"
+    structure:
+      全体: "S V O M M"
+    knowledge_tags:
+      - vtyp-017
+    notes: "confine O to 〜「Oを〜に限定する」。at issueは形容詞句()でpointを修飾"
+
+  - id: haj-02-05-d4-02
+    drill: 4
+    number: 2
+    role: practice
+    english: "You shouldn't expose your skin to strong sunshine."
+    japanese: "あなたは、肌を強い日光にさらすべきではない。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-017
+    notes: "expose O to 〜「Oを〜にさらす」"
+
+  - id: haj-02-05-d4-03
+    drill: 4
+    number: 3
+    role: practice
+    english: "She substituted margarine for butter."
+    japanese: "彼女は、マーガリンをバターの代わりに使った。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-016
+    notes: "substitute O for 〜「Oを〜の代わりに使う」"
+
+  - id: haj-02-05-d4-04
+    drill: 4
+    number: 4
+    role: practice
+    english: "Everyone praised the editor for her remarkable achievement."
+    japanese: "全員が、著しい成果に対してその編集者を賞賛した。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-016
+    notes: "praise O for 〜「Oを〜を理由に賞賛する」"
+
+  - id: haj-02-05-d4-05
+    drill: 4
+    number: 5
+    role: practice
+    english: "She first classified the data into several categories."
+    japanese: "彼女は最初に、そのデータをいくつかのカテゴリーに分類した。"
+    structure:
+      全体: "S M V O M"
+    knowledge_tags:
+      - vtyp-018
+    notes: "classify O into 〜「Oを〜に分類する」。firstは副詞〈〉"

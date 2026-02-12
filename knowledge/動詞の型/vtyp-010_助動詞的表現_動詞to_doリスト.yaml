@@ -1,0 +1,26 @@
+id: vtyp-010
+name: "助動詞的表現リスト（動詞 to do）"
+category: "動詞の型/助動詞的表現"
+priority: P1
+prerequisites:
+  - strc-002
+  - vtyp-003
+understanding_goals:
+  - "「動詞 to do」型の助動詞的表現を12個（tend/seem/appear/happen/fail/manage/refuse/hesitate/afford/promise/offer/agree）で列挙できる"
+  - "seem/appear to do「…するようだ」、happen to do「たまたま…する」を言える"
+  - "tend to do「…する傾向がある」、fail to do「…できない/…しない」を言える"
+  - "manage to do「なんとか…する」、refuse to do「…するのを拒否する」、hesitate to do「…するのをためらう」を言える"
+  - "afford to do「…する（だけの余裕が）ある」、promise to do「…することを約束する」、offer to do「…すると申し出る」、agree to do「…することに同意する」を言える"
+check_points:
+  - "「seem to doの意味は？」→「…するようだ」と答えられるか"
+  - "「fail to doの意味は？」→「…できない、…しない」と答えられるか"
+  - "「manage to doの意味は？」→「なんとか…する」と答えられるか"
+  - "「『たまたま…する』を英語で言うと？」→「happen to do」と答えられるか"
+  - "「refuse/hesitate to doの意味は？」→「…するのを拒否する/ためらう」と答えられるか"
+  - "「offer/promise/agree to doの意味は？」→「…すると申し出る/…することを約束する/…することに同意する」と答えられるか"
+  - "「『〜する余裕がある』を英語で言うと？」→「can/could afford to do」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch02_03"
+    pages: "p.42"
+notes: "全て「セットで1つのV」と見なすことで文型分析が直感的になる表現。決定・計画・試行などの一般動詞（decide/plan/try/learn/come など）がto不定詞を後続する場合も、文脈により1つのVとして把握すると読みやすいことがある（本ノードの『助動詞的』コア12からは外す）"

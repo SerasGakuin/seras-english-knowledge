@@ -1,0 +1,24 @@
+id: vtyp-011
+name: "助動詞的表現リスト（be 形容詞 to do）"
+category: "動詞の型/助動詞的表現"
+priority: P1
+prerequisites:
+  - strc-002
+  - vtyp-003
+understanding_goals:
+  - "「be 形容詞 to do」型のコア8表現（be likely/unlikely/sure/certain/willing/reluctant/about/due to do）を全て列挙できる"
+  - "be likely/unlikely to do「…しそうである/…しそうにない」、be sure/certain to do「必ず/きっと…する」を言える"
+  - "be willing to do「…するのをいとわない」、be reluctant to do「…したがらない」を言える"
+  - "be about to do「まさに…しようとしている」、be due to do「…する予定である/…するはずである」を言える"
+  - "拡張（代表）: be eager/anxious/ready/apt to do も1つのVとして扱えることを理解し、文脈に応じて使い分けられる"
+check_points:
+  - "「be likely/unlikely to doの意味は？」→「…しそうである/…しそうにない」と答えられるか"
+  - "「be sure/certain to doの違いは？」→「確信度は文脈依存だが、どちらも『必ず/きっと…する』」と答えられるか"
+  - "「be willing/reluctant to doの意味は？」→「…するのをいとわない/…したがらない」と答えられるか"
+  - "「『まさに…しようとしている』を英語で？」→「be about to do」と答えられるか"
+  - "「『…する予定（のはず）だ』を英語で？」→「be due to do」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch02_03"
+    pages: "p.42"
+notes: "be able to doの仲間として理解する。全て1つのVと見なす。教材によっては eager/anxious/ready/apt を含める場合も多く、本ノードではコア8＋拡張として整理"

@@ -1,0 +1,189 @@
+source:
+  book: はじめの英文読解ドリル
+  section: Ch02_07
+  title: "受動態(2)"
+  pages: "p.58-61"
+
+sentences:
+  # ===== ドリル1 =====
+  - id: haj-02-07-d1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "My grandmother was made to sign the contract against her will."
+    japanese: "私の祖母は，彼女の意志に反してその契約書に署名させられた。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - vtyp-020
+    notes: "SVO do型の受動態。make O do→O be made to do。against her willは副詞句〈〉"
+
+  - id: haj-02-07-d1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "My father was forced to sell all his assets."
+    japanese: "私の父は，すべての彼の資産を売ることを強制された。"
+    structure:
+      全体: "S V C"
+    knowledge_tags:
+      - vtyp-020
+    notes: "SVO to do型の受動態。force O to do→O be forced to do"
+
+  - id: haj-02-07-d1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "The guests were kept waiting at the entrance."
+    japanese: "客は，入口で待っているままにさせられた。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - vtyp-020
+    notes: "SVO doing型の受動態。keep O doing→O be kept doing。at the entranceは副詞句〈〉"
+
+  - id: haj-02-07-d1-04
+    drill: 1
+    number: 4
+    role: practice
+    english: "The man was robbed of his belongings along the street."
+    japanese: "その男性は，その道沿いで，彼の所持品を奪われた。"
+    structure:
+      全体: "S V M M"
+    knowledge_tags:
+      - vtyp-020
+    notes: "SVO前置詞句型の受動態。rob O of〜→O be robbed of〜。along the streetは副詞句〈〉"
+
+  - id: haj-02-07-d1-05
+    drill: 1
+    number: 5
+    role: practice
+    english: "You will be informed of the results of the investigation."
+    japanese: "あなたは，その調査の結果を知らされるだろう。"
+    structure:
+      全体: "S V M M"
+    knowledge_tags:
+      - vtyp-020
+    notes: "SVO前置詞句型の受動態。inform O of〜→O be informed of〜。of the investigationは形容詞句()でresultsを修飾"
+
+  # ===== ドリル3 =====
+  - id: haj-02-07-d3-01
+    drill: 3
+    number: 1
+    role: practice
+    english: "The passengers were made to wait on the bus."
+    japanese: "乗客たちは，バスで待たされた。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - vtyp-020
+    notes: "SVO do型の受動態。make O do→O be made to do。on the busは副詞句〈〉"
+
+  - id: haj-02-07-d3-02
+    drill: 3
+    number: 2
+    role: practice
+    english: "The participants were asked to describe a painful experience in their life."
+    japanese: "参加者たちは，彼らの人生における痛ましい経験を説明するよう頼まれた。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - vtyp-020
+    notes: "SVO to do型の受動態。ask O to do→O be asked to do。in their lifeは副詞句〈〉"
+
+  - id: haj-02-07-d3-03
+    drill: 3
+    number: 3
+    role: practice
+    english: "The water was left running."
+    japanese: "水は，流れているまま（出しっぱなし）にされ（てい）た。"
+    structure:
+      全体: "S V C"
+    knowledge_tags:
+      - vtyp-020
+    notes: "SVO doing型の受動態。leave O doing→O be left doing"
+
+  - id: haj-02-07-d3-04
+    drill: 3
+    number: 4
+    role: practice
+    english: "The real reason should be left unsaid."
+    japanese: "本当の理由は，言われないままにされて（言わないで）おくべきだ。"
+    structure:
+      全体: "S V C"
+    knowledge_tags:
+      - vtyp-020
+    notes: "SVO done型の受動態。leave O done→O be left done。unsaid=言われない"
+
+  - id: haj-02-07-d3-05
+    drill: 3
+    number: 5
+    role: practice
+    english: "The scientist was praised for his amazing discovery."
+    japanese: "その科学者は，彼の驚くべき発見に対して賞賛された。"
+    structure:
+      全体: "S V M"
+    knowledge_tags:
+      - vtyp-020
+    notes: "SVO前置詞句型の受動態。praise O for〜→O be praised for〜"
+
+  # ===== ドリル4 =====
+  - id: haj-02-07-d4-01
+    drill: 4
+    number: 1
+    role: practice
+    english: "He was heard to criticize his boss."
+    japanese: "彼は，彼の上司を批判するのを聞かれた。"
+    structure:
+      全体: "S V C"
+    knowledge_tags:
+      - vtyp-020
+    notes: "SVO do型の受動態。hear O do→O be heard to do"
+
+  - id: haj-02-07-d4-02
+    drill: 4
+    number: 2
+    role: practice
+    english: "Candidates for the scholarship are required to send this document."
+    japanese: "奨学金の志願者（たち）は，この書類を送るよう要求されている。"
+    structure:
+      全体: "S M V C"
+    knowledge_tags:
+      - vtyp-020
+    notes: "SVO to do型の受動態。require O to do→O be required to do。for the scholarshipは形容詞句()でCandidatesを修飾"
+
+  - id: haj-02-07-d4-03
+    drill: 4
+    number: 3
+    role: practice
+    english: "He was seen quarreling with someone on the street."
+    japanese: "彼は，道で誰かと口論しているのを見られた。"
+    structure:
+      全体: "S V C M M"
+    knowledge_tags:
+      - vtyp-020
+    notes: "SVO doing型の受動態。see O doing→O be seen doing。with someoneとon the streetは副詞句〈〉"
+
+  - id: haj-02-07-d4-04
+    drill: 4
+    number: 4
+    role: practice
+    english: "The territorial dispute between the two countries has been left unsolved."
+    japanese: "その二国間の領土紛争は，解決されていないままである。"
+    structure:
+      全体: "S M V C"
+    knowledge_tags:
+      - vtyp-020
+    notes: "SVO done型の受動態。leave O done→O be left done。between the two countriesは形容詞句()でdisputeを修飾"
+
+  - id: haj-02-07-d4-05
+    drill: 4
+    number: 5
+    role: practice
+    english: "Women in this tribe were deprived of their liberty."
+    japanese: "この部族の女性たちは，彼女たちの自由を奪われ（てい）た。"
+    structure:
+      全体: "S M V M"
+    knowledge_tags:
+      - vtyp-020
+    notes: "SVO前置詞句型の受動態。deprive O of〜→O be deprived of〜。in this tribeは形容詞句()でWomenを修飾"

@@ -1,0 +1,19 @@
+id: vtyp-008
+name: "SVO+to doの因果関係訳"
+category: "動詞の型/SVO+準動詞"
+priority: P1
+prerequisites:
+  - vtyp-007
+understanding_goals:
+  - "SVO+to do構文が因果関係を示すことが多いことを説明できる（Sが原因、OCが結果）"
+  - "因果関係訳のパターン「Sによって/のせいで/のおかげで、Oは…する/できる/せざるを得ない」を言える"
+  - "直訳と因果訳の2通りの訳し方を具体例で示せる"
+check_points:
+  - "「SVO+to doが因果関係を示す場合、SとOCの関係は？」→「Sが原因、OCが結果」と答えられるか"
+  - "「Language enables us to convey our ideas.を因果訳して」→「言語によって（のおかげで）、私たちは自分の考えを伝えることができる」と訳せるか"
+  - "「因果訳の基本パターンは？」→「Sによって/のせいで/のおかげで、Oは…する/できる/せざるを得ない」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch02_01"
+    pages: "p.34"
+notes: "p.130参照との記載あり。因果訳は特にenable/allow/cause/helpで頻出"

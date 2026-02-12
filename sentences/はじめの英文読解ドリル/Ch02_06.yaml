@@ -1,0 +1,189 @@
+source:
+  book: はじめの英文読解ドリル
+  section: Ch02_06
+  title: "受動態(1)"
+  pages: "p.54-57"
+
+sentences:
+  # ===== ドリル1 =====
+  - id: haj-02-06-d1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "My request was ignored by everyone."
+    japanese: "私の要望は、全員によって無視された。"
+    structure:
+      全体: "S V M"
+    knowledge_tags:
+      - vtyp-019
+    notes: "SVO型の受動態。ignore O→O be ignored。by everyoneは本来のS"
+
+  - id: haj-02-06-d1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "We were given sufficient funds for the new project."
+    japanese: "私たちは、その新しいプロジェクトのための十分な資金を与えられた。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-019
+    notes: "SVO1O2型の受動態（O1が主語）。give O1 O2→O1 be given O2。for the new projectは形容詞句()でfundsを修飾"
+
+  - id: haj-02-06-d1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "The award was given to a young scientist."
+    japanese: "その賞は、ある若い科学者に与えられた。"
+    structure:
+      全体: "S V M"
+    knowledge_tags:
+      - vtyp-019
+    notes: "SVO1O2型の受動態（O2が主語）。give O1 O2→O2 be given to O1"
+
+  - id: haj-02-06-d1-04
+    drill: 1
+    number: 4
+    role: practice
+    english: "This fish is called a tuna in English."
+    japanese: "この魚は、英語では、tunaと呼ばれている。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - vtyp-019
+    notes: "SVOC型の受動態。call O C→O be called C。in Englishは副詞句〈〉"
+
+  - id: haj-02-06-d1-05
+    drill: 1
+    number: 5
+    role: practice
+    english: "Japan is regarded as a safe country."
+    japanese: "日本は、安全な国だと見なされている。"
+    structure:
+      全体: "S V C"
+    knowledge_tags:
+      - vtyp-019
+    notes: "SVOC(as)型の受動態。regard O as C→O be regarded as C"
+
+  # ===== ドリル3 =====
+  - id: haj-02-06-d3-01
+    drill: 3
+    number: 1
+    role: practice
+    english: "She was told a tragic story about the war by her parents."
+    japanese: "彼女は、両親に、その戦争についての悲劇的な話を伝えられた。"
+    structure:
+      全体: "S V O M M"
+    knowledge_tags:
+      - vtyp-019
+    notes: "SVO1O2型の受動態（O1が主語）。tell O1 O2→O1 be told O2。about the warは形容詞句()、by her parentsは副詞句〈〉"
+
+  - id: haj-02-06-d3-02
+    drill: 3
+    number: 2
+    role: practice
+    english: "He was named Shohei after the baseball player."
+    japanese: "彼は、その野球選手にちなんでショウヘイと名付けられた。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - vtyp-019
+    notes: "SVOC型の受動態。name O C→O be named C。after the baseball playerは副詞句〈〉"
+
+  - id: haj-02-06-d3-03
+    drill: 3
+    number: 3
+    role: practice
+    english: "The news will be made public tomorrow morning."
+    japanese: "明日の朝、そのニュースは、公にされるだろう。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - vtyp-019
+    notes: "SVOC型の受動態。make O C→O be made C。tomorrow morningは副詞句〈〉"
+
+  - id: haj-02-06-d3-04
+    drill: 3
+    number: 4
+    role: practice
+    english: "This medicine is considered effective in the treatment of diabetes."
+    japanese: "この薬は、糖尿病の治療において効果的だと考えられている。"
+    structure:
+      全体: "S V C M M"
+    knowledge_tags:
+      - vtyp-019
+    notes: "SVOC(to be)型の受動態。consider O (to be) C→O be considered C。in the treatmentは副詞句〈〉、of diabetesは形容詞句()"
+
+  - id: haj-02-06-d3-05
+    drill: 3
+    number: 5
+    role: practice
+    english: "Purple is regarded as a symbol of wisdom, wealth, and power."
+    japanese: "紫は、英知、富、権力の象徴だと見なされている。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - vtyp-019
+    notes: "SVOC(as)型の受動態。regard O as C→O be regarded as C。of wisdom, wealth, and powerは形容詞句()でsymbolを修飾"
+
+  # ===== ドリル4 =====
+  - id: haj-02-06-d4-01
+    drill: 4
+    number: 1
+    role: practice
+    english: "Those children are denied access to education."
+    japanese: "それらの子どもたちは、教育を受ける権利を与えられていない。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-019
+    notes: "SVO1O2型の受動態（O1が主語）。deny O1 O2→O1 be denied O2。to educationは形容詞句()でaccessを修飾"
+
+  - id: haj-02-06-d4-02
+    drill: 4
+    number: 2
+    role: practice
+    english: "The suspect was found guilty."
+    japanese: "その容疑者は、有罪だと分かった。"
+    structure:
+      全体: "S V C"
+    knowledge_tags:
+      - vtyp-019
+    notes: "SVOC型の受動態。find O C→O be found C"
+
+  - id: haj-02-06-d4-03
+    drill: 4
+    number: 3
+    role: practice
+    english: "The window is kept open for air circulation."
+    japanese: "その窓は、換気のために、開けられたままである。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - vtyp-019
+    notes: "SVOC型の受動態。keep O C→O be kept C。for air circulationは副詞句〈〉"
+
+  - id: haj-02-06-d4-04
+    drill: 4
+    number: 4
+    role: practice
+    english: "The Nobel Prize is considered to be the most prestigious prize in the world."
+    japanese: "ノーベル賞は、世界で最も権威のある賞だと考えられている。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - vtyp-019
+    notes: "SVOC(to be)型の受動態。consider O to be C→O be considered to be C。in the worldは副詞句〈〉"
+
+  - id: haj-02-06-d4-05
+    drill: 4
+    number: 5
+    role: practice
+    english: "Carbon dioxide is thought of as the primary cause of climate change."
+    japanese: "二酸化炭素は、気候変動の主な原因だと考えられている。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - vtyp-019
+    notes: "SVOC(as)型の受動態。think of O as C→O be thought of as C。of climate changeは形容詞句()でcauseを修飾"

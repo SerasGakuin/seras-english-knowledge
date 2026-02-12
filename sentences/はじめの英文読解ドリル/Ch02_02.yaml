@@ -1,0 +1,191 @@
+source:
+  book: はじめの英文読解ドリル
+  section: Ch02_02
+  title: "SVO+do/doing/done"
+  pages: "p.38-41"
+
+sentences:
+  # ===== ドリル1 =====
+  - id: haj-02-02-d1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "I saw someone enter the building."
+    japanese: "私は、誰かが建物の中に入るのを見た。"
+    structure:
+      全体: "S V O C"
+    knowledge_tags:
+      - vtyp-009
+    notes: "see O do「Oが…するのを見る」。「誰かが入る」という主述関係が成立"
+
+  - id: haj-02-02-d1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "I noticed a dog barking in the distance."
+    japanese: "私は、遠くの方でイヌがほえているのに気付いた。"
+    structure:
+      全体: "S V O C M"
+    knowledge_tags:
+      - vtyp-009
+    notes: "notice O doing「Oが…しているのに気付く」。in the distanceは副詞句〈〉"
+
+  - id: haj-02-02-d1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "I will have my secretary call you later."
+    japanese: "私は、私の秘書に後であなたに電話させる。"
+    structure:
+      全体: "S V O C M"
+    knowledge_tags:
+      - vtyp-009
+    notes: "have O do「Oに…してもらう/させる」。laterは副詞〈〉。call youはCの範囲内"
+
+  - id: haj-02-02-d1-04
+    drill: 1
+    number: 4
+    role: practice
+    english: "We will have this printer repaired tomorrow."
+    japanese: "私たちは、明日、この印刷機を修理してもらう。"
+    structure:
+      全体: "S V O C M"
+    knowledge_tags:
+      - vtyp-009
+    notes: "have O done「Oを…してもらう」。「この印刷機が修理される」という主述関係が成立"
+
+  - id: haj-02-02-d1-05
+    drill: 1
+    number: 5
+    role: practice
+    english: "The scandal made him resign from the post."
+    japanese: "そのスキャンダルは、彼にその地位から辞任させた。"
+    structure:
+      全体: "S V O C M"
+    knowledge_tags:
+      - vtyp-009
+      - vtyp-008
+    notes: "make O do「Oに…させる」。from the postは副詞句〈〉。因果訳「そのスキャンダルによって、彼はその地位から辞任した」"
+
+  # ===== ドリル3 =====
+  - id: haj-02-02-d3-01
+    drill: 3
+    number: 1
+    role: practice
+    english: "I saw a man with a guide dog cross the road."
+    japanese: "私は、盲導犬を連れた男性が、道を渡るのを見た。"
+    structure:
+      全体: "S V O M C"
+    knowledge_tags:
+      - vtyp-009
+    notes: "see O do「Oが…するのを見る」。with a guide dogは形容詞句()でmanを修飾。cross the roadはCの範囲"
+
+  - id: haj-02-02-d3-02
+    drill: 3
+    number: 2
+    role: practice
+    english: "The other day, we watched a cat sleeping under the tree."
+    japanese: "先日、私たちは、その木の下で寝ているネコを（しばらく）見ていた。"
+    structure:
+      全体: "M S V O C M"
+    knowledge_tags:
+      - vtyp-009
+    notes: "watch O doing「Oが…しているのを（継続的に）見る」。The other dayは副詞句〈〉、under the treeは副詞句〈〉"
+
+  - id: haj-02-02-d3-03
+    drill: 3
+    number: 3
+    role: practice
+    english: "You should have the waiter bring you a towel."
+    japanese: "あなたは、そのウェイターにタオルを持ってきてもらうべきだ。"
+    structure:
+      全体: "S V O C"
+    knowledge_tags:
+      - vtyp-009
+    notes: "have O do「Oに…してもらう」。bring you a towelはCの範囲（bring O1 O2の形）"
+
+  - id: haj-02-02-d3-04
+    drill: 3
+    number: 4
+    role: practice
+    english: "He couldn't make himself understood in English."
+    japanese: "彼は、英語で理解してもらうことができなかった。"
+    structure:
+      全体: "S V O C M"
+    knowledge_tags:
+      - vtyp-009
+    notes: "make oneself understood「(相手に)理解してもらう」の定型表現。in Englishは副詞句〈〉"
+
+  - id: haj-02-02-d3-05
+    drill: 3
+    number: 5
+    role: practice
+    english: "He let his daughter study abroad."
+    japanese: "彼は、彼の娘に留学させた。"
+    structure:
+      全体: "S V O C M"
+    knowledge_tags:
+      - vtyp-009
+    notes: "let O do「Oに…させる」。abroadは副詞〈〉"
+
+  # ===== ドリル4 =====
+  - id: haj-02-02-d4-01
+    drill: 4
+    number: 1
+    role: practice
+    english: "I heard something explode outside."
+    japanese: "私は、何かが外で爆発するのを聞いた。"
+    structure:
+      全体: "S V O C M"
+    knowledge_tags:
+      - vtyp-009
+    notes: "hear O do「Oが…するのを聞く」。outsideは副詞〈〉"
+
+  - id: haj-02-02-d4-02
+    drill: 4
+    number: 2
+    role: practice
+    english: "On the way to the station, she had her wallet stolen."
+    japanese: "駅へ行く途中、彼女は財布を盗まれた。"
+    structure:
+      全体: "M S V O C"
+    knowledge_tags:
+      - vtyp-009
+    notes: "have O done「Oを…される」（被害の用法）。On the way to the stationは副詞句〈〉"
+
+  - id: haj-02-02-d4-03
+    drill: 4
+    number: 3
+    role: practice
+    english: "The spread of the virus made many people refrain from going out."
+    japanese: "そのウイルスの広がりは、多くの人々に外出を控えさせた。"
+    structure:
+      全体: "S M V O C M"
+    knowledge_tags:
+      - vtyp-009
+      - vtyp-008
+    notes: "make O do「Oに…させる」。of the virusは形容詞句()でspreadを修飾。from going outは副詞句〈〉。因果訳「そのウイルスの広がりによって、多くの人々は外出を控えた」"
+
+  - id: haj-02-02-d4-04
+    drill: 4
+    number: 4
+    role: practice
+    english: "The president of the company made the unbelievable fact known to the public."
+    japanese: "その会社の社長は、信じられないような事実を一般の人々に知らせた。"
+    structure:
+      全体: "S M V O C M"
+    knowledge_tags:
+      - vtyp-009
+    notes: "make O known「(人に)Oを知らせる」の定型表現。of the companyは形容詞句()、to the publicは副詞句〈〉"
+
+  - id: haj-02-02-d4-05
+    drill: 4
+    number: 5
+    role: practice
+    english: "He usually leaves the water running."
+    japanese: "彼はたいてい、水が流れているままにする。"
+    structure:
+      全体: "S M V O C"
+    knowledge_tags:
+      - vtyp-009
+    notes: "leave O doing「Oが…しているままにする」（無意識的）。usuallyは副詞〈〉"

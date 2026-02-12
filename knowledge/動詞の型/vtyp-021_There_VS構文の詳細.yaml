@@ -1,0 +1,26 @@
+id: vtyp-021
+name: "There VS構文の詳細（Vのマイナーチェンジと存在・出現動詞）"
+category: "動詞の型/There VS構文"
+priority: P1
+prerequisites:
+  - vtyp-003
+  - vtyp-006
+  - vtyp-010
+  - vtyp-011
+  - vtyp-012
+understanding_goals:
+  - "There VS構文のVに助動詞や助動詞的表現が付くパターンを説明できる（will/may、seem to/be likely to/be said toなど）"
+  - "There VS構文のVにbe動詞以外の「存在・出現を示す動詞」が置かれるパターンを説明できる"
+  - "存在動詞（exist/lie/remain/live/stand）を全て列挙できる"
+  - "出現動詞（happen/occur/take place/arise/appear/emerge/come/arrive/begin/follow）を全て列挙できる"
+check_points:
+  - "「There VS構文のVに付くものは？」→「助動詞・助動詞的表現、または存在・出現動詞」と答えられるか"
+  - "「There VS構文の存在動詞を言って」→「exist/lie/remain/live/stand」と答えられるか"
+  - "「There VS構文の出現動詞を言って」→「happen/occur/take place/arise/appear/emerge/come/arrive/begin/follow」と答えられるか"
+  - "「There seems to be...の意味は？」→「...があるようだ」と答えられるか"
+  - "「There are said to be...の意味は？」→「...があると言われている」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch02_08"
+    pages: "p.62"
+notes: "be動詞の代わりに存在・出現動詞が来た時、Thereに惑わされずVSの語順を認識できることが目標"

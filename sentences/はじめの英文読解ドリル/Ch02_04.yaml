@@ -1,0 +1,198 @@
+source:
+  book: はじめの英文読解ドリル
+  section: Ch02_04
+  title: "SVO+決まった前置詞句(1)"
+  pages: "p.46-49"
+
+sentences:
+  # ===== ドリル1 =====
+  - id: haj-02-04-d1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "The accident deprived him of his sight."
+    japanese: "その事故は、彼から視力を奪った。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-013
+      - vtyp-008
+    notes: "deprive O of 〜「Oから〜を奪う」。因果訳「その事故によって、彼は視力を失った」"
+
+  - id: haj-02-04-d1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "She informed me of her arrival at the destination."
+    japanese: "彼女は私に、彼女の目的地への到着を知らせた。"
+    structure:
+      全体: "S V O M M"
+    knowledge_tags:
+      - vtyp-013
+    notes: "inform O of 〜「Oに〜を知らせる」。of her arrivalは副詞句〈〉、at the destinationは副詞句〈〉"
+
+  - id: haj-02-04-d1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "The organization decided to supply the flood victims with food."
+    japanese: "その団体は、洪水の被災者たちに食料を提供することに決めた。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-014
+      - vtyp-003
+    notes: "supply O with 〜「Oに〜を提供する」。decided to supplyを1つのVと見なす"
+
+  - id: haj-02-04-d1-04
+    drill: 1
+    number: 4
+    role: practice
+    english: "Urgent business prevented me from attending the meeting."
+    japanese: "緊急の仕事は、私がその会議に出席することを妨げた。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-015
+      - vtyp-008
+    notes: "prevent O from doing「Oが…するのを妨げる」。因果訳「緊急の仕事によって、私はその会議に出席できなかった」"
+
+  - id: haj-02-04-d1-05
+    drill: 1
+    number: 5
+    role: practice
+    english: "The child cannot tell sugar from salt."
+    japanese: "その子どもは、砂糖を塩と区別できない。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-015
+    notes: "tell O from 〜「Oを〜と区別する」"
+
+  # ===== ドリル3 =====
+  - id: haj-02-04-d3-01
+    drill: 3
+    number: 1
+    role: practice
+    english: "A muscular man robbed a pedestrian of his bag."
+    japanese: "筋骨たくましい男が、歩行者から彼のカバンを奪った。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-013
+    notes: "rob O of 〜「Oから〜を奪う」"
+
+  - id: haj-02-04-d3-02
+    drill: 3
+    number: 2
+    role: practice
+    english: "His attitude convinced me of his honesty."
+    japanese: "彼の態度は、私に彼の正直さを確信させた。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-013
+      - vtyp-008
+    notes: "convince O of 〜「Oに〜を確信させる」。因果訳「彼の態度によって、私は彼の正直さを確信した」"
+
+  - id: haj-02-04-d3-03
+    drill: 3
+    number: 3
+    role: practice
+    english: "Those countries provide the refugees with housing, clothing, and food."
+    japanese: "それらの国々は、難民に、住居、衣類、食料を供給している。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-014
+    notes: "provide O with 〜「Oに〜を提供する」"
+
+  - id: haj-02-04-d3-04
+    drill: 3
+    number: 4
+    role: practice
+    english: "The cold weather discouraged us from going to the amusement park."
+    japanese: "寒い天候は、私たちが遊園地に行く気をなくさせた。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-015
+      - vtyp-008
+    notes: "discourage O from doing「Oが…する気をなくさせる」。因果訳「寒い天候によって、私たちは遊園地に行く気をなくした」"
+
+  - id: haj-02-04-d3-05
+    drill: 3
+    number: 5
+    role: practice
+    english: "Journalists have to be able to distinguish fact from fiction."
+    japanese: "ジャーナリストは、事実を虚構と区別できなければならない。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-015
+      - vtyp-003
+    notes: "distinguish O from 〜「Oを〜と区別する」。have to be able to distinguishを1つのVと見なす"
+
+  # ===== ドリル4 =====
+  - id: haj-02-04-d4-01
+    drill: 4
+    number: 1
+    role: practice
+    english: "The new rule deprived us of flexibility."
+    japanese: "その新しいルールは、私たちから柔軟性を奪った。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-013
+      - vtyp-008
+    notes: "deprive O of 〜「Oから〜を奪う」。因果訳「その新しいルールによって、私たちは柔軟性を失った」"
+
+  - id: haj-02-04-d4-02
+    drill: 4
+    number: 2
+    role: practice
+    english: "This album reminds me of my happy school days."
+    japanese: "このアルバムは、私に、幸せな学校での日々を思い出させる。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-013
+      - vtyp-008
+    notes: "remind O of 〜「Oに〜を思い出させる」。因果訳「このアルバムによって、私は幸せな学校での日々を思い出す」"
+
+  - id: haj-02-04-d4-03
+    drill: 4
+    number: 3
+    role: practice
+    english: "Researchers compared gene samples from humans with those from monkeys."
+    japanese: "研究者たちは、人間からの遺伝子サンプルを、サルからのそれらと比較した。"
+    structure:
+      全体: "S V O M M M"
+    knowledge_tags:
+      - vtyp-014
+    notes: "compare O with 〜「Oを〜と比べる」。from humansは副詞句〈〉、with thoseは副詞句〈〉、from monkeysは副詞句〈〉"
+
+  - id: haj-02-04-d4-04
+    drill: 4
+    number: 4
+    role: practice
+    english: "The unexpected rain kept the fire from spreading to nearby buildings."
+    japanese: "その予期せぬ雨は、火事が近くの建物に広がるのを妨げた。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-015
+      - vtyp-008
+    notes: "keep O from doing「Oが…するのを妨げる」。因果訳「その予期せぬ雨のおかげで、火事は近くの建物に広がらなかった」"
+
+  - id: haj-02-04-d4-05
+    drill: 4
+    number: 5
+    role: practice
+    english: "I can't tell British people from Americans."
+    japanese: "私は、イギリス人をアメリカ人と区別することができない。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - vtyp-015
+    notes: "tell O from 〜「Oを〜と区別する」"

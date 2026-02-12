@@ -1,0 +1,26 @@
+id: vtyp-020
+name: "SVO+準動詞/前置詞句型の受動態変換パターン"
+category: "動詞の型/受動態"
+priority: P1
+prerequisites:
+  - vtyp-005
+  - vtyp-007
+  - vtyp-009
+  - vtyp-019
+understanding_goals:
+  - "SVO do型の受動態ではdoがto doになることを説明できる（make O do→O be made to do）"
+  - "SVO to do型の受動態はそのままto doが残ることを説明できる（force O to do→O be forced to do）"
+  - "SVO doing型の受動態はそのままdoingが残ることを説明できる（keep O doing→O be kept doing）"
+  - "SVO done型の受動態はそのままdoneが残ることを説明できる（leave O done→O be left done）"
+  - "SVO 前置詞句型の受動態はそのまま前置詞句が残ることを説明できる（rob O of〜→O be robbed of〜）"
+check_points:
+  - "「make O doの受動態は？」→「O be made to do（doがto doになる）」と答えられるか"
+  - "「keep O doingの受動態は？」→「O be kept doing」と答えられるか"
+  - "「leave O doneの受動態は？」→「O be left done」と答えられるか"
+  - "「SVO do型だけ受動態で何が変わる？」→「doがto doになる。他の型はそのまま」と答えられるか"
+  - "「rob O of〜の受動態は？」→「O be robbed of〜」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch02_07"
+    pages: "p.58"
+notes: "SVO do型のみ受動態でdoがto doに変わる点が最重要。他の型は残りがそのまま後ろに来る"

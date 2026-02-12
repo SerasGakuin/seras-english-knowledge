@@ -1,0 +1,25 @@
+id: vtyp-007
+name: "SVO+to do動詞リスト（6分類16動詞）"
+category: "動詞の型/SVO+準動詞"
+priority: P1
+prerequisites:
+  - strc-002
+  - strc-015
+  - vtyp-002
+understanding_goals:
+  - "SVO+to doをとれる動詞を6グループ（命令/要求/許可/忠告/説得/その他）に分類して言える"
+  - "命令グループ（tell/order/force）、要求グループ（ask/want/require）を全て列挙できる"
+  - "許可グループ（allow/permit）、忠告グループ（advise/warn）を全て列挙できる"
+  - "説得グループ（get/persuade/encourage）、その他グループ（cause/enable/help）を全て列挙できる"
+  - "help O (to) doのtoは省略されることが多いことを知っている"
+check_points:
+  - "「SVO+to doの命令グループの動詞を全部言って」→「tell/order/force」と答えられるか"
+  - "「SVO+to doの許可グループは？」→「allow/permit。どちらも『Oが…するのを許す/可能にする』」と答えられるか"
+  - "「help O to doのtoは省略できる？」→「できる。省略されることが多い」と答えられるか"
+  - "「get O to doとpersuade O to doの意味は？」→「どちらも『(説得して)Oに…させる』」と答えられるか"
+  - "「cause O to doの意味は？」→「(結果として)Oに…させる」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch02_01"
+    pages: "p.34"
+notes: "全16動詞。enable/allow/causeなどは因果関係訳と密接に関連（vtyp-008参照）"
