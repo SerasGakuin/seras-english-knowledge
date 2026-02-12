@@ -29,7 +29,7 @@ class DriveUploader:
 
         credentials = service_account.Credentials.from_service_account_info(
             json.loads(settings.google_service_account_json),
-            scopes=["https://www.googleapis.com/auth/drive.file"],
+            scopes=["https://www.googleapis.com/auth/drive"],
         )
         service = build("drive", "v3", credentials=credentials)
         return cls(service, settings.google_drive_folder_id)
