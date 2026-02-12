@@ -1,0 +1,189 @@
+source:
+  book: はじめの英文読解ドリル
+  section: Ch06_06
+  title: "倒置"
+  pages: "p.146-149"
+
+sentences:
+  # ===== ドリル1 =====
+  - id: haj-06-06-d1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "<Little> did I expect [that your team would win the game]."
+    japanese: "あなたのチームがその試合に勝つとは，少しも予想していなかった。"
+    structure:
+      全体: "M S V O"
+    knowledge_tags:
+      - read-013
+    notes: "否定の副詞Littleが文頭→疑問文の語順。元の語順: I little expected that〜（S M V O）"
+
+  - id: haj-06-06-d1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "Only recently did I comprehend [what the author implied]."
+    japanese: "最近になってようやく，私は，その著者がほのめかしていることを理解した。"
+    structure:
+      全体: "M S V O"
+    knowledge_tags:
+      - read-013
+    notes: "否定の副詞Only recentlyが文頭→疑問文の語順。元の語順: I only recently comprehended〜（S M V O）"
+
+  - id: haj-06-06-d1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "She made clear her intention (to address the problem of hunger)."
+    japanese: "彼女は，自分が飢餓の問題に対処する意図があることを，明らかにした。"
+    structure:
+      全体: "S V C O M"
+    knowledge_tags:
+      - read-014
+    notes: "第5文型の倒置（SVOC→SVCO）。clearは形容詞→Oになれない→C。元の語順: She made her intention clear（SVOC）"
+
+  - id: haj-06-06-d1-04
+    drill: 1
+    number: 4
+    role: practice
+    english: "Happy are those (who can live <for the sake of others>)."
+    japanese: "幸せなのは，他人のために生きることができる人である。"
+    structure:
+      全体: "C V S M"
+    knowledge_tags:
+      - read-014
+    notes: "第2文型の倒置（SVC→CVS）。Happyは形容詞→Sになれない→C。元の語順: Those are happy（SVC）"
+
+  - id: haj-06-06-d1-05
+    drill: 1
+    number: 5
+    role: practice
+    english: "<At the top of the hill> stands a shrine."
+    japanese: "その丘の頂上には，神社がたっている。"
+    structure:
+      全体: "M V S"
+    knowledge_tags:
+      - read-014
+    notes: "第1文型の倒置（SVM→MVS）。At the top of the hillは副詞句→Sになれない→M。元の語順: A shrine stands <at the top of the hill>（SVM）"
+
+  # ===== ドリル3 =====
+  - id: haj-06-06-d3-01
+    drill: 3
+    number: 1
+    role: practice
+    english: "<Under no circumstances> can we justify violence."
+    japanese: "私たちは，暴力を正当化することは（いかなる状況でも）決してできない。"
+    structure:
+      全体: "M S V O"
+    knowledge_tags:
+      - read-013
+    notes: "否定の副詞Under no circumstancesが文頭→疑問文の語順"
+
+  - id: haj-06-06-d3-02
+    drill: 3
+    number: 2
+    role: practice
+    english: "<Only by understanding the problem> can you choose an appropriate solution."
+    japanese: "その問題を理解することによってのみ，あなたは適切な解決法を選択することができる。"
+    structure:
+      全体: "M S V O"
+    knowledge_tags:
+      - read-013
+    notes: "否定の副詞Only byが文頭→疑問文の語順"
+
+  - id: haj-06-06-d3-03
+    drill: 3
+    number: 3
+    role: practice
+    english: "The reporter made public [what he knew about the issue]."
+    japanese: "その記者は，自分がその問題について知っていることを公にした。"
+    structure:
+      全体: "S V C O"
+    knowledge_tags:
+      - read-014
+    notes: "第5文型の倒置（SVOC→SVCO）。publicは形容詞→Oになれない→C。what節がO"
+
+  - id: haj-06-06-d3-04
+    drill: 3
+    number: 4
+    role: practice
+    english: "Essential <to science> are objective facts (which you can gain <by observing nature>)."
+    japanese: "科学にとって必要不可欠なのは，自然を観察することによって得られる客観的な事実である。"
+    structure:
+      全体: "C M V S M"
+    knowledge_tags:
+      - read-014
+    notes: "第2文型の倒置（SVC→CVS）。Essentialは形容詞→Sになれない→C。to scienceはMでEssentialを修飾"
+
+  - id: haj-06-06-d3-05
+    drill: 3
+    number: 5
+    role: practice
+    english: "<Among the passengers on the bus> was the criminal (that the police were searching for)."
+    japanese: "そのバスの乗客たちの中に，警察が捜している犯人がいた。"
+    structure:
+      全体: "M V S M"
+    knowledge_tags:
+      - read-014
+    notes: "第1文型の倒置（SVM→MVS）。Among〜は場所の副詞句→Sになれない→M"
+
+  # ===== ドリル4 =====
+  - id: haj-06-06-d4-01
+    drill: 4
+    number: 1
+    role: practice
+    english: "<Hardly> can I believe [what she mentioned]."
+    japanese: "私は，彼女が言及したことがほとんど［到底］信じられない。"
+    structure:
+      全体: "M S V O"
+    knowledge_tags:
+      - read-013
+    notes: "否定の副詞Hardlyが文頭→疑問文の語順。what節がO"
+
+  - id: haj-06-06-d4-02
+    drill: 4
+    number: 2
+    role: practice
+    english: "<Only after he began living alone> did he realize the importance <of money>."
+    japanese: "一人暮らしを始めた後にようやく，彼はお金の大切さに気付いた。"
+    structure:
+      全体: "M S V O M"
+    knowledge_tags:
+      - read-013
+    notes: "否定の副詞Only afterが文頭→疑問文の語順。only+時で「時になってようやく」"
+
+  - id: haj-06-06-d4-03
+    drill: 4
+    number: 3
+    role: practice
+    english: "Advances <in printing> have made possible the development <of science and literature>."
+    japanese: "印刷技術における進歩は，科学と文学の発展を可能にした。"
+    structure:
+      全体: "S M V C O M"
+    knowledge_tags:
+      - read-014
+    notes: "第5文型の倒置（SVOC→SVCO）。possibleは形容詞→Oになれない→C。Oが長いため倒置"
+
+  - id: haj-06-06-d4-04
+    drill: 4
+    number: 4
+    role: practice
+    english: "More important is [whether you understand the various cultural backgrounds]."
+    japanese: "より重要なのは，あなたがさまざまな文化的な背景を理解しているかどうかである。"
+    structure:
+      全体: "C V S"
+    knowledge_tags:
+      - read-014
+    notes: "第2文型の倒置（SVC→CVS）。More importantは形容詞→Sになれない→C。whether節がS"
+
+  - id: haj-06-06-d4-05
+    drill: 4
+    number: 5
+    role: practice
+    english: "<Across the Pacific Ocean> lies the American Continent."
+    japanese: "太平洋の向こう側に，アメリカ大陸がある。"
+    structure:
+      全体: "M V S"
+    knowledge_tags:
+      - read-014
+    notes: "第1文型の倒置（SVM→MVS）。Across〜は場所の副詞句→Sになれない→M"

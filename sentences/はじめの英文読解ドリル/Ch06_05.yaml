@@ -1,0 +1,189 @@
+source:
+  book: はじめの英文読解ドリル
+  section: Ch06_05
+  title: "強調構文"
+  pages: "p.142-145"
+
+sentences:
+  # ===== ドリル1 =====
+  - id: haj-06-05-d1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "×It was× this news ×that× made his mother glad."
+    japanese: "彼の母親を喜ばせたのは，このニュースであった。"
+    structure:
+      全体: "S V O C"
+    knowledge_tags:
+      - read-012
+    notes: "Sが強調。元の形: This news made his mother glad. It wasとthatを×で無視して構造をとる"
+
+  - id: haj-06-05-d1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "×It was× his mother ×that× this news made glad."
+    japanese: "このニュースが喜ばせたのは，彼の母親であった。"
+    structure:
+      全体: "S V O C"
+    knowledge_tags:
+      - read-012
+    notes: "Oが強調。元の形: This news made his mother glad. 同じ元文でOを強調位置に移動"
+
+  - id: haj-06-05-d1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "×It was× <in America> ×that× I met her."
+    japanese: "私が彼女に出会ったのは，アメリカにおいてであった。"
+    structure:
+      全体: "M S V O"
+    knowledge_tags:
+      - read-012
+    notes: "副詞句が強調。元の形: I met her <in America>."
+
+  - id: haj-06-05-d1-04
+    drill: 1
+    number: 4
+    role: practice
+    english: "×It was× <only because he wanted to earn money> ×that× he started a company."
+    japanese: "彼が会社を始めたのは，お金を稼ぎたかったからという理由だけである。"
+    structure:
+      全体: "M S V O"
+    knowledge_tags:
+      - read-012
+    notes: "副詞節が強調。onlyと共に使われている。元の形: He started a company <only because he wanted to earn money>."
+
+  - id: haj-06-05-d1-05
+    drill: 1
+    number: 5
+    role: practice
+    english: "×It is× not money but love ×that× matters."
+    japanese: "重要なのは，お金ではなく愛である。"
+    structure:
+      全体: "Ⓐ Ⓑ S V"
+    knowledge_tags:
+      - read-012
+    notes: "Sが強調。not A but Bと共に使用。元の形: Not money but love matters."
+
+  # ===== ドリル3 =====
+  - id: haj-06-05-d3-01
+    drill: 3
+    number: 1
+    role: practice
+    english: "×It is× facial expressions ×that× tell us [how a person feels]."
+    japanese: "人がどのように感じているのかを私たちに伝えるのは，表情である。"
+    structure:
+      全体: "S V O1 O2"
+    knowledge_tags:
+      - read-012
+    notes: "Sが強調。how節がO2。tell O1 O2の第4文型"
+
+  - id: haj-06-05-d3-02
+    drill: 3
+    number: 2
+    role: practice
+    english: "×It was× <because I didn't want to hurt her feelings> ×that× I lied."
+    japanese: "私がうそをついたのは，彼女の感情を傷つけたくなかったからだ。"
+    structure:
+      全体: "M S V"
+    knowledge_tags:
+      - read-012
+    notes: "副詞節（because節）が強調"
+
+  - id: haj-06-05-d3-03
+    drill: 3
+    number: 3
+    role: practice
+    english: "×It was× <only after many trials and errors> ×that× he succeeded <in inventing the light bulb>."
+    japanese: "彼が電球を発明することに成功したのは，多くの試行錯誤を経てようやくのことであった。"
+    structure:
+      全体: "M S V M"
+    knowledge_tags:
+      - read-012
+    notes: "副詞句が強調。only+時で「時になってようやく」の意味"
+
+  - id: haj-06-05-d3-04
+    drill: 3
+    number: 4
+    role: practice
+    english: "×It is× not so much [what you say] as [what you do] ×that× counts."
+    japanese: "重要なのは，あなたが何を言うかというよりむしろ，あなたが何をするかである。"
+    structure:
+      全体: "Ⓐ Ⓑ S V"
+    knowledge_tags:
+      - read-012
+    notes: "Sが強調。not so much A as Bと共に使用。what節が名詞節"
+
+  - id: haj-06-05-d3-05
+    drill: 3
+    number: 5
+    role: practice
+    english: "×It is× [what you say] ×that× matters, not [how fluently you speak]."
+    japanese: "重要なのは，あなたが何を言うかであり，あなたがどれほど流暢に話すかではない。"
+    structure:
+      全体: "Ⓑ S V Ⓐ"
+    knowledge_tags:
+      - read-012
+    notes: "Sが強調。It is B that〜, not Aのパターン（not A but Bが分かれた形）"
+
+  # ===== ドリル4 =====
+  - id: haj-06-05-d4-01
+    drill: 4
+    number: 1
+    role: practice
+    english: "×It was× cheap labor ×that× was responsible for [the slow adoption (of machines)]."
+    japanese: "機械を採用するのが遅かったのは，安い労働力が原因であった。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - read-012
+    notes: "S（原因）が強調。be responsible for O（結果）の構文"
+
+  - id: haj-06-05-d4-02
+    drill: 4
+    number: 2
+    role: practice
+    english: "×It is× <only through mutual understanding> ×that× we can achieve world peace."
+    japanese: "私たちが世界平和を達成できるのは，相互の理解を通してのみである。"
+    structure:
+      全体: "M S V O"
+    knowledge_tags:
+      - read-012
+    notes: "副詞句が強調。onlyと共に使用"
+
+  - id: haj-06-05-d4-03
+    drill: 4
+    number: 3
+    role: practice
+    english: "×It was× <only in 1945> ×that× people realized [how dangerous nuclear weapons were]."
+    japanese: "人々が，核兵器がどれほど危険かに気付いたのは，1945年になってようやくのことであった。"
+    structure:
+      全体: "M S V O"
+    knowledge_tags:
+      - read-012
+    notes: "副詞句が強調。only+時で「時になってようやく」。how節がrealizedのO"
+
+  - id: haj-06-05-d4-04
+    drill: 4
+    number: 4
+    role: practice
+    english: "×It is× not so much the heat as the humidity ×that× makes me fatigued."
+    japanese: "私を疲れ果てさせるのは，暑さというよりむしろ，湿気である。"
+    structure:
+      全体: "Ⓐ Ⓑ S V O C"
+    knowledge_tags:
+      - read-012
+    notes: "Sが強調。not so much A as Bと共に使用。SVOCの第5文型"
+
+  - id: haj-06-05-d4-05
+    drill: 4
+    number: 5
+    role: practice
+    english: "×It is× not <because of her appearance> ×that× I love her, but <because of her character>."
+    japanese: "私が彼女を愛しているのは，彼女の見た目が理由ではなく，彼女の性格が理由である。"
+    structure:
+      全体: "Ⓐ M S V O Ⓑ M"
+    knowledge_tags:
+      - read-012
+    notes: "副詞句が強調。It is not A that〜, but Bのパターン（not A but Bが分かれた形）"

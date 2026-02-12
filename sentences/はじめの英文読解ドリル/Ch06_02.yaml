@@ -1,0 +1,205 @@
+source:
+  book: はじめの英文読解ドリル
+  section: Ch06_02
+  title: "Sを\"副詞\"的に捉える 無生物主語構文"
+  pages: "p.130-133"
+
+sentences:
+  # ===== ドリル1 =====
+  - id: haj-06-02-d1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "The simplicity of the plot allowed me to enjoy this novel."
+    japanese: "筋立てが単純であるおかげで、私はこの小説を楽しむことができた。"
+    structure:
+      全体: "S V O C"
+    knowledge_tags:
+      - read-008
+      - read-007
+    notes: "名詞構文（The plot is simple.）+無生物主語構文（原因）。S'=plot、C'=simplicity"
+
+  - id: haj-06-02-d1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "The doctor's treatment of the patient brought about her recovery."
+    japanese: "その医者がその患者を治療したおかげで、彼女は回復した。"
+    structure:
+      全体: "S V O"
+    knowledge_tags:
+      - read-008
+      - read-009
+      - read-007
+    notes: "名詞構文（The doctor treated the patient.）+無生物主語構文（原因）+因果動詞bring about。Oも名詞構文（She recovered.）"
+
+  - id: haj-06-02-d1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "Her face shows her anger."
+    japanese: "彼女の顔を見れば、彼女が怒っていることが分かる。"
+    structure:
+      全体: "S V O"
+    knowledge_tags:
+      - read-008
+      - read-007
+    notes: "名詞構文（She is angry.）+無生物主語構文（情報源）。S'=her、C'=anger"
+
+  - id: haj-06-02-d1-04
+    drill: 1
+    number: 4
+    role: practice
+    english: "The doctor's treatment of the patient didn't make her feel better."
+    japanese: "その医者がその患者を治療したにもかかわらず、彼女は気分がよくならなかった。"
+    structure:
+      全体: "S V O C"
+    knowledge_tags:
+      - read-008
+      - read-007
+    notes: "名詞構文（The doctor treated the patient.）+無生物主語構文（譲歩、否定文のため）"
+
+  - id: haj-06-02-d1-05
+    drill: 1
+    number: 5
+    role: practice
+    english: "The twentieth century saw the discovery of many vaccines."
+    japanese: "20世紀において、多くのワクチンが発見された。"
+    structure:
+      全体: "S V O"
+    knowledge_tags:
+      - read-008
+      - read-007
+    notes: "名詞構文（(Someone) discovered many vaccines.）+無生物主語構文（時場所）"
+
+  # ===== ドリル3 =====
+  - id: haj-06-02-d3-01
+    drill: 3
+    number: 1
+    role: practice
+    english: "The sight of a cockroach made her scream."
+    japanese: "ゴキブリを見て、彼女は叫んだ。"
+    structure:
+      全体: "S V O C"
+    knowledge_tags:
+      - read-008
+      - read-007
+    notes: "名詞構文（(She) saw a cockroach.）+無生物主語構文（原因）"
+
+  - id: haj-06-02-d3-02
+    drill: 3
+    number: 2
+    role: practice
+    english: "The bankruptcy of his company forced him to sell his house."
+    japanese: "彼の会社が破産したので、彼は家を売らざるを得なかった。"
+    structure:
+      全体: "S V O C"
+    knowledge_tags:
+      - read-008
+      - read-007
+    notes: "名詞構文（His company went bankrupt.）+無生物主語構文（原因）"
+
+  - id: haj-06-02-d3-03
+    drill: 3
+    number: 3
+    role: practice
+    english: "Online learning gives you opportunities to learn from great teachers."
+    japanese: "オンライン学習によって、あなたは素晴らしい先生から学ぶ機会を得られる。"
+    structure:
+      全体: "S V O1 O2 M"
+    knowledge_tags:
+      - read-008
+    notes: "無生物主語構文（手段・条件）。名詞構文は共存しない"
+
+  - id: haj-06-02-d3-04
+    drill: 3
+    number: 4
+    role: practice
+    english: "The last century witnessed the development of computer technology."
+    japanese: "前世紀において、コンピュータ技術が発展した。"
+    structure:
+      全体: "S V O"
+    knowledge_tags:
+      - read-008
+      - read-007
+    notes: "名詞構文（Computer technology developed.）+無生物主語構文（時場所）"
+
+  - id: haj-06-02-d3-05
+    drill: 3
+    number: 5
+    role: practice
+    english: "Tourism contributed to the growth of the Chinese economy."
+    japanese: "観光業によって、中国経済は成長した。"
+    structure:
+      全体: "S V O"
+    knowledge_tags:
+      - read-008
+      - read-009
+      - read-007
+    notes: "名詞構文（The Chinese economy grew.）+無生物主語構文+因果動詞contribute to"
+
+  # ===== ドリル4 =====
+  - id: haj-06-02-d4-01
+    drill: 4
+    number: 1
+    role: practice
+    english: "An understanding of a person's personality enables you to avoid conflict."
+    japanese: "人の性格を理解することによって、あなたは争いを避けることができる。"
+    structure:
+      全体: "S V O C"
+    knowledge_tags:
+      - read-008
+      - read-007
+    notes: "名詞構文（(You) understand a person's personality.）+無生物主語構文（手段・条件）"
+
+  - id: haj-06-02-d4-02
+    drill: 4
+    number: 2
+    role: practice
+    english: "His pride prevented him from admitting his fault."
+    japanese: "彼のプライドのせいで、彼は自分の過失を認めることができなかった。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - read-008
+    notes: "無生物主語構文（原因）。prevent O from doingの構造"
+
+  - id: haj-06-02-d4-03
+    drill: 4
+    number: 3
+    role: practice
+    english: "Dreams reveal a lot of things about how our brains handle information."
+    japanese: "夢によって、脳がどのように情報を処理しているかについて、多くのことが分かる。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - read-008
+    notes: "無生物主語構文（情報源）。about以下は前置詞の目的語として名詞節"
+
+  - id: haj-06-02-d4-04
+    drill: 4
+    number: 4
+    role: practice
+    english: "Changes in the environment are responsible for the birth of the new virus."
+    japanese: "環境が変化したことによって、その新しいウイルスは誕生した。"
+    structure:
+      全体: "S V O"
+    knowledge_tags:
+      - read-008
+      - read-009
+      - read-007
+    notes: "名詞構文（The new virus was born.）+無生物主語構文+因果表現be responsible for"
+
+  - id: haj-06-02-d4-05
+    drill: 4
+    number: 5
+    role: practice
+    english: "His lack of communication skills gave rise to numerous misunderstandings."
+    japanese: "彼にコミュニケーション能力が不足していたせいで、数多くの誤解が生まれた。"
+    structure:
+      全体: "S V O"
+    knowledge_tags:
+      - read-008
+      - read-009
+      - read-007
+    notes: "名詞構文（He lacks communication skills.）+無生物主語構文（原因）+因果動詞give rise to"

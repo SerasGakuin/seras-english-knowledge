@@ -1,0 +1,22 @@
+id: read-011
+name: "並列と共通のパターン"
+category: "読解テクニック/並列と共通"
+priority: P1
+prerequisites:
+  - read-004
+  - strc-001
+understanding_goals:
+  - "並列の3パターン（1and2+共通 / 共通+1and2 / 共通+1and2+共通）を説明できる"
+  - "特に注意すべき3つの形（共通M/共通O/共通to）を挙げられる"
+  - "V1 and V2+共通のO（Oが両方のVのO）のパターンを識別できる"
+  - "共通のto+V原形1 and V原形2（1つのtoに2つのV原形）のパターンを識別できる"
+  - "等位接続詞を見たら「何と何をつないでいるか」「共通要素は何か」を把握する習慣を実践できる"
+check_points:
+  - "「並列とは？」→「同じ形が等位接続詞でつながれる現象」と答えられるか"
+  - "「respects and gets along well with his colleaguesの並列は？」→「V1=respects、V2=gets along well with、共通O=his colleagues」と答えられるか"
+  - "「to finish and submit his homeworkの並列は？」→「共通to+V1=finish、V2=submit、共通O=his homework」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch06_04"
+    pages: "p.138-141"
+notes: "3つ以上の並列（A, B, and C）もある。butやorも等位接続詞"

@@ -1,0 +1,24 @@
+id: read-007
+name: "名詞構文のS'/O'/C'識別法"
+category: "読解テクニック/名詞構文"
+priority: P1
+prerequisites:
+  - read-001
+  - strc-001
+  - strc-004
+understanding_goals:
+  - "S'の現れ方4パターン（所有格/of/by/on the part of）を挙げられる"
+  - "O'の現れ方3パターン（所有格/of/その他の前置詞）を挙げられる"
+  - "元々動詞である名詞をV'と捉え、元々形容詞である名詞をC'と捉える手順を実践できる"
+  - "influence/effect on、control/rule over、resemblance/approach toなどの前置詞パターンを言える"
+  - "時制・態は文脈次第であること、S'とO'が全てそろうとは限らないことを説明できる"
+check_points:
+  - "「名詞構文でS'が現れる4つの方法は？」→「所有格、of、by、on the part of」と答えられるか"
+  - "「the education of children by their parentsのS'V'O'は？」→「S'=their parents、V'=education、O'=children」と答えられるか"
+  - "「his sadnessの名詞構文分析は？」→「S'=his、C'=sadness（He is sad.の関係）」と答えられるか"
+  - "「influence on〜はどう分析する？」→「V'=influence、O'=on以下（〜に影響を与える）」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch06_01"
+    pages: "p.126-129"
+notes: "名詞構文は無生物主語構文（Ch06_02）と共存することが多い"

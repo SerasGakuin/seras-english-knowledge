@@ -1,0 +1,190 @@
+source:
+  book: はじめの英文読解ドリル
+  section: Ch06_01
+  title: "名詞構文"
+  pages: "p.126-129"
+
+sentences:
+  # ===== ドリル1 =====
+  - id: haj-06-01-d1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "I was surprised at his knowledge of the fact."
+    japanese: "私は、彼がその事実を知っていることに驚いた。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - read-007
+      - read-001
+    notes: "名詞構文。He knew the fact.の関係。S'=his、V'=knowledge、O'=the fact"
+
+  - id: haj-06-01-d1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "On the arrival of the train, I heard a strange noise."
+    japanese: "電車が到着した時、奇妙な音が聞こえた。"
+    structure:
+      全体: "M S V O"
+    knowledge_tags:
+      - read-007
+    notes: "名詞構文。The train arrived.の関係。V'=arrival、S'=the train（of型）"
+
+  - id: haj-06-01-d1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "He lacks concern for the influence of TV on teenagers."
+    japanese: "彼は、テレビが10代の若者たちに与える影響への関心が欠けている。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - read-007
+    notes: "名詞構文。TV influences teenagers.の関係。V'=influence、S'=TV（of型）、O'=teenagers（on型）"
+
+  - id: haj-06-01-d1-04
+    drill: 1
+    number: 4
+    role: practice
+    english: "I am certain of his honesty."
+    japanese: "私は、彼が正直であると確信している。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - read-007
+    notes: "名詞構文。He is honest.の関係。S'=his（所有格型）、C'=honesty"
+
+  - id: haj-06-01-d1-05
+    drill: 1
+    number: 5
+    role: practice
+    english: "This book illustrates the superiority of wisdom to knowledge."
+    japanese: "この本は、知恵が知識よりも優れているということを例証している。"
+    structure:
+      全体: "S V O"
+    knowledge_tags:
+      - read-007
+    notes: "名詞構文。Wisdom is superior to knowledge.の関係。C'=superiority、S'=wisdom（of型）"
+
+  # ===== ドリル3 =====
+  - id: haj-06-01-d3-01
+    drill: 3
+    number: 1
+    role: practice
+    english: "It was illegal to deny the story of God's creation of man."
+    japanese: "神が人間を創造したという話を否定することは、違法であった。"
+    structure:
+      全体: "S V C"
+    knowledge_tags:
+      - read-007
+    notes: "名詞構文。God created man.の関係。S'=God's（所有格型）、V'=creation、O'=man（of型）"
+
+  - id: haj-06-01-d3-02
+    drill: 3
+    number: 2
+    role: practice
+    english: "The education of children by their parents seems difficult."
+    japanese: "親が子どもを教育することは、難しいようだ。"
+    structure:
+      全体: "S V C"
+    knowledge_tags:
+      - read-007
+    notes: "名詞構文。Their parents educate children.の関係。V'=education、O'=children（of型）、S'=their parents（by型）"
+
+  - id: haj-06-01-d3-03
+    drill: 3
+    number: 3
+    role: practice
+    english: "He is popular with girls because of his resemblance to a popular actor."
+    japanese: "彼はある人気俳優に似ているので、（彼は）女の子に人気だ。"
+    structure:
+      全体: "S V C M M"
+    knowledge_tags:
+      - read-007
+    notes: "名詞構文。He resembles a popular actor.の関係。S'=his（所有格型）、V'=resemblance、O'=a popular actor（to型）"
+
+  - id: haj-06-01-d3-04
+    drill: 3
+    number: 4
+    role: practice
+    english: "The equality of men and women is a fundamental principle."
+    japanese: "男女が平等であることは、根本的な原則である。"
+    structure:
+      全体: "S V C"
+    knowledge_tags:
+      - read-007
+    notes: "名詞構文。Men and women are equal.の関係。C'=equality、S'=men and women（of型）"
+
+  - id: haj-06-01-d3-05
+    drill: 3
+    number: 5
+    role: practice
+    english: "Some people challenge the view of the Japanese as a diligent people."
+    japanese: "一部の人は、日本人を勤勉な国民だと見なすことに異議を唱えている。"
+    structure:
+      全体: "S V O"
+    knowledge_tags:
+      - read-007
+    notes: "名詞構文。(Someone) views the Japanese as a diligent people.の関係。V'=view、O'=the Japanese（of型）、C'=a diligent people（as型）"
+
+  # ===== ドリル4 =====
+  - id: haj-06-01-d4-01
+    drill: 4
+    number: 1
+    role: practice
+    english: "We had to change our tactics due to the enemy's destruction of the city."
+    japanese: "敵がその都市を破壊したせいで、私たちは作戦を変えなければならなかった。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - read-007
+    notes: "名詞構文。The enemy destroyed the city.の関係。S'=the enemy's（所有格型）、V'=destruction、O'=the city（of型）"
+
+  - id: haj-06-01-d4-02
+    drill: 4
+    number: 2
+    role: practice
+    english: "I have to apologize for the mistake on the part of my secretary."
+    japanese: "私の秘書がミスをしたことに対して、私は謝罪しなければならない。"
+    structure:
+      全体: "S V M"
+    knowledge_tags:
+      - read-007
+    notes: "名詞構文。My secretary made a mistake.の関係。V'=mistake、S'=my secretary（on the part of型）"
+
+  - id: haj-06-01-d4-03
+    drill: 4
+    number: 3
+    role: practice
+    english: "This novel depicts the age of the king's rule over the country."
+    japanese: "この小説は、国王がその国を支配していた時代を描いている。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - read-007
+    notes: "名詞構文。The king ruled over the country.の関係。S'=the king's（所有格型）、V'=rule、O'=the country（over型）"
+
+  - id: haj-06-01-d4-04
+    drill: 4
+    number: 4
+    role: practice
+    english: "The teacher didn't notice her assistant's absence."
+    japanese: "その教師は、彼女のアシスタントがいないことに気付かなかった。"
+    structure:
+      全体: "S V O"
+    knowledge_tags:
+      - read-007
+    notes: "名詞構文。Her assistant was absent.の関係。S'=her assistant's（所有格型）、C'=absence"
+
+  - id: haj-06-01-d4-05
+    drill: 4
+    number: 5
+    role: practice
+    english: "The application of psychology to education is thought to be effective."
+    japanese: "心理学を教育に応用することは、効果的であると考えられている。"
+    structure:
+      全体: "S V C"
+    knowledge_tags:
+      - read-007
+    notes: "名詞構文。(Someone) applies psychology to education.の関係。V'=application、O'=psychology（of型）"

@@ -1,0 +1,24 @@
+id: read-012
+name: "強調構文の構造と訳出"
+category: "読解テクニック/強調構文"
+priority: P1
+prerequisites:
+  - strc-001
+  - read-005
+understanding_goals:
+  - "It is...that〜の形で、強調したい要素をIt isとthatの間に挟み、残りをthatの後ろに置く構造を説明できる"
+  - "文構造をとる際、It isとthatを無視し、それ以外の要素で考えることを実行できる"
+  - "強調できるのは主にS・O・前のO・副詞（句/節）であることを言える"
+  - "訳出の原則（that以下を先に訳す：〜なのは...だ）を適用できる"
+  - "強調構文と相性の良い表現（only, not so much A as B, not A but B）を識別し訳出できる"
+  - "not A but Bが分かれる2パターン（It is not A that〜, but B / It is B that〜, not A）を認識できる"
+check_points:
+  - "「強調構文で文構造をとるときのルールは？」→「It isとthatを無視して、残りで文構造を考える」と答えられるか"
+  - "「強調できる要素は？」→「S・O・前置詞のO・副詞（句/節）」と答えられるか"
+  - "「It is only through effort that〜の訳は？」→「〜なのは、努力を通じてのみだ」と答えられるか"
+  - "「It is not A but B that〜の訳は？」→「〜なのは、AではなくBだ」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch06_05"
+    pages: "p.142-145"
+notes: "It isとthatを×で消す訓練が本書の特徴。元の文が過去形ならIt was...that〜。read-005で概念導入済み"
