@@ -1,0 +1,35 @@
+name: Deploy to Cloud Run
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "knowledge/**"
+      - "sentences/**"
+      - "mappings/**"
+      - "seras-test-generator/**"
+      - "Dockerfile"
+      - ".github/workflows/deploy.yml"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.GCP_SA_KEY }}
+
+      - uses: google-github-actions/setup-gcloud@v2
+
+      - name: Deploy to Cloud Run
+        run: |
+          gcloud run deploy seras-test-generator \
+            --source . \
+            --region asia-northeast1 \
+            --project seras-test-generator \
+            --quiet
