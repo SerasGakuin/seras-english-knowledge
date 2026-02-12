@@ -80,3 +80,343 @@ sections:
       - Ch01_01
       - Ch01_02
     sentence_file: sentences/はじめの英文読解ドリル/Ch01_06.yaml
+
+  # ===== Chapter 2: さまざまな「動詞の型」 =====
+  - id: Ch02_00
+    title: "「さまざまな『動詞の型』」を始める前に"
+    pages: "p.32-33"
+    type: introduction
+    knowledge_nodes:
+      - vtyp-001
+      - vtyp-002
+      - vtyp-003
+      - vtyp-004
+      - vtyp-005
+      - vtyp-006
+
+  - id: Ch02_01
+    title: "SVO+to do"
+    pages: "p.34-37"
+    type: drill
+    knowledge_nodes:
+      - vtyp-007
+      - vtyp-008
+    prerequisites:
+      - Ch02_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch02_01.yaml
+
+  - id: Ch02_02
+    title: "SVO+do/doing/done"
+    pages: "p.38-41"
+    type: drill
+    knowledge_nodes:
+      - vtyp-009
+    prerequisites:
+      - Ch02_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch02_02.yaml
+
+  - id: Ch02_03
+    title: "1つのVと見なす形　助動詞的な表現"
+    pages: "p.42-45"
+    type: drill
+    knowledge_nodes:
+      - vtyp-010
+      - vtyp-011
+      - vtyp-012
+    prerequisites:
+      - Ch02_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch02_03.yaml
+
+  - id: Ch02_04
+    title: "SVO＋決まった前置詞句①"
+    pages: "p.46-49"
+    type: drill
+    knowledge_nodes:
+      - vtyp-013
+      - vtyp-014
+      - vtyp-015
+    prerequisites:
+      - Ch02_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch02_04.yaml
+
+  - id: Ch02_05
+    title: "SVO＋決まった前置詞句②"
+    pages: "p.50-53"
+    type: drill
+    knowledge_nodes:
+      - vtyp-016
+      - vtyp-017
+      - vtyp-018
+    prerequisites:
+      - Ch02_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch02_05.yaml
+
+  - id: Ch02_06
+    title: "受動態①"
+    pages: "p.54-57"
+    type: drill
+    knowledge_nodes:
+      - vtyp-019
+    prerequisites:
+      - Ch02_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch02_06.yaml
+
+  - id: Ch02_07
+    title: "受動態②"
+    pages: "p.58-61"
+    type: drill
+    knowledge_nodes:
+      - vtyp-020
+    prerequisites:
+      - Ch02_00
+      - Ch02_06
+    sentence_file: sentences/はじめの英文読解ドリル/Ch02_07.yaml
+
+  - id: Ch02_08
+    title: "There VS構文"
+    pages: "p.62-65"
+    type: drill
+    knowledge_nodes:
+      - vtyp-021
+    prerequisites:
+      - Ch02_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch02_08.yaml
+
+  # ===== Chapter 3: 名詞のカタマリ =====
+  - id: Ch03_00
+    title: "「名詞のカタマリ」を始める前に"
+    pages: "p.66-67"
+    type: introduction
+    knowledge_nodes:
+      - clau-001
+      - clau-002
+      - clau-003
+
+  - id: Ch03_01
+    title: "名詞句　動名詞・不定詞・疑問詞＋不定詞"
+    pages: "p.68-71"
+    type: drill
+    knowledge_nodes:
+      - clau-004
+    prerequisites:
+      - Ch03_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch03_01.yaml
+
+  - id: Ch03_02
+    title: "名詞節①　疑問代名詞・関係代名詞"
+    pages: "p.72-75"
+    type: drill
+    knowledge_nodes:
+      - clau-005
+    prerequisites:
+      - Ch03_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch03_02.yaml
+
+  - id: Ch03_03
+    title: "名詞節②　疑問副詞・関係副詞"
+    pages: "p.76-79"
+    type: drill
+    knowledge_nodes:
+      - clau-006
+    prerequisites:
+      - Ch03_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch03_03.yaml
+
+  - id: Ch03_04
+    title: "名詞節③　接続詞"
+    pages: "p.80-83"
+    type: drill
+    knowledge_nodes:
+      - clau-007
+    prerequisites:
+      - Ch03_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch03_04.yaml
+
+  - id: Ch03_05
+    title: "形式のit"
+    pages: "p.84-87"
+    type: drill
+    knowledge_nodes:
+      - clau-008
+    prerequisites:
+      - Ch03_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch03_05.yaml
+
+  # ===== Chapter 4: 形容詞・副詞のカタマリ =====
+  - id: Ch04_00
+    title: "「形容詞・副詞のカタマリ」を始める前に"
+    pages: "p.88-89"
+    type: introduction
+    knowledge_nodes:
+      - clau-026
+      - clau-027
+
+  - id: Ch04_01
+    title: "形容詞句　不定詞・分詞"
+    pages: "p.90-93"
+    type: drill
+    knowledge_nodes:
+      - clau-028
+    prerequisites:
+      - Ch04_00
+      - Ch03_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch04_01.yaml
+
+  - id: Ch04_02
+    title: "形容詞節①　関係代名詞"
+    pages: "p.94-97"
+    type: drill
+    knowledge_nodes:
+      - clau-029
+    prerequisites:
+      - Ch04_00
+      - Ch03_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch04_02.yaml
+
+  - id: Ch04_03
+    title: "形容詞節②　前置詞＋関係代名詞／関係副詞"
+    pages: "p.98-101"
+    type: drill
+    knowledge_nodes:
+      - clau-030
+    prerequisites:
+      - Ch04_00
+      - Ch04_02
+    sentence_file: sentences/はじめの英文読解ドリル/Ch04_03.yaml
+
+  - id: Ch04_04
+    title: "副詞句①　不定詞"
+    pages: "p.102-105"
+    type: drill
+    knowledge_nodes:
+      - clau-031
+    prerequisites:
+      - Ch04_00
+      - Ch03_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch04_04.yaml
+
+  - id: Ch04_05
+    title: "副詞句②　分詞構文"
+    pages: "p.106-109"
+    type: drill
+    knowledge_nodes:
+      - clau-032
+    prerequisites:
+      - Ch04_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch04_05.yaml
+
+  - id: Ch04_06
+    title: "副詞節　接続詞"
+    pages: "p.110-113"
+    type: drill
+    knowledge_nodes:
+      - clau-033
+    prerequisites:
+      - Ch04_00
+      - Ch03_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch04_06.yaml
+
+  # ===== Chapter 5: 準動詞の意味上の主語 =====
+  - id: Ch05_00
+    title: "「準動詞の意味上の主語」を始める前に"
+    pages: "p.114-115"
+    type: introduction
+    knowledge_nodes:
+      - subj-001
+      - subj-002
+
+  - id: Ch05_01
+    title: "意味上の主語①　不定詞"
+    pages: "p.116-119"
+    type: drill
+    knowledge_nodes:
+      - subj-003
+    prerequisites:
+      - Ch05_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch05_01.yaml
+
+  - id: Ch05_02
+    title: "意味上の主語②　動名詞・分詞構文"
+    pages: "p.120-123"
+    type: drill
+    knowledge_nodes:
+      - subj-004
+      - subj-005
+    prerequisites:
+      - Ch05_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch05_02.yaml
+
+  # ===== Chapter 6: その他の重要事項 =====
+  - id: Ch06_00
+    title: "「その他の重要事項」を始める前に"
+    pages: "p.124-127"
+    type: introduction
+    knowledge_nodes:
+      - read-001
+      - read-002
+      - read-003
+      - read-004
+      - read-005
+      - read-006
+
+  - id: Ch06_01
+    title: "名詞構文"
+    pages: "p.128-131"
+    type: drill
+    knowledge_nodes:
+      - read-007
+    prerequisites:
+      - Ch06_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch06_01.yaml
+
+  - id: Ch06_02
+    title: "Sを\"副詞\"的に捉える　無生物主語構文"
+    pages: "p.132-135"
+    type: drill
+    knowledge_nodes:
+      - read-008
+      - read-009
+    prerequisites:
+      - Ch06_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch06_02.yaml
+
+  - id: Ch06_03
+    title: "同格"
+    pages: "p.136-139"
+    type: drill
+    knowledge_nodes:
+      - read-010
+    prerequisites:
+      - Ch06_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch06_03.yaml
+
+  - id: Ch06_04
+    title: "並列と共通"
+    pages: "p.140-143"
+    type: drill
+    knowledge_nodes:
+      - read-011
+    prerequisites:
+      - Ch06_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch06_04.yaml
+
+  - id: Ch06_05
+    title: "強調構文"
+    pages: "p.144-147"
+    type: drill
+    knowledge_nodes:
+      - read-012
+    prerequisites:
+      - Ch06_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch06_05.yaml
+
+  - id: Ch06_06
+    title: "倒置"
+    pages: "p.148-151"
+    type: drill
+    knowledge_nodes:
+      - read-013
+      - read-014
+    prerequisites:
+      - Ch06_00
+    sentence_file: sentences/はじめの英文読解ドリル/Ch06_06.yaml
