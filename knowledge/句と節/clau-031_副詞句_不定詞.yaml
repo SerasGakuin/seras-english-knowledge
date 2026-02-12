@@ -1,0 +1,27 @@
+id: clau-031
+name: "副詞句（不定詞）"
+category: "句と節/副詞句"
+priority: P1
+prerequisites:
+  - strc-001
+  - strc-003
+  - clau-001
+  - clau-002
+  - clau-027
+understanding_goals:
+  - "to do（不定詞）が副詞句を作り、Mになることを説明できる"
+  - "不定詞の主語（Ⓢ）は原則として文の主語（S）と一致することを説明できる"
+  - "副詞的用法の5つの訳出パターン（目的・結果・感情の理由・判断の根拠・程度）を全て列挙できる"
+  - "目的のto do = in order to do / so as to doであることを説明できる"
+  - "結果の代表パターン（wake up to find, only to do, grow up to be, live to be）を説明できる"
+  - "程度のenough構文（形副+enough to do）とtoo構文（too+形副+to do）の訳出ができる"
+check_points:
+  - "「副詞的用法の不定詞の5つの訳出は？」→「目的・結果・感情の理由・判断の根拠・程度」と答えられるか"
+  - "「She woke up to find...のto findの訳出は？」→「結果（目的意識なく生じる結果）」と答えられるか"
+  - "「He must be generous to donate...のto donateの訳出は？」→「判断の根拠（...するなんて）」と答えられるか"
+  - "「too+形副+to doの2つの訳出は？」→「程度訳（...するには形副すぎる）と因果訳（形副すぎて...できない）」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch04_04"
+    pages: "p.102"
+notes: "目的と結果の判別が最重要。感情の理由と判断の根拠は文脈依存。enough/too構文は程度訳と因果訳の2パターン"

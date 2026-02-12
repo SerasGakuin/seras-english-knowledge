@@ -1,0 +1,189 @@
+source:
+  book: はじめの英文読解ドリル
+  section: Ch04_01
+  title: "形容詞句　不定詞・分詞"
+  pages: "p.90-93"
+
+sentences:
+  # ===== ドリル1 =====
+  - id: haj-04-01-d1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "He is the first person (to land <on the moon>)."
+    japanese: "彼は，(月に着陸した)最初の人間だ。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - clau-028
+    notes: "不定詞句がpersonを修飾する形容詞句。主格の関係（person=Ⓢ to Ⓥ）"
+
+  - id: haj-04-01-d1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "He has an assignment (to submit <by tomorrow>)."
+    japanese: "彼には，(明日までに提出すべき)課題がある。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - clau-028
+    notes: "不定詞句がassignmentを修飾する形容詞句。目的格の関係（assignment=Ⓞ to Ⓥ）"
+
+  - id: haj-04-01-d1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "He couldn't find a house (to live in)."
+    japanese: "彼は，(住むための)家を，見つけることができなかった。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - clau-028
+    notes: "不定詞句がhouseを修飾する形容詞句。前置詞の目的格の関係（house=前のⒶ to Ⓥ+前）"
+
+  - id: haj-04-01-d1-04
+    drill: 1
+    number: 4
+    role: practice
+    english: "He can communicate <with people (speaking a foreign language)>."
+    japanese: "彼は，(外国語を話す)人々とコミュニケーションができる。"
+    structure:
+      全体: "S V M M"
+    knowledge_tags:
+      - clau-028
+    notes: "現在分詞句がpeopleを修飾する形容詞句。能動関係（people are speaking）"
+
+  - id: haj-04-01-d1-05
+    drill: 1
+    number: 5
+    role: practice
+    english: "The language (spoken <in this region>) doesn't have a written form."
+    japanese: "(この地域で話されている)言語は，文字を持たない。"
+    structure:
+      全体: "S M V O"
+    knowledge_tags:
+      - clau-028
+    notes: "過去分詞句がlanguageを修飾する形容詞句。受動関係（language is spoken）"
+
+  # ===== ドリル3 =====
+  - id: haj-04-01-d3-01
+    drill: 3
+    number: 1
+    role: practice
+    english: "He is the only person (to resolve the problem)."
+    japanese: "彼は，(その問題を解決できる)唯一の人間だ。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - clau-028
+    notes: "不定詞句がpersonを修飾。主格の関係（person=Ⓢ to Ⓥ Ⓞ）"
+
+  - id: haj-04-01-d3-02
+    drill: 3
+    number: 2
+    role: practice
+    english: "Your essay <still> has many errors (to correct)."
+    japanese: "あなたの小論文は，まだ(訂正すべき)間違いがたくさんある。"
+    structure:
+      全体: "S M V O M"
+    knowledge_tags:
+      - clau-028
+    notes: "不定詞句がerrorsを修飾。目的格の関係（errors=Ⓞ to Ⓥ）"
+
+  - id: haj-04-01-d3-03
+    drill: 3
+    number: 3
+    role: practice
+    english: "He doesn't have friends (to rely on)."
+    japanese: "彼は，(頼れる)友達を持っていない。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - clau-028
+    notes: "不定詞句がfriendsを修飾。前置詞の目的格の関係（friends=前のⒶ to Ⓥ+前）"
+
+  - id: haj-04-01-d3-04
+    drill: 3
+    number: 4
+    role: practice
+    english: "I received a letter (asking me to attend the meeting)."
+    japanese: "私は，(私にその会議に出席するよう頼む)手紙を受け取った。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - clau-028
+    notes: "現在分詞句がletterを修飾。能動関係（letter is asking）"
+
+  - id: haj-04-01-d3-05
+    drill: 3
+    number: 5
+    role: practice
+    english: "The rapid changes (caused <by the company>) have influenced people's lives."
+    japanese: "(その会社によって引き起こされた)急速な変化は，人々の生活に影響した。"
+    structure:
+      全体: "S M V O"
+    knowledge_tags:
+      - clau-028
+    notes: "過去分詞句がchangesを修飾。受動関係（changes were caused）"
+
+  # ===== ドリル4 =====
+  - id: haj-04-01-d4-01
+    drill: 4
+    number: 1
+    role: practice
+    english: "England was the first country (to undergo an industrial revolution)."
+    japanese: "イングランドは，(産業革命を経験した)初めての国だった。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - clau-028
+    notes: "不定詞句がcountryを修飾。主格の関係（country=Ⓢ to Ⓥ Ⓞ）"
+
+  - id: haj-04-01-d4-02
+    drill: 4
+    number: 2
+    role: practice
+    english: "I have a large family (to support)."
+    japanese: "私には，(養うべき)大家族がある。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - clau-028
+    notes: "不定詞句がfamilyを修飾。目的格の関係（family=Ⓞ to Ⓥ）"
+
+  - id: haj-04-01-d4-03
+    drill: 4
+    number: 3
+    role: practice
+    english: "I have an urgent matter (to deal with)."
+    japanese: "私は，(対処すべき)緊急の問題を持っている。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - clau-028
+    notes: "不定詞句がmatterを修飾。前置詞の目的格の関係（matter=前のⒶ to Ⓥ+前）"
+
+  - id: haj-04-01-d4-04
+    drill: 4
+    number: 4
+    role: practice
+    english: "We are trying to overcome the challenge (facing us <now>)."
+    japanese: "私たちは，(今私たちの前に立ちはだかっている)難題を乗り越えようとしている。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - clau-028
+    notes: "現在分詞句がchallengeを修飾。能動関係（challenge is facing us）"
+
+  - id: haj-04-01-d4-05
+    drill: 4
+    number: 5
+    role: practice
+    english: "She is trying to get rid of the bad habits (acquired <in childhood>)."
+    japanese: "彼女は，(子どもの頃に身に付いた)悪い癖を取り除こうとしている。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - clau-028
+    notes: "過去分詞句がhabitsを修飾。受動関係（habits were acquired）"

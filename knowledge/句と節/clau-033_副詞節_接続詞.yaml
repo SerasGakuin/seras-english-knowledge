@@ -1,0 +1,28 @@
+id: clau-033
+name: "副詞節（接続詞）"
+category: "句と節/副詞節"
+priority: P1
+prerequisites:
+  - strc-001
+  - strc-003
+  - clau-001
+  - clau-002
+  - clau-007
+  - clau-027
+understanding_goals:
+  - "if/whether/unlessなどの接続詞が副詞節を作りMになることを説明できる"
+  - "接続詞はカタマリ内部で自分自身に役割なし（S/O/C/Mを担えない）、接続詞以外で文が完成することを説明できる"
+  - "名詞節も作りうる接続詞（if/whether/that）の副詞節用法を区別できる"
+  - "so+形副+that SV / such+名+that SVの程度訳と因果訳の両方で訳出できる"
+  - "感情の形容詞・分詞+that SVが副詞節（理由: ...なので）になることを説明できる"
+  - "副詞節しか作らない主要接続詞（the moment, once, even though, in that, provided, as long as, unless, now that）の意味を言える"
+check_points:
+  - "「接続詞のカタマリ内部の役割は？」→「なし（接続詞以外で文が完成）」と答えられるか"
+  - "「so...that構文の2つの訳出は？」→「程度訳（...するほど～）と因果訳（とても～なので...）」と答えられるか"
+  - "「感情の形容詞+that SVの訳出は？」→「...なので（理由）」と答えられるか"
+  - "「provided (that) SVの意味は？」→「...ならば/...という条件で」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch04_06"
+    pages: "p.110"
+notes: "名詞節と副詞節の判別が最重要（S/O/Cの役割を担っていなければ副詞節）。so/such...that構文と感情の形容詞+thatが特に頻出"

@@ -1,0 +1,189 @@
+source:
+  book: はじめの英文読解ドリル
+  section: Ch04_05
+  title: "副詞句②　分詞構文"
+  pages: "p.106-109"
+
+sentences:
+  # ===== ドリル1 =====
+  - id: haj-04-05-d1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "〈Having many problems〉, this plan should be revised."
+    japanese: "多くの問題があるので，この計画は修正されるべきだ。"
+    structure:
+      全体: "M S V"
+    knowledge_tags:
+      - clau-032
+    notes: "doing分詞構文。能動関係（this plan has many problems）。文頭の分詞構文"
+
+  - id: haj-04-05-d1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "Everyone went 〈home〉, 〈leaving me alone 〈in the room〉〉."
+    japanese: "全員が家に帰り，私をその部屋に1人で残した。"
+    structure:
+      全体: "S V M M"
+    knowledge_tags:
+      - clau-032
+    notes: "doing分詞構文。能動関係（everyone left me alone）。文末の分詞構文。leave O C構文"
+
+  - id: haj-04-05-d1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "〈Left alone 〈in the room〉〉, I felt 〈extremely〉 lonely."
+    japanese: "その部屋に1人で残されて，私はとても寂しかった。"
+    structure:
+      全体: "M S V M C"
+    knowledge_tags:
+      - clau-032
+    notes: "done分詞構文。受動関係（I was left alone）。受動態からSが1つ減った形"
+
+  - id: haj-04-05-d1-04
+    drill: 1
+    number: 4
+    role: practice
+    english: "〈Surrounded 〈by the sea〉〉, Japan has a mild climate."
+    japanese: "海に囲まれていて，日本は穏やかな気候である。"
+    structure:
+      全体: "M S V O"
+    knowledge_tags:
+      - clau-032
+    notes: "done分詞構文。受動関係（Japan is surrounded by the sea）。受動態からSが1つ減った形"
+
+  - id: haj-04-05-d1-05
+    drill: 1
+    number: 5
+    role: practice
+    english: "My father, 〈running a small company〉, is 〈always〉 busy."
+    japanese: "私の父は，小さな会社を経営していて，いつも忙しい。"
+    structure:
+      全体: "S M V M C"
+    knowledge_tags:
+      - clau-032
+    notes: "doing分詞構文。能動関係。挿入型の分詞構文（S, doing..., V）"
+
+  # ===== ドリル3 =====
+  - id: haj-04-05-d3-01
+    drill: 3
+    number: 1
+    role: practice
+    english: "〈Realizing the reality 〈of the developing nation〉〉, he joined a voluntary organization."
+    japanese: "その開発途上国の現実に気付いて，彼はボランティア団体に参加した。"
+    structure:
+      全体: "M S V O"
+    knowledge_tags:
+      - clau-032
+    notes: "doing分詞構文。能動関係。訳出A（ゆるやかにつなぐ）/訳出B（理由）"
+
+  - id: haj-04-05-d3-02
+    drill: 3
+    number: 2
+    role: practice
+    english: "〈Understanding the importance 〈of mathematics〉〉, students will study it 〈harder〉."
+    japanese: "数学の重要性を理解すれば，学生はそれをより一生懸命に勉強するだろう。"
+    structure:
+      全体: "M S V O M"
+    knowledge_tags:
+      - clau-032
+    notes: "doing分詞構文。能動関係。訳出B（条件: もし...なら）"
+
+  - id: haj-04-05-d3-03
+    drill: 3
+    number: 3
+    role: practice
+    english: "They sailed 〈into unknown seas〉, 〈hoping to find a new continent〉."
+    japanese: "新しい大陸を見つけることを願いながら，彼らは未知の海へと出航した。"
+    structure:
+      全体: "S V M M"
+    knowledge_tags:
+      - clau-032
+    notes: "doing分詞構文。能動関係。訳出B（付帯状況: ...しながら）"
+
+  - id: haj-04-05-d3-04
+    drill: 3
+    number: 4
+    role: practice
+    english: "〈Persuaded 〈by his friends〉〉, he decided to purchase the expensive watch."
+    japanese: "彼の友達に説得されて，彼はその高価な腕時計を購入することに決めた。"
+    structure:
+      全体: "M S V O"
+    knowledge_tags:
+      - clau-032
+    notes: "done分詞構文。受動関係（he was persuaded by his friends）"
+
+  - id: haj-04-05-d3-05
+    drill: 3
+    number: 5
+    role: practice
+    english: "The young man, 〈left a large fortune 〈by his father〉〉, lost the motivation 〈to work〉."
+    japanese: "その若い男は，父に大きな財産を残されて，働くモチベーションを失った。"
+    structure:
+      全体: "S M V O M"
+    knowledge_tags:
+      - clau-032
+    notes: "done分詞構文。受動関係（was left a fortune by his father）。挿入型の分詞構文"
+
+  # ===== ドリル4 =====
+  - id: haj-04-05-d4-01
+    drill: 4
+    number: 1
+    role: practice
+    english: "〈Living 〈in the countryside〉〉, we can enjoy the natural landscape 〈all the time〉."
+    japanese: "田舎に住んでいるので，私たちは自然の風景をいつでも楽しむことができる。"
+    structure:
+      全体: "M S V O M"
+    knowledge_tags:
+      - clau-032
+    notes: "doing分詞構文。能動関係。訳出B（理由: ...ので）"
+
+  - id: haj-04-05-d4-02
+    drill: 4
+    number: 2
+    role: practice
+    english: "〈Hired 〈by the famous company〉〉, she will be proud 〈of herself〉."
+    japanese: "その有名な会社に雇われたら，彼女は自分を誇らしく思うだろう。"
+    structure:
+      全体: "M S V C M"
+    knowledge_tags:
+      - clau-032
+    notes: "done分詞構文。受動関係（she is hired by the famous company）。訳出B（条件: もし...なら）"
+
+  - id: haj-04-05-d4-03
+    drill: 4
+    number: 3
+    role: practice
+    english: "She came 〈into the room〉 〈smiling〉 〈brightly〉."
+    japanese: "彼女は，明るく笑いながら部屋の中に入ってきた。"
+    structure:
+      全体: "S V M M M"
+    knowledge_tags:
+      - clau-032
+    notes: "doing分詞構文。能動関係。訳出B（付帯状況: ...しながら）。文末の単語1つの分詞構文"
+
+  - id: haj-04-05-d4-04
+    drill: 4
+    number: 4
+    role: practice
+    english: "〈Written 〈in simple English〉〉, this novel is suitable 〈for beginners〉."
+    japanese: "簡単な英語で書かれているので，この小説は初心者に適している。"
+    structure:
+      全体: "M S V C M"
+    knowledge_tags:
+      - clau-032
+    notes: "done分詞構文。受動関係（this novel is written in simple English）。訳出B（理由）"
+
+  - id: haj-04-05-d4-05
+    drill: 4
+    number: 5
+    role: practice
+    english: "Everyone 〈in the hall〉, 〈〈deeply〉 moved 〈by the live performance〉〉, stood up and clapped."
+    japanese: "ホールにいた全員は，その生演奏に深く感動させられ，立ち上がって拍手をした。"
+    structure:
+      全体: "S M M V"
+    knowledge_tags:
+      - clau-032
+    notes: "done分詞構文。受動関係（was deeply moved by the live performance）。挿入型の分詞構文"

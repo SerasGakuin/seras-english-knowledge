@@ -1,0 +1,26 @@
+id: clau-028
+name: "形容詞句（不定詞・現在分詞・過去分詞）"
+category: "句と節/形容詞句"
+priority: P1
+prerequisites:
+  - strc-001
+  - strc-009
+  - clau-001
+  - clau-002
+  - clau-027
+understanding_goals:
+  - "to do/doing/doneが形容詞句を作り、名詞を修飾するMになることを説明できる"
+  - "不定詞の形容詞用法で修飾される名詞との関係（主格・目的格・前置詞の目的格）を判別できる"
+  - "現在分詞(doing)は「修飾される名詞が...する/している」の能動関係であることを説明できる"
+  - "過去分詞(done)は「修飾される名詞が...される/された」の受動関係であることを説明できる"
+  - "不定詞=...する(ための)/すべき/できる、現在分詞=...している/する、過去分詞=...された と訳し分けられる"
+check_points:
+  - "「a house to live inのto live inと名詞houseの関係は？」→「前置詞の目的格（live in a house）」と答えられるか"
+  - "「the boy running in the parkのrunningと名詞boyの関係は？」→「主格（the boy is running）能動関係」と答えられるか"
+  - "「the door broken by himのbrokenと名詞doorの関係は？」→「受動関係（the door was broken）」と答えられるか"
+  - "「過去分詞の形容詞句の後にはSが1つ減った形が続く理由は？」→「受動態から生まれた形だから」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch04_01"
+    pages: "p.90"
+notes: "不定詞の3種類の関係性（主格/目的格/前置詞の目的格）の判別が最重要。分詞は能動/受動の判断"

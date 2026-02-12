@@ -1,0 +1,189 @@
+source:
+  book: はじめの英文読解ドリル
+  section: Ch04_04
+  title: "副詞句①　不定詞"
+  pages: "p.102-105"
+
+sentences:
+  # ===== ドリル1 =====
+  - id: haj-04-04-d1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "It began raining, so I went 〈back〉 〈home〉 〈to take an umbrella〉."
+    japanese: "雨が降り始めたので，私は，〈傘を取るために〉家へ帰った。"
+    structure:
+      全体: "S V O S V M M M"
+    knowledge_tags:
+      - clau-031
+    notes: "不定詞の副詞的用法「目的」。in order to do / so as to doで言い換え可"
+
+  - id: haj-04-04-d1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "She woke up 〈to find herself lying 〈on the floor〉〉."
+    japanese: "彼女は，目覚めると，〈自分が床の上に横たわっているのに気付いた〉。"
+    structure:
+      全体: "S V M"
+    knowledge_tags:
+      - clau-031
+    notes: "不定詞の副詞的用法「結果」。SV ~ to find（realize/discover）パターン。目的意識なく生じる結果"
+
+  - id: haj-04-04-d1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "He must be generous 〈to donate two million yen 〈to the charity〉〉."
+    japanese: "彼は，〈慈善団体に200万円を寄付するなんて，〉気前が良いにちがいない。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - clau-031
+    notes: "不定詞の副詞的用法「判断の根拠」。...するなんて/するとは。なぜそう言えるのかを示す"
+
+  - id: haj-04-04-d1-04
+    drill: 1
+    number: 4
+    role: practice
+    english: "He is mature 〈enough〉 〈to use a knife 〈properly〉〉."
+    japanese: "彼は，〈ナイフを適切に使うことができるほど，〉（十分に）大人だ。"
+    structure:
+      全体: "S V C M M"
+    knowledge_tags:
+      - clau-031
+    notes: "不定詞の副詞的用法「程度」enough構文。形副+enough to do。enoughは形副を後ろから修飾"
+
+  - id: haj-04-04-d1-05
+    drill: 1
+    number: 5
+    role: practice
+    english: "He was 〈too〉 young 〈to understand the situation〉."
+    japanese: "彼は，〈その状況を理解するには，〉若すぎた。"
+    structure:
+      全体: "S V M C M"
+    knowledge_tags:
+      - clau-031
+    notes: "不定詞の副詞的用法「程度」too構文。too+形副+to do。程度訳と因果訳の2パターン"
+
+  # ===== ドリル3 =====
+  - id: haj-04-04-d3-01
+    drill: 3
+    number: 1
+    role: practice
+    english: "The researcher conducted a survey 〈so as to obtain accurate data〉."
+    japanese: "その研究者は，〈正確なデータを得るために，〉調査を行った。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - clau-031
+    notes: "不定詞の副詞的用法「目的」。so as to doパターン"
+
+  - id: haj-04-04-d3-02
+    drill: 3
+    number: 2
+    role: practice
+    english: "She grew up 〈to be an expert 〈on psychology〉〉."
+    japanese: "彼女は，成長して，〈心理学の専門家になった〉。"
+    structure:
+      全体: "S V M"
+    knowledge_tags:
+      - clau-031
+    notes: "不定詞の副詞的用法「結果」。grow up to beパターン。成長して...になる"
+
+  - id: haj-04-04-d3-03
+    drill: 3
+    number: 3
+    role: practice
+    english: "She was disappointed 〈to see the result〉."
+    japanese: "彼女は，〈その結果を見て，〉がっかりした。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - clau-031
+    notes: "不定詞の副詞的用法「感情の理由」。...して/...したので。なぜその感情を抱いたのかを示す"
+
+  - id: haj-04-04-d3-04
+    drill: 3
+    number: 4
+    role: practice
+    english: "He must be crazy 〈to go out 〈in the heavy rain〉〉."
+    japanese: "〈大雨の中出かけるなんて，〉彼は気が狂っているにちがいない。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - clau-031
+    notes: "不定詞の副詞的用法「判断の根拠」。...するなんて。なぜそう言えるのかを示す"
+
+  - id: haj-04-04-d3-05
+    drill: 3
+    number: 5
+    role: practice
+    english: "He is open-minded 〈enough〉 〈to embrace cultural diversity〉."
+    japanese: "彼は，〈文化の多様性を受け入れることができるほど，〉（十分に）心を開いている。"
+    structure:
+      全体: "S V C M M"
+    knowledge_tags:
+      - clau-031
+    notes: "不定詞の副詞的用法「程度」enough構文。形副+enough to do"
+
+  # ===== ドリル4 =====
+  - id: haj-04-04-d4-01
+    drill: 4
+    number: 1
+    role: practice
+    english: "He writes letters 〈to his clients〉 〈regularly〉 〈in order to maintain good relationships〉."
+    japanese: "彼は，〈良い関係を維持するために，〉定期的に彼の顧客に手紙を書く。"
+    structure:
+      全体: "S V O M M M"
+    knowledge_tags:
+      - clau-031
+    notes: "不定詞の副詞的用法「目的」。in order to doパターン"
+
+  - id: haj-04-04-d4-02
+    drill: 4
+    number: 2
+    role: practice
+    english: "We tried the experiment 〈again〉, 〈only to get the same result〉."
+    japanese: "私たちは再びその実験を試した〈が，同じ結果を得ただけだった〉。"
+    structure:
+      全体: "S V O M M"
+    knowledge_tags:
+      - clau-031
+    notes: "不定詞の副詞的用法「結果」。only to doパターン。～したが結局（残念ながら）...するだけだった"
+
+  - id: haj-04-04-d4-03
+    drill: 4
+    number: 3
+    role: practice
+    english: "He was shocked 〈to see his daughter crying〉."
+    japanese: "彼は，〈彼の娘が泣いているのを見て，〉ショックを受けた。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - clau-031
+    notes: "不定詞の副詞的用法「感情の理由」。see O doing（Oが...しているのを見る）"
+
+  - id: haj-04-04-d4-04
+    drill: 4
+    number: 4
+    role: practice
+    english: "He must be foolish 〈to ignore my warnings〉."
+    japanese: "〈私の警告を無視するなんて，〉彼は愚かであるにちがいない。"
+    structure:
+      全体: "S V C M"
+    knowledge_tags:
+      - clau-031
+    notes: "不定詞の副詞的用法「判断の根拠」。...するなんて"
+
+  - id: haj-04-04-d4-05
+    drill: 4
+    number: 5
+    role: practice
+    english: "The reason 〈for her success〉 is 〈too〉 obvious 〈to require any explanation〉."
+    japanese: "彼女の成功の理由は，明白すぎて，〈いかなる説明をも必要としない〉。"
+    structure:
+      全体: "S M V M C M"
+    knowledge_tags:
+      - clau-031
+    notes: "不定詞の副詞的用法「程度」too構文。too+形副+to do。程度訳と因果訳の2パターン"

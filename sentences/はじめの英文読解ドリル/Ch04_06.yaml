@@ -1,0 +1,206 @@
+source:
+  book: はじめの英文読解ドリル
+  section: Ch04_06
+  title: "副詞節　接続詞"
+  pages: "p.110-113"
+
+sentences:
+  # ===== ドリル1 =====
+  - id: haj-04-06-d1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "She shows respect 〈for everyone〉 〈whether they are younger or older〉."
+    japanese: "年下であろうと年上であろうと，彼女はみんなに敬意を示す。"
+    structure:
+      全体: "S V O M M"
+      内部: "Ⓢ Ⓥ Ⓒ"
+    knowledge_tags:
+      - clau-033
+    notes: "whether A or B（...であれ～であれ）の副詞節。whetherは名詞節も作りうるが、S/O/Cの役割なし→副詞節"
+
+  - id: haj-04-06-d1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "He is 〈so〉 brilliant 〈that everyone admires him〉."
+    japanese: "彼はとても優秀なので，全員が彼を賞賛している。"
+    structure:
+      全体: "S V C M"
+      内部: "Ⓢ Ⓥ Ⓞ"
+    knowledge_tags:
+      - clau-033
+    notes: "so+形容詞+that SV構文。程度訳（...するほど～）と因果訳（とても～なので...）。thatは名詞節も作りうるが副詞節"
+
+  - id: haj-04-06-d1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "Our boss is angry 〈that we ignored his instructions〉."
+    japanese: "私たちの上司は，私たちが彼の指示を無視したので，怒っている。"
+    structure:
+      全体: "S V C M"
+      内部: "Ⓢ Ⓥ Ⓞ"
+    knowledge_tags:
+      - clau-033
+    notes: "感情の形容詞+that SV。副詞節（理由: ...なので）。thatはS/O/Cの役割なし→副詞節"
+
+  - id: haj-04-06-d1-04
+    drill: 1
+    number: 4
+    role: practice
+    english: "I will lend you my camera 〈as long as you use it carefully〉."
+    japanese: "あなたがそれを注意して使うなら，私はあなたに私のカメラを貸してあげます。"
+    structure:
+      全体: "S V O O M"
+      内部: "Ⓢ Ⓥ Ⓞ Ⓜ"
+    knowledge_tags:
+      - clau-033
+    notes: "as long as（...なら/...する限りは）。副詞節しか作らない接続詞"
+
+  - id: haj-04-06-d1-05
+    drill: 1
+    number: 5
+    role: practice
+    english: "〈Once you learn the basic rules〉, this game is interesting."
+    japanese: "いったんあなたが基本的なルールを覚えれば，このゲームは面白い。"
+    structure:
+      全体: "M S V C"
+      内部: "Ⓢ Ⓥ Ⓞ"
+    knowledge_tags:
+      - clau-033
+    notes: "once（いったん...すると/すれば）。副詞節しか作らない接続詞"
+
+  # ===== ドリル3 =====
+  - id: haj-04-06-d3-01
+    drill: 3
+    number: 1
+    role: practice
+    english: "The fact remains the same 〈whether you believe it or not〉."
+    japanese: "あなたが信じようと信じまいと，その事実は同じままだ。"
+    structure:
+      全体: "S V C M"
+      内部: "Ⓢ Ⓥ Ⓞ"
+    knowledge_tags:
+      - clau-033
+    notes: "whether...or not（...であろうとなかろうと）の副詞節"
+
+  - id: haj-04-06-d3-02
+    drill: 3
+    number: 2
+    role: practice
+    english: "I found the problem 〈so〉 difficult 〈that I asked his advice〉."
+    japanese: "私は，その問題がとても難しいと思ったので，彼の助言を求めた。"
+    structure:
+      全体: "S V O M C M"
+      内部: "Ⓢ Ⓥ Ⓞ"
+    knowledge_tags:
+      - clau-033
+    notes: "so+形容詞+that SV構文。SVOC構文内でのso...that。程度訳と因果訳"
+
+  - id: haj-04-06-d3-03
+    drill: 3
+    number: 3
+    role: practice
+    english: "I was surprised 〈that he 〈suddenly〉 left the laboratory 〈without explanation〉〉."
+    japanese: "私は，彼が説明もなく突然その実験室を出たので，驚いた。"
+    structure:
+      全体: "S V C M"
+      内部: "Ⓢ Ⓜ Ⓥ Ⓞ Ⓜ"
+    knowledge_tags:
+      - clau-033
+    notes: "感情の形容詞（surprised）+that SV。副詞節（理由）"
+
+  - id: haj-04-06-d3-04
+    drill: 3
+    number: 4
+    role: practice
+    english: "〈Unless people refrain 〈from using fossil fuels〉〉, global warming will continue."
+    japanese: "人々が化石燃料を使うのを控えない限り，地球温暖化は続くだろう。"
+    structure:
+      全体: "M S V"
+      内部: "Ⓢ Ⓥ Ⓜ"
+    knowledge_tags:
+      - clau-033
+    notes: "unless（...しない限り）。副詞節しか作らない接続詞"
+
+  - id: haj-04-06-d3-05
+    drill: 3
+    number: 5
+    role: practice
+    english: "〈Now that he doesn't have to work 〈on weekends〉〉, he spends more time 〈with his family〉."
+    japanese: "今や彼は週末に働かなくてもよいので，彼はより多くの時間を家族と一緒に過ごしている。"
+    structure:
+      全体: "M S V O M"
+      内部: "Ⓢ Ⓥ Ⓜ"
+    knowledge_tags:
+      - clau-033
+    notes: "now that（今や...なので）。副詞節しか作らない接続詞"
+
+  # ===== ドリル4 =====
+  - id: haj-04-06-d4-01
+    drill: 4
+    number: 1
+    role: practice
+    english: "〈Whether there is a dress code or not〉, you must wear appropriate clothes."
+    japanese: "服装規定があろうとなかろうと，あなたは適切な服を着なければならない。"
+    structure:
+      全体: "M S V O"
+      内部: "Ⓥ Ⓢ"
+    knowledge_tags:
+      - clau-033
+      - vtyp-006
+    notes: "whether...or not（...であろうとなかろうと）の副詞節。There VS構文が内部にある"
+
+  - id: haj-04-06-d4-02
+    drill: 4
+    number: 2
+    role: practice
+    english: "Kyoto is such a great city 〈that many foreigners choose it 〈as their travel destination〉〉."
+    japanese: "京都はとても素晴らしい都市なので，多くの外国人がそれを旅行先として選ぶ。"
+    structure:
+      全体: "S V C M"
+      内部: "Ⓢ Ⓥ Ⓞ Ⓜ"
+    knowledge_tags:
+      - clau-033
+    notes: "such+名+that SV構文。程度訳と因果訳。so...thatのsuch版"
+
+  - id: haj-04-06-d4-03
+    drill: 4
+    number: 3
+    role: practice
+    english: "I was disappointed 〈that she had rejected my proposal〉."
+    japanese: "彼女が私の提案を却下したので，私はがっかりした。"
+    structure:
+      全体: "S V C M"
+      内部: "Ⓢ Ⓥ Ⓞ"
+    knowledge_tags:
+      - clau-033
+    notes: "感情の形容詞（disappointed）+that SV。副詞節（理由）"
+
+  - id: haj-04-06-d4-04
+    drill: 4
+    number: 4
+    role: practice
+    english: "Children are permitted to swim 〈here〉 〈provided their parents accompany them〉."
+    japanese: "親が子どもに付き添うならば，子どもはここで泳ぐことが許されている。"
+    structure:
+      全体: "S V M M"
+      内部: "Ⓢ Ⓥ Ⓞ"
+    knowledge_tags:
+      - clau-033
+    notes: "provided (that)（...ならば/...という条件で）。副詞節しか作らない接続詞"
+
+  - id: haj-04-06-d4-05
+    drill: 4
+    number: 5
+    role: practice
+    english: "I recognized her 〈the moment I saw her〉 〈even though she had changed her hairstyle〉."
+    japanese: "彼女は髪型を変えていたにもかかわらず，彼女を見た瞬間に，私は彼女だと分かった。"
+    structure:
+      全体: "S V O M M"
+      内部1: "Ⓢ Ⓥ Ⓞ"
+      内部2: "Ⓢ Ⓥ Ⓞ"
+    knowledge_tags:
+      - clau-033
+    notes: "the moment（...する瞬間に）とeven though（...にもかかわらず）の2つの副詞節。副詞節しか作らない接続詞が2つ"
