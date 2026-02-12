@@ -1,0 +1,17 @@
+.git
+.claude
+.venv
+__pycache__
+*.pyc
+
+seras-test-generator/.venv
+seras-test-generator/tests
+seras-test-generator/test_output.pdf
+seras-test-generator/answer_output.pdf
+seras-test-generator/output
+
+docs
+scripts
+reference
+*.md
+manifest.yaml
