@@ -29,7 +29,7 @@ sentences:
       全体: "S V C M"
       内部: "Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
-      - clau-033
+      - clau-040
     notes: "so+形容詞+that SV構文。程度訳（...するほど～）と因果訳（とても～なので...）。thatは名詞節も作りうるが副詞節"
 
   - id: haj-04-06-d1-03
@@ -42,7 +42,7 @@ sentences:
       全体: "S V C M"
       内部: "Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
-      - clau-033
+      - clau-040
     notes: "感情の形容詞+that SV。副詞節（理由: ...なので）。thatはS/O/Cの役割なし→副詞節"
 
   - id: haj-04-06-d1-04
@@ -55,7 +55,7 @@ sentences:
       全体: "S V O O M"
       内部: "Ⓢ Ⓥ Ⓞ Ⓜ"
     knowledge_tags:
-      - clau-033
+      - clau-041
     notes: "as long as（...なら/...する限りは）。副詞節しか作らない接続詞"
 
   - id: haj-04-06-d1-05
@@ -68,7 +68,7 @@ sentences:
       全体: "M S V C"
       内部: "Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
-      - clau-033
+      - clau-041
     notes: "once（いったん...すると/すれば）。副詞節しか作らない接続詞"
 
   # ===== ドリル3 =====
@@ -95,7 +95,7 @@ sentences:
       全体: "S V O M C M"
       内部: "Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
-      - clau-033
+      - clau-040
     notes: "so+形容詞+that SV構文。SVOC構文内でのso...that。程度訳と因果訳"
 
   - id: haj-04-06-d3-03
@@ -108,7 +108,7 @@ sentences:
       全体: "S V C M"
       内部: "Ⓢ Ⓜ Ⓥ Ⓞ Ⓜ"
     knowledge_tags:
-      - clau-033
+      - clau-040
     notes: "感情の形容詞（surprised）+that SV。副詞節（理由）"
 
   - id: haj-04-06-d3-04
@@ -121,7 +121,7 @@ sentences:
       全体: "M S V"
       内部: "Ⓢ Ⓥ Ⓜ"
     knowledge_tags:
-      - clau-033
+      - clau-041
     notes: "unless（...しない限り）。副詞節しか作らない接続詞"
 
   - id: haj-04-06-d3-05
@@ -134,7 +134,7 @@ sentences:
       全体: "M S V O M"
       内部: "Ⓢ Ⓥ Ⓜ"
     knowledge_tags:
-      - clau-033
+      - clau-041
     notes: "now that（今や...なので）。副詞節しか作らない接続詞"
 
   # ===== ドリル4 =====
@@ -162,7 +162,7 @@ sentences:
       全体: "S V C M"
       内部: "Ⓢ Ⓥ Ⓞ Ⓜ"
     knowledge_tags:
-      - clau-033
+      - clau-040
     notes: "such+名+that SV構文。程度訳と因果訳。so...thatのsuch版"
 
   - id: haj-04-06-d4-03
@@ -175,7 +175,7 @@ sentences:
       全体: "S V C M"
       内部: "Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
-      - clau-033
+      - clau-040
     notes: "感情の形容詞（disappointed）+that SV。副詞節（理由）"
 
   - id: haj-04-06-d4-04
@@ -188,7 +188,7 @@ sentences:
       全体: "S V M M"
       内部: "Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
-      - clau-033
+      - clau-041
     notes: "provided (that)（...ならば/...という条件で）。副詞節しか作らない接続詞"
 
   - id: haj-04-06-d4-05
@@ -202,5 +202,5 @@ sentences:
       内部1: "Ⓢ Ⓥ Ⓞ"
       内部2: "Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
-      - clau-033
+      - clau-041
     notes: "the moment（...する瞬間に）とeven though（...にもかかわらず）の2つの副詞節。副詞節しか作らない接続詞が2つ"

@@ -1,0 +1,28 @@
+id: clau-036
+name: "関係副詞の形容詞節と書き換え"
+category: "句と節/形容詞節"
+priority: P1
+prerequisites:
+  - strc-001
+  - strc-009
+  - clau-001
+  - clau-002
+  - clau-026
+  - clau-027
+  - clau-029
+  - clau-030
+understanding_goals:
+  - "when/where/why（関係副詞）が形容詞節を作り、名詞を修飾するMになることを説明できる"
+  - "関係副詞はカタマリ内部で副詞（Ⓜ）の役割を担うことを説明できる"
+  - "関係副詞は前置詞+関係代名詞に書き換え可能であることを説明できる（when=on which, where=at/in which, why=for which）"
+  - "関係副詞節が離れた名詞を修飾するパターンを識別できる（例: The day will come when...）"
+check_points:
+  - "「関係副詞whenは前置詞+関係代名詞に書き換えると？」→「on which」と答えられるか"
+  - "「関係副詞whereは前置詞+関係代名詞に書き換えると？」→「at which / in which」と答えられるか"
+  - "「関係副詞whyは前置詞+関係代名詞に書き換えると？」→「for which」と答えられるか"
+  - "「The day will come when...のwhen節は何を修飾？」→「離れた名詞dayを修飾」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch04_03"
+    pages: "p.98"
+notes: "clau-030から分割。前置詞+関代（clau-030）と関係副詞は表裏の関係。書き換え規則（when=on which等）は暗記知識"

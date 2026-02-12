@@ -1,0 +1,20 @@
+id: clau-040
+name: "so/such...that構文と感情+that構文"
+category: "句と節/副詞節"
+priority: P1
+prerequisites:
+  - clau-033
+understanding_goals:
+  - "so+形副+that SVの程度訳（...するほど～）と因果訳（とても～なので...）の両方で訳出できる"
+  - "such+名+that SVの程度訳と因果訳の両方で訳出できる"
+  - "soとsuchの使い分け（soは形副の前、suchは名詞の前）を説明できる"
+  - "感情の形容詞・分詞+that SVが副詞節（理由: ...なので）になることを説明できる"
+check_points:
+  - "「so...that構文の2つの訳出は？」→「程度訳（...するほど～）と因果訳（とても～なので...）」と答えられるか"
+  - "「soとsuchの使い分けは？」→「soは形副の前、suchは名詞の前」と答えられるか"
+  - "「感情の形容詞+that SVの訳出は？」→「...なので（理由）」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch04_06"
+    pages: "p.110-113"
+notes: "so/such...that構文は程度訳と因果訳の2パターンが重要。感情+thatは理由を表す副詞節"

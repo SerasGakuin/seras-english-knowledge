@@ -17,6 +17,7 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓜ"
     knowledge_tags:
       - clau-007
+      - clau-012
     notes: "whether節がS。接続詞whetherに役割なし。or notが先頭に含まれる形"
 
   - id: haj-03-04-d1-02
@@ -30,6 +31,7 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
       - clau-007
+      - clau-012
     notes: "whether節がaboutの前置詞のO。or notが末尾に含まれる形"
 
   - id: haj-03-04-d1-03
@@ -43,6 +45,7 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓒ"
     knowledge_tags:
       - clau-007
+      - clau-012
     notes: "whether節がO。a male or a femaleがA or Bの形。whetherは「AかBか」の訳"
 
   - id: haj-03-04-d1-04
@@ -56,6 +59,7 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
       - clau-007
+      - clau-012
     notes: "if節がO。ifは動詞のOに置かれる名詞節のみ作れる"
 
   - id: haj-03-04-d1-05
@@ -83,6 +87,7 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓜ"
     knowledge_tags:
       - clau-007
+      - clau-012
     notes: "whether節がS。or notが末尾。depend on=...次第だ"
 
   - id: haj-03-04-d3-02
@@ -109,6 +114,7 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓒ"
     knowledge_tags:
       - clau-007
+      - clau-012
     notes: "whether節がO。or notが先頭に含まれる形"
 
   - id: haj-03-04-d3-04
@@ -122,6 +128,7 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
       - clau-007
+      - clau-012
     notes: "if節がO。ifは動詞のOに置かれる名詞節のみ"
 
   - id: haj-03-04-d3-05
@@ -135,6 +142,7 @@ sentences:
       内部: "Ⓢ Ⓥ"
     knowledge_tags:
       - clau-007
+      - clau-012
     notes: "whether節がonの前置詞のO。or notが先頭。whetherは前置詞のOになれるがifはなれない"
 
   # ===== ドリル4 =====
@@ -175,6 +183,7 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓜ"
     knowledge_tags:
       - clau-007
+      - clau-012
     notes: "whether節がO。or notなしのwhether節"
 
   - id: haj-03-04-d4-04
@@ -188,6 +197,7 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓒ"
     knowledge_tags:
       - clau-007
+      - clau-012
     notes: "if節がO。if SV...or notの形。ifは動詞のOのみ"
 
   - id: haj-03-04-d4-05
@@ -201,4 +211,5 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
       - clau-007
+      - clau-012
     notes: "whether節がaboutの前置詞のO。or notが先頭"

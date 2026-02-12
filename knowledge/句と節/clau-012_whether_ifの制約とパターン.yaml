@@ -1,0 +1,20 @@
+id: clau-012
+name: "whether/ifの制約とパターン"
+category: "句と節/名詞節"
+priority: P1
+prerequisites:
+  - clau-007
+understanding_goals:
+  - "ifが名詞節を作れるのは原則「動詞のOに置かれる場合のみ」という制約を言える"
+  - "whether or notの位置パターン（先頭: whether or not SV / 末尾: whether SV or not）を識別できる"
+  - "カタマリ内部にA or Bの形を含む場合（whetherのみ）を識別できる"
+  - "whether=...かどうか/AかBか、if=...かどうか の訳を使い分けられる"
+check_points:
+  - "「ifが名詞節を作れるのはどんな時？」→「原則、動詞のOに置かれる場合のみ」と答えられるか"
+  - "「whether or notの位置パターンは？」→「先頭(whether or not SV)と末尾(whether SV or not)の2つ」と答えられるか"
+  - "「whether the bird is a male or a femaleのwhetherの訳は？」→「AかBか（オスであるかメスであるか）」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch03_04"
+    pages: "p.80"
+notes: "clau-007から分割。ifの制約とwhether/ifのパターン（or not位置、A or B）は独立してテスト可能なスキル"

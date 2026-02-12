@@ -69,6 +69,7 @@ sentences:
       内部: "Ⓜ Ⓒ Ⓢ Ⓥ"
     knowledge_tags:
       - clau-006
+      - clau-011
     notes: "how節がO。howは内部でeffectiveを修飾するⓂ。effectiveはisのⓒ。how+形容詞の形"
 
   # ===== ドリル3 =====
@@ -83,6 +84,7 @@ sentences:
       内部: "Ⓜ Ⓒ Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
       - clau-006
+      - clau-011
     notes: "how節がS。howは内部でdifficultを修飾するⓂ。findはSVOC型でthis taskがⓄ、difficultがⓒ。how+形容詞の形"
 
   - id: haj-03-03-d3-02
@@ -135,6 +137,7 @@ sentences:
       内部: "Ⓜ Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
       - clau-006
+      - clau-011
     notes: "why節がC。whyは内部でtrustを修飾するⓂ。This is why...は関係副詞（先行詞省略）で「...理由」と訳す"
 
   # ===== ドリル4 =====
@@ -149,6 +152,7 @@ sentences:
       内部: "Ⓜ Ⓒ Ⓢ Ⓥ Ⓜ"
     knowledge_tags:
       - clau-006
+      - clau-011
     notes: "how節がS。howは内部でsatisfiedを修飾するⓂ。feelはSVC型でsatisfiedがⓒ。how+形容詞の形"
 
   - id: haj-03-03-d4-02
@@ -201,4 +205,5 @@ sentences:
       内部: "Ⓜ Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
       - clau-006
+      - clau-011
     notes: "how節がC。howは内部でmanagedを修飾するⓂ。This is how...は関係副詞（先行詞省略）で「...方法」と訳す"

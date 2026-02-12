@@ -43,6 +43,7 @@ sentences:
       内部: "Ⓞ Ⓢ Ⓥ"
     knowledge_tags:
       - clau-029
+      - clau-035
     notes: "関係代名詞省略。machineの後にSVが続く（名詞+SV語順）。目的格の関係代名詞が省略"
 
   - id: haj-04-02-d1-04
@@ -109,6 +110,7 @@ sentences:
       内部: "Ⓢ Ⓥ"
     knowledge_tags:
       - clau-029
+      - clau-035
       - vtyp-006
     notes: "関係代名詞省略。thingsの後にSVが続く。目的格の関係代名詞が省略。There VS構文"
 
@@ -176,6 +178,7 @@ sentences:
       内部: "Ⓢ Ⓥ"
     knowledge_tags:
       - clau-029
+      - clau-035
     notes: "関係代名詞省略。policyの後にSVが続く。目的格の関係代名詞が省略"
 
   - id: haj-04-02-d4-04

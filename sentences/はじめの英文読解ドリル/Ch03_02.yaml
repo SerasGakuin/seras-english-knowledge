@@ -43,6 +43,7 @@ sentences:
       内部: "前のⓄ Ⓢ Ⓥ Ⓜ"
     knowledge_tags:
       - clau-005
+      - clau-010
     notes: "what節がS。whatは内部でaboutの目的語（前置詞のⓄ）。関係代名詞whatの用法（...こと）"
 
   - id: haj-03-02-d1-04
@@ -69,6 +70,7 @@ sentences:
       内部: "Ⓞ Ⓢ Ⓥ"
     knowledge_tags:
       - clau-005
+      - clau-010
     notes: "what節がO。whatは内部でsaidのⓄ（目的語）。疑問代名詞/関係代名詞どちらの訳も可能"
 
   # ===== ドリル3 =====
@@ -96,6 +98,7 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓒ Ⓜ"
     knowledge_tags:
       - clau-005
+      - clau-010
     notes: "what節がS。whatは内部でⓈ（seemsの主語）。関係代名詞whatの用法（...こと）"
 
   - id: haj-03-02-d3-03
@@ -135,6 +138,7 @@ sentences:
       内部: "前のⓄ Ⓢ Ⓥ"
     knowledge_tags:
       - clau-005
+      - clau-010
     notes: "what節がS。whatは内部でworry aboutの前置詞のⓄ。疑問代名詞/関係代名詞どちらの訳も可能"
 
   # ===== ドリル4 =====
@@ -162,6 +166,7 @@ sentences:
       内部: "Ⓞ Ⓢ Ⓥ Ⓒ"
     knowledge_tags:
       - clau-005
+      - clau-010
     notes: "what節がS。whatは内部でhad believedのⓄ（目的語）、trueはⓒ（SVOC構造）。関係代名詞what"
 
   - id: haj-03-02-d4-03
@@ -188,6 +193,7 @@ sentences:
       内部: "Ⓒ Ⓢ Ⓥ"
     knowledge_tags:
       - clau-005
+      - clau-010
     notes: "what節がO。whatは内部でisのⓒ（補語）。疑問代名詞what。間接疑問で語順がS+Vになる"
 
   - id: haj-03-02-d4-05
@@ -201,4 +207,5 @@ sentences:
       内部: "前のⓄ Ⓢ Ⓥ Ⓜ"
     knowledge_tags:
       - clau-005
+      - clau-010
     notes: "what節がS。whatは内部でtalked aboutの前置詞のⓄ。関係代名詞what（...こと）"

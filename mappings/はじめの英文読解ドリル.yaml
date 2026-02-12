@@ -198,6 +198,7 @@ sections:
     type: drill
     knowledge_nodes:
       - clau-004
+      - clau-009
     prerequisites:
       - Ch03_00
     sentence_file: sentences/はじめの英文読解ドリル/Ch03_01.yaml
@@ -208,6 +209,7 @@ sections:
     type: drill
     knowledge_nodes:
       - clau-005
+      - clau-010
     prerequisites:
       - Ch03_00
     sentence_file: sentences/はじめの英文読解ドリル/Ch03_02.yaml
@@ -218,6 +220,7 @@ sections:
     type: drill
     knowledge_nodes:
       - clau-006
+      - clau-011
     prerequisites:
       - Ch03_00
     sentence_file: sentences/はじめの英文読解ドリル/Ch03_03.yaml
@@ -228,6 +231,7 @@ sections:
     type: drill
     knowledge_nodes:
       - clau-007
+      - clau-012
     prerequisites:
       - Ch03_00
     sentence_file: sentences/はじめの英文読解ドリル/Ch03_04.yaml
@@ -238,6 +242,7 @@ sections:
     type: drill
     knowledge_nodes:
       - clau-008
+      - clau-013
     prerequisites:
       - Ch03_00
     sentence_file: sentences/はじめの英文読解ドリル/Ch03_05.yaml
@@ -257,6 +262,7 @@ sections:
     type: drill
     knowledge_nodes:
       - clau-028
+      - clau-034
     prerequisites:
       - Ch04_00
       - Ch03_00
@@ -268,6 +274,7 @@ sections:
     type: drill
     knowledge_nodes:
       - clau-029
+      - clau-035
     prerequisites:
       - Ch04_00
       - Ch03_00
@@ -279,6 +286,7 @@ sections:
     type: drill
     knowledge_nodes:
       - clau-030
+      - clau-036
     prerequisites:
       - Ch04_00
       - Ch04_02
@@ -290,6 +298,8 @@ sections:
     type: drill
     knowledge_nodes:
       - clau-031
+      - clau-037
+      - clau-038
     prerequisites:
       - Ch04_00
       - Ch03_00
@@ -301,6 +311,7 @@ sections:
     type: drill
     knowledge_nodes:
       - clau-032
+      - clau-039
     prerequisites:
       - Ch04_00
     sentence_file: sentences/はじめの英文読解ドリル/Ch04_05.yaml
@@ -311,6 +322,8 @@ sections:
     type: drill
     knowledge_nodes:
       - clau-033
+      - clau-040
+      - clau-041
     prerequisites:
       - Ch04_00
       - Ch03_00

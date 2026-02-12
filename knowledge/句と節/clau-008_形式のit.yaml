@@ -1,5 +1,5 @@
 id: clau-008
-name: "形式のit（形式主語・形式目的語）"
+name: "形式主語itの構造"
 category: "句と節/形式のit"
 priority: P1
 prerequisites:
@@ -9,16 +9,14 @@ prerequisites:
   - clau-007
 understanding_goals:
   - "形式のitが前出の名詞ではなく後ろの名詞句/名詞節を指すことを説明できる"
-  - "形式主語（itがSの位置）と形式目的語（itがOの位置）の2種類を区別できる"
+  - "形式主語（itがSの位置）の構造を識別できる（It is C + [名詞句/節]）"
   - "形式のitが指せる名詞句（不定詞/動名詞）と名詞節（that節/whether節/疑問詞節）を列挙できる"
-  - "形式のitを使う2つの理由（長すぎるから後回し/強く伝えたい部分だから後回し）を説明できる"
 check_points:
   - "「It is difficult to...のitは何？」→「形式主語。後ろのto不定詞句を指す」と答えられるか"
-  - "「I found it difficult to...のitは何？」→「形式目的語。後ろのto不定詞句を指す」と答えられるか"
   - "「形式のitが指せるものを挙げて」→「名詞句（不定詞/動名詞）と名詞節（that/whether/疑問詞節）」と答えられるか"
-  - "「形式のitを使う理由は？」→「長すぎるから後回し、または強く伝えたい部分だから後回し」と答えられるか"
+  - "「It seems true that...のitは何？」→「形式主語。後ろのthat節を指す」と答えられるか"
 references:
   はじめの英文読解ドリル:
     section: "Ch03_05"
     pages: "p.84"
-notes: "形式主語のIt is...that/to構文は最頻出。形式目的語のSVOC+it構文（find it difficult to等）も重要"
+notes: "形式主語のIt is...that/to構文は最頻出。形式目的語とitを使う理由はclau-013に分割"

@@ -51,7 +51,7 @@ sentences:
     structure:
       全体: "S V M M"
     knowledge_tags:
-      - clau-028
+      - clau-034
     notes: "現在分詞句がpeopleを修飾する形容詞句。能動関係（people are speaking）"
 
   - id: haj-04-01-d1-05
@@ -63,7 +63,7 @@ sentences:
     structure:
       全体: "S M V O"
     knowledge_tags:
-      - clau-028
+      - clau-034
     notes: "過去分詞句がlanguageを修飾する形容詞句。受動関係（language is spoken）"
 
   # ===== ドリル3 =====
@@ -112,7 +112,7 @@ sentences:
     structure:
       全体: "S V O M"
     knowledge_tags:
-      - clau-028
+      - clau-034
     notes: "現在分詞句がletterを修飾。能動関係（letter is asking）"
 
   - id: haj-04-01-d3-05
@@ -124,7 +124,7 @@ sentences:
     structure:
       全体: "S M V O"
     knowledge_tags:
-      - clau-028
+      - clau-034
     notes: "過去分詞句がchangesを修飾。受動関係（changes were caused）"
 
   # ===== ドリル4 =====
@@ -173,7 +173,7 @@ sentences:
     structure:
       全体: "S V O M"
     knowledge_tags:
-      - clau-028
+      - clau-034
     notes: "現在分詞句がchallengeを修飾。能動関係（challenge is facing us）"
 
   - id: haj-04-01-d4-05
@@ -185,5 +185,5 @@ sentences:
     structure:
       全体: "S V O M"
     knowledge_tags:
-      - clau-028
+      - clau-034
     notes: "過去分詞句がhabitsを修飾。受動関係（habits were acquired）"

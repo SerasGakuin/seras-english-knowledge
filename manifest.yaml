@@ -201,55 +201,55 @@ sections:
     type: drill
     pages: "p.68-71"
     status: completed
-    knowledge_nodes_created: 1
+    knowledge_nodes_created: 2
     sentences_created: 15
     pdf_verified: true
     codex_reviewed: true
-    notes: "clau-004（名詞句）"
+    notes: "clau-004（名詞句の構造）/clau-009（疑問詞+不定詞の内部役割と訳出）"
 
   Ch03_02:
     title: 名詞節①_疑問代名詞・関係代名詞
     type: drill
     pages: "p.72-75"
     status: completed
-    knowledge_nodes_created: 1
+    knowledge_nodes_created: 2
     sentences_created: 15
     pdf_verified: true
     codex_reviewed: true
-    notes: "clau-005（疑問代名詞・関係代名詞what）"
+    notes: "clau-005（名詞節の構造）/clau-010（whatの二面性）"
 
   Ch03_03:
     title: 名詞節②_疑問副詞・関係副詞
     type: drill
     pages: "p.76-79"
     status: completed
-    knowledge_nodes_created: 1
+    knowledge_nodes_created: 2
     sentences_created: 15
     pdf_verified: true
     codex_reviewed: true
-    notes: "clau-006（疑問副詞・関係副詞）"
+    notes: "clau-006（名詞節の構造）/clau-011（how+形副の特殊形と訳出）"
 
   Ch03_04:
     title: 名詞節③_接続詞
     type: drill
     pages: "p.80-83"
     status: completed
-    knowledge_nodes_created: 1
+    knowledge_nodes_created: 2
     sentences_created: 15
     pdf_verified: true
     codex_reviewed: true
-    notes: "clau-007（接続詞that/whether/if）"
+    notes: "clau-007（名詞節の構造）/clau-012（whether/ifの制約とパターン）"
 
   Ch03_05:
     title: 形式のit
     type: drill
     pages: "p.84-87"
     status: completed
-    knowledge_nodes_created: 1
+    knowledge_nodes_created: 2
     sentences_created: 15
     pdf_verified: true
     codex_reviewed: true
-    notes: "clau-008（形式主語・形式目的語）"
+    notes: "clau-008（形式主語itの構造）/clau-013（形式目的語itとitを使う理由）"
 
   # ===== Chapter 4: 形容詞・副詞のカタマリ =====
   Ch04_00:
@@ -268,66 +268,66 @@ sections:
     type: drill
     pages: "p.90-93"
     status: completed
-    knowledge_nodes_created: 1
+    knowledge_nodes_created: 2
     sentences_created: 15
     pdf_verified: true
     codex_reviewed: true
-    notes: "clau-028（形容詞句）"
+    notes: "clau-028（不定詞の3関係）/clau-034（分詞の能動/受動）"
 
   Ch04_02:
     title: 形容詞節①_関係代名詞
     type: drill
     pages: "p.94-97"
     status: completed
-    knowledge_nodes_created: 1
+    knowledge_nodes_created: 2
     sentences_created: 15
     pdf_verified: true
     codex_reviewed: true
-    notes: "clau-029（関係代名詞4格）"
+    notes: "clau-029（関係代名詞の4格）/clau-035（省略パターン）"
 
   Ch04_03:
     title: 形容詞節②_前置詞＋関係代名詞／関係副詞
     type: drill
     pages: "p.98-101"
     status: completed
-    knowledge_nodes_created: 1
+    knowledge_nodes_created: 2
     sentences_created: 15
     pdf_verified: true
     codex_reviewed: true
-    notes: "clau-030（前置詞+関係代名詞/関係副詞）"
+    notes: "clau-030（前置詞+関係代名詞）/clau-036（関係副詞と書き換え）"
 
   Ch04_04:
     title: 副詞句①_不定詞
     type: drill
     pages: "p.102-105"
     status: completed
-    knowledge_nodes_created: 1
+    knowledge_nodes_created: 3
     sentences_created: 15
     pdf_verified: true
     codex_reviewed: true
-    notes: "clau-031（副詞用法不定詞）"
+    notes: "clau-031（目的/結果）/clau-037（感情の理由/判断の根拠）/clau-038（enough/too構文）"
 
   Ch04_05:
     title: 副詞句②_分詞構文
     type: drill
     pages: "p.106-109"
     status: completed
-    knowledge_nodes_created: 1
+    knowledge_nodes_created: 2
     sentences_created: 15
     pdf_verified: true
     codex_reviewed: true
-    notes: "clau-032（分詞構文doing/done）"
+    notes: "clau-032（構造: doing/done）/clau-039（訳出パターン）"
 
   Ch04_06:
     title: 副詞節_接続詞
     type: drill
     pages: "p.110-113"
     status: completed
-    knowledge_nodes_created: 1
+    knowledge_nodes_created: 3
     sentences_created: 15
     pdf_verified: true
     codex_reviewed: true
-    notes: "clau-033（接続詞による副詞節）"
+    notes: "clau-033（副詞節の構造）/clau-040（so/such...that構文）/clau-041（接続詞リスト）"
 
   # ===== Chapter 5: 準動詞の意味上の主語 =====
   Ch05_00:
@@ -469,5 +469,5 @@ summary:
   completed: 39
   in_progress: 0
   not_started: 2
-  total_knowledge_nodes: 71
+  total_knowledge_nodes: 84
   total_sentences: 498

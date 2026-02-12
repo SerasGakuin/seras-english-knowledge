@@ -42,7 +42,7 @@ sentences:
       全体: "S V O M"
       内部: "Ⓜ Ⓢ Ⓥ"
     knowledge_tags:
-      - clau-030
+      - clau-036
     notes: "when節がdayを修飾。関係副詞when。whenの代わりにon whichでも可。元の形: occurred on the day"
 
   - id: haj-04-03-d1-04
@@ -55,7 +55,7 @@ sentences:
       全体: "S V C M"
       内部: "Ⓜ Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
-      - clau-030
+      - clau-036
     notes: "where節がhouseを修飾。関係副詞where。whereの代わりにat whichでも可。元の形: completed at the house"
 
   - id: haj-04-03-d1-05
@@ -68,7 +68,7 @@ sentences:
       全体: "S V O1 O2 M"
       内部: "Ⓜ Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
-      - clau-030
+      - clau-036
     notes: "why節がreasonを修飾。関係副詞why。whyの代わりにfor whichでも可。元の形: quit for the reason"
 
   # ===== ドリル3 =====
@@ -121,7 +121,7 @@ sentences:
       全体: "S M V O M"
       内部: "Ⓜ Ⓢ Ⓥ"
     knowledge_tags:
-      - clau-030
+      - clau-036
     notes: "when節がdayを修飾。関係副詞when。whenの代わりにon whichでも可"
 
   - id: haj-04-03-d3-05
@@ -134,7 +134,7 @@ sentences:
       全体: "V S M"
       内部: "Ⓜ Ⓢ Ⓜ Ⓥ Ⓞ"
     knowledge_tags:
-      - clau-030
+      - clau-036
       - vtyp-006
     notes: "why節がreasonを修飾。関係副詞why。There VS構文"
 
@@ -188,7 +188,7 @@ sentences:
       全体: "S V M"
       内部: "Ⓜ Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
-      - clau-030
+      - clau-036
     notes: "when節がdayを修飾。関係副詞when。関係副詞節が離れた名詞を修飾するパターン"
 
   - id: haj-04-03-d4-05
@@ -201,5 +201,5 @@ sentences:
       全体: "S V C M"
       内部: "Ⓜ Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
-      - clau-030
+      - clau-036
     notes: "where節がcountryを修飾。関係副詞where。whereの代わりにin whichでも可"

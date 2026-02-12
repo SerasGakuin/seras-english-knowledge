@@ -69,6 +69,7 @@ sentences:
       内部: "Ⓜ Ⓥ Ⓞ"
     knowledge_tags:
       - clau-004
+      - clau-009
     notes: "疑問詞+不定詞句[how to operate this machine]がO2（目的語）の役割を担う名詞句。howは内部でMの役割（operateを修飾する副詞）"
 
   # ===== ドリル3 =====
@@ -135,6 +136,7 @@ sentences:
       内部: "Ⓜ Ⓥ Ⓞ"
     knowledge_tags:
       - clau-004
+      - clau-009
     notes: "疑問詞+不定詞句[how to take care of pets]がonの前置詞のO。onは前置詞で形容詞句としてinformationを修飾。howは内部でM"
 
   # ===== ドリル4 =====
@@ -201,4 +203,5 @@ sentences:
       内部: "Ⓞ Ⓥ Ⓜ"
     knowledge_tags:
       - clau-004
+      - clau-009
     notes: "疑問詞+不定詞句[what to prepare before the conference]がO2。whatは内部でⓄ（prepareの目的語）。before the conferenceは副詞句でⓂ"

@@ -59,6 +59,7 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
       - clau-008
+      - clau-013
       - clau-004
     notes: "形式目的語it。名詞句[for her to fulfill her obligations]を指す。SVOC構造でit=difficult"
 
@@ -73,6 +74,7 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
       - clau-008
+      - clau-013
       - clau-007
     notes: "形式目的語it。whether節[whether he would accept the offer]を指す。make it clear=...を明らかにする"
 
@@ -116,6 +118,7 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓜ"
     knowledge_tags:
       - clau-008
+      - clau-013
       - clau-007
     notes: "形式目的語it。that節を指す。find it C=...をCだと思う"
 
@@ -130,6 +133,7 @@ sentences:
       内部: "Ⓥ Ⓞ Ⓜ"
     knowledge_tags:
       - clau-008
+      - clau-013
       - clau-004
     notes: "形式目的語it。不定詞句[to adapt themselves to foreign cultures]を指す"
 
@@ -144,6 +148,7 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓞ Ⓜ"
     knowledge_tags:
       - clau-008
+      - clau-013
       - clau-005
     notes: "形式目的語it。what節を指す。leave it C=...をCのままにする。whatは内部でⓄ"
 
@@ -187,6 +192,7 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓒ"
     knowledge_tags:
       - clau-008
+      - clau-013
       - clau-007
     notes: "形式目的語it。that節を指す。hear it said that=...と言われるのを聞く。SVOC構造"
 
@@ -201,6 +207,7 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓜ"
     knowledge_tags:
       - clau-008
+      - clau-013
       - clau-004
     notes: "形式目的語it。不定詞句[for the audience to focus on the lecture]を指す。make it C=...をCにする"
 
@@ -215,5 +222,6 @@ sentences:
       内部: "Ⓢ Ⓥ Ⓞ"
     knowledge_tags:
       - clau-008
+      - clau-013
       - clau-005
     notes: "形式目的語it。what節を指す。whatは内部でⓈ（had causedの主語）"

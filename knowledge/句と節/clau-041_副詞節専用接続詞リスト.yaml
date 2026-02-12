@@ -1,0 +1,20 @@
+id: clau-041
+name: "副詞節専用接続詞リスト"
+category: "句と節/副詞節"
+priority: P1
+prerequisites:
+  - clau-033
+understanding_goals:
+  - "the moment SV（...する瞬間に/...するとすぐに）の意味と用法を説明できる"
+  - "once SV（いったん...すると/すれば）の意味と用法を説明できる"
+  - "even though SV（...だけど/にもかかわらず）の意味と用法を説明できる"
+  - "provided (that) SV（...ならば/...という条件で）、as long as SV（...なら/...する限りは）、unless SV（...しない限り）、now that SV（今や...なので）の意味を説明できる"
+check_points:
+  - "「the moment SVの意味は？」→「...する瞬間に/...するとすぐに」と答えられるか"
+  - "「provided (that) SVの意味は？」→「...ならば/...という条件で」と答えられるか"
+  - "「now that SVの意味は？」→「今や...なので」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch04_06"
+    pages: "p.110-113"
+notes: "副詞節しか作らない接続詞の暗記知識。in thatは本セクションの英文には登場しないが参考書のポイントに記載あり"

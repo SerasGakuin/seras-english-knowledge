@@ -1,0 +1,20 @@
+id: clau-013
+name: "形式目的語itとitを使う理由"
+category: "句と節/形式のit"
+priority: P1
+prerequisites:
+  - clau-008
+  - clau-004
+understanding_goals:
+  - "形式目的語（itがOの位置）のSVOC+it構文を識別できる（S V it C + [名詞句/節]）"
+  - "find it difficult to.../make it clear that...等のパターンを即答できる"
+  - "形式のitを使う2つの理由（長すぎるから後回し/強く伝えたい部分だから後回し）を説明できる"
+check_points:
+  - "「I found it difficult to...のitは何？」→「形式目的語。後ろのto不定詞句を指す」と答えられるか"
+  - "「make it clear that...の構造は？」→「SVOC構文。it=形式目的語、clear=C、that節=itの中身」と答えられるか"
+  - "「形式のitを使う理由は？」→「長すぎるから後回し、または強く伝えたい部分だから後回し」と答えられるか"
+references:
+  はじめの英文読解ドリル:
+    section: "Ch03_05"
+    pages: "p.84"
+notes: "clau-008から分割。形式目的語のSVOC+it構文は形式主語とは別パターンで独立テスト可能"

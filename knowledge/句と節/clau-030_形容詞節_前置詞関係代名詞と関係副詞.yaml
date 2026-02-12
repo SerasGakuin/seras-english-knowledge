@@ -1,5 +1,5 @@
 id: clau-030
-name: "形容詞節（前置詞+関係代名詞／関係副詞）"
+name: "前置詞+関係代名詞の形容詞節"
 category: "句と節/形容詞節"
 priority: P1
 prerequisites:
@@ -12,17 +12,16 @@ prerequisites:
   - clau-029
 understanding_goals:
   - "前置詞+which/whom（前置詞+関係代名詞）が形容詞節を作り、名詞を修飾するMになることを説明できる"
-  - "when/where/why（関係副詞）が形容詞節を作り、名詞を修飾するMになることを説明できる"
-  - "前置詞+関係代名詞／関係副詞はカタマリ内部で副詞（Ⓜ）の役割を担うことを説明できる"
-  - "関係副詞は前置詞+関係代名詞に書き換え可能であることを説明できる（when=on which, where=at/in which, why=for which）"
+  - "前置詞+関係代名詞はカタマリ内部で副詞（Ⓜ）の役割を担うことを説明できる"
+  - "《元の形》から前置詞+関係代名詞の形に変換できる（例: spoke about the movie → about which I spoke）"
+  - "thatは前置詞の直後に置けない（×about that）ため、前置詞+関代ではwhich/whomを用いることを言える"
   - "訳出は前の名詞にかける。訳しにくい場合は《元の形》を考えて意訳することを説明できる"
 check_points:
   - "「前置詞+関係代名詞のカタマリ内部の役割は？」→「副詞（Ⓜ）」と答えられるか"
-  - "「関係副詞whenは前置詞+関係代名詞に書き換えると？」→「on which」と答えられるか"
-  - "「関係副詞whereは前置詞+関係代名詞に書き換えると？」→「at which / in which」と答えられるか"
-  - "「関係副詞whyは前置詞+関係代名詞に書き換えると？」→「for which」と答えられるか"
+  - "「without which we cannot liveの《元の形》は？」→「We cannot live without the substances」と答えられるか"
+  - "「前置詞+thatは使えるか？」→「使えない。前置詞の直後にはwhich/whomを使う」と答えられるか"
 references:
   はじめの英文読解ドリル:
     section: "Ch04_03"
     pages: "p.98"
-notes: "前置詞+関係代名詞と関係副詞は同じ原理（カタマリ内部で副詞Ⓜ）。関係副詞は前置詞が吸収された形。thatは前置詞の直後には置けない（×about that）ため、前置詞+関係代名詞ではwhich/whomを用いる。離れた名詞を修飾するパターンにも注意（The day will come when...）"
+notes: "前置詞+関係代名詞の核心は《元の形》→前置詞+関代への変換。関係副詞の形容詞節はclau-036に分割"

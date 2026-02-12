@@ -16,6 +16,7 @@ sentences:
       全体: "M S V"
     knowledge_tags:
       - clau-032
+      - clau-039
     notes: "doing分詞構文。能動関係（this plan has many problems）。文頭の分詞構文"
 
   - id: haj-04-05-d1-02
@@ -28,6 +29,7 @@ sentences:
       全体: "S V M M"
     knowledge_tags:
       - clau-032
+      - clau-039
     notes: "doing分詞構文。能動関係（everyone left me alone）。文末の分詞構文。leave O C構文"
 
   - id: haj-04-05-d1-03
@@ -40,6 +42,7 @@ sentences:
       全体: "M S V M C"
     knowledge_tags:
       - clau-032
+      - clau-039
     notes: "done分詞構文。受動関係（I was left alone）。受動態からSが1つ減った形"
 
   - id: haj-04-05-d1-04
@@ -52,6 +55,7 @@ sentences:
       全体: "M S V O"
     knowledge_tags:
       - clau-032
+      - clau-039
     notes: "done分詞構文。受動関係（Japan is surrounded by the sea）。受動態からSが1つ減った形"
 
   - id: haj-04-05-d1-05
@@ -64,6 +68,7 @@ sentences:
       全体: "S M V M C"
     knowledge_tags:
       - clau-032
+      - clau-039
     notes: "doing分詞構文。能動関係。挿入型の分詞構文（S, doing..., V）"
 
   # ===== ドリル3 =====
@@ -77,6 +82,7 @@ sentences:
       全体: "M S V O"
     knowledge_tags:
       - clau-032
+      - clau-039
     notes: "doing分詞構文。能動関係。訳出A（ゆるやかにつなぐ）/訳出B（理由）"
 
   - id: haj-04-05-d3-02
@@ -89,6 +95,7 @@ sentences:
       全体: "M S V O M"
     knowledge_tags:
       - clau-032
+      - clau-039
     notes: "doing分詞構文。能動関係。訳出B（条件: もし...なら）"
 
   - id: haj-04-05-d3-03
@@ -101,6 +108,7 @@ sentences:
       全体: "S V M M"
     knowledge_tags:
       - clau-032
+      - clau-039
     notes: "doing分詞構文。能動関係。訳出B（付帯状況: ...しながら）"
 
   - id: haj-04-05-d3-04
@@ -113,6 +121,7 @@ sentences:
       全体: "M S V O"
     knowledge_tags:
       - clau-032
+      - clau-039
     notes: "done分詞構文。受動関係（he was persuaded by his friends）"
 
   - id: haj-04-05-d3-05
@@ -125,6 +134,7 @@ sentences:
       全体: "S M V O M"
     knowledge_tags:
       - clau-032
+      - clau-039
     notes: "done分詞構文。受動関係（was left a fortune by his father）。挿入型の分詞構文"
 
   # ===== ドリル4 =====
@@ -138,6 +148,7 @@ sentences:
       全体: "M S V O M"
     knowledge_tags:
       - clau-032
+      - clau-039
     notes: "doing分詞構文。能動関係。訳出B（理由: ...ので）"
 
   - id: haj-04-05-d4-02
@@ -150,6 +161,7 @@ sentences:
       全体: "M S V C M"
     knowledge_tags:
       - clau-032
+      - clau-039
     notes: "done分詞構文。受動関係（she is hired by the famous company）。訳出B（条件: もし...なら）"
 
   - id: haj-04-05-d4-03
@@ -162,6 +174,7 @@ sentences:
       全体: "S V M M M"
     knowledge_tags:
       - clau-032
+      - clau-039
     notes: "doing分詞構文。能動関係。訳出B（付帯状況: ...しながら）。文末の単語1つの分詞構文"
 
   - id: haj-04-05-d4-04
@@ -174,6 +187,7 @@ sentences:
       全体: "M S V C M"
     knowledge_tags:
       - clau-032
+      - clau-039
     notes: "done分詞構文。受動関係（this novel is written in simple English）。訳出B（理由）"
 
   - id: haj-04-05-d4-05
@@ -186,4 +200,5 @@ sentences:
       全体: "S M M V"
     knowledge_tags:
       - clau-032
+      - clau-039
     notes: "done分詞構文。受動関係（was deeply moved by the live performance）。挿入型の分詞構文"
