@@ -124,15 +124,15 @@ class TestAssignSentencesToNodes:
                 # Example sentence should not appear
                 assert sq.english != "The old woman lives quietly in the countryside."
 
-    def test_respects_target_max(self, data_store: DataStore) -> None:
+    def test_max_one_per_node(self, data_store: DataStore) -> None:
         nodes = []
         for nid in ["strc-007", "strc-008", "strc-009"]:
             n = data_store.get_node(nid)
             if n:
                 nodes.append(n)
-        result = _assign_sentences_to_nodes(["Ch01_01"], nodes, data_store, target_max=2)
-        total = sum(len(sqs) for sqs in result.values())
-        assert total <= 2
+        result = _assign_sentences_to_nodes(["Ch01_01"], nodes, data_store)
+        for sqs in result.values():
+            assert len(sqs) <= 1
 
     def test_focus_points_populated(self, data_store: DataStore) -> None:
         nodes = []

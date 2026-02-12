@@ -1,5 +1,6 @@
 """Question selection logic: warmup, node sections, review guide."""
 
+import random
 from datetime import datetime, timezone
 
 from app.models import (
@@ -101,7 +102,9 @@ def select_warmup_questions(
         node = data_store.get_node(pid)
         if not node or not node.check_points:
             continue
-        nodes_with_cps.append((node, list(node.check_points)))
+        shuffled = list(node.check_points)
+        random.shuffle(shuffled)
+        nodes_with_cps.append((node, shuffled))
 
     if not nodes_with_cps:
         return []
@@ -143,11 +146,11 @@ def _assign_sentences_to_nodes(
     section_ids: list[str],
     target_nodes: list[KnowledgeNode],
     data_store: DataStore,
-    target_max: int = 6,
 ) -> dict[str, list[SentenceQuestion]]:
     """Assign sentences to nodes based on knowledge_tag overlap.
 
     Returns a dict mapping node_id -> list of SentenceQuestion (max 1 per node).
+    No global cap; each node with matching sentences gets one.
     """
     target_node_ids = {n.id for n in target_nodes}
 
@@ -165,56 +168,38 @@ def _assign_sentences_to_nodes(
     if not all_practice or not target_nodes:
         return {}
 
-    # Score each sentence for each node: count of overlapping knowledge_tags
-    # Assign each sentence to its best-matching node
+    # Assign each sentence to its best-matching target node
     node_assignments: dict[str, list[tuple[int, Sentence, str, str]]] = {
         n.id: [] for n in target_nodes
     }
 
     for sent, pages, sid in all_practice:
         sent_tags = set(sent.knowledge_tags)
-        best_node_id = None
+        # Score against all target nodes, pick the best
+        best_node_id: str | None = None
         best_score = 0
         for node in target_nodes:
             score = len(sent_tags & {node.id})
             if score > best_score:
                 best_score = score
                 best_node_id = node.id
-        # If no direct match, assign to first node whose ID appears in tags
+        # Fallback: first target node whose ID appears in tags
         if best_node_id is None:
-            for node in target_nodes:
-                if node.id in sent_tags:
-                    best_node_id = node.id
+            for nid in sent.knowledge_tags:
+                if nid in target_node_ids:
+                    best_node_id = nid
                     break
-        # If still no match, assign to first node with any tag overlap
-        if best_node_id is None:
-            for node in target_nodes:
-                # Check if any of the sentence's tags match target nodes
-                if sent_tags & target_node_ids:
-                    # Assign to the node with the most overlap
-                    for nid in sent.knowledge_tags:
-                        if nid in target_node_ids:
-                            best_node_id = nid
-                            break
-                    if best_node_id:
-                        break
         if best_node_id is not None:
-            overlap = len(set(sent.knowledge_tags) & {best_node_id})
+            overlap = len(sent_tags & {best_node_id})
             node_assignments[best_node_id].append((overlap, sent, pages, sid))
 
-    # Sort each node's candidates by overlap score (descending), pick at most 1
+    # For each node, randomly pick 1 sentence from its candidates
     result: dict[str, list[SentenceQuestion]] = {}
-    total_selected = 0
     for node in target_nodes:
-        if total_selected >= target_max:
-            break
         candidates = node_assignments.get(node.id, [])
         if not candidates:
             continue
-        candidates.sort(key=lambda x: -x[0])
-        sent = candidates[0][1]
-        pages = candidates[0][2]
-        sid = candidates[0][3]
+        _, sent, pages, sid = random.choice(candidates)
         # Build focus_points from knowledge_tags
         focus_points: list[str] = []
         for tag in sent.knowledge_tags:
@@ -232,8 +217,7 @@ def _assign_sentences_to_nodes(
             source_pages=pages,
             source_section=sid,
         )
-        result.setdefault(node.id, []).append(sq)
-        total_selected += 1
+        result[node.id] = [sq]
 
     return result
 
@@ -287,9 +271,13 @@ def build_node_sections(
     sections: list[NodeSection] = []
 
     for sec_num, node in enumerate(target_nodes, start=1):
-        # Knowledge questions from check_points (1-2 per node)
+        # Knowledge questions from check_points (randomly sample up to max)
         kqs: list[KnowledgeQuestion] = []
-        for cp in node.check_points[:max_checks_per_node]:
+        sampled_cps = random.sample(
+            list(node.check_points),
+            min(max_checks_per_node, len(node.check_points)),
+        )
+        for cp in sampled_cps:
             q, a = parse_check_point(cp, node.understanding_goals)
             ref_pages = _get_reference_pages(node)
             kqs.append(
