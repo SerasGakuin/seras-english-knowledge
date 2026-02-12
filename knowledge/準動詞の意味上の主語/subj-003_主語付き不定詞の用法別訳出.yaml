@@ -5,7 +5,10 @@ priority: P1
 prerequisites:
   - subj-001
   - strc-001
+  - clau-004
   - clau-008
+  - clau-028
+  - clau-031
 understanding_goals:
   - "for+名詞+to doの形で不定詞の意味上の主語を示すことを即答できる"
   - "forの後に目的格が来る場合があることを説明できる（例: for him to swim）"
@@ -21,4 +24,4 @@ references:
   はじめの英文読解ドリル:
     section: "Ch05_01"
     pages: "p.116-119"
-notes: "Ch03/Ch04完了後にリーダーがprerequisites調整予定。本来は不定詞の名詞的・形容詞的・副詞的用法の知識が前提"
+notes: "不定詞の名詞句(clau-004)・形容詞句(clau-028)・副詞句(clau-031)・形式のit(clau-008)が前提"

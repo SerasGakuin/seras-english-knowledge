@@ -6,6 +6,7 @@ prerequisites:
   - subj-001
   - subj-002
   - strc-001
+  - clau-032
 understanding_goals:
   - "名詞+doing/名詞+doneの形で分詞構文の意味上の主語を示すことを即答できる"
   - "主語付き分詞構文を「独立分詞構文」と呼ぶことを言える"
@@ -20,6 +21,6 @@ references:
   はじめの英文読解ドリル:
     section: "Ch05_02"
     pages: "p.120-123"
-notes: "Ch03/Ch04完了後にリーダーがprerequisites調整予定。本来は分詞構文（副詞句）の知識が前提"
+notes: "分詞構文（clau-032）が前提。文のSと異なる主語を分詞の直前に置く形"
 additional_notes: 
   - "独立分詞構文はカンマで主節と区切るのが通例（文頭・文中・文末いずれも可）。訳は文脈に応じてゆるやか/接続詞相当で調整する"

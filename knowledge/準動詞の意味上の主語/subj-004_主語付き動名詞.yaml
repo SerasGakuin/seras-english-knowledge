@@ -5,6 +5,7 @@ priority: P1
 prerequisites:
   - subj-001
   - strc-001
+  - clau-004
 understanding_goals:
   - "名詞+doingの形で動名詞の意味上の主語を示すことを即答できる"
   - "目的格または所有格+doingの形もあることを説明できる（例: him/his swimming）"
@@ -18,6 +19,6 @@ references:
   はじめの英文読解ドリル:
     section: "Ch05_02"
     pages: "p.120-123"
-notes: "Ch03/Ch04完了後にリーダーがprerequisites調整予定。本来は動名詞（名詞句）の知識が前提"
+notes: "動名詞による名詞句(clau-004)が前提。目的格と所有格の両形式を扱う"
 additional_notes:
   - "目的格+doing（him swimming）と所有格+doing（his swimming）はどちらも可。フォーマルには所有格が推奨されるが現代英語では目的格も広く用いられる"
