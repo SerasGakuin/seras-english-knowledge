@@ -55,8 +55,10 @@ seras-english-knowledge/
 ## 関連リポジトリ
 
 - **seras-knowledge-viewer**: Next.js 閲覧アプリ（`/Users/aruohta/dev/seras-knowledge-viewer/`）
-  - Supabase から直接データ取得、Vercel デプロイ予定
+  - Supabase から直接データ取得
   - 6ページ: ダッシュボード、ノード一覧/詳細、セクション一覧/詳細、英文検索
+  - URL: https://seras-knowledge-viewer.vercel.app
+  - GitHub: SerasGakuin/seras-knowledge-viewer
 
 ## 作業別ガイド：何を読むべきか
 
