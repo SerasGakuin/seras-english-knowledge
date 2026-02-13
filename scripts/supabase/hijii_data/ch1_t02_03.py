@@ -7,17 +7,31 @@
 KNOWLEDGE_NODES = [
     {
         "id": "hch-001",
-        "name": "名詞句（動名詞・不定詞・疑問詞+to不定詞）",
+        "name": "名詞句（動名詞・不定詞の名詞的用法）",
         "category": "意味のカタマリ",
         "priority": "P1",
-        "notes": "動名詞(-ing)・不定詞の名詞的用法(to do)・疑問詞+to不定詞の3パターンで名詞句をつくり、文のS・O・Cになる。句のなかにSVが入らないことを根拠に名詞句の範囲を決定する。疑問詞+to不定詞にはすべてshouldの意味がある。",
+        "notes": "動名詞(-ing)・不定詞の名詞的用法(to do)の2パターンで名詞句をつくり、文のS・O・Cになる。句のなかにSVが入らないことを根拠に名詞句の範囲を決定する。",
+    },
+    {
+        "id": "hch-008",
+        "name": "名詞句（疑問詞+to不定詞）",
+        "category": "意味のカタマリ",
+        "priority": "P1",
+        "notes": "疑問詞+to不定詞（what to do / how to do / when to do / where to do / who to do / whether to do）が名詞句をつくり、文のS・O・Cになる。すべてにshould「〜すべき」のニュアンスがある。why to doの形は存在しない。",
     },
     {
         "id": "hch-002",
-        "name": "名詞節（what/that/疑問詞/whether・if）",
+        "name": "名詞節（what/that/疑問詞の名詞節）",
         "category": "意味のカタマリ",
         "priority": "P1",
-        "notes": "関係代名詞what「〜こと」・名詞節のthat「〜ということ」・疑問詞の名詞節「疑問詞+〜か」・whether/if「〜かどうか」の4パターンで名詞節をつくり、文のS・O・Cになる。「1つの節にSVは1つ」を根拠に名詞節の範囲を決定する。名詞句との違いはSVがあること。whetherがS・O・Cなら名詞節、それ以外なら副詞節。",
+        "notes": "関係代名詞what「〜こと」・名詞節のthat「〜ということ」・疑問詞の名詞節「疑問詞+〜か」の3パターンで名詞節をつくり、文のS・O・Cになる。「1つの節にSVは1つ」を根拠に名詞節の範囲を決定する。名詞句との違いはSVがあること。",
+    },
+    {
+        "id": "hch-009",
+        "name": "名詞節（whether/ifの識別）",
+        "category": "意味のカタマリ",
+        "priority": "P1",
+        "notes": "whether/ifが「〜かどうか」の名詞節をつくるパターン。whetherのカタマリがS・O・Cになっていれば名詞節「〜かどうか」、それ以外は副詞節「〜だろうとそうでなかろうと」。ifがOの位置に来ると名詞節「〜かどうか」、副詞節のifは「もし〜なら」。名詞節と副詞節の識別が独立したスキル。",
     },
 ]
 
@@ -29,14 +43,20 @@ UNDERSTANDING_GOALS = [
     # hch-001
     {"node_id": "hch-001", "seq": 1, "goal": "動名詞が他の単語をともなって名詞句をつくり、文のS・O・Cになることを説明できる"},
     {"node_id": "hch-001", "seq": 2, "goal": "不定詞の名詞的用法(to+動詞の原形)が名詞句をつくり、文のS・O・Cになることを説明できる"},
-    {"node_id": "hch-001", "seq": 3, "goal": "疑問詞+to不定詞が名詞句をつくり、すべてにshouldの意味があることを説明できる"},
-    {"node_id": "hch-001", "seq": 4, "goal": "句のなかにSVが入らないことを根拠に名詞句の範囲を正確に決定できる"},
+    {"node_id": "hch-001", "seq": 3, "goal": "句のなかにSVが入らないことを根拠に名詞句の範囲を正確に決定できる"},
+    # hch-008
+    {"node_id": "hch-008", "seq": 1, "goal": "疑問詞+to不定詞が名詞句をつくり、すべてにshouldの意味があることを説明できる"},
+    {"node_id": "hch-008", "seq": 2, "goal": "what/how/when/where/who/whetherの6種の疑問詞+to不定詞を列挙し、それぞれの意味を説明できる"},
+    {"node_id": "hch-008", "seq": 3, "goal": "疑問詞+to不定詞の名詞句が文のS・O・Cのどれになるか判定できる"},
     # hch-002
     {"node_id": "hch-002", "seq": 1, "goal": "関係代名詞whatが名詞節「〜こと［もの］」をつくることを説明できる"},
     {"node_id": "hch-002", "seq": 2, "goal": "名詞節のthatが「〜ということ」という名詞節をつくることを説明できる"},
     {"node_id": "hch-002", "seq": 3, "goal": "疑問詞(how/when/where/who/which/what/why)が名詞節をつくることを説明できる"},
-    {"node_id": "hch-002", "seq": 4, "goal": "whether/ifが「〜かどうか」という名詞節をつくること、whetherがS・O・Cなら名詞節、それ以外なら副詞節と識別できる"},
-    {"node_id": "hch-002", "seq": 5, "goal": "「1つの節にSVは1つ」を根拠に名詞節の範囲を正確に決定できる"},
+    {"node_id": "hch-002", "seq": 4, "goal": "「1つの節にSVは1つ」を根拠に名詞節の範囲を正確に決定できる"},
+    # hch-009
+    {"node_id": "hch-009", "seq": 1, "goal": "whether/ifが「〜かどうか」という名詞節をつくることを説明できる"},
+    {"node_id": "hch-009", "seq": 2, "goal": "whetherのカタマリがS・O・Cなら名詞節、それ以外は副詞節と識別できる"},
+    {"node_id": "hch-009", "seq": 3, "goal": "ifが名詞節「〜かどうか」か副詞節「もし〜なら」かを文脈で識別できる"},
 ]
 
 # ============================================================
@@ -45,15 +65,21 @@ UNDERSTANDING_GOALS = [
 
 CHECK_POINTS = [
     # hch-001
-    {"node_id": "hch-001", "seq": 1, "question": "名詞句をつくる3つのパターンは何か？", "answer": "(1)動名詞、(2)不定詞の名詞的用法、(3)疑問詞+to不定詞。いずれも文のS・O・Cになる。"},
+    {"node_id": "hch-001", "seq": 1, "question": "名詞句をつくる2つのパターンは何か？", "answer": "(1)動名詞（-ingで「〜すること」）、(2)不定詞の名詞的用法（to+動詞の原形で「〜すること」）。いずれも文のS・O・Cになる。"},
     {"node_id": "hch-001", "seq": 2, "question": "名詞句の範囲を決定する根拠は？", "answer": "句のなかにSVが入らないこと。SVが現れる手前までが名詞句の範囲。"},
-    {"node_id": "hch-001", "seq": 3, "question": "疑問詞+to不定詞にはどんなニュアンスがあるか？", "answer": "すべてにshould「〜すべき」のニュアンスがある。what to do「何を〜すべきか」、how to do「どのように〜すべきか」等。"},
-    {"node_id": "hch-001", "seq": 4, "question": "My hobby is collecting stamps. のcollecting stampsは何か？", "answer": "動名詞collectingが名詞句をつくり、文のC（補語）。「切手を集めること」。"},
+    {"node_id": "hch-001", "seq": 3, "question": "My hobby is collecting stamps. のcollecting stampsは何か？", "answer": "動名詞collectingが名詞句をつくり、文のC（補語）。「切手を集めること」。"},
+    # hch-008
+    {"node_id": "hch-008", "seq": 1, "question": "疑問詞+to不定詞にはどんなニュアンスがあるか？", "answer": "すべてにshould「〜すべき」のニュアンスがある。what to do「何を〜すべきか」、how to do「どのように〜すべきか」等。"},
+    {"node_id": "hch-008", "seq": 2, "question": "疑問詞+to不定詞の6種を列挙せよ。", "answer": "what to do, how to do, when to do, where to do, who to do, whether to do。why to doは存在しない。"},
+    {"node_id": "hch-008", "seq": 3, "question": "What to read is less important than how to read it. のWhat to readの役割は？", "answer": "疑問詞+to不定詞の名詞句で、文のS。「何を読むべきか」。"},
     # hch-002
-    {"node_id": "hch-002", "seq": 1, "question": "名詞節をつくる4つのパターンは何か？", "answer": "(1)関係代名詞what「〜こと」、(2)名詞節のthat「〜ということ」、(3)疑問詞の名詞節「疑問詞+〜か」、(4)whether/if「〜かどうか」。"},
+    {"node_id": "hch-002", "seq": 1, "question": "名詞節をつくる3つのパターン（what/that/疑問詞）は何か？", "answer": "(1)関係代名詞what「〜こと」、(2)名詞節のthat「〜ということ」、(3)疑問詞の名詞節「疑問詞+〜か」。"},
     {"node_id": "hch-002", "seq": 2, "question": "名詞句と名詞節の違いは？", "answer": "名詞句はSVの文構造がない名詞のカタマリ、名詞節はSVの文構造がある名詞のカタマリ。"},
-    {"node_id": "hch-002", "seq": 3, "question": "whetherが名詞節か副詞節かを識別する方法は？", "answer": "whetherのカタマリがS・O・Cになっていれば名詞節「〜かどうか」、それ以外は副詞節「〜だろうとそうでなかろうと」。"},
-    {"node_id": "hch-002", "seq": 4, "question": "名詞節の範囲を確定する根拠は？", "answer": "「1つの節にSVは1つ」なので、2個目の動詞の手前で名詞節の範囲が終わる。"},
+    {"node_id": "hch-002", "seq": 3, "question": "名詞節の範囲を確定する根拠は？", "answer": "「1つの節にSVは1つ」なので、2個目の動詞の手前で名詞節の範囲が終わる。"},
+    # hch-009
+    {"node_id": "hch-009", "seq": 1, "question": "whetherが名詞節か副詞節かを識別する方法は？", "answer": "whetherのカタマリがS・O・Cになっていれば名詞節「〜かどうか」、それ以外は副詞節「〜だろうとそうでなかろうと」。"},
+    {"node_id": "hch-009", "seq": 2, "question": "ifの名詞節と副詞節の違いは？", "answer": "ifがO（目的語）の位置に来ると名詞節「〜かどうか」、その他の位置では副詞節「もし〜なら」。"},
+    {"node_id": "hch-009", "seq": 3, "question": "Whether he wrote this poem or not is a mystery. のwhetherは名詞節か副詞節か？", "answer": "Sの位置なので名詞節。「彼がこの詩を書いたかどうかは謎だ。」"},
 ]
 
 # ============================================================
@@ -62,7 +88,9 @@ CHECK_POINTS = [
 
 NODE_PREREQUISITES = [
     {"node_id": "hch-001", "prerequisite_id": "hsv-000"},
+    {"node_id": "hch-008", "prerequisite_id": "hch-001"},
     {"node_id": "hch-002", "prerequisite_id": "hch-001"},
+    {"node_id": "hch-009", "prerequisite_id": "hch-002"},
 ]
 
 # ============================================================
@@ -70,8 +98,10 @@ NODE_PREREQUISITES = [
 # ============================================================
 
 KNOWLEDGE_REFERENCES = [
-    {"node_id": "hch-001", "book": "肘井の読解のための英文法", "section_id": "Hij_02", "pages": "p.26-31"},
+    {"node_id": "hch-001", "book": "肘井の読解のための英文法", "section_id": "Hij_02", "pages": "p.26-29"},
+    {"node_id": "hch-008", "book": "肘井の読解のための英文法", "section_id": "Hij_02", "pages": "p.29-31"},
     {"node_id": "hch-002", "book": "肘井の読解のための英文法", "section_id": "Hij_03", "pages": "p.32-37"},
+    {"node_id": "hch-009", "book": "肘井の読解のための英文法", "section_id": "Hij_03", "pages": "p.35-37"},
 ]
 
 # ============================================================
@@ -110,7 +140,9 @@ SECTION_PREREQUISITES = [
 
 SECTION_KNOWLEDGE_NODES = [
     {"section_id": "Hij_02", "node_id": "hch-001", "seq": 1},
+    {"section_id": "Hij_02", "node_id": "hch-008", "seq": 2},
     {"section_id": "Hij_03", "node_id": "hch-002", "seq": 1},
+    {"section_id": "Hij_03", "node_id": "hch-009", "seq": 2},
 ]
 
 # ============================================================
@@ -453,33 +485,40 @@ SENTENCE_STRUCTURES = [
 # ============================================================
 
 SENTENCE_KNOWLEDGE_TAGS = [
-    # --- Hij_02 例題 ---
+    # --- Hij_02 例題（動名詞・不定詞 → hch-001） ---
     {"sentence_id": "hij-02-e1-01", "node_id": "hch-001"},
     {"sentence_id": "hij-02-e1-02", "node_id": "hch-001"},
     {"sentence_id": "hij-02-e1-03", "node_id": "hch-001"},
     {"sentence_id": "hij-02-e1-04", "node_id": "hch-001"},
     {"sentence_id": "hij-02-e1-05", "node_id": "hch-001"},
-    {"sentence_id": "hij-02-e1-06", "node_id": "hch-001"},
-    {"sentence_id": "hij-02-e1-07", "node_id": "hch-001"},
+    # --- Hij_02 例題（疑問詞+to不定詞 → hch-008） ---
+    {"sentence_id": "hij-02-e1-06", "node_id": "hch-008"},
+    {"sentence_id": "hij-02-e1-07", "node_id": "hch-008"},
     # --- Hij_02 確認問題 ---
     {"sentence_id": "hij-02-c1-01", "node_id": "hch-001"},
     {"sentence_id": "hij-02-c1-02", "node_id": "hch-001"},
-    {"sentence_id": "hij-02-c1-03", "node_id": "hch-001"},
+    {"sentence_id": "hij-02-c1-03", "node_id": "hch-008"},
     # --- Hij_02 発展問題 ---
     {"sentence_id": "hij-02-a1-01", "node_id": "hch-001"},
-    # --- Hij_03 例題 ---
+    # --- Hij_03 例題（what/that/疑問詞 → hch-002） ---
     {"sentence_id": "hij-03-e1-01", "node_id": "hch-002"},
     {"sentence_id": "hij-03-e1-02", "node_id": "hch-002"},
     {"sentence_id": "hij-03-e1-03", "node_id": "hch-002"},
-    {"sentence_id": "hij-03-e1-04", "node_id": "hch-002"},
-    {"sentence_id": "hij-03-e1-05", "node_id": "hch-002"},
+    # --- Hij_03 例題（whether/if → hch-009） ---
+    {"sentence_id": "hij-03-e1-04", "node_id": "hch-009"},
+    {"sentence_id": "hij-03-e1-05", "node_id": "hch-009"},
+    # --- Hij_03 例題（疑問詞 → hch-002） ---
     {"sentence_id": "hij-03-e1-06", "node_id": "hch-002"},
-    {"sentence_id": "hij-03-e1-07", "node_id": "hch-002"},
-    {"sentence_id": "hij-03-e1-08", "node_id": "hch-002"},
-    # --- Hij_03 確認問題 ---
+    # --- Hij_03 ポイント8（whether → hch-009） ---
+    {"sentence_id": "hij-03-e1-07", "node_id": "hch-009"},
+    {"sentence_id": "hij-03-e1-08", "node_id": "hch-009"},
+    # --- Hij_03 確認問題（複合タグ） ---
     {"sentence_id": "hij-03-c1-01", "node_id": "hch-002"},
+    {"sentence_id": "hij-03-c1-01", "node_id": "hch-009"},
     {"sentence_id": "hij-03-c1-02", "node_id": "hch-002"},
     {"sentence_id": "hij-03-c1-03", "node_id": "hch-002"},
-    # --- Hij_03 発展問題 ---
+    {"sentence_id": "hij-03-c1-03", "node_id": "hch-009"},
+    # --- Hij_03 発展問題（複合タグ） ---
     {"sentence_id": "hij-03-a1-01", "node_id": "hch-002"},
+    {"sentence_id": "hij-03-a1-01", "node_id": "hch-009"},
 ]

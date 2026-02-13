@@ -7,17 +7,31 @@
 KNOWLEDGE_NODES = [
     {
         "id": "hid-001",
-        "name": "to doの識別（名詞的/形容詞的/副詞的用法・be to不定詞）",
+        "name": "to doの識別（名詞的/形容詞的/副詞的用法）",
         "category": "識別",
         "priority": "P1",
-        "notes": "文中でto+動詞の原形を見たら不定詞と特定し、名詞的用法・形容詞的用法・副詞的用法・be to不定詞の4パターンを識別する。S・O・Cなら名詞的用法「～すること」、前の名詞を修飾するなら形容詞的用法「～するための」、動詞と目的・手段の関係なら副詞的用法「～するために」。be動詞のうしろでS=Cにならなければbe to不定詞で、文脈により予定(be going to)・義務(should)・可能(can)・意志(will)・運命(shall)の5つの意味を持つ「万能助動詞」。",
+        "notes": "文中でto+動詞の原形を見たら不定詞と特定し、名詞的用法・形容詞的用法・副詞的用法の3パターンを識別する。S・O・Cなら名詞的用法「～すること」、前の名詞を修飾するなら形容詞的用法「～するための」、動詞と目的・手段の関係なら副詞的用法「～するために」。",
+    },
+    {
+        "id": "hid-007",
+        "name": "to doの識別（be to不定詞）",
+        "category": "識別",
+        "priority": "P1",
+        "notes": "be動詞のうしろにto doがくるとき、S=Cにならなければbe to不定詞。be to不定詞は文脈により予定(be going to)・義務(should)・可能(can)・意志(will)・運命(shall)の5つの意味を持つ「万能助動詞」。未来の副詞(next year等)とセットなら予定、if節中ならwillと同じ意志、否定文ならcanと同じ可能。",
     },
     {
         "id": "hid-002",
-        "name": "-ingの識別（動名詞/進行形/現在分詞の形容詞用法/分詞構文）",
+        "name": "-ingの識別（動名詞/進行形）",
         "category": "識別",
         "priority": "P1",
-        "notes": "文中で-ingを見つけたら動名詞か現在分詞かを識別する。S・O・Cなら動名詞「～すること」。be動詞のうしろでS=Cが成り立たないなら現在分詞で進行形。形容詞句をつくってうしろから名詞を修飾するなら現在分詞の形容詞用法。-ing～,SV. / S,-ing～,V. / SV,-ing～. の型なら分詞構文。be動詞のうしろの-ingはS=Cなら動名詞（SVC）、成り立たないなら進行形。文頭の-ingは名詞句をつくり主語なら動名詞、-ing～,SV.の型なら分詞構文で「時」か「理由」。文尾の分詞構文は「そして～」。",
+        "notes": "文中で-ingを見つけたら動名詞か進行形かを識別する。S・O・Cなら動名詞「～すること」。be動詞のうしろでS=Cが成り立たないなら現在分詞で進行形。be動詞のうしろの-ingはS=Cなら動名詞（SVC）、成り立たないなら進行形。文頭の-ingは名詞句をつくり主語なら動名詞。",
+    },
+    {
+        "id": "hid-008",
+        "name": "-ingの識別（現在分詞の形容詞用法/分詞構文）",
+        "category": "識別",
+        "priority": "P1",
+        "notes": "形容詞句をつくってうしろから名詞を修飾するなら現在分詞の形容詞用法。-ing～,SV. / S,-ing～,V. / SV,-ing～. の型なら分詞構文。文頭の-ingが-ing～,SV.の型なら分詞構文で「時」か「理由」、文尾の分詞構文は「そして～」。文頭の-ingが動名詞か分詞構文かは、名詞句をつくり主語なら動名詞、-ing～,SV.の型なら分詞構文で識別する。",
     },
     {
         "id": "hid-003",
@@ -33,18 +47,23 @@ KNOWLEDGE_NODES = [
 # ============================================================
 
 UNDERSTANDING_GOALS = [
-    # hid-001: to doの識別
-    {"node_id": "hid-001", "seq": 1, "goal": "to+動詞の原形を見たら不定詞と特定し、3用法+be to不定詞の4パターンを意識できる"},
+    # hid-001: to doの識別（3用法）
+    {"node_id": "hid-001", "seq": 1, "goal": "to+動詞の原形を見たら不定詞と特定し、名詞的・形容詞的・副詞的用法の3パターンを意識できる"},
     {"node_id": "hid-001", "seq": 2, "goal": "不定詞がS・O・Cの位置にあれば名詞的用法「～すること」と判断できる"},
     {"node_id": "hid-001", "seq": 3, "goal": "「名詞 to do」の形で前の名詞を修飾していれば形容詞的用法「～するための」と判断できる"},
     {"node_id": "hid-001", "seq": 4, "goal": "動詞とto doが目的と手段の関係であれば副詞的用法「～するために」と判断できる"},
-    {"node_id": "hid-001", "seq": 5, "goal": "be動詞のうしろのto doがS=Cにならないことを根拠にbe to不定詞と識別し、文脈から予定・義務・可能・意志・運命の5つの意味を判断できる"},
-    # hid-002: -ingの識別
-    {"node_id": "hid-002", "seq": 1, "goal": "-ingを見つけたら動名詞か現在分詞かの識別を意識できる"},
+    # hid-007: to doの識別（be to不定詞）
+    {"node_id": "hid-007", "seq": 1, "goal": "be動詞のうしろのto doがS=Cにならないことを根拠にbe to不定詞と識別できる"},
+    {"node_id": "hid-007", "seq": 2, "goal": "be to不定詞の5つの意味（予定・義務・可能・意志・運命）を文脈から判断できる"},
+    {"node_id": "hid-007", "seq": 3, "goal": "文脈指標（未来の副詞=予定、if節=意志、否定=可能など）からbe to不定詞の意味を特定できる"},
+    # hid-002: -ingの識別（動名詞/進行形）
+    {"node_id": "hid-002", "seq": 1, "goal": "-ingを見つけたら動名詞か進行形かの識別を意識できる"},
     {"node_id": "hid-002", "seq": 2, "goal": "be動詞のうしろの-ingでS=Cが成り立つなら動名詞（SVC）、成り立たないなら進行形と判断できる"},
-    {"node_id": "hid-002", "seq": 3, "goal": "文頭の-ingが名詞句をつくり主語なら動名詞、-ing～,SV.の型なら分詞構文と識別できる"},
-    {"node_id": "hid-002", "seq": 4, "goal": "分詞構文の3つの型（文頭・文中・文尾）を認識し、文頭なら「時」か「理由」、文尾なら「そして～」と訳せる"},
-    {"node_id": "hid-002", "seq": 5, "goal": "現在分詞が形容詞句をつくってうしろから名詞を修飾するパターンを認識できる"},
+    {"node_id": "hid-002", "seq": 3, "goal": "文頭の-ingが名詞句をつくり文の主語になっていれば動名詞「～すること」と判断できる"},
+    # hid-008: -ingの識別（現在分詞の形容詞用法/分詞構文）
+    {"node_id": "hid-008", "seq": 1, "goal": "現在分詞が形容詞句をつくってうしろから名詞を修飾するパターンを認識できる"},
+    {"node_id": "hid-008", "seq": 2, "goal": "分詞構文の3つの型（文頭・文中・文尾）を認識し、文頭なら「時」か「理由」、文尾なら「そして～」と訳せる"},
+    {"node_id": "hid-008", "seq": 3, "goal": "文頭の-ingが-ing～,SV.の型にあてはまれば分詞構文と識別し、動名詞と区別できる"},
     # hid-003: 過去分詞の識別
     {"node_id": "hid-003", "seq": 1, "goal": "過去分詞を見つけたら受動態・完了形・名詞修飾・分詞構文の4パターンを意識できる"},
     {"node_id": "hid-003", "seq": 2, "goal": "be動詞+p.p.で受動態、have+p.p.で完了形と識別できる"},
@@ -57,17 +76,22 @@ UNDERSTANDING_GOALS = [
 # ============================================================
 
 CHECK_POINTS = [
-    # hid-001: to doの識別
-    {"node_id": "hid-001", "seq": 1, "question": "不定詞の4パターンは何か？", "answer": "(1)名詞的用法（S・O・Cになる）、(2)形容詞的用法（名詞 to doの形で前の名詞を修飾）、(3)副詞的用法（動詞と目的・手段の関係）、(4)be to不定詞（万能助動詞）。"},
+    # hid-001: to doの識別（3用法）
+    {"node_id": "hid-001", "seq": 1, "question": "不定詞の3用法は何か？", "answer": "(1)名詞的用法（S・O・Cになる）、(2)形容詞的用法（名詞 to doの形で前の名詞を修飾）、(3)副詞的用法（動詞と目的・手段の関係）。"},
     {"node_id": "hid-001", "seq": 2, "question": "I would like to take advantage of the opportunity to visit the museum. のto takeとto visitの用法は？", "answer": "to takeは名詞的用法でlikeの目的語。to visitは形容詞的用法で前のthe opportunityを修飾する。"},
-    {"node_id": "hid-001", "seq": 3, "question": "be to不定詞と不定詞の名詞的用法を区別する方法は？", "answer": "be動詞のうしろのto doが文のCならば名詞的用法（S=Cが成り立つ）、Cでなければbe to不定詞。"},
-    {"node_id": "hid-001", "seq": 4, "question": "be to不定詞の5つの意味は？", "answer": "予定（be going to）、義務（should）、可能（can）、意志（will）、運命（shall）。文脈により使い分ける。"},
-    {"node_id": "hid-001", "seq": 5, "question": "A new store is to be built next year. のis toは何の意味か？", "answer": "予定。未来の副詞next yearと一緒で「～する予定だ」（be going to）の意味。"},
-    # hid-002: -ingの識別
-    {"node_id": "hid-002", "seq": 1, "question": "-ingの4パターンは？", "answer": "(1)動名詞（S・O・Cになる）、(2)進行形（be動詞+-ing）、(3)現在分詞の形容詞用法（名詞+-ing）、(4)分詞構文（文頭・文中・文尾で動詞を修飾）。"},
+    {"node_id": "hid-001", "seq": 3, "question": "In summer, we usually go to the pool to swim. のto swimはどの用法か？", "answer": "副詞的用法。to swim「泳ぐために」が目的で、go to the pool「プールに行く」が手段。動詞と目的・手段の関係。"},
+    # hid-007: to doの識別（be to不定詞）
+    {"node_id": "hid-007", "seq": 1, "question": "be to不定詞と不定詞の名詞的用法を区別する方法は？", "answer": "be動詞のうしろのto doが文のCならば名詞的用法（S=Cが成り立つ）、Cでなければbe to不定詞。"},
+    {"node_id": "hid-007", "seq": 2, "question": "be to不定詞の5つの意味は？", "answer": "予定（be going to）、義務（should）、可能（can）、意志（will）、運命（shall）。文脈により使い分ける。"},
+    {"node_id": "hid-007", "seq": 3, "question": "A new store is to be built next year. のis toは何の意味か？", "answer": "予定。未来の副詞next yearと一緒で「～する予定だ」（be going to）の意味。"},
+    # hid-002: -ingの識別（動名詞/進行形）
+    {"node_id": "hid-002", "seq": 1, "question": "-ingが動名詞になるのはどのパターンか？", "answer": "S・O・Cの位置にあれば動名詞「～すること」。文頭の-ingが名詞句をつくり主語なら動名詞。"},
     {"node_id": "hid-002", "seq": 2, "question": "be動詞のうしろの-ingが動名詞か進行形かを見分ける方法は？", "answer": "S=Cが成り立てば動名詞（第2文型のC）、成り立たなければ進行形の現在分詞。"},
-    {"node_id": "hid-002", "seq": 3, "question": "分詞構文の3つの型と訳し方は？", "answer": "文頭: -ing(p.p.)～, SV.（「時」か「理由」）、文中: S, -ing(p.p.)～, V.、文尾: SV, -ing(p.p.)～.（「そして～」）。"},
-    {"node_id": "hid-002", "seq": 4, "question": "文頭の-ingが動名詞か分詞構文かを見分ける方法は？", "answer": "名詞句をつくり文の主語になっていれば動名詞「～すること」、-ing～, SV.の型にあてはまれば分詞構文。"},
+    {"node_id": "hid-002", "seq": 3, "question": "My hobby is writing a novel. と She is writing a novel. の-ingの違いは？", "answer": "前者は動名詞（My hobby = writing a novelでS=C）、後者は進行形（She ≠ writingでS≠C）。"},
+    # hid-008: -ingの識別（現在分詞の形容詞用法/分詞構文）
+    {"node_id": "hid-008", "seq": 1, "question": "現在分詞の形容詞用法はどのような形で名詞を修飾するか？", "answer": "名詞+-ingの形でうしろから名詞を修飾する。例: an article questioning the cause「原因を疑う記事」。"},
+    {"node_id": "hid-008", "seq": 2, "question": "分詞構文の3つの型と訳し方は？", "answer": "文頭: -ing(p.p.)～, SV.（「時」か「理由」）、文中: S, -ing(p.p.)～, V.、文尾: SV, -ing(p.p.)～.（「そして～」）。"},
+    {"node_id": "hid-008", "seq": 3, "question": "文頭の-ingが動名詞か分詞構文かを見分ける方法は？", "answer": "名詞句をつくり文の主語になっていれば動名詞「～すること」、-ing～, SV.の型にあてはまれば分詞構文。"},
     # hid-003: 過去分詞の識別
     {"node_id": "hid-003", "seq": 1, "question": "過去分詞の4パターンは？", "answer": "(1)受動態（be動詞+p.p.）、(2)完了形（have+p.p.）、(3)名詞修飾（名詞+p.p.）、(4)分詞構文（文頭・文中・文尾で動詞を修飾）。"},
     {"node_id": "hid-003", "seq": 2, "question": "受動態を訳すとき「～れる・～られる」で不自然な場合の対処法は？", "answer": "能動態になおして訳す。受動態の主語は能動態の目的語なので、目的語を主語にした能動態で考える。"},
@@ -81,8 +105,11 @@ CHECK_POINTS = [
 
 NODE_PREREQUISITES = [
     {"node_id": "hid-001", "prerequisite_id": "hch-001"},
+    {"node_id": "hid-007", "prerequisite_id": "hid-001"},
     {"node_id": "hid-002", "prerequisite_id": "hid-001"},
+    {"node_id": "hid-008", "prerequisite_id": "hid-002"},
     {"node_id": "hid-003", "prerequisite_id": "hid-002"},
+    {"node_id": "hid-003", "prerequisite_id": "hid-008"},
 ]
 
 # ============================================================
@@ -91,7 +118,9 @@ NODE_PREREQUISITES = [
 
 KNOWLEDGE_REFERENCES = [
     {"node_id": "hid-001", "book": "肘井の読解のための英文法", "section_id": "Hij_08", "pages": "p.64-69"},
+    {"node_id": "hid-007", "book": "肘井の読解のための英文法", "section_id": "Hij_08", "pages": "p.64-69"},
     {"node_id": "hid-002", "book": "肘井の読解のための英文法", "section_id": "Hij_09", "pages": "p.70-75"},
+    {"node_id": "hid-008", "book": "肘井の読解のための英文法", "section_id": "Hij_09", "pages": "p.70-75"},
     {"node_id": "hid-003", "book": "肘井の読解のための英文法", "section_id": "Hij_10", "pages": "p.76-79"},
 ]
 
@@ -139,7 +168,9 @@ SECTION_PREREQUISITES = [
 
 SECTION_KNOWLEDGE_NODES = [
     {"section_id": "Hij_08", "node_id": "hid-001", "seq": 1},
+    {"section_id": "Hij_08", "node_id": "hid-007", "seq": 2},
     {"section_id": "Hij_09", "node_id": "hid-002", "seq": 1},
+    {"section_id": "Hij_09", "node_id": "hid-008", "seq": 2},
     {"section_id": "Hij_10", "node_id": "hid-003", "seq": 1},
 ]
 
@@ -678,19 +709,19 @@ SENTENCE_KNOWLEDGE_TAGS = [
     # Hij_08 -- Theme 08
     # ==========================================================
     # --- 例題 ---
-    {"sentence_id": "hij-08-e1-01", "node_id": "hid-001"},  # 名詞的用法
-    {"sentence_id": "hij-08-e1-02", "node_id": "hid-001"},  # 名詞的用法+形容詞的用法
+    {"sentence_id": "hij-08-e1-01", "node_id": "hid-001"},  # 名詞的用法(S)
+    {"sentence_id": "hij-08-e1-02", "node_id": "hid-001"},  # 名詞的用法(O)+形容詞的用法
     {"sentence_id": "hij-08-e1-03", "node_id": "hid-001"},  # 副詞的用法
-    {"sentence_id": "hij-08-e1-04", "node_id": "hid-001"},  # be to 不定詞
+    {"sentence_id": "hij-08-e1-04", "node_id": "hid-007"},  # be to不定詞=予定
     # --- ポイント14 例文 ---
-    {"sentence_id": "hij-08-e1-05", "node_id": "hid-001"},  # 名詞的用法
-    {"sentence_id": "hij-08-e1-06", "node_id": "hid-001"},  # 名詞的用法
+    {"sentence_id": "hij-08-e1-05", "node_id": "hid-001"},  # 名詞的用法(O)
+    {"sentence_id": "hij-08-e1-06", "node_id": "hid-001"},  # 名詞的用法(O)
     # --- ポイント15 例文 ---
-    {"sentence_id": "hij-08-e1-07", "node_id": "hid-001"},  # be to 不定詞=意志
-    {"sentence_id": "hij-08-e1-08", "node_id": "hid-001"},  # be to 不定詞=可能
+    {"sentence_id": "hij-08-e1-07", "node_id": "hid-007"},  # be to不定詞=意志
+    {"sentence_id": "hij-08-e1-08", "node_id": "hid-007"},  # be to不定詞=可能
     # --- 確認問題 ---
     {"sentence_id": "hij-08-c1-01", "node_id": "hid-001"},  # 形容詞的用法+名詞的用法
-    {"sentence_id": "hij-08-c1-02", "node_id": "hid-001"},  # be to 不定詞=予定
+    {"sentence_id": "hij-08-c1-02", "node_id": "hid-007"},  # be to不定詞=予定
     {"sentence_id": "hij-08-c1-03", "node_id": "hid-001"},  # 副詞的用法
     {"sentence_id": "hij-08-c1-04", "node_id": "hid-001"},  # 形容詞的用法
     # --- 発展問題 ---
@@ -699,23 +730,23 @@ SENTENCE_KNOWLEDGE_TAGS = [
     # Hij_09 -- Theme 09
     # ==========================================================
     # --- 例題 ---
-    {"sentence_id": "hij-09-e1-01", "node_id": "hid-002"},  # 動名詞
+    {"sentence_id": "hij-09-e1-01", "node_id": "hid-002"},  # 動名詞(S)
     {"sentence_id": "hij-09-e1-02", "node_id": "hid-002"},  # 進行形
-    {"sentence_id": "hij-09-e1-03", "node_id": "hid-002"},  # 現在分詞の形容詞用法
-    {"sentence_id": "hij-09-e1-04", "node_id": "hid-002"},  # 分詞構文
+    {"sentence_id": "hij-09-e1-03", "node_id": "hid-008"},  # 現在分詞の形容詞用法
+    {"sentence_id": "hij-09-e1-04", "node_id": "hid-008"},  # 分詞構文=理由
     # --- ポイント16 例文 ---
     {"sentence_id": "hij-09-e1-05", "node_id": "hid-002"},  # 動名詞(SVC)
     {"sentence_id": "hij-09-e1-06", "node_id": "hid-002"},  # 進行形
     # --- ポイント17 例文 ---
     {"sentence_id": "hij-09-e1-07", "node_id": "hid-002"},  # 動名詞(文頭)
-    {"sentence_id": "hij-09-e1-08", "node_id": "hid-002"},  # 分詞構文(文頭)
+    {"sentence_id": "hij-09-e1-08", "node_id": "hid-008"},  # 分詞構文(文頭)=理由
     # --- 確認問題 ---
-    {"sentence_id": "hij-09-c1-01", "node_id": "hid-002"},  # 現在分詞の形容詞用法
-    {"sentence_id": "hij-09-c1-02", "node_id": "hid-002"},  # 動名詞
-    {"sentence_id": "hij-09-c1-03", "node_id": "hid-002"},  # 分詞構文(文尾)
+    {"sentence_id": "hij-09-c1-01", "node_id": "hid-008"},  # 現在分詞の形容詞用法
+    {"sentence_id": "hij-09-c1-02", "node_id": "hid-002"},  # 動名詞(S)
+    {"sentence_id": "hij-09-c1-03", "node_id": "hid-008"},  # 分詞構文(文尾)=結果
     {"sentence_id": "hij-09-c1-04", "node_id": "hid-002"},  # 進行形
     # --- 発展問題 ---
-    {"sentence_id": "hij-09-a1-01", "node_id": "hid-002"},  # 動名詞+現在分詞
+    {"sentence_id": "hij-09-a1-01", "node_id": "hid-002"},  # 動名詞
     # ==========================================================
     # Hij_10 -- Theme 10
     # ==========================================================

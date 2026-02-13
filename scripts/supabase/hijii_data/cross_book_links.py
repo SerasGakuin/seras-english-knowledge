@@ -21,15 +21,25 @@ CROSS_BOOK_LINKS = [
     {"source_node": "hch-003", "target_node": "clau-006", "link_type": "same_concept",
      "notes": "名詞節(that/what/how等) — 両書とも名詞節の認識を扱う"},
 
+    # 肘井 hch (名詞句/節 — 分割ノード) ↔ はじめ clau
+    {"source_node": "hch-008", "target_node": "clau-002", "link_type": "same_concept",
+     "notes": "疑問詞+to不定詞 — 不定詞の名詞的用法の特殊形"},
+    {"source_node": "hch-009", "target_node": "clau-006", "link_type": "same_concept",
+     "notes": "名詞節(whether/if) — 名詞節の認識"},
+
     # 肘井 hch (形容詞句/節) ↔ はじめ clau (形容詞関連)
     {"source_node": "hch-004", "target_node": "clau-009", "link_type": "same_concept",
      "notes": "形容詞句（前置詞句・分詞・不定詞の後置修飾）"},
+    {"source_node": "hch-010", "target_node": "clau-009", "link_type": "same_concept",
+     "notes": "形容詞句（不定詞の形容詞的用法）"},
     {"source_node": "hch-005", "target_node": "clau-013", "link_type": "same_concept",
      "notes": "形容詞節（関係代名詞・関係副詞）"},
 
     # 肘井 hch (副詞句/節) ↔ はじめ clau (副詞関連)
     {"source_node": "hch-006", "target_node": "clau-028", "link_type": "same_concept",
      "notes": "副詞句（前置詞句・不定詞の副詞的用法等）"},
+    {"source_node": "hch-012", "target_node": "clau-028", "link_type": "same_concept",
+     "notes": "副詞句（分詞構文）"},
     {"source_node": "hch-007", "target_node": "clau-033", "link_type": "same_concept",
      "notes": "副詞節（時・条件・譲歩等の接続詞）"},
 
@@ -39,7 +49,9 @@ CROSS_BOOK_LINKS = [
     {"source_node": "hvp-001", "target_node": "strc-013", "link_type": "same_concept",
      "notes": "第4文型 SVOO"},
     {"source_node": "hvp-002", "target_node": "strc-015", "link_type": "same_concept",
-     "notes": "第5文型 SVOC"},
+     "notes": "第5文型 SVOC（使役動詞・知覚動詞・help）"},
+    {"source_node": "hvp-012", "target_node": "strc-015", "link_type": "same_concept",
+     "notes": "第5文型 SVOC（状態維持・認識・命名）"},
     {"source_node": "hvp-003", "target_node": "vtyp-001", "link_type": "same_concept",
      "notes": "SVO to do型の動詞パターン"},
 
@@ -47,7 +59,9 @@ CROSS_BOOK_LINKS = [
     # same_concept: 構文
     # ----------------------------------------------------------
     {"source_node": "hco-002", "target_node": "read-013", "link_type": "same_concept",
-     "notes": "倒置構文（否定副詞の倒置等）"},
+     "notes": "倒置構文（文型倒置・強制倒置）"},
+    {"source_node": "hco-011", "target_node": "read-013", "link_type": "same_concept",
+     "notes": "倒置構文（nor/soの倒置・仮定法if節の倒置）"},
     {"source_node": "hco-004", "target_node": "read-011", "link_type": "same_concept",
      "notes": "強調構文 It is ... that ~"},
 
@@ -59,8 +73,12 @@ CROSS_BOOK_LINKS = [
      "notes": "肘井はto doの3用法識別テクニックを体系化。はじめは用法ごとの解説"},
     {"source_node": "hid-002", "target_node": "clau-004", "link_type": "extends",
      "notes": "肘井は-ingの識別テクニックを体系化（動名詞/現在分詞/分詞構文）"},
+    {"source_node": "hid-008", "target_node": "clau-004", "link_type": "extends",
+     "notes": "肘井は-ingの識別テクニックを体系化（現在分詞の形容詞用法/分詞構文）"},
     {"source_node": "hid-004", "target_node": "clau-006", "link_type": "extends",
      "notes": "肘井はthatの多義性識別に特化（名詞節/形容詞節/副詞節/強調構文/同格）"},
+    {"source_node": "hid-009", "target_node": "clau-006", "link_type": "extends",
+     "notes": "肘井はthatの副詞節用法識別に特化（so...that/such...that/in that等）"},
 
     # ----------------------------------------------------------
     # extends: はじめが詳細化

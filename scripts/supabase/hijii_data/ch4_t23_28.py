@@ -14,10 +14,17 @@ KNOWLEDGE_NODES = [
     },
     {
         "id": "hvp-002",
-        "name": "第5文型 SVOC",
+        "name": "第5文型 SVOC（使役動詞・知覚動詞・help）",
         "category": "動詞の型",
         "priority": "P1",
-        "notes": "第5文型（S V O C）をとる動詞を3パターンに分類する。(1)CにV原形（使役動詞make/let/have、知覚動詞see/hear/feel、help）、(2)Cに-ing/p.p.（keep/leave/get）、(3)Cに形容詞・名詞（「認識」系think/believe/consider/find、「命名」系call/name）。動詞を見たらO Cの型を予測することが重要。",
+        "notes": "第5文型（S V O C）のうちCにV原形をとるパターン。使役動詞make（強制）/let（許可）/have（依頼）、知覚動詞see/hear/feel、helpがO+V原形の型をとる。知覚動詞はO+-ing（進行中）/O+p.p.（受動）も可能。",
+    },
+    {
+        "id": "hvp-012",
+        "name": "第5文型 SVOC（状態維持・認識・命名）",
+        "category": "動詞の型",
+        "priority": "P1",
+        "notes": "第5文型（S V O C）のうちCに-ing/p.p./形容詞/名詞をとるパターン。(1)keep O C（維持）/leave O C（放置）/get O p.p.（してもらう）、(2)「認識」系（think/believe/consider/find）「OをCと思う」、(3)「命名」系（call/name）「OをCとよぶ」。",
     },
     {
         "id": "hvp-003",
@@ -60,12 +67,14 @@ UNDERSTANDING_GOALS = [
     {"node_id": "hvp-001", "seq": 3, "goal": "buy/cook/make/get/leaveを見たらO1 O2の型を予測し「O1にO2をしてあげる」と解釈できる"},
     {"node_id": "hvp-001", "seq": 4, "goal": "It takes O1 O2 to do / It costs O1 O2 to doの形式主語構文を「O1が～するのにO2がかかる」と解釈できる"},
     {"node_id": "hvp-001", "seq": 5, "goal": "save O1 O2「O1のO2を省く」のように「奪う」系動詞の意味を理解できる"},
-    # hvp-002: 第5文型 SVOC
-    {"node_id": "hvp-002", "seq": 1, "goal": "第5文型（S V O C）を「CにV原形」「Cに-ing/p.p.」「Cに形容詞・名詞」の3パターンに分類できる"},
+    # hvp-002: 第5文型 SVOC（使役動詞・知覚動詞・help）
+    {"node_id": "hvp-002", "seq": 1, "goal": "使役動詞（make/let/have）・知覚動詞（see/hear/feel）・helpがO Cの型をとり、CにV原形が入ることを理解している"},
     {"node_id": "hvp-002", "seq": 2, "goal": "使役動詞（make/let/have）のニュアンスの違い（強制・許可・依頼）を説明できる"},
     {"node_id": "hvp-002", "seq": 3, "goal": "知覚動詞（see/hear/feel）がO Cの型をとり、CにV原形/-ing/p.p.が入ることを理解している"},
-    {"node_id": "hvp-002", "seq": 4, "goal": "keep O C（維持）とleave O C（放置）のニュアンスの違いを説明できる"},
-    {"node_id": "hvp-002", "seq": 5, "goal": "「認識」系（think/believe/consider/find）と「命名」系（call/name）の第5文型を認識できる"},
+    # hvp-012: 第5文型 SVOC（状態維持・認識・命名）
+    {"node_id": "hvp-012", "seq": 1, "goal": "get/keep/leave がO Cの型をとり、Cに-ing/p.p.が入るパターンを認識できる"},
+    {"node_id": "hvp-012", "seq": 2, "goal": "keep O C（維持）とleave O C（放置）のニュアンスの違いを説明できる"},
+    {"node_id": "hvp-012", "seq": 3, "goal": "「認識」系（think/believe/consider/find）と「命名」系（call/name）の第5文型を認識できる"},
     # hvp-003: SVO to do型
     {"node_id": "hvp-003", "seq": 1, "goal": "SVO to do型を「伝達」系・「因果」系・「認識」系の3パターンに分類できる"},
     {"node_id": "hvp-003", "seq": 2, "goal": "tell/advise/ask/remindを見たらO to doの型を予測し「伝達」のニュアンス（命令・助言・依頼・義務）を解釈できる"},
@@ -96,11 +105,14 @@ CHECK_POINTS = [
     {"node_id": "hvp-001", "seq": 2, "question": "第4文型の「してあげる」系動詞を5つ挙げよ。", "answer": "buy / cook / make / get / leave。すべて「O1にO2をしてあげる」という意味。"},
     {"node_id": "hvp-001", "seq": 3, "question": "It took him ten minutes to solve the problem. の文型と意味は？", "answer": "形式主語itの第4文型。take O1 O2「O1からO2の時間を奪う」= 「彼がその問題を解くのに10分かかった」。"},
     {"node_id": "hvp-001", "seq": 4, "question": "save O1 O2 はどういう意味か？", "answer": "「O1からO2の手間を奪う」=「O1のO2を省く」。奪う系の第4文型。"},
-    # hvp-002: 第5文型 SVOC
+    # hvp-002: 第5文型 SVOC（使役動詞・知覚動詞・help）
     {"node_id": "hvp-002", "seq": 1, "question": "第5文型の補語にV原形をとる動詞を3種類挙げよ。", "answer": "使役動詞（make/let/have）、知覚動詞（see/hear/feel）、help。"},
     {"node_id": "hvp-002", "seq": 2, "question": "make/let/haveのニュアンスの違いは？", "answer": "make「無理やり～させる」（強制）、let「～させてあげる」（許可）、have「～してもらう」（依頼）。"},
-    {"node_id": "hvp-002", "seq": 3, "question": "keep O CとLeave O Cの違いは？", "answer": "keepは「維持」（わざとその状態を保つ）、leaveは「放置」（単に忘れている）。どちらも「OをCのままにする」。"},
-    {"node_id": "hvp-002", "seq": 4, "question": "第5文型の補語に形容詞・名詞をとる動詞を2種類挙げよ。", "answer": "「認識」系（think/believe/consider/find）「OをCと思う」、「命名」系（call/name）「OをCとよぶ」。"},
+    {"node_id": "hvp-002", "seq": 3, "question": "知覚動詞のCにはV原形以外にどんな形が来るか？", "answer": "-ing（進行中の動作を知覚）とp.p.（受動の動作を知覚）。V原形は動作の全体を知覚。"},
+    # hvp-012: 第5文型 SVOC（状態維持・認識・命名）
+    {"node_id": "hvp-012", "seq": 1, "question": "keep O CとLeave O Cの違いは？", "answer": "keepは「維持」（わざとその状態を保つ）、leaveは「放置」（単に忘れている）。どちらも「OをCのままにする」。"},
+    {"node_id": "hvp-012", "seq": 2, "question": "第5文型の補語に形容詞・名詞をとる動詞を2種類挙げよ。", "answer": "「認識」系（think/believe/consider/find）「OをCと思う」、「命名」系（call/name）「OをCとよぶ」。"},
+    {"node_id": "hvp-012", "seq": 3, "question": "get O p.p.の意味は？", "answer": "「Oを～してもらう」。getは使役的な意味でO p.p.の形をとり、受動的な完了を表す。"},
     # hvp-003: SVO to do型
     {"node_id": "hvp-003", "seq": 1, "question": "SVO to do型の「伝達」系動詞を4つ挙げ、ニュアンスを述べよ。", "answer": "tell（命令）、advise（助言）、ask（依頼）、remind（義務）。すべて「Oに～するように伝える」。"},
     {"node_id": "hvp-003", "seq": 2, "question": "SVO to do型の「因果」系動詞を5つ挙げよ。", "answer": "enable / allow / cause / encourage / persuade。すべて「Sが原因でOが～する」という因果関係。"},
@@ -125,6 +137,7 @@ CHECK_POINTS = [
 
 NODE_PREREQUISITES = [
     {"node_id": "hvp-002", "prerequisite_id": "hvp-001"},
+    {"node_id": "hvp-012", "prerequisite_id": "hvp-002"},
     {"node_id": "hvp-003", "prerequisite_id": "hvp-002"},
     {"node_id": "hvp-004", "prerequisite_id": "hvp-003"},
     {"node_id": "hvp-005", "prerequisite_id": "hvp-004"},
@@ -138,6 +151,7 @@ NODE_PREREQUISITES = [
 KNOWLEDGE_REFERENCES = [
     {"node_id": "hvp-001", "book": "肘井の読解のための英文法", "section_id": "Hij_23", "pages": "p.158-163"},
     {"node_id": "hvp-002", "book": "肘井の読解のための英文法", "section_id": "Hij_24", "pages": "p.164-169"},
+    {"node_id": "hvp-012", "book": "肘井の読解のための英文法", "section_id": "Hij_24", "pages": "p.164-169"},
     {"node_id": "hvp-003", "book": "肘井の読解のための英文法", "section_id": "Hij_25", "pages": "p.170-175"},
     {"node_id": "hvp-004", "book": "肘井の読解のための英文法", "section_id": "Hij_26", "pages": "p.176-179"},
     {"node_id": "hvp-005", "book": "肘井の読解のための英文法", "section_id": "Hij_27", "pages": "p.180-183"},
@@ -212,6 +226,7 @@ SECTION_PREREQUISITES = [
 SECTION_KNOWLEDGE_NODES = [
     {"section_id": "Hij_23", "node_id": "hvp-001", "seq": 1},
     {"section_id": "Hij_24", "node_id": "hvp-002", "seq": 1},
+    {"section_id": "Hij_24", "node_id": "hvp-012", "seq": 2},
     {"section_id": "Hij_25", "node_id": "hvp-003", "seq": 1},
     {"section_id": "Hij_26", "node_id": "hvp-004", "seq": 1},
     {"section_id": "Hij_27", "node_id": "hvp-005", "seq": 1},
@@ -1176,24 +1191,22 @@ SENTENCE_KNOWLEDGE_TAGS = [
     {"sentence_id": "hij-23-c1-04", "node_id": "hvp-001"},
     # --- Hij_23 発展問題 ---
     {"sentence_id": "hij-23-a1-01", "node_id": "hvp-001"},
-    # --- Hij_24 例題 ---
-    {"sentence_id": "hij-24-e1-01", "node_id": "hvp-002"},
-    {"sentence_id": "hij-24-e1-02", "node_id": "hvp-002"},
-    {"sentence_id": "hij-24-e1-03", "node_id": "hvp-002"},
-    {"sentence_id": "hij-24-e1-04", "node_id": "hvp-002"},
-    {"sentence_id": "hij-24-e1-05", "node_id": "hvp-002"},
-    # --- Hij_24 ポイント例文 ---
-    {"sentence_id": "hij-24-e1-06", "node_id": "hvp-002"},
-    {"sentence_id": "hij-24-e1-07", "node_id": "hvp-002"},
-    {"sentence_id": "hij-24-e1-08", "node_id": "hvp-002"},
-    {"sentence_id": "hij-24-e1-09", "node_id": "hvp-002"},
-    # --- Hij_24 確認問題 ---
-    {"sentence_id": "hij-24-c1-01", "node_id": "hvp-002"},
-    {"sentence_id": "hij-24-c1-02", "node_id": "hvp-002"},
-    {"sentence_id": "hij-24-c1-03", "node_id": "hvp-002"},
-    {"sentence_id": "hij-24-c1-04", "node_id": "hvp-002"},
-    # --- Hij_24 発展問題 ---
-    {"sentence_id": "hij-24-a1-01", "node_id": "hvp-002"},
+    # --- Hij_24: hvp-002（使役動詞・知覚動詞・help）---
+    {"sentence_id": "hij-24-e1-01", "node_id": "hvp-002"},  # make O V原形
+    {"sentence_id": "hij-24-e1-02", "node_id": "hvp-002"},  # saw O V原形
+    {"sentence_id": "hij-24-e1-03", "node_id": "hvp-002"},  # help O V原形
+    {"sentence_id": "hij-24-c1-01", "node_id": "hvp-002"},  # made O V原形
+    {"sentence_id": "hij-24-c1-02", "node_id": "hvp-002"},  # heard O -ing（知覚動詞）
+    {"sentence_id": "hij-24-c1-03", "node_id": "hvp-002"},  # had O V原形
+    {"sentence_id": "hij-24-a1-01", "node_id": "hvp-002"},  # keep quiet + letting（使役動詞let）
+    # --- Hij_24: hvp-012（状態維持・認識・命名）---
+    {"sentence_id": "hij-24-e1-04", "node_id": "hvp-012"},  # get O p.p.
+    {"sentence_id": "hij-24-e1-05", "node_id": "hvp-012"},  # found O 形容詞（認識）
+    {"sentence_id": "hij-24-e1-06", "node_id": "hvp-012"},  # left O p.p.（放置）
+    {"sentence_id": "hij-24-e1-07", "node_id": "hvp-012"},  # kept O p.p.（維持）
+    {"sentence_id": "hij-24-e1-08", "node_id": "hvp-012"},  # thought O 形容詞（認識）
+    {"sentence_id": "hij-24-e1-09", "node_id": "hvp-012"},  # called O 名詞（命名）
+    {"sentence_id": "hij-24-c1-04", "node_id": "hvp-012"},  # keep O p.p.（維持）
     # --- Hij_25 例題 ---
     {"sentence_id": "hij-25-e1-01", "node_id": "hvp-003"},
     {"sentence_id": "hij-25-e1-02", "node_id": "hvp-003"},

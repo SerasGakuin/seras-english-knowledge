@@ -14,10 +14,17 @@ KNOWLEDGE_NODES = [
     },
     {
         "id": "hco-006",
-        "name": "ネクサス",
+        "name": "ネクサス（第5文型SVOCのOとC）",
         "category": "構文",
         "priority": "P1",
-        "notes": "文のSV以外にある隠れたSV関係（S'V'）を見抜く。(1)第5文型SVOCのOとC（Cにdo/to do/-ing/p.p.）、(2)準動詞の意味上の主語（for名詞to do/所有格+動名詞/主格+分詞構文）、(3)付帯状況with OC（Cに-ing/p.p.）の3パターン。",
+        "notes": "ネクサスとは文のSV以外にある隠れたSV関係（S'V'）のこと。第5文型SVOCでは、OとCの間にS'V'関係がある。Cの位置にdo(原形)/to do/-ing/p.p.が来る。知覚動詞(see/hear/feel等)はO+do/O+-ing/O+p.p.、使役動詞(make/let/have)はO+doの形をとる。",
+    },
+    {
+        "id": "hco-012",
+        "name": "ネクサス（準動詞の意味上の主語・付帯状況with OC）",
+        "category": "構文",
+        "priority": "P1",
+        "notes": "準動詞の意味上の主語と付帯状況with OCにネクサスを見抜く。(1)for名詞to do：不定詞の意味上の主語、(2)所有格+動名詞：動名詞の意味上の主語、(3)主格+分詞構文：独立分詞構文（主語が主節と異なる）、(4)with OC（Cに-ing/p.p.）：付帯状況。いずれも名詞と準動詞の間にS'V'関係がある。",
     },
     {
         "id": "hco-007",
@@ -58,11 +65,15 @@ UNDERSTANDING_GOALS = [
     {"node_id": "hco-005", "seq": 1, "goal": "both A and B / not A but B / not only A but (also) B / either A or B / neither A nor B の5パターンを認識できる"},
     {"node_id": "hco-005", "seq": 2, "goal": "前の単語（both/not/not only/either/neither）に反応して、うしろの接続詞（and/but/or/nor）を予測できる"},
     {"node_id": "hco-005", "seq": 3, "goal": "呼応の接続詞（and/but/or/nor）が通常の意味ではなく呼応パターンの一部であることを見抜ける"},
-    # hco-006: ネクサス
-    {"node_id": "hco-006", "seq": 1, "goal": "第5文型SVOCのOとCにネクサスの関係（S'V'）を見抜ける"},
-    {"node_id": "hco-006", "seq": 2, "goal": "不定詞・動名詞・分詞構文の意味上の主語を認識し、ネクサスの関係を見抜ける"},
-    {"node_id": "hco-006", "seq": 3, "goal": "付帯状況 with OC のOとCにネクサスの関係を見抜ける"},
-    {"node_id": "hco-006", "seq": 4, "goal": "There is S -ing ... のS -ingにネクサスの関係を見抜ける"},
+    # hco-006: ネクサス（第5文型SVOCのOとC）
+    {"node_id": "hco-006", "seq": 1, "goal": "第5文型SVOCのOとCに隠れたSV関係（ネクサス）を見抜ける"},
+    {"node_id": "hco-006", "seq": 2, "goal": "知覚動詞(see/hear/feel等)+O+Cの文で、Cの位置の原形不定詞を認識し、OとCのS'V'関係を把握できる"},
+    {"node_id": "hco-006", "seq": 3, "goal": "使役動詞(make/let等)+O+Cの文で、O-Cのネクサス関係を把握し、Cの形(do/to do/p.p.)を識別できる"},
+    # hco-012: ネクサス（準動詞の意味上の主語・付帯状況with OC）
+    {"node_id": "hco-012", "seq": 1, "goal": "不定詞・動名詞・分詞構文の意味上の主語を認識し、ネクサスの関係を見抜ける"},
+    {"node_id": "hco-012", "seq": 2, "goal": "付帯状況 with OC のOとCにネクサスの関係を見抜ける"},
+    {"node_id": "hco-012", "seq": 3, "goal": "There is S -ing ... のS -ingにネクサスの関係を見抜ける"},
+    {"node_id": "hco-012", "seq": 4, "goal": "for 名詞 to do / 所有格+動名詞 / 主格+分詞構文 の3つの意味上の主語の表し方を使い分けられる"},
     # hco-007: 挿入
     {"node_id": "hco-007", "seq": 1, "goal": "分詞構文・関係詞節・同格・SVの挿入パターンを認識できる"},
     {"node_id": "hco-007", "seq": 2, "goal": "カンマではさまれた挿入部分を読みとばして文の骨格SVを把握できる"},
@@ -96,12 +107,15 @@ CHECK_POINTS = [
     {"node_id": "hco-005", "seq": 3, "question": "not onlyを見たら何を予測するか？", "answer": "but (also)。not only A but (also) B「AだけでなくBも」。alsoはよく消える。B as well as Aと同義。"},
     {"node_id": "hco-005", "seq": 4, "question": "eitherを見たら何を予測するか？", "answer": "or。either A or B「AかBか」。"},
     {"node_id": "hco-005", "seq": 5, "question": "neitherを見たら何を予測するか？", "answer": "nor。neither A nor B「AもBもどちらも〜ない」。"},
-    # hco-006: ネクサス
+    # hco-006: ネクサス（第5文型SVOCのOとC）
     {"node_id": "hco-006", "seq": 1, "question": "ネクサスの関係とは何か？", "answer": "文のSV以外にある隠れたSV関係のこと。S'V'と表記する。"},
-    {"node_id": "hco-006", "seq": 2, "question": "ネクサスの関係が現れる3つのパターンは？", "answer": "(1)第5文型SVOCのOとC、(2)準動詞の意味上の主語と準動詞（不定詞/動名詞/分詞構文）、(3)付帯状況with OCのOとC。"},
-    {"node_id": "hco-006", "seq": 3, "question": "不定詞の意味上の主語はどのように表すか？", "answer": "for 名詞 to do の形で不定詞の前に置く。"},
-    {"node_id": "hco-006", "seq": 4, "question": "動名詞の意味上の主語はどのように表すか？", "answer": "動名詞の前に所有格（文の主語の場合）または目的格を置く。"},
-    {"node_id": "hco-006", "seq": 5, "question": "分詞構文の主語が主節と異なる場合はどうするか？", "answer": "分詞の前に主格の形で主語を置く（独立分詞構文）。"},
+    {"node_id": "hco-006", "seq": 2, "question": "第5文型SVOCでネクサスが生じるのはなぜか？", "answer": "OとCの間にS'V'の関係があるから。例: saw her mother(S') enter(V')。"},
+    {"node_id": "hco-006", "seq": 3, "question": "第5文型SVOCのCにはどんな形が来るか？", "answer": "do（原形不定詞）/ to do（不定詞）/ -ing（現在分詞）/ p.p.（過去分詞）。知覚動詞はdo/-ing/p.p.、使役動詞makeはdo（能動）/p.p.（受動）が来る。"},
+    # hco-012: ネクサス（準動詞の意味上の主語・付帯状況with OC）
+    {"node_id": "hco-012", "seq": 1, "question": "不定詞の意味上の主語はどのように表すか？", "answer": "for 名詞 to do の形で不定詞の前に置く。"},
+    {"node_id": "hco-012", "seq": 2, "question": "動名詞の意味上の主語はどのように表すか？", "answer": "動名詞の前に所有格（文の主語の場合）または目的格を置く。"},
+    {"node_id": "hco-012", "seq": 3, "question": "分詞構文の主語が主節と異なる場合はどうするか？", "answer": "分詞の前に主格の形で主語を置く（独立分詞構文）。"},
+    {"node_id": "hco-012", "seq": 4, "question": "付帯状況with OCのCにはどんな形が来るか？", "answer": "-ing（現在分詞）またはp.p.（過去分詞）。withのうしろのOとCにS'V'関係がある。"},
     # hco-007: 挿入
     {"node_id": "hco-007", "seq": 1, "question": "挿入の4パターンは何か？", "answer": "(1)分詞構文の挿入、(2)関係詞節の挿入、(3)同格の挿入（名詞/前置詞句）、(4)SVの挿入。"},
     {"node_id": "hco-007", "seq": 2, "question": "挿入を読み解くコツは？", "answer": "いったんカンマではさまれた挿入部分を読みとばして、文の骨格であるSVを把握する。"},
@@ -129,6 +143,7 @@ CHECK_POINTS = [
 # ============================================================
 
 NODE_PREREQUISITES = [
+    {"node_id": "hco-012", "prerequisite_id": "hco-006"},
     {"node_id": "hco-009", "prerequisite_id": "hco-008"},
 ]
 
@@ -139,6 +154,7 @@ NODE_PREREQUISITES = [
 KNOWLEDGE_REFERENCES = [
     {"node_id": "hco-005", "book": "肘井の読解のための英文法", "section_id": "Hij_18", "pages": "p.126-129"},
     {"node_id": "hco-006", "book": "肘井の読解のための英文法", "section_id": "Hij_19", "pages": "p.129-135"},
+    {"node_id": "hco-012", "book": "肘井の読解のための英文法", "section_id": "Hij_19", "pages": "p.129-135"},
     {"node_id": "hco-007", "book": "肘井の読解のための英文法", "section_id": "Hij_20", "pages": "p.136-141"},
     {"node_id": "hco-008", "book": "肘井の読解のための英文法", "section_id": "Hij_21_1", "pages": "p.141-147"},
     {"node_id": "hco-009", "book": "肘井の読解のための英文法", "section_id": "Hij_21_2", "pages": "p.148-151"},
@@ -209,6 +225,7 @@ SECTION_PREREQUISITES = [
 SECTION_KNOWLEDGE_NODES = [
     {"section_id": "Hij_18", "node_id": "hco-005", "seq": 1},
     {"section_id": "Hij_19", "node_id": "hco-006", "seq": 1},
+    {"section_id": "Hij_19", "node_id": "hco-012", "seq": 2},
     {"section_id": "Hij_20", "node_id": "hco-007", "seq": 1},
     {"section_id": "Hij_21_1", "node_id": "hco-008", "seq": 1},
     {"section_id": "Hij_21_2", "node_id": "hco-009", "seq": 1},
@@ -1130,19 +1147,19 @@ SENTENCE_KNOWLEDGE_TAGS = [
     # --- Hij_18 発展問題 ---
     {"sentence_id": "hij-18-a1-01", "node_id": "hco-005"},
     # --- Hij_19 例題 ---
-    {"sentence_id": "hij-19-e1-01", "node_id": "hco-006"},
-    {"sentence_id": "hij-19-e1-02", "node_id": "hco-006"},
-    {"sentence_id": "hij-19-e1-03", "node_id": "hco-006"},
-    {"sentence_id": "hij-19-e1-04", "node_id": "hco-006"},
-    {"sentence_id": "hij-19-e1-05", "node_id": "hco-006"},
+    {"sentence_id": "hij-19-e1-01", "node_id": "hco-006"},   # SVOC: saw her mother enter
+    {"sentence_id": "hij-19-e1-02", "node_id": "hco-012"},   # for us to understand
+    {"sentence_id": "hij-19-e1-03", "node_id": "hco-012"},   # His getting up (所有格+動名詞)
+    {"sentence_id": "hij-19-e1-04", "node_id": "hco-012"},   # The building being (独立分詞構文)
+    {"sentence_id": "hij-19-e1-05", "node_id": "hco-012"},   # with him standing (付帯状況with)
     # --- Hij_19 確認問題 ---
-    {"sentence_id": "hij-19-c1-01", "node_id": "hco-006"},
-    {"sentence_id": "hij-19-c1-02", "node_id": "hco-006"},
-    {"sentence_id": "hij-19-c1-03", "node_id": "hco-006"},
-    {"sentence_id": "hij-19-c1-04", "node_id": "hco-006"},
-    {"sentence_id": "hij-19-c1-05", "node_id": "hco-006"},
+    {"sentence_id": "hij-19-c1-01", "node_id": "hco-006"},   # SVOC: heard him speak
+    {"sentence_id": "hij-19-c1-02", "node_id": "hco-012"},   # It being a fine day (独立分詞構文)
+    {"sentence_id": "hij-19-c1-03", "node_id": "hco-012"},   # for us to follow
+    {"sentence_id": "hij-19-c1-04", "node_id": "hco-012"},   # my family being rich (所有格+動名詞)
+    {"sentence_id": "hij-19-c1-05", "node_id": "hco-012"},   # with her watching (付帯状況with)
     # --- Hij_19 発展問題 ---
-    {"sentence_id": "hij-19-a1-01", "node_id": "hco-006"},
+    {"sentence_id": "hij-19-a1-01", "node_id": "hco-006"},   # SVOC: makes it easy (+ for us to see)
     # --- Hij_20 例題 ---
     {"sentence_id": "hij-20-e1-01", "node_id": "hco-007"},
     {"sentence_id": "hij-20-e1-02", "node_id": "hco-007"},

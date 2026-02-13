@@ -7,10 +7,17 @@
 KNOWLEDGE_NODES = [
     {
         "id": "hch-003",
-        "name": "形容詞句（前置詞・不定詞・分詞による後置修飾）",
+        "name": "形容詞句（前置詞句・分詞による後置修飾）",
         "category": "意味のカタマリ",
         "priority": "P1",
-        "notes": "2語以上からなるSVのない形容詞のカタマリ（形容詞句）が前の名詞を修飾するパターン。(1)前置詞句の後置修飾、(2)不定詞の形容詞的用法（名詞とSV・VO・同格の3関係）、(3)分詞の形容詞用法（現在分詞「～している」/過去分詞「～された」）の3パターン。「句のなかにSVは入らない」を根拠にカタマリの範囲を確定する。",
+        "notes": "2語以上からなるSVのない形容詞のカタマリ（形容詞句）が前の名詞を修飾するパターン。(1)前置詞句の後置修飾、(2)分詞の形容詞用法（現在分詞「～している」/過去分詞「～された」）の2パターン。「句のなかにSVは入らない」を根拠にカタマリの範囲を確定する。",
+    },
+    {
+        "id": "hch-010",
+        "name": "形容詞句（不定詞の形容詞的用法）",
+        "category": "意味のカタマリ",
+        "priority": "P1",
+        "notes": "不定詞の形容詞的用法（to do）が形容詞句をつくり、前の名詞を修飾するパターン。修飾する名詞とto doの間にSV・VO・同格の3つの関係がある。SV関係:名詞がto doの主語、VO関係:名詞がto doの目的語、同格関係:名詞=to doの内容。",
     },
     {
         "id": "hch-004",
@@ -27,11 +34,14 @@ KNOWLEDGE_NODES = [
 
 UNDERSTANDING_GOALS = [
     # hch-003
-    {"node_id": "hch-003", "seq": 1, "goal": "形容詞句の3パターン（前置詞句・不定詞の形容詞的用法・分詞の形容詞用法）を列挙できる"},
+    {"node_id": "hch-003", "seq": 1, "goal": "形容詞句の2パターン（前置詞句・分詞の形容詞用法）を列挙できる"},
     {"node_id": "hch-003", "seq": 2, "goal": "「句のなかにSVは入らない」を根拠に形容詞句の範囲を確定できる"},
-    {"node_id": "hch-003", "seq": 3, "goal": "不定詞の形容詞的用法で、修飾する名詞とto doの間にSV・VO・同格の3つの関係があることを説明できる"},
-    {"node_id": "hch-003", "seq": 4, "goal": "現在分詞（～している/能動）と過去分詞（～された/受動）が形容詞句をつくって前の名詞を修飾するパターンを識別できる"},
-    {"node_id": "hch-003", "seq": 5, "goal": "形容詞句の範囲を（ ）で括り、修飾先の名詞を特定できる"},
+    {"node_id": "hch-003", "seq": 3, "goal": "現在分詞（～している/能動）と過去分詞（～された/受動）が形容詞句をつくって前の名詞を修飾するパターンを識別できる"},
+    {"node_id": "hch-003", "seq": 4, "goal": "形容詞句の範囲を（ ）で括り、修飾先の名詞を特定できる"},
+    # hch-010
+    {"node_id": "hch-010", "seq": 1, "goal": "不定詞の形容詞的用法が前の名詞を修飾する形容詞句をつくることを説明できる"},
+    {"node_id": "hch-010", "seq": 2, "goal": "修飾する名詞とto doの間にSV・VO・同格の3つの関係があることを説明し、判定できる"},
+    {"node_id": "hch-010", "seq": 3, "goal": "不定詞の形容詞的用法の句の範囲を確定し、修飾先の名詞を特定できる"},
     # hch-004
     {"node_id": "hch-004", "seq": 1, "goal": "形容詞節の3パターン（関係代名詞・前置詞+関係代名詞・関係副詞）を列挙できる"},
     {"node_id": "hch-004", "seq": 2, "goal": "「1つの節にSVは1つ」を根拠に、2個目の動詞の手前で形容詞節の範囲を確定できる"},
@@ -46,10 +56,13 @@ UNDERSTANDING_GOALS = [
 
 CHECK_POINTS = [
     # hch-003
-    {"node_id": "hch-003", "seq": 1, "question": "形容詞句の3パターンは何か？", "answer": "(1)前置詞句の後置修飾、(2)不定詞の形容詞的用法、(3)分詞の形容詞用法（現在分詞・過去分詞）。"},
+    {"node_id": "hch-003", "seq": 1, "question": "形容詞句の2パターン（前置詞句・分詞）は何か？", "answer": "(1)前置詞句の後置修飾、(2)分詞の形容詞用法（現在分詞「～している」・過去分詞「～された」）。"},
     {"node_id": "hch-003", "seq": 2, "question": "形容詞句の範囲を確定する根拠は？", "answer": "「句のなかにSVは入らない」こと。動詞の手前で形容詞句が終わる。"},
-    {"node_id": "hch-003", "seq": 3, "question": "不定詞の形容詞的用法で、修飾する名詞とto doの関係は何通りあるか？", "answer": "3通り。(1)SV関係、(2)VO関係、(3)同格関係。"},
-    {"node_id": "hch-003", "seq": 4, "question": "現在分詞と過去分詞の形容詞用法の意味の違いは？", "answer": "現在分詞は「～している」（能動）、過去分詞は「～された」（受動）。"},
+    {"node_id": "hch-003", "seq": 3, "question": "現在分詞と過去分詞の形容詞用法の意味の違いは？", "answer": "現在分詞は「～している」（能動）、過去分詞は「～された」（受動）。"},
+    # hch-010
+    {"node_id": "hch-010", "seq": 1, "question": "不定詞の形容詞的用法で、修飾する名詞とto doの関係は何通りあるか？", "answer": "3通り。(1)SV関係（名詞がto doの主語）、(2)VO関係（名詞がto doの目的語）、(3)同格関係（名詞=to doの内容）。"},
+    {"node_id": "hch-010", "seq": 2, "question": "I have no friends to talk to in English. のto talk toとno friendsの関係は？", "answer": "VO関係。talk toの目的語がno friends。"},
+    {"node_id": "hch-010", "seq": 3, "question": "His ambition to become a lawyer のto becomeとambitionの関係は？", "answer": "同格関係。ambition = to become a lawyer。"},
     # hch-004
     {"node_id": "hch-004", "seq": 1, "question": "形容詞節の3パターンは何か？", "answer": "(1)関係代名詞、(2)前置詞+関係代名詞、(3)関係副詞。"},
     {"node_id": "hch-004", "seq": 2, "question": "形容詞節の範囲を確定する根拠は？", "answer": "「1つの節にSVは1つ」なので、2個目の動詞の手前で形容詞節が終わる。"},
@@ -63,6 +76,7 @@ CHECK_POINTS = [
 
 NODE_PREREQUISITES = [
     {"node_id": "hch-004", "prerequisite_id": "hch-003"},
+    {"node_id": "hch-004", "prerequisite_id": "hch-010"},
 ]
 
 # ============================================================
@@ -71,6 +85,7 @@ NODE_PREREQUISITES = [
 
 KNOWLEDGE_REFERENCES = [
     {"node_id": "hch-003", "book": "肘井の読解のための英文法", "section_id": "Hij_04", "pages": "p.38-43"},
+    {"node_id": "hch-010", "book": "肘井の読解のための英文法", "section_id": "Hij_04", "pages": "p.39-43"},
     {"node_id": "hch-004", "book": "肘井の読解のための英文法", "section_id": "Hij_05", "pages": "p.44-47"},
 ]
 
@@ -109,6 +124,7 @@ SECTION_PREREQUISITES = [
 
 SECTION_KNOWLEDGE_NODES = [
     {"section_id": "Hij_04", "node_id": "hch-003", "seq": 1},
+    {"section_id": "Hij_04", "node_id": "hch-010", "seq": 2},
     {"section_id": "Hij_05", "node_id": "hch-004", "seq": 1},
 ]
 
@@ -451,21 +467,23 @@ SENTENCE_STRUCTURES = [
 # ============================================================
 
 SENTENCE_KNOWLEDGE_TAGS = [
-    # --- Hij_04 例題 ---
+    # --- Hij_04 例題（前置詞句 → hch-003） ---
     {"sentence_id": "hij-04-e1-01", "node_id": "hch-003"},
-    {"sentence_id": "hij-04-e1-02", "node_id": "hch-003"},
-    {"sentence_id": "hij-04-e1-03", "node_id": "hch-003"},
-    {"sentence_id": "hij-04-e1-04", "node_id": "hch-003"},
+    # --- Hij_04 例題（不定詞の形容詞的用法 → hch-010） ---
+    {"sentence_id": "hij-04-e1-02", "node_id": "hch-010"},
+    {"sentence_id": "hij-04-e1-03", "node_id": "hch-010"},
+    {"sentence_id": "hij-04-e1-04", "node_id": "hch-010"},
+    # --- Hij_04 例題（分詞 → hch-003） ---
     {"sentence_id": "hij-04-e1-05", "node_id": "hch-003"},
     {"sentence_id": "hij-04-e1-06", "node_id": "hch-003"},
-    # --- Hij_04 ポイント9 例文 ---
-    {"sentence_id": "hij-04-e1-07", "node_id": "hch-003"},
-    {"sentence_id": "hij-04-e1-08", "node_id": "hch-003"},
-    {"sentence_id": "hij-04-e1-09", "node_id": "hch-003"},
+    # --- Hij_04 ポイント9 例文（不定詞の形容詞的用法 → hch-010） ---
+    {"sentence_id": "hij-04-e1-07", "node_id": "hch-010"},
+    {"sentence_id": "hij-04-e1-08", "node_id": "hch-010"},
+    {"sentence_id": "hij-04-e1-09", "node_id": "hch-010"},
     # --- Hij_04 確認問題 ---
     {"sentence_id": "hij-04-c1-01", "node_id": "hch-003"},
     {"sentence_id": "hij-04-c1-02", "node_id": "hch-003"},
-    {"sentence_id": "hij-04-c1-03", "node_id": "hch-003"},
+    {"sentence_id": "hij-04-c1-03", "node_id": "hch-010"},
     {"sentence_id": "hij-04-c1-04", "node_id": "hch-003"},
     # --- Hij_04 発展問題 ---
     {"sentence_id": "hij-04-a1-01", "node_id": "hch-003"},

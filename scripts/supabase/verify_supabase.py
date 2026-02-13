@@ -62,9 +62,9 @@ def main():
 
     print()
 
-    # Expected counts (はじめ84+肘井39=123 nodes, はじめ524+肘井405=929 sentences)
+    # Expected counts (はじめ84+肘井49=133 nodes, はじめ524+肘井405=929 sentences)
     expected = {
-        "knowledge_nodes": 123,
+        "knowledge_nodes": 133,
         "sentences": 929,
     }
 

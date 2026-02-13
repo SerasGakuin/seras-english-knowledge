@@ -14,10 +14,17 @@ KNOWLEDGE_NODES = [
     },
     {
         "id": "hco-002",
-        "name": "倒置（文型倒置・強制倒置・nor/soの倒置・仮定法if節の倒置）",
+        "name": "倒置（文型倒置・強制倒置）",
         "category": "構文",
         "priority": "P1",
-        "notes": "倒置には大きく分けて文型倒置と強制倒置がある。文型倒置は第1文型(SVM)をMVS、第2文型(SVC)をCVSにしたもの。There be～構文もMVSの一種。強制倒置は否定の副詞(little/never/only等)が文頭に出てうしろが疑問文の語順になるもの。nor/soのうしろも疑問文の語順になる。仮定法のif節ではifを省略して疑問文の語順にする倒置もある(Were I~/Had I~/Should you~)。",
+        "notes": "倒置には大きく分けて文型倒置と強制倒置がある。文型倒置は第1文型(SVM)をMVS、第2文型(SVC)をCVSにしたもの。There be～構文もMVSの一種。強制倒置は否定の副詞(little/never/only等)が文頭に出てうしろが疑問文の語順になるもの。",
+    },
+    {
+        "id": "hco-011",
+        "name": "倒置（nor/soの倒置・仮定法if節の倒置）",
+        "category": "構文",
+        "priority": "P1",
+        "notes": "nor/soのうしろが疑問文の語順になる倒置と、仮定法if節の倒置。否定文を受けてnor+疑問文の語順で「…もまた～ない」、肯定文を受けてso+疑問文の語順で「…もまた～だ」。仮定法のif節ではifを省略して疑問文の語順にする(Were I~/Had I~/Should you~)。As S1V1, so+倒置の比例表現もある。",
     },
     {
         "id": "hco-003",
@@ -45,12 +52,14 @@ UNDERSTANDING_GOALS = [
     {"node_id": "hco-001", "seq": 2, "goal": "3つ以上の並列が A, B(,) and[or] C の形になることを理解し、並列要素を正確に特定できる"},
     {"node_id": "hco-001", "seq": 3, "goal": "andが文中の複数の箇所に現れるとき、それぞれのandが何と何をつないでいるか識別できる"},
     {"node_id": "hco-001", "seq": 4, "goal": "that節・関係代名詞節・-ing形・前置詞句など、多様な形の並列構造を正確に把握できる"},
-    # hco-002: 倒置
+    # hco-002: 倒置（文型倒置・強制倒置）
     {"node_id": "hco-002", "seq": 1, "goal": "第1文型の倒置(MVS)をThere be～構文を含めて識別し、SVを正確に特定できる"},
     {"node_id": "hco-002", "seq": 2, "goal": "第2文型の倒置(CVS)を識別し、文頭の形容詞が補語であることを見抜ける"},
     {"node_id": "hco-002", "seq": 3, "goal": "否定の副詞(little/never/only等)が文頭に出たら強制倒置と判断し、疑問文の語順からSVを特定できる"},
-    {"node_id": "hco-002", "seq": 4, "goal": "nor/soのうしろが疑問文の語順になる倒置を識別できる"},
-    {"node_id": "hco-002", "seq": 5, "goal": "仮定法if節の倒置(Were I~/Had I~/Should you~)を見抜き、ifが省略されていることを復元できる"},
+    # hco-011: 倒置（nor/soの倒置・仮定法if節の倒置）
+    {"node_id": "hco-011", "seq": 1, "goal": "nor/soのうしろが疑問文の語順になる倒置を識別できる"},
+    {"node_id": "hco-011", "seq": 2, "goal": "仮定法if節の倒置(Were I~/Had I~/Should you~)を見抜き、ifが省略されていることを復元できる"},
+    {"node_id": "hco-011", "seq": 3, "goal": "As S1V1, so+疑問文の語順 の比例のas＋so倒置を識別できる"},
     # hco-003: 省略
     {"node_id": "hco-003", "seq": 1, "goal": "接続詞のうしろで主節と同じS+be動詞が省略されていることを見抜ける"},
     {"node_id": "hco-003", "seq": 2, "goal": "比較表現(as~as/than)のうしろで前出の形容詞・副詞が省略されていることを補える"},
@@ -72,11 +81,14 @@ CHECK_POINTS = [
     {"node_id": "hco-001", "seq": 1, "question": "等位接続詞(and/but/or)を見たとき、並列構造を把握する手順は？", "answer": "接続詞のうしろの形を確認し、前で同じ形を探す。"},
     {"node_id": "hco-001", "seq": 2, "question": "3つ以上の並列はどのような形でつなぐか？", "answer": "A, B(,) and[or] C の形。最後の接続詞以外はカンマで代用する。"},
     {"node_id": "hco-001", "seq": 3, "question": "She said that it was my mistake and that I must not do it again. のandは何をつないでいるか？", "answer": "She saidの目的語であるthat節同士をつないでいる。that it was my mistakeとthat I must not do it againの並列。"},
-    # hco-002: 倒置
+    # hco-002: 倒置（文型倒置・強制倒置）
     {"node_id": "hco-002", "seq": 1, "question": "文型倒置の2つの型は？", "answer": "第1文型の倒置MVS(例: There be～、場所の副詞+V+S)と、第2文型の倒置CVS(例: More important is the experience)。"},
     {"node_id": "hco-002", "seq": 2, "question": "強制倒置が起きる条件は？", "answer": "否定の副詞(little/never/only等)が文頭に出ると、うしろが疑問文の語順になる。"},
-    {"node_id": "hco-002", "seq": 3, "question": "仮定法if節の倒置の手順は？", "answer": "ifを省略し、うしろを疑問文の語順にする。Were I～(=If I were～)、Had I～(=If I had～)、Should you～(=If you should～)。"},
-    {"node_id": "hco-002", "seq": 4, "question": "nor/soの倒置のルールは？", "answer": "否定文を受けてnorのうしろが疑問文の語順「…もまた～ない」。肯定文を受けてsoのうしろが疑問文の語順「…もまた～だ」。"},
+    {"node_id": "hco-002", "seq": 3, "question": "There was a low wall between our garden and the field. の文型は？", "answer": "第1文型の倒置(MVS)。There(M) was(V) a low wall(S)。Thereは副詞で、実際の主語はa low wallである。"},
+    # hco-011: 倒置（nor/soの倒置・仮定法if節の倒置）
+    {"node_id": "hco-011", "seq": 1, "question": "nor/soの倒置のルールは？", "answer": "否定文を受けてnorのうしろが疑問文の語順「…もまた～ない」。肯定文を受けてsoのうしろが疑問文の語順「…もまた～だ」。"},
+    {"node_id": "hco-011", "seq": 2, "question": "仮定法if節の倒置の手順は？", "answer": "ifを省略し、うしろを疑問文の語順にする。Were I～(=If I were～)、Had I～(=If I had～)、Should you～(=If you should～)。"},
+    {"node_id": "hco-011", "seq": 3, "question": "Were I in your position, I would not do that. のifを復元すると？", "answer": "If I were in your position, I would not do that. Were I~はIf I were~の仮定法倒置。"},
     # hco-003: 省略
     {"node_id": "hco-003", "seq": 1, "question": "接続詞のうしろのSVの省略が起きる条件は？", "answer": "主節と同じ主語で、動詞がbe動詞のとき。When young = When I was young。"},
     {"node_id": "hco-003", "seq": 2, "question": "比較の省略とはどのような省略か？", "answer": "比較のas~as.../than...のうしろで、前出の形容詞・副詞が省略される。as he used to be (energetic)のように比較の判断内容が省略される。"},
@@ -94,6 +106,7 @@ CHECK_POINTS = [
 NODE_PREREQUISITES = [
     {"node_id": "hco-001", "prerequisite_id": "hsv-000"},
     {"node_id": "hco-002", "prerequisite_id": "hco-001"},
+    {"node_id": "hco-011", "prerequisite_id": "hco-002"},
     {"node_id": "hco-003", "prerequisite_id": "hco-002"},
     {"node_id": "hco-004", "prerequisite_id": "hid-004"},
 ]
@@ -104,7 +117,8 @@ NODE_PREREQUISITES = [
 
 KNOWLEDGE_REFERENCES = [
     {"node_id": "hco-001", "book": "肘井の読解のための英文法", "section_id": "Hij_14", "pages": "p.106-109"},
-    {"node_id": "hco-002", "book": "肘井の読解のための英文法", "section_id": "Hij_15_1", "pages": "p.110-117"},
+    {"node_id": "hco-002", "book": "肘井の読解のための英文法", "section_id": "Hij_15_1", "pages": "p.110-113"},
+    {"node_id": "hco-011", "book": "肘井の読解のための英文法", "section_id": "Hij_15_2", "pages": "p.114-117"},
     {"node_id": "hco-003", "book": "肘井の読解のための英文法", "section_id": "Hij_16", "pages": "p.118-121"},
     {"node_id": "hco-004", "book": "肘井の読解のための英文法", "section_id": "Hij_17", "pages": "p.122-125"},
 ]
@@ -170,7 +184,7 @@ SECTION_PREREQUISITES = [
 SECTION_KNOWLEDGE_NODES = [
     {"section_id": "Hij_14", "node_id": "hco-001", "seq": 1},
     {"section_id": "Hij_15_1", "node_id": "hco-002", "seq": 1},
-    {"section_id": "Hij_15_2", "node_id": "hco-002", "seq": 1},
+    {"section_id": "Hij_15_2", "node_id": "hco-011", "seq": 1},
     {"section_id": "Hij_16", "node_id": "hco-003", "seq": 1},
     {"section_id": "Hij_17", "node_id": "hco-004", "seq": 1},
 ]
@@ -919,17 +933,17 @@ SENTENCE_KNOWLEDGE_TAGS = [
     # --- Hij_15_1 発展問題 ---
     {"sentence_id": "hij-15_1-a1-01", "node_id": "hco-002"},
     # --- Hij_15_2 例題 ---
-    {"sentence_id": "hij-15_2-e1-01", "node_id": "hco-002"},
-    {"sentence_id": "hij-15_2-e1-02", "node_id": "hco-002"},
-    {"sentence_id": "hij-15_2-e1-03", "node_id": "hco-002"},
-    {"sentence_id": "hij-15_2-e1-04", "node_id": "hco-002"},
-    {"sentence_id": "hij-15_2-e1-05", "node_id": "hco-002"},
+    {"sentence_id": "hij-15_2-e1-01", "node_id": "hco-011"},
+    {"sentence_id": "hij-15_2-e1-02", "node_id": "hco-011"},
+    {"sentence_id": "hij-15_2-e1-03", "node_id": "hco-011"},
+    {"sentence_id": "hij-15_2-e1-04", "node_id": "hco-011"},
+    {"sentence_id": "hij-15_2-e1-05", "node_id": "hco-011"},
     # --- Hij_15_2 確認問題 ---
-    {"sentence_id": "hij-15_2-c1-01", "node_id": "hco-002"},
-    {"sentence_id": "hij-15_2-c1-02", "node_id": "hco-002"},
-    {"sentence_id": "hij-15_2-c1-03", "node_id": "hco-002"},
+    {"sentence_id": "hij-15_2-c1-01", "node_id": "hco-011"},
+    {"sentence_id": "hij-15_2-c1-02", "node_id": "hco-011"},
+    {"sentence_id": "hij-15_2-c1-03", "node_id": "hco-011"},
     # --- Hij_15_2 発展問題 ---
-    {"sentence_id": "hij-15_2-a1-01", "node_id": "hco-002"},
+    {"sentence_id": "hij-15_2-a1-01", "node_id": "hco-011"},
     # --- Hij_16 例題 ---
     {"sentence_id": "hij-16-e1-01", "node_id": "hco-003"},
     {"sentence_id": "hij-16-e1-02", "node_id": "hco-003"},

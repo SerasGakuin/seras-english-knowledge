@@ -50,8 +50,8 @@ seras-english-knowledge/
 - **DB**: Supabase (PostgreSQL, Tokyo リージョン)
 - **テーブル数**: 12（11既存 + cross_book_links）
 - **データ量（はじめの英文読解ドリル）**: 84ノード、524英文、41セクション
-- **データ量（肘井の読解のための英文法）**: 39ノード、405英文、39セクション
-- **参考書間リンク**: 17件
+- **データ量（肘井の読解のための英文法）**: 49ノード、405英文、39セクション
+- **参考書間リンク**: 25件
 - **接続**: postgrest-py（REST API経由）
 - **DDL実行**: Supabase CLI マイグレーション（`supabase db push`）
 - **環境変数**: `SUPABASE_URL`, `SUPABASE_KEY`, `DATA_STORE_TYPE=supabase`
@@ -60,7 +60,7 @@ seras-english-knowledge/
 ## 現在のフェーズ
 
 > Phase A〜E + D + F-1 完了。**実運用開始（2026-02-13）**。Cloud Run + GAS統合でスプレッドシートからPDF生成可能。
-> Phase F-1: 肘井の読解のための英文法 構造化完了（39ノード・405英文・17参考書間リンク）。
+> Phase F-1: 肘井の読解のための英文法 構造化完了（49ノード・405英文・25参考書間リンク）。
 > 詳細は [ROADMAP.md](docs/ROADMAP.md) を参照。
 
 ## 複数参考書の構造化方針

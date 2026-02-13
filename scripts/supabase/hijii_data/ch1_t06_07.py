@@ -7,10 +7,17 @@
 KNOWLEDGE_NODES = [
     {
         "id": "hch-005",
-        "name": "副詞句（前置詞句・不定詞・分詞構文による修飾）",
+        "name": "副詞句（前置詞句・時の副詞句・不定詞の副詞的用法）",
         "category": "意味のカタマリ",
         "priority": "P1",
-        "notes": "副詞句の4パターン: (1)前置詞の副詞句 — 文頭・文尾で動詞を修飾、(2)時の副詞句 — 文頭・文尾で動詞を修飾、(3)不定詞の副詞的用法 — 動詞と目的・手段の関係、(4)分詞構文 — 文頭・文中・文尾で動詞を修飾。副詞句は2語以上からなる副詞のカタマリで、SVの前やうしろでVを修飾する。句のなかにSVは入らないことを根拠に範囲を確定する。文頭の分詞構文は時「〜して（すると）」か理由「〜なので」、文尾の分詞構文は「そして〜」「〜しながら」と訳す。",
+        "notes": "副詞句の3パターン: (1)前置詞の副詞句 — 文頭・文尾で動詞を修飾、(2)時の副詞句 — 文頭・文尾で動詞を修飾、(3)不定詞の副詞的用法 — 動詞と目的・手段の関係。副詞句は2語以上からなる副詞のカタマリで、SVの前やうしろでVを修飾する。句のなかにSVは入らないことを根拠に範囲を確定する。",
+    },
+    {
+        "id": "hch-012",
+        "name": "副詞句（分詞構文）",
+        "category": "意味のカタマリ",
+        "priority": "P1",
+        "notes": "分詞構文が文頭・文中・文尾で副詞句をつくり、動詞を修飾するパターン。文頭の分詞構文（-ing/p.p.〜, SV.）は時「〜して（すると）」か理由「〜なので」と訳す。文尾の分詞構文（SV〜, -ing.）は「そして〜」「〜しながら」と訳す。現在分詞(-ing)と過去分詞(p.p.)の両方が分詞構文をつくる。",
     },
     {
         "id": "hch-006",
@@ -37,8 +44,11 @@ UNDERSTANDING_GOALS = [
     {"node_id": "hch-005", "seq": 1, "goal": "前置詞が文頭・文尾で副詞句をつくり、動詞を修飾するパターンを認識できる"},
     {"node_id": "hch-005", "seq": 2, "goal": "時の副詞句（Last summer等）が文頭・文尾でVを修飾するパターンを認識できる"},
     {"node_id": "hch-005", "seq": 3, "goal": "不定詞の副詞的用法が動詞と目的・手段の関係にあることを説明できる"},
-    {"node_id": "hch-005", "seq": 4, "goal": "分詞構文が文頭・文中・文尾で副詞句をつくること、文頭は時/理由、文尾は「そして〜」「〜しながら」と訳すことを説明できる"},
-    {"node_id": "hch-005", "seq": 5, "goal": "「句のなかにSVは入らない」ことを根拠に副詞句の範囲を確定できる"},
+    {"node_id": "hch-005", "seq": 4, "goal": "「句のなかにSVは入らない」ことを根拠に副詞句の範囲を確定できる"},
+    # hch-012
+    {"node_id": "hch-012", "seq": 1, "goal": "分詞構文が副詞句をつくり、文頭・文中・文尾で動詞を修飾することを説明できる"},
+    {"node_id": "hch-012", "seq": 2, "goal": "文頭の分詞構文（-ing/p.p.〜, SV.）を時「〜して（すると）」か理由「〜なので」と訳し分けられる"},
+    {"node_id": "hch-012", "seq": 3, "goal": "文尾の分詞構文（SV〜, -ing.）を「そして〜」「〜しながら」と訳せる"},
     # hch-006
     {"node_id": "hch-006", "seq": 1, "goal": "接続詞が文頭で副詞節をつくり、カンマまでの範囲でVを修飾するパターンを認識できる"},
     {"node_id": "hch-006", "seq": 2, "goal": "接続詞が文尾で副詞節をつくり、Vを修飾するパターンを認識できる"},
@@ -58,10 +68,13 @@ UNDERSTANDING_GOALS = [
 
 CHECK_POINTS = [
     # hch-005
-    {"node_id": "hch-005", "seq": 1, "question": "副詞句の4パターンは何か？", "answer": "(1)前置詞の副詞句、(2)時の副詞句、(3)不定詞の副詞的用法、(4)分詞構文。いずれもSVの前やうしろでVを修飾する。"},
+    {"node_id": "hch-005", "seq": 1, "question": "副詞句の3パターン（前置詞句・時の副詞句・不定詞の副詞的用法）は何か？", "answer": "(1)前置詞の副詞句、(2)時の副詞句、(3)不定詞の副詞的用法。いずれもSVの前やうしろでVを修飾する。"},
     {"node_id": "hch-005", "seq": 2, "question": "不定詞の副詞的用法は動詞とどのような関係にあるか？", "answer": "目的と手段の関係。to不定詞が「〜するために」という目的を、修飾される動詞が手段を表す。"},
-    {"node_id": "hch-005", "seq": 3, "question": "文頭の分詞構文（-ing/p.p. 〜, SV.）はどのように訳すか？", "answer": "時「〜して（すると）」か、理由「〜なので」と訳す。"},
-    {"node_id": "hch-005", "seq": 4, "question": "文尾の分詞構文（SV〜, -ing.）はどのように訳すか？", "answer": "「そして〜」または「〜しながら」と訳す。"},
+    {"node_id": "hch-005", "seq": 3, "question": "時の副詞句の例を2つ挙げよ。", "answer": "Last summer「昨年の夏」、Next month「来月」など、時を示す語句が文頭・文尾でVを修飾する。"},
+    # hch-012
+    {"node_id": "hch-012", "seq": 1, "question": "文頭の分詞構文（-ing/p.p. 〜, SV.）はどのように訳すか？", "answer": "時「〜して（すると）」か、理由「〜なので」と訳す。"},
+    {"node_id": "hch-012", "seq": 2, "question": "文尾の分詞構文（SV〜, -ing.）はどのように訳すか？", "answer": "「そして〜」または「〜しながら」と訳す。"},
+    {"node_id": "hch-012", "seq": 3, "question": "Seen from a distance, the hill looks like a man's face. のSeen from a distanceは何か？", "answer": "分詞構文。過去分詞で始まる文頭の分詞構文。「遠くから見ると」と訳す。"},
     # hch-006
     {"node_id": "hch-006", "seq": 1, "question": "副詞節と副詞句の違いは何か？", "answer": "副詞節は接続詞がつくるSVのある副詞のカタマリ、副詞句はSVのない副詞のカタマリ。"},
     {"node_id": "hch-006", "seq": 2, "question": "譲歩の接続詞を3つ挙げよ。", "answer": "although（though）、while、whether〜or not。"},
@@ -80,6 +93,7 @@ CHECK_POINTS = [
 
 NODE_PREREQUISITES = [
     {"node_id": "hch-005", "prerequisite_id": "hsv-000"},
+    {"node_id": "hch-012", "prerequisite_id": "hsv-000"},
     {"node_id": "hch-006", "prerequisite_id": "hch-005"},
     {"node_id": "hch-007", "prerequisite_id": "hch-006"},
 ]
@@ -90,6 +104,7 @@ NODE_PREREQUISITES = [
 
 KNOWLEDGE_REFERENCES = [
     {"node_id": "hch-005", "book": "肘井の読解のための英文法", "section_id": "Hij_06", "pages": "p.48-51"},
+    {"node_id": "hch-012", "book": "肘井の読解のための英文法", "section_id": "Hij_06", "pages": "p.49-51"},
     {"node_id": "hch-006", "book": "肘井の読解のための英文法", "section_id": "Hij_07_1", "pages": "p.52-57"},
     {"node_id": "hch-007", "book": "肘井の読解のための英文法", "section_id": "Hij_07_2", "pages": "p.58-62"},
 ]
@@ -138,6 +153,7 @@ SECTION_PREREQUISITES = [
 
 SECTION_KNOWLEDGE_NODES = [
     {"section_id": "Hij_06", "node_id": "hch-005", "seq": 1},
+    {"section_id": "Hij_06", "node_id": "hch-012", "seq": 2},
     {"section_id": "Hij_07_1", "node_id": "hch-006", "seq": 1},
     {"section_id": "Hij_07_2", "node_id": "hch-007", "seq": 1},
 ]
@@ -648,17 +664,18 @@ SENTENCE_STRUCTURES = [
 # ============================================================
 
 SENTENCE_KNOWLEDGE_TAGS = [
-    # --- Hij_06 例題 ---
+    # --- Hij_06 例題（前置詞句・時の副詞句・不定詞 → hch-005） ---
     {"sentence_id": "hij-06-e1-01", "node_id": "hch-005"},
     {"sentence_id": "hij-06-e1-02", "node_id": "hch-005"},
     {"sentence_id": "hij-06-e1-03", "node_id": "hch-005"},
-    {"sentence_id": "hij-06-e1-04", "node_id": "hch-005"},
-    {"sentence_id": "hij-06-e1-05", "node_id": "hch-005"},
+    # --- Hij_06 例題（分詞構文 → hch-012） ---
+    {"sentence_id": "hij-06-e1-04", "node_id": "hch-012"},
+    {"sentence_id": "hij-06-e1-05", "node_id": "hch-012"},
     # --- Hij_06 確認問題 ---
     {"sentence_id": "hij-06-c1-01", "node_id": "hch-005"},
     {"sentence_id": "hij-06-c1-02", "node_id": "hch-005"},
     {"sentence_id": "hij-06-c1-03", "node_id": "hch-005"},
-    {"sentence_id": "hij-06-c1-04", "node_id": "hch-005"},
+    {"sentence_id": "hij-06-c1-04", "node_id": "hch-012"},
     # --- Hij_06 発展問題 ---
     {"sentence_id": "hij-06-a1-01", "node_id": "hch-005"},
     # --- Hij_07_1 例題 ---

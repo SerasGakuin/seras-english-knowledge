@@ -7,10 +7,17 @@
 KNOWLEDGE_NODES = [
     {
         "id": "hid-004",
-        "name": "thatの識別（名詞節・関係代名詞・同格・副詞節用法）",
+        "name": "thatの識別（関係代名詞・同格・名詞節）",
         "category": "識別",
         "priority": "P1",
-        "notes": "thatの識別は大きく2段階。(A) that単体: うしろが不完全文（名詞が欠けている）なら関係代名詞で形容詞節、完全文なら接続詞。接続詞のthatは、名詞の中身を説明する同格のthat（the fact/news/idea/belief that～）と、文のS・O・Cをつくる名詞節のthat「～ということ」に分かれる。同格のthatと関係代名詞のthatはうしろの完全文・不完全文で識別する。(B) that＋α: so～that ...「とても～なので…」/ such～that ...「とても～なので…」/ so that S 助動詞「～するように」（目的・手段）/ ～, so that ...「その結果～」/ now that「いまや～なので」/ in that「～という点で」。soとthatの距離・カンマの有無で3パターンを識別する。",
+        "notes": "that単体の識別。thatのうしろが不完全文（名詞が欠けている）なら関係代名詞で形容詞節、完全文なら接続詞。接続詞のthatは、名詞の中身を説明する同格のthat（the fact/news/idea/belief that～）と、文のS・O・Cをつくる名詞節のthat「～ということ」に分かれる。同格のthatと関係代名詞のthatはうしろの完全文・不完全文で識別する。",
+    },
+    {
+        "id": "hid-009",
+        "name": "thatの識別（副詞節用法 that+α）",
+        "category": "識別",
+        "priority": "P1",
+        "notes": "that＋αの識別。so～that ...「とても～なので…」/ such～that ...「とても～なので…」/ so that S 助動詞「～するように」（目的）/ ～, so that ...「その結果～」（結果）/ now that「いまや～なので」/ in that「～という点で」。soとthatの距離・カンマの有無で3パターンを識別する。soとthatが離れれば因果（so～that）、くっついてカンマなしなら目的（so that S 助動詞）、くっついてカンマありなら結果（～, so that ...）。",
     },
     {
         "id": "hid-005",
@@ -33,12 +40,14 @@ KNOWLEDGE_NODES = [
 # ============================================================
 
 UNDERSTANDING_GOALS = [
-    # hid-004: thatの識別
+    # hid-004: thatの識別（関係代名詞・同格・名詞節）
     {"node_id": "hid-004", "seq": 1, "goal": "thatのうしろが不完全文（名詞が欠けている）なら関係代名詞、完全文なら接続詞と識別できる"},
     {"node_id": "hid-004", "seq": 2, "goal": "同格のthatと相性のよい名詞（fact, news, idea, belief）を知り、同格のthatを見抜ける"},
     {"node_id": "hid-004", "seq": 3, "goal": "名詞節のthat「～ということ」が文のS・O・Cになるパターンを識別できる"},
-    {"node_id": "hid-004", "seq": 4, "goal": "so～that / such～that / so that S助動詞 / ～, so that ... / now that / in that の副詞節用法を識別できる"},
-    {"node_id": "hid-004", "seq": 5, "goal": "soとthatの距離・カンマの有無で so thatの3パターン（因果・目的・結果）を正確に識別できる"},
+    # hid-009: thatの識別（副詞節用法 that+α）
+    {"node_id": "hid-009", "seq": 1, "goal": "so～that / such～that を見抜き「とても～なので…」と訳せる"},
+    {"node_id": "hid-009", "seq": 2, "goal": "soとthatの距離・カンマの有無で so thatの3パターン（因果・目的・結果）を正確に識別できる"},
+    {"node_id": "hid-009", "seq": 3, "goal": "now that「いまや～なので」、in that「～という点で」を識別できる"},
     # hid-005: itの識別
     {"node_id": "hid-005", "seq": 1, "goal": "形式主語のitを見抜き、うしろのthat節・不定詞・動名詞・疑問詞節が真の主語であると特定できる"},
     {"node_id": "hid-005", "seq": 2, "goal": "形式目的語のitが第5文型(SVOC)の目的語に使われるパターンを識別できる"},
@@ -54,11 +63,14 @@ UNDERSTANDING_GOALS = [
 # ============================================================
 
 CHECK_POINTS = [
-    # hid-004: thatの識別
+    # hid-004: thatの識別（関係代名詞・同格・名詞節）
     {"node_id": "hid-004", "seq": 1, "question": "thatが関係代名詞か接続詞かを見分ける方法は？", "answer": "thatのうしろが不完全文（名詞が欠けている）なら関係代名詞、完全文なら接続詞。"},
     {"node_id": "hid-004", "seq": 2, "question": "同格のthatと相性のよい名詞を4つ挙げよ。", "answer": "fact（事実）、news（知らせ）、idea（考え）、belief（信念）。"},
-    {"node_id": "hid-004", "seq": 3, "question": "so thatの3パターンを挙げよ。", "answer": "(1) so～that ...「とても～なので…」（soとthatが離れる）、(2) so that S 助動詞「Sが～するように」（くっつく＋カンマなし）、(3) ～, so that ...「その結果～」（くっつく＋カンマあり）。"},
-    {"node_id": "hid-004", "seq": 4, "question": "now thatとin thatの意味は？", "answer": "now that「いまや～なので」（因果関係）、in that「～という点で」（因果関係を表すこともある）。"},
+    {"node_id": "hid-004", "seq": 3, "question": "The probability is that the experiment will fail. のthatはどの用法か？", "answer": "名詞節のthat。that以下が文のC（補語）の位置で「～ということ」の意味。"},
+    # hid-009: thatの識別（副詞節用法 that+α）
+    {"node_id": "hid-009", "seq": 1, "question": "so thatの3パターンを挙げよ。", "answer": "(1) so～that ...「とても～なので…」（soとthatが離れる）、(2) so that S 助動詞「Sが～するように」（くっつく＋カンマなし）、(3) ～, so that ...「その結果～」（くっつく＋カンマあり）。"},
+    {"node_id": "hid-009", "seq": 2, "question": "now thatとin thatの意味は？", "answer": "now that「いまや～なので」（因果関係）、in that「～という点で」（因果関係を表すこともある）。"},
+    {"node_id": "hid-009", "seq": 3, "question": "such～thatとso～thatの違いは？", "answer": "suchは名詞を伴う（such a hard test that～）、soは形容詞・副詞を伴う（so small that～）。どちらも「とても～なので…」。"},
     # hid-005: itの識別
     {"node_id": "hid-005", "seq": 1, "question": "形式主語のitで代用するものを4つ挙げよ。", "answer": "that節、不定詞の名詞的用法、動名詞の名詞句、疑問詞の名詞節。"},
     {"node_id": "hid-005", "seq": 2, "question": "形式目的語のitはどの文型で使われるか？", "answer": "第5文型（SVOC）の目的語に使われる。不定詞やthat節を直接おけないので、itを目的語にしてうしろで説明する。"},
@@ -75,6 +87,7 @@ CHECK_POINTS = [
 
 NODE_PREREQUISITES = [
     {"node_id": "hid-004", "prerequisite_id": "hch-002"},
+    {"node_id": "hid-009", "prerequisite_id": "hid-004"},
     {"node_id": "hid-005", "prerequisite_id": "hid-004"},
     {"node_id": "hid-006", "prerequisite_id": "hid-005"},
 ]
@@ -84,7 +97,8 @@ NODE_PREREQUISITES = [
 # ============================================================
 
 KNOWLEDGE_REFERENCES = [
-    {"node_id": "hid-004", "book": "肘井の読解のための英文法", "section_id": "Hij_11_1", "pages": "p.80-91"},
+    {"node_id": "hid-004", "book": "肘井の読解のための英文法", "section_id": "Hij_11_1", "pages": "p.80-85"},
+    {"node_id": "hid-009", "book": "肘井の読解のための英文法", "section_id": "Hij_11_2", "pages": "p.86-91"},
     {"node_id": "hid-005", "book": "肘井の読解のための英文法", "section_id": "Hij_12", "pages": "p.92-97"},
     {"node_id": "hid-006", "book": "肘井の読解のための英文法", "section_id": "Hij_13", "pages": "p.98-103"},
 ]
@@ -141,7 +155,7 @@ SECTION_PREREQUISITES = [
 
 SECTION_KNOWLEDGE_NODES = [
     {"section_id": "Hij_11_1", "node_id": "hid-004", "seq": 1},
-    {"section_id": "Hij_11_2", "node_id": "hid-004", "seq": 1},
+    {"section_id": "Hij_11_2", "node_id": "hid-009", "seq": 1},
     {"section_id": "Hij_12", "node_id": "hid-005", "seq": 1},
     {"section_id": "Hij_13", "node_id": "hid-006", "seq": 1},
 ]
@@ -198,7 +212,7 @@ SENTENCES = [
         "notes": None,
     },
     # ----------------------------------------------------------
-    # Hij_11_1 -- ポイント例文 (4問: ポイント18, 19, 20)
+    # Hij_11_1 -- ポイント例文 (3問: ポイント18, 19, 20)
     # ----------------------------------------------------------
     {
         "id": "hij-11_1-e1-05",
@@ -333,7 +347,7 @@ SENTENCES = [
         "notes": None,
     },
     # ----------------------------------------------------------
-    # Hij_11_2 -- ポイント例文 (4問: ポイント21 例文1-3)
+    # Hij_11_2 -- ポイント例文 (3問: ポイント21 例文1-3)
     # ----------------------------------------------------------
     {
         "id": "hij-11_2-e1-06",
@@ -623,7 +637,7 @@ SENTENCES = [
         "notes": None,
     },
     # ----------------------------------------------------------
-    # Hij_13 -- ポイント例文 (3問: ポイント24, 25)
+    # Hij_13 -- ポイント例文 (2問: ポイント24, 25)
     # ----------------------------------------------------------
     {
         "id": "hij-13-e1-06",
@@ -863,64 +877,64 @@ SENTENCE_STRUCTURES = [
 
 SENTENCE_KNOWLEDGE_TAGS = [
     # --- Hij_11_1 例題 + ポイント例文 ---
-    {"sentence_id": "hij-11_1-e1-01", "node_id": "hid-004"},
-    {"sentence_id": "hij-11_1-e1-02", "node_id": "hid-004"},
-    {"sentence_id": "hij-11_1-e1-03", "node_id": "hid-004"},
-    {"sentence_id": "hij-11_1-e1-04", "node_id": "hid-004"},
-    {"sentence_id": "hij-11_1-e1-05", "node_id": "hid-004"},
-    {"sentence_id": "hij-11_1-e1-06", "node_id": "hid-004"},
-    {"sentence_id": "hij-11_1-e1-07", "node_id": "hid-004"},
+    {"sentence_id": "hij-11_1-e1-01", "node_id": "hid-004"},  # 関係代名詞
+    {"sentence_id": "hij-11_1-e1-02", "node_id": "hid-004"},  # 同格のthat
+    {"sentence_id": "hij-11_1-e1-03", "node_id": "hid-004"},  # 名詞節(C)
+    {"sentence_id": "hij-11_1-e1-04", "node_id": "hid-004"},  # 名詞節(O2)
+    {"sentence_id": "hij-11_1-e1-05", "node_id": "hid-004"},  # 同格のthat
+    {"sentence_id": "hij-11_1-e1-06", "node_id": "hid-004"},  # 関係代名詞
+    {"sentence_id": "hij-11_1-e1-07", "node_id": "hid-004"},  # 名詞節(C)
     # --- Hij_11_1 確認問題 ---
-    {"sentence_id": "hij-11_1-c1-01", "node_id": "hid-004"},
-    {"sentence_id": "hij-11_1-c1-02", "node_id": "hid-004"},
-    {"sentence_id": "hij-11_1-c1-03", "node_id": "hid-004"},
+    {"sentence_id": "hij-11_1-c1-01", "node_id": "hid-004"},  # 名詞節(O)
+    {"sentence_id": "hij-11_1-c1-02", "node_id": "hid-004"},  # 関係代名詞
+    {"sentence_id": "hij-11_1-c1-03", "node_id": "hid-004"},  # 同格のthat
     # --- Hij_11_1 発展問題 ---
-    {"sentence_id": "hij-11_1-a1-01", "node_id": "hid-004"},
+    {"sentence_id": "hij-11_1-a1-01", "node_id": "hid-004"},  # 同格+関係代名詞
     # --- Hij_11_2 例題 + ポイント例文 ---
-    {"sentence_id": "hij-11_2-e1-01", "node_id": "hid-004"},
-    {"sentence_id": "hij-11_2-e1-02", "node_id": "hid-004"},
-    {"sentence_id": "hij-11_2-e1-03", "node_id": "hid-004"},
-    {"sentence_id": "hij-11_2-e1-04", "node_id": "hid-004"},
-    {"sentence_id": "hij-11_2-e1-05", "node_id": "hid-004"},
-    {"sentence_id": "hij-11_2-e1-06", "node_id": "hid-004"},
-    {"sentence_id": "hij-11_2-e1-07", "node_id": "hid-004"},
-    {"sentence_id": "hij-11_2-e1-08", "node_id": "hid-004"},
+    {"sentence_id": "hij-11_2-e1-01", "node_id": "hid-009"},  # so~that
+    {"sentence_id": "hij-11_2-e1-02", "node_id": "hid-009"},  # such~that
+    {"sentence_id": "hij-11_2-e1-03", "node_id": "hid-009"},  # so that目的
+    {"sentence_id": "hij-11_2-e1-04", "node_id": "hid-009"},  # now that
+    {"sentence_id": "hij-11_2-e1-05", "node_id": "hid-009"},  # in that
+    {"sentence_id": "hij-11_2-e1-06", "node_id": "hid-009"},  # so~that
+    {"sentence_id": "hij-11_2-e1-07", "node_id": "hid-009"},  # so that目的
+    {"sentence_id": "hij-11_2-e1-08", "node_id": "hid-009"},  # so that結果
     # --- Hij_11_2 確認問題 ---
-    {"sentence_id": "hij-11_2-c1-01", "node_id": "hid-004"},
-    {"sentence_id": "hij-11_2-c1-02", "node_id": "hid-004"},
-    {"sentence_id": "hij-11_2-c1-03", "node_id": "hid-004"},
+    {"sentence_id": "hij-11_2-c1-01", "node_id": "hid-009"},  # so~that
+    {"sentence_id": "hij-11_2-c1-02", "node_id": "hid-009"},  # now that
+    {"sentence_id": "hij-11_2-c1-03", "node_id": "hid-009"},  # in that
     # --- Hij_11_2 発展問題 ---
-    {"sentence_id": "hij-11_2-a1-01", "node_id": "hid-004"},
+    {"sentence_id": "hij-11_2-a1-01", "node_id": "hid-009"},  # so that目的
     # --- Hij_12 例題 + ポイント例文 ---
-    {"sentence_id": "hij-12-e1-01", "node_id": "hid-005"},
-    {"sentence_id": "hij-12-e1-02", "node_id": "hid-005"},
-    {"sentence_id": "hij-12-e1-03", "node_id": "hid-005"},
-    {"sentence_id": "hij-12-e1-04", "node_id": "hid-005"},
-    {"sentence_id": "hij-12-e1-05", "node_id": "hid-005"},
-    {"sentence_id": "hij-12-e1-06", "node_id": "hid-005"},
-    {"sentence_id": "hij-12-e1-07", "node_id": "hid-005"},
-    {"sentence_id": "hij-12-e1-08", "node_id": "hid-005"},
-    {"sentence_id": "hij-12-e1-09", "node_id": "hid-005"},
-    {"sentence_id": "hij-12-e1-10", "node_id": "hid-005"},
+    {"sentence_id": "hij-12-e1-01", "node_id": "hid-005"},  # 形式主語(that節)
+    {"sentence_id": "hij-12-e1-02", "node_id": "hid-005"},  # 形式主語(不定詞)
+    {"sentence_id": "hij-12-e1-03", "node_id": "hid-005"},  # 形式目的語
+    {"sentence_id": "hij-12-e1-04", "node_id": "hid-005"},  # 形式目的語
+    {"sentence_id": "hij-12-e1-05", "node_id": "hid-005"},  # 訳さないit
+    {"sentence_id": "hij-12-e1-06", "node_id": "hid-005"},  # 形式主語(that節)
+    {"sentence_id": "hij-12-e1-07", "node_id": "hid-005"},  # 形式主語(不定詞)
+    {"sentence_id": "hij-12-e1-08", "node_id": "hid-005"},  # 形式主語(動名詞)
+    {"sentence_id": "hij-12-e1-09", "node_id": "hid-005"},  # 形式主語(疑問詞節)
+    {"sentence_id": "hij-12-e1-10", "node_id": "hid-005"},  # 訳さないit
     # --- Hij_12 確認問題 ---
-    {"sentence_id": "hij-12-c1-01", "node_id": "hid-005"},
-    {"sentence_id": "hij-12-c1-02", "node_id": "hid-005"},
-    {"sentence_id": "hij-12-c1-03", "node_id": "hid-005"},
+    {"sentence_id": "hij-12-c1-01", "node_id": "hid-005"},  # 形式主語(不定詞)
+    {"sentence_id": "hij-12-c1-02", "node_id": "hid-005"},  # 訳さないit
+    {"sentence_id": "hij-12-c1-03", "node_id": "hid-005"},  # 形式目的語
     # --- Hij_12 発展問題 ---
-    {"sentence_id": "hij-12-a1-01", "node_id": "hid-005"},
+    {"sentence_id": "hij-12-a1-01", "node_id": "hid-005"},  # 形式目的語
     # --- Hij_13 例題 + ポイント例文 ---
-    {"sentence_id": "hij-13-e1-01", "node_id": "hid-006"},
-    {"sentence_id": "hij-13-e1-02", "node_id": "hid-006"},
-    {"sentence_id": "hij-13-e1-03", "node_id": "hid-006"},
-    {"sentence_id": "hij-13-e1-04", "node_id": "hid-006"},
-    {"sentence_id": "hij-13-e1-05", "node_id": "hid-006"},
-    {"sentence_id": "hij-13-e1-06", "node_id": "hid-006"},
-    {"sentence_id": "hij-13-e1-07", "node_id": "hid-006"},
+    {"sentence_id": "hij-13-e1-01", "node_id": "hid-006"},  # 前置詞as
+    {"sentence_id": "hij-13-e1-02", "node_id": "hid-006"},  # 時のas
+    {"sentence_id": "hij-13-e1-03", "node_id": "hid-006"},  # 比例のas
+    {"sentence_id": "hij-13-e1-04", "node_id": "hid-006"},  # 理由のas
+    {"sentence_id": "hij-13-e1-05", "node_id": "hid-006"},  # 様態のas
+    {"sentence_id": "hij-13-e1-06", "node_id": "hid-006"},  # 前置詞as
+    {"sentence_id": "hij-13-e1-07", "node_id": "hid-006"},  # 譲歩のas
     # --- Hij_13 確認問題 ---
-    {"sentence_id": "hij-13-c1-01", "node_id": "hid-006"},
-    {"sentence_id": "hij-13-c1-02", "node_id": "hid-006"},
-    {"sentence_id": "hij-13-c1-03", "node_id": "hid-006"},
-    {"sentence_id": "hij-13-c1-04", "node_id": "hid-006"},
+    {"sentence_id": "hij-13-c1-01", "node_id": "hid-006"},  # 理由のas
+    {"sentence_id": "hij-13-c1-02", "node_id": "hid-006"},  # 様態のas
+    {"sentence_id": "hij-13-c1-03", "node_id": "hid-006"},  # 比例のas
+    {"sentence_id": "hij-13-c1-04", "node_id": "hid-006"},  # 時のas
     # --- Hij_13 発展問題 ---
-    {"sentence_id": "hij-13-a1-01", "node_id": "hid-006"},
+    {"sentence_id": "hij-13-a1-01", "node_id": "hid-006"},  # 比例のas+前置詞as
 ]
