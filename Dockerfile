@@ -14,10 +14,6 @@ RUN uv sync --frozen --no-dev
 
 COPY seras-test-generator/app/ app/
 
-COPY knowledge/ data/knowledge/
-COPY sentences/ data/sentences/
-COPY mappings/ data/mappings/
-
-ENV DATA_DIR=/app/data
+ENV DATA_STORE_TYPE=supabase
 
 CMD ["sh", "-c", "uv run uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8080}"]

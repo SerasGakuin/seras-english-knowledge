@@ -149,4 +149,11 @@ class DataStore:
 def get_data_store() -> DataStore:
     from app.config import get_settings
 
-    return DataStore(Path(get_settings().data_dir))
+    settings = get_settings()
+    if settings.data_store_type == "supabase":
+        from app.services.supabase_client import get_supabase_client
+        from app.services.supabase_data_store import SupabaseDataStore
+
+        return SupabaseDataStore(get_supabase_client())  # type: ignore[return-value]
+
+    return DataStore(Path(settings.data_dir))

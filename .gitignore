@@ -4,3 +4,4 @@ __pycache__/
 *.pdf
 seras-test-generator/.venv/
 seras-test-generator/output/
+.env*
