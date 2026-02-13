@@ -62,10 +62,10 @@ def main():
 
     print()
 
-    # Expected counts
+    # Expected counts (はじめ84+肘井39=123 nodes, はじめ524+肘井405=929 sentences)
     expected = {
-        "knowledge_nodes": 84,
-        "sentences": 524,
+        "knowledge_nodes": 123,
+        "sentences": 929,
     }
 
     for table, exp in expected.items():
@@ -75,9 +75,9 @@ def main():
         else:
             print(f"  [OK] {table}: {actual} (expected {exp})")
 
-    # Sections: 39 drill/introduction + 2 exam = 41
+    # Sections: はじめ41 + 肘井39 = 80
     sections_count = counts["sections"]
-    if sections_count < 41:
+    if sections_count < 80:
         errors.append(f"sections: expected >= 41, got {sections_count}")
     else:
         print(f"  [OK] sections: {sections_count} (expected >= 41)")
