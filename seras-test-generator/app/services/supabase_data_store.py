@@ -1,6 +1,6 @@
 """Supabase-backed data store (same interface as DataStore)."""
 
-from supabase import Client
+from postgrest import SyncPostgrestClient
 
 from app.models import (
     CheckPoint,
@@ -14,7 +14,7 @@ from app.models import (
 class SupabaseDataStore:
     """Loads data from Supabase PostgreSQL via REST API."""
 
-    def __init__(self, client: Client) -> None:
+    def __init__(self, client: SyncPostgrestClient) -> None:
         self._client = client
 
     def get_node(self, node_id: str) -> KnowledgeNode | None:

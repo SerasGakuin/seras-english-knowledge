@@ -16,11 +16,16 @@ pytestmark = pytest.mark.skipif(
 @pytest.fixture(scope="module")
 def store():  # type: ignore[no-untyped-def]
     """Create a SupabaseDataStore connected to real Supabase."""
-    from supabase import create_client
+    from postgrest import SyncPostgrestClient
 
     from app.services.supabase_data_store import SupabaseDataStore
 
-    client = create_client(os.environ["SUPABASE_URL"], os.environ["SUPABASE_KEY"])
+    url = os.environ["SUPABASE_URL"]
+    key = os.environ["SUPABASE_KEY"]
+    client = SyncPostgrestClient(
+        base_url=f"{url}/rest/v1",
+        headers={"apikey": key, "Authorization": f"Bearer {key}"},
+    )
     return SupabaseDataStore(client)
 
 
