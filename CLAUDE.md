@@ -32,7 +32,8 @@ seras-english-knowledge/
 
 ## 現在のフェーズ
 
-> Phase C（確認テスト生成API）完了。GCP Cloud Run にデプロイ済み。次は GAS統合 → 実運用開始。
+> Phase A〜C 完了。**実運用開始（2026-02-13）**。Cloud Run + GAS統合でスプレッドシートからPDF生成可能。
+> 次: Phase B'（講師主導の品質改善）、Phase D（Exam構造化）。
 > 詳細は [ROADMAP.md](docs/ROADMAP.md) を参照。
 
 ## 作業別ガイド：何を読むべきか
