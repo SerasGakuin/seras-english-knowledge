@@ -65,7 +65,7 @@ def main():
     # Expected counts
     expected = {
         "knowledge_nodes": 84,
-        "sentences": 498,
+        "sentences": 524,
     }
 
     for table, exp in expected.items():
@@ -75,12 +75,12 @@ def main():
         else:
             print(f"  [OK] {table}: {actual} (expected {exp})")
 
-    # Sections: should be 39 (completed in mappings, Exam not yet included)
+    # Sections: 39 drill/introduction + 2 exam = 41
     sections_count = counts["sections"]
-    if sections_count < 39:
-        errors.append(f"sections: expected >= 39, got {sections_count}")
+    if sections_count < 41:
+        errors.append(f"sections: expected >= 41, got {sections_count}")
     else:
-        print(f"  [OK] sections: {sections_count} (expected >= 39)")
+        print(f"  [OK] sections: {sections_count} (expected >= 41)")
 
     print()
 

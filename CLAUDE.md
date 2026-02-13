@@ -26,6 +26,7 @@ seras-english-knowledge/
 │   └── supabase/              # DB関連スクリプト
 │       ├── 001_create_tables.sql  # DDL（11テーブル）
 │       ├── import_to_supabase.py  # YAML→DB インポート
+│       ├── import_exam.py         # Exam_01/02 データ投入
 │       └── verify_supabase.py     # データ整合性検証
 ├── Dockerfile             # Cloud Run デプロイ用
 ├── reference/             # 他参考書の書き起こし（参照用）
@@ -42,15 +43,28 @@ seras-english-knowledge/
 
 - **DB**: Supabase (PostgreSQL, Tokyo リージョン)
 - **テーブル数**: 11（knowledge_nodes, sections, sentences + 関連テーブル）
-- **データ量**: 84ノード、498英文、39セクション（+2 Exam未構造化）
+- **データ量**: 84ノード、524英文、41セクション
 - **接続**: postgrest-py（REST API経由）
 - **環境変数**: `SUPABASE_URL`, `SUPABASE_KEY`, `DATA_STORE_TYPE=supabase`
 
 ## 現在のフェーズ
 
-> Phase A〜E 完了。**実運用開始（2026-02-13）**。Cloud Run + GAS統合でスプレッドシートからPDF生成可能。
-> 次: Phase B'（講師主導の品質改善）、Phase D（Exam構造化）。
+> Phase A〜E + D 完了。**実運用開始（2026-02-13）**。Cloud Run + GAS統合でスプレッドシートからPDF生成可能。
+> 次: Phase B'（講師主導の品質改善）。
 > 詳細は [ROADMAP.md](docs/ROADMAP.md) を参照。
+
+## 複数参考書の構造化方針
+
+> **独立ネットワーク＋参考書間リンク（マージしない）**
+
+各参考書は独立した知識ネットワークとして構造化する。既存の「はじめの英文読解ドリル」のノード体系にマージするのではなく、参考書ごとに独自のノード体系・IDを持ち、参考書間はノード同士のリンク（same_concept / extends / prerequisite）で接続する。
+
+この方針により:
+- 各参考書の著者の視点・体系がそのまま保存される
+- 全参考書が対等な扱いで、特定参考書へのバイアスがない
+- 参考書横断の知識関係はリンクのグラフ走査で実現する
+
+詳細は [ROADMAP.md](docs/ROADMAP.md) の Phase F を参照。
 
 ## 関連リポジトリ
 
