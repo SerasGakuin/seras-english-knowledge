@@ -5,6 +5,7 @@ from app.services.data_loader import DataStore
 from app.services.question_selector import (
     _assign_sentences_to_nodes,
     _build_review_guide,
+    _get_reference_pages,
     build_node_sections,
     build_test_data,
     parse_check_point,
@@ -271,3 +272,71 @@ class TestBuildTestData:
         td = build_test_data(["Ch01_00", "Ch01_01"], data_store)
         for ns in td.node_sections:
             assert len(ns.knowledge_questions) > 0
+
+    def test_book_name_default(self, data_store: DataStore) -> None:
+        td = build_test_data(["Ch01_00", "Ch01_01"], data_store)
+        assert td.book_name == "はじめの英文読解ドリル"
+
+    def test_book_name_hijii(self, data_store: DataStore) -> None:
+        td = build_test_data(
+            ["Hij_02", "Hij_03"], data_store, book_name="肘井の読解のための英文法"
+        )
+        assert td.book_name == "肘井の読解のための英文法"
+        assert len(td.node_sections) > 0
+
+    def test_hijii_warmup_from_prereqs(self, data_store: DataStore) -> None:
+        # hsv-002 has prerequisite hsv-001, so warmup should find it
+        td = build_test_data(
+            ["Hij_03"], data_store, book_name="肘井の読解のための英文法"
+        )
+        warmup_ids = {q.node_id for q in td.warmup_questions}
+        assert "hsv-001" in warmup_ids
+
+
+class TestGetReferencePages:
+    def test_yaml_format(self) -> None:
+        node = KnowledgeNode(
+            id="test-001", name="Test", category="test", priority="P1",
+            prerequisites=(), understanding_goals=(), check_points=(),
+            references={"はじめの英文読解ドリル": {"section": "Ch01_00", "pages": "p.6"}},
+            notes="",
+        )
+        assert _get_reference_pages(node, "はじめの英文読解ドリル") == "p.6"
+
+    def test_supabase_format(self) -> None:
+        node = KnowledgeNode(
+            id="test-001", name="Test", category="test", priority="P1",
+            prerequisites=(), understanding_goals=(), check_points=(),
+            references={"はじめの英文読解ドリル": {"Ch01_00": "p.6"}},
+            notes="",
+        )
+        assert _get_reference_pages(node, "はじめの英文読解ドリル") == "p.6"
+
+    def test_supabase_format_multiple_pages(self) -> None:
+        node = KnowledgeNode(
+            id="test-001", name="Test", category="test", priority="P1",
+            prerequisites=(), understanding_goals=(), check_points=(),
+            references={"はじめの英文読解ドリル": {"Ch01_00": "p.6", "Ch01_01": "p.8-11"}},
+            notes="",
+        )
+        result = _get_reference_pages(node, "はじめの英文読解ドリル")
+        assert "p.6" in result
+        assert "p.8-11" in result
+
+    def test_book_not_found_fallback(self) -> None:
+        node = KnowledgeNode(
+            id="test-001", name="Test", category="test", priority="P1",
+            prerequisites=(), understanding_goals=(), check_points=(),
+            references={"はじめの英文読解ドリル": {"pages": "p.6"}},
+            notes="",
+        )
+        assert _get_reference_pages(node, "存在しない本") == ""
+
+    def test_no_book_name_uses_first(self) -> None:
+        node = KnowledgeNode(
+            id="test-001", name="Test", category="test", priority="P1",
+            prerequisites=(), understanding_goals=(), check_points=(),
+            references={"book": {"pages": "p.1"}},
+            notes="",
+        )
+        assert _get_reference_pages(node) == "p.1"

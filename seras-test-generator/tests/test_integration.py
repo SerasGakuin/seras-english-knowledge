@@ -71,3 +71,47 @@ class TestIntegration:
             "/generate-test", json={"sections": ""}
         )
         assert response.status_code == 400
+
+    @patch("app.routers.test_generator.GCSUploader")
+    def test_explicit_hajime_200(self, mock_cls: MagicMock, client: TestClient) -> None:
+        mock_cls.from_env.return_value = _mock_uploader()
+        response = client.post(
+            "/generate-test", json={"sections": "1-0~1-1", "book": "hajime"}
+        )
+        assert response.status_code == 200
+
+    @patch("app.routers.test_generator.GCSUploader")
+    def test_metadata_has_book_fields(self, mock_cls: MagicMock, client: TestClient) -> None:
+        mock_cls.from_env.return_value = _mock_uploader()
+        response = client.post(
+            "/generate-test", json={"sections": "1-0~1-1"}
+        )
+        data = response.json()
+        assert data["metadata"]["book"] == "hajime"
+        assert data["metadata"]["book_name"] == "はじめの英文読解ドリル"
+
+    def test_unknown_book_400(self, client: TestClient) -> None:
+        response = client.post(
+            "/generate-test", json={"sections": "1~5", "book": "unknown"}
+        )
+        assert response.status_code == 400
+
+    @patch("app.routers.test_generator.GCSUploader")
+    def test_hijii_200(self, mock_cls: MagicMock, client: TestClient) -> None:
+        mock_cls.from_env.return_value = _mock_uploader()
+        response = client.post(
+            "/generate-test", json={"sections": "2~3", "book": "hijii"}
+        )
+        assert response.status_code == 200
+
+    @patch("app.routers.test_generator.GCSUploader")
+    def test_hijii_metadata(self, mock_cls: MagicMock, client: TestClient) -> None:
+        mock_cls.from_env.return_value = _mock_uploader()
+        response = client.post(
+            "/generate-test", json={"sections": "2~3", "book": "hijii"}
+        )
+        data = response.json()
+        assert data["metadata"]["book"] == "hijii"
+        assert data["metadata"]["book_name"] == "肘井の読解のための英文法"
+        assert "Hij_02" in data["metadata"]["sections"]
+        assert "Hij_03" in data["metadata"]["sections"]

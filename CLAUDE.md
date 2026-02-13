@@ -16,18 +16,24 @@ seras-english-knowledge/
 │   │   │   ├── data_loader.py         # DataStore（YAML版）+ get_data_store()
 │   │   │   ├── supabase_client.py     # PostgRESTクライアント
 │   │   │   ├── supabase_data_store.py # SupabaseDataStore（本番用）
-│   │   │   ├── question_selector.py   # 出題ロジック
-│   │   │   ├── section_parser.py      # セクション範囲パーサ
+│   │   │   ├── question_selector.py   # 出題ロジック（複数参考書対応）
+│   │   │   ├── section_parser.py      # セクション範囲パーサ（hajime/hijii対応）
 │   │   │   ├── pdf_generator.py       # PDF生成（WeasyPrint）
 │   │   │   └── gcs_uploader.py        # GCS アップロード
+│   │   ├── book_registry.py         # 参考書レジストリ（hajime/hijii）
 │   │   └── templates/                 # Jinja2テンプレート
-│   └── tests/                         # 85テスト
+│   └── tests/                         # 96テスト
 ├── scripts/
 │   └── supabase/              # DB関連スクリプト
 │       ├── 001_create_tables.sql  # DDL（11テーブル）
 │       ├── import_to_supabase.py  # YAML→DB インポート
 │       ├── import_exam.py         # Exam_01/02 データ投入
+│       ├── import_hijii.py        # 肘井データ投入（Phase F-1）
+│       ├── hijii_data/            # 肘井の構造化データ（10モジュール）
+│       ├── 002_cross_book_links.sql  # 参考書間リンクDDL
 │       └── verify_supabase.py     # データ整合性検証
+├── supabase/              # Supabase CLI マイグレーション
+│   └── migrations/        # DDLマイグレーションファイル
 ├── Dockerfile             # Cloud Run デプロイ用
 ├── reference/             # 他参考書の書き起こし（参照用）
 └── docs/                  # ドキュメント
@@ -42,15 +48,19 @@ seras-english-knowledge/
 > Phase E（2026-02-13）でYAML → Supabase（PostgreSQL）に移行完了。YAML は削除済み。
 
 - **DB**: Supabase (PostgreSQL, Tokyo リージョン)
-- **テーブル数**: 11（knowledge_nodes, sections, sentences + 関連テーブル）
-- **データ量**: 84ノード、524英文、41セクション
+- **テーブル数**: 12（11既存 + cross_book_links）
+- **データ量（はじめの英文読解ドリル）**: 84ノード、524英文、41セクション
+- **データ量（肘井の読解のための英文法）**: 39ノード、405英文、39セクション
+- **参考書間リンク**: 17件
 - **接続**: postgrest-py（REST API経由）
+- **DDL実行**: Supabase CLI マイグレーション（`supabase db push`）
 - **環境変数**: `SUPABASE_URL`, `SUPABASE_KEY`, `DATA_STORE_TYPE=supabase`
+- **Supabase CLI**: `SUPABASE_ACCESS_TOKEN` 環境変数で認証、プロジェクトref: `fxvqeqamojofedlgzjwg`
 
 ## 現在のフェーズ
 
-> Phase A〜E + D 完了。**実運用開始（2026-02-13）**。Cloud Run + GAS統合でスプレッドシートからPDF生成可能。
-> 次: Phase B'（講師主導の品質改善）。
+> Phase A〜E + D + F-1 完了。**実運用開始（2026-02-13）**。Cloud Run + GAS統合でスプレッドシートからPDF生成可能。
+> Phase F-1: 肘井の読解のための英文法 構造化完了（39ノード・405英文・17参考書間リンク）。
 > 詳細は [ROADMAP.md](docs/ROADMAP.md) を参照。
 
 ## 複数参考書の構造化方針
@@ -70,7 +80,7 @@ seras-english-knowledge/
 
 - **seras-knowledge-viewer**: Next.js 閲覧アプリ（`/Users/aruohta/dev/seras-knowledge-viewer/`）
   - Supabase から直接データ取得
-  - 6ページ: ダッシュボード、ノード一覧/詳細、セクション一覧/詳細、英文検索
+  - 7ページ+API: ダッシュボード、ノード一覧/詳細、セクション一覧/詳細、英文検索、グラフ
   - URL: https://seras-knowledge-viewer.vercel.app
   - GitHub: SerasGakuin/seras-knowledge-viewer
 
@@ -95,14 +105,17 @@ seras-english-knowledge/
 
 ## 外部リソース
 
-- 書き起こしMD: `/Users/aruohta/dev/seras-english-grammar/pdf/output/はじめの英文読解ドリル/`
+- 書き起こしMD（はじめ）: `/Users/aruohta/dev/seras-english-grammar/pdf/output/はじめの英文読解ドリル/`
+- 書き起こしMD（肘井）: `/Users/aruohta/dev/seras-english-grammar/pdf/output/肘井/`
+- 別冊解答（肘井）: `/Users/aruohta/dev/seras-english-grammar/pdf/output/肘井_別冊/`
 - PDF画像: `/Users/aruohta/dev/seras-english-grammar/pdf/images/はじめの英文読解ドリル/page_XXX.png`
 - PDFオフセット: 物理ページ = 参考書ページ（page_006.png = p.6）
 
 ## ID体系
 
 - 形式: `prefix-NNN`（例: strc-001）
-- strc: 品詞と文型 / vtyp: 動詞の型 / clau: 句と節 / subj: 準動詞の意味上の主語 / read: 読解テクニック
+- **はじめの英文読解ドリル**: strc: 品詞と文型 / vtyp: 動詞の型 / clau: 句と節 / subj: 準動詞の意味上の主語 / read: 読解テクニック
+- **肘井の読解のための英文法**: hsv: SVの発見 / hch: 意味のカタマリ / hid: 識別 / hco: 構文 / hvp: 動詞の型
 
 ## ドキュメント更新ルール
 

@@ -4,6 +4,7 @@ from datetime import datetime, timezone
 
 from fastapi import APIRouter, Depends
 
+from app.book_registry import get_book_config
 from app.models import (
     GenerateTestRequest,
     GenerateTestResponse,
@@ -23,15 +24,18 @@ async def generate_test(
     request: GenerateTestRequest,
     data_store: DataStore = Depends(get_data_store),
 ) -> GenerateTestResponse:
-    section_ids = parse_sections(request.sections, data_store)
-    test_data = build_test_data(section_ids, data_store)
+    book_config = get_book_config(request.book)
+    section_ids = parse_sections(request.sections, data_store, request.book)
+    test_data = build_test_data(section_ids, data_store, book_config.full_name)
 
     pdf_bytes = generate_combined_pdf(test_data)
 
     uploader = GCSUploader.from_env()
     timestamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
     range_str = test_data.sections_label
-    pdf_url = uploader.upload(pdf_bytes, f"確認テスト_{range_str}_{timestamp}.pdf")
+    pdf_url = uploader.upload(
+        pdf_bytes, f"確認テスト_{request.book}_{range_str}_{timestamp}.pdf"
+    )
 
     # Collect all knowledge node IDs used
     node_ids = sorted(
@@ -55,5 +59,7 @@ async def generate_test(
             sentence_count=sentence_count,
             warmup_count=len(test_data.warmup_questions),
             generated_at=test_data.generated_at,
+            book=request.book,
+            book_name=book_config.full_name,
         ),
     )

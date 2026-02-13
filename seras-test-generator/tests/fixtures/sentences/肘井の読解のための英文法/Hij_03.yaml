@@ -1,0 +1,30 @@
+source:
+  book: 肘井の読解のための英文法
+  section: Hij_03
+  title: "述語動詞の発見"
+  pages: "p.18-21"
+
+sentences:
+  - id: hij-03-e1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "The students studying in the library look tired."
+    japanese: "図書館で勉強している生徒たちは疲れて見える。"
+    structure:
+      全体: "S M V C"
+    knowledge_tags:
+      - hsv-002
+    notes: "studyingは現在分詞で準動詞、lookが述語動詞"
+
+  - id: hij-03-e1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "The book written by the famous author became a bestseller."
+    japanese: "その有名な著者によって書かれた本はベストセラーになった。"
+    structure:
+      全体: "S M V C"
+    knowledge_tags:
+      - hsv-002
+    notes: "writtenは過去分詞で準動詞、becameが述語動詞"

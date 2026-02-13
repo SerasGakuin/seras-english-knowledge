@@ -87,6 +87,16 @@ class TestGetSection:
         section = store.get_section("nonexistent")
         assert section is None
 
+    def test_section_has_book_field(self, store) -> None:  # type: ignore[no-untyped-def]
+        section = store.get_section("Ch01_00")
+        assert section is not None
+        assert section.book == "はじめの英文読解ドリル"
+
+    def test_hijii_section_has_book_field(self, store) -> None:  # type: ignore[no-untyped-def]
+        section = store.get_section("Hij_02")
+        assert section is not None
+        assert section.book == "肘井の読解のための英文法"
+
 
 class TestGetSentences:
     def test_existing_section_sentences(self, store) -> None:  # type: ignore[no-untyped-def]
@@ -117,6 +127,22 @@ class TestGetAllSectionIds:
     def test_contains_known_section(self, store) -> None:  # type: ignore[no-untyped-def]
         ids = store.get_all_section_ids()
         assert "Ch01_00" in ids
+
+    def test_filter_by_hajime(self, store) -> None:  # type: ignore[no-untyped-def]
+        ids = store.get_all_section_ids(book="はじめの英文読解ドリル")
+        assert len(ids) > 0
+        assert all(sid.startswith("Ch") for sid in ids)
+
+    def test_filter_by_hijii(self, store) -> None:  # type: ignore[no-untyped-def]
+        ids = store.get_all_section_ids(book="肘井の読解のための英文法")
+        assert len(ids) > 0
+        assert all(sid.startswith("Hij") for sid in ids)
+
+    def test_no_filter_returns_all(self, store) -> None:  # type: ignore[no-untyped-def]
+        all_ids = store.get_all_section_ids()
+        hajime_ids = store.get_all_section_ids(book="はじめの英文読解ドリル")
+        hijii_ids = store.get_all_section_ids(book="肘井の読解のための英文法")
+        assert len(all_ids) == len(hajime_ids) + len(hijii_ids)
 
 
 class TestSectionExists:

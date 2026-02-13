@@ -48,31 +48,43 @@ Content-Type: application/json
 
 ```json
 {
-  "sections": "1-1~1-5"
+  "sections": "1-1~1-5",
+  "book": "hajime"
 }
 ```
 
-**`sections` のフォーマット**:
+**`book` パラメータ**（省略可、デフォルト: `"hajime"`）:
+- `"hajime"` — はじめの英文読解ドリル
+- `"hijii"` — 肘井の読解のための英文法
+
+**`sections` のフォーマット**（book により異なる）:
+
+hajime の場合:
 - `"1-1~1-5"` → Ch01_01 〜 Ch01_05
 - `"2-0~2-3"` → Ch02_00 〜 Ch02_03
-- `"1-1~1-3,2-1~2-4"` → 複数範囲のカンマ区切り（将来対応でも可）
+- `"1-1~1-3,2-1~2-4"` → 複数範囲のカンマ区切り
+- パース規則: `X-Y` → `Ch{XX:02d}_{YY:02d}`、`~` で範囲指定
 
-パース規則:
-- `X-Y` → `Ch{XX:02d}_{YY:02d}`（例: `1-1` → `Ch01_01`）
-- `~` で範囲指定
+hijii の場合:
+- `"1~5"` → テーマ1〜5の全セクション（分割テーマ含む）
+- `"7"` → テーマ7のみ
+- `"1~5,8~10"` → カンマ区切りで複数範囲
+- パース規則: テーマ番号 T → `Hij_{T:02d}` 前方一致で DB から検索
 
 ### レスポンス
 
 ```json
 {
-  "pdf_url": "https://storage.googleapis.com/seras-test-pdfs/確認テスト_Ch01_01〜Ch01_05_20260212_143000.pdf",
+  "pdf_url": "https://storage.googleapis.com/seras-test-pdfs/確認テスト_hajime_Ch01_01〜Ch01_05_20260212_143000.pdf",
   "metadata": {
     "sections": ["Ch01_01", "Ch01_02", "Ch01_03", "Ch01_04", "Ch01_05"],
     "knowledge_nodes_used": ["strc-007", "strc-008", "strc-009", "strc-010", "strc-011", "strc-012", "strc-013"],
     "question_count": 15,
     "sentence_count": 5,
     "warmup_count": 3,
-    "generated_at": "2026-02-12T10:30:00Z"
+    "generated_at": "2026-02-12T10:30:00Z",
+    "book": "hajime",
+    "book_name": "はじめの英文読解ドリル"
   }
 }
 ```

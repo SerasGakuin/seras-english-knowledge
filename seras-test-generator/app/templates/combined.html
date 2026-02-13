@@ -78,7 +78,7 @@
       <p class="q-number">({{ q.number }})</p>
       <p class="answer-text">{{ q.answer }}</p>
       <p class="source">[{{ q.node_id }}: {{ q.node_name }}]</p>
-      <p class="reference">→ はじめの英文読解ドリル {{ q.reference_pages }}</p>
+      <p class="reference">→ {{ data.book_name }} {{ q.reference_pages }}</p>
       <p class="warmup-note">※ {{ q.note }}</p>
     </div>
     {% endfor %}
@@ -98,7 +98,7 @@
       <p class="q-number">({{ q.number }})</p>
       <p class="answer-text">{{ q.answer }}</p>
       <p class="source">[{{ q.node_id }}: {{ q.node_name }}]</p>
-      <p class="reference">→ はじめの英文読解ドリル {{ q.reference_pages }}</p>
+      <p class="reference">→ {{ data.book_name }} {{ q.reference_pages }}</p>
     </div>
     {% endfor %}
     {% endif %}
@@ -115,7 +115,7 @@
       <p class="notes">{{ q.notes }}</p>
       {% endif %}
       <p class="source">[{{ q.knowledge_tags | join(', ') }}]</p>
-      <p class="reference">→ はじめの英文読解ドリル {{ q.source_pages }}</p>
+      <p class="reference">→ {{ data.book_name }} {{ q.source_pages }}</p>
     </div>
     {% endfor %}
     {% endif %}

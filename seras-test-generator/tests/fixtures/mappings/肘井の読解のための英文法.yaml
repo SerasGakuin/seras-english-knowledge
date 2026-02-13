@@ -1,0 +1,19 @@
+book: 肘井の読解のための英文法
+sections:
+  - id: Hij_02
+    title: "主語の発見"
+    pages: "p.14-17"
+    type: drill
+    knowledge_nodes:
+      - hsv-001
+    sentence_file: sentences/肘井の読解のための英文法/Hij_02.yaml
+
+  - id: Hij_03
+    title: "述語動詞の発見"
+    pages: "p.18-21"
+    type: drill
+    knowledge_nodes:
+      - hsv-002
+    prerequisites:
+      - Hij_02
+    sentence_file: sentences/肘井の読解のための英文法/Hij_03.yaml

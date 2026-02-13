@@ -77,6 +77,7 @@ class DataStore:
                     raw = yaml.safe_load(f)
                 if not raw:
                     continue
+                book_name = raw.get("book", "")
                 for section in raw.get("sections", []):
                     mapping = SectionMapping(
                         id=section["id"],
@@ -90,6 +91,7 @@ class DataStore:
                             section.get("prerequisites") or []
                         ),
                         sentence_file=section.get("sentence_file"),
+                        book=book_name,
                     )
                     self._sections[mapping.id] = mapping
             except (yaml.YAMLError, KeyError) as e:
@@ -138,7 +140,11 @@ class DataStore:
     def get_sentences(self, section_id: str) -> list[Sentence]:
         return self._sentences.get(section_id, [])
 
-    def get_all_section_ids(self) -> list[str]:
+    def get_all_section_ids(self, book: str | None = None) -> list[str]:
+        if book:
+            return sorted(
+                sid for sid, sec in self._sections.items() if sec.book == book
+            )
         return sorted(self._sections.keys())
 
     def section_exists(self, section_id: str) -> bool:

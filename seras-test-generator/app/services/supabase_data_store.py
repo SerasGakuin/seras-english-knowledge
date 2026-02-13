@@ -138,6 +138,7 @@ class SupabaseDataStore:
                 knowledge_nodes=knowledge_nodes,
                 prerequisites=prerequisites,
                 sentence_file=None,  # Not stored in DB
+                book=section_data.get("book", ""),
             )
         except Exception as e:
             if isinstance(e, DataLoadError):
@@ -214,15 +215,13 @@ class SupabaseDataStore:
                 detail=f"Failed to load sentences for {section_id}: {e}"
             ) from e
 
-    def get_all_section_ids(self) -> list[str]:
-        """Fetch all section IDs, sorted."""
+    def get_all_section_ids(self, book: str | None = None) -> list[str]:
+        """Fetch all section IDs, optionally filtered by book, sorted."""
         try:
-            rows = (
-                self._client.table("sections")
-                .select("id")
-                .order("id")
-                .execute()
-            )
+            query = self._client.table("sections").select("id").order("id")
+            if book:
+                query = query.eq("book", book)
+            rows = query.execute()
             return [r["id"] for r in rows.data]
         except Exception as e:
             if isinstance(e, DataLoadError):

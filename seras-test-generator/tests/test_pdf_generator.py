@@ -14,7 +14,7 @@ from app.services.pdf_generator import (
 )
 
 
-def _sample_test_data() -> TestData:
+def _sample_test_data(book_name: str = "はじめの英文読解ドリル") -> TestData:
     return TestData(
         sections=["Ch01_01"],
         sections_label="Ch01_01〜Ch01_01",
@@ -69,6 +69,7 @@ def _sample_test_data() -> TestData:
             ),
         ],
         generated_at="2026-02-12T10:00:00Z",
+        book_name=book_name,
     )
 
 
@@ -123,6 +124,17 @@ class TestRenderCombinedHTML:
         html = render_combined_html(_sample_test_data())
         assert "確認テスト<" in html or ">確認テスト<" in html
         assert "確認テスト【解答・解説】" in html
+
+
+    def test_renders_book_name_dynamic(self) -> None:
+        html = render_combined_html(_sample_test_data())
+        assert "はじめの英文読解ドリル" in html
+
+    def test_renders_hijii_book_name(self) -> None:
+        html = render_combined_html(_sample_test_data(book_name="肘井の読解のための英文法"))
+        assert "肘井の読解のための英文法" in html
+        # Should NOT contain hardcoded hajime name
+        assert "はじめの英文読解ドリル" not in html
 
 
 class TestGeneratePDF:

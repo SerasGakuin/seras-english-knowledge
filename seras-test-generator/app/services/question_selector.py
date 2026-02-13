@@ -29,12 +29,23 @@ def parse_check_point(
     return cp.question, ""
 
 
-def _get_reference_pages(node: KnowledgeNode) -> str:
-    """Extract reference pages from the first reference entry."""
-    for book_ref in node.references.values():
-        if isinstance(book_ref, dict) and "pages" in book_ref:
-            return book_ref["pages"]
-    return ""
+def _get_reference_pages(node: KnowledgeNode, book_name: str = "") -> str:
+    """Extract reference pages for the given book.
+
+    Supports both YAML format ({"pages": "p.6"}) and
+    Supabase format ({"Ch01_00": "p.6"}).
+    """
+    if book_name:
+        book_ref = node.references.get(book_name, {})
+    else:
+        book_ref = next(iter(node.references.values()), {})
+    if not book_ref or not isinstance(book_ref, dict):
+        return ""
+    # YAML format: {"section": "Ch01_00", "pages": "p.6"}
+    if "pages" in book_ref:
+        return book_ref["pages"]
+    # Supabase format: {"Ch01_00": "p.6-7"}
+    return ", ".join(sorted(set(book_ref.values())))
 
 
 def _select_nodes_by_priority(
@@ -77,6 +88,7 @@ def select_warmup_questions(
     data_store: DataStore,
     target_min: int = 2,
     target_max: int = 4,
+    book_name: str = "",
 ) -> list[WarmupQuestion]:
     """Select warmup questions from prerequisite nodes outside the target set."""
     prereq_ids = _collect_outside_prereqs(target_node_ids, data_store)
@@ -126,7 +138,8 @@ def select_warmup_questions(
     questions: list[WarmupQuestion] = []
     for idx, (node, cp) in enumerate(selected):
         q, a = parse_check_point(cp, node.understanding_goals)
-        ref_pages = _get_reference_pages(node)
+        ref_pages = _get_reference_pages(node, book_name)
+        book_label = f"{book_name} " if book_name else ""
         questions.append(
             WarmupQuestion(
                 number=idx + 1,
@@ -135,7 +148,7 @@ def select_warmup_questions(
                 node_id=node.id,
                 node_name=node.name,
                 reference_pages=ref_pages,
-                note=f"この知識は今回の範囲の前提です。不安なら先に {ref_pages} を復習しましょう。",
+                note=f"この知識は今回の範囲の前提です。不安なら先に {book_label}{ref_pages} を復習しましょう。",
             )
         )
 
@@ -226,6 +239,7 @@ def _build_review_guide(
     sentence_questions: list[SentenceQuestion],
     target_node_ids: set[str],
     data_store: DataStore,
+    book_name: str = "",
 ) -> list[ReviewGuide]:
     """Build review guide from sentence knowledge_tags + prerequisites."""
     if not sentence_questions:
@@ -245,7 +259,7 @@ def _build_review_guide(
         node = data_store.get_node(nid)
         if not node:
             continue
-        ref_pages = _get_reference_pages(node)
+        ref_pages = _get_reference_pages(node, book_name)
         is_prereq = nid not in target_node_ids
         reason = "前提知識" if is_prereq else ""
         guides.append(
@@ -266,6 +280,7 @@ def build_node_sections(
     target_node_ids: set[str],
     data_store: DataStore,
     max_checks_per_node: int = 2,
+    book_name: str = "",
 ) -> list[NodeSection]:
     """Build NodeSection list: knowledge questions + sentences + review guide per node."""
     sections: list[NodeSection] = []
@@ -279,7 +294,7 @@ def build_node_sections(
         )
         for cp in sampled_cps:
             q, a = parse_check_point(cp, node.understanding_goals)
-            ref_pages = _get_reference_pages(node)
+            ref_pages = _get_reference_pages(node, book_name)
             kqs.append(
                 KnowledgeQuestion(
                     number=0,  # renumbered later
@@ -292,14 +307,14 @@ def build_node_sections(
             )
 
         sqs = sentence_map.get(node.id, [])
-        review = _build_review_guide(sqs, target_node_ids, data_store)
+        review = _build_review_guide(sqs, target_node_ids, data_store, book_name)
 
         sections.append(
             NodeSection(
                 section_number=sec_num,
                 node_id=node.id,
                 node_name=node.name,
-                reference_pages=_get_reference_pages(node),
+                reference_pages=_get_reference_pages(node, book_name),
                 knowledge_questions=kqs,
                 sentence_questions=sqs,
                 review_guide=review,
@@ -312,6 +327,7 @@ def build_node_sections(
 def build_test_data(
     section_ids: list[str],
     data_store: DataStore,
+    book_name: str = "はじめの英文読解ドリル",
 ) -> TestData:
     """Build complete TestData from section IDs."""
     # Collect all target knowledge nodes
@@ -329,14 +345,16 @@ def build_test_data(
             nodes.append(node)
 
     # Warmup questions from prerequisite nodes
-    warmup = select_warmup_questions(target_node_ids, data_store)
+    warmup = select_warmup_questions(
+        target_node_ids, data_store, book_name=book_name
+    )
 
     # Assign sentences to nodes
     sentence_map = _assign_sentences_to_nodes(section_ids, nodes, data_store)
 
     # Build node sections
     node_sections = build_node_sections(
-        nodes, sentence_map, target_node_ids, data_store
+        nodes, sentence_map, target_node_ids, data_store, book_name=book_name
     )
 
     # Renumber all questions with continuous numbering
@@ -378,4 +396,5 @@ def build_test_data(
         warmup_questions=warmup,
         node_sections=node_sections,
         generated_at=datetime.now(timezone.utc).isoformat(),
+        book_name=book_name,
     )

@@ -1,0 +1,18 @@
+id: hsv-001
+name: "主語の発見"
+category: "SVの発見/基本"
+priority: P1
+prerequisites: []
+understanding_goals:
+  - "英文の主語を正確に見つけることができる"
+  - "主語になれる品詞（名詞・代名詞）を理解している"
+check_points:
+  - question: "主語になれる品詞は？"
+    answer: "名詞と代名詞"
+  - question: "主語を見つける手順は？"
+    answer: "動詞を先に見つけ、その動作主を探す"
+references:
+  肘井の読解のための英文法:
+    section: "Hij_02"
+    pages: "p.14-17"
+notes: "SVの発見の基本。全ての英文読解の出発点"

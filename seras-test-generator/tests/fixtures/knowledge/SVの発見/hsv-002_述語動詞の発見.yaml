@@ -1,0 +1,19 @@
+id: hsv-002
+name: "述語動詞の発見"
+category: "SVの発見/基本"
+priority: P1
+prerequisites:
+  - hsv-001
+understanding_goals:
+  - "述語動詞と準動詞の区別ができる"
+  - "述語動詞を正確に見つけることができる"
+check_points:
+  - question: "述語動詞と準動詞の違いは？"
+    answer: "述語動詞は文の中心、準動詞（to不定詞・動名詞・分詞）は文の中心ではない"
+  - question: "述語動詞を見つける手順は？"
+    answer: "準動詞を除外し、残った動詞が述語動詞"
+references:
+  肘井の読解のための英文法:
+    section: "Hij_03"
+    pages: "p.18-21"
+notes: "述語動詞の特定は文構造把握の第一歩"

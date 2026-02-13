@@ -50,6 +50,7 @@ class SectionMapping:
     knowledge_nodes: tuple[str, ...]
     prerequisites: tuple[str, ...]
     sentence_file: str | None
+    book: str = ""
 
 
 # --- Output Models ---
@@ -115,6 +116,7 @@ class TestData:
     warmup_questions: list[WarmupQuestion]
     node_sections: list[NodeSection]
     generated_at: str
+    book_name: str = ""
 
 
 # --- API Models (Pydantic) ---
@@ -122,6 +124,7 @@ class TestData:
 
 class GenerateTestRequest(BaseModel):
     sections: str  # "1-1~1-5"
+    book: str = "hajime"
 
 
 class TestMetadata(BaseModel):
@@ -131,6 +134,8 @@ class TestMetadata(BaseModel):
     sentence_count: int
     warmup_count: int
     generated_at: str
+    book: str = ""
+    book_name: str = ""
 
 
 class GenerateTestResponse(BaseModel):

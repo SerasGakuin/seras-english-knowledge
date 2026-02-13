@@ -1,0 +1,42 @@
+source:
+  book: 肘井の読解のための英文法
+  section: Hij_02
+  title: "主語の発見"
+  pages: "p.14-17"
+
+sentences:
+  - id: hij-02-e1-01
+    drill: 1
+    number: 1
+    role: example
+    english: "The boy standing over there is my brother."
+    japanese: "あそこに立っている少年は私の兄です。"
+    structure:
+      全体: "S M V C"
+    knowledge_tags:
+      - hsv-001
+    notes: "standing over thereは現在分詞句でboyを修飾"
+
+  - id: hij-02-e1-02
+    drill: 1
+    number: 2
+    role: practice
+    english: "What he said surprised everyone in the room."
+    japanese: "彼が言ったことは部屋にいる全員を驚かせた。"
+    structure:
+      全体: "S V O M"
+    knowledge_tags:
+      - hsv-001
+    notes: "What he saidが名詞節で主語"
+
+  - id: hij-02-e1-03
+    drill: 1
+    number: 3
+    role: practice
+    english: "To learn a foreign language requires patience."
+    japanese: "外国語を学ぶことは忍耐を必要とする。"
+    structure:
+      全体: "S V O"
+    knowledge_tags:
+      - hsv-001
+    notes: "To learn a foreign languageがto不定詞の名詞用法で主語"
