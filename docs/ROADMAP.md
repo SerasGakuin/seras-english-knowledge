@@ -11,18 +11,18 @@
 | **B'** | 知識ノード品質改善（人間主導の内容修正） | 未着手 | C完了後に開始。講師目線でAIと相談しながら継続的に改善 |
 | **C** | 確認テスト生成API | **完了** | Cloud Run デプロイ済み、GAS統合完了、実運用開始 |
 | **D** | Exam_01, Exam_02 構造化 | 未着手 | |
-| **E** | Webアプリ（閲覧）+ DB移行 | **進行中** | E-1完了、E-2/E-3並行開発中 |
+| **E** | Webアプリ（閲覧）+ DB移行 | **完了** | Supabase移行、Cloud Runデプロイ、Next.js閲覧アプリ |
 | **F** | 他参考書マッピング（核心・成川等） | 未着手 | |
 | **G** | 生徒習熟度管理・SM-2 | 未着手 | |
 
 ## タイムライン
 
 ```
-完了 ──── Phase A〜C ──── 実運用開始（2026-02-13）──→
+完了 ──── Phase A〜E ──── 実運用開始（2026-02-13）──→
                               │
                               ├── B'開始 ──── B'継続（長期）──→
-                              └── Phase E 開始（2026-02-13）
-                                   E-1完了 → E-2+E-3並行開発中 → E-4
+                              └── Phase E 完了（2026-02-13）
+                                   DB移行完了、YAML削除済み
 ```
 
 ## 実運用開始の条件（すべて達成済み）
@@ -77,19 +77,21 @@
 - Exam_01（p.152-155）、Exam_02（p.156-159）
 - 複数知識が複合する入試演習問題
 
-### Phase E: Webアプリ（閲覧）+ DB移行（進行中）
+### Phase E: Webアプリ（閲覧）+ DB移行（完了）
 - **E-1: Supabase セットアップ + データ移行（完了）**
   - Supabase (PostgreSQL, Tokyo) に 11テーブル作成
   - YAML → DB インポート完了（84ノード、498英文、39セクション）
   - データ整合性検証スクリプトで全チェック通過
-- **E-2: FastAPI テスト生成API の DB 移行（進行中）**
-  - SupabaseDataStore 実装、既存テスト維持
-- **E-3: Next.js 閲覧アプリ構築（進行中）**
+- **E-2: FastAPI テスト生成API の DB 移行（完了）**
+  - SupabaseDataStore 実装（postgrest-py）、85テスト全GREEN
+  - Cloud Run デプロイ成功、本番API動作確認済み
+- **E-3: Next.js 閲覧アプリ構築（完了）**
   - seras-knowledge-viewer（新規リポジトリ）
   - Next.js + CSS Modules + Supabase JS Client
   - 6ページ: ダッシュボード、ノード一覧/詳細、セクション一覧/詳細、英文検索
-- **E-4: クリーンアップ（未着手）**
-  - YAML削除、Dockerfile簡素化、CI/CD更新
+- **E-4: クリーンアップ（完了）**
+  - YAML (knowledge/, sentences/, mappings/) 削除、validate.py 削除
+  - CI/CD パストリガー更新、hooks 更新
 - 設計: [Phase E 設計案](design/Phase_E_設計案.md)
 
 ### Phase F: 他参考書マッピング

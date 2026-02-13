@@ -4,9 +4,6 @@ on:
   push:
     branches: [main]
     paths:
-      - "knowledge/**"
-      - "sentences/**"
-      - "mappings/**"
       - "seras-test-generator/**"
       - "Dockerfile"
       - ".github/workflows/deploy.yml"
