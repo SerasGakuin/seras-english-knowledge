@@ -13,6 +13,156 @@ sections:
     gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "パイロット。sdv-001。PU!1(12時制表)はnotes記録、PU!2の例文3件登録"
+  Scr_002:
+    title: "進行形の用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sdv-002(Theme2+3統合)。問題5-8=4exam, 比較例文2件=2example"
+  Scr_003:
+    title: "進行形にできない動詞"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sdv-002(Theme2+3統合)。問題9-10=2exam, PU!3はnotes記録, 発展・プラスα例文3件"
+  Scr_004:
+    title: "現在完了の用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sdv-003(Theme4+5統合)。問題11-16=6exam, PU!4はnotes記録, 比較・発展例文2件"
+  Scr_005:
+    title: "現在完了形とともに使えない語（句）"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sdv-003(Theme4+5統合)。問題17-18=2exam, PU!5はnotes記録"
+  Scr_006:
+    title: "過去完了形と未来完了形の用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sdv-004(単独)。問題19-22=4exam, 時間軸図はnotes記録"
+  Scr_007:
+    title: "時・条件を表す副詞節中の時制"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 10
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sdv-005(単独)。問題23-28=6exam, PU!6の識別表はnotes記録+例文4件"
+  Scr_008:
+    title: "受動態の基本"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sdv-006(単独)。問題29-30=2exam"
+  Scr_009:
+    title: "完了形の受動態／進行形の受動態"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sdv-007(単独)。問題31-32=2exam"
+  Scr_010:
+    title: "群動詞の受動態"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sdv-008(単独)。問題33-34=2exam, PU!8の例文2件=2example"
+  Scr_011:
+    title: "使役動詞・知覚動詞の受動態"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sdv-009(単独)。問題35-36=2exam, let→allow代用例文1件=1example"
+  Scr_012:
+    title: "目的語がthat節の場合の受動態"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sdv-010(単独)。問題37-38=2exam, PU!9は動詞リスト→notes記録"
+  Scr_013:
+    title: "動作／状態を明確にする表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sdv-011(単独P2)。問題39-40=2exam"
+  Scr_014:
+    title: "能動態と間違えやすい受動態①感情・心理状態"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sdv-012(Theme14+15統合)。問題41-43=3exam, PU!10は表現リスト→notes記録"
+  Scr_015:
+    title: "能動態と間違えやすい受動態②被害"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sdv-012(Theme14+15統合)。問題44-46=3exam(問46は対話,Bのみ登録), PU!11は表現リスト→notes記録"
+  Scr_016:
+    title: "その他の受動態に由来する慣用表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sdv-013(単独)。問題47-53=7exam, PU!12の例文2件=2example, PU!13は表現リスト→notes記録"
   Scr_046:
     title: "仮定法過去"
     type: "grammar"
@@ -35,9 +185,9 @@ sections:
     notes: "パイロット。sgh-001。PU!92(他動詞14語)/PU!93(自動詞7語)はnotes記録"
 
 summary:
-  total_sections: 3
-  completed: 3
+  total_sections: 18
+  completed: 18
   in_progress: 0
   not_started: 0
-  total_knowledge_nodes: 3
-  total_sentences: 21
+  total_knowledge_nodes: 15
+  total_sentences: 86

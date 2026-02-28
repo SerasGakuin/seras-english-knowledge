@@ -1,0 +1,42 @@
+# Scr_009: Theme 9 完了形の受動態／進行形の受動態 → sdv-007
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-009-p01"
+    section_id: "Scr_009"
+    drill: 1
+    number: 31
+    role: "exam"
+    english: "This song has been sung by many singers over the past 10 years."
+    japanese: "この歌はここ10年間、多くの歌手によって歌われてきた。"
+    notes: "難易度: 頻出; 出典: 東京経済大; 完了形の受動態(have been done); over the past 10 years=継続"
+  - id: "scr-009-p02"
+    section_id: "Scr_009"
+    drill: 1
+    number: 32
+    role: "exam"
+    english: "A new building is being constructed on campus."
+    japanese: "構内に新しいビルが建てられている。"
+    notes: "出典: 神奈川大; 進行形の受動態(be being done); construct=他動詞→目的語なしなので受動態"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-009-p01"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-009-p01"
+    label: "details"
+    value: "<This song>(S) has been sung(V) [by many singers](M:前置詞句) [over the past 10 years](M:前置詞句)."
+  # p02
+  - sentence_id: "scr-009-p02"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-009-p02"
+    label: "details"
+    value: "<A new building>(S) is being constructed(V) [on campus](M:前置詞句)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-009-p01"
+    node_id: "sdv-007"
+  - sentence_id: "scr-009-p02"
+    node_id: "sdv-007"

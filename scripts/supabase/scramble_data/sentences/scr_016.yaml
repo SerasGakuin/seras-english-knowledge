@@ -1,0 +1,167 @@
+# Scr_016: Theme 16 その他の受動態に由来する慣用表現 → sdv-013 + PU!12 + PU!13
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-016-p01"
+    section_id: "Scr_016"
+    drill: 1
+    number: 47
+    role: "exam"
+    english: "His work has come to be known to more and more people."
+    japanese: "彼の作品はますます多くの人々に知られるようになった。"
+    notes: "難易度: 頻出; 出典: 南山大; be known to A「Aに知られている」; 語句: come to do「～するようになる」, more and more+名詞「ますます多くの～」(⇨問210)"
+  - id: "scr-016-p02"
+    section_id: "Scr_016"
+    drill: 1
+    number: 48
+    role: "exam"
+    english: "Bill is known for his incredible sense of humor. He can make anyone laugh!"
+    japanese: "ビルは驚くべきユーモアのセンスで知られている。彼は誰でも笑わせることができる！"
+    notes: "難易度: 頻出; 出典: 南山大; be known for A「Aで知られている」[主語≠A]; 比較: be known as A「Aとして知られている」(⇨PU!12)"
+  - id: "scr-016-p03"
+    section_id: "Scr_016"
+    drill: 1
+    number: 49
+    role: "exam"
+    english: "Judging by the smell, this can seems to be filled with petrol."
+    japanese: "においから判断すると、この缶はガソリンで満たされているようだ。"
+    notes: "出典: 昭和大; be filled with ~「～で満たされている」(= be full of ~); 語句: judging by [from] ~「～から判断すると」(⇨問154)"
+  - id: "scr-016-p04"
+    section_id: "Scr_016"
+    drill: 1
+    number: 50
+    role: "exam"
+    english: "Many high school students are actively involved in volunteer work."
+    japanese: "多くの高校生が積極的にボランティア活動に参加している。"
+    notes: "難易度: 頻出; 出典: 芝浦工大; be involved in ~「～にかかわっている／参加している」; 選択肢: ③joined, ④participatedは能動態で使う"
+  - id: "scr-016-p05"
+    section_id: "Scr_016"
+    drill: 1
+    number: 51
+    role: "exam"
+    english: "My cousin got married to one of my old friends from elementary school last year."
+    japanese: "私のいとこは昨年、小学校からの私の旧友の1人と結婚した。"
+    notes: "難易度: 頻出; 出典: 関西学院大; get married (to ~)「（～と）結婚する」; getは動作を明確にする(⇨Theme 13)"
+  - id: "scr-016-p06"
+    section_id: "Scr_016"
+    drill: 1
+    number: 52
+    role: "exam"
+    english: "The woman was dressed in blue from head to foot."
+    japanese: "その女性は全身青い服を着ていた。"
+    notes: "出典: 獨協大; be dressed in ~「～を着ている」; 着用を表すin(⇨問724)"
+  - id: "scr-016-p07"
+    section_id: "Scr_016"
+    drill: 1
+    number: 53
+    role: "exam"
+    english: "Please remain seated for a few minutes."
+    japanese: "数分間座っていてください。"
+    notes: "出典: 拓殖大; remain seated「座っている」(状態の受動態); seat=他動詞「～を着席させる」→be seated「座る」(⇨Theme 13)"
+
+  # === 例文（example） ===
+  - id: "scr-016-e01"
+    section_id: "Scr_016"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "The health of a tree is known by the color of its leaves."
+    japanese: "木の健康状態は葉の色によってわかる。"
+    notes: "PU!12: be known by A「Aによってわかる」（判断の基準のby）"
+  - id: "scr-016-e02"
+    section_id: "Scr_016"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Atami is known for its hot springs."
+    japanese: "熱海は温泉で知られている。"
+    notes: "PU!12: be known for A「Aで知られている」[主語≠A]; 比較: Atami is known as a hot-spring town.「温泉町として知られている」[主語=A]"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-016-p01"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-016-p01"
+    label: "details"
+    value: "<His work>(S) has come(V) [to be known](C:不定詞) [to more and more people](M:前置詞句)."
+  # p02
+  - sentence_id: "scr-016-p02"
+    label: "overall"
+    value: "S V M / S V O V"
+  - sentence_id: "scr-016-p02"
+    label: "details"
+    value: "Bill(S) is known(V) [for his incredible sense of humor](M:前置詞句). He(S) can make(V) anyone(O) laugh(C)."
+  # p03
+  - sentence_id: "scr-016-p03"
+    label: "overall"
+    value: "M S V C M"
+  - sentence_id: "scr-016-p03"
+    label: "details"
+    value: "[Judging by the smell](M:分詞構文), <this can>(S) seems(V) [to be filled](C:不定詞) [with petrol](M:前置詞句)."
+  # p04
+  - sentence_id: "scr-016-p04"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-016-p04"
+    label: "details"
+    value: "<Many high school students>(S) are actively involved(V) [in volunteer work](M:前置詞句)."
+  # p05
+  - sentence_id: "scr-016-p05"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-016-p05"
+    label: "details"
+    value: "<My cousin>(S) got married(V) [to one of my old friends from elementary school](M:前置詞句) [last year](M)."
+  # p06
+  - sentence_id: "scr-016-p06"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-016-p06"
+    label: "details"
+    value: "<The woman>(S) was dressed(V) [in blue](C:前置詞句) [from head to foot](M:前置詞句)."
+  # p07
+  - sentence_id: "scr-016-p07"
+    label: "overall"
+    value: "V C M"
+  - sentence_id: "scr-016-p07"
+    label: "details"
+    value: "Please remain(V) seated(C) [for a few minutes](M:前置詞句)."
+  # e01
+  - sentence_id: "scr-016-e01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-016-e01"
+    label: "details"
+    value: "<The health of a tree>(S) is known(V) [by the color of its leaves](M:前置詞句)."
+  # e02
+  - sentence_id: "scr-016-e02"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-016-e02"
+    label: "details"
+    value: "Atami(S) is known(V) [for its hot springs](M:前置詞句)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-016-p01"
+    node_id: "sdv-013"
+  - sentence_id: "scr-016-p02"
+    node_id: "sdv-013"
+  - sentence_id: "scr-016-p03"
+    node_id: "sdv-013"
+  - sentence_id: "scr-016-p04"
+    node_id: "sdv-013"
+  - sentence_id: "scr-016-p05"
+    node_id: "sdv-013"
+  - sentence_id: "scr-016-p05"
+    node_id: "sdv-011"
+  - sentence_id: "scr-016-p06"
+    node_id: "sdv-013"
+  - sentence_id: "scr-016-p07"
+    node_id: "sdv-013"
+  - sentence_id: "scr-016-p07"
+    node_id: "sdv-011"
+  - sentence_id: "scr-016-e01"
+    node_id: "sdv-013"
+  - sentence_id: "scr-016-e02"
+    node_id: "sdv-013"

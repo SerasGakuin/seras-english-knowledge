@@ -1,0 +1,76 @@
+# Scr_006: Theme 6 過去完了形と未来完了形の用法 → sdv-004
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-006-p01"
+    section_id: "Scr_006"
+    drill: 1
+    number: 19
+    role: "exam"
+    english: "The train had already arrived when I reached the platform, so I didn't have to wait in the cold."
+    japanese: "私がホームに着いた時には、列車はすでに到着していたので、寒い中で待つ必要がなかった。"
+    notes: "難易度: 頻出; 出典: センター; 過去のある時点までの完了→過去完了形"
+  - id: "scr-006-p02"
+    section_id: "Scr_006"
+    drill: 1
+    number: 20
+    role: "exam"
+    english: "Bob had been drifting in a small boat for two days before he was found."
+    japanese: "ボブは発見される前に小さなボートで2日間漂流していた。"
+    notes: "難易度: 頻出; 出典: 南山大; 過去のある時点までの動作の継続→過去完了進行形"
+  - id: "scr-006-p03"
+    section_id: "Scr_006"
+    drill: 1
+    number: 21
+    role: "exam"
+    english: "When I woke up this morning, I realized that I had fallen asleep while studying last night."
+    japanese: "今朝起きると、昨夜勉強している間に寝てしまったことに気付いた。"
+    notes: "難易度: 基本; 出典: 中央大; 整序問題; 大過去（過去から見た過去）→過去完了形"
+  - id: "scr-006-p04"
+    section_id: "Scr_006"
+    drill: 1
+    number: 22
+    role: "exam"
+    english: "By next week you will have received the package."
+    japanese: "来週までには小包を受け取るでしょう。"
+    notes: "難易度: 頻出; 出典: 南山大; 未来のある時点までの完了→未来完了形; by ~=～までに"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-006-p01"
+    label: "overall"
+    value: "S V M M / S V M"
+  - sentence_id: "scr-006-p01"
+    label: "details"
+    value: "<The train>(S) had already arrived(V) [when I reached the platform](M:副詞節), so I(S) didn't have to wait(V) [in the cold](M:前置詞句)."
+  # p02
+  - sentence_id: "scr-006-p02"
+    label: "overall"
+    value: "S V M M M"
+  - sentence_id: "scr-006-p02"
+    label: "details"
+    value: "Bob(S) had been drifting(V) [in a small boat](M:前置詞句) [for two days](M:前置詞句) [before he was found](M:副詞節)."
+  # p03
+  - sentence_id: "scr-006-p03"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "scr-006-p03"
+    label: "details"
+    value: "[When I woke up this morning](M:副詞節), I(S) realized(V) [that I had fallen asleep while studying last night](O:that節)."
+  # p04
+  - sentence_id: "scr-006-p04"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "scr-006-p04"
+    label: "details"
+    value: "[By next week](M:前置詞句) you(S) will have received(V) <the package>(O)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-006-p01"
+    node_id: "sdv-004"
+  - sentence_id: "scr-006-p02"
+    node_id: "sdv-004"
+  - sentence_id: "scr-006-p03"
+    node_id: "sdv-004"
+  - sentence_id: "scr-006-p04"
+    node_id: "sdv-004"

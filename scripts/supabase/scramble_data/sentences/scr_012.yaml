@@ -1,0 +1,42 @@
+# Scr_012: Theme 12 目的語がthat節の場合の受動態 → sdv-010 + PU!9
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-012-p01"
+    section_id: "Scr_012"
+    drill: 1
+    number: 37
+    role: "exam"
+    english: "Mr. Tanaka is said to have had a car accident yesterday."
+    japanese: "タナカさんは昨日、自動車事故にあったと言われている。"
+    notes: "難易度: 頻出; 出典: 佛教大; They say that S+Vの受動態; that節のVが過去形→to have done; 元文: They say Mr. Tanaka had a car accident yesterday."
+  - id: "scr-012-p02"
+    section_id: "Scr_012"
+    drill: 1
+    number: 38
+    role: "exam"
+    english: "She is believed to have been one of the greatest scientists of the 20th century."
+    japanese: "彼女は20世紀で最も偉大な科学者の1人であったと信じられている。"
+    notes: "出典: 立命館大; believe that S+Vの受動態; that節のVが過去形→to have done; PU!9参照"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-012-p01"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-012-p01"
+    label: "details"
+    value: "<Mr. Tanaka>(S) is said(V) [to have had a car accident](C:不定詞) yesterday(M)."
+  # p02
+  - sentence_id: "scr-012-p02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-012-p02"
+    label: "details"
+    value: "She(S) is believed(V) [to have been one of the greatest scientists of the 20th century](C:不定詞)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-012-p01"
+    node_id: "sdv-010"
+  - sentence_id: "scr-012-p02"
+    node_id: "sdv-010"

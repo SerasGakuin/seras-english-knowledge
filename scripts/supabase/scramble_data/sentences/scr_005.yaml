@@ -1,0 +1,42 @@
+# Scr_005: Theme 5 現在完了形とともに使えない語（句） → sdv-003
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-005-p01"
+    section_id: "Scr_005"
+    drill: 1
+    number: 17
+    role: "exam"
+    english: "I visited the country ten years ago."
+    japanese: "私は10年前にその国を訪れた。"
+    notes: "難易度: 基本; 出典: 白百合女子大; ~ ago=過去の時→現在完了形不可→過去形"
+  - id: "scr-005-p02"
+    section_id: "Scr_005"
+    drill: 1
+    number: 18
+    role: "exam"
+    english: "She saw the movie twice when she was a child."
+    japanese: "彼女は子どものころ、その映画を2回見た。"
+    notes: "出典: 不明; when+SV(過去)=過去の時→現在完了形不可→過去形; 〈選択肢〉漠然とした広い期間は過去完了の基準点にならない→had seenは不可"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-005-p01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-005-p01"
+    label: "details"
+    value: "I(S) visited(V) <the country>(O) [ten years ago](M:副詞句)."
+  # p02
+  - sentence_id: "scr-005-p02"
+    label: "overall"
+    value: "S V O M M"
+  - sentence_id: "scr-005-p02"
+    label: "details"
+    value: "She(S) saw(V) <the movie>(O) twice(M) [when she was a child](M:副詞節)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-005-p01"
+    node_id: "sdv-003"
+  - sentence_id: "scr-005-p02"
+    node_id: "sdv-003"

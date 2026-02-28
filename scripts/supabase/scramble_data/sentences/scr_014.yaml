@@ -1,0 +1,59 @@
+# Scr_014: Theme 14 能動態と間違えやすい受動態①感情・心理状態 → sdv-012 + PU!10
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-014-p01"
+    section_id: "Scr_014"
+    drill: 1
+    number: 41
+    role: "exam"
+    english: "We were really excited about the news, and decided to have a party."
+    japanese: "私たちはその知らせに本当にわくわくしたので、パーティーを開くことに決めた。"
+    notes: "難易度: 頻出; 出典: 亜細亜大; be excited about [at] ~「～に興奮する」; excite=他動詞「～を興奮させる」"
+  - id: "scr-014-p02"
+    section_id: "Scr_014"
+    drill: 1
+    number: 42
+    role: "exam"
+    english: "He may not be satisfied with his present income."
+    japanese: "彼は現在の収入に満足していないかもしれない。"
+    notes: "出典: 大阪経済大; be satisfied with ~「～に満足する」(⇨問1153); 語句: 限定用法のpresent「現在の」(⇨問637)"
+  - id: "scr-014-p03"
+    section_id: "Scr_014"
+    drill: 1
+    number: 43
+    role: "exam"
+    english: "Ken was absorbed in practicing the guitar."
+    japanese: "ケンはギターの練習に夢中だった。"
+    notes: "出典: 高知大; be absorbed in ~「～に夢中になっている」(= be lost in)"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-014-p01"
+    label: "overall"
+    value: "S V C M / V C"
+  - sentence_id: "scr-014-p01"
+    label: "details"
+    value: "We(S) were(V) really excited(C) [about the news](M:前置詞句), and decided(V) [to have a party](C:不定詞)."
+  # p02
+  - sentence_id: "scr-014-p02"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-014-p02"
+    label: "details"
+    value: "He(S) may not be(V) satisfied(C) [with his present income](M:前置詞句)."
+  # p03
+  - sentence_id: "scr-014-p03"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-014-p03"
+    label: "details"
+    value: "Ken(S) was(V) absorbed(C) [in practicing the guitar](M:前置詞句)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-014-p01"
+    node_id: "sdv-012"
+  - sentence_id: "scr-014-p02"
+    node_id: "sdv-012"
+  - sentence_id: "scr-014-p03"
+    node_id: "sdv-012"

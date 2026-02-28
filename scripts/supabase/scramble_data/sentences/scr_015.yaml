@@ -1,0 +1,59 @@
+# Scr_015: Theme 15 能動態と間違えやすい受動態②被害 → sdv-012 + PU!11
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-015-p01"
+    section_id: "Scr_015"
+    drill: 1
+    number: 44
+    role: "exam"
+    english: "After the accident, all of the trains were delayed for about an hour."
+    japanese: "事故の後、すべての電車が約1時間遅れた。"
+    notes: "難易度: 頻出; 出典: 獨協大; be delayed「（電車などが）遅れる」; delay=他動詞「～を遅らせる」; 選択肢: ①absorbed ②advanced ③reflected"
+  - id: "scr-015-p02"
+    section_id: "Scr_015"
+    drill: 1
+    number: 45
+    role: "exam"
+    english: "Many people were killed in the Hanshin earthquake of 1995."
+    japanese: "多くの人が1995年の阪神大震災で亡くなった。"
+    notes: "出典: 神田外語大; be killed「（事故・戦争などで）死ぬ」(= die); 選択肢: ①had died不可(過去), ③were dead「死んでいた」意味的に不可"
+  - id: "scr-015-p03"
+    section_id: "Scr_015"
+    drill: 1
+    number: 46
+    role: "exam"
+    english: "I was caught in a shower on my way to school."
+    japanese: "学校に来る途中で、にわか雨にあったんだ。"
+    notes: "難易度: 頻出; 出典: 麗澤大; 対話問題（A: You look so cold. What happened?）; be caught in ~「（雨・渋滞等に）あう」; 語句: on one's way to ~「～への途中で」(⇨問1193)"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-015-p01"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-015-p01"
+    label: "details"
+    value: "[After the accident](M:前置詞句), <all of the trains>(S) were delayed(V) [for about an hour](M:前置詞句)."
+  # p02
+  - sentence_id: "scr-015-p02"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-015-p02"
+    label: "details"
+    value: "<Many people>(S) were killed(V) [in the Hanshin earthquake of 1995](M:前置詞句)."
+  # p03
+  - sentence_id: "scr-015-p03"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-015-p03"
+    label: "details"
+    value: "I(S) was caught(V) [in a shower](M:前置詞句) [on my way to school](M:前置詞句)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-015-p01"
+    node_id: "sdv-012"
+  - sentence_id: "scr-015-p02"
+    node_id: "sdv-012"
+  - sentence_id: "scr-015-p03"
+    node_id: "sdv-012"

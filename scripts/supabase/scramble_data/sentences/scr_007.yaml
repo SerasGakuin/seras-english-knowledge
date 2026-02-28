@@ -1,0 +1,182 @@
+# Scr_007: Theme 7 時・条件を表す副詞節中の時制 → sdv-005
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-007-p01"
+    section_id: "Scr_007"
+    drill: 1
+    number: 23
+    role: "exam"
+    english: "Could you ask Mary to call me back when she comes home?"
+    japanese: "メアリーが帰ったら、折り返し電話するよう彼女にお願いしていただけませんか。"
+    notes: "難易度: 頻出; 出典: 共立女子大; when節=時の副詞節→現在形; 語句: Could you do ~?=依頼"
+  - id: "scr-007-p02"
+    section_id: "Scr_007"
+    drill: 1
+    number: 24
+    role: "exam"
+    english: "I will wait here until she comes."
+    japanese: "彼女が来るまでここで待っています。"
+    notes: "難易度: 頻出; 出典: 北海学園大; until節=時の副詞節→現在形"
+  - id: "scr-007-p03"
+    section_id: "Scr_007"
+    drill: 1
+    number: 25
+    role: "exam"
+    english: "The concert will be put off until next Saturday if it rains tomorrow."
+    japanese: "明日雨が降ったら、コンサートは来週の土曜日まで延期されるだろう。"
+    notes: "難易度: 頻出; 出典: 東京経済大; if節=条件の副詞節→現在形"
+  - id: "scr-007-p04"
+    section_id: "Scr_007"
+    drill: 1
+    number: 26
+    role: "exam"
+    english: "Yes, I wonder when he will return it."
+    japanese: "はい、いつ返してくれるんだろうと思っているのですが。"
+    notes: "難易度: 頻出; 出典: センター; 対話形式（A: Is Bill still using your car?）; when節=名詞節（wonderの目的語）→未来形"
+  - id: "scr-007-p05"
+    section_id: "Scr_007"
+    drill: 1
+    number: 27
+    role: "exam"
+    english: "I don't know if she will come to the party tomorrow."
+    japanese: "明日のパーティーに彼女が来るかどうかは、私にはわかりません。"
+    notes: "難易度: 頻出; 出典: 不明; if節=名詞節（knowの目的語）「～するかどうか」→未来形"
+  - id: "scr-007-p06"
+    section_id: "Scr_007"
+    drill: 1
+    number: 28
+    role: "exam"
+    english: "Please inform the chair as soon as you have reached a conclusion on this matter."
+    japanese: "この問題について結論に達したらすぐに、議長に知らせてください。"
+    notes: "難易度: 頻出; 出典: 関西学院大; as soon as節=時の副詞節→未来完了の内容でも現在完了形"
+
+  # === 例文（example） ===
+  - id: "scr-007-e01"
+    section_id: "Scr_007"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I'll tell it to him when he comes."
+    japanese: "彼が来たら、それを彼に話します。"
+    notes: "PU!6: when=副詞節（接続詞）→現在形"
+  - id: "scr-007-e02"
+    section_id: "Scr_007"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "I don't know when he will come."
+    japanese: "彼がいつ来るか知らない。"
+    notes: "PU!6: when=名詞節（疑問詞）→未来形"
+  - id: "scr-007-e03"
+    section_id: "Scr_007"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "I'll stay at home if it rains tomorrow."
+    japanese: "もし明日雨ならば私は家にいます。"
+    notes: "PU!6: if=副詞節（接続詞）「もし～なら」→現在形"
+  - id: "scr-007-e04"
+    section_id: "Scr_007"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "I wonder if it will rain tomorrow."
+    japanese: "明日は雨が降るかしら。"
+    notes: "PU!6: if=名詞節（接続詞）「～するかどうか」→未来形"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-007-p01"
+    label: "overall"
+    value: "V S V O M"
+  - sentence_id: "scr-007-p01"
+    label: "details"
+    value: "Could you(S) ask(V) Mary(O) [to call me back](C:不定詞) [when she comes home](M:副詞節)?"
+  # p02
+  - sentence_id: "scr-007-p02"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-007-p02"
+    label: "details"
+    value: "I(S) will wait(V) here(M) [until she comes](M:副詞節)."
+  # p03
+  - sentence_id: "scr-007-p03"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-007-p03"
+    label: "details"
+    value: "<The concert>(S) will be put off(V) [until next Saturday](M:前置詞句) [if it rains tomorrow](M:副詞節)."
+  # p04
+  - sentence_id: "scr-007-p04"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-007-p04"
+    label: "details"
+    value: "I(S) wonder(V) [when he will return it](O:名詞節)."
+  # p05
+  - sentence_id: "scr-007-p05"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-007-p05"
+    label: "details"
+    value: "I(S) don't know(V) [if she will come to the party tomorrow](O:名詞節)."
+  # p06
+  - sentence_id: "scr-007-p06"
+    label: "overall"
+    value: "V O M"
+  - sentence_id: "scr-007-p06"
+    label: "details"
+    value: "Please inform(V) <the chair>(O) [as soon as you have reached a conclusion on this matter](M:副詞節)."
+  # e01
+  - sentence_id: "scr-007-e01"
+    label: "overall"
+    value: "S V O M M"
+  - sentence_id: "scr-007-e01"
+    label: "details"
+    value: "I(S)'ll tell(V) it(O) [to him](M:前置詞句) [when he comes](M:副詞節)."
+  # e02
+  - sentence_id: "scr-007-e02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-007-e02"
+    label: "details"
+    value: "I(S) don't know(V) [when he will come](O:名詞節)."
+  # e03
+  - sentence_id: "scr-007-e03"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-007-e03"
+    label: "details"
+    value: "I(S)'ll stay(V) [at home](M:前置詞句) [if it rains tomorrow](M:副詞節)."
+  # e04
+  - sentence_id: "scr-007-e04"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-007-e04"
+    label: "details"
+    value: "I(S) wonder(V) [if it will rain tomorrow](O:名詞節)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-007-p01"
+    node_id: "sdv-005"
+  - sentence_id: "scr-007-p02"
+    node_id: "sdv-005"
+  - sentence_id: "scr-007-p03"
+    node_id: "sdv-005"
+  - sentence_id: "scr-007-p04"
+    node_id: "sdv-005"
+  - sentence_id: "scr-007-p05"
+    node_id: "sdv-005"
+  - sentence_id: "scr-007-p06"
+    node_id: "sdv-005"
+  - sentence_id: "scr-007-p06"
+    node_id: "sdv-003"
+  - sentence_id: "scr-007-e01"
+    node_id: "sdv-005"
+  - sentence_id: "scr-007-e02"
+    node_id: "sdv-005"
+  - sentence_id: "scr-007-e03"
+    node_id: "sdv-005"
+  - sentence_id: "scr-007-e04"
+    node_id: "sdv-005"

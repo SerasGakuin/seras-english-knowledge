@@ -1,6 +1,7 @@
-# Ch01 時制 — パイロット: Scr_001（Theme 1: 基本3時制の用法）
+# Ch01 時制 — sdv-001〜sdv-005
 
 knowledge_nodes:
+  # === sdv-001: パイロット済み ===
   - id: "sdv-001"
     name: "基本3時制の用法"
     category: "動詞・時制"
@@ -27,7 +28,100 @@ knowledge_nodes:
       Power Up! 2: 基本形の意味まとめ。現在形4用法・過去形2用法・will 2用法。
       参照: Theme 5（現在完了形とともに使えない語句 — 問題3解説〈選択肢〉）
 
+  # === sdv-002: Theme 2+3 統合 ===
+  - id: "sdv-002"
+    name: "進行形の用法と制約"
+    category: "動詞・時制"
+    priority: "P1"
+    notes: |
+      Theme 2: 進行形の用法（問題5-8）+ Theme 3: 進行形にできない動詞（問題9-10）
+      ■ 進行形の基本用法（ある時点で進行中の動作を表す）:
+      ① 現在進行形（am/is/are doing）: 今まさに進行中の動作
+      ② 過去進行形（was/were doing）: 過去のある時点で進行中だった動作
+      ③ 未来進行形（will be doing）: 未来のある時点で進行中であろう動作
+      ■ 現在進行形の特殊用法:
+      確定的な近い未来の予定「～することになっている」を表す（個人的な予定に多い）。
+      比較: 現在形の確定的未来は公的な予定に多い（⇨ sdv-001）。
+      ■ 進行形にできない動詞（PU!3）:
+      (1)「継続的な状態」を表す動詞: be/remain, seem/look/appear, have/own/possess, belong(⇨問9), resemble, contain
+      (2)「無意識的な知覚」を表す動詞: see, hear(⇨問10), feel, smell, taste
+      (3)「心理状態」を表す動詞: know, like, hate, believe, want, understand
+      ※ have は「～を食べる」等の動作の意味では進行形にできる。
+      ※ 意識的な動作を表す知覚動詞（look at, watch, listen to, taste「味見する」, feel「手探りする」）は進行形にできる。
+      ※ 「一時的な状態」を強調するときは状態動詞でも進行形にできることがある（I'm being serious now.）
+      参照: Power Up! 124（talk with Aについて — 問題5語句）
+
+  # === sdv-003: Theme 4+5 統合 ===
+  - id: "sdv-003"
+    name: "現在完了の用法と制約"
+    category: "動詞・時制"
+    priority: "P1"
+    notes: |
+      Theme 4: 現在完了の用法（問題11-16）+ Theme 5: 現在完了形とともに使えない語句（問題17-18）
+      現在完了形（have/has + 過去分詞）は過去の動作・状態が現在にどうつながっているかを示す時制。
+      ■ 3用法:
+      ①『完了・結果』「～してしまった」: just, already, now, yet を伴うことが多い
+      ②『経験』「～したことがある」: ever, never, before, once, twice, often を伴うことが多い
+      ③『継続』「ずっと～である/している」: for ~, since ~, How long ~? を伴うことが多い
+      ■ 状態動詞 vs 動作動詞の継続:
+      状態動詞（know等）→ 現在完了形で継続を表す（have known）
+      動作動詞（collect等）→ 現在完了進行形で継続を表す（have been collecting）
+      ■ have been to ~ vs have gone to ~:
+      have been to ~「～に行ったことがある」(経験) /「～に行ってきたところだ」(完了)
+      have gone to ~「～に行ってしまった（今はいない）」(結果)
+      ※《米》では「～に行ったことがある」に have gone to ~ を使うこともある
+      ■ 現在完了形とともに使えない語句（PU!5）:
+      yesterday, last night/month/year, ~ ago(⇨問17), then, in 1948, when+SV(過去)(⇨問18), When ~?
+      → 明らかに過去の時を示す語句とは共起できない。過去形を使う。
+      Power Up! 4: 現在完了形とともによく使われる語句一覧（完了・経験・継続別）
+      Power Up! 5: 現在完了形とともに使えない語句一覧
+      〈選択肢〉問18: 過去完了を使うには過去の基準点が必要。漠然とした広い期間は基準点にならない。
+
+  # === sdv-004: Theme 6 単独 ===
+  - id: "sdv-004"
+    name: "過去完了形と未来完了形の用法"
+    category: "動詞・時制"
+    priority: "P1"
+    notes: |
+      Theme 6: 過去完了形と未来完了形の用法（問題19-22）
+      現在完了形の「現在」という時の基準を、過去/未来のある時点に移行したものと考える。
+      [図表: 時間軸図 — 大過去←過去完了→過去←現在完了→現在←未来完了→未来]
+      ■ 過去完了形（had + 過去分詞）:
+      ① 過去のある時点までの完了（⇨問19: had already arrived）
+      ② 過去のある時点までの状態の継続
+      ③ 大過去（過去から見た過去）: 過去の2つの出来事で先に起こった方を過去完了形にする（⇨問21）
+      ■ 過去完了進行形（had been doing）:
+      過去のある時点までの動作の継続を表す（⇨問20: had been drifting）
+      ■ 未来完了形（will have + 過去分詞）:
+      未来のある時点までの完了を表す。by ~ 等の期限を示す語句と共起（⇨問22）
+
+  # === sdv-005: Theme 7 単独 ===
+  - id: "sdv-005"
+    name: "時・条件を表す副詞節中の時制"
+    category: "動詞・時制"
+    priority: "P1"
+    notes: |
+      Theme 7: 時・条件を表す副詞節中の時制（問題23-28）
+      〈重要〉時制問題では最頻出のルール。
+      ■ 基本ルール:
+      when や if 等に導かれた「時」「条件」を表す副詞節中では、未来のことでも現在形を用いる。
+      ■ 名詞節との区別:
+      when/if に導かれていても、名詞節の場合は未来のことは未来形で表す。
+      ・when「～する時」(副詞節/接続詞) → 現在形
+      ・when「いつ～するか」(名詞節/疑問詞) → will を用いた形
+      ・if「もし～なら」(副詞節/接続詞) → 現在形
+      ・if「～するかどうか」(名詞節/接続詞) → will を用いた形
+      ■ 副詞節中の未来完了:
+      副詞節中では未来完了の内容でも現在完了形を用いる（⇨問28: have reached）
+      ■ 名詞節に使われる主な動詞: tell, know, wonder 等の目的語として用いられる
+      ■ 副詞節を導く接続詞:
+      時: when, until/till, as soon as, by the time, after, before 等
+      条件: if, unless, in case 等
+      ※ when/if 以外の上記接続詞は名詞節を導かない
+      Power Up! 6: 副詞節 vs 名詞節の識別表（when/if × 時/条件 × 副詞節/名詞節）
+
 understanding_goals:
+  # sdv-001
   - node_id: "sdv-001"
     seq: 1
     goal: "every day / yesterday / next time 等の副詞表現から適切な時制を選択できる"
@@ -40,8 +134,61 @@ understanding_goals:
   - node_id: "sdv-001"
     seq: 4
     goal: "will と be going to の使い分け（単純未来/意志未来 vs 根拠に基づく予測/意図）ができる"
+  # sdv-002
+  - node_id: "sdv-002"
+    seq: 1
+    goal: "現在進行形・過去進行形・未来進行形の基本用法を区別できる"
+  - node_id: "sdv-002"
+    seq: 2
+    goal: "現在進行形が確定的な近い未来の予定を表す用法を理解できる"
+  - node_id: "sdv-002"
+    seq: 3
+    goal: "進行形にできない動詞（状態動詞・知覚動詞・心理動詞）を判別できる"
+  - node_id: "sdv-002"
+    seq: 4
+    goal: "意識的動作と無意識的知覚の違いから進行形の可否を判断できる"
+  # sdv-003
+  - node_id: "sdv-003"
+    seq: 1
+    goal: "現在完了形の3用法（完了・結果、経験、継続）を区別できる"
+  - node_id: "sdv-003"
+    seq: 2
+    goal: "各用法とよく共起する副詞表現を判別できる"
+  - node_id: "sdv-003"
+    seq: 3
+    goal: "状態動詞の継続は現在完了形、動作動詞の継続は現在完了進行形を使い分けられる"
+  - node_id: "sdv-003"
+    seq: 4
+    goal: "have been to と have gone to の意味の違いを説明できる"
+  - node_id: "sdv-003"
+    seq: 5
+    goal: "現在完了形と共起できない過去の時を示す語句を判別できる"
+  # sdv-004
+  - node_id: "sdv-004"
+    seq: 1
+    goal: "過去完了形の3つの用法（完了、継続、大過去）を区別できる"
+  - node_id: "sdv-004"
+    seq: 2
+    goal: "過去完了進行形で過去のある時点までの動作の継続を表現できる"
+  - node_id: "sdv-004"
+    seq: 3
+    goal: "未来完了形で未来のある時点までの完了を表現できる"
+  # sdv-005
+  - node_id: "sdv-005"
+    seq: 1
+    goal: "when/if節が副詞節か名詞節かを構文的に判断できる"
+  - node_id: "sdv-005"
+    seq: 2
+    goal: "副詞節中では未来のことでも現在形を使うルールを適用できる"
+  - node_id: "sdv-005"
+    seq: 3
+    goal: "名詞節では未来のことは未来形で表すルールを適用できる"
+  - node_id: "sdv-005"
+    seq: 4
+    goal: "未来完了の内容を副詞節中で現在完了形に置き換えられる"
 
 check_points:
+  # sdv-001
   - node_id: "sdv-001"
     seq: 1
     question: "every day のような習慣を示す副詞があるとき、動詞はどの時制にするか？"
@@ -58,11 +205,113 @@ check_points:
     seq: 4
     question: "英語の時制は全部で何通りの形があるか？"
     answer: "12通り。3時制（現在・過去・未来）× 4形式（基本形・進行形・完了形・完了進行形）。"
+  # sdv-002
+  - node_id: "sdv-002"
+    seq: 1
+    question: "進行形にできない動詞にはどのような種類があるか？"
+    answer: "(1)継続的な状態を表す動詞（belong, resemble等）、(2)無意識的な知覚を表す動詞（see, hear等）、(3)心理状態を表す動詞（know, believe等）の3種類。"
+  - node_id: "sdv-002"
+    seq: 2
+    question: "現在進行形で「確定的な近い未来の予定」を表す場合、現在形の「確定的な未来の予定」との違いは？"
+    answer: "現在進行形は個人的な予定に用いられることが多く、現在形は公的な予定に用いられることが多い。"
+  - node_id: "sdv-002"
+    seq: 3
+    question: "hear は進行形にできないが、listen to は進行形にできる。その理由は？"
+    answer: "hear は「無意識的な知覚」を表すのに対し、listen to は「意識的な動作」を表すため。"
+  - node_id: "sdv-002"
+    seq: 4
+    question: "状態動詞でも進行形にできる例外はどのような場合か？"
+    answer: "「一時的な状態」を強調するとき（例: I'm being serious now.「今はまじめにしているよ」）。"
+  # sdv-003
+  - node_id: "sdv-003"
+    seq: 1
+    question: "現在完了形の「継続」用法で、状態動詞と動作動詞ではどう使い分けるか？"
+    answer: "状態動詞（know等）は現在完了形（have known）で継続を表し、動作動詞（collect等）は現在完了進行形（have been collecting）で継続を表す。"
+  - node_id: "sdv-003"
+    seq: 2
+    question: "have been to ~ と have gone to ~ の違いは？"
+    answer: "have been to ~ は「～に行ったことがある」(経験) または「～に行ってきたところだ」(完了)。have gone to ~ は「～に行ってしまった（今はいない）」(結果)。"
+  - node_id: "sdv-003"
+    seq: 3
+    question: "ten years ago は現在完了形と共起できるか？"
+    answer: "できない。~ ago は明らかに過去の時を示す語句なので、現在完了形ではなく過去形を用いる。"
+  - node_id: "sdv-003"
+    seq: 4
+    question: "「完了・結果」用法でよく使われる副詞を3つ挙げよ。"
+    answer: "just（たった今）、already（もう）、yet（疑問文で「もう」/否定文で「まだ」）。"
+  # sdv-004
+  - node_id: "sdv-004"
+    seq: 1
+    question: "過去の2つの出来事を述べる場合、先に起こった出来事はどの時制で表すか？"
+    answer: "過去完了形（had + 過去分詞）で表す。この用法を「大過去」という。"
+  - node_id: "sdv-004"
+    seq: 2
+    question: "過去完了形は現在完了形とどのような関係にあるか？"
+    answer: "現在完了形の「現在」という時の基準を「過去のある時点」に移行したものが過去完了形。"
+  - node_id: "sdv-004"
+    seq: 3
+    question: "未来完了形（will have done）はどのような場面で使うか？"
+    answer: "未来のある時点までに完了しているであろう動作・状態を表す場合に使う。by 等の期限を表す語句とともに用いることが多い。"
+  - node_id: "sdv-004"
+    seq: 4
+    question: "過去のある時点までの動作の継続を表す時制は何か？"
+    answer: "過去完了進行形（had been doing）。例: Bob had been drifting for two days before he was found."
+  # sdv-005
+  - node_id: "sdv-005"
+    seq: 1
+    question: "I will wait until she (comes / will come). の正しい形は？"
+    answer: "comes。until は時を表す副詞節を導くので、未来のことでも現在形を用いる。"
+  - node_id: "sdv-005"
+    seq: 2
+    question: "I don't know when he (comes / will come). の正しい形は？"
+    answer: "will come。when が導く名詞節（know の目的語）なので、未来のことは未来形で表す。"
+  - node_id: "sdv-005"
+    seq: 3
+    question: "when/if 節が副詞節か名詞節かを判断する方法は？"
+    answer: "when「～する時」→ 副詞節（接続詞）、when「いつ～するか」→ 名詞節（疑問詞）。if「もし～なら」→ 副詞節、if「～するかどうか」→ 名詞節。"
+  - node_id: "sdv-005"
+    seq: 4
+    question: "副詞節中で未来完了の内容を表す場合、どの時制を使うか？"
+    answer: "現在完了形を使う（例: as soon as you have reached ...）。"
 
-node_prerequisites: []
+node_prerequisites:
+  - node_id: "sdv-002"
+    prerequisite_id: "sdv-001"
+  - node_id: "sdv-003"
+    prerequisite_id: "sdv-001"
+  - node_id: "sdv-004"
+    prerequisite_id: "sdv-003"
+  - node_id: "sdv-005"
+    prerequisite_id: "sdv-001"
+  - node_id: "sdv-005"
+    prerequisite_id: "sdv-003"
 
 knowledge_references:
   - node_id: "sdv-001"
     book: "スクランブル英文法・語法"
     section_id: "Scr_001"
+    pages: ""
+  - node_id: "sdv-002"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_002"
+    pages: ""
+  - node_id: "sdv-002"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_003"
+    pages: ""
+  - node_id: "sdv-003"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_004"
+    pages: ""
+  - node_id: "sdv-003"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_005"
+    pages: ""
+  - node_id: "sdv-004"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_006"
+    pages: ""
+  - node_id: "sdv-005"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_007"
     pages: ""

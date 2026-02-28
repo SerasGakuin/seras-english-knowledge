@@ -1,0 +1,148 @@
+# Scr_004: Theme 4 現在完了の用法 → sdv-003
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-004-p01"
+    section_id: "Scr_004"
+    drill: 1
+    number: 11
+    role: "exam"
+    english: "No, they have just moved to Dallas."
+    japanese: "いいえ。つい最近ダラスに引っ越したばかりです。"
+    notes: "難易度: 基本; 出典: センター; 対話形式（A: Are John and Mary still living in New York?）; 完了・結果→現在完了形; just=たった今"
+  - id: "scr-004-p02"
+    section_id: "Scr_004"
+    drill: 1
+    number: 12
+    role: "exam"
+    english: "I know all about that film because I have seen it twice."
+    japanese: "その映画は2回見たことがあるので、私はなんでもわかっている。"
+    notes: "難易度: 基本; 出典: 阪南大; 経験→現在完了形; twice=2回"
+  - id: "scr-004-p03"
+    section_id: "Scr_004"
+    drill: 1
+    number: 13
+    role: "exam"
+    english: "My wife and I have known each other since we were in high school."
+    japanese: "妻と私は高校時代からお互いを知っている。"
+    notes: "難易度: 頻出; 出典: 慶應大; 状態の継続→現在完了形（know=状態動詞→進行形不可）; since ~"
+  - id: "scr-004-p04"
+    section_id: "Scr_004"
+    drill: 1
+    number: 14
+    role: "exam"
+    english: "Jeremy has been collecting stamps since he was a child."
+    japanese: "ジェレミーは子どものころから切手を集めている。"
+    notes: "難易度: 頻出; 出典: 愛知学院大; 動作の継続→現在完了進行形（collect=動作動詞）; since ~"
+  - id: "scr-004-p05"
+    section_id: "Scr_004"
+    drill: 1
+    number: 15
+    role: "exam"
+    english: "I have just been to the airport to see my friends off."
+    japanese: "空港まで友だちを見送りに行ってきたところです。"
+    notes: "難易度: 基本; 出典: 立命館大; 穴埋め（been）; have been to ~「～に行ってきたところだ」(完了)"
+  - id: "scr-004-p06"
+    section_id: "Scr_004"
+    drill: 1
+    number: 16
+    role: "exam"
+    english: "Have you ever been to China?"
+    japanese: "中国に行ったことがありますか。"
+    notes: "難易度: 基本; 出典: センター; 対話形式（B: Yes, only once.）; have been to ~「～に行ったことがある」(経験); Aの文が空欄の問題→Aの文を登録"
+
+  # === 例文（example） ===
+  - id: "scr-004-e01"
+    section_id: "Scr_004"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "Emma is not here. She has gone to the park with her dog."
+    japanese: "エマはここにいません。彼女は犬と一緒に公園に行ってしまいました。"
+    notes: "問題15解説〈比較〉: have gone to ~「～に行ってしまった（今はいない）」(結果)"
+  - id: "scr-004-e02"
+    section_id: "Scr_004"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Has he ever gone to Paris?"
+    japanese: "彼はパリに行ったことがありますか。"
+    notes: "問題16解説〈発展〉: 《米》では「行ったことがある」にhave gone to ~を使うこともある（have been to ~が一般的）"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-004-p01"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-004-p01"
+    label: "details"
+    value: "they(S) have just moved(V) [to Dallas](M:前置詞句)."
+  # p02
+  - sentence_id: "scr-004-p02"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-004-p02"
+    label: "details"
+    value: "I(S) know(V) <all about that film>(O) [because I have seen it twice](M:副詞節)."
+  # p03
+  - sentence_id: "scr-004-p03"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-004-p03"
+    label: "details"
+    value: "<My wife and I>(S) have known(V) <each other>(O) [since we were in high school](M:副詞節)."
+  # p04
+  - sentence_id: "scr-004-p04"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-004-p04"
+    label: "details"
+    value: "Jeremy(S) has been collecting(V) stamps(O) [since he was a child](M:副詞節)."
+  # p05
+  - sentence_id: "scr-004-p05"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-004-p05"
+    label: "details"
+    value: "I(S) have just been(V) [to the airport](M:前置詞句) [to see my friends off](M:不定詞句/目的)."
+  # p06
+  - sentence_id: "scr-004-p06"
+    label: "overall"
+    value: "V S M V M"
+  - sentence_id: "scr-004-p06"
+    label: "details"
+    value: "Have(助V) you(S) ever(M) been(V) [to China](M:前置詞句)?"
+  # e01
+  - sentence_id: "scr-004-e01"
+    label: "overall"
+    value: "S V C / S V M M"
+  - sentence_id: "scr-004-e01"
+    label: "details"
+    value: "Emma(S) is(V) not here(C). She(S) has gone(V) [to the park](M:前置詞句) [with her dog](M:前置詞句)."
+  # e02
+  - sentence_id: "scr-004-e02"
+    label: "overall"
+    value: "V S M V M"
+  - sentence_id: "scr-004-e02"
+    label: "details"
+    value: "Has(助V) he(S) ever(M) gone(V) [to Paris](M:前置詞句)?"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-004-p01"
+    node_id: "sdv-003"
+  - sentence_id: "scr-004-p02"
+    node_id: "sdv-003"
+  - sentence_id: "scr-004-p03"
+    node_id: "sdv-003"
+  - sentence_id: "scr-004-p03"
+    node_id: "sdv-002"
+  - sentence_id: "scr-004-p04"
+    node_id: "sdv-003"
+  - sentence_id: "scr-004-p05"
+    node_id: "sdv-003"
+  - sentence_id: "scr-004-p06"
+    node_id: "sdv-003"
+  - sentence_id: "scr-004-e01"
+    node_id: "sdv-003"
+  - sentence_id: "scr-004-e02"
+    node_id: "sdv-003"

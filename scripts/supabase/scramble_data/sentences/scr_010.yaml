@@ -1,0 +1,82 @@
+# Scr_010: Theme 10 群動詞の受動態 → sdv-008 + PU!8
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-010-p01"
+    section_id: "Scr_010"
+    drill: 1
+    number: 33
+    role: "exam"
+    english: "She was laughed at by her friends when she came to a class party in pajamas."
+    japanese: "クラスのパーティーにパジャマでやって来た時、彼女は友人たちから笑われた。"
+    notes: "難易度: 頻出; 出典: 立命館大; laugh at ~の受動態→be laughed at (by ~)"
+  - id: "scr-010-p02"
+    section_id: "Scr_010"
+    drill: 1
+    number: 34
+    role: "exam"
+    english: "The boy was very sick, so he was taken care of by his mother all night."
+    japanese: "その男の子はとても具合が悪かったので、母親が夜通し世話をした。"
+    notes: "難易度: 頻出; 出典: 神戸学院大; take care of ~の受動態→be taken care of (by ~)"
+
+  # === 例文（example） ===
+  - id: "scr-010-e01"
+    section_id: "Scr_010"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "It must be done at once."
+    japanese: "すぐにそれをしなければならない。"
+    notes: "PU!8: 受動態の訳し方; 能動態に直して訳す例（= We must do it at once.）"
+  - id: "scr-010-e02"
+    section_id: "Scr_010"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Your clock can't be repaired."
+    japanese: "あなたの時計は修理できない。"
+    notes: "PU!8: 受動態の訳し方; 能動態に直して訳す例（= We can't repair your clock.）"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-010-p01"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-010-p01"
+    label: "details"
+    value: "She(S) was laughed at(V) [by her friends](M:前置詞句) [when she came to a class party in pajamas](M:副詞節)."
+  # p02
+  - sentence_id: "scr-010-p02"
+    label: "overall"
+    value: "S V C / S V M M"
+  - sentence_id: "scr-010-p02"
+    label: "details"
+    value: "<The boy>(S) was(V) very sick(C), so he(S) was taken care of(V) [by his mother](M:前置詞句) [all night](M)."
+  # e01
+  - sentence_id: "scr-010-e01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-010-e01"
+    label: "details"
+    value: "It(S) must be done(V) [at once](M)."
+  # e02
+  - sentence_id: "scr-010-e02"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "scr-010-e02"
+    label: "details"
+    value: "<Your clock>(S) can't be repaired(V)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-010-p01"
+    node_id: "sdv-008"
+  - sentence_id: "scr-010-p02"
+    node_id: "sdv-008"
+  - sentence_id: "scr-010-e01"
+    node_id: "sdv-008"
+  - sentence_id: "scr-010-e01"
+    node_id: "sdv-006"
+  - sentence_id: "scr-010-e02"
+    node_id: "sdv-008"
+  - sentence_id: "scr-010-e02"
+    node_id: "sdv-006"

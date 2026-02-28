@@ -1,0 +1,42 @@
+# Scr_008: Theme 8 受動態の基本 → sdv-006
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-008-p01"
+    section_id: "Scr_008"
+    drill: 1
+    number: 29
+    role: "exam"
+    english: "English and French are spoken in Canada."
+    japanese: "カナダでは英語とフランス語が話されている。"
+    notes: "難易度: 基本/頻出; 出典: 摂南大; 動作主がばく然と一般の人々(they)→by A省略"
+  - id: "scr-008-p02"
+    section_id: "Scr_008"
+    drill: 1
+    number: 30
+    role: "exam"
+    english: "Inflation must be controlled at any cost."
+    japanese: "どんなことをしてもインフレは抑えなければならない。"
+    notes: "難易度: 基本/頻出; 出典: 千葉工大; 整序問題; 助動詞+be done; 語句: at any cost「どんなに費用をかけても」"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-008-p01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-008-p01"
+    label: "details"
+    value: "<English and French>(S) are spoken(V) [in Canada](M:前置詞句)."
+  # p02
+  - sentence_id: "scr-008-p02"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-008-p02"
+    label: "details"
+    value: "Inflation(S) must be controlled(V) [at any cost](M:前置詞句)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-008-p01"
+    node_id: "sdv-006"
+  - sentence_id: "scr-008-p02"
+    node_id: "sdv-006"

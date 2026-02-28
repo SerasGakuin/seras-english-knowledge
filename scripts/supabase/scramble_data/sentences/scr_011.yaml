@@ -1,0 +1,61 @@
+# Scr_011: Theme 11 使役動詞・知覚動詞の受動態 → sdv-009
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-011-p01"
+    section_id: "Scr_011"
+    drill: 1
+    number: 35
+    role: "exam"
+    english: "I was made to wait for months until she agreed to see me."
+    japanese: "彼女が会ってくれるまで、何か月も待たされました。"
+    notes: "難易度: 準出; 出典: 成城大; make A doの受動態→A is made to do; 原形不定詞がto不定詞に変化; 本問=I was forced to wait for months...（この表現のほうがふつう）"
+  - id: "scr-011-p02"
+    section_id: "Scr_011"
+    drill: 1
+    number: 36
+    role: "exam"
+    english: "She was seen to enter the building with a woman carrying a red suitcase."
+    japanese: "彼女は赤いスーツケースを持った女性とともに建物に入るのを見られた。"
+    notes: "出典: 中央大; see A doの受動態→A is seen to do"
+
+  # === 例文（example） ===
+  - id: "scr-011-e01"
+    section_id: "Scr_011"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I was allowed to go to college."
+    japanese: "私は大学に行かせてもらった。"
+    notes: "発展: letは受動態にしない→allowで代用; have/letは受動態不可"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-011-p01"
+    label: "overall"
+    value: "S V C M M"
+  - sentence_id: "scr-011-p01"
+    label: "details"
+    value: "I(S) was made(V) [to wait](C:不定詞) [for months](M:前置詞句) [until she agreed to see me](M:副詞節)."
+  # p02
+  - sentence_id: "scr-011-p02"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-011-p02"
+    label: "details"
+    value: "She(S) was seen(V) [to enter the building](C:不定詞) [with a woman carrying a red suitcase](M:前置詞句)."
+  # e01
+  - sentence_id: "scr-011-e01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-011-e01"
+    label: "details"
+    value: "I(S) was allowed(V) [to go to college](C:不定詞)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-011-p01"
+    node_id: "sdv-009"
+  - sentence_id: "scr-011-p02"
+    node_id: "sdv-009"
+  - sentence_id: "scr-011-e01"
+    node_id: "sdv-009"

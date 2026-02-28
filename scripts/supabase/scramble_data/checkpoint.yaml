@@ -2,24 +2,36 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T12:00:00"
+updated_at: "2026-03-02T10:00:00"
 book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 1 (Pilot) 完了"
+  phase: "Phase 2 — B01 完了（Ch01+Ch02）"
   current_section: null
   current_step: null
-  last_completed_section: "Scr_125"
+  last_completed_section: "Scr_016"
   last_completed_gate: 5
 
 progress:
   total_sections: 271
-  completed: 3
+  completed: 18
   in_progress: 0
-  remaining: 268
-  total_nodes: 3
-  total_sentences: 21
+  remaining: 253
+  total_nodes: 15
+  total_sentences: 86
+
+b01_results:
+  ch01_sections: ["Scr_002", "Scr_003", "Scr_004", "Scr_005", "Scr_006", "Scr_007"]
+  ch01_nodes: ["sdv-002", "sdv-003", "sdv-004", "sdv-005"]
+  ch01_sentences: 35
+  ch02_sections: ["Scr_008", "Scr_009", "Scr_010", "Scr_011", "Scr_012", "Scr_013", "Scr_014", "Scr_015", "Scr_016"]
+  ch02_nodes: ["sdv-006", "sdv-007", "sdv-008", "sdv-009", "sdv-010", "sdv-011", "sdv-012", "sdv-013"]
+  ch02_sentences: 30
+  metrics:
+    ch01_node_section_ratio: 0.67
+    ch02_node_section_ratio: 0.89
+    overall_node_section_ratio: 0.83
 
 pilot_results:
   sections_completed:
@@ -32,11 +44,6 @@ pilot_results:
     - section: "Scr_125"
       nodes: ["sgh-001"]
       sentences: 7
-  metrics:
-    node_section_ratio: 1.0
-    avg_sentences_per_node: 7.0
-    avg_goals_per_node: 4.0
-    avg_checkpoints_per_node: 4.3
 
 recent_decisions:
   - "decision #1: PU!1の12時制表はsentences登録しない（スケルトン）"
@@ -49,8 +56,10 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
-  - "パイロット振り返りをユーザーに報告"
-  - "Phase 2への進行判断を仰ぐ"
+  - "Ch01+Ch02コミット"
+  - "章区切り → ワークフロー.md + 設計書.md 再読込"
+  - "B02: Ch03 助動詞(Scr_017-024) + Ch04 不定詞(Scr_025-031)"
+  - "ノードID: Ch03=sdv系続番, Ch04=sjd-001〜"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

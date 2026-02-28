@@ -1,0 +1,114 @@
+# Scr_002: Theme 2 進行形の用法 → sdv-002
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-002-p01"
+    section_id: "Scr_002"
+    drill: 1
+    number: 5
+    role: "exam"
+    english: "She is talking with a friend right now."
+    japanese: "今、彼女は友人と話している。"
+    notes: "難易度: 基本; 出典: 北星学園大; 整序問題; 現在進行中の動作→現在進行形; 語句: talk with A"
+  - id: "scr-002-p02"
+    section_id: "Scr_002"
+    drill: 1
+    number: 6
+    role: "exam"
+    english: "They are arriving at Narita tomorrow."
+    japanese: "彼らは明日成田に着く予定です。"
+    notes: "出典: 東北学院大; 確定的な近い未来の予定→現在進行形; 〈選択肢〉are going to arriveなら可、will arriveなら可"
+  - id: "scr-002-p03"
+    section_id: "Scr_002"
+    drill: 1
+    number: 7
+    role: "exam"
+    english: "I was washing my hair when the phone started ringing."
+    japanese: "電話が鳴り始めた時、私は髪の毛を洗っていた。"
+    notes: "難易度: 頻出; 出典: 関東学院大; 過去のある時点での進行中の動作→過去進行形"
+  - id: "scr-002-p04"
+    section_id: "Scr_002"
+    drill: 1
+    number: 8
+    role: "exam"
+    english: "The president will be appearing on TV tomorrow evening."
+    japanese: "大統領は明日の夕方、テレビに出演しているでしょう。"
+    notes: "出典: 獨協大; 未来のある時点での進行中の動作→未来進行形"
+
+  # === 例文（example） ===
+  - id: "scr-002-e01"
+    section_id: "Scr_002"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I'm leaving tonight."
+    japanese: "私は今夜出発します。"
+    notes: "問題6解説〈比較〉: 現在進行形で個人的な予定を表す"
+  - id: "scr-002-e02"
+    section_id: "Scr_002"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "What time does the next train leave?"
+    japanese: "次の列車は何時に出発しますか。"
+    notes: "問題6解説〈比較〉: 現在形で公的な予定を表す"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-002-p01"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-002-p01"
+    label: "details"
+    value: "She(S) is talking(V) [with a friend](M:前置詞句) [right now](M:副詞句)."
+  # p02
+  - sentence_id: "scr-002-p02"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-002-p02"
+    label: "details"
+    value: "They(S) are arriving(V) [at Narita](M:前置詞句) tomorrow(M)."
+  # p03
+  - sentence_id: "scr-002-p03"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-002-p03"
+    label: "details"
+    value: "I(S) was washing(V) <my hair>(O) [when the phone started ringing](M:副詞節)."
+  # p04
+  - sentence_id: "scr-002-p04"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-002-p04"
+    label: "details"
+    value: "<The president>(S) will be appearing(V) [on TV](M:前置詞句) [tomorrow evening](M:副詞句)."
+  # e01
+  - sentence_id: "scr-002-e01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-002-e01"
+    label: "details"
+    value: "I(S)'m leaving(V) tonight(M)."
+  # e02
+  - sentence_id: "scr-002-e02"
+    label: "overall"
+    value: "M V S V"
+  - sentence_id: "scr-002-e02"
+    label: "details"
+    value: "[What time](M:疑問副詞句) does(助V) <the next train>(S) leave(V)?"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-002-p01"
+    node_id: "sdv-002"
+  - sentence_id: "scr-002-p02"
+    node_id: "sdv-002"
+  - sentence_id: "scr-002-p03"
+    node_id: "sdv-002"
+  - sentence_id: "scr-002-p04"
+    node_id: "sdv-002"
+  - sentence_id: "scr-002-e01"
+    node_id: "sdv-002"
+  - sentence_id: "scr-002-e02"
+    node_id: "sdv-002"
+  - sentence_id: "scr-002-e02"
+    node_id: "sdv-001"

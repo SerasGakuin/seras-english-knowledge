@@ -1,0 +1,42 @@
+# Scr_013: Theme 13 動作／状態を明確にする表現 → sdv-011
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-013-p01"
+    section_id: "Scr_013"
+    drill: 1
+    number: 39
+    role: "exam"
+    english: "I wasn't careful enough, and my suitcase got stolen at the airport yesterday."
+    japanese: "私は注意が不十分だったので、昨日空港でスーツケースを盗まれた。"
+    notes: "出典: 東京経済大; get+過去分詞=動作の受動態; 予期しないこと(盗難)にgetを使用"
+  - id: "scr-013-p02"
+    section_id: "Scr_013"
+    drill: 1
+    number: 40
+    role: "exam"
+    english: "The road remained closed for more than a week owing to the heavy snow."
+    japanese: "道路は大雪のために1週間以上閉鎖されたままだった。"
+    notes: "出典: 金沢工大; 正誤判定問題（closing→closed）; remain+過去分詞=状態の受動態; 参照: 問53"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-013-p01"
+    label: "overall"
+    value: "S V C / S V M M"
+  - sentence_id: "scr-013-p01"
+    label: "details"
+    value: "I(S) wasn't(V) careful enough(C), and <my suitcase>(S) got stolen(V) [at the airport](M:前置詞句) yesterday(M)."
+  # p02
+  - sentence_id: "scr-013-p02"
+    label: "overall"
+    value: "S V C M M"
+  - sentence_id: "scr-013-p02"
+    label: "details"
+    value: "<The road>(S) remained(V) closed(C) [for more than a week](M:前置詞句) [owing to the heavy snow](M:前置詞句)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-013-p01"
+    node_id: "sdv-011"
+  - sentence_id: "scr-013-p02"
+    node_id: "sdv-011"

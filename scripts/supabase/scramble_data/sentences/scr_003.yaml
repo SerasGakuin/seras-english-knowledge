@@ -1,0 +1,95 @@
+# Scr_003: Theme 3 進行形にできない動詞 → sdv-002
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-003-p01"
+    section_id: "Scr_003"
+    drill: 1
+    number: 9
+    role: "exam"
+    english: "My younger brother belongs to the baseball club at school."
+    japanese: "私の弟は学校で野球部に所属している。"
+    notes: "出典: 群馬大; 正誤判定問題（is belonging→belongs）; belong=継続的な状態→進行形不可"
+  - id: "scr-003-p02"
+    section_id: "Scr_003"
+    drill: 1
+    number: 10
+    role: "exam"
+    english: "Listen! I hear a funny noise outside."
+    japanese: "ねえ、聞いて！ 外で変な音が聞こえる。"
+    notes: "出典: 高崎経済大; hear=無意識的な知覚→進行形不可"
+
+  # === 例文（example） ===
+  - id: "scr-003-e01"
+    section_id: "Scr_003"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I'm being serious now."
+    japanese: "今はまじめにしているよ。"
+    notes: "問題9解説〈発展〉: 一時的な状態を強調する場合は状態動詞でも進行形にできる"
+  - id: "scr-003-e02"
+    section_id: "Scr_003"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "She was watching television."
+    japanese: "彼女はテレビを見ていた。"
+    notes: "問題10プラスα: 意識的な動作を表す知覚動詞（watch）は進行形にできる"
+  - id: "scr-003-e03"
+    section_id: "Scr_003"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "He is tasting the soup."
+    japanese: "彼はスープの味見をしています。"
+    notes: "問題10プラスα: taste「味見する」は意識的動作→進行形可（cf. taste「～の味がする」は不可）"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-003-p01"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-003-p01"
+    label: "details"
+    value: "<My younger brother>(S) belongs(V) [to the baseball club](M:前置詞句) [at school](M:前置詞句)."
+  # p02
+  - sentence_id: "scr-003-p02"
+    label: "overall"
+    value: "V / S V O M"
+  - sentence_id: "scr-003-p02"
+    label: "details"
+    value: "Listen(V)! I(S) hear(V) <a funny noise>(O) outside(M)."
+  # e01
+  - sentence_id: "scr-003-e01"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-003-e01"
+    label: "details"
+    value: "I(S)'m being(V) serious(C) now(M)."
+  # e02
+  - sentence_id: "scr-003-e02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-003-e02"
+    label: "details"
+    value: "She(S) was watching(V) television(O)."
+  # e03
+  - sentence_id: "scr-003-e03"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-003-e03"
+    label: "details"
+    value: "He(S) is tasting(V) <the soup>(O)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-003-p01"
+    node_id: "sdv-002"
+  - sentence_id: "scr-003-p02"
+    node_id: "sdv-002"
+  - sentence_id: "scr-003-e01"
+    node_id: "sdv-002"
+  - sentence_id: "scr-003-e02"
+    node_id: "sdv-002"
+  - sentence_id: "scr-003-e03"
+    node_id: "sdv-002"
