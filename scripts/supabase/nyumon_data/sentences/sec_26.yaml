@@ -1,0 +1,46 @@
+sentences:
+  - id: "ny-26-s1"
+    section_id: "Ny_26"
+    drill: 26
+    number: 1
+    role: "exercise"
+    english: "Psychologists have pointed out that well-established friendships lead us to a better understanding of ourselves."
+    japanese: "心理学者の指摘では，十分に確立した友情を持てば私達は自分自身のことをよりよく理解できるということだ。"
+    notes: ""
+  - id: "ny-26-s2"
+    section_id: "Ny_26"
+    drill: 26
+    number: 2
+    role: "exercise"
+    english: "They have also noted that we might face conflicts not only with acquaintances but even with our good friends, which could result in ends to some of our friendships."
+    japanese: "また彼らは，知人だけでなく親友とも対立し，それによって友情が終わってしまう場合があるかもしれない，ということをも指摘している。"
+    notes: ""
+
+sentence_structures:
+  - sentence_id: "ny-26-s1"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "ny-26-s1"
+    label: "details"
+    value: "{S}Psychologists {V}have pointed out {O}[that {S}well-established friendships {V}lead {O}us (to a better understanding (of ourselves)(M:形容詞句))(M:副詞句)](that節)."
+  - sentence_id: "ny-26-s1"
+    label: "partial_translations"
+    value: |
+      ❷ 十分に確立された友情を持てば私達は自分自身のことをよりよく理解するようになる
+  - sentence_id: "ny-26-s2"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "ny-26-s2"
+    label: "details"
+    value: "{S}They {V}have also noted {O}[that {S}we {V}might face {O}conflicts (not only (with acquaintances)(M:副詞句) {等接}but even (with our good friends)(M:副詞句))(M:副詞句), (which [{S}{関代}which {V}could result in {O}ends (to some (of our friendships)(M:形容詞句))(M:形容詞句)](関係代名詞節/非制限用法))(M:形容詞節)](that節)."
+  - sentence_id: "ny-26-s2"
+    label: "partial_translations"
+    value: |
+      ❸ 知人だけでなく親友との対立にさえ直面するかもしれない
+      ❹ それによって友情の一部が終わるかもしれない
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-26-s1"
+    node_id: "nks-004"
+  - sentence_id: "ny-26-s2"
+    node_id: "nks-004"

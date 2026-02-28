@@ -76,6 +76,41 @@ knowledge_nodes:
         例: He is no older than I am. = 「彼と私との年齢に差はない」
         本文: 5杯以上飲む人と全く飲まない人の危険性に差がない。
 
+  - id: "nks-004"
+    name: "関係代名詞の非制限用法"
+    category: "関係詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❷〔関係詞〕（問24）❸〔関係詞〕（問25）❹〔関係詞〕（問26）
+      ■ 非制限用法の3つの特徴:
+        ① コンマ＋関係代名詞の形。制限用法にはコンマなし。
+        ② 挿入か文末: 文の途中に挿入されるか文末に付加される。
+        ③ 固有名詞の後: 固有名詞（1つに特定できる名詞）の場合は非制限用法を使う。
+      ■ 非制限用法の which は「それ」と代名詞に置き換えて読む。
+        例: some of which was good → some of it(=feedback) was good
+      ■ 制限用法 vs 非制限用法（問25）:
+        - 制限用法: a girl who is from Japan → 日本出身の女の子（複数人の中から限定）
+        - 非制限用法: Tokyo, which is the capital of Japan → 東京は日本の首都だが（補足説明）
+        - コンマの有無で判別: hunting, which was not regulated → 非制限用法
+          which を it(=hunting) に置き換えて「狩猟、それは政府に規制されていなかった」
+      ■ which の先行詞の特定（問26）:
+        非制限用法の which の先行詞は必ずしも直前の名詞ではない。
+        which は人以外を受けるため、先行詞の候補から「人」を除外して判定する。
+        例: our good friends, which could result in ends →
+          先行詞は good friends(人) ではなく conflicts(事)。
+          全体の意味: 「対立に直面するかもしれず、それが友情の終わりにつながりうる」
+      ❶（問24）that は接続詞。told that 〜 で「〜と伝えられた」。
+      ❸（問24）which は疑問詞。asked which they wanted 〜 で「どちらを〜したいか尋ねられた」。
+      ❶（問25）had declined: 過去完了形。1920年代までに減少が完了していた。
+      ❷（問25）by the 1920s の by は「〜までに」、through hunting の through は「〜を通じて」。
+      ❹（問25）Ranchers on large farms raising ... の raising は現在分詞で farms を修飾。
+        cattle, horses, and sheep の3つを and でつないでいる。
+      ❶（問26）that は接続詞。pointed out that 〜 で「〜を指摘した」。
+      ❷（問26）lead us to a better understanding: lead A to B「AをBに導く」。
+        この to は前置詞なので後ろは名詞（understanding）。
+      ❸（問26）not only with acquaintances but even with our good friends:
+        not only A but B「AだけでなくB」。even は「〜さえ」で強調。
+
 understanding_goals:
   - node_id: "nks-001"
     seq: 1
@@ -107,6 +142,18 @@ understanding_goals:
   - node_id: "nks-003"
     seq: 3
     goal: "〈no＋比較級〉が「差がゼロ」を意味することを理解している"
+  - node_id: "nks-004"
+    seq: 1
+    goal: "非制限用法の3つの特徴（コンマ・挿入/文末・固有名詞）を説明できる"
+  - node_id: "nks-004"
+    seq: 2
+    goal: "制限用法と非制限用法の違いをコンマの有無から判別できる"
+  - node_id: "nks-004"
+    seq: 3
+    goal: "非制限用法の which を代名詞に置き換えて意味をとることができる"
+  - node_id: "nks-004"
+    seq: 4
+    goal: "which の先行詞が直前の名詞でない場合に正しく特定できる"
 
 check_points:
   - node_id: "nks-001"
@@ -153,6 +200,22 @@ check_points:
     seq: 3
     question: "about three to five cups a day は文中でどのような働きをしているか？"
     answer: "a moderate amount of coffee と同格の関係。「適度な量のコーヒー」を具体化して「1日に約3〜5杯」と説明している。a day の a は「〜につき」の意味。"
+  - node_id: "nks-004"
+    seq: 1
+    question: "some of which was good の which は何を指し、どう読み解くか？"
+    answer: "which は feedback を指す非制限用法の関係代名詞。which を it(=feedback) に置き換えて some of it was good「その一部はよいものだった」と読む。コンマ＋which の形が非制限用法の目印。"
+  - node_id: "nks-004"
+    seq: 2
+    question: "制限用法と非制限用法の違いは何か？ どう見分けるか？"
+    answer: "制限用法は先行詞を限定する（a girl who is from Japan = 日本出身の女の子）。非制限用法は先行詞に補足説明を加える（Tokyo, which is the capital = 東京、それは首都だが）。コンマの有無で見分ける。"
+  - node_id: "nks-004"
+    seq: 3
+    question: "hunting, which was not regulated by the government の which はどう理解するか？"
+    answer: "非制限用法の which で先行詞は hunting。which を it(=hunting) に置き換えて「狩猟、それは政府によって規制されていなかった」と読む。コンマがあるので非制限用法。"
+  - node_id: "nks-004"
+    seq: 4
+    question: "our good friends, which could result in ends の which の先行詞は何か？ なぜそう判断できるか？"
+    answer: "先行詞は good friends ではなく、前方の conflicts。which は人以外を受けるため、人を表す good friends は先行詞になれない。「対立に直面するかもしれず、それ(=対立)が友情の終わりにつながりうる」。"
 
 node_prerequisites:
   - node_id: "nks-001"
@@ -166,6 +229,8 @@ node_prerequisites:
   - node_id: "nks-002"
     prerequisite_id: "nks-001"
   - node_id: "nks-003"
+    prerequisite_id: "nks-001"
+  - node_id: "nks-004"
     prerequisite_id: "nks-001"
 
 knowledge_references:
@@ -185,3 +250,15 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_23"
     pages: "p.72-73"
+  - node_id: "nks-004"
+    book: "入門英文問題精講"
+    section_id: "Ny_24"
+    pages: "p.74-75"
+  - node_id: "nks-004"
+    book: "入門英文問題精講"
+    section_id: "Ny_25"
+    pages: "p.76-77"
+  - node_id: "nks-004"
+    book: "入門英文問題精講"
+    section_id: "Ny_26"
+    pages: "p.78-79"

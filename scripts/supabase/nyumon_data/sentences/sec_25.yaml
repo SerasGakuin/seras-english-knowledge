@@ -1,0 +1,47 @@
+sentences:
+  - id: "ny-25-s1"
+    section_id: "Ny_25"
+    drill: 25
+    number: 1
+    role: "exercise"
+    english: "The wolves' numbers had declined by the 1920s through hunting, which was not regulated by the government."
+    japanese: "政府が狩猟を規制することがなかったため，オオカミの数は狩猟によって1920年代までに減少していた。"
+    notes: "* rancher「牧場経営者」（問題文の語彙注釈）"
+  - id: "ny-25-s2"
+    section_id: "Ny_25"
+    drill: 25
+    number: 2
+    role: "exercise"
+    english: "Ranchers on large farms raising cattle, horses, and sheep did not like wolves because they killed their animals."
+    japanese: "牛，馬，羊を飼っている大規模な農場の牧場経営者は，オオカミを好まなかった。なぜならオオカミは彼らの動物を殺してしまうからだ。"
+    notes: ""
+
+sentence_structures:
+  - sentence_id: "ny-25-s1"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "ny-25-s1"
+    label: "details"
+    value: "{S}The wolves' numbers {V}had declined (by the 1920s)(M:副詞句) (through hunting, (which [{S}{関代}which {V}was not regulated (by the government)(M:副詞句)](関係代名詞節/非制限用法))(M:形容詞節))(M:副詞句)."
+  - sentence_id: "ny-25-s1"
+    label: "partial_translations"
+    value: |
+      ❶ オオカミの数は減少していた
+      ❷ 1920年代までに狩猟によって
+      ❸ 政府によって規制されなかった狩猟によって
+  - sentence_id: "ny-25-s2"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "ny-25-s2"
+    label: "details"
+    value: "{S}Ranchers (on large farms)(M:形容詞句) (raising cattle, horses, {等接}and sheep)(M:形容詞句/現在分詞) {V}did not like {O}wolves [because {S}they {V}killed {O}their animals](M:副詞節)."
+  - sentence_id: "ny-25-s2"
+    label: "partial_translations"
+    value: |
+      ❹ 牛，馬，羊を飼っている大規模農場の（牧場経営者）
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-25-s1"
+    node_id: "nks-004"
+  - sentence_id: "ny-25-s2"
+    node_id: "nks-004"

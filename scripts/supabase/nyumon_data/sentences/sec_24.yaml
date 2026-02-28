@@ -1,0 +1,26 @@
+sentences:
+  - id: "ny-24-s1"
+    section_id: "Ny_24"
+    drill: 24
+    number: 1
+    role: "exercise"
+    english: "One group was told that they were going to get feedback, some of which was good and some of which was bad, and were asked which they wanted to hear first."
+    japanese: "1つのグループには，意見（その一部はよいものであり，別の一部は悪いものである）を受け取ることになると伝えられ，そしてどちらを最初に聞きたいかを尋ねられた。"
+    notes: "出典: 静岡県立大学"
+
+sentence_structures:
+  - sentence_id: "ny-24-s1"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "ny-24-s1"
+    label: "details"
+    value: "{S}One group {V}was told {O}[that {S}they {V}were going to get {O}feedback, (some (of which)(M:形容詞句) {V}was {C}good {等接}and some (of which)(M:形容詞句) {V}was {C}bad)(関係代名詞節/非制限用法)](that節), {等接}and {V}were asked {O}[which {S}they {V}wanted to hear first](疑問詞節)."
+  - sentence_id: "ny-24-s1"
+    label: "partial_translations"
+    value: |
+      ❷ その一部はよいもので別の一部は悪いもの（意見について）
+      ❸ どちらを最初に聞きたいかを尋ねられた
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-24-s1"
+    node_id: "nks-004"

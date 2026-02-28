@@ -374,32 +374,32 @@ sections:
     title: "関係代名詞の非制限用法①"
     type: "exercise"
     pages: "p.74-75"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nks-004をNy_25,26と共有（非制限用法①②③統合）"
   Ny_25:
     title: "関係代名詞の非制限用法②"
     type: "exercise"
     pages: "p.76-77"
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nks-004をNy_24,26と共有（非制限用法①②③統合）"
   Ny_26:
     title: "関係代名詞の非制限用法③"
     type: "exercise"
     pages: "p.78-79"
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nks-004をNy_24,25と共有（非制限用法①②③統合）"
   Ny_27:
     title: "関係副詞(when)"
     type: "exercise"
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 36
+  completed: 39
   in_progress: 0
-  not_started: 49
-  total_knowledge_nodes: 33
-  total_sentences: 121
+  not_started: 46
+  total_knowledge_nodes: 34
+  total_sentences: 126

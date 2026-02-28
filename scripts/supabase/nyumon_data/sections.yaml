@@ -263,19 +263,22 @@ sections:
     title: "関係代名詞の非制限用法①"
     pages: "p.74-75"
     type: "exercise"
-    notes: ""
+    notes: |
+      一言: この話は「悪い知らせとよい知らせのどちらを先に聞きたいか」という問いに対して，多くの人は悪いほうを先に，よいほうをあとに聞くと答えるそうですが，人に反省を促すなら「最後に悪いこと」を言うべきだという話。
   - id: "Ny_25"
     book: "入門英文問題精講"
     title: "関係代名詞の非制限用法②"
     pages: "p.76-77"
     type: "exercise"
-    notes: ""
+    notes: |
+      一言: 関係代名詞の非制限用法と同じく，「直前の名詞を補足的に説明する働き」を持つものに分詞構文がある。伝統的な分類では分詞構文は副詞の働きだが，形容詞の働きをしているととらえられることもある。
   - id: "Ny_26"
     book: "入門英文問題精講"
     title: "関係代名詞の非制限用法③"
     pages: "p.78-79"
     type: "exercise"
-    notes: ""
+    notes: |
+      一言: この文のあとに続く文では「幸運にも，そういう対立が起きるとしても，友情を維持する方法を見つけることは可能だ」とある。「友情」とはお互いへの気遣いから成り立つ。
   - id: "Ny_27"
     book: "入門英文問題精講"
     title: "関係副詞(when)"
@@ -671,6 +674,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_23"
     node_id: "nks-003"
+    seq: 1
+  - section_id: "Ny_24"
+    node_id: "nks-004"
+    seq: 1
+  - section_id: "Ny_25"
+    node_id: "nks-004"
+    seq: 1
+  - section_id: "Ny_26"
+    node_id: "nks-004"
     seq: 1
 
 section_prerequisites: []
