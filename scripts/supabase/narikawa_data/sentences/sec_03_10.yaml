@@ -1,0 +1,71 @@
+# Nar_03_10: 動詞の原形について考える(2) (p.116-118)
+
+sentences:
+  - id: "nar-0310-e173"
+    section_id: "Nar_03_10"
+    drill: 0
+    number: 173
+    role: "example"
+    english: "Believe it or not, he asked me to marry him!"
+    japanese: "信じられないかもしれないが、彼は私に結婚してくれと言った"
+    notes: "文頭のbelieveが原形。信じるという行為がまだ現実のものになっていない。脚注*2: Whether you believe it or notに書き換え可能"
+  - id: "nar-0310-e174"
+    section_id: "Nar_03_10"
+    drill: 0
+    number: 174
+    role: "example"
+    english: "If it rains tomorrow, we'll stay at home."
+    japanese: "もしも明日雨ならば、私たちは家にいる"
+    notes: "現代英語の形。歴史的にはIf it rain（原形）だったものが現在形rainsに変化した"
+  - id: "nar-0310-e175"
+    section_id: "Nar_03_10"
+    drill: 0
+    number: 175
+    role: "example"
+    english: "You be quiet; I'll do the talking."
+    japanese: "私が話しますから、あなたは黙っていてください"
+    notes: "命令文で主語youが残る例。原形beが使われている。「主語省略だから原形」では説明不十分。原形の「未実現」イメージで理解する"
+  - id: "nar-0310-v001"
+    section_id: "Nar_03_10"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "If it rain tomorrow, we'll stay at home."
+    japanese: "もしも明日雨ならば、私たちは家にいる"
+    notes: "▶ 16世紀の歴史的用法。主語が3人称単数でも動詞の原形rainを使用。まだ現実になっていない不確定なことを原形で表した。現代ではrains（現在形）に変化"
+
+sentence_structures:
+  - sentence_id: "nar-0310-e173"
+    label: "overall"
+    value: "M S V O C"
+  - sentence_id: "nar-0310-e173"
+    label: "details"
+    value: "[Believe it or not](M:原形を用いた挿入句) <he>(S) asked(V) <me>(O) [to marry him](C:不定詞)"
+  - sentence_id: "nar-0310-e174"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "nar-0310-e174"
+    label: "details"
+    value: "[If it rains tomorrow](M:条件の副詞節/現在形) <we>(S) 'll stay(V) [at home](M:前置詞句)"
+  - sentence_id: "nar-0310-e175"
+    label: "overall"
+    value: "S V C ; S V O"
+  - sentence_id: "nar-0310-e175"
+    label: "details"
+    value: "<You>(S) be(V:原形/命令文) <quiet>(C); <I>(S) 'll do(V) <the talking>(O)"
+  - sentence_id: "nar-0310-v001"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "nar-0310-v001"
+    label: "details"
+    value: "[If it rain tomorrow](M:条件の副詞節/原形=歴史的用法) <we>(S) 'll stay(V) [at home](M:前置詞句)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0310-e173"
+    node_id: "nrt-010"
+  - sentence_id: "nar-0310-e174"
+    node_id: "nrt-010"
+  - sentence_id: "nar-0310-e175"
+    node_id: "nrt-010"
+  - sentence_id: "nar-0310-v001"
+    node_id: "nrt-010"

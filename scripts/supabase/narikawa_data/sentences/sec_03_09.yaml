@@ -1,0 +1,71 @@
+# Nar_03_09: 動詞の原形について考える(1) (p.114-115)
+
+sentences:
+  - id: "nar-0309-e169"
+    section_id: "Nar_03_09"
+    drill: 0
+    number: 169
+    role: "example"
+    english: "Memorize a lot of English words."
+    japanese: "たくさんの英単語を暗記しなさい"
+    notes: "命令文。動詞の原形で始まる。まだ覚えていないから命令する"
+  - id: "nar-0309-e170"
+    section_id: "Nar_03_09"
+    drill: 0
+    number: 170
+    role: "example"
+    english: "I promised to do it today."
+    japanese: "私は今日それをする約束をした"
+    notes: "不定詞(to+原形)。to do it todayはまだ現実になっていない行為"
+  - id: "nar-0309-e171"
+    section_id: "Nar_03_09"
+    drill: 0
+    number: 171
+    role: "example"
+    english: "My father requested that I be here."
+    japanese: "父は、私にここにいるように要求した"
+    notes: "要求を表す動詞のthat節中で原形be。まだ現実になっていないから原形。shouldは後から発達したもの（省略ではない）"
+  - id: "nar-0309-e172"
+    section_id: "Nar_03_09"
+    drill: 0
+    number: 172
+    role: "example"
+    english: "Be it ever so humble, there is no place like home."
+    japanese: "たとえどんなに粗末であっても、我が家にまさる所はない"
+    notes: "原形を用いた譲歩の構文。文頭にBeを置いて「たとえ〜でも」。詳細解説は03_10。脚注*1: 非常に古風。However humble it may be が一般的"
+
+sentence_structures:
+  - sentence_id: "nar-0309-e169"
+    label: "overall"
+    value: "V O"
+  - sentence_id: "nar-0309-e169"
+    label: "details"
+    value: "Memorize(V:命令文/原形) <a lot of English words>(O)"
+  - sentence_id: "nar-0309-e170"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0309-e170"
+    label: "details"
+    value: "<I>(S) promised(V) [to do it today](O:不定詞/原形)"
+  - sentence_id: "nar-0309-e171"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0309-e171"
+    label: "details"
+    value: "<My father>(S) requested(V) [that I be here](O:that節/原形)"
+  - sentence_id: "nar-0309-e172"
+    label: "overall"
+    value: "M S V C"
+  - sentence_id: "nar-0309-e172"
+    label: "details"
+    value: "[Be it ever so humble](M:譲歩/原形を文頭に) <there>(S:形式) is(V) <no place like home>(C)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0309-e169"
+    node_id: "nrt-009"
+  - sentence_id: "nar-0309-e170"
+    node_id: "nrt-009"
+  - sentence_id: "nar-0309-e171"
+    node_id: "nrt-009"
+  - sentence_id: "nar-0309-e172"
+    node_id: "nrt-009"

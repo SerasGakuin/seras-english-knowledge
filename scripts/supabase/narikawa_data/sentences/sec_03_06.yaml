@@ -1,0 +1,55 @@
+# Nar_03_06: 未来を表すさまざまな表現(1)（p.103-105）
+
+sentences:
+  - id: "nar-0306-e148"
+    section_id: "Nar_03_06"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "We may be busy tomorrow."
+    japanese: "私たちは明日は忙しいかもしれない"
+    notes: "mayでも未来を表せる。willだけが未来を表すわけではない"
+  - id: "nar-0306-e149"
+    section_id: "Nar_03_06"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "I will go to Kyoto next month!"
+    japanese: "私、来月京都に行くわ！"
+    notes: "willの基本イメージ: その場での意志表明"
+  - id: "nar-0306-e150"
+    section_id: "Nar_03_06"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "She will go to Kyoto next month."
+    japanese: "彼女は、来月きっと京都に行くだろう"
+    notes: "willの推量用法: 意志表明を聞いた側から見れば「きっと〜だろう」。十中八九の確信度"
+
+sentence_structures:
+  - sentence_id: "nar-0306-e148"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0306-e148"
+    label: "details"
+    value: "<We>(S) may be(V) <busy>(C:形容詞) [tomorrow](M:副詞) ※助動詞mayで未来を表す"
+  - sentence_id: "nar-0306-e149"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "nar-0306-e149"
+    label: "details"
+    value: "<I>(S) will go(V) [to Kyoto](M:前置詞句) [next month](M:副詞句) ※willの意志表明用法"
+  - sentence_id: "nar-0306-e150"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "nar-0306-e150"
+    label: "details"
+    value: "<She>(S) will go(V) [to Kyoto](M:前置詞句) [next month](M:副詞句) ※willの推量用法"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0306-e148"
+    node_id: "nrt-006"
+  - sentence_id: "nar-0306-e149"
+    node_id: "nrt-006"
+  - sentence_id: "nar-0306-e150"
+    node_id: "nrt-006"

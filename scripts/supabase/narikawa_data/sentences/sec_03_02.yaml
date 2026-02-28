@@ -1,0 +1,87 @@
+# Nar_03_02: 進行形（p.93-95）
+
+sentences:
+  - id: "nar-0302-e127"
+    section_id: "Nar_03_02"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "Sarah usually wears red, but today she is wearing white."
+    japanese: "サラはふだんは赤い服を着ているのに、今日はいつになく白を着ています"
+    notes: "前半wears=現在形（いつもの安定）、後半is wearing=進行形（一時的な行為）"
+  - id: "nar-0302-e128"
+    section_id: "Nar_03_02"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Mao is making breakfast in the kitchen."
+    japanese: "マオはキッチンで朝食をつくっている"
+    notes: "進行形の典型例。(1)まだ終わっていない (2)近いうちに終わる (3)中断できる"
+  - id: "nar-0302-e129"
+    section_id: "Nar_03_02"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "You are kind."
+    japanese: "いつも親切にしてくれるね"
+    notes: "現在形: ふだんからの変わらない性質"
+  - id: "nar-0302-e130"
+    section_id: "Nar_03_02"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "You are being kind today."
+    japanese: "今日はいつになく親切だね"
+    notes: "be動詞の進行形: 一時的な状態を強調"
+  - id: "nar-0302-e131"
+    section_id: "Nar_03_02"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "John is always going to a movie."
+    japanese: "ジョンはいつも映画ばかり見に行っている"
+    notes: "進行形+always: 不快感・いら立ち（受験生の親なら非難、映画監督志望の大学生なら称賛）"
+
+sentence_structures:
+  - sentence_id: "nar-0302-e127"
+    label: "overall"
+    value: "S M V O, but M S V O"
+  - sentence_id: "nar-0302-e127"
+    label: "details"
+    value: "<Sarah>(S) [usually](M:副詞) wears(V) <red>(O), but [today](M:副詞) <she>(S) is wearing(V) <white>(O) ※前半=現在形、後半=現在進行形"
+  - sentence_id: "nar-0302-e128"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0302-e128"
+    label: "details"
+    value: "<Mao>(S) is making(V) <breakfast>(O) [in the kitchen](M:前置詞句)"
+  - sentence_id: "nar-0302-e129"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0302-e129"
+    label: "details"
+    value: "<You>(S) are(V) <kind>(C:形容詞) ※第2文型。現在形で変わらない性質"
+  - sentence_id: "nar-0302-e130"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0302-e130"
+    label: "details"
+    value: "<You>(S) are being(V) <kind>(C:形容詞) [today](M:副詞) ※be動詞の進行形。一時的な状態"
+  - sentence_id: "nar-0302-e131"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "nar-0302-e131"
+    label: "details"
+    value: "<John>(S) is [always](M:副詞) going(V) [to a movie](M:前置詞句) ※進行形+always=不快感・いら立ちまたは称賛"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0302-e127"
+    node_id: "nrt-002"
+  - sentence_id: "nar-0302-e128"
+    node_id: "nrt-002"
+  - sentence_id: "nar-0302-e129"
+    node_id: "nrt-002"
+  - sentence_id: "nar-0302-e130"
+    node_id: "nrt-002"
+  - sentence_id: "nar-0302-e131"
+    node_id: "nrt-002"

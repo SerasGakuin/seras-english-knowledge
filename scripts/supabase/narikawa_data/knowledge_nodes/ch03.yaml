@@ -24,6 +24,211 @@ knowledge_nodes:
       [図表: イラスト — ハロッズ開店AM10:00（p.91-92）]
       別冊ポイント072（現在形の4用法まとめ: ❶習慣 ❷状態 ❸不変の真理 ❹確実な未来の予定）参照
 
+  - id: "nrt-002"
+    name: "進行形の本質（行為の最中・途中）"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ 進行形のイメージ: 実際に行為が行われている最中・途中
+      〈be+Ving〉の形。最中・途中 → (1)まだ終わっていない (2)近いうちに終わる (3)その気になればすぐに中断できる。
+      3つすべてでなくても、どれか1つがあてはまればよい。
+      ■ 「〜している＝進行形」ではない
+      She usually wears red（現在形＝いつもの安定）/ she is wearing white（進行形＝一時的な行為）。日本語の「〜している」に惑わされないこと。
+      ■ 状態動詞は進行形になじみにくい
+      know（知っている）等の状態動詞を進行形で用いるのは原則不可。理由: すぐに中断できず、近いうちに終わることもないから。
+      (✕) I am knowing Bob. — Bobのことを知っている人に「すぐに記憶から消して！」は無茶。
+      ■ be動詞の進行形（一時的な状態を強調）
+      状態動詞でも一時的であることを強調したいときには進行形を用いることがある。
+      You are kind.（ふだんからの性質） vs You are being kind today.（いつになく一時的に親切）。
+      冒頭の wear も同様: 状態動詞とされるが、進行形で「いつになく」のニュアンスを出せる。
+      ■ 進行形+always等で不快感・いら立ち
+      always, continually, foreverなどの反復語句と進行形が一緒に使われると「いつも〜ばかりしている」のニュアンス。圧倒的に不快感・いら立ちを表すが、まれに称賛にもなる。文脈判断が大切。
+      [図表: イラスト — サラの赤い服(現在形)と白い服(進行形)（p.93）]
+      [図表: イラスト — ジョンが映画に行く場面。非難(受験生の親)と称賛(映画監督志望の大学生)の両方（p.95）]
+      参考書内参照: →このPARTの7（現在進行形が確実な未来の予定を表す用法）
+      別冊ポイント075（進行形の5用法: ❶最中・途中 ❷一時的な状態を強調 ❸不快感やいら立ち・賞賛 ❹確実な予定 ❺まだ終わっていない）、076（進行形になりにくい動詞＝状態動詞: ❶状態・所有・所属系 ❷知覚系 ❸思考・認識系 ❹現在形or進行形のどちらでも用いられる動詞）参照
+
+  - id: "nrt-003"
+    name: "過去形と現在完了形の基本的違い"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ 過去形の基本イメージ: 切れている（離れている）
+      過去形は、現在から切り離された過去のひとコマを伝える。
+      Paul loved Tiffany.（過去形）→ 以前は愛していたが今は愛情がない感じ。現在の2人の関係ははっきりしない。
+      ■ 過去形で丁寧さ・控えめな気持ちを表す
+      Can you...? より Could you...? の方が丁寧。親しい間柄では言葉はそれほど丁寧でなくてよいが、初対面・目上の人に対しては過去形を使うことで相手との距離感を演出できる。
+      脚注*1: この考え方で仮定法のときに過去形が用いられる理由もしっかり説明できるようになる（→p.157参照）。
+      ■ 現在完了形の理解: 〈have + Vp.p.〉の分解
+      have = 「現在もっている」、Vp.p. = 「すでに過去にVした」。この2つの足し算で理解する。
+      I have lost my watch. → 「時計をなくした（lost my watch）」ことを「現在もっている（have）」→ 今でも時計が手元にない。
+      ■ 現在に重点がある
+      haveを使っている以上、現在がどうなのかに重点がある。yesterdayやwhen I was in Londonのような特定の過去を表す語句と併用できないのは当然。
+      脚注*2: ベートーベンのような故人を主語にした現在完了形は不適切とされるが、あえて使えば現在も身近に感じられていることを表せる。
+      脚注*3: since yesterday（昨日以来）のように、現在へとつなぐsinceを用いれば現在完了形を使える。
+      [図表: イラスト — Can you..?（カジュアル）vs Could you..?（丁寧）の比較（p.96）]
+      参考書内参照: →p.157〈仮定法〉
+      別冊ポイント073（過去形の3用法: ❶現在と切れている＝過去のこと ❷現実から離れている＝仮定法 ❸人間関係が離れている＝丁寧表現）、077（現在完了形の3用法+プラスα: 特定の過去を表す語句と併用不可）参照
+
+  - id: "nrt-004"
+    name: "現在完了形の深化と完了進行形"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ いちいち3つの用法に分類する必要はない
+      現在完了形を「経験・継続・完了・結果」と分類して満足するのではなく、have+Vp.p. の根っこから統一的に理解する。
+      I have visited Okinawa many times. → 訪れたことを現在もっている → 今でも思い出として頭に残っている
+      I have known her since she was a girl. → 知り合ったことを現在もっている → 今でも関係が続いている
+      I have just finished my homework. → 終えたことを現在もっている → 宿題を終えた状態が今ある
+      ■ 現在進行形 vs 現在完了進行形
+      He is living in India. → 今だけ一時的にインドに住んでいる感じ（現在進行形）
+      He has been living in India for two weeks. → 2週間前から今も住み続けている感じ（現在完了進行形）。「住み続けている状況を現在もっている」。
+      ■ 現在完了形 vs 現在完了進行形
+      He has repaired the engine. → 修理が終わっている（have + 過去分詞 → 完了した状態をもっている）
+      He has been repairing the engine. → まだ修理中（have + been Ving → 修理している最中の状態をもっている）
+      ■ 過去形と現在完了形のまとめ
+      過去形: 切れている（離れている）感じ
+      現在完了形: 「Vp.p.（過去にVしたこと）をhave（現在もっている）」が基本。過去の事柄が何らかの意味で現在とつながりをもつ。
+      [図表: イラスト — 男女2人の知り合い（p.98）]
+      [図表: イラスト — エンジン修理完了（p.99）]
+      [図表: イラスト — エンジン修理中（p.99）]
+      別冊ポイント077（現在完了形の3用法: ❶経験 ❷完了・結果 ❸継続）、078（動作動詞の現在完了形と現在完了進行形: 完了 vs 未完了）、079（have been to A と have gone to A の違い）参照
+
+  - id: "nrt-005"
+    name: "過去完了形の正しい理解と使い方"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ 過去完了形: 過去の一時点よりもさらに前の時間帯をカバー
+      〈had + Vp.p.〉の形。例: The plane had already left when I got to Haneda Airport.
+      got（過去の一時点）よりも前にhad left（さらに前の事柄）。
+      ■ 過去完了形の乱用はやめよう
+      過去の一時点より前のことはすべて過去完了形にすべきと考えるのは誤り。
+      I lost my key, but it was found in the store. → 等位接続詞butで起こった順番通りに並べているだけなので、had lostにする必要なし。かえって不自然。
+      ■ before/afterがあれば過去形で代用可能
+      I went out after my brother had left. → leftでもOK。時間の前後関係を明確に表す語句があるので過去完了形は不要。
+      ■ 過去完了形を使うための条件
+      前後に過去の一時点を表す表現が必要。それがないのに過去完了形単独の文を用いるのは不適切。
+      [図表: イラスト — 飛行機が飛び立つ場面（p.100）]
+      [図表: イラスト — 先生と犬（p.102）]
+      別冊ポイント080（過去完了形の用法: ❶さらに前の事柄をカバー ❷等位接続詞で順番通りなら過去完了は不要）参照
+
+  - id: "nrt-006"
+    name: "未来形は存在しない — willの基本用法"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ 英語に未来形は存在しない
+      現在形(study)や過去形(studied)のような特定の活用形は未来にはない（(✕) studyllのような「未来形」はない）。助動詞などさまざまな表現を借りて未来時を表す。借りてくる表現によって伝わる意味も違う。
+      ■ willの基本イメージ: その場での意志表明
+      I will go to Kyoto next month!（京都に行くわ！）。名詞のwill=「意志」からも連想できる。
+      ■ willの推量用法
+      意志表明を聞いた側から見れば「きっと〜だろう」という推量になる。willの推量は確信度が高く「十中八九」。
+      willの推量はbe going toに比べて話者の主観的判断のニュアンスが強く、その場でとっさに判断している感じが特徴。
+      ■ 推量の度合い: will > may > might
+      will「きっと〜だろう」（十中八九）→ may「〜かもしれない」（50%）→ might「ひょっとして〜かもしれない」（さらに低い）
+      ■ will ≠ be going to
+      「will＝be going to」のような単純な書き換えでは済まされない（次セクションで詳述）。
+      [図表: イラスト — 意志表明(I will go)と推量(She will go)の対比（p.104）]
+      [図表: イラスト — 寝転がって本を読む男性（p.105）]
+      別冊ポイント074（未来時を表すさまざまな表現: ❶will ❷be going to ❸現在進行形 ❹現在形 ❺be about to ❻be scheduled to）参照
+
+  - id: "nrt-007"
+    name: "未来時表現の全体像（be going to・進行形・その他）"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ be going to の2つの用法
+      (1) あらかじめ決まっている確実な予定「〜することになっている」。手帳やカレンダーに書き込まれたスケジュール。
+      (2) 根拠や兆候をもとにした推量「きっと〜だろう」。willの主観的判断とは異なり、客観的根拠に基づく。
+      例: It will rain（主観的推量）vs It is going to rain（天気予報などの根拠に基づく推量）
+      ■ 現在進行形で未来の確実な予定
+      be going toと同様に確実な予定を表す。tomorrowなど未来を表す語句を伴うのがふつう。個人的な予定を述べる場合に使われることが多い。
+      ■ 現在形で未来を表す（変わらない事実）
+      Tomorrow is Sunday. → 変わることのない事実なので現在形。
+      I will be twenty tomorrow. → 現時点では20歳ではないので推量のwillを使う。
+      ■ その他の未来時表現
+      be about to V「まさにVするところだ」: aboutは「周囲・周辺」→間近な感じ。
+      be supposed to V「（前提として）Vすることになっている」
+      be scheduled to V「Vすることが計画されている」
+      ■ 未来完了形
+      〈will have + Vp.p.〉= 現在完了形に推量の助動詞willが加わったもの。
+      I have finished my work. + by Friday → I will have finished my work by Friday.
+      脚注*2: 未来完了進行形はあまり用いず、未来完了形を用いるのが通例。
+      脚注*3: 推量の度合いを下げたければwillをmayなどに変えることもできる。
+      [図表: イラスト — be going toの意志表明と推量（p.106）]
+      [図表: イラスト — will rain vs is going to rainの対比（p.107）]
+      参考書内参照: →p.91（現在形で未来を表す用法）
+      別冊ポイント074（未来時を表すさまざまな表現の6種類）参照
+
+  - id: "nrt-008"
+    name: "時・条件の副詞節中の時制と時制の一致"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ if/when節中でwillを使うかどうかの判断基準: 「前提」vs「推量」
+      willの推量用法を理解していれば、公式の丸暗記は不要。
+      ・そうなることを「前提」にして述べている → 推量のwillは入らない（現在形を使う）
+      ・そうなるかどうか「はっきりしていない（グレー）」→ 推量のwillを入れる
+      例: I will discuss the matter if he comes home.（帰宅を前提→comes）
+      　　I don't know if he will come home.（帰宅するか不明→will come）
+      ■ willの「意志」用法なら副詞節中でも使える
+      If you will succeed, you must work hard.（成功する意志があるなら）。
+      推量ではなく主語の意志を表すwillなので入って当然。ただし入試での出題はきわめてまれ（脚注*3）。
+      ■ 時を表す副詞節の主な接続詞
+      when, after, before, till, until, once, as soon as（脚注*1）
+      条件を表す副詞節: if, unless, as long as
+      ■ 時制の一致
+      主節の動詞が過去形のとき、従属節の動詞も過去形に合わせる約束事。ただし絶対的ではない。
+      He said (that) light travels faster than sound.（現在形 → 話者が疑いもない事実だと見なしている）
+      He said (that) light traveled faster than sound.（過去形 → 事実かどうか疑いを持っているニュアンス）
+      過去形の「距離感」が事実への確信度の差を生む。「不変の真理は時制の一致を受けない」という公式は不正確。
+      [図表: イラスト — 「7時だからもう帰ってくるころね」(前提)と「いつ帰ってくるのかしら」(推量)の対比（p.110）]
+      [図表: イラスト — メガネの男性（p.112）]
+      参考書内参照: →p.103（willの推量用法）、→p.117（副詞節で現在形を用いる歴史的理由）
+
+  - id: "nrt-009"
+    name: "動詞の原形の本質（まだ現実でない不確定な事柄）"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ 動詞の原形が表すもの: まだ現実になっていない不確実なこと
+      動詞の原形が使われる4つのパターンすべてに共通するイメージ。
+      ■ パターン1: 命令文
+      Memorize a lot of English words. — 命令するのはまだ現実になっていないから。覚えていないからこそ「覚えなさい」と言う。
+      ■ パターン2: 不定詞（to+動詞の原形）
+      I promised to do it today. — to do it todayの行為はまだ現実になっていない。
+      ■ パターン3: 要求・提案・命令・主張を表す動詞のthat節中
+      My father requested that I be here. — 要求はまだ現実になっていないことに対して行うもの。
+      主語の人称や時制にかかわらず動詞の原形を用いる。
+      のちに〈should+動詞の原形〉という形も発達した。shouldは後から加わったもの（省略ではない）。
+      脚注*1: 「仮定法現在」と呼ばれることがあるが、「仮定法原形」の方が適切。
+      ■ パターン4: 原形を用いた譲歩の構文
+      Be it ever so humble, there is no place like home. — 文頭に原形を置いて「たとえ〜でも」の意味。（詳細は次セクション）
+      参考書内参照: →PART 04 **6**（shouldの基本用法）、→PART 04 **7**（要求・提案のthat節中のshould）
+
+  - id: "nrt-010"
+    name: "動詞の原形の応用（譲歩構文と副詞節の歴史的背景）"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ 原形を用いた譲歩の構文
+      Be it ever so humble, there is no place like home. — 動詞の原形を文頭に置いて「たとえ〜でも」。
+      現実にそうだと伝えているのではなく、不確実なこと（まだ現実になっていないこと）を表現。
+      脚注*1: 非常に古風な表現。同じ内容は However humble it may be が一般的。
+      ■ Believe it or not — 原形の別例
+      Believe it or not, he asked me to marry him! — 文頭の believe も原形。信じるという行為がまだ現実のものになっていない。
+      脚注*2: Whether you believe it or not に書き換え可能。
+      ■ 時・条件の副詞節で現在形を用いる歴史的背景
+      16世紀あたりの文献では、時や条件の副詞節中に動詞の原形を使っていた。
+      ▶ If it rain tomorrow, we'll stay at home.（原形rain — 主語が3人称単数でも原形）
+      雨が降るのはまだ現実になっていない不確定なことなので、原形を使うのは自然。
+      時間の経過とともに原形→現在形に変化した。一般動詞は原形と現在形の形が同じものが多く、混同があったと思われる。
+      ■ 命令文で主語youが残る例
+      You be quiet; I'll do the talking. — 「主語youが省略されているから原形」という説明では不十分。
+      原形の「未実現」イメージで理解する方が英語の運用に有効。
+      参考書内参照: →p.114（例文172の初出）
+
 understanding_goals:
   - node_id: "nrt-001"
     seq: 1
@@ -37,6 +242,87 @@ understanding_goals:
   - node_id: "nrt-001"
     seq: 4
     goal: "現在形で未来を表す用法が公的なスケジュール（時刻表等）に限られる傾向を説明できる"
+  - node_id: "nrt-002"
+    seq: 1
+    goal: "進行形の核心イメージ（行為の最中・途中）を説明し、3つの含意（未完了・近い将来終了・中断可能）を挙げられる"
+  - node_id: "nrt-002"
+    seq: 2
+    goal: "状態動詞が進行形になじみにくい理由を進行形の本質から説明できる"
+  - node_id: "nrt-002"
+    seq: 3
+    goal: "be動詞の進行形やwearの進行形が一時的な状態を強調する用法を説明できる"
+  - node_id: "nrt-003"
+    seq: 1
+    goal: "過去形の基本イメージ「切れている（離れている）」を説明できる"
+  - node_id: "nrt-003"
+    seq: 2
+    goal: "過去形が丁寧さ・控えめな気持ちを表す理由を「距離感の演出」から説明できる"
+  - node_id: "nrt-003"
+    seq: 3
+    goal: "現在完了形を〈have（現在もっている）+ Vp.p.（過去にVした）〉の分解で理解し、現在に重点があることを説明できる"
+  - node_id: "nrt-004"
+    seq: 1
+    goal: "現在完了形を「経験・継続・完了」に分類せず〈have + Vp.p.〉の統一イメージで説明できる"
+  - node_id: "nrt-004"
+    seq: 2
+    goal: "現在進行形と現在完了進行形の違い（一時的 vs 期間付き継続）を説明できる"
+  - node_id: "nrt-004"
+    seq: 3
+    goal: "現在完了形と現在完了進行形の違い（完了 vs 未完了）を説明できる"
+  - node_id: "nrt-005"
+    seq: 1
+    goal: "過去完了形が「過去の一時点よりもさらに前の時間帯をカバーする」ことを説明できる"
+  - node_id: "nrt-005"
+    seq: 2
+    goal: "過去完了形の乱用を避けるべき場面（等位接続詞で順番通り、before/afterがある場合）を説明できる"
+  - node_id: "nrt-005"
+    seq: 3
+    goal: "過去完了形を使うには前後に過去の一時点を表す表現が必要であることを説明できる"
+  - node_id: "nrt-006"
+    seq: 1
+    goal: "英語に「未来形」は存在しないことを説明し、未来時はさまざまな表現を借りて表すことを理解できる"
+  - node_id: "nrt-006"
+    seq: 2
+    goal: "willの基本イメージ「その場での意志表明」から「推量」が生まれる仕組みを説明できる"
+  - node_id: "nrt-006"
+    seq: 3
+    goal: "will, may, mightの推量の度合いの違いを説明できる"
+  - node_id: "nrt-007"
+    seq: 1
+    goal: "be going toの2つの用法（確実な予定・根拠に基づく推量）を説明し、willとの違いを説明できる"
+  - node_id: "nrt-007"
+    seq: 2
+    goal: "現在進行形・現在形で未来を表す用法とその使い分けを説明できる"
+  - node_id: "nrt-007"
+    seq: 3
+    goal: "未来完了形を「現在完了形+推量のwill」として理解できる"
+  - node_id: "nrt-008"
+    seq: 1
+    goal: "if/when節中でwillを使うか使わないかを「前提」vs「推量」の基準で判断できる"
+  - node_id: "nrt-008"
+    seq: 2
+    goal: "副詞節中でもwillの「意志」用法なら使える理由を説明できる"
+  - node_id: "nrt-008"
+    seq: 3
+    goal: "時制の一致で現在形を保つ場合と過去形に合わせる場合の話者の意図の違いを説明できる"
+  - node_id: "nrt-009"
+    seq: 1
+    goal: "動詞の原形が表す核心的イメージ（まだ現実になっていない不確実なこと）を説明できる"
+  - node_id: "nrt-009"
+    seq: 2
+    goal: "動詞の原形が使われる4つのパターンを列挙できる"
+  - node_id: "nrt-009"
+    seq: 3
+    goal: "要求・提案・命令・主張を表す動詞のthat節中で原形が使われる理由を説明できる"
+  - node_id: "nrt-010"
+    seq: 1
+    goal: "動詞の原形を文頭に置く譲歩構文の意味と構造を理解できる"
+  - node_id: "nrt-010"
+    seq: 2
+    goal: "時・条件の副詞節で現在形を用いる歴史的背景（原形→現在形への変化）を説明できる"
+  - node_id: "nrt-010"
+    seq: 3
+    goal: "動詞の原形の根本イメージから英語の時制体系を俯瞰できる"
 
 check_points:
   - node_id: "nrt-001"
@@ -55,11 +341,199 @@ check_points:
     seq: 4
     question: "「現在の習慣」「現在の状態」「不変の真理」の分類について、本書はどう述べているか？"
     answer: "根っこが同じ（変わらない安定）なら分類はどうでもよい。"
+  - node_id: "nrt-002"
+    seq: 1
+    question: "進行形の核心イメージは何か？3つの含意を挙げよ"
+    answer: "実際に行為が行われている最中・途中。含意: (1)まだ終わっていない (2)近いうちに終わる (3)その気になればすぐに中断できる"
+  - node_id: "nrt-002"
+    seq: 2
+    question: "(✕) I am knowing Bob. がなぜ不可か？"
+    answer: "know（知っている）は中断もできず近いうちに終わることもない状態動詞なので、進行形の「最中・途中」のイメージになじまない"
+  - node_id: "nrt-002"
+    seq: 3
+    question: "You are being kind today. はどんなニュアンスか？現在形 You are kind. との違いは？"
+    answer: "進行形により「いつになく」一時的に親切であることを強調。現在形はふだんからの変わらない性質を表す"
+  - node_id: "nrt-002"
+    seq: 4
+    question: "進行形がalways等の反復語句と一緒に使われるとどんな意味になるか？"
+    answer: "「いつも〜ばかりしている」で、圧倒的に不快感やいら立ちを表すが、まれに称賛の意味にもなる。文脈判断が大切"
+  - node_id: "nrt-003"
+    seq: 1
+    question: "過去形の基本イメージは何か？"
+    answer: "「切れている（離れている）」。現在から切り離された過去のひとコマを伝えるだけで、現在の状況までは伝わらない"
+  - node_id: "nrt-003"
+    seq: 2
+    question: "Can you...? より Could you...? の方が丁寧な理由は？"
+    answer: "過去形の「離れている」イメージから相手との距離感を演出でき、初対面・目上の人に対して丁寧・控えめな印象を与える"
+  - node_id: "nrt-003"
+    seq: 3
+    question: "I have lost my watch. を〈have + Vp.p.〉の分解で説明せよ"
+    answer: "「時計をなくした(lost my watch)」ことを「現在もっている(have)」→今でも時計が手元にない"
+  - node_id: "nrt-003"
+    seq: 4
+    question: "現在完了形がyesterday等の特定の過去を表す語句と併用できない理由は？"
+    answer: "haveを使っている以上、現在がどうかに重点がある。特定の過去に視点を移す語句とは矛盾する"
+  - node_id: "nrt-004"
+    seq: 1
+    question: "I have visited Okinawa many times. を〈have + Vp.p.〉の分解で説明せよ"
+    answer: "「沖縄を何度も訪れた」ことを「現在もっている」→今でも頭に思い出として残っている"
+  - node_id: "nrt-004"
+    seq: 2
+    question: "「経験・継続・完了」と分類することについて本書の見解は？"
+    answer: "分類して満足するのではなく、have + Vp.p. の根っこをしっかり理解すべき。いちいち3つの用法に分類する必要はない"
+  - node_id: "nrt-004"
+    seq: 3
+    question: "He has repaired the engine. と He has been repairing the engine. の違いは？"
+    answer: "現在完了形は修理が終わっている（完了した状態をもっている）。現在完了進行形はまだ修理中（修理している最中の状態をもっている）"
+  - node_id: "nrt-004"
+    seq: 4
+    question: "He is living in India. と He has been living in India for two weeks. の違いは？"
+    answer: "現在進行形は今だけ一時的にインドに住んでいる感じ。現在完了進行形は2週間前から今も住み続けている感じで期間付きの継続を表す"
+  - node_id: "nrt-005"
+    seq: 1
+    question: "過去完了形はどんな時制か？"
+    answer: "過去の一時点よりもさらに前の時間帯をカバーする時制。〈had + Vp.p.〉の形"
+  - node_id: "nrt-005"
+    seq: 2
+    question: "I lost my key, but it was found in the store. でなぜ had lost ではなく lost を使うのか？"
+    answer: "等位接続詞butで起こった順番通りに並べているだけなので、過去完了形で時間の前後関係を明確にする必要がない。こういう場面で過去完了形を使うのはかえって不自然"
+  - node_id: "nrt-005"
+    seq: 3
+    question: "I went out after my brother had left. の had left は left で代用できるか？"
+    answer: "代用できる。afterなど時間の前後関係を明確に表す語句があるときは、過去完了形を使わず過去形で代用可能"
+  - node_id: "nrt-005"
+    seq: 4
+    question: "過去完了形を使うための条件は何か？"
+    answer: "前後に過去の一時点を表す表現が必要。それがないのに過去完了形単独の文を用いるのは不適切"
+  - node_id: "nrt-006"
+    seq: 1
+    question: "英語に「未来形」は存在しないとはどういうことか？"
+    answer: "現在形(study)や過去形(studied)のような特定の活用形は未来にはない。助動詞など様々な表現を借りて未来時を表す。will+原形は「未来形」ではなく助動詞の用法"
+  - node_id: "nrt-006"
+    seq: 2
+    question: "willの2つの基本用法は？"
+    answer: "(1)その場での意志表明「〜しよう」 (2)その場での主観的な推量「きっと〜だろう」（十中八九の確信度）"
+  - node_id: "nrt-006"
+    seq: 3
+    question: "will, may, mightの推量の度合いの違いは？"
+    answer: "will=十中八九、may=50%（〜かもしれない）、might=さらに低い（ひょっとして〜かもしれない）"
+  - node_id: "nrt-007"
+    seq: 1
+    question: "be going toの2つの基本用法は？"
+    answer: "(1)あらかじめ決まっている確実な予定「〜することになっている」 (2)根拠や兆候をもとにした推量「きっと〜だろう」"
+  - node_id: "nrt-007"
+    seq: 2
+    question: "willとbe going toの「推量」の違いは？"
+    answer: "willはその場での主観的判断。be going toは天気予報など何らかの客観的根拠や兆候がある場合に使う"
+  - node_id: "nrt-007"
+    seq: 3
+    question: "現在進行形で未来を表す場合のポイントは？"
+    answer: "be going toと同様に確実な予定を表す。tomorrowなど未来を表す語句を伴うのがふつう。個人的な予定を述べる場合に使われることが多い"
+  - node_id: "nrt-007"
+    seq: 4
+    question: "Tomorrow is Sunday. はなぜ現在形で、I will be twenty tomorrow. はなぜwillか？"
+    answer: "明日が日曜日なのは変わることのない事実なので現在形。一方、現時点では20歳になっていないので事実ではなく、推量のwillを使う"
+  - node_id: "nrt-007"
+    seq: 5
+    question: "未来完了形〈will have + Vp.p.〉をシンプルに理解するには？"
+    answer: "現在完了形に推量の助動詞willが加わったもの。I have finished my work. に by Friday が加わると未来のことなので will を添えて I will have finished my work by Friday. となる"
+  - node_id: "nrt-008"
+    seq: 1
+    question: "if/when節中でwillを使わないのはなぜか？"
+    answer: "そうなることを「前提」として述べているから。推量のニュアンスがないため、推量のwillは入らない"
+  - node_id: "nrt-008"
+    seq: 2
+    question: "If you will succeed, you must work hard. でwillが入るのはなぜか？"
+    answer: "このwillは推量ではなく「意志」を表すwill。「成功する意志があるのなら」の意味"
+  - node_id: "nrt-008"
+    seq: 3
+    question: "He said (that) light travels/traveled faster than sound. で現在形と過去形の違いは？"
+    answer: "現在形(travels)は話者がthat以下を疑いもない事実だと見なしている。過去形(traveled)は事実かどうか疑いを持っているニュアンス。過去形の「距離感」が確信度の差を生む"
+  - node_id: "nrt-008"
+    seq: 4
+    question: "時を表す副詞節を導く主な接続詞は？条件を表すものは？"
+    answer: "時: when, after, before, till, until, once, as soon as。条件: if, unless, as long as"
+  - node_id: "nrt-009"
+    seq: 1
+    question: "動詞の原形が使われる4つのパターンは？"
+    answer: "(1)命令文 (2)不定詞(to+原形) (3)要求・提案・命令・主張を表す動詞のthat節中 (4)原形を用いた譲歩の構文"
+  - node_id: "nrt-009"
+    seq: 2
+    question: "命令文が動詞の原形で始まるのはなぜか？"
+    answer: "命令するのはまだ現実になっていないからこそ。覚えていないから「覚えなさい」と言い、静かでないから「静かにしなさい」と言う。原形の「未実現」イメージと合致する"
+  - node_id: "nrt-009"
+    seq: 3
+    question: "My father requested that I be here. でbeが使われる理由は？"
+    answer: "要求はまだ現実になっていないことに対して行うもの。主語の人称や時制にかかわらず動詞の原形を使って未実現を表す"
+  - node_id: "nrt-009"
+    seq: 4
+    question: "that節中の〈should+動詞の原形〉のshouldは省略されたものか？"
+    answer: "いいえ。shouldは後から発達したもの（省略ではない）。当然のことや本来あるべき姿を表現するのにぴったりな助動詞"
+  - node_id: "nrt-010"
+    seq: 1
+    question: "Be it ever so humble, there is no place like home. の構造は？"
+    answer: "動詞の原形を文頭に置いて譲歩（たとえ〜でも）を表す古風な構文。現代では However humble it may be が一般的"
+  - node_id: "nrt-010"
+    seq: 2
+    question: "時・条件の副詞節で現在形を用いるのは歴史的にどう説明されるか？"
+    answer: "元々は動詞の原形が使われていた（If it rain tomorrow...）。原形→現在形に変化した。一般動詞は原形と現在形の形が同じものが多く混同が起きた"
+  - node_id: "nrt-010"
+    seq: 3
+    question: "You be quiet; I'll do the talking. はどう解釈するか？"
+    answer: "主語youを残した命令文。「主語が省略されているから原形」では説明不十分。原形の「まだ現実になっていない不確実なこと」というイメージで理解する"
 
-node_prerequisites: []
+node_prerequisites:
+  - node_id: "nrt-003"
+    prerequisite_id: "nrt-001"
+  - node_id: "nrt-004"
+    prerequisite_id: "nrt-003"
+  - node_id: "nrt-005"
+    prerequisite_id: "nrt-004"
+  - node_id: "nrt-007"
+    prerequisite_id: "nrt-006"
+  - node_id: "nrt-008"
+    prerequisite_id: "nrt-006"
+  - node_id: "nrt-010"
+    prerequisite_id: "nrt-009"
 
 knowledge_references:
   - node_id: "nrt-001"
     book: "成川の深めて解ける！英文法 INPUT"
     section_id: "Nar_03_01"
     pages: "p.90-92"
+  - node_id: "nrt-002"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_03_02"
+    pages: "p.93-95"
+  - node_id: "nrt-003"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_03_03"
+    pages: "p.96-97"
+  - node_id: "nrt-004"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_03_04"
+    pages: "p.98-99"
+  - node_id: "nrt-005"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_03_05"
+    pages: "p.100-102"
+  - node_id: "nrt-006"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_03_06"
+    pages: "p.103-105"
+  - node_id: "nrt-007"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_03_07"
+    pages: "p.106-109"
+  - node_id: "nrt-008"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_03_08"
+    pages: "p.110-113"
+  - node_id: "nrt-009"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_03_09"
+    pages: "p.114-115"
+  - node_id: "nrt-010"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_03_10"
+    pages: "p.116-118"

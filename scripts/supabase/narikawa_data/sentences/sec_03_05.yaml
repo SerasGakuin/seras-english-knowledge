@@ -1,0 +1,71 @@
+# Nar_03_05: 過去完了形（p.100-102）
+
+sentences:
+  - id: "nar-0305-e144"
+    section_id: "Nar_03_05"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "The plane had already left when I got to Haneda Airport."
+    japanese: "私が羽田空港に到着したとき、飛行機はすでに飛び立っていた"
+    notes: "過去完了形: got（過去の一時点）よりも前にhad left（さらに前の事柄）"
+  - id: "nar-0305-e145"
+    section_id: "Nar_03_05"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "The teacher got angry because we hadn't finished the homework by the deadline."
+    japanese: "期限までに宿題を終えなかったので、先生は怒った"
+    notes: "過去完了形: 先生が怒った時点より、宿題を終えなかったことの方がさらに前の出来事"
+  - id: "nar-0305-e146"
+    section_id: "Nar_03_05"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "I lost my key, but it was found in the store."
+    japanese: "私は鍵をなくしたが、そのお店で見つかった"
+    notes: "等位接続詞butで順番通りに並べているだけ。had lostにする必要なし（過去完了の乱用を避ける例）"
+  - id: "nar-0305-e147"
+    section_id: "Nar_03_05"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "I went out after my brother had left."
+    japanese: "兄が去った後、私は外出した"
+    notes: "afterがあるので had left → left でも代用可能"
+
+sentence_structures:
+  - sentence_id: "nar-0305-e144"
+    label: "overall"
+    value: "S M V M"
+  - sentence_id: "nar-0305-e144"
+    label: "details"
+    value: "<The plane>(S) had [already](M:副詞) left(V) [when I got to Haneda Airport](M:副詞節) ※過去完了形。gotよりさらに前"
+  - sentence_id: "nar-0305-e145"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0305-e145"
+    label: "details"
+    value: "<The teacher>(S) got(V) <angry>(C:形容詞) [because we hadn't finished the homework by the deadline](M:副詞節) ※主節は過去形、従属節は過去完了形"
+  - sentence_id: "nar-0305-e146"
+    label: "overall"
+    value: "S V O, but S V M"
+  - sentence_id: "nar-0305-e146"
+    label: "details"
+    value: "<I>(S) lost(V) <my key>(O), but <it>(S) was found(V) [in the store](M:前置詞句) ※等位接続詞で順番通り。過去完了形不要"
+  - sentence_id: "nar-0305-e147"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0305-e147"
+    label: "details"
+    value: "<I>(S) went out(V) [after my brother had left](M:副詞節) ※afterがあるのでleftでも代用可"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0305-e144"
+    node_id: "nrt-005"
+  - sentence_id: "nar-0305-e145"
+    node_id: "nrt-005"
+  - sentence_id: "nar-0305-e146"
+    node_id: "nrt-005"
+  - sentence_id: "nar-0305-e147"
+    node_id: "nrt-005"

@@ -1,0 +1,87 @@
+# Nar_03_03: 過去形と現在完了形(1)（p.96-97）
+
+sentences:
+  - id: "nar-0303-e132"
+    section_id: "Nar_03_03"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "Paul loved Tiffany."
+    japanese: "ポールはティファニーを愛していた"
+    notes: "過去形: 以前は愛していたが、今では愛情がない感じ"
+  - id: "nar-0303-e133"
+    section_id: "Nar_03_03"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Paul has loved Tiffany."
+    japanese: "ポールはティファニーを（ずっと）愛している"
+    notes: "現在完了形: 以前から愛していて、今でもその愛情は変わらない"
+  - id: "nar-0303-e134"
+    section_id: "Nar_03_03"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "Can you tell me the time?"
+    japanese: "時間を教えて"
+    notes: "現在形の助動詞can: カジュアルな表現"
+  - id: "nar-0303-e135"
+    section_id: "Nar_03_03"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "Could you tell me the time?"
+    japanese: "時間を教えていただけませんか"
+    notes: "過去形couldで距離感を演出 → 丁寧・控えめな印象"
+  - id: "nar-0303-e136"
+    section_id: "Nar_03_03"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "I have lost my watch."
+    japanese: "私は時計をなくしてしまった"
+    notes: "have+Vp.p.の分解: 「時計をなくした」ことを「現在もっている」→今でも手元にない"
+
+sentence_structures:
+  - sentence_id: "nar-0303-e132"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0303-e132"
+    label: "details"
+    value: "<Paul>(S) loved(V) <Tiffany>(O) ※過去形。現在から切り離された過去のひとコマ"
+  - sentence_id: "nar-0303-e133"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0303-e133"
+    label: "details"
+    value: "<Paul>(S) has loved(V) <Tiffany>(O) ※現在完了形。過去から現在まで愛情が続いている"
+  - sentence_id: "nar-0303-e134"
+    label: "overall"
+    value: "V S V O O"
+  - sentence_id: "nar-0303-e134"
+    label: "details"
+    value: "Can(助動詞) <you>(S) tell(V) <me>(O₁) <the time>(O₂)? ※第4文型の疑問文"
+  - sentence_id: "nar-0303-e135"
+    label: "overall"
+    value: "V S V O O"
+  - sentence_id: "nar-0303-e135"
+    label: "details"
+    value: "Could(助動詞) <you>(S) tell(V) <me>(O₁) <the time>(O₂)? ※過去形で丁寧さを演出"
+  - sentence_id: "nar-0303-e136"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0303-e136"
+    label: "details"
+    value: "<I>(S) have lost(V) <my watch>(O) ※現在完了形。have=現在もっている + lost=なくした"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0303-e132"
+    node_id: "nrt-003"
+  - sentence_id: "nar-0303-e133"
+    node_id: "nrt-003"
+  - sentence_id: "nar-0303-e134"
+    node_id: "nrt-003"
+  - sentence_id: "nar-0303-e135"
+    node_id: "nrt-003"
+  - sentence_id: "nar-0303-e136"
+    node_id: "nrt-003"
