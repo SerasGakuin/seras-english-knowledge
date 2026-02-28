@@ -1,40 +1,37 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T20:00:00"
+updated_at: "2026-03-01T22:00:00"
 book: "入門英文問題精講"
 book_slug: "nyumon"
 
 current_state:
-  phase: "Phase 2A 完了 → Phase 2B へ"
-  current_section: "Ny_02"
+  phase: "Phase 2B"
+  current_section: "Ny_05"
   current_step: "Step 1"
-  last_completed_section: "Ny_G13"
+  last_completed_section: "Ny_04"
   last_completed_gate: 5
 
 progress:
   total_sections: 85
-  completed: 15
+  completed: 18
   in_progress: 0
-  remaining: 70
-  total_nodes: 15
-  total_sentences: 71
+  remaining: 67
+  total_nodes: 18
+  total_sentences: 83
 
 recent_decisions:
-  - "nbk-011 prerequisites: nbk-010（句と節）"
-  - "nbk-012 prerequisites: nbk-002（動詞）"
-  - "nbk-013 prerequisites: nbk-011（句と節の働き）+ nbk-002（動詞）"
-  - "Section 14 まとめ: 独立ノード化せず。復習セクションで新概念なし。Ny_G13 の notes に記録。"
+  - "Ny_02-04 受動態系3問: 3ノードに分割（nsv-002使用理由, nsv-003 as補語, nsv-004 to不定詞）"
+  - "nsv-004: Ny_03❺とNy_04❹を統合（同一パターン be+pp+to V）"
+  - "ny-02-s1: nsv-001にタグ（文頭前置詞句の識別を実践）、nsv-002ではない（能動態）"
+  - "ny-04-s1: nbk-012にタグ（should が主要文法要素。受動態の練習ではない）"
 
 active_concerns:
-  - "Phase 2A 完了後の追加作業: nsv-001, nks-001 の prerequisites を nbk-XXX に紐付け"
-  - "Phase 2A 完了後の追加作業: 全 nbk ノード間の prerequisites を再検証"
   - "nbk-001, nbk-002 は tagged sentences なし（WARNING レベル。基本講義ノードでは想定内）"
+  - "nsv-003 のタグ付き英文が1文のみ（ny-03-s1）。テスト生成時に素材が少ない"
 
 next_actions:
-  - "Phase 2A 完了後追加作業: prerequisites 一括見直し"
-  - "構造化共通ワークフロー.md + 参考書別設計書 を再読込（章区切りのため）"
-  - "Phase 2B Batch 5: Ny_02（受動態）→ Ny_03（受動態＋不定詞①）→ Ny_04（受動態＋不定詞②）"
+  - "Phase 2B Batch 6: Ny_05（SVOC/V-ing）→ Ny_06（分詞との区別①）→ Ny_07（分詞との区別②）"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

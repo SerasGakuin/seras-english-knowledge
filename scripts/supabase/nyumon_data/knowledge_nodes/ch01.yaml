@@ -23,6 +23,97 @@ knowledge_nodes:
       ❹ with の意味判別: 基本は「～と共に」だが、文脈により「～につれて」
         「～が増えると共に」等になる。前半と後半の関係から意味を判断する。
 
+  - id: "nsv-002"
+    name: "受動態の使用理由"
+    category: "主語と動詞の把握"
+    priority: "P1"
+    notes: |
+      Point分類: 〔態〕
+      ■ 受動態が使われる場面:
+        (1) 行為者が不明、または示す必要がない・示せないとき
+          例: My purse was stolen.（行為者不明）
+          例: Most of the reservations were canceled.（行為者を示す必要なし）
+        (2) 情報の流れを「既知→未知」にするとき
+          英語は「既知のこと（聞き手が既に知っている情報）」→「未知のこと（新しい情報）」
+          の順にするのが原則。受動態にすることでこの情報の流れを作れる。
+          例: These games were attended by thousands of spectators.
+          （These games は既知、観戦者数が新情報）
+      ❶ for example の挿入: 文中に挿入された副詞。日本語では文頭に置いて訳す。
+      ❷ more than ~: 「~を超える」の意。than は等号(=)を含まないので、
+        more than 100 は「100以上」ではなく「100を超える」。
+      ❸ 主語直後のコンマなし〈前置詞＋名詞〉は形容詞の働き:
+        例: A man from Japan visited me.（from Japan が形容詞として man を修飾）
+        ※文頭の〈前置詞＋名詞〉は副詞句（→nsv-001参照）
+      ❺ and がつなぐものの探し方:
+        and の直後にあるものに注目し、それと同じ形を and の前方に探す。
+        例: attended ... and watched → 過去分詞同士がつながっている
+
+  - id: "nsv-003"
+    name: "受動態 + as 補語"
+    category: "主語と動詞の把握"
+    priority: "P1"
+    notes: |
+      Point分類: 〔態〕
+      ■ 〈report A as B〉→ 受動態〈A be reported as B〉:
+        「AをBと報告する」→「AはBと報告される」
+        as の後ろに名詞がある場合は原則「～として」と訳す。
+        例外: as a child / a boy / a girl 「子どもの頃に / 少年の頃に / 少女の頃に」
+      ■ as の後ろには名詞だけでなく形容詞も来ることがある:
+        本文では being supportive（be supportive を動名詞化したもの）。
+        as は前置詞なので後ろに名詞形が必要。
+      ❶ Most of ~ の主語と動詞の一致:
+        Most of ~ が主語の場合、動詞の形は of の後の名詞が単数か複数かで決まる。
+        例: Most of the friendships → were（複数）
+        前置詞のついた名詞(the friendships)は主語にならない。most が主語。
+      ❸ 抽象→具体の読み方:
+        英文は抽象的なことを先に述べ、具体的に説明する流れが多い。
+        第1文がわからなくても先に進めば後でわかることが多い。
+      ❹ however は副詞:
+        接続詞ではなく副詞。主語の直後に挿入されることがある。
+        同様の副詞: for example, moreover, therefore
+        日本語では訳語を文頭に置く。
+      ❻ 集合名詞:
+        family は集合名詞。1つのまとまり→単数形 / 1人1人の集まり→複数形。
+        同様: class, committee, public
+      ❼ little + 不可算名詞 = 「ほとんどない」:
+        little は数えられる名詞では「小さい」、数えられない名詞では「ほとんどない」。
+        influence は不可算名詞 → little influence「ほとんど影響がない」
+
+  - id: "nsv-004"
+    name: "受動態 + to不定詞"
+    category: "主語と動詞の把握"
+    priority: "P1"
+    notes: |
+      Point分類: 〔態〕
+      ■ 〈be + 過去分詞 + to V〉のパターン:
+        能動態〈V O to V〉の受動態。代表的な動詞と意味:
+        (1) 許可・依頼・命令系:
+          be allowed to V「Vすることを許される」
+          be asked to V「Vするように頼まれる」
+          be told to V「Vするように言われる」
+        (2) 認識・判断系:
+          be found to V「Vだとわかる」
+          be considered to V「Vと考えられる」
+          be believed to V「Vと信じられている」
+          be expected to V「Vと予想される」
+          be known to V「Vと知られている」
+      ■ 〈S is said to V〉=〈It is said that S + V〉の書き換え:
+        | it を主語にした文               | S を主語にした受動態        | 意味                       |
+        | It is said that S + V           | S is said to V              | SはVと言われている         |
+        | It is thought that S + V        | S is thought to V           | SはVと考えられている       |
+        | It is believed that S + V       | S is believed to V          | SはVと信じられている       |
+        日本語にするとどちらも同じ訳になることに注意。
+      ❶ I think (that) students: think の後ろに接続詞 that が省略されている。
+        think の後に名詞を直接置く場合は think about/of ~ の形が必要。
+        I think students で切ると should reduce の主語が不足 → that 省略と判断。
+      ❷ and がつなぐもの: should reduce と should read の並列。
+        [図表: 樹形図 — and がつなぐ should reduce と should read の並列関係を示す（p.34）]
+      ❸ Forming a reading habit: form に -ing がつき動名詞として全体を名詞化。
+        動名詞句全体が is said の主語。
+        reading habit は〈名詞+名詞〉の形で、前の名詞が後ろの名詞を形容詞的に修飾。
+      ❺ later =「（もっと）あとの」: 子ども時代を過ぎた成長後を指す。
+        reading proficiency も〈名詞+名詞〉の形。「読む力」の意味。
+
 understanding_goals:
   - node_id: "nsv-001"
     seq: 1
@@ -36,6 +127,39 @@ understanding_goals:
   - node_id: "nsv-001"
     seq: 4
     goal: "動詞の位置から主語のかたまりを逆算して特定できる"
+  - node_id: "nsv-002"
+    seq: 1
+    goal: "受動態が使われる2つの理由（行為者不明・情報の流れ）を説明できる"
+  - node_id: "nsv-002"
+    seq: 2
+    goal: "英文を見て、なぜ受動態が使われているのかを判断できる"
+  - node_id: "nsv-002"
+    seq: 3
+    goal: "「既知→未知」の情報の流れの原則を理解し、受動態との関係を説明できる"
+  - node_id: "nsv-002"
+    seq: 4
+    goal: "能動態の文を受動態に書き換え、情報の流れがどう変わるか説明できる"
+  - node_id: "nsv-003"
+    seq: 1
+    goal: "〈V A as B〉を受動態に変換し、〈A be V-ed as B〉の形を書ける"
+  - node_id: "nsv-003"
+    seq: 2
+    goal: "as + 名詞/形容詞の「～として」の意味を正しく判断できる"
+  - node_id: "nsv-003"
+    seq: 3
+    goal: "as being + 形容詞 の構造（be + 形容詞の動名詞化）を理解できる"
+  - node_id: "nsv-004"
+    seq: 1
+    goal: "〈be + 過去分詞 + to V〉の形を見て、元の能動態の形を復元できる"
+  - node_id: "nsv-004"
+    seq: 2
+    goal: "be found/allowed/told/said to V の各パターンの意味を正しく訳せる"
+  - node_id: "nsv-004"
+    seq: 3
+    goal: "〈S is said to V〉と〈It is said that S + V〉を相互に書き換えできる"
+  - node_id: "nsv-004"
+    seq: 4
+    goal: "英文中の be + 過去分詞 + to V を見て受動態＋to不定詞のパターンだと認識できる"
 
 check_points:
   - node_id: "nsv-001"
@@ -54,6 +178,54 @@ check_points:
     seq: 4
     question: "主語を特定するための「両輪」とは何か？"
     answer: "形の上のルール（前置詞の有無等で排除する）と、意味として通るかどうか（動詞との整合性）の両方で判断すること。"
+  - node_id: "nsv-002"
+    seq: 1
+    question: "受動態が使われる理由を2つ挙げよ。"
+    answer: "(1) 行為者が不明、または示す必要がない・示せないとき。(2) 情報の流れを「既知→未知」にするとき。"
+  - node_id: "nsv-002"
+    seq: 2
+    question: "My purse was stolen. はなぜ受動態が使われているか？"
+    answer: "行為者（盗んだ人）が不明であるため。能動態では主語（行為者）を示す必要があるが、この場合は示せない。"
+  - node_id: "nsv-002"
+    seq: 3
+    question: "These games were attended by thousands of spectators. がなぜ受動態なのか？"
+    answer: "These games（既知の情報）を先に出し、thousands of spectators（新しい情報）を後に置くことで、「既知→未知」の情報の流れを作るため。"
+  - node_id: "nsv-002"
+    seq: 4
+    question: "英語の情報の流れの原則とは何か？"
+    answer: "「既知のこと」を先に出し、「未知のこと・新しい情報」をその後ろに置く原則。受動態はこの情報の流れを実現する手段の一つ。"
+  - node_id: "nsv-003"
+    seq: 1
+    question: "〈report A as B〉を受動態にするとどうなるか？"
+    answer: "〈A be reported as B〉となる。「AはBと報告される」の意味。"
+  - node_id: "nsv-003"
+    seq: 2
+    question: "Most of the friendships were reported as being supportive. の as being は何か？"
+    answer: "as は前置詞で「～として」の意味。being は be supportive を動名詞化したもの（as は前置詞なので後ろに名詞形が必要）。"
+  - node_id: "nsv-003"
+    seq: 3
+    question: "as + 名詞の原則的な訳し方と、その例外は何か？"
+    answer: "原則「～として」と訳す。例外: as a child / a boy / a girl は「子どもの頃に / 少年の頃に / 少女の頃に」と訳す。"
+  - node_id: "nsv-004"
+    seq: 1
+    question: "〈find O to V〉を受動態にするとどうなるか？ またその意味は？"
+    answer: "〈O be found to V〉となる。「OはVだとわかる」の意味。"
+  - node_id: "nsv-004"
+    seq: 2
+    question: "be allowed to V / be told to V / be asked to V の意味をそれぞれ述べよ。"
+    answer: "be allowed to V「Vすることを許される」、be told to V「Vするように言われる」、be asked to V「Vするように頼まれる」。"
+  - node_id: "nsv-004"
+    seq: 3
+    question: "〈S is said to V〉を It を主語にして書き換えるとどうなるか？"
+    answer: "〈It is said that S + V〉となる。日本語にすると「SはVと言われている」で同じ意味。"
+  - node_id: "nsv-004"
+    seq: 4
+    question: "Forming a reading habit in childhood is said to be associated with later reading proficiency. の is said to be associated の構造を説明せよ。"
+    answer: "〈S is said to V〉の形で、V の部分が be associated with（～と関連がある）。「～と関連があると言われている」の意味。It is said that forming ... is associated with ... と書き換えられる。"
+  - node_id: "nsv-004"
+    seq: 5
+    question: "〈S is said to V〉と〈It is said that S + V〉のうち、日本語に訳したとき差が出るか？"
+    answer: "差は出ない。どちらも「SはVと言われている」と同じ訳になる。"
 
 node_prerequisites:
   - node_id: "nsv-001"
@@ -62,9 +234,33 @@ node_prerequisites:
     prerequisite_id: "nbk-005"
   - node_id: "nsv-001"
     prerequisite_id: "nbk-009"
+  - node_id: "nsv-002"
+    prerequisite_id: "nbk-002"
+  - node_id: "nsv-003"
+    prerequisite_id: "nsv-002"
+  - node_id: "nsv-004"
+    prerequisite_id: "nsv-002"
+  - node_id: "nsv-004"
+    prerequisite_id: "nbk-013"
 
 knowledge_references:
   - node_id: "nsv-001"
     book: "入門英文問題精講"
     section_id: "Ny_01"
     pages: "p.28-29"
+  - node_id: "nsv-002"
+    book: "入門英文問題精講"
+    section_id: "Ny_02"
+    pages: "p.30-31"
+  - node_id: "nsv-003"
+    book: "入門英文問題精講"
+    section_id: "Ny_03"
+    pages: "p.32-33"
+  - node_id: "nsv-004"
+    book: "入門英文問題精講"
+    section_id: "Ny_03"
+    pages: "p.32-33"
+  - node_id: "nsv-004"
+    book: "入門英文問題精講"
+    section_id: "Ny_04"
+    pages: "p.34-35"

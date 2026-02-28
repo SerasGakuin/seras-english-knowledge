@@ -1,0 +1,106 @@
+sentences:
+  - id: "ny-02-s1"
+    section_id: "Ny_02"
+    drill: 2
+    number: 1
+    role: "exercise"
+    english: "At the 2012 Summer Olympics, for example, more than 10,000 competitors from 204 nations and regions participated."
+    japanese: "例えば，2012年の夏季オリンピックでは204の国や地域から1万人を超える選手が参加した。"
+    notes: "出典: 東海大学"
+  - id: "ny-02-s2"
+    section_id: "Ny_02"
+    drill: 2
+    number: 2
+    role: "exercise"
+    english: "These games were attended by thousands of spectators and watched by millions of people on television."
+    japanese: "このオリンピックを観戦した人はかなりの人数であり，テレビで観た人は相当な人数であった。"
+    notes: "出典: 東海大学"
+  - id: "ny-02-s3"
+    section_id: "Ny_02"
+    drill: 2
+    number: 3
+    role: "example"
+    english: "A man from Japan visited me."
+    japanese: "日本から来た男が私のところを訪れた"
+    notes: "❸の例文。主語直後の〈前置詞+名詞〉が形容詞の働きをする例。"
+  - id: "ny-02-s4"
+    section_id: "Ny_02"
+    drill: 2
+    number: 4
+    role: "example"
+    english: "\"Episode VII\" will be released this summer."
+    japanese: "『エピソード7』はこの夏に公開される"
+    notes: "❹の例文。行為者不明の受動態の例。"
+  - id: "ny-02-s5"
+    section_id: "Ny_02"
+    drill: 2
+    number: 5
+    role: "example"
+    english: "My purse was stolen."
+    japanese: "財布を盗まれた"
+    notes: "❹の例文。行為者不明の受動態の例。"
+  - id: "ny-02-s6"
+    section_id: "Ny_02"
+    drill: 2
+    number: 6
+    role: "example"
+    english: "Most of the reservations were canceled."
+    japanese: "予約の大半がキャンセルされた"
+    notes: "❹の例文。行為者を示す必要がない受動態の例。"
+
+sentence_structures:
+  - sentence_id: "ny-02-s1"
+    label: "overall"
+    value: "M S V"
+  - sentence_id: "ny-02-s1"
+    label: "details"
+    value: "(At the 2012 Summer Olympics)(M:副詞句), (for example)(M:挿入副詞), {S}more than 10,000 competitors (from 204 nations and regions)(M:形容詞句) {V}participated."
+  - sentence_id: "ny-02-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 例えば，2012年の夏季オリンピックでは
+      ❷ 1万人を超える選手が
+  - sentence_id: "ny-02-s2"
+    label: "overall"
+    value: "S V M V M"
+  - sentence_id: "ny-02-s2"
+    label: "details"
+    value: "{S}These games {V}were attended (by thousands of spectators)(M:副詞句) {等接}and {V}watched (by millions of people on television)(M:副詞句)."
+  - sentence_id: "ny-02-s3"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "ny-02-s3"
+    label: "details"
+    value: "{S}A man (from Japan)(M:形容詞句) {V}visited {O}me."
+  - sentence_id: "ny-02-s4"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "ny-02-s4"
+    label: "details"
+    value: "{S}\"Episode VII\" {V}will be released (this summer)(M:副詞句)."
+  - sentence_id: "ny-02-s5"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "ny-02-s5"
+    label: "details"
+    value: "{S}My purse {V}was stolen."
+  - sentence_id: "ny-02-s6"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "ny-02-s6"
+    label: "details"
+    value: "{S}Most (of the reservations)(M:形容詞句) {V}were canceled."
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-02-s1"
+    node_id: "nsv-001"
+  - sentence_id: "ny-02-s2"
+    node_id: "nsv-002"
+  - sentence_id: "ny-02-s3"
+    node_id: "nsv-001"
+  - sentence_id: "ny-02-s4"
+    node_id: "nsv-002"
+  - sentence_id: "ny-02-s5"
+    node_id: "nsv-002"
+  - sentence_id: "ny-02-s6"
+    node_id: "nsv-002"

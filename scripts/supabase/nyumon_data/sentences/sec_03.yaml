@@ -1,0 +1,61 @@
+sentences:
+  - id: "ny-03-s1"
+    section_id: "Ny_03"
+    drill: 3
+    number: 1
+    role: "exercise"
+    english: "Most of the friendships were reported as being supportive."
+    japanese: "友情の大半は支えになっていたと報告された。"
+    notes: "出典: 藤女子大学"
+  - id: "ny-03-s2"
+    section_id: "Ny_03"
+    drill: 3
+    number: 2
+    role: "exercise"
+    english: "Family, however, were found to have little influence on an individual's health and well-being."
+    japanese: "けれども，家族は個々の人間の健康や幸福にはほとんど影響しないことがわかった。"
+    notes: "出典: 藤女子大学"
+  - id: "ny-03-s3"
+    section_id: "Ny_03"
+    drill: 3
+    number: 3
+    role: "example"
+    english: "Students aren't allowed to bring their phones to school."
+    japanese: "学生は学校に自分の電話を持ち込むことを許されていない"
+    notes: "❺の例文。be allowed to V の例。"
+
+sentence_structures:
+  - sentence_id: "ny-03-s1"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "ny-03-s1"
+    label: "details"
+    value: "{S}Most (of the friendships)(M:形容詞句) {V}were reported (as being supportive)(C:as補語)."
+  - sentence_id: "ny-03-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 友情の大半は
+  - sentence_id: "ny-03-s2"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "ny-03-s2"
+    label: "details"
+    value: "{S}Family, (however)(M:挿入副詞), {V}were found {C}(to {v}have {o}little influence (on an individual's health and well-being)(M:形容詞句))."
+  - sentence_id: "ny-03-s2"
+    label: "partial_translations"
+    value: |
+      ❺ （けれども）家族は～ということがわかった
+  - sentence_id: "ny-03-s3"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "ny-03-s3"
+    label: "details"
+    value: "{S}Students {V}aren't allowed {C}(to bring their phones (to school)(M:副詞句))."
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-03-s1"
+    node_id: "nsv-003"
+  - sentence_id: "ny-03-s2"
+    node_id: "nsv-004"
+  - sentence_id: "ny-03-s3"
+    node_id: "nsv-004"

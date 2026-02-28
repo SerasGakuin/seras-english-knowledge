@@ -96,19 +96,25 @@ sections:
     title: "動詞の把握（受動態）"
     pages: "p.30-31"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: 第2文はなぜ受動態になっているの？
+      一言: and がつなぐものを探す作業は非常に大切です。これは決して忘れないでくださいね。
   - id: "Ny_03"
     book: "入門英文問題精講"
     title: "動詞の把握（受動態＋不定詞）①"
     pages: "p.32-33"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: were found の後ろの to have はどこにつながる？
+      一言: supportive の意味は「支えてくれる」ぐらいで十分。a supportive friend で「支えになる友人」。このあとに問題42の英文が続く。
   - id: "Ny_04"
     book: "入門英文問題精講"
     title: "動詞の把握（受動態＋不定詞）②"
     pages: "p.34-35"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: is said の後ろの to be associated はどこにつながる？
+      一言: 高校生になってから，こんな文章を読まされても困りますよ。こういうことは，小学生のときに言ってほしいですね。
   - id: "Ny_05"
     book: "入門英文問題精講"
     title: "動詞の把握（SVOCのCが〈V-ing〉）"
@@ -575,6 +581,19 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_G13"
     node_id: "nbk-013"
+    seq: 1
+
+  - section_id: "Ny_02"
+    node_id: "nsv-002"
+    seq: 1
+  - section_id: "Ny_03"
+    node_id: "nsv-003"
+    seq: 1
+  - section_id: "Ny_03"
+    node_id: "nsv-004"
+    seq: 2
+  - section_id: "Ny_04"
+    node_id: "nsv-004"
     seq: 1
 
 section_prerequisites: []

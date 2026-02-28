@@ -150,32 +150,32 @@ sections:
     title: "動詞の把握（受動態）"
     type: "exercise"
     pages: "p.30-31"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "nsv-002（受動態の使用理由）。例文4つ含む。"
   Ny_03:
     title: "動詞の把握（受動態＋不定詞）①"
     type: "exercise"
     pages: "p.32-33"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 2
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "nsv-003（受動態+as補語）、nsv-004（受動態+to不定詞）の2ノード。nsv-004はNy_04と共有。"
   Ny_04:
     title: "動詞の把握（受動態＋不定詞）②"
     type: "exercise"
     pages: "p.34-35"
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "nsv-004（受動態+to不定詞）をNy_03と共有。S is said to V = It is said that の書き換え。"
   Ny_05:
     title: "動詞の把握（SVOCのCが〈V-ing〉）"
     type: "exercise"
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 15
+  completed: 18
   in_progress: 0
-  not_started: 70
-  total_knowledge_nodes: 15
-  total_sentences: 71
+  not_started: 67
+  total_knowledge_nodes: 18
+  total_sentences: 83

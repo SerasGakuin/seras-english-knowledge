@@ -1,0 +1,62 @@
+sentences:
+  - id: "ny-04-s1"
+    section_id: "Ny_04"
+    drill: 4
+    number: 1
+    role: "exercise"
+    english: "I think students should reduce their time in front of screens and should read books every day even for a short time."
+    japanese: "学生は画面の前で過ごす時間を減らして，毎日ほんの少しの時間でも本を読むべきだと私は思う。"
+    notes: ""
+  - id: "ny-04-s2"
+    section_id: "Ny_04"
+    drill: 4
+    number: 2
+    role: "exercise"
+    english: "Forming a reading habit in childhood is said to be associated with later reading proficiency."
+    japanese: "子どもの頃に読書習慣をつけることは，大きくなったときの読む力と関連していると言われている。"
+    notes: ""
+  - id: "ny-04-s3"
+    section_id: "Ny_04"
+    drill: 4
+    number: 3
+    role: "example"
+    english: "It is said that forming a reading habit in childhood is associated with later reading proficiency."
+    japanese: "子どもの頃に読書習慣をつけることは，大きくなったときの読む力と関連していると言われている。"
+    notes: "❹の書き換え例。〈S is said to V〉→〈It is said that S + V〉。"
+
+sentence_structures:
+  - sentence_id: "ny-04-s1"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "ny-04-s1"
+    label: "details"
+    value: "{S}I {V}think {O}[{S}students {V}should reduce {O}their time (in front of screens)(M:形容詞句) {等接}and {V}should read {O}books (every day)(M:副詞句) (even for a short time)(M:副詞句)](O:that節/that省略)."
+  - sentence_id: "ny-04-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 私は学生が～と考える
+  - sentence_id: "ny-04-s2"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "ny-04-s2"
+    label: "details"
+    value: "{S}(Forming a reading habit (in childhood)(M:副詞句))(S:動名詞句) {V}is said {C}(to be associated (with later reading proficiency)(M:副詞句))."
+  - sentence_id: "ny-04-s2"
+    label: "partial_translations"
+    value: |
+      ❸ 子どもの頃に読書習慣を作ること
+      ❹ （子どもの頃に読書習慣をつけること）は～と関連していると言われている
+  - sentence_id: "ny-04-s3"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "ny-04-s3"
+    label: "details"
+    value: "{S}It {V}is said {C}[that (forming a reading habit (in childhood)(M:副詞句))(S:動名詞句) is associated (with later reading proficiency)(M:副詞句)](C:that節)."
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-04-s1"
+    node_id: "nbk-012"
+  - sentence_id: "ny-04-s2"
+    node_id: "nsv-004"
+  - sentence_id: "ny-04-s3"
+    node_id: "nsv-004"
