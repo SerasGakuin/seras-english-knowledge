@@ -1,0 +1,42 @@
+# Scr_032: Theme 32 動名詞の基本用法 → sjd-008
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-032-p01"
+    section_id: "Scr_032"
+    drill: 1
+    number: 111
+    role: "exam"
+    english: "Knowing about what is happening in world politics is very important."
+    japanese: "世界の政治で何が起こっているのかを知っていることはとても重要だ。"
+    notes: "難易度: 基本; 出典: 名城大; 4択; 動名詞句が主語の場合; 形式主語itを用いた書き換え可: It is very important knowing about what ..."
+  - id: "scr-032-p02"
+    section_id: "Scr_032"
+    drill: 1
+    number: 112
+    role: "exam"
+    english: "You can improve your health by doing more exercise."
+    japanese: "もっと運動することによって健康を増進することができる。"
+    notes: "難易度: 基本+頻出; 出典: 中部大; 4択; 前置詞の目的語になる動名詞; 不定詞は前置詞の後ろに置くことができない"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-032-p01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-032-p01"
+    label: "details"
+    value: "<Knowing about what is happening in world politics>(S:動名詞句) is(V) <very important>(C)."
+  # p02
+  - sentence_id: "scr-032-p02"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-032-p02"
+    label: "details"
+    value: "You(S) can improve(V) <your health>(O) [by doing more exercise](M:前置詞+動名詞)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-032-p01"
+    node_id: "sjd-008"
+  - sentence_id: "scr-032-p02"
+    node_id: "sjd-008"

@@ -1,0 +1,76 @@
+# Scr_037: Theme 37 名詞を修飾する分詞──限定用法 → sjd-011
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-037-p01"
+    section_id: "Scr_037"
+    drill: 1
+    number: 134
+    role: "exam"
+    english: "The company is faced with growing costs of production."
+    japanese: "その会社は増大する生産コストに直面している。"
+    notes: "難易度: 基本; 出典: 亜細亜大; 4択; 名詞を前から修飾する現在分詞; costsとgrowの間に能動関係「コストが増大する」→現在分詞"
+  - id: "scr-037-p02"
+    section_id: "Scr_037"
+    drill: 1
+    number: 135
+    role: "exam"
+    english: "The carpenter repaired the broken chair."
+    japanese: "大工は壊れた椅子を修理した。"
+    notes: "難易度: 基本; 出典: 清泉女子大; 4択; 名詞を前から修飾する過去分詞; chairとbreakの間に受動関係「椅子が壊された」→過去分詞"
+  - id: "scr-037-p03"
+    section_id: "Scr_037"
+    drill: 1
+    number: 136
+    role: "exam"
+    english: "That man walking across the street is my neighbor."
+    japanese: "通りを歩いて渡っているあの男性は私の隣人です。"
+    notes: "難易度: 基本+頻出; 出典: 東海大; 4択; 名詞を後ろから修飾する現在分詞; across the streetという副詞句を伴うため後置修飾"
+  - id: "scr-037-p04"
+    section_id: "Scr_037"
+    drill: 1
+    number: 137
+    role: "exam"
+    english: "Children brought up by bilingual parents may naturally learn two languages."
+    japanese: "バイリンガルの両親に育てられた子どもは、自然に2つの言語を身につけるかもしれない。"
+    notes: "難易度: 頻出; 出典: センター; 4択; 名詞を後ろから修飾する過去分詞; childrenとbring upの間に受動関係; who were brought upなら可; 語句: bring up ~「~を育てる」(= raise / rear)(⇨900)"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-037-p01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-037-p01"
+    label: "details"
+    value: "<The company>(S) is faced with(V:句動詞) <growing costs of production>(O:現在分詞の前置修飾)."
+  # p02
+  - sentence_id: "scr-037-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-037-p02"
+    label: "details"
+    value: "<The carpenter>(S) repaired(V) <the broken chair>(O:過去分詞の前置修飾)."
+  # p03
+  - sentence_id: "scr-037-p03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-037-p03"
+    label: "details"
+    value: "<That man [walking across the street]>(S:現在分詞の後置修飾) is(V) <my neighbor>(C)."
+  # p04
+  - sentence_id: "scr-037-p04"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-037-p04"
+    label: "details"
+    value: "<Children [brought up by bilingual parents]>(S:過去分詞の後置修飾) may naturally learn(V) <two languages>(O)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-037-p01"
+    node_id: "sjd-011"
+  - sentence_id: "scr-037-p02"
+    node_id: "sjd-011"
+  - sentence_id: "scr-037-p03"
+    node_id: "sjd-011"
+  - sentence_id: "scr-037-p04"
+    node_id: "sjd-011"

@@ -1,0 +1,163 @@
+# Ch05 動名詞 — sjd-008〜010（3ノード / 5セクション）
+
+knowledge_nodes:
+  - id: "sjd-008"
+    name: "動名詞の基本用法と動詞的性質"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Theme 32+33 統合。動名詞(doing)は動詞にingをつけた名詞の一種。
+      文中での4つの働き: 主語/補語/動詞の目的語/前置詞の目的語。
+      入試では特に前置詞の目的語になる場合が重要。
+      動名詞の動詞的性質:
+        ① 目的語や補語、副詞（句）を伴う
+        ② 意味上の主語を持つ — 名詞・代名詞の所有格または目的格を動名詞の前に置く（口語では目的格が多い）
+        ③ 完了形(having done)と受動態(being done / having been done)がある
+        ④ 否定形(not/neverを動名詞の直前に置く)がある
+      否定形+意味上の主語: 名詞・代名詞を否定語の前に置く（例: Jim not coming）
+      形式主語itを用いた動名詞句: It is ... doing ~ も可能（不定詞と同様）
+
+  - id: "sjd-009"
+    name: "前置詞to/inの後の動名詞慣用表現"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Theme 34+35 統合。前置詞toの後に動名詞が来る慣用表現（to doと混同注意）。
+      前置詞の後には必ず名詞か動名詞が来ることを忘れないように。
+      to doing表現:
+        - look forward to doing「〜するのを楽しみに待つ」
+        - be accustomed to doing「〜することに慣れている」(= be used to doing ⇨問65。よりも硬い表現)
+        - when it comes to doing「〜するということになると」
+        - object to doing「〜することに反対する」(= oppose doing)
+        - What do you say to doing?「〜してはどうですか」(= How/What about doing?)
+      比較: be accustomed to(状態) vs get accustomed [used] to(動作)
+      in省略可能な表現:
+        - have difficulty [trouble] (in) doing「〜するのに苦労する」
+          — 程度: a lot of / great / a little / little / no をdifficulty前に入れる
+        - spend A (in) doing「A(時間)を〜して過ごす/〜するのに費やす」
+          — 比較: spend A on B (⇨1042)
+        - be busy (in) doing「〜するのに忙しい」
+          — 比較: be busy with [at] + 名詞
+      inのない場合はdoingを補語的な働きをする現在分詞と考えることもできる。
+      参照: stay up「寝ずに起きている」(= sit up)(⇨892)
+
+  - id: "sjd-010"
+    name: "その他の動名詞慣用表現"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Theme 36 単独。動名詞を用いた重要慣用表現。
+      - There is no doing「〜することはできない」= It is impossible to do / We cannot do / No one can do
+      - It is no use [good] doing「〜してもむだである」= It is useless to do
+        — goodはuseより口語的。形式主語itを用いた構文。
+      - There is no use [good / point] (in) doing = It is no use [good] doing
+      - be worth doing「〜する価値がある」
+        — 能動態の動名詞で受動の意味「〜される」を表す（重要）
+        — 書き換え: It is worthwhile reading [to read] this novel.
+      - of one's own doing「自分で〜した」
+      - feel like doing「〜したい気がする」= feel inclined to do = want to do
+      - It goes without saying that ~「〜は言うまでもない」= Needless to say, S + V (⇨PU!24)
+      - on doing「〜するとすぐに」= as soon as S + V
+      - 比較: in doing「〜する際に/〜するときに」= while [when] S + V
+      参照: so ... that ~「とても…なので〜」(⇨446)
+
+understanding_goals:
+  # sjd-008
+  - node_id: "sjd-008"
+    seq: 1
+    goal: "動名詞の文中での4つの働き（主語/補語/動詞の目的語/前置詞の目的語）を区別できる"
+  - node_id: "sjd-008"
+    seq: 2
+    goal: "動名詞の意味上の主語を所有格/目的格で表す方法を理解している"
+  - node_id: "sjd-008"
+    seq: 3
+    goal: "完了形(having done)・受動態(being done)・否定形(not doing)を正しく作れる"
+  - node_id: "sjd-008"
+    seq: 4
+    goal: "否定の完了形(not having done)など複合的な動名詞の語順がわかる"
+  # sjd-009
+  - node_id: "sjd-009"
+    seq: 1
+    goal: "前置詞toの後に動名詞が来る主要表現を正しく使える"
+  - node_id: "sjd-009"
+    seq: 2
+    goal: "to doingとto doを混同せず、前置詞to/不定詞toを区別できる"
+  - node_id: "sjd-009"
+    seq: 3
+    goal: "inの省略が可能な3つの慣用表現（have difficulty/spend/be busy）を理解している"
+  # sjd-010
+  - node_id: "sjd-010"
+    seq: 1
+    goal: "There is no doing / It is no use doingの意味と書き換えができる"
+  - node_id: "sjd-010"
+    seq: 2
+    goal: "be worth doingの動名詞が能動形で受動の意味を表すことを理解している"
+  - node_id: "sjd-010"
+    seq: 3
+    goal: "on doing / feel like doing / It goes without saying thatの意味がわかる"
+  - node_id: "sjd-010"
+    seq: 4
+    goal: "of one's own doingの意味と使い方がわかる"
+
+check_points:
+  # sjd-008
+  - node_id: "sjd-008"
+    seq: 1
+    question: "動名詞が文中で果たす4つの役割は？"
+    answer: "主語・補語・動詞の目的語・前置詞の目的語。入試では前置詞の目的語が特に重要。"
+  - node_id: "sjd-008"
+    seq: 2
+    question: "動名詞の意味上の主語はどのように表すか？"
+    answer: "名詞・代名詞の所有格または目的格を動名詞の前に置く（口語では目的格が多い）。例: my receiving / me receiving"
+  - node_id: "sjd-008"
+    seq: 3
+    question: "完了形の動名詞(having done)はどのような場合に使うか？"
+    answer: "述語動詞の表す時よりも前のことを表す場合。例: on suspicion of having killed（殺した容疑で→殺したのは逮捕より前）"
+  - node_id: "sjd-008"
+    seq: 4
+    question: "動名詞の否定形でnot/neverの位置は？意味上の主語がある場合は？"
+    answer: "not/neverは動名詞の直前に置く。意味上の主語は否定語の前に置く（例: Jim not coming）。完了形の否定: not having done"
+  - node_id: "sjd-008"
+    seq: 5
+    question: "受動態の動名詞の形は？"
+    answer: "単純形: being done「〜されること」、完了形: having been done「〜されたこと」"
+  # sjd-009
+  - node_id: "sjd-009"
+    seq: 1
+    question: "look forward to doingのtoは不定詞のtoか前置詞のtoか？なぜdoingが来るか？"
+    answer: "前置詞のto。前置詞の後には名詞か動名詞が来るため。to doと混同しないこと。"
+  - node_id: "sjd-009"
+    seq: 2
+    question: "be accustomed to doingとget accustomed to doingの違いは？"
+    answer: "be accustomedは状態「〜に慣れている」、get accustomedは動作「〜に慣れる」。同様にbe used to / get used toも同じ関係。"
+  - node_id: "sjd-009"
+    seq: 3
+    question: "inが省略可能な動名詞の慣用表現を3つ挙げよ。"
+    answer: "have difficulty [trouble] (in) doing, spend A (in) doing, be busy (in) doing"
+  - node_id: "sjd-009"
+    seq: 4
+    question: "object to doingの意味と書き換えは？"
+    answer: "「〜することに反対する」= oppose doing"
+  # sjd-010
+  - node_id: "sjd-010"
+    seq: 1
+    question: "There is no doingの意味と3つの書き換えは？"
+    answer: "「〜することはできない」= It is impossible to do / We [You] cannot do / No one can do"
+  - node_id: "sjd-010"
+    seq: 2
+    question: "be worth doingで能動形の動名詞が受動の意味を表す点と、worthwhileを使った書き換えは？"
+    answer: "This novel is worth reading.（読まれる価値がある）= It is worthwhile reading [to read] this novel. 能動形readingで受動の意味を表す。"
+  - node_id: "sjd-010"
+    seq: 3
+    question: "on doingとin doingの意味の違いは？"
+    answer: "on doing「〜するとすぐに」(= as soon as S + V)、in doing「〜する際に/〜するときに」(= while/when S + V)"
+  - node_id: "sjd-010"
+    seq: 4
+    question: "It goes without saying that ~の意味と書き換えは？"
+    answer: "「〜は言うまでもない」= Needless to say, S + V"
+
+node_prerequisites:
+  - node_id: "sjd-009"
+    prerequisite_id: "sjd-008"
+  - node_id: "sjd-010"
+    prerequisite_id: "sjd-008"

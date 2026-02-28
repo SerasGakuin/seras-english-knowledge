@@ -315,6 +315,148 @@ sections:
     gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-02"
     notes: "sjd-007(単独)。問題106-110=5exam, PU!25例文2件=2example。too...to/enough to/so as to"
+  # Part 1 > Ch05 動名詞
+  Scr_032:
+    title: "動名詞の基本用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sjd-008(Theme32+33統合)。問題111-112=2exam"
+  Scr_033:
+    title: "動名詞の形──動名詞の動詞的性質"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sjd-008(Theme32+33統合)。問題113-117=5exam。意味上の主語/完了形/受動態/否定形"
+  Scr_034:
+    title: "toの後ろに動名詞が続く慣用表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sjd-009(Theme34+35統合)。問題118-122=5exam, 比較例文(get accustomed)1件=1example"
+  Scr_035:
+    title: "省略可能なinの後ろに動名詞が続く慣用表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sjd-009(Theme34+35統合)。問題123-125=3exam, 解説例文(no trouble)1件=1example"
+  Scr_036:
+    title: "その他の動名詞を用いた慣用表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sjd-010(単独)。問題126-133=8exam, 比較例文(in doing)1件=1example"
+  # Part 1 > Ch06 分詞
+  Scr_037:
+    title: "名詞を修飾する分詞──限定用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sjd-011(Theme37+38+39統合)。問題134-137=4exam。前置/後置修飾・能動/受動"
+  Scr_038:
+    title: "主格補語となる分詞──叙述用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sjd-011(Theme37+38+39統合)。問題138-139=2exam。SVC(分詞)の代表動詞: sit/stand/lie/come/go/remain/look"
+  Scr_039:
+    title: "There be + S + doing/done"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sjd-011(Theme37+38+39統合)。問題140-141=2exam"
+  Scr_040:
+    title: "分詞構文の基本用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sjd-012(Theme40+41+42統合)。問題142-144=3exam, PU!26例文5件=5example。分詞構文5意味(理由/時/付帯状況/結果/条件)"
+  Scr_041:
+    title: "分詞構文の完了形＆否定形"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sjd-012(Theme40+41+42統合)。問題145-146=2exam。having done / not doing"
+  Scr_042:
+    title: "受動態の分詞構文"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sjd-012(Theme40+41+42統合)。問題147-148=2exam。(being) done / compared with [to]"
+  Scr_043:
+    title: "独立分詞構文"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sjd-013(単独P2)。問題149-152=4exam。基本形/weather permitting/all things considered/There being"
+  Scr_044:
+    title: "慣用的な分詞構文"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sjd-014(単独P2)。問題153-155=3exam, PU!27例文2件=2example。frankly speaking/judging from/given"
+  Scr_045:
+    title: "with + A（名詞）+ 分詞"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sjd-015(単独P1)。問題156-157=2exam, PU!28例文1件=1example。付帯状況のwith構文"
   Scr_046:
     title: "仮定法過去"
     type: "grammar"
@@ -337,9 +479,9 @@ sections:
     notes: "パイロット。sgh-001。PU!92(他動詞14語)/PU!93(自動詞7語)はnotes記録"
 
 summary:
-  total_sections: 33
-  completed: 33
+  total_sections: 47
+  completed: 47
   in_progress: 0
   not_started: 0
-  total_knowledge_nodes: 29
-  total_sentences: 169
+  total_knowledge_nodes: 37
+  total_sentences: 227

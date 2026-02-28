@@ -1,0 +1,112 @@
+# Scr_034: Theme 34 toの後ろに動名詞が続く慣用表現 → sjd-009
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-034-p01"
+    section_id: "Scr_034"
+    drill: 1
+    number: 118
+    role: "exam"
+    english: "As the summer vacation approaches, I'm looking forward to meeting my friends."
+    japanese: "夏休みが近づいているので、友達に会うのが楽しみです。"
+    notes: "難易度: 超頻出; 出典: 愛知学院大; 穴埋め(forward); look forward to doing「~するのを楽しみに待つ」"
+  - id: "scr-034-p02"
+    section_id: "Scr_034"
+    drill: 1
+    number: 119
+    role: "exam"
+    english: "I am accustomed to staying up late at night."
+    japanese: "私は夜遅くまで起きていることに慣れている。"
+    notes: "難易度: 頻出; 出典: 南山大; 4択; be accustomed to doing「~することに慣れている」(be used to doing(⇨65)よりも硬い表現); 比較: get accustomed [used] to doing「~することに慣れる」は動作; 語句: stay up「寝ずに起きている」(= sit up)(⇨892)"
+  - id: "scr-034-p03"
+    section_id: "Scr_034"
+    drill: 1
+    number: 120
+    role: "exam"
+    english: "I can use a computer, but when it comes to repairing them, I know nothing."
+    japanese: "私はコンピューターを使うことはできるが、修理するということになると何もわからない。"
+    notes: "出典: 東京電機大; 4択; when it comes to doing「~するということになると」"
+  - id: "scr-034-p04"
+    section_id: "Scr_034"
+    drill: 1
+    number: 121
+    role: "exam"
+    english: "No one objected to climbing the mountain."
+    japanese: "その山に登ることに誰も反対しなかった。"
+    notes: "難易度: 頻出; 出典: 摂南大; 4択; object to doing「~することに反対する」(= oppose doing)"
+  - id: "scr-034-p05"
+    section_id: "Scr_034"
+    drill: 1
+    number: 122
+    role: "exam"
+    english: "What do you say to having a rest?"
+    japanese: "ひと休みしてはどうですか。"
+    notes: "出典: 京都産業大; 4択; What do you say to doing?「~してはどうですか」(= How [What] about doing?); 語句: have a rest「ひと休みする」(= rest / take a rest)(⇨PU!195)"
+
+  # === 例文（example） ===
+  - id: "scr-034-e01"
+    section_id: "Scr_034"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "He got accustomed to waking up early every morning."
+    japanese: "彼は毎朝早起きすることに慣れた。"
+    notes: "問119解説比較; get accustomed [used] to doing「~することに慣れる」は動作を表す（be accustomed=状態と対比）"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-034-p01"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-034-p01"
+    label: "details"
+    value: "[As the summer vacation approaches](M:従属節), I(S) 'm looking forward(V) [to meeting my friends](M:前置詞+動名詞)."
+  # p02
+  - sentence_id: "scr-034-p02"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-034-p02"
+    label: "details"
+    value: "I(S) am(V) <accustomed>(C) [to staying up late at night](M:前置詞+動名詞)."
+  # p03
+  - sentence_id: "scr-034-p03"
+    label: "overall"
+    value: "S V O conj S V O"
+  - sentence_id: "scr-034-p03"
+    label: "details"
+    value: "I(S) can use(V) <a computer>(O), but [when it comes to repairing them](M:前置詞+動名詞), I(S) know(V) <nothing>(O)."
+  # p04
+  - sentence_id: "scr-034-p04"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-034-p04"
+    label: "details"
+    value: "<No one>(S) objected(V) [to climbing the mountain](M:前置詞+動名詞)."
+  # p05
+  - sentence_id: "scr-034-p05"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-034-p05"
+    label: "details"
+    value: "What(O) do you(S) say(V) [to having a rest](M:前置詞+動名詞)?"
+  # e01
+  - sentence_id: "scr-034-e01"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-034-e01"
+    label: "details"
+    value: "He(S) got(V) <accustomed>(C) [to waking up early every morning](M:前置詞+動名詞)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-034-p01"
+    node_id: "sjd-009"
+  - sentence_id: "scr-034-p02"
+    node_id: "sjd-009"
+  - sentence_id: "scr-034-p03"
+    node_id: "sjd-009"
+  - sentence_id: "scr-034-p04"
+    node_id: "sjd-009"
+  - sentence_id: "scr-034-p05"
+    node_id: "sjd-009"
+  - sentence_id: "scr-034-e01"
+    node_id: "sjd-009"

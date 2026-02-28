@@ -1,0 +1,163 @@
+# Scr_036: Theme 36 その他の動名詞を用いた慣用表現 → sjd-010
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-036-p01"
+    section_id: "Scr_036"
+    drill: 1
+    number: 126
+    role: "exam"
+    english: "There is no denying this fact."
+    japanese: "この事実は否定できない。"
+    notes: "難易度: 頻出; 出典: 大阪経済大; 整序問題; There is no doing「~することはできない」(= It is impossible to do / We cannot do / No one can do)"
+  - id: "scr-036-p02"
+    section_id: "Scr_036"
+    drill: 1
+    number: 127
+    role: "exam"
+    english: "It is no use trying to deceive me."
+    japanese: "私をだまそうとしても無駄です。"
+    notes: "難易度: 頻出; 出典: 高知大; 穴埋め(use [good]); It is no use [good] doing「~してもむだである」(= It is useless to do); goodはuseより口語的; 形式主語構文"
+  - id: "scr-036-p03"
+    section_id: "Scr_036"
+    drill: 1
+    number: 128
+    role: "exam"
+    english: "There is no use discussing this problem any longer."
+    japanese: "これ以上この問題を議論しても仕方がない。"
+    notes: "出典: 中央大; 4択; There is no use [good / point] (in) doing「~してもむだである」; = It is no use [good] discussing this problem any longer."
+  - id: "scr-036-p04"
+    section_id: "Scr_036"
+    drill: 1
+    number: 129
+    role: "exam"
+    english: "This novel is worth reading."
+    japanese: "この小説は読む価値がある。"
+    notes: "難易度: 頻出; 出典: 中京大; 4択; be worth doing「~する価値がある」; 能動態の動名詞で受動の意味「~される」を表す（重要）; 書き換え: It is worthwhile reading [to read] this novel."
+  - id: "scr-036-p05"
+    section_id: "Scr_036"
+    drill: 1
+    number: 130
+    role: "exam"
+    english: "They walked a path of their own choosing."
+    japanese: "彼らは自分たちで選んだ道を歩いた。"
+    notes: "出典: 大学名なし; 穴埋め(their, own); of one's own doing「自分で~した」"
+  - id: "scr-036-p06"
+    section_id: "Scr_036"
+    drill: 1
+    number: 131
+    role: "exam"
+    english: "Yesterday, I was so tired that I didn't feel like speaking a word."
+    japanese: "昨日あまりにも疲れていたので、私は一言も話す気になりませんでした。"
+    notes: "難易度: 頻出; 出典: 武庫川女子大; 整序問題; feel like doing「~したい気がする」(= feel inclined to do / want to do); 語句: so ... that ~「とても…なので~」(⇨446)"
+  - id: "scr-036-p07"
+    section_id: "Scr_036"
+    drill: 1
+    number: 132
+    role: "exam"
+    english: "It goes without saying that nothing is more important than our health."
+    japanese: "言うまでもなく、健康よりも大切なものはない。"
+    notes: "出典: 青山学院大; 4択; It goes without saying that ~「~は言うまでもない」(= Needless to say, S + V(⇨PU!24))"
+  - id: "scr-036-p08"
+    section_id: "Scr_036"
+    drill: 1
+    number: 133
+    role: "exam"
+    english: "On hearing that she had passed the exam, she screamed with joy."
+    japanese: "試験に合格したと聞くやいなや、彼女は喜びのあまり叫んだ。"
+    notes: "難易度: 頻出; 出典: 日本女子大; 4択; on doing「~するとすぐに」(= as soon as S + V); 比較: in doing「~する際に/~するときに」(= while [when] S + V)"
+
+  # === 例文（example） ===
+  - id: "scr-036-e01"
+    section_id: "Scr_036"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "You should be careful in crossing a street."
+    japanese: "通りを渡るときは注意しないといけない。"
+    notes: "問133解説比較; in doing「~する際に/~するときに」(= while [when] S + V); 書き換え: You should be careful when you cross a street."
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-036-p01"
+    label: "overall"
+    value: "There V S"
+  - sentence_id: "scr-036-p01"
+    label: "details"
+    value: "There is(V) <no denying this fact>(S:動名詞句)."
+  # p02
+  - sentence_id: "scr-036-p02"
+    label: "overall"
+    value: "It V C S"
+  - sentence_id: "scr-036-p02"
+    label: "details"
+    value: "It(形式S) is(V) <no use>(C) [trying to deceive me](S:真主語:動名詞句)."
+  # p03
+  - sentence_id: "scr-036-p03"
+    label: "overall"
+    value: "There V S M"
+  - sentence_id: "scr-036-p03"
+    label: "details"
+    value: "There is(V) <no use>(S) [discussing this problem any longer](M:動名詞句)."
+  # p04
+  - sentence_id: "scr-036-p04"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-036-p04"
+    label: "details"
+    value: "<This novel>(S) is(V) <worth reading>(C:形容詞+動名詞)."
+  # p05
+  - sentence_id: "scr-036-p05"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-036-p05"
+    label: "details"
+    value: "They(S) walked(V) <a path of their own choosing>(O)."
+  # p06
+  - sentence_id: "scr-036-p06"
+    label: "overall"
+    value: "M S V C M"
+  - sentence_id: "scr-036-p06"
+    label: "details"
+    value: "Yesterday(M), I(S) was(V) <so tired>(C) [that I didn't feel like speaking a word](M:結果のthat節)."
+  # p07
+  - sentence_id: "scr-036-p07"
+    label: "overall"
+    value: "It V M"
+  - sentence_id: "scr-036-p07"
+    label: "details"
+    value: "It(形式S) goes without saying(V:慣用句) [that nothing is more important than our health](S:真主語:that節)."
+  # p08
+  - sentence_id: "scr-036-p08"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-036-p08"
+    label: "details"
+    value: "[On hearing that she had passed the exam](M:前置詞+動名詞), she(S) screamed(V) [with joy](M)."
+  # e01
+  - sentence_id: "scr-036-e01"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-036-e01"
+    label: "details"
+    value: "You(S) should be(V) <careful>(C) [in crossing a street](M:前置詞+動名詞)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-036-p01"
+    node_id: "sjd-010"
+  - sentence_id: "scr-036-p02"
+    node_id: "sjd-010"
+  - sentence_id: "scr-036-p03"
+    node_id: "sjd-010"
+  - sentence_id: "scr-036-p04"
+    node_id: "sjd-010"
+  - sentence_id: "scr-036-p05"
+    node_id: "sjd-010"
+  - sentence_id: "scr-036-p06"
+    node_id: "sjd-010"
+  - sentence_id: "scr-036-p07"
+    node_id: "sjd-010"
+  - sentence_id: "scr-036-p08"
+    node_id: "sjd-010"
+  - sentence_id: "scr-036-e01"
+    node_id: "sjd-010"

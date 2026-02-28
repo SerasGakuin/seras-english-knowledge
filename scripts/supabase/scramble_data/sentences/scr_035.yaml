@@ -1,0 +1,78 @@
+# Scr_035: Theme 35 省略可能なinの後ろに動名詞が続く慣用表現 → sjd-009
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-035-p01"
+    section_id: "Scr_035"
+    drill: 1
+    number: 123
+    role: "exam"
+    english: "We had a lot of difficulty trying to find his new house."
+    japanese: "私たちは彼の新居を見つけるのにとても苦労した。"
+    notes: "難易度: 頻出; 出典: 青山学院大; 4択; have difficulty [trouble] (in) doing「~するのに苦労する」; 程度: a lot of / great / a little / little / no をdifficulty前に入れる; 選択肢④: trying to arrive atなら可（arrive=自動詞で前置詞at必要）"
+  - id: "scr-035-p02"
+    section_id: "Scr_035"
+    drill: 1
+    number: 124
+    role: "exam"
+    english: "Many Japanese people spend most of their time working to live."
+    japanese: "多くの日本人は、大部分の時間を生きるために働いて過ごす。"
+    notes: "難易度: 頻出; 出典: 高知大; 整序問題; spend A (in) doing「A(時間)を~して過ごす/~するのに費やす」; 比較: spend A on B「A(時間・金)をBに費やす」(⇨1042)"
+  - id: "scr-035-p03"
+    section_id: "Scr_035"
+    drill: 1
+    number: 125
+    role: "exam"
+    english: "My parents are busy painting the wall of the house."
+    japanese: "私の両親は家の壁を塗るのに忙しい。"
+    notes: "難易度: 頻出; 出典: 札幌大; 4択; be busy (in) doing「~するのに忙しい」; 比較: be busy with [at] + 名詞「~で忙しい」"
+
+  # === 例文（example） ===
+  - id: "scr-035-e01"
+    section_id: "Scr_035"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I had no trouble getting tickets for the concert."
+    japanese: "私はそのコンサートのチケットを簡単に手に入れた。"
+    notes: "問123解説例文; have no trouble (in) doing「~するのに苦労しない/簡単に~する」; noで程度を表す"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-035-p01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-035-p01"
+    label: "details"
+    value: "We(S) had(V) <a lot of difficulty>(O) [trying to find his new house](M:動名詞句)."
+  # p02
+  - sentence_id: "scr-035-p02"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-035-p02"
+    label: "details"
+    value: "<Many Japanese people>(S) spend(V) <most of their time>(O) [working to live](M:動名詞句)."
+  # p03
+  - sentence_id: "scr-035-p03"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-035-p03"
+    label: "details"
+    value: "<My parents>(S) are(V) <busy>(C) [painting the wall of the house](M:動名詞句)."
+  # e01
+  - sentence_id: "scr-035-e01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-035-e01"
+    label: "details"
+    value: "I(S) had(V) <no trouble>(O) [getting tickets for the concert](M:動名詞句)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-035-p01"
+    node_id: "sjd-009"
+  - sentence_id: "scr-035-p02"
+    node_id: "sjd-009"
+  - sentence_id: "scr-035-p03"
+    node_id: "sjd-009"
+  - sentence_id: "scr-035-e01"
+    node_id: "sjd-009"

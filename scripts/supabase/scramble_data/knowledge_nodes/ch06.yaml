@@ -1,0 +1,245 @@
+# Ch06 分詞 — sjd-011〜015（5ノード / 9セクション）
+
+knowledge_nodes:
+  - id: "sjd-011"
+    name: "分詞の限定用法・叙述用法・There be構文"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Theme 37+38+39 統合。
+      限定用法（名詞修飾）:
+        - 分詞が単独 → 名詞の前に置く（前置修飾）
+        - 分詞が目的語や副詞句を伴う → 名詞の後ろに置く（後置修飾）
+        - 修飾される名詞と分詞の間に「主語と述語の関係」がある
+        - 能動関係 → 現在分詞(doing): an exciting game
+        - 受動関係 → 過去分詞(done): excited fans
+      叙述用法（主格補語）:
+        - SVC(分詞)の形で主語を説明
+        - SVC(分詞)をとる代表的動詞: sit / stand / lie / come / go / remain / look
+        - lie → lying に注意(⇨481)
+      There be + S + doing/done:
+        - 通例、直前のSにかかる形容詞用法ではない（著者の指摘）
+        - SとVの関係: 「Sが〜している/されている」と訳す
+        - 能動: There were people waiting... = People were waiting...
+        - 受動: enough food left = enough food is left
+      参照: bring up「〜を育てる」(= raise / rear)(⇨900)
+
+  - id: "sjd-012"
+    name: "分詞構文の基本用法・完了形・否定形・受動態"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Theme 40+41+42 統合。
+      分詞構文: 分詞が接続詞と動詞の働きを兼ねて副詞句を作る形。
+      形は「句」だが意味上は「副詞節」に相当。接続詞が明示されないので意味の区別がつかない場合も多い。
+      分詞構文の主語は原則として文の主語と一致。
+      PU!26 分詞構文の5つの意味:
+        ① 理由「…ので」: Feeling tired, she went to bed early.
+        ② 時「…時に」: Walking down the street, I met an old friend.
+        ③ 付帯状況「…しながら/…して、そして」: She left the house, carrying a big suitcase. — 最頻出
+          (1) 同時状況「〜しながら」 (2) 動作の連続「〜して、そして」
+        ④ 結果「(〜し)…する」: The dog chased the cat, knocking over a vase.
+        ⑤ 条件「…するならば」: Walking along this path, you'll reach the lake.
+      分詞構文の位置: 文頭・文中・文末いずれも可。
+      完了形: having done — 主節の動詞より前の時を表す。
+      否定形: not/neverを分詞の直前に置く。
+      受動態: being done / having been done → being/having beenは省略可 → 過去分詞で始まることが多い。
+      compared with [to] A「Aと比べると」— イディオム化した受動態の分詞構文。
+      参照: compare A with [to] B「AをBと比較する」(withの方がよく使われる)
+
+  - id: "sjd-013"
+    name: "独立分詞構文"
+    category: "準動詞"
+    priority: "P2"
+    notes: |
+      Theme 43 単独。
+      分詞の意味上の主語が文の主語と異なる場合、意味上の主語を分詞の前に置く → 独立分詞構文。
+      慣用的な独立分詞構文:
+        - weather permitting「天候が許せば/天気が良ければ」= if the weather permits / if it is fine
+        - all things considered「あらゆることを考えてみると」= taking all things [everything] into consideration
+          — all things being considered の being が省略された受動態の独立分詞構文
+      There being A = There is A の分詞構文形。
+      It being Sunday — Itは天気・日時を述べる非人称主語で、分詞の意味上の主語。
+
+  - id: "sjd-014"
+    name: "慣用的な分詞構文"
+    category: "準動詞"
+    priority: "P2"
+    notes: |
+      Theme 44 単独。
+      分詞の意味上の主語がwe/you/one等の一般の人々の場合、文の主語と異なっていても慣用上省略される。
+      PU!27 慣用的な分詞構文一覧:
+        - frankly [generally / strictly / roughly] speaking「率直に[一般的に/厳密に/おおざっぱに]言うと」(⇨153)
+          = to be frank with you (⇨PU!24)
+        - speaking [talking] of ~「〜と言えば」
+        - judging from ~「〜から判断すると」(⇨154) — 前置詞的に働く
+        - considering ~「〜のわりには(= for)/〜を考えると」
+        - given ~「〜を考慮に入れると/〜と仮定すると(= if)」(⇨155) — 前置詞的に働く
+        - seeing that ~「〜ということを見れば/〜だから(= since)」
+        - providing [provided] (that) ~「もし〜ならば(= if)」(⇨441)
+      参照: manage to do「なんとか〜する」(⇨501)
+
+  - id: "sjd-015"
+    name: "付帯状況のwith + A + 分詞"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Theme 45 単独。
+      with + A(名詞) + 分詞: 「Aを〜の状態にして/しながら」（付帯状況のwith構文）。
+      Aと分詞の関係: 能動→現在分詞(doing)、受動→過去分詞(done)。
+      入試ではwith + A + 過去分詞(done)の出題が多い。
+      PU!28:
+        発展: with句が直前の名詞を修飾する形容詞句になる場合もある。
+          例: I saw a sheep with its wool cut short.（私は毛を短く切られた羊を見た）
+        分詞の代わりに以下も使える(⇨Theme 179):
+          - 形容詞: with your mouth full「口に食べ物をほおばって」
+          - 副詞: with her socks on「靴下をはいて/はいたまま」
+          - 場所を示す句: with tears in her eyes「目に涙を浮かべて」
+      参照: fall asleep「寝入る」(⇨634)
+
+understanding_goals:
+  # sjd-011
+  - node_id: "sjd-011"
+    seq: 1
+    goal: "分詞の前置修飾（単独）と後置修飾（句を伴う）の位置の違いを判別できる"
+  - node_id: "sjd-011"
+    seq: 2
+    goal: "名詞と分詞の能動/受動関係からdoing/doneを正しく選択できる"
+  - node_id: "sjd-011"
+    seq: 3
+    goal: "SVC(分詞)の形をとる代表的な動詞を使える"
+  - node_id: "sjd-011"
+    seq: 4
+    goal: "There be + S + doing/doneの構文を理解し正しく訳せる"
+  # sjd-012
+  - node_id: "sjd-012"
+    seq: 1
+    goal: "分詞構文の5つの意味（理由/時/付帯状況/結果/条件）を文脈から判別できる"
+  - node_id: "sjd-012"
+    seq: 2
+    goal: "完了形(having done)を主節より前の時を表す場合に正しく使える"
+  - node_id: "sjd-012"
+    seq: 3
+    goal: "否定形(not doing)のnotの位置を間違えない"
+  - node_id: "sjd-012"
+    seq: 4
+    goal: "受動態の分詞構文で(being) doneのbeingが省略される点を理解している"
+  # sjd-013
+  - node_id: "sjd-013"
+    seq: 1
+    goal: "独立分詞構文の基本形（意味上の主語+分詞）を作れる"
+  - node_id: "sjd-013"
+    seq: 2
+    goal: "weather permitting / all things consideredの慣用表現を使える"
+  - node_id: "sjd-013"
+    seq: 3
+    goal: "There being Aの形を理解している"
+  # sjd-014
+  - node_id: "sjd-014"
+    seq: 1
+    goal: "慣用的な分詞構文で主語が省略される理由を理解している"
+  - node_id: "sjd-014"
+    seq: 2
+    goal: "frankly speaking / judging from / considering / given等の慣用表現の意味がわかる"
+  - node_id: "sjd-014"
+    seq: 3
+    goal: "providing/provided (that)の接続詞的用法を知っている"
+  # sjd-015
+  - node_id: "sjd-015"
+    seq: 1
+    goal: "with + A + doing/doneの付帯状況構文を作れる"
+  - node_id: "sjd-015"
+    seq: 2
+    goal: "Aと分詞の能動/受動関係からdoing/doneを選択できる"
+  - node_id: "sjd-015"
+    seq: 3
+    goal: "分詞以外（形容詞/副詞/前置詞句）もwith構文で使えることを知っている"
+
+check_points:
+  # sjd-011
+  - node_id: "sjd-011"
+    seq: 1
+    question: "分詞が単独で名詞を修飾する場合と、目的語や副詞句を伴う場合の位置の違いは？"
+    answer: "単独→名詞の前に置く（前置修飾）、目的語や副詞句を伴う→名詞の後ろに置く（後置修飾）"
+  - node_id: "sjd-011"
+    seq: 2
+    question: "修飾される名詞と分詞の関係が能動/受動の場合、それぞれどちらの分詞を使うか？"
+    answer: "能動関係→現在分詞(doing)（例: growing costs「増大するコスト」）、受動関係→過去分詞(done)（例: broken chair「壊れた椅子」）"
+  - node_id: "sjd-011"
+    seq: 3
+    question: "SVC(分詞)の形をとる代表的な動詞を7つ挙げよ。"
+    answer: "sit, stand, lie, come, go, remain, look"
+  - node_id: "sjd-011"
+    seq: 4
+    question: "There be + S + doing/doneの構文で、分詞はどのような働きをし、どう訳すか？"
+    answer: "SとVの関係を表し「Sが〜している/されている」と訳す。形容詞用法（〜しているSがある）とは訳さない。"
+  # sjd-012
+  - node_id: "sjd-012"
+    seq: 1
+    question: "分詞構文が表す5つの意味は？"
+    answer: "①理由「…ので」②時「…時に」③付帯状況「…しながら/…して」④結果「(〜し)…する」⑤条件「…するならば」。付帯状況が最も頻出。"
+  - node_id: "sjd-012"
+    seq: 2
+    question: "完了形の分詞構文(having done)はどのような場合に使うか？"
+    answer: "主節の動詞の表す時よりも前のことを表す場合。例: Having lost his money（お金をなくした→支払えなかった）"
+  - node_id: "sjd-012"
+    seq: 3
+    question: "分詞構文の否定形でnot/neverの位置は？"
+    answer: "分詞の直前に置く。例: Not knowing what to say, I remained silent."
+  - node_id: "sjd-012"
+    seq: 4
+    question: "受動態の分詞構文の形と、being/having beenの省略について説明せよ。"
+    answer: "being done / having been done。分詞構文ではbeing/having beenを省略でき、過去分詞で始まることが多い。例: Seen from a distance = Being seen from a distance"
+  - node_id: "sjd-012"
+    seq: 5
+    question: "compared with [to] Aの意味と出自は？"
+    answer: "「Aと比べると」。受動態の分詞構文(being compared with A)がイディオム化したもの。withの方がよく使われる。"
+  # sjd-013
+  - node_id: "sjd-013"
+    seq: 1
+    question: "独立分詞構文とは何か？通常の分詞構文との違いは？"
+    answer: "分詞の意味上の主語が文の主語と異なる場合の分詞構文。意味上の主語を分詞の前に明示する。例: It being Sunday, ..."
+  - node_id: "sjd-013"
+    seq: 2
+    question: "weather permittingの意味と書き換えは？"
+    answer: "「天候が許せば/天気が良ければ」= if the weather permits / if it is fine"
+  - node_id: "sjd-013"
+    seq: 3
+    question: "all things consideredの成り立ちは？"
+    answer: "all things being consideredのbeingが省略された受動態の独立分詞構文。「あらゆることを考えてみると」= taking all things into consideration"
+  # sjd-014
+  - node_id: "sjd-014"
+    seq: 1
+    question: "慣用的な分詞構文で意味上の主語が省略される条件は？"
+    answer: "意味上の主語がwe/you/one等の一般の人々の場合、文の主語と異なっていても慣用上省略される。"
+  - node_id: "sjd-014"
+    seq: 2
+    question: "frankly/generally/strictly/roughly speakingの意味は？"
+    answer: "率直に/一般的に/厳密に/おおざっぱに言うと"
+  - node_id: "sjd-014"
+    seq: 3
+    question: "judging from ~ / considering ~ / given ~の意味の違いは？"
+    answer: "judging from「〜から判断すると」、considering「〜のわりには(=for)/〜を考えると」、given「〜を考慮に入れると/〜と仮定すると(=if)」"
+  # sjd-015
+  - node_id: "sjd-015"
+    seq: 1
+    question: "with + A + 分詞の構文で、Aと分詞が能動関係の場合と受動関係の場合の形は？"
+    answer: "能動→with A doing（例: with tears running）、受動→with A done（例: with his arms folded）"
+  - node_id: "sjd-015"
+    seq: 2
+    question: "入試で頻出するのはwith + A + doing/doneのどちらか？"
+    answer: "with + A + done（過去分詞）の出題が多い。"
+  - node_id: "sjd-015"
+    seq: 3
+    question: "with構文で分詞の代わりに使える要素は？"
+    answer: "形容詞（with your mouth full）、副詞（with her socks on）、場所を示す句（with tears in her eyes）(⇨Theme 179)"
+
+node_prerequisites:
+  - node_id: "sjd-012"
+    prerequisite_id: "sjd-011"
+  - node_id: "sjd-013"
+    prerequisite_id: "sjd-012"
+  - node_id: "sjd-014"
+    prerequisite_id: "sjd-012"
+  - node_id: "sjd-015"
+    prerequisite_id: "sjd-011"

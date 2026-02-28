@@ -1,0 +1,61 @@
+# Scr_045: Theme 45 with + A（名詞）+ 分詞 → sjd-015
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-045-p01"
+    section_id: "Scr_045"
+    drill: 1
+    number: 156
+    role: "exam"
+    english: "Brenda suddenly turned her back and walked away with tears running down her cheeks."
+    japanese: "ブレンダは突然背を向け、頬に涙を流しながら歩き去った。"
+    notes: "難易度: 超頻出; 出典: 獨協大; 4択; with + A + doing（付帯状況のwith構文）; tearsとrunの間に能動関係「涙が流れる」→現在分詞"
+  - id: "scr-045-p02"
+    section_id: "Scr_045"
+    drill: 1
+    number: 157
+    role: "exam"
+    english: "He lay on the sofa with his arms folded and soon fell asleep."
+    japanese: "彼は腕を組んでソファーに横たわっていたが、すぐに寝入ってしまった。"
+    notes: "難易度: 頻出; 出典: センター; 4択; with + A + done（付帯状況のwith構文）; armsとfoldの間に受動関係「腕が組まれる」→過去分詞; 入試ではwith + A + doneの出題が多い; 語句: fall asleep「寝入る」(⇨634)"
+
+  # === 例文（example）: PU!28 ===
+  - id: "scr-045-e01"
+    section_id: "Scr_045"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I saw a sheep with its wool cut short."
+    japanese: "私は毛を短く切られた羊を見た。"
+    notes: "PU!28発展; with句が直前の名詞を修飾する形容詞句になる場合; cutは過去分詞"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-045-p01"
+    label: "overall"
+    value: "S V O conj V M"
+  - sentence_id: "scr-045-p01"
+    label: "details"
+    value: "Brenda(S) suddenly turned(V) <her back>(O) and walked away(V) [with tears running down her cheeks](M:付帯状況のwith+doing)."
+  # p02
+  - sentence_id: "scr-045-p02"
+    label: "overall"
+    value: "S V M conj V C"
+  - sentence_id: "scr-045-p02"
+    label: "details"
+    value: "He(S) lay(V) [on the sofa](M) [with his arms folded](M:付帯状況のwith+done) and soon fell(V) <asleep>(C)."
+  # e01
+  - sentence_id: "scr-045-e01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-045-e01"
+    label: "details"
+    value: "I(S) saw(V) <a sheep [with its wool cut short]>(O:with句が名詞修飾)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-045-p01"
+    node_id: "sjd-015"
+  - sentence_id: "scr-045-p02"
+    node_id: "sjd-015"
+  - sentence_id: "scr-045-e01"
+    node_id: "sjd-015"

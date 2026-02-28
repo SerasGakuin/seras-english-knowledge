@@ -2,24 +2,41 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T16:00:00"
+updated_at: "2026-03-01T22:00:00"
 book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 2 — B02完了、B03着手前"
+  phase: "Phase 2 — B03完了、B04着手前"
   current_section: null
   current_step: null
-  last_completed_section: "Scr_031"
+  last_completed_section: "Scr_045"
   last_completed_gate: 5
 
 progress:
   total_sections: 271
-  completed: 33
+  completed: 47
   in_progress: 0
-  remaining: 238
-  total_nodes: 29
-  total_sentences: 169
+  remaining: 224
+  total_nodes: 37
+  total_sentences: 227
+
+b03_results:
+  ch05_sections: ["Scr_032", "Scr_033", "Scr_034", "Scr_035", "Scr_036"]
+  ch05_nodes: ["sjd-008", "sjd-009", "sjd-010"]
+  ch05_sentences: 26
+  ch05_merges:
+    - "Theme 32+33 → sjd-008（動名詞の基本用法と動詞的性質）"
+    - "Theme 34+35 → sjd-009（前置詞to/inの後の動名詞慣用表現）"
+  ch06_sections: ["Scr_037", "Scr_038", "Scr_039", "Scr_040", "Scr_041", "Scr_042", "Scr_043", "Scr_044", "Scr_045"]
+  ch06_nodes: ["sjd-011", "sjd-012", "sjd-013", "sjd-014", "sjd-015"]
+  ch06_sentences: 32
+  ch06_merges:
+    - "Theme 37+38+39 → sjd-011（分詞の限定用法・叙述用法・There be構文）"
+    - "Theme 40+41+42 → sjd-012（分詞構文の基本用法・完了形・否定形・受動態）"
+  metrics:
+    ch05_node_section_ratio: 0.60
+    ch06_node_section_ratio: 0.56
 
 b02_results:
   ch03_sections: ["Scr_017", "Scr_018", "Scr_019", "Scr_020", "Scr_021", "Scr_022", "Scr_023", "Scr_024"]
@@ -66,9 +83,9 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
-  - "B03: Ch05 動名詞(Scr_032-036) → ノードID sjd-008〜"
-  - "B03: Ch06 分詞(Scr_037-045) → ノードID sjd-0XX〜"
-  - "原本: Part1_Ch05_動名詞.md, Part1_Ch06_分詞.md を読む"
+  - "B04: Ch07 仮定法(Scr_046-054) → ノードID skh-001〜（パイロットScr_046完了済み）"
+  - "B04: Ch08 比較(Scr_055-064) → ノードID skb-001〜"
+  - "原本: Part1_Ch07_仮定法.md, Part1_Ch08_比較.md を読む"
   - "章区切り → ワークフロー.md + 設計書.md 再読込"
 
 must_reread:

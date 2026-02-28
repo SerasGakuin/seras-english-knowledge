@@ -1,0 +1,146 @@
+# Scr_040: Theme 40 分詞構文の基本用法 → sjd-012
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-040-p01"
+    section_id: "Scr_040"
+    drill: 1
+    number: 142
+    role: "exam"
+    english: "Knowing that they were waiting for our help, we hurried to the village."
+    japanese: "彼らが助けを待っているとわかっていたので、私たちは村へと急いだ。"
+    notes: "難易度: 基本; 出典: 芝浦工大; 4択; 分詞構文の基本形(doing); 分詞構文の主語は原則として文の主語と一致; weとknowの間に能動関係"
+  - id: "scr-040-p02"
+    section_id: "Scr_040"
+    drill: 1
+    number: 143
+    role: "exam"
+    english: "The students, waiting patiently after class, met their friends in the hall."
+    japanese: "学生たちは授業後、我慢強く待ち、講堂で友人たちと会った。"
+    notes: "出典: 立命館大; 4択; 分詞構文の位置（文中）; 分詞構文は文頭だけでなく文中や文末にも置ける; studentsとwaitの間に能動関係"
+  - id: "scr-040-p03"
+    section_id: "Scr_040"
+    drill: 1
+    number: 144
+    role: "exam"
+    english: "Taking a deep breath, he stepped onto the stage."
+    japanese: "彼は深呼吸をして、ステージに上がった。"
+    notes: "書き換え問題; 元文: He took a deep breath and stepped onto the stage.; 付帯状況(動作の連続)を表す分詞構文; 付帯状況は分詞構文で最も多い用法; (1)同時状況「~しながら」(2)動作の連続「~して、そして」"
+
+  # === 例文（example）: PU!26 分詞構文のさまざまな意味 ===
+  - id: "scr-040-e01"
+    section_id: "Scr_040"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "Feeling tired, she went to bed early."
+    japanese: "疲れていたので、彼女は早く寝た。"
+    notes: "PU!26: 分詞構文の意味①理由「…ので」"
+  - id: "scr-040-e02"
+    section_id: "Scr_040"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Walking down the street, I met an old friend."
+    japanese: "通りを歩いている時、昔の友人に出会った。"
+    notes: "PU!26: 分詞構文の意味②時「…時に」"
+  - id: "scr-040-e03"
+    section_id: "Scr_040"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "She left the house, carrying a big suitcase."
+    japanese: "彼女は大きなスーツケースを持ちながら家を出た。"
+    notes: "PU!26: 分詞構文の意味③付帯状況「…しながら/…して、そして」——最頻出"
+  - id: "scr-040-e04"
+    section_id: "Scr_040"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "The dog chased the cat, knocking over a vase."
+    japanese: "犬が猫を追いかけ、花瓶を倒した。"
+    notes: "PU!26: 分詞構文の意味④結果「(~し)…する」"
+  - id: "scr-040-e05"
+    section_id: "Scr_040"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "Walking along this path, you'll reach the lake in 10 minutes."
+    japanese: "この道を歩けば、10分で湖に着くでしょう。"
+    notes: "PU!26: 分詞構文の意味⑤条件「…するならば」"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-040-p01"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-040-p01"
+    label: "details"
+    value: "[Knowing that they were waiting for our help](M:分詞構文:理由), we(S) hurried(V) [to the village](M)."
+  # p02
+  - sentence_id: "scr-040-p02"
+    label: "overall"
+    value: "S M V O M"
+  - sentence_id: "scr-040-p02"
+    label: "details"
+    value: "<The students>(S), [waiting patiently after class](M:分詞構文:文中), met(V) <their friends>(O) [in the hall](M)."
+  # p03
+  - sentence_id: "scr-040-p03"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-040-p03"
+    label: "details"
+    value: "[Taking a deep breath](M:分詞構文:付帯状況), he(S) stepped(V) [onto the stage](M)."
+  # e01
+  - sentence_id: "scr-040-e01"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-040-e01"
+    label: "details"
+    value: "[Feeling tired](M:分詞構文:理由), she(S) went(V) [to bed early](M)."
+  # e02
+  - sentence_id: "scr-040-e02"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "scr-040-e02"
+    label: "details"
+    value: "[Walking down the street](M:分詞構文:時), I(S) met(V) <an old friend>(O)."
+  # e03
+  - sentence_id: "scr-040-e03"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-040-e03"
+    label: "details"
+    value: "She(S) left(V) <the house>(O), [carrying a big suitcase](M:分詞構文:付帯状況)."
+  # e04
+  - sentence_id: "scr-040-e04"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-040-e04"
+    label: "details"
+    value: "<The dog>(S) chased(V) <the cat>(O), [knocking over a vase](M:分詞構文:結果)."
+  # e05
+  - sentence_id: "scr-040-e05"
+    label: "overall"
+    value: "M S V O M"
+  - sentence_id: "scr-040-e05"
+    label: "details"
+    value: "[Walking along this path](M:分詞構文:条件), you(S) 'll reach(V) <the lake>(O) [in 10 minutes](M)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-040-p01"
+    node_id: "sjd-012"
+  - sentence_id: "scr-040-p02"
+    node_id: "sjd-012"
+  - sentence_id: "scr-040-p03"
+    node_id: "sjd-012"
+  - sentence_id: "scr-040-e01"
+    node_id: "sjd-012"
+  - sentence_id: "scr-040-e02"
+    node_id: "sjd-012"
+  - sentence_id: "scr-040-e03"
+    node_id: "sjd-012"
+  - sentence_id: "scr-040-e04"
+    node_id: "sjd-012"
+  - sentence_id: "scr-040-e05"
+    node_id: "sjd-012"

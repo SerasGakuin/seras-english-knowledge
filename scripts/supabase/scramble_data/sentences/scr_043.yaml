@@ -1,0 +1,76 @@
+# Scr_043: Theme 43 独立分詞構文 → sjd-013
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-043-p01"
+    section_id: "Scr_043"
+    drill: 1
+    number: 149
+    role: "exam"
+    english: "It being Sunday, most of the shops in the town were closed."
+    japanese: "日曜日だったので、その町のほとんどの店は閉まっていた。"
+    notes: "難易度: 頻出; 出典: 神戸親和女子大; 4択; 独立分詞構文の基本形; Itは天気や日時を述べる非人称主語で分詞の意味上の主語; 接続詞なしで節が2つ並ぶため①was/③isは不可"
+  - id: "scr-043-p02"
+    section_id: "Scr_043"
+    drill: 1
+    number: 150
+    role: "exam"
+    english: "Weather permitting, we will play tennis."
+    japanese: "天気が良ければテニスをするつもりです。"
+    notes: "出典: 明治薬科大; 穴埋め(permitting); weather permitting「天候が許せば/天気が良ければ」(= if the weather permits / if it is fine); 慣用的な独立分詞構文"
+  - id: "scr-043-p03"
+    section_id: "Scr_043"
+    drill: 1
+    number: 151
+    role: "exam"
+    english: "All things considered, there is no doubt about it."
+    japanese: "あらゆることを考えてみると、それに間違いない。"
+    notes: "難易度: 頻出; 出典: 関西学院大; 4択; all things considered「あらゆることを考えてみると」(= taking all things [everything] into consideration); all things being consideredのbeingが省略された受動態の独立分詞構文"
+  - id: "scr-043-p04"
+    section_id: "Scr_043"
+    drill: 1
+    number: 152
+    role: "exam"
+    english: "There being no bus service late at night, I had to walk home in the rain."
+    japanese: "夜遅くでバスがなかったので、雨の中歩いて帰らなければならなかった。"
+    notes: "難易度: 頻出; 出典: 東京電機大; 4択; There being A ~の形; There be A「Aがある」の分詞構文"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-043-p01"
+    label: "overall"
+    value: "M S V C"
+  - sentence_id: "scr-043-p01"
+    label: "details"
+    value: "[It being Sunday](M:独立分詞構文), <most of the shops in the town>(S) were(V) <closed>(C)."
+  # p02
+  - sentence_id: "scr-043-p02"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "scr-043-p02"
+    label: "details"
+    value: "[Weather permitting](M:独立分詞構文:慣用), we(S) will play(V) <tennis>(O)."
+  # p03
+  - sentence_id: "scr-043-p03"
+    label: "overall"
+    value: "M There V S M"
+  - sentence_id: "scr-043-p03"
+    label: "details"
+    value: "[All things considered](M:独立分詞構文:受動態), there is(V) <no doubt>(S) [about it](M)."
+  # p04
+  - sentence_id: "scr-043-p04"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-043-p04"
+    label: "details"
+    value: "[There being no bus service late at night](M:独立分詞構文:There being), I(S) had to walk(V) [home](M) [in the rain](M)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-043-p01"
+    node_id: "sjd-013"
+  - sentence_id: "scr-043-p02"
+    node_id: "sjd-013"
+  - sentence_id: "scr-043-p03"
+    node_id: "sjd-013"
+  - sentence_id: "scr-043-p04"
+    node_id: "sjd-013"

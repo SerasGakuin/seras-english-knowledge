@@ -1,0 +1,93 @@
+# Scr_033: Theme 33 動名詞の形——動詞的性質 → sjd-008
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-033-p01"
+    section_id: "Scr_033"
+    drill: 1
+    number: 113
+    role: "exam"
+    english: "The gentleman insisted on my receiving the money."
+    japanese: "その紳士は私にお金を受け取れと言ってきかなかった。"
+    notes: "難易度: 頻出; 出典: 九州産業大; 4択; 動名詞の意味上の主語(所有格/目的格); 書き換え: The gentleman insisted that I (should) receive the money.(⇨571); 語句: insist on [upon] ~「~を強く主張する/~と言い張る」(⇨954)"
+  - id: "scr-033-p02"
+    section_id: "Scr_033"
+    drill: 1
+    number: 114
+    role: "exam"
+    english: "He was arrested on suspicion of having killed the man."
+    japanese: "彼はその男を殺した容疑で逮捕された。"
+    notes: "難易度: 頻出; 出典: 立命館大; 整序問題; 完了形の動名詞(having done); 述語動詞よりも前の時を表す; 語句: on (the) suspicion of ~「~の容疑で」"
+  - id: "scr-033-p03"
+    section_id: "Scr_033"
+    drill: 1
+    number: 115
+    role: "exam"
+    english: "I am not at all used to being treated like that."
+    japanese: "私はそんなふうに扱われることにまったく慣れていない。"
+    notes: "難易度: 頻出; 出典: 工学院大; 4択; 受動態の動名詞(being done); be used to doing「~することに慣れている」(⇨65)"
+  - id: "scr-033-p04"
+    section_id: "Scr_033"
+    drill: 1
+    number: 116
+    role: "exam"
+    english: "In the event of Jim not coming, we'll have to find someone else."
+    japanese: "ジムが来ない場合には、誰か他の人を見つけなければならない。"
+    notes: "難易度: 頻出; 出典: 近畿大; 4択; 動名詞の否定形(not doing)+意味上の主語; 意味上の主語は否定語の前に置く; 語句: in the event of ~「~の場合には」"
+  - id: "scr-033-p05"
+    section_id: "Scr_033"
+    drill: 1
+    number: 117
+    role: "exam"
+    english: "I'm ashamed of not having been kind to the old woman on the train."
+    japanese: "私は電車で、そのおばあさんに親切にしなかったことが恥ずかしい。"
+    notes: "出典: 日本女子大; 4択; 完了形の動名詞の否定形(not having done); notの位置に注意（of not having beenが正しい語順）"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-033-p01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-033-p01"
+    label: "details"
+    value: "<The gentleman>(S) insisted(V) [on my receiving the money](M:前置詞+動名詞句)."
+  # p02
+  - sentence_id: "scr-033-p02"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-033-p02"
+    label: "details"
+    value: "He(S) was arrested(V) [on suspicion of having killed the man](M:前置詞句+完了動名詞)."
+  # p03
+  - sentence_id: "scr-033-p03"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-033-p03"
+    label: "details"
+    value: "I(S) am(V) <not at all used>(C) [to being treated like that](M:前置詞+受動動名詞)."
+  # p04
+  - sentence_id: "scr-033-p04"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "scr-033-p04"
+    label: "details"
+    value: "[In the event of Jim not coming](M:前置詞句+否定動名詞), we(S) 'll have to find(V) <someone else>(O)."
+  # p05
+  - sentence_id: "scr-033-p05"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-033-p05"
+    label: "details"
+    value: "I(S) 'm(V) <ashamed>(C) [of not having been kind to the old woman on the train](M:前置詞+否定完了動名詞)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-033-p01"
+    node_id: "sjd-008"
+  - sentence_id: "scr-033-p02"
+    node_id: "sjd-008"
+  - sentence_id: "scr-033-p03"
+    node_id: "sjd-008"
+  - sentence_id: "scr-033-p04"
+    node_id: "sjd-008"
+  - sentence_id: "scr-033-p05"
+    node_id: "sjd-008"

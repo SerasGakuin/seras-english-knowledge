@@ -1,0 +1,42 @@
+# Scr_042: Theme 42 受動態の分詞構文 → sjd-012
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-042-p01"
+    section_id: "Scr_042"
+    drill: 1
+    number: 147
+    role: "exam"
+    english: "Seen from a distance, that cloud looks like a little dog."
+    japanese: "遠くから見ると、あの雲は子犬のように見える。"
+    notes: "難易度: 超頻出; 出典: 阪南大; 4択; 受動態の分詞構文(being) done; being/having beenは省略可→過去分詞で始まることが多い; that cloudとseeの間に受動関係; = Being seen from a distance"
+  - id: "scr-042-p02"
+    section_id: "Scr_042"
+    drill: 1
+    number: 148
+    role: "exam"
+    english: "Compared to his picture, your picture is more colorful."
+    japanese: "彼の絵と比較すると、あなたの絵はより色彩豊かです。"
+    notes: "出典: 愛知学院大; 穴埋め(Compared); compared with [to] A「Aと比べると」——イディオム化した受動態の分詞構文; 語句: compare A with [to] B「AをBと比較する」(withの方がよく使われる)"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-042-p01"
+    label: "overall"
+    value: "M S V C"
+  - sentence_id: "scr-042-p01"
+    label: "details"
+    value: "[Seen from a distance](M:受動態の分詞構文), <that cloud>(S) looks like(V) <a little dog>(C)."
+  # p02
+  - sentence_id: "scr-042-p02"
+    label: "overall"
+    value: "M S V C"
+  - sentence_id: "scr-042-p02"
+    label: "details"
+    value: "[Compared to his picture](M:受動態の分詞構文:イディオム), <your picture>(S) is(V) <more colorful>(C)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-042-p01"
+    node_id: "sjd-012"
+  - sentence_id: "scr-042-p02"
+    node_id: "sjd-012"

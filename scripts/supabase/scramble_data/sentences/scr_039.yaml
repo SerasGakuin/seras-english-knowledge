@@ -1,0 +1,42 @@
+# Scr_039: Theme 39 There be + S + doing/done → sjd-011
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-039-p01"
+    section_id: "Scr_039"
+    drill: 1
+    number: 140
+    role: "exam"
+    english: "There were already a lot of people waiting in front of the theater."
+    japanese: "劇場の前ではすでにたくさんの人が待っていた。"
+    notes: "難易度: 基本; 出典: 大阪経済大; 4択; There be + S + doing「Sが~している」; peopleとwaitの間に能動関係; = A lot of people were already waiting ..."
+  - id: "scr-039-p02"
+    section_id: "Scr_039"
+    drill: 1
+    number: 141
+    role: "exam"
+    english: "Whether there is enough food left I am not sure at this moment."
+    japanese: "十分な食べ物が残っているかどうか、現時点では確信が持てない。"
+    notes: "出典: 上智大; 4択; There be + S + done「Sが~されている」; foodとleaveの間に受動関係; = Whether enough food is left ...; whether節を文頭に置いて強調; remainは自動詞なのでremainedは不可"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-039-p01"
+    label: "overall"
+    value: "There V S M"
+  - sentence_id: "scr-039-p01"
+    label: "details"
+    value: "There were(V) <already a lot of people>(S) [waiting in front of the theater](M:現在分詞)."
+  # p02
+  - sentence_id: "scr-039-p02"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-039-p02"
+    label: "details"
+    value: "[Whether there is enough food left](名詞節:前置) I(S) am(V) <not sure>(C) [at this moment](M)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-039-p01"
+    node_id: "sjd-011"
+  - sentence_id: "scr-039-p02"
+    node_id: "sjd-011"

@@ -1,0 +1,95 @@
+# Scr_044: Theme 44 慣用的な分詞構文 → sjd-014
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-044-p01"
+    section_id: "Scr_044"
+    drill: 1
+    number: 153
+    role: "exam"
+    english: "Frankly speaking, I can't agree with you."
+    japanese: "率直に言うと君の言うことには同意できない。"
+    notes: "出典: 北星学園大; 穴埋め(Frankly); frankly speaking「率直に言うと」(= to be frank with you(⇨PU!24)); 副詞の働き; 慣用的な分詞構文（意味上の主語we/you省略）"
+  - id: "scr-044-p02"
+    section_id: "Scr_044"
+    drill: 1
+    number: 154
+    role: "exam"
+    english: "Judging from the look of the sky, it will rain this afternoon."
+    japanese: "空模様から判断すると、午後には雨が降るだろう。"
+    notes: "出典: 畿央大; 整序問題[1語(句)不要: being]; judging from ~「~から判断すると」; 前置詞的に働く"
+  - id: "scr-044-p03"
+    section_id: "Scr_044"
+    drill: 1
+    number: 155
+    role: "exam"
+    english: "Given the fact that I was tired, I managed to play the piano pretty well."
+    japanese: "疲れていたという事実を考慮すれば、私はなんとかかなり上手にピアノを弾いた。"
+    notes: "難易度: 発展; 出典: 立教大; 4択; given ~「~を考慮に入れると」(= considering); 前置詞的に働く; ①Consideredなら不可だがConsideringなら可; ③providing「もし~ならば」(⇨441); 語句: manage to do「なんとか~する」(⇨501)"
+
+  # === 例文（example）: PU!27 ===
+  - id: "scr-044-e01"
+    section_id: "Scr_044"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "Speaking of birthdays, when is yours?"
+    japanese: "誕生日と言えば、君のはいつ？"
+    notes: "PU!27: speaking [talking] of ~「~と言えば」"
+  - id: "scr-044-e02"
+    section_id: "Scr_044"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Seeing that it's already late, we should probably head home."
+    japanese: "もう遅いので、そろそろ家に帰ったほうがいいね。"
+    notes: "PU!27: seeing that ~「~ということを見れば/~だから」(= since)"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-044-p01"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-044-p01"
+    label: "details"
+    value: "[Frankly speaking](M:慣用的分詞構文), I(S) can't agree(V) [with you](M)."
+  # p02
+  - sentence_id: "scr-044-p02"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-044-p02"
+    label: "details"
+    value: "[Judging from the look of the sky](M:慣用的分詞構文), it(S) will rain(V) [this afternoon](M)."
+  # p03
+  - sentence_id: "scr-044-p03"
+    label: "overall"
+    value: "M S V O M"
+  - sentence_id: "scr-044-p03"
+    label: "details"
+    value: "[Given the fact that I was tired](M:慣用的分詞構文), I(S) managed to play(V) <the piano>(O) [pretty well](M)."
+  # e01
+  - sentence_id: "scr-044-e01"
+    label: "overall"
+    value: "M S V"
+  - sentence_id: "scr-044-e01"
+    label: "details"
+    value: "[Speaking of birthdays](M:慣用的分詞構文), when(M:疑問) is(V) yours(S)?"
+  # e02
+  - sentence_id: "scr-044-e02"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-044-e02"
+    label: "details"
+    value: "[Seeing that it's already late](M:慣用的分詞構文), we(S) should probably head(V) [home](M)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-044-p01"
+    node_id: "sjd-014"
+  - sentence_id: "scr-044-p02"
+    node_id: "sjd-014"
+  - sentence_id: "scr-044-p03"
+    node_id: "sjd-014"
+  - sentence_id: "scr-044-e01"
+    node_id: "sjd-014"
+  - sentence_id: "scr-044-e02"
+    node_id: "sjd-014"

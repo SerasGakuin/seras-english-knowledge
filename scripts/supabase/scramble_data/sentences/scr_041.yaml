@@ -1,0 +1,42 @@
+# Scr_041: Theme 41 分詞構文の完了形&否定形 → sjd-012
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-041-p01"
+    section_id: "Scr_041"
+    drill: 1
+    number: 145
+    role: "exam"
+    english: "Having lost his money, John was not able to pay for lunch."
+    japanese: "お金をなくしてしまったので、ジョンは昼食代を支払えなかった。"
+    notes: "難易度: 頻出; 出典: 南山大; 4択; 分詞構文の完了形(having done); 主節の動詞の表す時よりも前のことを表す; 「お金をなくした」のは「支払えなかった」より前"
+  - id: "scr-041-p02"
+    section_id: "Scr_041"
+    drill: 1
+    number: 146
+    role: "exam"
+    english: "Not knowing what to say, I remained silent."
+    japanese: "何と言ったらよいのかわからなかったので、私は黙っていた。"
+    notes: "難易度: 頻出; 出典: 東海大; 4択; 分詞構文の否定形(not doing); not/neverは分詞の直前に置く; 元文: As I did not know what to say, I remained silent."
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-041-p01"
+    label: "overall"
+    value: "M S V C M"
+  - sentence_id: "scr-041-p01"
+    label: "details"
+    value: "[Having lost his money](M:分詞構文:完了形:理由), John(S) was(V) <not able>(C) [to pay for lunch](M)."
+  # p02
+  - sentence_id: "scr-041-p02"
+    label: "overall"
+    value: "M S V C"
+  - sentence_id: "scr-041-p02"
+    label: "details"
+    value: "[Not knowing what to say](M:分詞構文:否定形:理由), I(S) remained(V) <silent>(C)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-041-p01"
+    node_id: "sjd-012"
+  - sentence_id: "scr-041-p02"
+    node_id: "sjd-012"

@@ -1,0 +1,42 @@
+# Scr_038: Theme 38 主格補語となる分詞──叙述用法 → sjd-011
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-038-p01"
+    section_id: "Scr_038"
+    drill: 1
+    number: 138
+    role: "exam"
+    english: "He remained lying on the bed."
+    japanese: "彼はベッドにずっと横たわっていた。"
+    notes: "出典: 関西大; 動詞の適切な形にする問題; 主格補語となる現在分詞; heとlieの間に能動関係; lie→lying(⇨481); remain「~のままである」はSVC(分詞)をとる代表的な動詞"
+  - id: "scr-038-p02"
+    section_id: "Scr_038"
+    drill: 1
+    number: 139
+    role: "exam"
+    english: "She sat surrounded by her children."
+    japanese: "彼女は自分の子どもたちに囲まれて座っていた。"
+    notes: "出典: 西南学院大; 4択; 主格補語となる過去分詞; sheとsurroundの間に受動関係; sat「座っていた」はSVC(分詞)をとる代表的な動詞"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-038-p01"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-038-p01"
+    label: "details"
+    value: "He(S) remained(V) <lying>(C:現在分詞) [on the bed](M)."
+  # p02
+  - sentence_id: "scr-038-p02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-038-p02"
+    label: "details"
+    value: "She(S) sat(V) <surrounded by her children>(C:過去分詞句)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-038-p01"
+    node_id: "sjd-011"
+  - sentence_id: "scr-038-p02"
+    node_id: "sjd-011"
