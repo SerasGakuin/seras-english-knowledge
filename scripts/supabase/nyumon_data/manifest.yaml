@@ -698,34 +698,34 @@ sections:
     title: "as〜as③"
     type: "exercise"
     pages: "p.138-139"
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nhk-005をNy_54,55と共有（as〜as構文の構造把握）。第5章最終。"
 
   # === 第6章 その他の重要項目（16セクション） ===
   Ny_57:
     title: "仮定法①"
     type: "exercise"
     pages: "p.140-141"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nta-001(仮定法過去の基本) 第6章開始"
   Ny_58:
     title: "仮定法②"
     type: "exercise"
     pages: "p.142-143"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nta-002(仮定法の応用パターン)"
   Ny_59:
     title: "仮定法③"
     type: "exercise"
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 68
+  completed: 71
   in_progress: 0
-  not_started: 17
-  total_knowledge_nodes: 56
-  total_sentences: 180
+  not_started: 14
+  total_knowledge_nodes: 58
+  total_sentences: 186

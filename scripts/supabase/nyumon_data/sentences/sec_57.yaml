@@ -1,0 +1,28 @@
+sentences:
+  - id: "ny-57-s1"
+    section_id: "Ny_57"
+    drill: 57
+    number: 1
+    role: "exercise"
+    english: "If every choice you made carried consequences you would bear not once but countless times, you would certainly think hard before making a decision you might later regret."
+    japanese: "自分が行った選択によって，その後，一度ならず何度も大変な目にあうことになってしまうのなら，あとになって後悔するかもしれないような決断をしてしまう前に，きっとしっかり考えるようになるだろう。"
+    notes: "出典: 武蔵大学"
+
+sentence_structures:
+  - sentence_id: "ny-57-s1"
+    label: "overall"
+    value: "If S V O, S V M"
+
+  - sentence_id: "ny-57-s1"
+    label: "details"
+    value: "[If(従接) every choice [you(S) made(V)](M:関代省略)(S) carried(V) consequences [you(S) would bear(V) (not once but countless times)(M:副詞句)](M:関代省略)(O)](M:仮定法過去), {S}you(S) would certainly {V}think(V) hard (before making(動名詞) a decision [you(S) might later regret(V)](M:関代省略))(M:副詞句)"
+
+  - sentence_id: "ny-57-s1"
+    label: "partial_translations"
+    value: |
+      ❶ もし…なら（仮定法過去: 可能性が低いと見積もっている）
+      ❺ あとになって後悔するかもしれないような決断をしてしまう前に，きっと懸命に考えるようになるだろう
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-57-s1"
+    node_id: "nta-001"

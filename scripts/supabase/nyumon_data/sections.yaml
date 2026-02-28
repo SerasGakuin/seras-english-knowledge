@@ -527,7 +527,9 @@ sections:
     title: "as〜as③"
     pages: "p.138-139"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: 最後のasは接続詞
+      一言: 自然の観察は望遠鏡1つで誰でもできそうに思えるが、学問としての観察は単純ではなく、また1人でやるものでもない。現代では全世界の科学者が観察し検証し合う。「孤独な科学者」は昔のイメージ。
 
   # === 第6章 その他の重要項目（16セクション） ===
   - id: "Ny_57"
@@ -535,13 +537,16 @@ sections:
     title: "仮定法①"
     pages: "p.140-141"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: どんなときに懸命に考えるのだろう？
+      一言: 受験や就職など人生の岐路では必死で考えるが、「分かれ道だ」と意識していないときの決断がその先大いに影響することもある。それが実感としてわかっていれば、あらゆる選択の際にもっと考え真剣になるにちがいない。
   - id: "Ny_58"
     book: "入門英文問題精講"
     title: "仮定法②"
     pages: "p.142-143"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: なぜwouldなんだろう？
   - id: "Ny_59"
     book: "入門英文問題精講"
     title: "仮定法③"
@@ -838,6 +843,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_55"
     node_id: "nhk-005"
+    seq: 1
+  - section_id: "Ny_56"
+    node_id: "nhk-005"
+    seq: 1
+  - section_id: "Ny_57"
+    node_id: "nta-001"
+    seq: 1
+  - section_id: "Ny_58"
+    node_id: "nta-002"
     seq: 1
 
 section_prerequisites: []

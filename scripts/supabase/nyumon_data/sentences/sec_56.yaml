@@ -1,0 +1,47 @@
+sentences:
+  - id: "ny-56-s1"
+    section_id: "Ny_56"
+    drill: 56
+    number: 1
+    role: "exercise"
+    english: "Scientific knowledge is based on observations of the natural world."
+    japanese: "科学の知識は自然界を観察することを基盤としている。"
+    notes: "出典: 三重大学"
+
+  - id: "ny-56-s2"
+    section_id: "Ny_56"
+    drill: 56
+    number: 2
+    role: "exercise"
+    english: "But observing the natural world is neither as simple nor as solitary an activity as it might sound."
+    japanese: "しかし，自然の世界を観察することは，その響きほど単純でも，また，孤独な活動でもない。"
+    notes: "出典: 三重大学"
+
+sentence_structures:
+  - sentence_id: "ny-56-s1"
+    label: "overall"
+    value: "S V M"
+
+  - sentence_id: "ny-56-s1"
+    label: "details"
+    value: "{S}Scientific knowledge(S) {V}is based(V) (on observations (of the natural world)(M:形容詞句))(M:副詞句)"
+
+  - sentence_id: "ny-56-s2"
+    label: "overall"
+    value: "S V C"
+
+  - sentence_id: "ny-56-s2"
+    label: "details"
+    value: "But {S}(observing the natural world)(S:動名詞句) {V}is(V) neither {C}as simple(C) nor as solitary an activity(C) [as(接続詞) it(S) might sound(V)](M:比較)"
+
+  - sentence_id: "ny-56-s2"
+    label: "partial_translations"
+    value: |
+      ❸ その響きほど単純でも，孤独な活動でもない
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-56-s1"
+    node_id: "nhk-005"
+
+  - sentence_id: "ny-56-s2"
+    node_id: "nhk-005"

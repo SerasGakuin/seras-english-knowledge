@@ -1,0 +1,80 @@
+sentences:
+  - id: "ny-58-s1"
+    section_id: "Ny_58"
+    drill: 58
+    number: 1
+    role: "exercise"
+    english: "... behaving in the same way that you would at home can land you in fairly serious trouble."
+    japanese: "母国でやるのと同じようにふるまうとちょっと厄介なことになる可能性がある。"
+    notes: "出典: 甲南大学"
+
+  - id: "ny-58-s2"
+    section_id: "Ny_58"
+    drill: 58
+    number: 2
+    role: "exercise"
+    english: "In England, it is standard practice to take wine to a dinner party, but the same does not apply in France."
+    japanese: "イングランドでは，ワインをディナーパーティーに持って行くのは普通の習慣だが，同じことがフランスでは当てはまらない。"
+    notes: "出典: 甲南大学"
+
+  - id: "ny-58-s3"
+    section_id: "Ny_58"
+    drill: 58
+    number: 3
+    role: "exercise"
+    english: "To do so would suggest that your hosts are unable to choose or afford a good bottle."
+    japanese: "そんなことをすればホストにはよいワインを選ぶ能力がないか，もしくは買う余裕がないことを示唆してしまうことになるだろう。"
+    notes: "出典: 甲南大学"
+
+sentence_structures:
+  - sentence_id: "ny-58-s1"
+    label: "overall"
+    value: "S V O M"
+
+  - sentence_id: "ny-58-s1"
+    label: "details"
+    value: "{S}(behaving (in the same way [that(関副) you(S) would(V) (at home)(M:副詞句)](M:関副節))(M:副詞句))(S:動名詞句) can {V}land(V) {O}you(O) (in fairly serious trouble)(M:副詞句)"
+
+  - sentence_id: "ny-58-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 母国でするようなやり方と同じようにふるまうこと
+      ❷ 母国でふるまうだろうのと同じやり方で（同時期・同条件の仮定法）
+      ❸ ちょっと厄介な状況に陥らせる可能性がある
+
+  - sentence_id: "ny-58-s2"
+    label: "overall"
+    value: "M S V C, but S V M"
+
+  - sentence_id: "ny-58-s2"
+    label: "details"
+    value: "(In England)(M:副詞句), {S}it(S:形式主語) {V}is(V) {C}standard practice(C) (to take wine (to a dinner party)(M:副詞句))(M:真主語), but {S}the same(S) does not {V}apply(V) (in France)(M:副詞句)"
+
+  - sentence_id: "ny-58-s2"
+    label: "partial_translations"
+    value: |
+      ❹ ワインをディナーパーティーに持って行くのは普通の習慣だ（形式主語it）
+
+  - sentence_id: "ny-58-s3"
+    label: "overall"
+    value: "S V O"
+
+  - sentence_id: "ny-58-s3"
+    label: "details"
+    value: "{S}(To do so)(S:to不定詞=仮定) would {V}suggest(V) {O}[that(従接) your hosts(S) are unable to choose(V) or afford(V) a good bottle(O)](O)"
+
+  - sentence_id: "ny-58-s3"
+    label: "partial_translations"
+    value: |
+      ❺ そんなことをすれば〜だろう（主語位置のto不定詞+would=仮定法）
+      ❻ よいワインを選ぶ能力がないか，買う余裕がない
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-58-s1"
+    node_id: "nta-002"
+
+  - sentence_id: "ny-58-s2"
+    node_id: "nta-002"
+
+  - sentence_id: "ny-58-s3"
+    node_id: "nta-002"

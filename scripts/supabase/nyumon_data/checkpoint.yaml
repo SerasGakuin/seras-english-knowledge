@@ -1,38 +1,39 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T21:00:00"
+updated_at: "2026-03-02T23:30:00"
 book: "入門英文問題精講"
 book_slug: "nyumon"
 
 current_state:
-  phase: "Phase 2F"
-  current_section: "Ny_56"
+  phase: "Phase 2G"
+  current_section: "Ny_59"
   current_step: "Step 1"
-  last_completed_section: "Ny_55"
+  last_completed_section: "Ny_58"
   last_completed_gate: 5
 
 progress:
   total_sections: 85
-  completed: 68
+  completed: 71
   in_progress: 0
-  remaining: 17
-  total_nodes: 56
-  total_sentences: 180
+  remaining: 14
+  total_nodes: 58
+  total_sentences: 186
 
 recent_decisions:
-  - "Ny_53: nhk-004（the＋比較級, the＋比較級）— 独立構文パターン"
-  - "Ny_54+55: nhk-005（as〜as構文の構造把握）— 統合（同一文法ルールの別適用）"
-  - "第5章全体: Ny_49〜55で5ノード/7セクション = 0.71"
+  - "Ny_56: nhk-005共有（neither as A nor as B もas〜as構文の応用）— 第5章最終"
+  - "Ny_57: nta-001（仮定法過去の基本）— 第6章開始"
+  - "Ny_58: nta-002（仮定法の応用パターン）— 同時期・同条件の仮定法 + 主語to不定詞+would"
+  - "第5章全体: Ny_49〜56で5ノード/8セクション = 0.63"
 
 active_concerns:
   - "nbk-001, nbk-002 は tagged sentences なし（基本講義ノードでは想定内）"
   - "CHECK-09 の ny-G** 命名規則エラーは既知の既存問題（基本講義ID体系）"
 
 next_actions:
-  - "Phase 2F Batch 24: Ny_56（as〜as③ — 第5章最終）→ Phase 2G Ny_57（仮定法① — 第6章開始）→ Ny_58（仮定法②）"
-  - "Ny_56完了で第5章終了 → 章区切り再読込が必要"
-  - "3セクションプロトコル: Batch 23 完了 → ワークフロー再読込が必要"
+  - "Phase 2G Batch 25: Ny_59（仮定法③）→ Ny_60（仮定法④）→ Ny_61（強調構文①）"
+  - "章区切り（Ch5→Ch6）完了 → 全指示書再読込済み"
+  - "3セクションプロトコル: Batch 24 完了 → ワークフロー再読込が必要"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

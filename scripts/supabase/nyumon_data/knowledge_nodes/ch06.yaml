@@ -1,0 +1,127 @@
+knowledge_nodes:
+  - id: "nta-001"
+    name: "仮定法過去の基本"
+    category: "その他"
+    priority: "P1"
+    notes: |
+      Point分類: ❶〔仮定法〕（問57）
+      仮定法過去の基本形と、仮定法を使う判断基準を理解する。
+      ■ 仮定法過去の基本形（問57 ❶）:
+        〈If S'＋動詞の過去形 ..., S would[could/might/should]＋動詞の原形 ...〉
+        形は過去だが、過去のことを示しているわけではない。
+        「もし雨が降ったら」（日常的）と「もし宝くじで1億当たったら」（人生でほぼ起こらない）は
+        日本語ではどちらも「〜たら」だが、英語では可能性の見積もりで使い分ける。
+      ■ 仮定法を使う判断基準（問57 ❶）:
+        その可能性を本人がどう見積もっているかで決まる。
+        「可能性が低いな」と思えば仮定法を使う。
+        本文: countless times に対して「そこまでのことはそう起こらないよな」→仮定法。
+      ❷（問57）choice you — 目的格の関係代名詞の省略:
+        every choice (which/that) you made。名詞の直後に代名詞が連続し、
+        madeの目的語がない → 目的格の関係代名詞の省略。
+        consequences you would bear も同様（bearは他動詞）。
+      ❸（問57）not once but countless times:
+        not A but B「AでなくB」。countless = count + -less =「数えることができない」→「無数の」。
+        全体で「一度ではなく何度も」。
+      ❹（問57）youは一般の人:
+        手紙文・対話文以外では、youは特定の「あなた」ではなく一般の人を示す。
+        consequenceはマイナスイメージ → 「大変な目にあう」と訳す。
+      ❺（問57）decision you — 目的格の関係代名詞の省略:
+        a decision (which/that) you might later regret。
+        名詞の後に代名詞が連続し、regretに目的語がない → 関代省略。
+        certainlyは文修飾語 = It is certain that S+V。「きっと〜は確実だ」。
+
+  - id: "nta-002"
+    name: "仮定法の応用パターン"
+    category: "その他"
+    priority: "P1"
+    notes: |
+      Point分類: ❷〔仮定法〕（問58）、❺〔仮定法〕（問58）
+      If節なしの仮定法: 同時期・同条件の仮定法と、主語位置のto不定詞＋wouldの構造。
+      ■ 同時期・同条件の仮定法（問58 ❷）:
+        英語には「同時期・同条件の場合には仮定法」という決まりがある。
+        2つのものを比較する場合、条件（受講時期など）を変えるのはフェアではないと考える。
+        「もし同じ時間にほかのどこかで授業を聞くとして、その場合には習えないようなこと」→仮定法。
+        本文: the same way that you would (behave) at home
+        「同じ時間に母国でふるまうだろうのと同じやり方で」→仮定法。
+      ■ 主語位置のto不定詞＋would（問58 ❺）:
+        To do so would suggest that ...
+        to do soが主語で、do so = take wine to a dinner party。
+        「もしそうするとしたら」→仮定の気持ちが含まれる→仮定法。
+        主語にto不定詞を置くのはまれだが、仮定法では可能。
+        to不定詞は「これから行うこと」を表す。
+        第1文で動名詞(behaving)を使っているので形の連続を避ける効果もある。
+      ❶（問58）the way (that) S+V:
+        thatは関係副詞で「〜のやり方」の意味。wouldの後にbehaveが省略。
+      ❸（問58）land の意味:
+        英語では名詞と動詞が同形になることがよくある。
+        landは「陸」以外に land ... in〜「…を〜に陥らせる」の意味がある。
+      ❹（問58）形式主語it:
+        to take wine to a dinner party が真主語。長い主語の代わりにitを置く。
+        standardは「普通の、特別でない」という意味の形容詞。
+      ❻（問58）or がつなぐもの:
+        are unable to の後の2つの動詞 choose と afford をつなぐ。
+        a good bottle (of wine) は共通の目的語。
+
+understanding_goals:
+  - node_id: "nta-001"
+    seq: 1
+    goal: "仮定法過去の基本形 〈If S'+過去形, S would+原形〉 を識別できる"
+  - node_id: "nta-001"
+    seq: 2
+    goal: "仮定法を使う判断基準（可能性を低く見積もっている）を説明できる"
+  - node_id: "nta-001"
+    seq: 3
+    goal: "仮定法過去の文を日本語に正確に訳出できる"
+
+  - node_id: "nta-002"
+    seq: 1
+    goal: "同時期・同条件の比較で仮定法が使われる理由を説明できる"
+  - node_id: "nta-002"
+    seq: 2
+    goal: "主語位置のto不定詞＋wouldが仮定法を表す構造を理解できる"
+  - node_id: "nta-002"
+    seq: 3
+    goal: "If節のない仮定法（比較構文・to不定詞に潜む仮定法）を見抜ける"
+
+check_points:
+  - node_id: "nta-001"
+    seq: 1
+    question: "仮定法過去の基本形を述べよ。"
+    answer: "〈If S'＋動詞の過去形 ..., S would[could/might/should]＋動詞の原形 ...〉。形は過去だが過去のことではなく、「可能性が低い」と本人が見積もっている場合に使う。"
+  - node_id: "nta-001"
+    seq: 2
+    question: "本文の筆者はなぜ仮定法を使ったのか？"
+    answer: "countless times（何度も何度も大変な目にあう）に対して「そこまでのことはそう起こらないよな」と可能性を低く見積もっているから。日本語の「〜たら」では区別しないが、英語では仮定法で区別する。"
+  - node_id: "nta-001"
+    seq: 3
+    question: "If every choice you made carried consequences you would bear の構造を分析せよ。"
+    answer: "every choice (which) you made = If節の主語（関代省略）。carried consequences = V+O。consequences (which) you would bear = 関代省略で consequences を修飾。not once but countless times = not A but B で bear を修飾する副詞句。"
+
+  - node_id: "nta-002"
+    seq: 1
+    question: "the same way that you would at home の would はなぜ仮定法か？"
+    answer: "同時期・同条件の仮定法。2つのものを比較する場合、条件を変えるのはフェアではないと考え、「もし同じ時間に母国でふるまうとして」という仮定の気持ちでwouldを使う。wouldの後にbehaveが省略されている。"
+  - node_id: "nta-002"
+    seq: 2
+    question: "To do so would suggest の構造を説明せよ。"
+    answer: "To do so が主語（do so = take wine to a dinner party）。「もしそうするとしたら」という仮定の気持ちが含まれるためwouldが使われる。主語にto不定詞を置くのはまれだが仮定法では可能。to不定詞は「これから行うこと」を表す。"
+  - node_id: "nta-002"
+    seq: 3
+    question: "同時期・同条件の仮定法とは何か？ 例を挙げて説明せよ。"
+    answer: "2つのものを比較する際、時間や条件を同一に揃えて仮定法で表す用法。例: 「この講習会では、他の授業では習えないようなことを教えてもらえる」の「習えないような」は、同じ時間に他の授業を聞くという仮定を含むため仮定法が可能。"
+
+node_prerequisites:
+  - node_id: "nta-001"
+    prerequisite_id: "nbk-002"
+  - node_id: "nta-002"
+    prerequisite_id: "nta-001"
+
+knowledge_references:
+  - node_id: "nta-001"
+    book: "入門英文問題精講"
+    section_id: "Ny_57"
+    pages: "p.140-141"
+  - node_id: "nta-002"
+    book: "入門英文問題精講"
+    section_id: "Ny_58"
+    pages: "p.142-143"
