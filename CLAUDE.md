@@ -90,6 +90,7 @@ seras-english-knowledge/
 |------------|---------------|
 | プロジェクトの背景を理解 | [提案書](docs/strategy/英語参考書統合知識システム_提案書.md)、[ブレスト](docs/strategy/ブレスト_2025-02-03.md) |
 | 知識ノード・英文の構造を理解 | [構造化設計案](docs/design/構造化設計案_はじめの英文読解ドリル.md) |
+| **新しい参考書を構造化する** | [構造化共通ワークフロー](docs/design/構造化共通ワークフロー.md)、[参考書別設計テンプレート](docs/design/参考書別設計テンプレート.md)、[チーム運用ルール](docs/design/チーム運用ルール.md) |
 | 確認テスト生成APIの実装 | [確認テスト生成API設計書](docs/design/確認テスト生成API_設計書.md)、[改善指示書](docs/design/確認テスト改善_指示書.md) |
 | DB移行・Webアプリの設計 | [Phase E 設計案](docs/design/Phase_E_設計案.md) |
 | 過去の作業内容を確認 | [作業ログ](docs/log/作業ログ.md) |
