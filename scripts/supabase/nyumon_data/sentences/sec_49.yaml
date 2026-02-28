@@ -1,0 +1,52 @@
+sentences:
+  - id: "ny-49-s1"
+    section_id: "Ny_49"
+    drill: 49
+    number: 1
+    role: "exercise"
+    english: "Our governments can change legislation relating to the voting age, for example, or marriage age."
+    japanese: "政府は，例えば投票権取得年齢や婚姻可能年齢に関する法律を変更できる。"
+    notes: "出典: 慶應義塾大学"
+
+  - id: "ny-49-s2"
+    section_id: "Ny_49"
+    drill: 49
+    number: 2
+    role: "exercise"
+    english: "They rarely make dramatic changes, however, since the existing systems have usually evolved more through experience than through prejudice."
+    japanese: "しかし，現行の制度は通例，偏見よりもむしろ経験を通じて進化してきたものなので，政府が劇的な変更を行うことはまれである。"
+    notes: "出典: 慶應義塾大学"
+
+sentence_structures:
+  - sentence_id: "ny-49-s1"
+    label: "overall"
+    value: "S V O"
+
+  - sentence_id: "ny-49-s1"
+    label: "details"
+    value: "{S}Our governments(S) can {V}change(V) {O}legislation (relating to the voting age, (for example)(M:挿入), or marriage age)(M:分詞句)(O)"
+
+  - sentence_id: "ny-49-s1"
+    label: "partial_translations"
+    value: |
+      ❷ 例えば，投票権取得年齢や婚姻可能年齢に関する法律
+
+  - sentence_id: "ny-49-s2"
+    label: "overall"
+    value: "S V O M"
+
+  - sentence_id: "ny-49-s2"
+    label: "details"
+    value: "{S}They(S) rarely {V}make(V) {O}dramatic changes(O), however(M:挿入), [since(従接) the existing systems have usually evolved (more (through experience)(M:副詞句) than (through prejudice)(M:副詞句))(M:比較)](M:副詞節)"
+
+  - sentence_id: "ny-49-s2"
+    label: "partial_translations"
+    value: |
+      ❺ 現行制度が進化してきたのは，偏見を通じてではなく，人々の経験を通してである
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-49-s1"
+    node_id: "nhk-001"
+
+  - sentence_id: "ny-49-s2"
+    node_id: "nhk-001"

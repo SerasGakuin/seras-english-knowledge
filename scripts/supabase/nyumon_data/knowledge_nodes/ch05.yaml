@@ -1,0 +1,68 @@
+knowledge_nodes:
+  - id: "nhk-001"
+    name: "比較対象の把握"
+    category: "比較"
+    priority: "P1"
+    notes: |
+      Point分類: ❺〔比較〕（問49）
+      比較構文で何と何が比較されているかを正確に把握する。比較対象は常に文法的に同じもの。
+      ■ more A than B =「BではなくむしろA」（問49 ❺）:
+        more through experience than through prejudice
+        → through experience と through prejudice が比較対象（共に〈前置詞+名詞〉）。
+        「偏見を通じてではなく、経験を通じて進化してきた」。
+        共通部分の復元:
+        the existing systems have usually evolved more through experience
+        than [the existing systems have usually evolved through] prejudice
+      ■ 比較対象は文法的に同じもの:
+        比較されるのは常に同じ文法的役割・形式を持つ要素。
+        ただし、一語とは限らない。句（through+名詞）が比較されることもある。
+      ■ since の判定:
+        (1)「〜以来」（通例、現在完了とともに使う）
+        (2)「〜だから」（聞き手にとって常識的/既知の理由）
+        本文: 主節が make（現在時制）→ (1)ではなく (2)。
+      ❶（問49）governments の複数形:
+        government は「(ある国の)政府」と「(地方の)自治体」がある。
+        本文は連邦政府と各州政府 → 複数形。
+      ❷（問49）relating to 以下:
+        現在分詞。legislation を修飾する形容詞的用法。
+        英語では2語以上のかたまりの形容詞は名詞の後ろに置くのが原則。
+      ❸（問49）make dramatic changes:
+        法律の劇的・抜本的な変更を行う。
+      ❹（問49）however の位置:
+        however は副詞（butは接続詞）。
+        副詞の位置は比較的自由: (1)文頭 (2)主語直後 (3)文末。
+
+understanding_goals:
+  - node_id: "nhk-001"
+    seq: 1
+    goal: "比較構文で比較されている対象を正確に特定できる"
+  - node_id: "nhk-001"
+    seq: 2
+    goal: "more A than B が「BではなくむしろA」の意味になる用法を理解できる"
+  - node_id: "nhk-001"
+    seq: 3
+    goal: "比較対象が単語ではなく句や節の場合も正しく把握できる"
+
+check_points:
+  - node_id: "nhk-001"
+    seq: 1
+    question: "more through experience than through prejudice で比較されているのは何と何か？"
+    answer: "through experience と through prejudice（共に〈前置詞+名詞〉の副詞句）が比較されている。evolved を修飾する副詞句同士。「偏見を通じてではなく、経験を通じて進化してきた」。"
+  - node_id: "nhk-001"
+    seq: 2
+    question: "more A than B の意味を説明せよ。"
+    answer: "「BではなくむしろA」の意味。比較級を使った対比表現。A のほうが程度が大きいことを示す。than 以下の共通部分は省略される。"
+  - node_id: "nhk-001"
+    seq: 3
+    question: "比較対象を特定する基本原則は何か？"
+    answer: "比較されるのは文法的に同じもの（同じ文法的役割・形式を持つ要素）。ただし一語とは限らず、句や節が比較対象になることもある。"
+
+node_prerequisites:
+  - node_id: "nhk-001"
+    prerequisite_id: "nbk-001"
+
+knowledge_references:
+  - node_id: "nhk-001"
+    book: "入門英文問題精講"
+    section_id: "Ny_49"
+    pages: "p.124-125"

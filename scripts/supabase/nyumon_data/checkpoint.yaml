@@ -1,38 +1,38 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T17:00:00"
+updated_at: "2026-03-02T18:30:00"
 book: "入門英文問題精講"
 book_slug: "nyumon"
 
 current_state:
-  phase: "Phase 2E"
-  current_section: "Ny_47"
+  phase: "Phase 2F"
+  current_section: "Ny_50"
   current_step: "Step 1"
-  last_completed_section: "Ny_46"
+  last_completed_section: "Ny_49"
   last_completed_gate: 5
 
 progress:
   total_sections: 85
-  completed: 59
+  completed: 62
   in_progress: 0
-  remaining: 26
-  total_nodes: 49
-  total_sentences: 161
+  remaining: 23
+  total_nodes: 52
+  total_sentences: 167
 
 recent_decisions:
-  - "Ny_44: 2ノード（nst-011疑問詞節, nst-012接触節）— Point付き❶❺が独立概念"
-  - "Ny_45+46: 共有ノード nst-013（複数節の構造把握）— 応用的な構造分析力"
-  - "nst-011→nbk-001, nst-012→nbk-001, nst-013→nst-004+nst-008"
+  - "Ny_47: 4Pointを1ノード(nst-014)に統合 — 関係詞+接続詞の複合構造分析"
+  - "Ny_48: 2Pointを1ノード(nst-015) — the way S+Vの構造"
+  - "Ny_49: nhk-001(比較対象の把握) — 第5章開始"
 
 active_concerns:
   - "nbk-001, nbk-002 は tagged sentences なし（基本講義ノードでは想定内）"
   - "CHECK-09 の ny-G** 命名規則エラーは既知の既存問題（基本講義ID体系）"
 
 next_actions:
-  - "Phase 2E Batch 21: Ny_47（節＋節④）→ Ny_48（節＋節⑤）→ 章区切り"
-  - "Ny_48が第4章最終 → 章区切り全指示書再読込"
-  - "Batch 21の3セクション目は Ny_49（第5章 比較対象の把握①）"
+  - "Phase 2F Batch 22: Ny_50（比較対象の把握②）→ Ny_51（比較対象の把握③）→ Ny_52（比較対象の把握④）"
+  - "章区切り全指示書再読込済み"
+  - "3セクションプロトコル: Batch 22 完了後にワークフロー再読込"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

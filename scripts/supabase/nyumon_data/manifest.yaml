@@ -606,34 +606,34 @@ sections:
     title: "節＋節④"
     type: "exercise"
     pages: "p.120-121"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nst-014(関係詞と接続詞の複合構造分析)"
   Ny_48:
     title: "節＋節⑤"
     type: "exercise"
     pages: "p.122-123"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nst-015(the way S+Vの構造) 第4章最終"
 
   # === 第5章 比較（8セクション） ===
   Ny_49:
     title: "比較対象の把握①"
     type: "exercise"
     pages: "p.124-125"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nhk-001(比較対象の把握) 第5章開始"
   Ny_50:
     title: "比較対象の把握②"
     type: "exercise"
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 59
+  completed: 62
   in_progress: 0
-  not_started: 26
-  total_knowledge_nodes: 49
-  total_sentences: 161
+  not_started: 23
+  total_knowledge_nodes: 52
+  total_sentences: 167

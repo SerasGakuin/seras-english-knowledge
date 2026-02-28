@@ -1,0 +1,78 @@
+sentences:
+  - id: "ny-48-s1"
+    section_id: "Ny_48"
+    drill: 48
+    number: 1
+    role: "exercise"
+    english: "People may think the way they do things or the way they view the world is \"natural\" and \"correct.\""
+    japanese: "人は自分の物事のやり方や世界の見方が「当然」で「正しい」と思うかもしれない。"
+    notes: ""
+
+  - id: "ny-48-s2"
+    section_id: "Ny_48"
+    drill: 48
+    number: 2
+    role: "exercise"
+    english: "When they encounter someone doing things differently, they regard it as \"strange\" or \"wrong.\""
+    japanese: "物事を異なるやり方でやっている人に出会うと，それを「奇妙である」とか「間違っている」とみなす。"
+    notes: ""
+
+  - id: "ny-48-s3"
+    section_id: "Ny_48"
+    drill: 48
+    number: 3
+    role: "exercise"
+    english: "Having an awareness of intercultural communication can help us understand and deal with misunderstandings when they arise."
+    japanese: "異文化間コミュニケーションを認識することは，誤解が生じたときにそれを理解して対処するのに役立ちうる。"
+    notes: ""
+
+sentence_structures:
+  - sentence_id: "ny-48-s1"
+    label: "overall"
+    value: "S V O"
+
+  - sentence_id: "ny-48-s1"
+    label: "details"
+    value: "{S}People(S) may {V}think(V) {O}[(that省略) {S}the way [they do things](M:関係副詞節) or the way [they view the world](M:関係副詞節)(S) {V}is(V) {C}\"natural\" and \"correct\"(C)](O:that節)"
+
+  - sentence_id: "ny-48-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 人々は，自分のやり方または世界の見方が「当然だ」とか「正しい」と考えるかもしれない
+
+  - sentence_id: "ny-48-s2"
+    label: "overall"
+    value: "M S V O C"
+
+  - sentence_id: "ny-48-s2"
+    label: "details"
+    value: "[When(従接) they encounter someone (doing things differently)(M:分詞)](M:副詞節), {S}they(S) {V}regard(V) {O}it(O) as {C}\"strange\" or \"wrong\"(C)"
+
+  - sentence_id: "ny-48-s2"
+    label: "partial_translations"
+    value: |
+      ❷ 彼らが物事を違うやり方でしている人に出くわすとき
+      ❸ 彼らはそれを「変だ」とか「間違っている」とみなす
+
+  - sentence_id: "ny-48-s3"
+    label: "overall"
+    value: "S V O C"
+
+  - sentence_id: "ny-48-s3"
+    label: "details"
+    value: "{S}(Having an awareness (of intercultural communication)(M:形容詞句))(S:動名詞句) {V}can help(V) {O}us(O) {C}understand and deal with misunderstandings(C:原形不定詞) [when(従接) they arise](M:副詞節)"
+
+  - sentence_id: "ny-48-s3"
+    label: "partial_translations"
+    value: |
+      ❺ （異文化間コミュニケーションを認識することは）私達が誤解を理解してそれに対処するのに役立ちうる
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-48-s1"
+    node_id: "nst-015"
+
+  - sentence_id: "ny-48-s2"
+    node_id: "nst-015"
+
+  - sentence_id: "ny-48-s3"
+    node_id: "nst-015"

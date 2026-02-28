@@ -380,6 +380,73 @@ knowledge_nodes:
         共に will exist を修飾する副詞句。
         within the same period = during the next 50 years の言い換え。
 
+  - id: "nst-014"
+    name: "関係詞と接続詞の複合構造分析"
+    category: "接続詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❶❷❸〔関係詞〕❺〔接続詞〕（問47）
+      長文において関係詞（what/when/that）と等位接続詞（and）が複合的に出現する構造を正しく解析する。
+      ■ what の曖昧性（問47 ❶）:
+        what には疑問詞「何が〜」と関係代名詞「〜なもの」の2用法があるが、
+        文によっては区別が不可能もしくは無意味なこともある。
+        Regardless of what happened at the beginning of time
+        → 「何が起きたか」でも「起きたこと」でも問題ない（後者のほうが収まりがいい）。
+        コンマの前までは副詞の働き（「〜とは無関係に」）。
+      ■ 先行詞と関係副詞節の分離（問47 ❷）:
+        a period 13.8 billion years ago when ...
+        → when の先行詞は period。直前の ago ではない。
+        know that there was a period → that省略。
+        「どんな時代か？」という疑問が関係副詞節への道筋。
+        一般に関係副詞は訳には出さない。
+      ■ 固有名詞の非制限用法ルール（問47 ❸）:
+        先行詞が固有名詞（大文字で始まる名詞）→ 関係代名詞節の前後にコンマ必須。
+        さらに that は非制限用法では使えない → which を使う。
+        例: Kyoto, which (×that) used to be the capital of Japan, is now a popular tourist destination.
+        本文の that は固有名詞 Universe ではなく part が先行詞（コンマなし）。
+        see は他動詞で目的語がない → that は目的格の関係代名詞。
+      ■ and の文法的等価原則（問47 ❺）:
+        等位接続詞は「文法的に等しいもの」をつなぐが、「同じ形をつなぐ」のではない。
+        containing over 350 billion large galaxies AND with a diameter of over 90 billion light years
+        → 分詞句と前置詞句という異なる形だが、共に副詞の働き。
+        over 350 billion の over は「〜より多く」。
+        was compressed が動詞。the part が単数で was と一致。
+      ❹（問47）分詞構文 containing:
+        主語直後のコンマ挟みの V-ing は分詞構文（副詞的）。
+        contain は他動詞なので contain with 〜 とはならない。
+
+  - id: "nst-015"
+    name: "the way S+Vの構造"
+    category: "接続詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❶〔接続詞/関係詞〕❺〔接続詞〕（問48）
+      ■ think (that省略) the way ... is ... の構造（問48 ❶）:
+        think の後に接続詞 that が省略されている。
+        that 節内では:
+        the way they do things or the way they view the world が主語（長い）、
+        is が動詞、"natural" and "correct" が補語。
+      ■ the way S+V =「SがVするやり方」:
+        the way の後ろに関係副詞 how が省かれている。
+        ただし the way how S+V は不可（how を省かない形は使わない）。
+        they do things / they view the world → 主語・目的語に欠けなし → 関係副詞節。
+      ■ 引用符 " " の機能:
+        "natural" "correct" の引用符は筆者が世間の考えに疑問を投げかける意図を示す。
+      ❷（問48）doing things differently:
+        分詞。someone を後ろから修飾する形容詞的用法。
+      ❸（問48）regard O as C:
+        「OをCとみなす」。SVOC の第5文型。as は前置詞。
+        describe O as C も同型。
+      ❹（問48）Having an awareness...:
+        動名詞句が主語。can は可能性「〜しうる」。
+      ■ and の異種接続（問48 ❺）:
+        help us understand and deal with misunderstandings
+        → understand と deal with は形が異なるが共に動詞原形。
+        deal with の意味上の主語は us（Having...ではない）。
+        misunderstandings が共通の目的語。
+        help O do（原形不定詞）: 現在では to を省くのが一般的。
+        一見異種に見えるものを and がつなぐことに慣れる必要がある。
+
 understanding_goals:
   - node_id: "nst-001"
     seq: 1
@@ -517,6 +584,27 @@ understanding_goals:
   - node_id: "nst-013"
     seq: 4
     goal: "複数の接続詞が重なった文の全体構造を把握できる"
+  - node_id: "nst-014"
+    seq: 1
+    goal: "長文中で what の用法（疑問詞/関代）を文脈から判断し、区別が不可能な場合も対処できる"
+  - node_id: "nst-014"
+    seq: 2
+    goal: "先行詞と関係副詞節が離れている構造を正しく解析できる"
+  - node_id: "nst-014"
+    seq: 3
+    goal: "固有名詞を先行詞とする関係代名詞の制約（コンマ必須・that不可）を説明できる"
+  - node_id: "nst-014"
+    seq: 4
+    goal: "and が文法的に等しいが形態的に異なる要素をつなぐ構造を識別できる"
+  - node_id: "nst-015"
+    seq: 1
+    goal: "the way S+V の構造を理解し、「SがVするやり方」と和訳できる"
+  - node_id: "nst-015"
+    seq: 2
+    goal: "the way how S+V が不可であることを説明できる"
+  - node_id: "nst-015"
+    seq: 3
+    goal: "think that 省略の後に長い主語が来る文の構造を正しく解析できる"
 
 check_points:
   - node_id: "nst-001"
@@ -696,6 +784,34 @@ check_points:
     seq: 4
     question: "複数節が重なった英文で節の境界を見つける方法は？"
     answer: "コンマを目印にする。接続詞（When/While/that/because等）の開始位置を見つけ、対応する主語・動詞のペアを追跡する。副詞節内にさらにthat節が入る入れ子構造に注意する。"
+  - node_id: "nst-014"
+    seq: 1
+    question: "Regardless of what happened... の what は疑問詞か関係代名詞か？"
+    answer: "両方の解釈が可能で、文によっては区別が不可能もしくは無意味。「何が起きたか」（疑問詞）でも「起きたこと」（関代）でも通じるが、本文では後者のほうが収まりがいい。"
+  - node_id: "nst-014"
+    seq: 2
+    question: "a period 13.8 billion years ago when ... の when の先行詞は何か？"
+    answer: "period。直前の 13.8 billion years ago ではない。「どんな時代か」を説明する関係副詞節。know の後に that が省略されていることもポイント。"
+  - node_id: "nst-014"
+    seq: 3
+    question: "the part of the Universe that we can see today の that の先行詞は何か？ なぜ Universe ではないか？"
+    answer: "先行詞は part。Universe は固有名詞なので、関係代名詞節にはコンマが必要で、かつ that は非制限用法では使えない（which を使う）。コンマがなく that が使われているので先行詞は part。"
+  - node_id: "nst-014"
+    seq: 4
+    question: "containing over 350 billion large galaxies and with a diameter... の and は何をつないでいるか？"
+    answer: "containing ... と with ... の2つの副詞句をつないでいる。分詞句と前置詞句で形は異なるが、共に副詞の働き。等位接続詞は「文法的に等しいもの」をつなぐのであって「同じ形をつなぐ」のではない。"
+  - node_id: "nst-015"
+    seq: 1
+    question: "People may think the way they do things ... is 'natural' の think の後に省略されているものは何か？"
+    answer: "接続詞 that。think (that) the way ... is 'natural' で、that 節全体が think の目的語。the way ... the world が長い主語、is が動詞。"
+  - node_id: "nst-015"
+    seq: 2
+    question: "the way they do things の the way はどのような構造か？ how は使えるか？"
+    answer: "the way を先行詞とする関係副詞節。the way の後に how が省略されている。ただし the way how S+V の形は不可（how を省かない形は使わない）。"
+  - node_id: "nst-015"
+    seq: 3
+    question: "help us understand and deal with の and は何をつないでいるか？"
+    answer: "understand と deal with（共に動詞原形）をつないでいる。一見異種に見えるが文法的に等しい。misunderstandings が共通の目的語。deal with の意味上の主語は us。"
 
 node_prerequisites:
   - node_id: "nst-001"
@@ -728,6 +844,10 @@ node_prerequisites:
     prerequisite_id: "nst-004"
   - node_id: "nst-013"
     prerequisite_id: "nst-008"
+  - node_id: "nst-014"
+    prerequisite_id: "nst-013"
+  - node_id: "nst-015"
+    prerequisite_id: "nst-009"
 
 knowledge_references:
   - node_id: "nst-001"
@@ -794,3 +914,11 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_46"
     pages: "p.118-119"
+  - node_id: "nst-014"
+    book: "入門英文問題精講"
+    section_id: "Ny_47"
+    pages: "p.120-121"
+  - node_id: "nst-015"
+    book: "入門英文問題精講"
+    section_id: "Ny_48"
+    pages: "p.122-123"

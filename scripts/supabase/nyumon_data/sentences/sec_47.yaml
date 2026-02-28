@@ -1,0 +1,28 @@
+sentences:
+  - id: "ny-47-s1"
+    section_id: "Ny_47"
+    drill: 47
+    number: 1
+    role: "exercise"
+    english: "Regardless of what happened at the beginning of time, we know there was a period 13.8 billion years ago when the part of the Universe that we can see today, containing over 350 billion large galaxies and with a diameter of over 90 billion light years, was compressed into a region of space smaller than a single atom."
+    japanese: "時間の始まりに何が起きたかとは無関係に，宇宙の中の今日私達が見ている部分は3,500億を超える巨大な銀河を含み，直径が900億光年を超えるが，それが圧縮されてたった1つの原子より小さな空間領域になった時代が，138億年前にあったことを私達は知っている。"
+    notes: "出典: 東北大学"
+
+sentence_structures:
+  - sentence_id: "ny-47-s1"
+    label: "overall"
+    value: "M S V O"
+
+  - sentence_id: "ny-47-s1"
+    label: "details"
+    value: "(Regardless of [what(関代/疑問詞) happened (at the beginning of time)(M:副詞句)])(M:副詞句), {S}we(S) {V}know(V) {O}[(that省略) there was a period (13.8 billion years ago)(M:副詞句) [when(関副) {S}the part (of the Universe)(M:形容詞句) [that(関代) we can see today](M:関係代名詞節)(S), (containing over 350 billion large galaxies)(M:分詞構文) and (with a diameter of over 90 billion light years)(M:副詞句), {V}was compressed(V) (into a region of space (smaller than a single atom)(M:形容詞句))(M:副詞句)]](O:that節)"
+
+  - sentence_id: "ny-47-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 時間の始まりで何が起きたのかと無関係に
+      ❸ 宇宙の中の，今日私達が見ている部分
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-47-s1"
+    node_id: "nst-014"

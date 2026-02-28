@@ -454,13 +454,17 @@ sections:
     title: "節＋節④"
     pages: "p.120-121"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: 節を作るのはどれとどれ？
+      一言: 先行詞と関係代名詞［関係副詞］節が離れている場合がある。読んでいけば自然とわかる。「対話をしながら読め」は蓋し名言。
   - id: "Ny_48"
     book: "入門英文問題精講"
     title: "節＋節⑤"
     pages: "p.122-123"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: thinkは目的語を必要とするから……
+      一言: 知覧飛行場の近くのお寺に「人は正しいと思えばどんな残酷なこともやる」という言葉。教育とは「正しい」をできるだけ「正しい」に近づけていくこと。
 
   # === 第5章 比較（8セクション） ===
   - id: "Ny_49"
@@ -468,7 +472,9 @@ sections:
     title: "比較対象の把握①"
     pages: "p.124-125"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: 比較対象は文法的・意味的に同じもの
+      一言: 日本の飲酒年齢について、客観的で信頼性の高い資料や証拠を持って主張する練習を。声の大きさや口調の激しさでは人は説得できない。
   - id: "Ny_50"
     book: "入門英文問題精講"
     title: "比較対象の把握②"
@@ -794,6 +800,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_46"
     node_id: "nst-013"
+    seq: 1
+  - section_id: "Ny_47"
+    node_id: "nst-014"
+    seq: 1
+  - section_id: "Ny_48"
+    node_id: "nst-015"
+    seq: 1
+  - section_id: "Ny_49"
+    node_id: "nhk-001"
     seq: 1
 
 section_prerequisites: []
