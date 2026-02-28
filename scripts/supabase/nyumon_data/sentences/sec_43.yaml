@@ -1,0 +1,54 @@
+sentences:
+  - id: "ny-43-s1"
+    section_id: "Ny_43"
+    drill: 43
+    number: 1
+    role: "exercise"
+    english: "Every new technology raises fears that some jobs will be lost and hopes that new jobs will be created."
+    japanese: "新たな技術はどれも，職業の中には失われるものがあるという恐怖をかき立て，新たな仕事が創られるだろうという希望を抱かせる。"
+    notes: "出典: 慶應義塾大学"
+
+  - id: "ny-43-s2"
+    section_id: "Ny_43"
+    drill: 43
+    number: 2
+    role: "exercise"
+    english: "After the Industrial Revolution, for example, workers were afraid that they would be replaced by machines."
+    japanese: "例えば，産業革命の後，労働者は機械に取って代わられるのではないかと恐れていた。"
+    notes: "出典: 慶應義塾大学"
+
+sentence_structures:
+  - sentence_id: "ny-43-s1"
+    label: "overall"
+    value: "S V O and O"
+
+  - sentence_id: "ny-43-s1"
+    label: "details"
+    value: "{S}Every new technology(S) {V}raises(V) {O}fears(O) [that(同格/従接) some jobs will be lost] and {O}hopes(O) [that(同格/従接) new jobs will be created]"
+
+  - sentence_id: "ny-43-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 新たな技術はどれも，職業の中には失われるものがあるという恐怖を抱かせる
+      ❷ 新たな職業が創造されるだろうという希望を抱かせる
+
+  - sentence_id: "ny-43-s2"
+    label: "overall"
+    value: "M S V C"
+
+  - sentence_id: "ny-43-s2"
+    label: "details"
+    value: "(After the Industrial Revolution)(M:副詞句), for example, {S}workers(S) {V}were(V) {C}afraid(C) [that(従接) they would be replaced (by machines)(M:副詞句)]"
+
+  - sentence_id: "ny-43-s2"
+    label: "partial_translations"
+    value: |
+      ❸ 労働者は…ではないかと恐れている
+      ❹ 機械に取って代わられる
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-43-s1"
+    node_id: "nst-010"
+
+  - sentence_id: "ny-43-s2"
+    node_id: "nst-010"

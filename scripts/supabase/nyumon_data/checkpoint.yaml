@@ -1,37 +1,38 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T14:00:00"
+updated_at: "2026-03-02T15:30:00"
 book: "入門英文問題精講"
 book_slug: "nyumon"
 
 current_state:
   phase: "Phase 2E"
-  current_section: "Ny_41"
+  current_section: "Ny_44"
   current_step: "Step 1"
-  last_completed_section: "Ny_40"
+  last_completed_section: "Ny_43"
   last_completed_gate: 5
 
 progress:
   total_sections: 85
-  completed: 53
+  completed: 56
   in_progress: 0
-  remaining: 32
-  total_nodes: 43
-  total_sentences: 150
+  remaining: 29
+  total_nodes: 46
+  total_sentences: 157
 
 recent_decisions:
-  - "Ny_35/36/37: 異なるテーマ → 各1ノード（nst-002, nst-003, nst-004）、比率1.0"
-  - "Ny_38/39/40: 異なるテーマ → 各1ノード（nst-005, nst-006, nst-007）、比率1.0"
-  - "nst-006 → nst-005 prerequisite: while の譲歩用法理解に although の譲歩知識が前提"
+  - "Ny_41/42/43: that系3問 → 各1ノード（nst-008/009/010）、比率1.0"
+  - "nst-009 → nst-008, nst-010 → nst-008: 接続詞thatの基本理解が省略・同格の前提"
+  - "Ny_42 s2/s3: that関連の直接練習ではないが、パッセージ全体の理解にthat省略が前提のためnst-009タグ"
 
 active_concerns:
   - "nbk-001, nbk-002 は tagged sentences なし（基本講義ノードでは想定内）"
-  - "nsv-003 のタグ付き英文が1文のみ"
+  - "CHECK-09 の ny-G** 命名規則エラーは既知の既存問題（基本講義ID体系）"
 
 next_actions:
-  - "Phase 2E Batch 19: Ny_41（that節）→ Ny_42（thatの省略）→ Ny_43（同格that）"
-  - "Ny_41-43は that 系3問 → 統合の可能性あり"
+  - "Phase 2E Batch 20: Ny_44（節＋節①）→ Ny_45（節＋節②）→ Ny_46（節＋節③）"
+  - "Ny_44-48は「節＋節」シリーズ5問 → 統合の可能性あり"
+  - "3セクションプロトコル: Batch 20 完了後にワークフロー再読込"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

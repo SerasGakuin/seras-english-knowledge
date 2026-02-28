@@ -196,6 +196,100 @@ knowledge_nodes:
         a third 〜 = another 〜 の意味（順序ではなく「もう1つ」）。
       参考書内参照: →問24も同じ文章からの抜粋。
 
+  - id: "nst-008"
+    name: "接続詞thatと名詞節"
+    category: "接続詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❸❹〔接続詞〕（問41）
+      ■ 接続詞thatの働き:
+        that は後ろの文（完全な文）を名詞にまとめる働きを持つ。
+        that 節中は主語・動詞が揃った完全な文になる。
+      ■ that節の4つの働き:
+        (1) 目的語になる: 伝達・思考・認識・要求の動詞（say/think/believe/demand等）の目的語。
+            このthatはしばしば省略される。
+        (2) 補語になる: 文の補語になる。
+        (3) 主語になる: 形式主語構文〈It is 〜 that ...〉の真主語になる。
+        (4) 同格節を導く: 名詞（fact/news/idea/feeling等）を説明する同格節を導く。
+      ■ that判別法:
+        that 節中が完全な文かどうかをチェックする。
+        → 不完全な文（主語or目的語の欠落）→ that は関係代名詞
+        → 完全な文 → that は接続詞か関係副詞
+      ■ that節中が完全な文であっても、名詞の後のthatの場合は接続詞か関係副詞の可能性がある。
+        関係副詞の場合、that の直後に完全な文が来る（reason that S+V等）。
+      ■ 参考: 「物」を先行詞とする関係代名詞は、コンマなしでは米語ではwhichよりthatを使う傾向あり。
+      ❶（問41）that helps us control: 主格の関係代名詞。a mysterious force を修飾。
+      ❷（問41）help＋O＋原形不定詞: 現在ではto不定詞のtoが脱落した形が主流。
+      ❺（問41）the main reason that: 関係副詞のthat。
+        直後が完全な文（some of us fail to achieve our goals）なので関係副詞。
+        reason の後のthat は関係代名詞（直後に不完全な文）or関係副詞（直後に完全な文）の2つの可能性がある。
+
+  - id: "nst-009"
+    name: "接続詞thatの省略"
+    category: "接続詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❶〔接続詞〕（問42）
+      ■ thatの省略:
+        名詞節を作る接続詞thatは、動詞の目的語になっている場合しばしば省略される。
+        伝達・思考動詞（say/think/believe/suggest等）の後で頻繁に起こる。
+      ■ 省略が起こるパターン:
+        says (that) he isn't suggesting (that) we ignore our families
+        → says と suggesting の後の2つのthatが省略。
+      ■ 省略されないパターン:
+        but that friends make us feel better
+        → 複数のthat節があり、says の目的語であることを明確にするため省略しない。
+      ■ not A but B 構造:
+        says の目的語が not A but B の構造。
+        A = (that) he isn't suggesting (that) we ignore ...
+        B = that friends make us feel better
+        Chopik says ┤ (that) he isn't suggesting (that) we ignore ...
+                    └ but that friends make us feel better
+      ■ suggest の2義と文法:
+        ① 「〜を示唆する」: that 節内は通常の時制
+        ② 「〜を提案する」: that 節内は〈(should)＋原形不定詞〉
+        要求・提案・命令を表す動詞（demand/suggest/insist等）の目的語のthat節内で
+        should＋原形不定詞を使うルール。
+        本文: isn't suggesting (that) we ignore → ignore は原形不定詞（提案の意味）。
+      [図表: 樹形図 — says の not A but B 構造。2つの目的語thatの分岐を示す（p.110）]
+      ❷（問42）make＋O＋原形不定詞:「Oに〜させる」。better は feel の補語。
+      ❸（問42）ダッシュ（―）: 後半が前半の補足的説明。比較級 more likely に than 省略あり。
+      ❹（問42）judgmental: 文脈からの語義推測。judge「判断する」→「判断しがちな」→「批判的な」。
+
+  - id: "nst-010"
+    name: "同格のthat"
+    category: "接続詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❶〔接続詞〕（問43）
+      ■ 同格のthat:
+        名詞の後にthat節が来て、名詞の内容をthat節で具体的に説明する関係を「同格」と呼ぶ。
+        「〜という（名詞）」のように訳す。
+        例: fears that some jobs will be lost =「職業が失われるという恐怖」
+      ■ 同格のthatを取る名詞一覧（多くが「考え・主張・事実」の類い）:
+        fact「事実」/ truth「真実」/ rumor「うわさ」/ news「知らせ」
+        claim「主張」/ idea「考え」/ thought「考え」/ belief「信念」
+        demand「要求」/ feeling「気持ち」/ anxiety「心配」
+        fear「恐怖」/ hope「希望」
+      ■ 同格that vs 関係代名詞that の判別:
+        thatの直前に名詞があり、that節内が完全な文 → 同格の接続詞
+        thatの直前に名詞があり、that節内が不完全な文（主語or目的語の欠落）→ 関係代名詞
+      ■ be afraid that S+V / be sure that S+V:
+        本来 be afraid of＋名詞 / be sure of＋名詞 の形。
+        that節を従える場合にofが脱落し、be afraid that S+V / be sure that S+V になる。
+        意味: be afraid that =「…ではないかと恐れている」/ be sure that =「…を確信している」
+      ■ 名詞構文的な見方:
+        fears that S+V は、動詞 fear の〈fear that S+V〉「…を恐れる」を名詞化した
+        名詞構文とも考えられる。
+      ❷（問43）andの接続対象: raises の2つの目的語 fears と hopes をつなぐ。
+        hopes が名詞か動詞かの判定: 主語が every new technology（人でない）→ 名詞。
+      ❸（問43）be afraid that S+V: of が脱落したパターン。
+        for example は副詞句の直後に挿入。訳す際は文頭に置く。
+      ❹（問43）助動詞＋be＋過去分詞: 助動詞入りの受動態。
+        〈S＋助動詞＋V＋O〉→ Oを主語にして〈助動詞＋be＋過去分詞〉。
+        例: Teachers should treat students equally. → Students should be treated equally.
+        本文: machines would replace them → they would be replaced by machines.
+
 understanding_goals:
   - node_id: "nst-001"
     seq: 1
@@ -266,6 +360,43 @@ understanding_goals:
   - node_id: "nst-007"
     seq: 3
     goal: "depend on whether... のように前置詞の後ろの whether 節を名詞節と判断できる"
+
+  - node_id: "nst-008"
+    seq: 1
+    goal: "that節内が完全な文かどうかで、接続詞that・関係代名詞・関係副詞を判別できる"
+  - node_id: "nst-008"
+    seq: 2
+    goal: "接続詞thatの4つの働き（目的語・補語・主語・同格）を列挙できる"
+  - node_id: "nst-008"
+    seq: 3
+    goal: "動詞の後のthatが目的語を作る接続詞であると見抜ける"
+  - node_id: "nst-008"
+    seq: 4
+    goal: "reason の後のthatが関係代名詞か関係副詞かを節の完全性から判断できる"
+  - node_id: "nst-009"
+    seq: 1
+    goal: "接続詞thatが省略されている箇所を特定し、元のthatの位置を復元できる"
+  - node_id: "nst-009"
+    seq: 2
+    goal: "not A but B構造の中でthatが省略/非省略になる理由を説明できる"
+  - node_id: "nst-009"
+    seq: 3
+    goal: "suggest that S (should) V の構造を識別し、suggestの意味を判断できる"
+  - node_id: "nst-009"
+    seq: 4
+    goal: "複数のthat節が並ぶ文で、各thatの役割と省略有無を分析できる"
+  - node_id: "nst-010"
+    seq: 1
+    goal: "名詞+that節の同格関係を識別できる"
+  - node_id: "nst-010"
+    seq: 2
+    goal: "同格のthatと関係代名詞のthatを、節内の完全性で区別できる"
+  - node_id: "nst-010"
+    seq: 3
+    goal: "同格のthatを取る代表的な名詞を列挙できる"
+  - node_id: "nst-010"
+    seq: 4
+    goal: "be afraid that / be sure that の構造を理解し訳出できる"
 
 check_points:
   - node_id: "nst-001"
@@ -361,6 +492,51 @@ check_points:
     question: "whether を if に置き換えられない場合はどのような場合か？"
     answer: "副詞節の whether（「〜であっても」の意味）は if では置き換えられない。名詞節の「〜かどうか」の意味では if でも置き換え可能。"
 
+  - node_id: "nst-008"
+    seq: 1
+    question: "thatの直後が完全な文（主語・動詞が揃っている）の場合、thatは何か？"
+    answer: "接続詞（名詞節を作る）または関係副詞。不完全な文（主語or目的語の欠落）なら関係代名詞。"
+  - node_id: "nst-008"
+    seq: 2
+    question: "接続詞thatの作る名詞節の4つの働きは何か？"
+    answer: "①動詞の目的語（say/think/believe等の後）、②補語、③主語（形式主語Itの真主語）、④名詞と同格。目的語の場合thatはしばしば省略される。"
+  - node_id: "nst-008"
+    seq: 3
+    question: "believe that willpower is a limited resource のthatの働きは何か？どう判断するか？"
+    answer: "接続詞。that以下が完全な文（willpowerが主語、isが動詞、a limited resourceが補語）なので関係代名詞ではない。believeの目的語を作る名詞節の接続詞。"
+  - node_id: "nst-008"
+    seq: 4
+    question: "the main reason that some of us fail to achieve our goals のthatは関係代名詞か関係副詞か？"
+    answer: "関係副詞。that以下が完全な文（some of usが主語、failが動詞、our goalsが目的語）なので関係代名詞ではない。reasonの後のthatで完全な文なら関係副詞。"
+  - node_id: "nst-009"
+    seq: 1
+    question: "Chopik says he isn't suggesting we ignore our families のsaysとsuggestingの後で省略されているものは何か？"
+    answer: "いずれも接続詞that。says (that) he isn't suggesting (that) we ignore...。目的語になるthat節のthatはしばしば省略される。"
+  - node_id: "nst-009"
+    seq: 2
+    question: "suggestが「提案する」の意味で使われる場合、that節内の動詞はどうなるか？"
+    answer: "(should)＋原形不定詞で表す。要求・提案・命令を表す動詞（demand/suggest/insist等）の目的語のthat節内に適用されるルール。"
+  - node_id: "nst-009"
+    seq: 3
+    question: "not A but B構造でbutの後のthatが省略されなかった理由は何か？"
+    answer: "複数のthat節があるため、saysの目的語であることを明確に示すために省略されなかった。thatの有無で文構造の明確さが変わる。"
+  - node_id: "nst-010"
+    seq: 1
+    question: "fears that some jobs will be lost のthatの働きは何か？どう判断するか？"
+    answer: "同格の接続詞。that以下が完全な文（some jobsが主語、will be lostが動詞）なので関係代名詞ではない。名詞fearsの内容をthat節で具体的に説明する同格関係。「職業が失われるという恐怖」。"
+  - node_id: "nst-010"
+    seq: 2
+    question: "同格のthatを取る名詞にはどのようなものがあるか？"
+    answer: "fact, truth, rumor, news, claim, idea, thought, belief, demand, feeling, anxiety, fear, hope など。多くが「考え・主張・事実」の類い。"
+  - node_id: "nst-010"
+    seq: 3
+    question: "名詞の後のthatが関係代名詞か同格の接続詞かをどう判別するか？"
+    answer: "that節内が完全な文（主語・目的語の欠けなし）なら同格の接続詞、不完全な文（主語or目的語が欠けている）なら関係代名詞。"
+  - node_id: "nst-010"
+    seq: 4
+    question: "be afraid that S+V の構造はどう成り立っているか？"
+    answer: "本来 be afraid of＋名詞 の形だが、that節を従える場合にofが脱落し、be afraid that S+V となる。「…ではないかと恐れている」の意味。be sure that も同様にofが脱落。"
+
 node_prerequisites:
   - node_id: "nst-001"
     prerequisite_id: "nbk-001"
@@ -378,6 +554,12 @@ node_prerequisites:
     prerequisite_id: "nst-005"
   - node_id: "nst-007"
     prerequisite_id: "nbk-001"
+  - node_id: "nst-008"
+    prerequisite_id: "nbk-001"
+  - node_id: "nst-009"
+    prerequisite_id: "nst-008"
+  - node_id: "nst-010"
+    prerequisite_id: "nst-008"
 
 knowledge_references:
   - node_id: "nst-001"
@@ -416,3 +598,15 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_40"
     pages: "p.106-107"
+  - node_id: "nst-008"
+    book: "入門英文問題精講"
+    section_id: "Ny_41"
+    pages: "p.108-109"
+  - node_id: "nst-009"
+    book: "入門英文問題精講"
+    section_id: "Ny_42"
+    pages: "p.110-111"
+  - node_id: "nst-010"
+    book: "入門英文問題精講"
+    section_id: "Ny_43"
+    pages: "p.112-113"

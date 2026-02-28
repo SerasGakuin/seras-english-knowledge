@@ -1,0 +1,78 @@
+sentences:
+  - id: "ny-42-s1"
+    section_id: "Ny_42"
+    drill: 42
+    number: 1
+    role: "exercise"
+    english: "Chopik says he isn't suggesting we ignore our families, but that friends make us feel better."
+    japanese: "チョピックは，家族を無視すべきだと提案しているのではなく，友人のほうが気分をよくしてくれると言っている。"
+    notes: "出典: 藤女子大学"
+
+  - id: "ny-42-s2"
+    section_id: "Ny_42"
+    drill: 42
+    number: 2
+    role: "exercise"
+    english: "With friends you are more likely to do activities — they provide an outlet."
+    japanese: "友人と一緒にいる場合は，さまざまな活動をする可能性がより高い。つまり，友人は，はけ口を提供してくれるのだ。"
+    notes: "出典: 藤女子大学"
+
+  - id: "ny-42-s3"
+    section_id: "Ny_42"
+    drill: 42
+    number: 3
+    role: "exercise"
+    english: "You can say things to friends and they are less judgmental."
+    japanese: "友人には色々なことを言えるし，友人は家族ほどには批判的ではない。"
+    notes: "出典: 藤女子大学"
+
+sentence_structures:
+  - sentence_id: "ny-42-s1"
+    label: "overall"
+    value: "S V O"
+
+  - sentence_id: "ny-42-s1"
+    label: "details"
+    value: "{S}Chopik(S) {V}says(V) {O}[(that省略) he isn't suggesting [(that省略) we ignore our families], but [that(従接) friends make us feel better]](O:not A but B構造)"
+
+  - sentence_id: "ny-42-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 私達は家族のことを無視すべきだと提案しているのではなく，友人のほうが気分をよくしてくれる，とチョピックは言っている
+      ❷ 友人のほうが気分をよくしてくれる
+
+  - sentence_id: "ny-42-s2"
+    label: "overall"
+    value: "M S V C — S V O"
+
+  - sentence_id: "ny-42-s2"
+    label: "details"
+    value: "(With friends)(M:副詞句) {S}you(S) {V}are(V) {C}more likely (to do activities)(C) — {S}they(S) {V}provide(V) {O}an outlet(O)"
+
+  - sentence_id: "ny-42-s2"
+    label: "partial_translations"
+    value: |
+      ❸ 友達と一緒なら，様々な活動をする可能性が高い。つまり友人は，はけ口を提供してくれる
+
+  - sentence_id: "ny-42-s3"
+    label: "overall"
+    value: "S V O and S V C"
+
+  - sentence_id: "ny-42-s3"
+    label: "details"
+    value: "{S}You(S) {V}can say(V) {O}things(O) (to friends)(M:副詞句) and {S}they(S) {V}are(V) {C}less judgmental(C)"
+
+  - sentence_id: "ny-42-s3"
+    label: "partial_translations"
+    value: |
+      ❹ 友人には色々なことを言えるし，友人は家族ほどには批判的ではない
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-42-s1"
+    node_id: "nst-009"
+
+  - sentence_id: "ny-42-s2"
+    node_id: "nst-009"
+
+  - sentence_id: "ny-42-s3"
+    node_id: "nst-009"

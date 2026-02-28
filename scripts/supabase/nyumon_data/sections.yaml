@@ -400,19 +400,31 @@ sections:
     title: "that節"
     pages: "p.108-109"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: that は全部で3つある。それぞれの that の後ろは完全な文？
+      一言: 竹岡の「意志の力」エピソード — 「もうアカン」と思っても「なにくそ，負けるものか」と頑張ること
+      that節の4つの働き表（目的語/補語/主語/同格）を掲載
+      that判別法: that節中が完全な文かどうか → 不完全=関係代名詞 / 完全=接続詞or関係副詞
   - id: "Ny_42"
     book: "入門英文問題精講"
     title: "thatの省略"
     pages: "p.110-111"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: but の後ろに that があるということは……
+      一言: 家族と友人の関係 — 「家族だから」という理由で他人には言わないことを言ってしまう
+      not A but B 構造の樹形図を掲載（says の目的語分岐）
+      suggest の2義（示唆/提案）と that節内の should+原形不定詞ルール
   - id: "Ny_43"
     book: "入門英文問題精講"
     title: "従属接続詞that(同格)"
     pages: "p.112-113"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: that の後ろは完全な文？ 不完全な文？
+      一言: fears that S+V は同格の説明だけでなく、動詞 fear の名詞構文とも見なせる
+      同格のthatを取る名詞の一覧（fact/truth/rumor/news/claim/idea/thought/belief/demand/feeling/anxiety）を掲載
+      be afraid that / be sure that: 本来の of が脱落するパターン
   - id: "Ny_44"
     book: "入門英文問題精講"
     title: "節＋節①"
@@ -755,6 +767,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_40"
     node_id: "nst-007"
+    seq: 1
+  - section_id: "Ny_41"
+    node_id: "nst-008"
+    seq: 1
+  - section_id: "Ny_42"
+    node_id: "nst-009"
+    seq: 1
+  - section_id: "Ny_43"
+    node_id: "nst-010"
     seq: 1
 
 section_prerequisites: []

@@ -1,0 +1,55 @@
+sentences:
+  - id: "ny-41-s1"
+    section_id: "Ny_41"
+    drill: 41
+    number: 1
+    role: "exercise"
+    english: "Willpower is a mysterious force that helps us control our actions and achieve our goals."
+    japanese: "意志の力は，私達が自分の行動を制御し目標を達成するのに役立つ不思議な力である。"
+    notes: "出典: 東京経済大学\n* willpower「意志の力」（問題文の語彙注釈）"
+
+  - id: "ny-41-s2"
+    section_id: "Ny_41"
+    drill: 41
+    number: 2
+    role: "exercise"
+    english: "Psychologists who believe that willpower is a limited resource say using up our willpower is the main reason that some of us fail to achieve our goals."
+    japanese: "意志の力は有限の資質であると信じている心理学者は，意志の力を使い尽くすことが，私達の中で自分の目標を達成できない者がいることの主な理由であると言う。"
+    notes: "出典: 東京経済大学"
+
+sentence_structures:
+  - sentence_id: "ny-41-s1"
+    label: "overall"
+    value: "S V C"
+
+  - sentence_id: "ny-41-s1"
+    label: "details"
+    value: "{S}Willpower(S) {V}is(V) {C}a mysterious force(C) [that(関代) helps us (control our actions and achieve our goals)](M:関係代名詞節)"
+
+  - sentence_id: "ny-41-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 〜に役立つ不思議な力だ
+      ❷ 私達が自分の行動を制御し目標を達成するのに役立つ
+
+  - sentence_id: "ny-41-s2"
+    label: "overall"
+    value: "S V O"
+
+  - sentence_id: "ny-41-s2"
+    label: "details"
+    value: "{S}Psychologists(S) [who believe [that(従接) willpower is a limited resource]](M:関係代名詞節) {V}say(V) {O}[(that省略) (using up our willpower)(S:動名詞句) is the main reason [that(関副) some of us fail to achieve our goals]](O:that節)"
+
+  - sentence_id: "ny-41-s2"
+    label: "partial_translations"
+    value: |
+      ❸ 意志の力は有限の資質であると信じている
+      ❹ 意志の力を使い尽くすことは，…な主な理由であると言う
+      ❺ 自分の目標を達成できない者がいることの主な理由
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-41-s1"
+    node_id: "nst-008"
+
+  - sentence_id: "ny-41-s2"
+    node_id: "nst-008"
