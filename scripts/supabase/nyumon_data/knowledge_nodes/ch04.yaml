@@ -36,6 +36,86 @@ knowledge_nodes:
       ❸（問34）where: 間接疑問「どこに問題があるか」、または関係副詞「問題があるところ」。
         identify の目的語になる名詞のかたまり。
 
+  - id: "nst-002"
+    name: "相関語句"
+    category: "接続詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❷〔接続詞〕（問35）
+      ■ 相関語句（相関接続詞）: 副詞のような働きをする。
+        - both A and B:「AもBも」。動詞は複数主語に合わせる。
+        - either A or B:「AかBか」。
+        - neither A nor B:「AもBもない」。動詞はBに合わせる。
+        - not only A but (also) B:「AだけでなくBも」（both A and B に近い）。
+        - A rather than B:「Bではなくむしろ A」。動詞はAに合わせる。
+      ■ 3つ以上の並列: 〈neither A, B, nor C〉「AでもBでもCでもない」の形もある。
+        本文: neither take up much space, eat much food, nor release much greenhouse gas
+        → 3つの動詞句（take up / eat / release）が並列。
+      ■ 主語になったときの注意:
+        Both you and he are ...（複数に合わせる）
+        Neither you nor she has ...（Bに合わせる）
+      ❶（問35）Raising insects: 動名詞が主語。can は「〜な可能性がある」。
+      ❸（問35）making ... の分詞構文: 文末に置かれた分詞構文の意味上の主語は
+        (1) 前の文の主語、または (2) 前の文全体か一部。
+        本文: (2)の「前の文全体が主語」。making them an ideal alternative food
+        =「そのことによってそれらは理想的な代替食になる」。
+      ❹（問35）benefits of using: 同格関係を示す of。「〜という」と訳す。
+        use O as C =「OをCとして利用する」。
+        The evidence の the: 今まで述べてきた内容を受ける the。
+
+  - id: "nst-003"
+    name: "譲歩のmay...but"
+    category: "接続詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❶〔助動詞〕〔接続詞〕（問36）
+      ■ may の譲歩用法:
+        may は「〜かもしれない」（推量）だけでなく「譲歩」を示すことがある。
+        英文法の「譲歩」: 自分の主張を有利に進めるために、あらかじめ相手が
+        言いそうな反論を先に述べてしまうこと。
+        may を見たら「あとに but がないかな？」と思うことが大切。
+      ■ 譲歩を示す他の目印:
+        - It is true that S+V「SVは本当だ」
+        - certainly「確かに」
+      ■ but + 従属接続詞の語順:
+        but の直後に従属接続詞節（so long as ~）が挿入される。
+        理由: 従属接続詞節を後ろに置くと、前の文にも影響する可能性があるため。
+        〈and/but + 接続詞 + S'V', SV〉の形が適切。
+      ■ so long as 〜 =「〜な限りは」。3語で1つの接続詞。
+      ❷（問36）trying to figure something out: 分詞構文。「…しながら」の意味。
+        文尾の (V)ing は副詞の働き。while (V)ing の while が省略された形とも考えられる。
+        while (V)ing の場合、(V)ing が中心的な動作であることを明確に示す。
+      ❸（問36）so long as の位置: but の直後に挿入。
+        参考書内参照: →問62はこの続きの英文。
+
+  - id: "nst-004"
+    name: "従属接続詞（副詞節）"
+    category: "接続詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❸〔接続詞〕（問37）
+      ■ 従属接続詞: 後ろの文を副詞節にまとめる働き。主節に付加する。
+        名詞節を作るもの（that, whether, if）と副詞節を作るものがある。
+      ■ 副詞節を作る主な従属接続詞:
+        時: when / as「〜するときに」、while「〜する間に」、until[till]「〜するまで」、since「〜して以降」
+        理由: because / since / as「なぜなら〜」
+        条件: if「もし〜なら」、unless「〜の場合を除いて」
+        譲歩: though[although]「〜だけれども」
+      ■ as の3つの意味（文脈で判断）:
+        (1) 様態「〜のように」
+        (2) 時「〜しながら」
+        (3) 理由「〜なので」
+        基本の意味は「だいたい等しい」。
+      ■ while: 文脈によって譲歩や対比の意味にもなる。
+      ❶（問37）the AI-based computer program AlphaGo:
+        the AI-based computer program と AlphaGo を並べて書く同格表現。全体で1つの名詞（主語）。
+      ❷（問37）developed by DeepMind: 過去分詞。by があるので受動の意味。
+        主語の直後にコンマで挟まれた現在分詞・過去分詞は分詞構文の扱い。
+        shocked が本文の中心の動詞。shock は他動詞「〜に衝撃を与える」。
+      ❹（問37）that requires deep insight: 主格の関係代名詞。
+        先行詞は the ancient board game（＝碁）。
+        〈the＋名詞＋関係代名詞節〉で「〜の唯一の…」の意味になることがある。
+
 understanding_goals:
   - node_id: "nst-001"
     seq: 1
@@ -52,6 +132,33 @@ understanding_goals:
   - node_id: "nst-001"
     seq: 5
     goal: "修飾語が並列全体にかかるか最後のみにかかるかを判断できる"
+  - node_id: "nst-002"
+    seq: 1
+    goal: "5つの相関語句（both~and, either~or, neither~nor, not only~but also, A rather than B）の形と意味を列挙できる"
+  - node_id: "nst-002"
+    seq: 2
+    goal: "相関語句が主語になったときの動詞の数の合わせ方を説明できる"
+  - node_id: "nst-002"
+    seq: 3
+    goal: "neither A, B, nor C のように3つ以上の要素が並列されるパターンを識別できる"
+  - node_id: "nst-003"
+    seq: 1
+    goal: "may の譲歩用法を認識し、後続の but を予測できる"
+  - node_id: "nst-003"
+    seq: 2
+    goal: "英文法における「譲歩」の概念を説明できる"
+  - node_id: "nst-003"
+    seq: 3
+    goal: "but の直後に従属接続詞が挿入される語順パターンを理解できる"
+  - node_id: "nst-004"
+    seq: 1
+    goal: "従属接続詞が後ろの文を副詞節にまとめる働きを理解できる"
+  - node_id: "nst-004"
+    seq: 2
+    goal: "主な副詞節を作る従属接続詞を意味のカテゴリ別（時/理由/条件/譲歩）に列挙できる"
+  - node_id: "nst-004"
+    seq: 3
+    goal: "when 節が副詞節として文に追加情報を与える構造を把握できる"
 
 check_points:
   - node_id: "nst-001"
@@ -74,9 +181,51 @@ check_points:
     seq: 5
     question: "she saw the poverty of her people and the hard lives of so many women who were fighting... の最初の and は何をつないでいるか？"
     answer: "the poverty of her people と the hard lives of so many women をつないでいる。共に saw の目的語。who 以下は so many women のみを修飾（her people の後にコンマがないため）。"
+  - node_id: "nst-002"
+    seq: 1
+    question: "neither ~ nor が主語になったとき、動詞はどちらに合わせるか？"
+    answer: "B（nor の後ろ）に合わせる。例: Neither you nor she has to go.（she に合わせて has）。一方、both A and B は複数扱いで are。"
+  - node_id: "nst-002"
+    seq: 2
+    question: "本文の neither take up much space, eat much food, nor release much greenhouse gas の構造は？"
+    answer: "〈neither A, B, nor C〉で3つの動詞句が並列。take up / eat / release の3つ。「あまり場所も取らないし、あまりエサも食べないし、またあまり温室効果ガスを出さない」。"
+  - node_id: "nst-002"
+    seq: 3
+    question: "5つの相関語句を列挙し、それぞれの意味を述べよ。"
+    answer: "both A and B「AもBも」、either A or B「AかBか」、neither A nor B「AもBもない」、not only A but (also) B「AだけでなくBも」、A rather than B「Bではなくむしろ A」。"
+  - node_id: "nst-003"
+    seq: 1
+    question: "We may sit and stare ... but so long as we're still trying, we're likely to fail. の may はどのような用法か？"
+    answer: "譲歩の may。推量「〜かもしれない」ではなく、あとに but が来ることで「〜するかもしれないが」と相手の反論を先に述べる譲歩表現。may を見たら but がないか探すことが大切。"
+  - node_id: "nst-003"
+    seq: 2
+    question: "譲歩を示す目印として may 以外に何があるか？"
+    answer: "It is true that S+V「SVは本当だ」、certainly「確かに」。いずれも後ろに but が来て本題（自分の主張）が続く。"
+  - node_id: "nst-003"
+    seq: 3
+    question: "but so long as we're still trying, we're likely to fail. で so long as 節が but の直後に置かれている理由は？"
+    answer: "従属接続詞節を後ろに置くと前の文にも影響する可能性があるため。〈but + 接続詞 + S'V', SV〉の語順にすることで so long as 節が we're likely to fail にのみかかることを明確にする。"
+  - node_id: "nst-004"
+    seq: 1
+    question: "shocked the world when it defeated ... の when はどのような働きか？"
+    answer: "従属接続詞。when 以下の文を副詞節にまとめ、主節（shocked the world）に「〜するときに」という時の情報を付加する。when 節は修飾語（M）。"
+  - node_id: "nst-004"
+    seq: 2
+    question: "副詞節を作る従属接続詞を4つのカテゴリに分類せよ。"
+    answer: "時: when/as/while/until/since。理由: because/since/as。条件: if/unless。譲歩: though/although。"
+  - node_id: "nst-004"
+    seq: 3
+    question: "接続詞 as が文脈によって持つ3つの意味は何か？"
+    answer: "(1) 様態「〜のように」、(2) 時「〜しながら」、(3) 理由「〜なので」。基本の意味は「だいたい等しい」。文脈から判断する。"
 
 node_prerequisites:
   - node_id: "nst-001"
+    prerequisite_id: "nbk-001"
+  - node_id: "nst-002"
+    prerequisite_id: "nbk-001"
+  - node_id: "nst-003"
+    prerequisite_id: "nbk-001"
+  - node_id: "nst-004"
     prerequisite_id: "nbk-001"
 
 knowledge_references:
@@ -92,3 +241,15 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_34"
     pages: "p.94-95"
+  - node_id: "nst-002"
+    book: "入門英文問題精講"
+    section_id: "Ny_35"
+    pages: "p.96-97"
+  - node_id: "nst-003"
+    book: "入門英文問題精講"
+    section_id: "Ny_36"
+    pages: "p.98-99"
+  - node_id: "nst-004"
+    book: "入門英文問題精講"
+    section_id: "Ny_37"
+    pages: "p.100-101"

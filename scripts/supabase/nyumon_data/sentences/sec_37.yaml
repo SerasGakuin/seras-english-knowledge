@@ -1,0 +1,26 @@
+sentences:
+  - id: "ny-37-s1"
+    section_id: "Ny_37"
+    drill: 37
+    number: 1
+    role: "exercise"
+    english: "In March, the AI-based computer program AlphaGo, developed by DeepMind, shocked the world when it defeated South Korean go grandmaster Lee Sedol in a five-game match of the ancient board game that requires deep insight."
+    japanese: "3月，ディープマインド社によって開発された人工知能を基にしたコンピュータプログラムであるアルファ碁は，深い洞察力を必要とするその古くからのボードゲームの五番勝負で韓国の碁の名人であるイ・セドルを打ち破り世界に衝撃を与えた。"
+    notes: "出典: 鳥取大学。* AlphaGo「アルファ碁：囲碁の人工知能ソフト」（問題文の語彙注釈）"
+
+sentence_structures:
+  - sentence_id: "ny-37-s1"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "ny-37-s1"
+    label: "details"
+    value: "(In March)(M:副詞句), {S}the AI-based computer program AlphaGo, (developed by DeepMind)(分詞構文), {V}shocked {O}the world [{従接}when {S}it {V}defeated {O}South Korean go grandmaster Lee Sedol (in a five-game match (of the ancient board game [{S}that {V}requires {O}deep insight](関係代名詞節))(M:形容詞句))(M:副詞句)](when節/副詞節)."
+  - sentence_id: "ny-37-s1"
+    label: "partial_translations"
+    value: |
+      ❷ ディープマインド社によって開発されたアルファ碁は世界に衝撃を与えた
+      ❸ それが韓国の碁の名人イ・セドルを打ち破ったときに
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-37-s1"
+    node_id: "nst-004"

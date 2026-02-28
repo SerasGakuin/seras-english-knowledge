@@ -1,0 +1,62 @@
+sentences:
+  - id: "ny-35-s1"
+    section_id: "Ny_35"
+    drill: 35
+    number: 1
+    role: "exercise"
+    english: "Raising insects can be environmentally friendly as they neither take up much space, eat much food, nor release much greenhouse gas."
+    japanese: "昆虫はあまり場所も取らないし，あまりエサも食べないし，またあまり温室効果ガスを出さないため，それらを育てることは環境にやさしい可能性がある。"
+    notes: ""
+  - id: "ny-35-s2"
+    section_id: "Ny_35"
+    drill: 35
+    number: 2
+    role: "exercise"
+    english: "Most are able to survive with little water, making them an ideal alternative food for locations with severe water shortages."
+    japanese: "大半の昆虫はほとんど水がなくても生きのびることができるので，厳しい水不足の場所では理想的な代替食になる。"
+    notes: ""
+  - id: "ny-35-s3"
+    section_id: "Ny_35"
+    drill: 35
+    number: 3
+    role: "exercise"
+    english: "The evidence shows that there are many benefits of using insects as food."
+    japanese: "そうした証拠が昆虫を食料として使うことの利点が多いことを示している。"
+    notes: ""
+
+sentence_structures:
+  - sentence_id: "ny-35-s1"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "ny-35-s1"
+    label: "details"
+    value: "{S}(Raising insects)(動名詞) {V}can be {C}environmentally friendly [{従接}as {S}they neither {V}take up {O}much space, {V}eat {O}much food, {等接}nor {V}release {O}much greenhouse gas](as節/副詞節)."
+  - sentence_id: "ny-35-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 昆虫を育てることは〜になり得る
+      ❷ 昆虫はあまり場所も取らないし，あまりエサも食べないし，またあまり温室効果ガスを出さないので
+  - sentence_id: "ny-35-s2"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "ny-35-s2"
+    label: "details"
+    value: "{S}Most {V}are able to survive (with little water)(M:副詞句), (making them an ideal alternative food (for locations)(M:形容詞句) (with severe water shortages)(M:形容詞句))(分詞構文)."
+  - sentence_id: "ny-35-s2"
+    label: "partial_translations"
+    value: |
+      ❸ 昆虫の大半は水がほとんどなくても生き残ることができる，そのことによってそれらは理想的な代替食になる
+  - sentence_id: "ny-35-s3"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "ny-35-s3"
+    label: "details"
+    value: "{S}The evidence {V}shows {O}[{従接}that there {V}are {S}many benefits (of using insects as food)(M:形容詞句)](that節/目的語)."
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-35-s1"
+    node_id: "nst-002"
+  - sentence_id: "ny-35-s2"
+    node_id: "nst-002"
+  - sentence_id: "ny-35-s3"
+    node_id: "nst-002"

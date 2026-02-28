@@ -350,19 +350,26 @@ sections:
     title: "相関語句"
     pages: "p.96-97"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: neither は何とセットになっている？
+      一言: この文の続きに「ただし，昆虫を食べることに関する人々の意識を変えるには時間がかかるかもしれない」とある。納得。
   - id: "Ny_36"
     book: "入門英文問題精講"
     title: "may…but"
     pages: "p.98-99"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: may を見たら何かを探そう
+      一言: 意識的に解決できないことに出会ったら一旦意識的な努力をやめなさいという話。問題62の英文はこの続き。
+      参考書内参照: →問62
   - id: "Ny_37"
     book: "入門英文問題精講"
     title: "従属接続詞when"
     pages: "p.100-101"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: 何がショックだったの？
+      一言: 将棋でもAIの予想は裏切られた。今後AIが人間を超越するかもしれない。AIに負けない何かを身につけることが大切。
   - id: "Ny_38"
     book: "入門英文問題精講"
     title: "従属接続詞although"
@@ -723,6 +730,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_34"
     node_id: "nst-001"
+    seq: 1
+  - section_id: "Ny_35"
+    node_id: "nst-002"
+    seq: 1
+  - section_id: "Ny_36"
+    node_id: "nst-003"
+    seq: 1
+  - section_id: "Ny_37"
+    node_id: "nst-004"
     seq: 1
 
 section_prerequisites: []

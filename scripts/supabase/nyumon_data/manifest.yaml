@@ -486,31 +486,31 @@ sections:
     title: "相関語句"
     type: "exercise"
     pages: "p.96-97"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
   Ny_36:
     title: "may…but"
     type: "exercise"
     pages: "p.98-99"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
   Ny_37:
     title: "従属接続詞when"
     type: "exercise"
     pages: "p.100-101"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
   Ny_38:
     title: "従属接続詞although"
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 47
+  completed: 50
   in_progress: 0
-  not_started: 38
-  total_knowledge_nodes: 37
-  total_sentences: 141
+  not_started: 35
+  total_knowledge_nodes: 40
+  total_sentences: 146

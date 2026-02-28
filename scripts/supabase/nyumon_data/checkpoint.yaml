@@ -1,36 +1,36 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T10:00:00"
+updated_at: "2026-03-02T12:00:00"
 book: "入門英文問題精講"
 book_slug: "nyumon"
 
 current_state:
   phase: "Phase 2E"
-  current_section: "Ny_35"
+  current_section: "Ny_38"
   current_step: "Step 1"
-  last_completed_section: "Ny_34"
+  last_completed_section: "Ny_37"
   last_completed_gate: 5
 
 progress:
   total_sections: 85
-  completed: 47
+  completed: 50
   in_progress: 0
-  remaining: 38
-  total_nodes: 37
-  total_sentences: 141
+  remaining: 35
+  total_nodes: 40
+  total_sentences: 146
 
 recent_decisions:
-  - "Ny_29+30+31: whatの用法3問を nks-006 に統合（①②③連番テーマ、比率0.33）"
   - "Ny_32+33+34: 等位接続詞and①②③を nst-001 に統合（①②③連番テーマ、比率0.33）"
+  - "Ny_35/36/37: 異なるテーマ → 各1ノード（nst-002, nst-003, nst-004）、比率1.0"
 
 active_concerns:
   - "nbk-001, nbk-002 は tagged sentences なし（基本講義ノードでは想定内）"
   - "nsv-003 のタグ付き英文が1文のみ"
 
 next_actions:
-  - "Phase 2E Batch 17: Ny_35（相関語句）→ Ny_36（may…but）→ Ny_37（従属接続詞when）"
-  - "Ny_35-37は異なるテーマ → 各1ノード（nst-002, nst-003, nst-004）の可能性"
+  - "Phase 2E Batch 18: Ny_38（従属接続詞although）→ Ny_39（従属接続詞while）→ Ny_40（従属接続詞whether）"
+  - "3セクション完了 → 構造化共通ワークフロー.md 再読込済み"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

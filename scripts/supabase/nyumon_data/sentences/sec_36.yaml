@@ -1,0 +1,26 @@
+sentences:
+  - id: "ny-36-s1"
+    section_id: "Ny_36"
+    drill: 36
+    number: 1
+    role: "exercise"
+    english: "We may sit and stare at the computer screen or our notes trying to figure something out, but so long as we're still trying, we're likely to fail."
+    japanese: "私達は座ってコンピュータのスクリーンやメモを見つめそして何か理解しようと頑張るかもしれないが，そうしたとしても，そのような試みをしている限り，失敗してしまう可能性が高い。"
+    notes: "出典: 埼玉大学"
+
+sentence_structures:
+  - sentence_id: "ny-36-s1"
+    label: "overall"
+    value: "S V 等接 V, 等接 S V C"
+  - sentence_id: "ny-36-s1"
+    label: "details"
+    value: "{S}We {V}may sit {等接}and {V}stare (at the computer screen {等接}or our notes)(M:副詞句) (trying to figure something out)(分詞構文), {等接}but [{従接}so long as {S}we {V}'re still trying](副詞節), {S}we {V}'re {C}likely (to fail)(不定詞)."
+  - sentence_id: "ny-36-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 私達は座ってコンピュータのスクリーンやメモを見つめそして何か理解しようと頑張るかもしれない（がそうしたとしても）
+      ❸ 私達が試みている限り，私達は失敗する可能性が高い
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-36-s1"
+    node_id: "nst-003"
