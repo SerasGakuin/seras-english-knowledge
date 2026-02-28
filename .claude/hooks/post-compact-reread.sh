@@ -1,15 +1,6 @@
 #!/bin/bash
 # コンパクション後に構造化作業の再読込プロトコルをリマインドする
 
-# checkpoint.yaml が存在する参考書を検出
-CHECKPOINT=""
-for f in scripts/supabase/*_data/checkpoint.yaml; do
-  if [ -f "$f" ]; then
-    CHECKPOINT="$f"
-    break
-  fi
-done
-
 cat <<'EOF'
 
 ╔══════════════════════════════════════════════════════════════╗
@@ -18,7 +9,7 @@ cat <<'EOF'
 ║                                                              ║
 ║  作業を続行する前に、以下を必ず順番に読むこと:              ║
 ║                                                              ║
-║  1. checkpoint.yaml（今どこにいるか）                        ║
+║  1. 全 checkpoint.yaml（今どこにいるか）                    ║
 ║  2. docs/design/構造化共通ワークフロー.md（手順・品質ゲート） ║
 ║  3. 作業中の参考書別設計書（ノード抽出・英文抽出ルール）    ║
 ║                                                              ║
@@ -28,9 +19,17 @@ cat <<'EOF'
 
 EOF
 
-if [ -n "$CHECKPOINT" ]; then
-  echo "検出されたチェックポイント: $CHECKPOINT"
-  echo "---"
-  cat "$CHECKPOINT"
-  echo ""
+# 全参考書の checkpoint.yaml を表示
+FOUND=0
+for f in scripts/supabase/*_data/checkpoint.yaml; do
+  if [ -f "$f" ]; then
+    FOUND=1
+    echo "=== $f ==="
+    cat "$f"
+    echo ""
+  fi
+done
+
+if [ "$FOUND" -eq 0 ]; then
+  echo "(checkpoint.yaml が見つかりませんでした)"
 fi
