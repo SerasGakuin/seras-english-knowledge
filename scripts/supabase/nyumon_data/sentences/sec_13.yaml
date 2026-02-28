@@ -1,0 +1,26 @@
+sentences:
+  - id: "ny-13-s1"
+    section_id: "Ny_13"
+    drill: 13
+    number: 1
+    role: "exercise"
+    english: "Albert was reading Kant and attending occasional lectures at the University of Pavia for pleasure, without being registered there or having to think about exams."
+    japanese: "アルベルトはカントを読んだり，そして履修登録を出さず試験について考える必要もなく，楽しみのためにパヴィア大学での時おりの授業を聴講したりしていた。"
+    notes: "出典: 信州大学。* Albert「アルベルト・アインシュタイン」（問題文の語彙注釈）。* Kant「イマヌエル・カント」（問題文の語彙注釈）。* the University of Pavia「パヴィア大学」（問題文の語彙注釈）"
+
+sentence_structures:
+  - sentence_id: "ny-13-s1"
+    label: "overall"
+    value: "S V O 等接 V O M M M"
+  - sentence_id: "ny-13-s1"
+    label: "details"
+    value: "{S}Albert {V}was reading {O}Kant {等接}and {V}attending {O}occasional lectures (at the University (of Pavia)(M:形容詞句))(M:形容詞句) (for pleasure)(M:副詞句), (without (being registered there)(動名詞/受動態) {等接}or (having to think (about exams)(M:副詞句))(動名詞))(M:副詞句/前置詞+動名詞)."
+  - sentence_id: "ny-13-s1"
+    label: "partial_translations"
+    value: |
+      ❷ アルベルトはカントを読んだり時おりの講義に出席したりしていた
+      ❹ その大学に履修登録を出すことも，試験について考える必要もなく
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-13-s1"
+    node_id: "njd-002"

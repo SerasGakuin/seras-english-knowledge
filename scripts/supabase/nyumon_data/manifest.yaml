@@ -252,31 +252,31 @@ sections:
     title: "〜ingの働き（動名詞）①"
     type: "exercise"
     pages: "p.50-51"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
   Ny_13:
     title: "〜ingの働き（動名詞）②"
     type: "exercise"
     pages: "p.52-53"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
   Ny_14:
     title: "〜ingの働き（動名詞か現在分詞か）①"
     type: "exercise"
     pages: "p.54-55"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
   Ny_15:
     title: "〜ingの働き（動名詞か現在分詞か）②"
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 25
+  completed: 28
   in_progress: 0
-  not_started: 60
-  total_knowledge_nodes: 24
-  total_sentences: 102
+  not_started: 57
+  total_knowledge_nodes: 27
+  total_sentences: 107

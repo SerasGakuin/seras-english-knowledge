@@ -177,19 +177,22 @@ sections:
     title: "〜ingの働き（動名詞）①"
     pages: "p.50-51"
     type: "exercise"
-    notes: ""
+    notes: |
+      一言: 「若者にとって大学へ行きよい成績を収めることが将来のキャリアに重要だ」というのは当たり前だが，「よい成績を収める」のは実現が難しい。
   - id: "Ny_13"
     book: "入門英文問題精講"
     title: "〜ingの働き（動名詞）②"
     pages: "p.52-53"
     type: "exercise"
-    notes: ""
+    notes: |
+      一言: 大学に入ったらぜひ単位と無関係の授業を聴講してみてほしい。楽しいですよ。
   - id: "Ny_14"
     book: "入門英文問題精講"
     title: "〜ingの働き（動名詞か現在分詞か）①"
     pages: "p.54-55"
     type: "exercise"
-    notes: ""
+    notes: |
+      一言: 熱帯雨林で生き抜くには技術の改良・革新と高度な狩猟技術を要する。彼らはどのように利用し生きていたのか。
   - id: "Ny_15"
     book: "入門英文問題精講"
     title: "〜ingの働き（動名詞か現在分詞か）②"
@@ -628,6 +631,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_11"
     node_id: "nsv-010"
+    seq: 1
+  - section_id: "Ny_12"
+    node_id: "njd-001"
+    seq: 1
+  - section_id: "Ny_13"
+    node_id: "njd-002"
+    seq: 1
+  - section_id: "Ny_14"
+    node_id: "njd-003"
     seq: 1
 
 section_prerequisites: []

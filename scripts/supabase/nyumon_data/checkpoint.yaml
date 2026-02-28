@@ -1,46 +1,36 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T01:00:00"
+updated_at: "2026-03-02T02:00:00"
 book: "入門英文問題精講"
 book_slug: "nyumon"
 
 current_state:
   phase: "Phase 2C"
-  current_section: "Ny_12"
+  current_section: "Ny_15"
   current_step: "Step 1"
-  last_completed_section: "Ny_11"
+  last_completed_section: "Ny_14"
   last_completed_gate: 5
 
 progress:
   total_sections: 85
-  completed: 25
+  completed: 28
   in_progress: 0
-  remaining: 60
-  total_nodes: 24
-  total_sentences: 102
+  remaining: 57
+  total_nodes: 27
+  total_sentences: 107
 
 recent_decisions:
-  - "Ny_11: ny-11-s1 は関係代名詞 that を練習する文 → nks-001 にタグ"
-  - "Ny_11: ny-11-s3, s4（❺解説中の例文 While/If省略パターン）→ nsv-007 にタグ"
-  - "Ny_11: ❺(when performed省略)は nsv-007 と同一概念 → notes 内で相互参照記録"
-  - "Ny_11: 出題大学の記載なし（原本に記載がないため）"
+  - "Ny_12: njd-001 に例文 Jam and bread も登録（A and B 単数扱いの例として適切）"
+  - "Ny_13: She plays Mozart well. は登録しない（固有名詞が作品を指す概念に適切なタグなし）"
+  - "Ny_14: ny-14-s2 は for A to V パターン → nbk-013（to不定詞の用法）にタグ"
 
 active_concerns:
-  - "nbk-001, nbk-002 は tagged sentences なし（WARNING レベル。基本講義ノードでは想定内）"
-  - "nsv-003 のタグ付き英文が1文のみ（ny-03-s1）。テスト生成時に素材が少ない"
-
-chapter_completion:
-  chapter: "第1章 主語と動詞の把握"
-  sections: "Ny_01〜Ny_11（11セクション）"
-  nodes_created: "nsv-001〜nsv-010（10ノード）"
-  sentences_created: "67文（exercise + example）"
-  note: "第1章完了。Phase 2B 終了。次は Phase 2C（第2章 準動詞）"
+  - "nbk-001, nbk-002 は tagged sentences なし（基本講義ノードでは想定内）"
+  - "nsv-003 のタグ付き英文が1文のみ"
 
 next_actions:
-  - "Phase 2C Batch 9: Ny_12（動名詞①）→ Ny_13（動名詞②）→ Ny_14（動名詞か現在分詞か①）"
-  - "出力先: scripts/supabase/nyumon_data/knowledge_nodes/ch02.yaml（新規作成）"
-  - "ノードID: njd-001〜"
+  - "Phase 2C Batch 10: Ny_15（動名詞か現在分詞か②）→ Ny_16（分詞構文①）→ Ny_17（分詞構文②）"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

@@ -1,0 +1,178 @@
+knowledge_nodes:
+  - id: "njd-001"
+    name: "動名詞の主語用法"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❸〔動名詞〕
+      ■ V-ingが文の主語の位置にある場合、動名詞（動詞を名詞にまとめる働き）。
+        例: going to college and doing well is ... → going と doing は動名詞。
+        後ろに is があるので、going ... well 全体が主語と確認できる。
+      ■ A and B のV-ing句が「ひとまとまり」の場合、単数扱い（動詞は is）。
+        一般にはA and Bは複数扱いだが、書き手がひとまとまりと判断した場合は単数。
+        例: Jam and bread is enough for my breakfast.「私の朝食はジャムを塗ったパンで十分です」
+      ■ go to college: college に冠詞がないのは「学びのために通う」という抽象的な意味。
+        do well: 学校なら「成績がよい」、仕事なら「いい仕事をする」。
+      ❶ for は前置詞（for + 名詞）。〈for S + V〉なら接続詞（等位接続詞）。
+        接続詞の for は「というのも…だから」（= because）。
+        most は「大半の」であり「多くの」ではない。
+      ❷ though は副詞用法（ディスコースマーカー）。
+        (1) 両側にコンマで挿入 (2) 文末にコンマ付きで配置。
+        前に述べたことを弱めたり異なることを述べるときに使う。
+        英語では therefore/however 等が文中に挿入されるが、日本語ではつなぎ語は文頭に置く。
+      ❹ 文構造 SVC: the best way は補語。still は副詞「いまだに」。
+        to master the tools は way を修飾する形容詞用法の to不定詞。
+        tools に the がつくのは後ろに修飾語（needed for many careers）があり限定されるため。
+      ❺ needed は過去分詞（後置修飾）。文がすでにSVCで完結しているため過去形ではない。
+        for many careers は needed を修飾する副詞句。
+
+  - id: "njd-002"
+    name: "前置詞の目的語としての動名詞"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❹〔動名詞〕
+      ■ 前置詞の後ろは名詞 → V-ingが来れば動名詞。
+      ■ 受動態の動名詞: being + V-pp
+        例: being registered there = 「そこで登録されること」
+        受動態〈be + registered〉が動名詞化した形。
+      ■ have to の動名詞化: having to V
+        普通の助動詞は動名詞にできないが、have to は可能。
+        without having to V = 「Vする必要もなく」。
+      ■ 〈without A or B〉= 「AもBもなく」。
+      ❶ 大文字で始まる単語は固有名詞（地名・人名・作品名等）。
+        著者名が作品を指すことがある。例: She plays Mozart well.「彼女はモーツァルトを弾くのが上手い」
+      ❷ and は was reading と attending を接続。attending にも was を補って読む。
+        occasional = 「時おりの」（頻繁ではない）。
+      ❸ at the University of Pavia は形容詞句（lectures を修飾）。
+        for pleasure は副詞句（attending を修飾）。
+      ❺ without ... 全体は副詞（attending を修飾）。for pleasure を具体化した副詞句。
+      [図表: 樹形図 — reading/attending と without の修飾関係を示す（p.53）]
+
+  - id: "njd-003"
+    name: "動名詞と現在分詞の判別"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❶〔動名詞〕
+      ■ 〈名詞＋V-ing〉には2つの解釈がある:
+        (1) 現在分詞として名詞を後置修飾 → 「Vしている名詞」
+        (2) 動名詞で名詞が意味上の主語 → 「名詞がVすること」
+        意味の整合性で判断する。
+      ■ 動名詞と現在分詞の働き一覧:
+        | 種類 | 文中での働き | 文中での要素 |
+        | 動名詞 | 名詞になる | 主語、補語、動詞や前置詞の目的語 |
+        | 現在分詞 | 形容詞になる | 名詞を前や後ろから修飾する |
+        | 現在分詞 | 副詞になる | 分詞構文、SVOCのC |
+      ■ 準動詞は時制を持たない。「いつの時点のことか」は文脈で判断。
+        例: evidence for humans using ... → 証拠なので過去の話 → 「用いた」
+      ■ early = 「ある時間軸の前半」。early in the morning = 朝早く。本文では「最古の」。
+      ❷ 〈名詞＋名詞〉で前の名詞が後ろを修飾。
+        例: rainforest environments = 「熱帯雨林という環境」。
+        an enemy ship = 「敵の船」。
+      ❸ 〈be動詞＋from〉= 「～から来た」「～出身だ」。本文では「～のものだった」。
+      ❹ seem = 「～と思われる」。日本語では受動態的だが英語では受動態にしない。
+      ❺ 〈for A to V〉= 「AがVする」。for A は to不定詞の意味上の主語。
+        an unlikely place for early humans to live = 「初期の人間が住みそうにもない場所」。
+        for ... to live は an unlikely place を修飾する形容詞用法の to不定詞。
+
+understanding_goals:
+  - node_id: "njd-001"
+    seq: 1
+    goal: "V-ingが文の主語の位置にある場合、動名詞と判断できる"
+  - node_id: "njd-001"
+    seq: 2
+    goal: "動名詞句が2つ並列（A and B）でも「ひとまとまり」なら単数扱いになることを理解している"
+  - node_id: "njd-001"
+    seq: 3
+    goal: "動名詞と動詞の進行形を文の構造から区別できる"
+  - node_id: "njd-002"
+    seq: 1
+    goal: "前置詞の後にV-ingが来た場合、動名詞と判断できる"
+  - node_id: "njd-002"
+    seq: 2
+    goal: "受動態の動名詞（being + V-pp）の構造を理解している"
+  - node_id: "njd-002"
+    seq: 3
+    goal: "have to V の動名詞化（having to V）のパターンを認識できる"
+  - node_id: "njd-002"
+    seq: 4
+    goal: "without A or B の構文で A, B ともに動名詞であることを判別できる"
+  - node_id: "njd-003"
+    seq: 1
+    goal: "〈名詞＋V-ing〉を見たとき、動名詞と現在分詞の2つの可能性を検討できる"
+  - node_id: "njd-003"
+    seq: 2
+    goal: "意味の整合性で動名詞か現在分詞かを判別できる"
+  - node_id: "njd-003"
+    seq: 3
+    goal: "動名詞と現在分詞の文中での働きの違い（名詞 vs 形容詞/副詞）を説明できる"
+  - node_id: "njd-003"
+    seq: 4
+    goal: "準動詞が時制を持たないことを理解し、文脈から時制を判断できる"
+
+check_points:
+  - node_id: "njd-001"
+    seq: 1
+    question: "going to college and doing well is ... の going/doing は何か？ その判断根拠は？"
+    answer: "動名詞。後ろに is があるので、going ... well 全体が文の主語。動詞を名詞にまとめる働き → 動名詞。"
+  - node_id: "njd-001"
+    seq: 2
+    question: "A and B の動名詞句が主語の場合、動詞は常に複数扱いか？"
+    answer: "いいえ。一般にはA and Bは複数扱いだが、AとBが「ひとまとまり」と書き手が判断した場合は単数扱い（is）。例: Jam and bread is enough for my breakfast."
+  - node_id: "njd-001"
+    seq: 3
+    question: "文中のV-ingが動名詞なのか進行形の一部なのかを見極める方法は？"
+    answer: "be動詞の有無で判断。be動詞 + V-ingなら進行形。V-ingが主語・目的語・補語の位置にあれば動名詞。"
+  - node_id: "njd-002"
+    seq: 1
+    question: "前置詞の後にV-ingが来た場合、なぜ動名詞だと判断できるか？"
+    answer: "前置詞の後ろには名詞が必要。V-ingが名詞の働きをする → 動名詞。"
+  - node_id: "njd-002"
+    seq: 2
+    question: "without being registered there の being は何か？ 構造を説明せよ。"
+    answer: "受動態〈be + registered〉が動名詞化した形。前置詞 without の後は名詞が必要 → being registered は動名詞。there は副詞「そこで」。"
+  - node_id: "njd-002"
+    seq: 3
+    question: "having to think about exams の having は何か？ 構造を説明せよ。"
+    answer: "〈have to V〉が動名詞化した形。普通の助動詞は動名詞にできないが、have to は可能。without having to V = 「Vする必要もなく」。"
+  - node_id: "njd-003"
+    seq: 1
+    question: "evidence for modern humans using の using は動名詞か現在分詞か？ 判断理由は？"
+    answer: "動名詞。(1)現在分詞として humans を修飾すると「人類の証拠」となり意味不明。(2)動名詞として modern humans を意味上の主語と読むと「人類が利用した証拠」で意味が通る。"
+  - node_id: "njd-003"
+    seq: 2
+    question: "〈名詞＋V-ing〉を見たとき、どのような2つの可能性を検討すべきか？"
+    answer: "(1) 現在分詞として名詞を後置修飾（「Vしている名詞」）。(2) 動名詞で前の名詞が意味上の主語（「名詞がVすること」）。意味の整合性で判断する。"
+  - node_id: "njd-003"
+    seq: 3
+    question: "動名詞と現在分詞の文中での働きの違いは何か？"
+    answer: "動名詞は名詞の働き（主語・補語・目的語）。現在分詞は形容詞の働き（名詞修飾）または副詞の働き（分詞構文・SVOCのC）。"
+  - node_id: "njd-003"
+    seq: 4
+    question: "準動詞（動名詞・分詞）は時制を持つか？"
+    answer: "持たない。いつの時点のことかは文脈で判断する。例: evidence for humans using → 証拠の話なので過去 →「用いた」と訳す。"
+
+node_prerequisites:
+  - node_id: "njd-001"
+    prerequisite_id: "nbk-005"
+  - node_id: "njd-002"
+    prerequisite_id: "njd-001"
+  - node_id: "njd-002"
+    prerequisite_id: "nbk-009"
+  - node_id: "njd-003"
+    prerequisite_id: "njd-001"
+
+knowledge_references:
+  - node_id: "njd-001"
+    book: "入門英文問題精講"
+    section_id: "Ny_12"
+    pages: "p.50-51"
+  - node_id: "njd-002"
+    book: "入門英文問題精講"
+    section_id: "Ny_13"
+    pages: "p.52-53"
+  - node_id: "njd-003"
+    book: "入門英文問題精講"
+    section_id: "Ny_14"
+    pages: "p.54-55"

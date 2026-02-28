@@ -1,0 +1,43 @@
+sentences:
+  - id: "ny-12-s1"
+    section_id: "Ny_12"
+    drill: 12
+    number: 1
+    role: "exercise"
+    english: "For most young people, though, going to college and doing well is still the best way to master the tools needed for many careers."
+    japanese: "しかし，大半の若者にとっては，大学に通いよい成績をとることは，今でも多くの仕事にとって必要とされる道具を習得するための最善の方法だ。"
+    notes: "出典: 岡山大学"
+  - id: "ny-12-s2"
+    section_id: "Ny_12"
+    drill: 12
+    number: 2
+    role: "example"
+    english: "Jam and bread is enough for my breakfast."
+    japanese: "私の朝食はジャムを塗ったパンで十分です。"
+    notes: "❸の解説中の例文（A and B がひとまとまり→単数扱い）"
+
+sentence_structures:
+  - sentence_id: "ny-12-s1"
+    label: "overall"
+    value: "M M S V C"
+  - sentence_id: "ny-12-s1"
+    label: "details"
+    value: "(For most young people)(M:副詞句), though(M:挿入副詞), {S}(going to college {等接}and doing well)(S:動名詞句) {V}is still {C}the best way (to master the tools (needed (for many careers)(M:副詞句))(M:形容詞句/過去分詞))(M:形容詞句/to不定詞)."
+  - sentence_id: "ny-12-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 大半の若者にとって
+      ❸ 学校に通い，よい成績をとることは
+      ❺ 多くの仕事にとって必要とされる道具
+  - sentence_id: "ny-12-s2"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "ny-12-s2"
+    label: "details"
+    value: "{S}Jam and bread(S:ひとまとまりで単数扱い) {V}is {C}enough (for my breakfast)(M:副詞句)."
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-12-s1"
+    node_id: "njd-001"
+  - sentence_id: "ny-12-s2"
+    node_id: "njd-001"

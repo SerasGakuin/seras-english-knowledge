@@ -1,0 +1,41 @@
+sentences:
+  - id: "ny-14-s1"
+    section_id: "Ny_14"
+    drill: 14
+    number: 1
+    role: "exercise"
+    english: "The earliest evidence for modern humans using rainforest environments was from around 45,000 years ago in Niah Cave, Borneo."
+    japanese: "現生人類が熱帯雨林という環境を利用していたことの最古の証拠は，ボルネオのニア洞窟の中にあったおよそ45,000年前のものである。"
+    notes: "出典: お茶の水女子大学。* Niah Cave「ニア洞窟」（問題文の語彙注釈）"
+  - id: "ny-14-s2"
+    section_id: "Ny_14"
+    drill: 14
+    number: 2
+    role: "exercise"
+    english: "These regions seem an unlikely place for early humans to live."
+    japanese: "こうした地域は初期の人間が住んでいそうにはない場所のように思われる。"
+    notes: "出典: お茶の水女子大学"
+
+sentence_structures:
+  - sentence_id: "ny-14-s1"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "ny-14-s1"
+    label: "details"
+    value: "{S}The earliest evidence (for (modern humans)(意味上の主語) using rainforest environments)(M:形容詞句/前置詞+動名詞) {V}was (from around 45,000 years ago)(M:副詞句) (in Niah Cave, Borneo)(M:副詞句)."
+  - sentence_id: "ny-14-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 現生人類が熱帯雨林という環境を利用した最古の証拠は
+  - sentence_id: "ny-14-s2"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "ny-14-s2"
+    label: "details"
+    value: "{S}These regions {V}seem {C}an unlikely place (for early humans to live)(M:形容詞句/to不定詞の意味上の主語付き)."
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-14-s1"
+    node_id: "njd-003"
+  - sentence_id: "ny-14-s2"
+    node_id: "nbk-013"
