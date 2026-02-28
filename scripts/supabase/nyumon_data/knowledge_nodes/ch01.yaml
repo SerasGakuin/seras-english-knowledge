@@ -1,0 +1,66 @@
+knowledge_nodes:
+  - id: "nsv-001"
+    name: "前置詞句による主語の識別"
+    category: "主語と動詞の把握"
+    priority: "P1"
+    notes: |
+      Point分類: 〔副詞〕〔前置詞〕
+      ■ 文頭の〈前置詞＋名詞〉は副詞句または形容詞句の働きをする。主語にはならない。
+      ■ 前置詞のついた名詞は主語にはならない。
+        例外: a lot of + 名詞、a kind of + 名詞、a large number of + 名詞 など。
+        これらは全体で1つの形容詞として扱う。
+      ■ 前置詞で始まる文は、たいてい後ろにコンマがある。そのコンマ直後にあるものが主語。
+      ■ 主語を探す2つの方法:
+        (1) 前置詞の有無による排除（形のルール）
+        (2) 動詞の位置からの逆算（意味のルール）
+        形と意味の「両輪」で判断すること。
+      ❷ 形容詞の並列コンマ: 〈形容詞＋形容詞＋名詞〉は通常コンマなし。
+        例: traditional Japanese buildings「伝統的な日本の建築物」（コンマなし）
+        ただし2つの形容詞が似た意味の場合はコンマが打たれる。
+        例: accurate, reliable information「正確で信頼できる情報」
+        「似たような意味かどうか」は筆者が判断する。
+        本文では disposable と packaged が「捨てることができる」点で共通と判断された。
+      ❹ with の意味判別: 基本は「～と共に」だが、文脈により「～につれて」
+        「～が増えると共に」等になる。前半と後半の関係から意味を判断する。
+
+understanding_goals:
+  - node_id: "nsv-001"
+    seq: 1
+    goal: "文頭の〈前置詞＋名詞〉を副詞句と認識し、主語でないと判断できる"
+  - node_id: "nsv-001"
+    seq: 2
+    goal: "前置詞のついた名詞が主語にならないルールを適用し、真の主語を特定できる"
+  - node_id: "nsv-001"
+    seq: 3
+    goal: "a lot of / a kind of / a large number of 等の例外パターンを認識できる"
+  - node_id: "nsv-001"
+    seq: 4
+    goal: "動詞の位置から主語のかたまりを逆算して特定できる"
+
+check_points:
+  - node_id: "nsv-001"
+    seq: 1
+    question: "文頭に〈前置詞＋名詞〉がある場合、その名詞は主語になるか？"
+    answer: "ならない。文頭の〈前置詞＋名詞〉は副詞句であり、主語はその後に来る。"
+  - node_id: "nsv-001"
+    seq: 2
+    question: "前置詞で始まる文で主語を見つけるにはどうするか？"
+    answer: "前置詞句の後のコンマ直後にあるものが主語。また動詞を見つけてそこから逆算する方法もある。"
+  - node_id: "nsv-001"
+    seq: 3
+    question: "「前置詞のついた名詞は主語にならない」の例外を挙げよ。"
+    answer: "a lot of + 名詞、a kind of + 名詞、a large number of + 名詞 など。これらは全体で1つの形容詞として扱い、後ろの名詞が主語になる。"
+  - node_id: "nsv-001"
+    seq: 4
+    question: "主語を特定するための「両輪」とは何か？"
+    answer: "形の上のルール（前置詞の有無等で排除する）と、意味として通るかどうか（動詞との整合性）の両方で判断すること。"
+
+node_prerequisites:
+  - node_id: "nsv-001"
+    prerequisite_id: "nbk-001"
+
+knowledge_references:
+  - node_id: "nsv-001"
+    book: "入門英文問題精講"
+    section_id: "Ny_01"
+    pages: "p.28-29"

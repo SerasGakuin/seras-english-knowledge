@@ -3,9 +3,9 @@ sections:
   - id: "Ny_G01"
     book: "入門英文問題精講"
     title: "名詞"
-    pages: "p.9-10"
+    pages: "p.10"
     type: "grammar_lecture"
-    notes: ""
+    notes: "講義動画: 第1回"
   - id: "Ny_G02"
     book: "入門英文問題精講"
     title: "動詞"
@@ -85,7 +85,9 @@ sections:
     title: "主語の把握（前置詞＋名詞）"
     pages: "p.28-29"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: 主語はどこにある？
+      一言: disposable は dispose「処分する」+ -able「できる」からできた単語。直訳は「処分可能な」だが、しばしば「使い捨ての」の意味で使う。a disposable razor は「使い捨ての剃刀の刃」。
   - id: "Ny_02"
     book: "入門英文問題精講"
     title: "動詞の把握（受動態）"
@@ -203,7 +205,9 @@ sections:
     title: "関係代名詞"
     pages: "p.66-67"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: the stereotype that の that の後ろは？
+      一言: 日本語では「私は彼に会った男」とは普通言わないが、英語では the man whom I met「男＋彼に私は会った」という形が成立する。
   - id: "Ny_21"
     book: "入門英文問題精講"
     title: "前置詞＋関係代名詞①"
@@ -523,6 +527,15 @@ sections:
     type: "exercise"
     notes: ""
 
-section_knowledge_nodes: []
+section_knowledge_nodes:
+  - section_id: "Ny_G01"
+    node_id: "nbk-001"
+    seq: 1
+  - section_id: "Ny_01"
+    node_id: "nsv-001"
+    seq: 1
+  - section_id: "Ny_20"
+    node_id: "nks-001"
+    seq: 1
 
 section_prerequisites: []

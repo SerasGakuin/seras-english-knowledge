@@ -7,13 +7,13 @@ sections:
   Ny_G01:
     title: "名詞"
     type: "grammar_lecture"
-    pages: "p.9-10"
-    status: "not_started"
-    knowledge_nodes_created: 0
+    pages: "p.10"
+    status: "completed"
+    knowledge_nodes_created: 1
     sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "パイロット1/3"
   Ny_G02:
     title: "動詞"
     type: "grammar_lecture"
@@ -140,12 +140,12 @@ sections:
     title: "主語の把握（前置詞＋名詞）"
     type: "exercise"
     pages: "p.28-29"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "パイロット2/3"
   Ny_02:
     title: "動詞の把握（受動態）"
     type: "exercise"
@@ -334,12 +334,12 @@ sections:
     title: "関係代名詞"
     type: "exercise"
     pages: "p.66-67"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "パイロット3/3"
   Ny_21:
     title: "前置詞＋関係代名詞①"
     type: "exercise"
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 0
+  completed: 3
   in_progress: 0
-  not_started: 85
-  total_knowledge_nodes: 0
-  total_sentences: 0
+  not_started: 82
+  total_knowledge_nodes: 3
+  total_sentences: 4

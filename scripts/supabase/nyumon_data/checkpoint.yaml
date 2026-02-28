@@ -1,31 +1,39 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T00:00:00"
+updated_at: "2026-03-01T12:00:00"
 book: "入門英文問題精講"
 book_slug: "nyumon"
 
 current_state:
-  phase: "Phase 1"
+  phase: "Phase 1 完了 — パイロット振り返り待ち"
   current_section: null
   current_step: null
-  last_completed_section: null
-  last_completed_gate: null
+  last_completed_section: "Ny_20"
+  last_completed_gate: 5
 
 progress:
   total_sections: 85
-  completed: 0
+  completed: 3
   in_progress: 0
-  remaining: 85
-  total_nodes: 0
-  total_sentences: 0
+  remaining: 82
+  total_nodes: 3
+  total_sentences: 4
 
-recent_decisions: []
+recent_decisions:
+  - "Ny_01: ❷❹はノード化しない（Point マークなし、独立テスト不可）"
+  - "Ny_20: ❶❸❹❻はノード化しない（Point マークなし、各章で別途扱う知識）"
+  - "Ny_20: コロンの働きは nks-001 の check_points/goals に含めない（粒度違反防止）"
+  - "Ny_G01: 単語選択問題は sentences に登録しない（文として不完全）"
+  - "Ny_20: ny-20-s2 の overall は S V C（原本が SVC と分析）"
 
-active_concerns: []
+active_concerns:
+  - "基本講義（Ny_G02〜G13）完了後に nsv-001, nks-001 の prerequisites を見直す必要あり"
+  - "語彙注釈（* skyrocket 等）の記録方針を一貫させること"
 
 next_actions:
-  - "Ny_G01 の構造化を開始（パイロット1/3）"
+  - "パイロット振り返りを人間に報告し方向性確認を受ける"
+  - "承認後、Phase 2（基本講義 Ny_G02〜G13 → 第1章〜第6章）に進む"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

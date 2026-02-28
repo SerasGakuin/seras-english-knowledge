@@ -1,0 +1,43 @@
+sentences:
+  - id: "ny-01-s1"
+    section_id: "Ny_01"
+    drill: 1
+    number: 1
+    role: "exercise"
+    english: "With more and more disposable, packaged goods, the average household's volume of garbage skyrocketed."
+    japanese: "使い捨ての包装された商品が増えると共に，平均的な世帯のゴミの量が劇的に増えた。"
+    notes: "出典: 津田塾大学。* skyrocket「急増する」（問題文の語彙注釈）"
+  - id: "ny-01-s2"
+    section_id: "Ny_01"
+    drill: 1
+    number: 2
+    role: "example"
+    english: "The number of foreign visitors to Japan is increasing."
+    japanese: "日本に来る外国人訪問者の数は増えている。"
+    notes: "精講中の補足例文。前置詞句の中の名詞（foreign visitors）が主語にならない例として提示。"
+
+sentence_structures:
+  - sentence_id: "ny-01-s1"
+    label: "overall"
+    value: "M S V"
+  - sentence_id: "ny-01-s1"
+    label: "details"
+    value: "(With more and more disposable, packaged goods,)(M:副詞句) {S}the average household's volume (of garbage)(M:形容詞句) {V}skyrocketed."
+  - sentence_id: "ny-01-s1"
+    label: "partial_translations"
+    value: |
+      ❷ ますます多くの使い捨ての包装された商品
+      ❸ 平均的な世帯のゴミの量は
+      ❹ 使い捨ての包装された商品が増えると共に
+  - sentence_id: "ny-01-s2"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "ny-01-s2"
+    label: "details"
+    value: "{S}The number (of foreign visitors)(M:形容詞句) (to Japan)(M:形容詞句) {V}is increasing."
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-01-s1"
+    node_id: "nsv-001"
+  - sentence_id: "ny-01-s2"
+    node_id: "nsv-001"

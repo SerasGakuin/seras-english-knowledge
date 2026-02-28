@@ -1,0 +1,53 @@
+knowledge_nodes:
+  - id: "nbk-001"
+    name: "品詞の働き: 名詞"
+    category: "基本講義"
+    priority: "P1"
+    notes: |
+      名詞とは、人や動物やモノやコトを表す言葉。
+      ■ 抽象名詞: 形のない感情や概念を表す名詞（例: love「愛情」, information「情報」）
+      ■ 固有名詞: 地名や人の名前。最初の1字を大文字で表す（例: Kyoto, Japan）
+      ■ 代名詞: I, they, it, this など、文中に出てくる名詞の代わりに用いられる語
+      ■ 可算名詞: 数えられる名詞。1つなら冠詞 a[an] + 単数形、2つ以上は複数形（例: a desk / desks）
+      ■ 不可算名詞: 数えられない名詞。複数形を持たず冠詞 a もつかない（例: water）
+      ■ 注意: information は不可算名詞。数える場合は a piece of information とする。日本語の感覚は通じない
+
+understanding_goals:
+  - node_id: "nbk-001"
+    seq: 1
+    goal: "名詞を他の品詞（動詞・形容詞・副詞）と区別して識別できる"
+  - node_id: "nbk-001"
+    seq: 2
+    goal: "抽象名詞・固有名詞・代名詞の違いを説明できる"
+  - node_id: "nbk-001"
+    seq: 3
+    goal: "可算名詞と不可算名詞を区別し、適切な冠詞と数の形を選べる"
+  - node_id: "nbk-001"
+    seq: 4
+    goal: "不可算名詞の数え方（a piece of information 等）を説明できる"
+
+check_points:
+  - node_id: "nbk-001"
+    seq: 1
+    question: "名詞とは何を表す言葉か？"
+    answer: "人や動物やモノやコトを表す言葉。cat, desk, Kyoto, love などが名詞にあたる。"
+  - node_id: "nbk-001"
+    seq: 2
+    question: "抽象名詞とは何か？ また固有名詞にはどのようなルールがあるか？"
+    answer: "抽象名詞は形のない感情や概念を表す名詞（love, information 等）。固有名詞は地名や人の名前で、最初の1字を大文字にする。"
+  - node_id: "nbk-001"
+    seq: 3
+    question: "可算名詞と不可算名詞の違いは何か？"
+    answer: "可算名詞は数えられ、1つなら a[an]+単数形、2つ以上は複数形にする。不可算名詞は数えられず、複数形も冠詞 a もつかない。"
+  - node_id: "nbk-001"
+    seq: 4
+    question: "information を数えるにはどうするか？"
+    answer: "a piece of information のように助数表現を使う。information は不可算名詞であり、*informations や *an information とはできない。"
+
+node_prerequisites: []
+
+knowledge_references:
+  - node_id: "nbk-001"
+    book: "入門英文問題精講"
+    section_id: "Ny_G01"
+    pages: "p.10"

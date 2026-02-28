@@ -1,0 +1,74 @@
+knowledge_nodes:
+  - id: "nks-001"
+    name: "関係代名詞の識別"
+    category: "関係詞"
+    priority: "P1"
+    notes: |
+      Point分類: 〔関係詞〕
+      ■ 関係代名詞の識別:
+        名詞の直後に that があり、その後に主語または目的語の欠けた不完全な文が続く場合、
+        that は関係代名詞。先行詞（直前の名詞）を説明する形容詞節を導く。
+      ■ 訳し方: 関係代名詞節を先に訳し「〜した（名詞）」の形にする。that 自体の訳は出ない。
+      ■ 関代 vs 同格 that の区別:
+        - 関係代名詞: that の後に主語/目的語の欠けた不完全な文
+        - 同格の接続詞: that の後に完成した文（主語・目的語の欠けなし）
+        例: the stereotype that has long existed → 関代（主語欠如）
+            the view that boys tend to excel → 同格（完成した文）
+      ❶ for + 名詞 + to V: to不定詞の意味上の主語。〈for A to V〉=「Aが〜すること」
+        この for は「〜のための」ではない。後ろに to V があるかで判別する。
+        〈for＋名詞〉の後ろに to V の有無をチェックすること。
+      ❸ コロン(:)の働き: 前の文の具体的な説明や具体例を示す。
+        本文では「固定観念」の具体的内容をコロン以下で述べている。
+      ❹ seem to V: SVC構造（S=主語, V=seems, C=to V以下）。
+        seem to は助動詞のような働きで「〜のようだ」。
+        本文の This は前文のコロン以下の内容（=女性はこの仕事に適していないという固定観念）を指す。
+      ❺ the view that S+V: 名詞と that 節が同格の関係。「〜という見方」と訳す。
+      ❻ and の接続先判別: and の後ろの動詞(are)を見て、前にある同じレベルの動詞(tend)を探す。
+        excel と are ではなく tend と are をつないでいる（excel と are なら be にする必要がある）。
+      be well-suited = suit の受動態 + 副詞 well
+
+understanding_goals:
+  - node_id: "nks-001"
+    seq: 1
+    goal: "名詞の直後の that が関係代名詞か接続詞かを判別できる"
+  - node_id: "nks-001"
+    seq: 2
+    goal: "関係代名詞節の範囲を正確に特定できる"
+  - node_id: "nks-001"
+    seq: 3
+    goal: "関係代名詞を含む英文を自然な日本語に訳せる（関代節から先に訳す）"
+  - node_id: "nks-001"
+    seq: 4
+    goal: "同格の that（the view that S+V）と関係代名詞の that を区別できる"
+
+check_points:
+  - node_id: "nks-001"
+    seq: 1
+    question: "名詞の直後の that が関係代名詞であると判断する根拠は何か？"
+    answer: "that の後に主語または目的語の欠けた不完全な文が続いている場合、that は関係代名詞。that は欠けた要素の代わりを果たす。"
+  - node_id: "nks-001"
+    seq: 2
+    question: "関係代名詞を含む英文はどのように日本語に訳すか？"
+    answer: "関係代名詞節を先に訳し「〜した（先行詞）」の形にする。関係代名詞 that 自体の訳は出ない。"
+  - node_id: "nks-001"
+    seq: 3
+    question: "the stereotype that has long existed と the view that boys tend to excel の that の違いは何か？"
+    answer: "前者は関係代名詞（後に主語欠如の不完全な文）。後者は同格の接続詞（後に完成した文）。"
+  - node_id: "nks-001"
+    seq: 4
+    question: "関係代名詞の that と同格の that を区別するポイントは？"
+    answer: "that の後の文に主語や目的語の欠けがあれば関係代名詞、完成した文なら同格の接続詞。"
+  - node_id: "nks-001"
+    seq: 5
+    question: "the view that boys tend to excel の that は関係代名詞か接続詞か？ なぜそう判断できるか？"
+    answer: "同格の接続詞。that の後に boys tend to excel という完成した文（主語・動詞が揃った文）が続いているため。関係代名詞なら後に主語や目的語の欠けた不完全な文が来る。"
+
+node_prerequisites:
+  - node_id: "nks-001"
+    prerequisite_id: "nbk-001"
+
+knowledge_references:
+  - node_id: "nks-001"
+    book: "入門英文問題精講"
+    section_id: "Ny_20"
+    pages: "p.66-67"

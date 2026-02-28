@@ -1,0 +1,47 @@
+sentences:
+  - id: "ny-20-s1"
+    section_id: "Ny_20"
+    drill: 20
+    number: 1
+    role: "exercise"
+    english: "One potential obstacle for women to become pilots might be the stereotype that has long existed in many societies: women are not well-suited for this job."
+    japanese: "女性がパイロットになることに対する1つの潜在的な障害は，多くの社会で長い間存在してきた固定観念，つまり，女性はこの仕事にあまり適していないというものなのかもしれない。"
+    notes: ""
+  - id: "ny-20-s2"
+    section_id: "Ny_20"
+    drill: 20
+    number: 2
+    role: "exercise"
+    english: "This seems to arise partly from the view that boys tend to excel in mechanics and are stronger physically than girls."
+    japanese: "この考えは，1つには，少年は機械工学が得意な傾向にあって少女よりも肉体的に強靱であるという見方から生じているように思える。"
+    notes: "* mechanics「機械工学，力学」（問題文の語彙注釈）"
+
+sentence_structures:
+  - sentence_id: "ny-20-s1"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "ny-20-s1"
+    label: "details"
+    value: "{S}One potential obstacle (for women to become pilots)(M:形容詞句) {V}might be {C}the stereotype [that has long existed (in many societies)](形容詞節:関代): women are not well-suited (for this job)(M:副詞句)."
+  - sentence_id: "ny-20-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 女性がパイロットになるにあたっての1つの潜在的な障害
+      ❷ 多くの社会で長い間存在してきた固定観念
+  - sentence_id: "ny-20-s2"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "ny-20-s2"
+    label: "details"
+    value: "{S}This {V}seems {C}to arise (partly from the view [that boys tend to excel (in mechanics)(M:副詞句) and are stronger physically (than girls)(M:副詞句)](名詞節:同格))(M:副詞句)."
+  - sentence_id: "ny-20-s2"
+    label: "partial_translations"
+    value: |
+      ❹ このことは生じているように思える
+      ❺ 少年は機械工学において秀でる傾向にあるという見方
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-20-s1"
+    node_id: "nks-001"
+  - sentence_id: "ny-20-s2"
+    node_id: "nks-001"
