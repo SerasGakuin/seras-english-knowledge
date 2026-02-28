@@ -1,0 +1,44 @@
+project: "成川の深めて解ける！英文法 INPUT"
+book_slug: "narikawa"
+last_updated: "2026-03-01"
+
+sections:
+  # === Phase 1 パイロット（3セクション） ===
+  Nar_01_01:
+    title: "第1〜3文型の判別方法"
+    type: "concept"
+    pages: "p.18-19"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "パイロット1/3"
+  Nar_01_16:
+    title: "「言う」の意味をもつ動詞"
+    type: "pattern"
+    pages: "p.60-62"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "パイロット2/3"
+  Nar_03_01:
+    title: "現在形"
+    type: "concept"
+    pages: "p.90-92"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "パイロット3/3。▶例文1件を v001 として登録"
+
+summary:
+  total_sections: 162
+  completed: 3
+  in_progress: 0
+  not_started: 159
+  total_knowledge_nodes: 3
+  total_sentences: 15

@@ -1,0 +1,55 @@
+# Nar_01_01: 第1〜3文型の判別方法（p.18-19）
+
+sentences:
+  - id: "nar-0101-e001"
+    section_id: "Nar_01_01"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "She lives happily in Italy."
+    japanese: "彼女はイタリアで幸せに暮らしている"
+    notes: ""
+  - id: "nar-0101-e002"
+    section_id: "Nar_01_01"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "She became an announcer."
+    japanese: "彼女はアナウンサーになった"
+    notes: ""
+  - id: "nar-0101-e003"
+    section_id: "Nar_01_01"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "This suit does not become her."
+    japanese: "このスーツは彼女には似合わない"
+    notes: "become の第3文型用法（S≠O）。002と同じ動詞becomeだが文型が異なる"
+
+sentence_structures:
+  - sentence_id: "nar-0101-e001"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "nar-0101-e001"
+    label: "details"
+    value: "<She>(S) lives(V) [happily](M:副詞) [in Italy](M:前置詞句)"
+  - sentence_id: "nar-0101-e002"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0101-e002"
+    label: "details"
+    value: "<She>(S) became(V) <an announcer>(C)"
+  - sentence_id: "nar-0101-e003"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0101-e003"
+    label: "details"
+    value: "<This suit>(S) does not become(V) <her>(O)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0101-e001"
+    node_id: "nrv-001"
+  - sentence_id: "nar-0101-e002"
+    node_id: "nrv-001"
+  - sentence_id: "nar-0101-e003"
+    node_id: "nrv-001"

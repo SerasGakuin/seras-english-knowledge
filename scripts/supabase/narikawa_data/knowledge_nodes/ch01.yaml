@@ -1,0 +1,137 @@
+# Part 01: 動詞の語法と文型
+# パイロット: Nar_01_01, Nar_01_16
+
+knowledge_nodes:
+  - id: "nrv-001"
+    name: "第1〜3文型の判別"
+    category: "動詞語法と文型"
+    priority: "P1"
+    notes: |
+      ■ 文の要素（S/V/C/O）と修飾語句（M）の区別
+      副詞や〈前置詞＋名詞〉は原則として文の要素にならず、M（修飾語句）として文型判別時に除外する。
+      ただし、Mも意味的には重要な情報を伝える（脚注*2）。
+      ■ 第1文型〈S+V〉
+      Mを除外して S+V のみが残る文。第1文型は〈S+V〉単独で使うことは少なく、何らかのMをともなうのがふつう。
+      ■ 第2文型〈S+V+C〉と第3文型〈S+V+O〉の判別
+      動詞を中心に左右を比べ、S=C なら第2文型、S≠O なら第3文型。
+      否定文でも受動態でも、動詞を中心に左右の関係を考えるのがコツ。
+      ■ 品詞の制約
+      S・Oになれるのは名詞（代名詞を含む、脚注*3）。
+      Cになれるのは形容詞か名詞がふつう。分詞形容詞（→p.235）も広く形容詞として扱う（脚注*4）。
+      ■ Cに名詞を置く場合の制限
+      〈S+V+C〉のCに名詞を置く場合、SとCは厳密な意味でイコール関係でなければならない。
+      (✕) We are happiness. → happinessは「幸福」という抽象名詞で「人」を表すWeとは厳密にイコールになれない。
+      Cに名詞も置ける動詞は be動詞・become などの一部に限られ、Cには形容詞が圧倒的に多い。
+      [図表: イラスト — イタリアで暮らす女性（p.18）]
+      [図表: イラスト — She = an announcer の図解（p.18-19）]
+      [図表: イラスト — This suit ≠ her の図解（p.19）]
+      参考書内参照: →p.235〈分詞形容詞〉
+      別冊ポイント001（第1文型の形式と意味的特徴）、002（第2文型＋SVC動詞リスト）、003（go+形容詞）、004（五感印象動詞）、005（第3文型の形式と意味的特徴）参照
+
+  - id: "nrv-016"
+    name: "「言う」の動詞の使い分け"
+    category: "動詞語法と文型"
+    priority: "P1"
+    notes: |
+      ■ 自動詞（speak / talk）と他動詞（say / tell）の体系的比較
+      speak, talk は自動詞が原則 → 後ろに直接名詞を置けない。
+      (✕) speak her / (✕) talk my friend → 相手を置くには to/with などの前置詞が必要。
+      say, tell は他動詞。前置詞なしで目的語を直接置ける。
+      ■ speak と talk の相違点
+      speak: 一方通行で話す（speech, speaker のイメージ）。
+      talk: 双方向で話す（トークショー、summit talks のイメージ）。
+      speakよりtalkの方がややくだけた言い方だが、ほぼ同じ意味で使われることも多い（脚注*1）。
+      speak は「言葉を発する」、talk は「相手を意識して話す」が基本の意味（脚注*2）。
+      ■ say と tell の相違点
+      say: 第3文型〈S+V+O（内容）〉。相手を置く場合は〈say ... to+相手〉の形。
+      tell: 第4文型〈S+V+O₁（相手）+O₂（内容）〉。相手と内容の両方を目的語にとる。
+      ■ speak, talk の他動詞用法
+      speak: 「言語など」を目的語にとる他動詞用法がある（speak Japanese）。
+      talk: talk A into[out of] Ving「Aを説得してVさせる[Vさせない]」の他動詞用法がある。
+      双方向のtalkの感覚が残っている（説得＝双方向のやりとり）。
+      [図表: 比較図 — speak（一方向）と talk（双方向）の方向性（p.60）]
+      [図表: 比較図 — say（内容を伝える）と tell（相手に伝える）の方向性（p.61）]
+      別冊ポイント043（「言う」に関する重要動詞）参照
+
+understanding_goals:
+  # nrv-001
+  - node_id: "nrv-001"
+    seq: 1
+    goal: "文の要素（S/V/C/O）と修飾語句（M）を区別し、Mを除外して文型を判別できる"
+  - node_id: "nrv-001"
+    seq: 2
+    goal: "動詞を中心に左右を比べ、S=CかS≠Oかで第2文型と第3文型を判別できる"
+  - node_id: "nrv-001"
+    seq: 3
+    goal: "S・O・Cになれる品詞をそれぞれ説明できる"
+  - node_id: "nrv-001"
+    seq: 4
+    goal: "Cに名詞を置ける動詞の制限と、(✕) We are happiness. が不可な理由を説明できる"
+  # nrv-016
+  - node_id: "nrv-016"
+    seq: 1
+    goal: "speak/talk が自動詞、say/tell が他動詞であることを説明できる"
+  - node_id: "nrv-016"
+    seq: 2
+    goal: "speak（一方通行）と talk（双方向）の意味の違いを説明できる"
+  - node_id: "nrv-016"
+    seq: 3
+    goal: "say（第3文型: 内容のみ）と tell（第4文型: 相手＋内容）の文型の違いを説明できる"
+  - node_id: "nrv-016"
+    seq: 4
+    goal: "say で相手を示す場合の〈to+相手〉の形を説明できる"
+  - node_id: "nrv-016"
+    seq: 5
+    goal: "speak, talk の他動詞用法（speak Japanese, talk A into Ving）を説明できる"
+
+check_points:
+  # nrv-001
+  - node_id: "nrv-001"
+    seq: 1
+    question: "文の要素とM（修飾語句）の違いは何か？ Mに該当する品詞は？"
+    answer: "文の要素はV（動詞）が必要とするS・C・O。副詞や〈前置詞＋名詞〉は原則としてMとなり、文型判別時に除外する。"
+  - node_id: "nrv-001"
+    seq: 2
+    question: "第2文型〈S+V+C〉と第3文型〈S+V+O〉はどう判別するか？"
+    answer: "動詞を中心に左右を比べ、S=Cなら第2文型、S≠Oなら第3文型。否定文・受動態でも同じ方法で判別する。"
+  - node_id: "nrv-001"
+    seq: 3
+    question: "S・O・Cになれる品詞はそれぞれ何か？"
+    answer: "S・Oになれるのは名詞（代名詞を含む）。Cになれるのは形容詞か名詞がふつう。"
+  - node_id: "nrv-001"
+    seq: 4
+    question: "(✕) We are happiness. はなぜ不可か？"
+    answer: "Cに名詞を置く場合、SとCは厳密なイコール関係が必要。happiness（幸福）は人を表すWeと厳密にイコールになれない。正しくは We are happy.（形容詞を使う）。"
+  # nrv-016
+  - node_id: "nrv-016"
+    seq: 1
+    question: "speak/talk と say/tell の最も基本的な違いは何か？"
+    answer: "speak/talk は自動詞（後ろに直接名詞を置けない）、say/tell は他動詞（目的語を直接置ける）。"
+  - node_id: "nrv-016"
+    seq: 2
+    question: "speak と talk の意味の違いは？"
+    answer: "speak は一方通行で話す（speech, speaker のイメージ）。talk は双方向で話す（トークショー、会談のイメージ）。"
+  - node_id: "nrv-016"
+    seq: 3
+    question: "say と tell はそれぞれ何文型をとるか？"
+    answer: "say は第3文型〈S+V+O（内容）〉。tell は第4文型〈S+V+O₁（相手）+O₂（内容）〉。"
+  - node_id: "nrv-016"
+    seq: 4
+    question: "talk A into Ving はどういう意味か？"
+    answer: "Aを説得してVさせる。talkの他動詞用法で、双方向（説得のやりとり）の感覚が残っている。"
+  - node_id: "nrv-016"
+    seq: 5
+    question: "speak が他動詞として使える場合は？"
+    answer: "「言語など」を目的語にとる場合（speak Japanese など）。言葉を発することに重点がある動詞だから。"
+
+node_prerequisites: []
+
+knowledge_references:
+  - node_id: "nrv-001"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_01"
+    pages: "p.18-19"
+  - node_id: "nrv-016"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_16"
+    pages: "p.60-62"

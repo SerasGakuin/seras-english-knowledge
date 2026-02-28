@@ -1,0 +1,87 @@
+# Nar_01_16: 「言う」の意味をもつ動詞（p.60-62）
+
+sentences:
+  - id: "nar-0116-e069"
+    section_id: "Nar_01_16"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "She said something in English."
+    japanese: "彼女は英語で何か言った"
+    notes: "say は第3文型〈S+V+O（内容）〉"
+  - id: "nar-0116-e070"
+    section_id: "Nar_01_16"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Tell me all the details."
+    japanese: "私に詳細をすべて言いなさい"
+    notes: "tell は第4文型〈S+V+O₁（相手）+O₂（内容）〉"
+  - id: "nar-0116-e071"
+    section_id: "Nar_01_16"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "She said something to him in English."
+    japanese: "彼女は英語で彼に何か言った"
+    notes: "say で相手を置く場合は〈to+相手〉の形"
+  - id: "nar-0116-e072"
+    section_id: "Nar_01_16"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "John speaks Japanese."
+    japanese: "ジョンは日本語を話す"
+    notes: "speak の他動詞用法（言語を目的語にとる）"
+  - id: "nar-0116-e073"
+    section_id: "Nar_01_16"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "I talked him into buying a new watch."
+    japanese: "彼を説得して新しい時計を買ってもらった"
+    notes: "talk A into Ving の他動詞用法"
+
+sentence_structures:
+  - sentence_id: "nar-0116-e069"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0116-e069"
+    label: "details"
+    value: "<She>(S) said(V) <something>(O) [in English](M:前置詞句)"
+  - sentence_id: "nar-0116-e070"
+    label: "overall"
+    value: "V O₁ O₂"
+  - sentence_id: "nar-0116-e070"
+    label: "details"
+    value: "Tell(V) <me>(O₁) <all the details>(O₂)"
+  - sentence_id: "nar-0116-e071"
+    label: "overall"
+    value: "S V O M M"
+  - sentence_id: "nar-0116-e071"
+    label: "details"
+    value: "<She>(S) said(V) <something>(O) [to him](M:前置詞句) [in English](M:前置詞句)"
+  - sentence_id: "nar-0116-e072"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0116-e072"
+    label: "details"
+    value: "<John>(S) speaks(V) <Japanese>(O)"
+  - sentence_id: "nar-0116-e073"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0116-e073"
+    label: "details"
+    value: "<I>(S) talked(V) <him>(O) [into buying a new watch](M:前置詞句)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0116-e069"
+    node_id: "nrv-016"
+  - sentence_id: "nar-0116-e070"
+    node_id: "nrv-016"
+  - sentence_id: "nar-0116-e071"
+    node_id: "nrv-016"
+  - sentence_id: "nar-0116-e072"
+    node_id: "nrv-016"
+  - sentence_id: "nar-0116-e073"
+    node_id: "nrv-016"

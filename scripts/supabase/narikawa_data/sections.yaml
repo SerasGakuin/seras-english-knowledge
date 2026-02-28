@@ -1,0 +1,34 @@
+# パイロット Phase 1: 3セクション
+
+sections:
+  - id: "Nar_01_01"
+    book: "成川の深めて解ける！英文法 INPUT"
+    title: "第1〜3文型の判別方法"
+    pages: "p.18-19"
+    type: "concept"
+    notes: ""
+  - id: "Nar_01_16"
+    book: "成川の深めて解ける！英文法 INPUT"
+    title: "「言う」の意味をもつ動詞"
+    pages: "p.60-62"
+    type: "pattern"
+    notes: ""
+  - id: "Nar_03_01"
+    book: "成川の深めて解ける！英文法 INPUT"
+    title: "現在形"
+    pages: "p.90-92"
+    type: "concept"
+    notes: ""
+
+section_knowledge_nodes:
+  - section_id: "Nar_01_01"
+    node_id: "nrv-001"
+    seq: 1
+  - section_id: "Nar_01_16"
+    node_id: "nrv-016"
+    seq: 1
+  - section_id: "Nar_03_01"
+    node_id: "nrt-001"
+    seq: 1
+
+section_prerequisites: []

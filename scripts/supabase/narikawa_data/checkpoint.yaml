@@ -1,0 +1,9 @@
+phase: 1
+phase_name: "パイロット（3セクション）"
+current_section: "completed"
+current_step: "Phase 1 完了。Gate 1-2 通過済み。Gate 3-5 待ち"
+completed_sections: 3
+total_pilot_sections: 3
+total_nodes: 3
+total_sentences: 15
+last_updated: "2026-03-01"
