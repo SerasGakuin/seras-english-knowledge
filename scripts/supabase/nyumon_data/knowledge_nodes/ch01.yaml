@@ -58,6 +58,10 @@ check_points:
 node_prerequisites:
   - node_id: "nsv-001"
     prerequisite_id: "nbk-001"
+  - node_id: "nsv-001"
+    prerequisite_id: "nbk-005"
+  - node_id: "nsv-001"
+    prerequisite_id: "nbk-009"
 
 knowledge_references:
   - node_id: "nsv-001"

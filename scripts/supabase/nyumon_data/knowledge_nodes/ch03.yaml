@@ -66,6 +66,12 @@ check_points:
 node_prerequisites:
   - node_id: "nks-001"
     prerequisite_id: "nbk-001"
+  - node_id: "nks-001"
+    prerequisite_id: "nbk-006"
+  - node_id: "nks-001"
+    prerequisite_id: "nbk-010"
+  - node_id: "nks-001"
+    prerequisite_id: "nbk-011"
 
 knowledge_references:
   - node_id: "nks-001"
