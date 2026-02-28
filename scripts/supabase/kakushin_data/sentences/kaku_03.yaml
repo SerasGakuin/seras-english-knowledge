@@ -1,0 +1,267 @@
+# Kaku_03: 代名詞（p.25-34）
+
+sentences:
+  # === 本編解説の例文 ===
+  - id: "kaku-03-e01"
+    section_id: "Kaku_03"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I have two sisters. One is in Hiroshima and the other is in Okinawa."
+    japanese: "私には妹が2人います。1人は広島に、もう1人は沖縄にいます。"
+    notes: "「2つだけ」の場合: one / the other。残り1人は特定（共通認識）できるのでthe other"
+  - id: "kaku-03-e02"
+    section_id: "Kaku_03"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Some of my cousins live in Hokkaido, but the others live in Saitama."
+    japanese: "私のいとこは、北海道に住んでいる人もいるが、他は全員、埼玉に住んでいる。"
+    notes: "残り全員が特定できるのでthe others。Someで始まる文は「~な人もいる」と訳すと自然"
+  - id: "kaku-03-e03"
+    section_id: "Kaku_03"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "Some teachers are from America and others are from Britain."
+    japanese: "米国出身の先生もいれば、英国出身の先生もいる。"
+    notes: "残りが特定できない（米国・英国以外の先生もいる）のでothers（theなし）"
+  - id: "kaku-03-e04"
+    section_id: "Kaku_03"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "I left my book at home so I can't lend it to you today."
+    japanese: "家に本を忘れちゃったから、今日君に貸すことはできないんだ。"
+    notes: "itは「特定」のもの（ズバリその本）を指す"
+  - id: "kaku-03-e05"
+    section_id: "Kaku_03"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "I didn't know we needed one."
+    japanese: "プリンターが必要だなんて知らなかったよ。"
+    notes: "対話の返答（A: I bought a new printer.への応答）。oneは「不特定の同種のもの」（どれでもいいプリンター1台）"
+  - id: "kaku-03-e06"
+    section_id: "Kaku_03"
+    drill: 0
+    number: 6
+    role: "example"
+    english: "The population of China is larger than that of India."
+    japanese: "中国の人口はインドの人口よりも多い。"
+    notes: "that of India = the population of India。thatは後置修飾のみOK（of ~が修飾）"
+  - id: "kaku-03-e07"
+    section_id: "Kaku_03"
+    drill: 0
+    number: 7
+    role: "example"
+    english: "Either will do."
+    japanese: "どっちでも大丈夫だよ。"
+    notes: "対話の返答（A: Do you want a pen or a pencil?への応答）。eitherは「2つ」の場合の「どちらでも」。do「役立つ・間に合う」"
+  - id: "kaku-03-e08"
+    section_id: "Kaku_03"
+    drill: 0
+    number: 8
+    role: "example"
+    english: "There are three French restaurants in town, but none of them is open for lunch."
+    japanese: "町には3つのフランス料理のレストランがあるが、どれもランチでは営業していない。"
+    notes: "「3つのお店のうち1つも~でない」にnone（3つ以上の否定）"
+
+  # === CHECK 入試問題に向けて ===
+  - id: "kaku-03-c01"
+    section_id: "Kaku_03"
+    drill: 1
+    number: 1
+    role: "check"
+    english: "He has two computers. One is a desktop and the other is a laptop."
+    japanese: "彼はコンピューターを2台持っています。1つはデスクトップで、もう1つはノートパソコンです。"
+    notes: "空所補充。正解: the other。2つのうち残り1つは特定できるのでthe other"
+  - id: "kaku-03-c02"
+    section_id: "Kaku_03"
+    drill: 1
+    number: 2
+    role: "check"
+    english: "Some of my classmates like soccer and others enjoy rugby."
+    japanese: "私のクラスメイトには、サッカーが好きな人もいれば、ラグビーを楽しむ人もいます。"
+    notes: "空所補充。正解: others。「残り全員」ではない（他のスポーツが好きな人もいる）のでtheなし"
+  - id: "kaku-03-c03"
+    section_id: "Kaku_03"
+    drill: 1
+    number: 3
+    role: "check"
+    english: "None of the shops were open."
+    japanese: "開いているお店は1つもなかった。"
+    notes: "空所補充。正解: None。None of ~「~のうち1つも…でない」。noは形容詞で no of ~という形は不可"
+
+  # === 実際の入試問題演習 ===
+  - id: "kaku-03-x01"
+    section_id: "Kaku_03"
+    drill: 2
+    number: 1
+    role: "exam"
+    english: "This soup is delicious. I'd like another bowl, please."
+    japanese: "このスープはとてもおいしい。もう1杯、頂けますか。"
+    notes: "出典: 慶応大学。空所補充。another = an + other で「（特定できない）もう1個」。何度もおかわりできるうちの「もう1杯」なのでanotherが正解"
+  - id: "kaku-03-x02"
+    section_id: "Kaku_03"
+    drill: 2
+    number: 2
+    role: "exam"
+    english: "If you need a Japanese-English dictionary, I'll lend you one."
+    japanese: "もし和英辞典が必要なら、貸しますよ。"
+    notes: "出典: 中部大学。空所補充。「どれでもいい1冊の辞書」なのでone（不特定）。itだと「ズバリその辞書」になってしまう"
+  - id: "kaku-03-x03"
+    section_id: "Kaku_03"
+    drill: 2
+    number: 3
+    role: "exam"
+    english: "The population of Beijing is larger than that of Hong Kong."
+    japanese: "北京の人口は香港より多い。"
+    notes: "出典: 山梨大学。空所補充。that of Hong Kong = the population of Hong Kong"
+  - id: "kaku-03-x04"
+    section_id: "Kaku_03"
+    drill: 2
+    number: 4
+    role: "exam"
+    english: "I tried all the keys, but none of them would open the door."
+    japanese: "私はすべての鍵を試したが、どれを使ってもドアは開かなかった。"
+    notes: "出典: 東京経済大学。空所補充。all the keysから鍵は3つ以上。3つ以上の否定はnone（neitherは2つの否定）"
+
+sentence_structures:
+  # e01
+  - sentence_id: "kaku-03-e01"
+    label: "overall"
+    value: "S V O. S V M and S V M."
+  - sentence_id: "kaku-03-e01"
+    label: "details"
+    value: "I(S) have(V) <two sisters>(O). One(S) is(V) [in Hiroshima](M:前置詞句) and <the other>(S) is(V) [in Okinawa](M:前置詞句)."
+  # e02
+  - sentence_id: "kaku-03-e02"
+    label: "overall"
+    value: "S V M, conj S V M."
+  - sentence_id: "kaku-03-e02"
+    label: "details"
+    value: "<Some of my cousins>(S) live(V) [in Hokkaido](M:前置詞句), but <the others>(S) live(V) [in Saitama](M:前置詞句)."
+  # e03
+  - sentence_id: "kaku-03-e03"
+    label: "overall"
+    value: "S V M and S V M."
+  - sentence_id: "kaku-03-e03"
+    label: "details"
+    value: "<Some teachers>(S) are(V) [from America](M:前置詞句) and others(S) are(V) [from Britain](M:前置詞句)."
+  # e04
+  - sentence_id: "kaku-03-e04"
+    label: "overall"
+    value: "S V O M so S V O M M."
+  - sentence_id: "kaku-03-e04"
+    label: "details"
+    value: "I(S) left(V) <my book>(O) [at home](M:前置詞句) so I(S) can't lend(V) it(O) [to you](M:前置詞句) today(M:副詞)."
+  # e05
+  - sentence_id: "kaku-03-e05"
+    label: "overall"
+    value: "S V S V O."
+  - sentence_id: "kaku-03-e05"
+    label: "details"
+    value: "I(S) didn't know(V) [we(S) needed(V) one(O)](O:名詞節)."
+  # e06
+  - sentence_id: "kaku-03-e06"
+    label: "overall"
+    value: "S V C M."
+  - sentence_id: "kaku-03-e06"
+    label: "details"
+    value: "<The population of China>(S) is(V) larger(C) [than <that of India>](M:比較)."
+  # e07
+  - sentence_id: "kaku-03-e07"
+    label: "overall"
+    value: "S V."
+  - sentence_id: "kaku-03-e07"
+    label: "details"
+    value: "Either(S) will do(V)."
+  # e08
+  - sentence_id: "kaku-03-e08"
+    label: "overall"
+    value: "There V S M, conj S V C M."
+  - sentence_id: "kaku-03-e08"
+    label: "details"
+    value: "There are(V) <three French restaurants>(S) [in town](M:前置詞句), but <none of them>(S) is(V) open(C) [for lunch](M:前置詞句)."
+  # c01
+  - sentence_id: "kaku-03-c01"
+    label: "overall"
+    value: "S V O. S V C and S V C."
+  - sentence_id: "kaku-03-c01"
+    label: "details"
+    value: "He(S) has(V) <two computers>(O). One(S) is(V) <a desktop>(C) and <the other>(S) is(V) <a laptop>(C)."
+  # c02
+  - sentence_id: "kaku-03-c02"
+    label: "overall"
+    value: "S V O and S V O."
+  - sentence_id: "kaku-03-c02"
+    label: "details"
+    value: "<Some of my classmates>(S) like(V) soccer(O) and others(S) enjoy(V) rugby(O)."
+  # c03
+  - sentence_id: "kaku-03-c03"
+    label: "overall"
+    value: "S V C."
+  - sentence_id: "kaku-03-c03"
+    label: "details"
+    value: "<None of the shops>(S) were(V) open(C)."
+  # x01
+  - sentence_id: "kaku-03-x01"
+    label: "overall"
+    value: "S V C. S V O M."
+  - sentence_id: "kaku-03-x01"
+    label: "details"
+    value: "<This soup>(S) is(V) delicious(C). I(S)'d like(V) <another bowl>(O), please(M:副詞)."
+  # x02
+  - sentence_id: "kaku-03-x02"
+    label: "overall"
+    value: "M, S V O O."
+  - sentence_id: "kaku-03-x02"
+    label: "details"
+    value: "[If you need a Japanese-English dictionary](M:条件節), I(S)'ll lend(V) you(O1) one(O2)."
+  # x03
+  - sentence_id: "kaku-03-x03"
+    label: "overall"
+    value: "S V C M."
+  - sentence_id: "kaku-03-x03"
+    label: "details"
+    value: "<The population of Beijing>(S) is(V) larger(C) [than <that of Hong Kong>](M:比較)."
+  # x04
+  - sentence_id: "kaku-03-x04"
+    label: "overall"
+    value: "S V O, conj S V O."
+  - sentence_id: "kaku-03-x04"
+    label: "details"
+    value: "I(S) tried(V) <all the keys>(O), but <none of them>(S) would open(V) <the door>(O)."
+
+sentence_knowledge_tags:
+  - sentence_id: "kaku-03-e01"
+    node_id: "khs-005"
+  - sentence_id: "kaku-03-e02"
+    node_id: "khs-005"
+  - sentence_id: "kaku-03-e03"
+    node_id: "khs-005"
+  - sentence_id: "kaku-03-e04"
+    node_id: "khs-006"
+  - sentence_id: "kaku-03-e05"
+    node_id: "khs-006"
+  - sentence_id: "kaku-03-e06"
+    node_id: "khs-006"
+  - sentence_id: "kaku-03-e07"
+    node_id: "khs-007"
+  - sentence_id: "kaku-03-e08"
+    node_id: "khs-007"
+  - sentence_id: "kaku-03-c01"
+    node_id: "khs-005"
+  - sentence_id: "kaku-03-c02"
+    node_id: "khs-005"
+  - sentence_id: "kaku-03-c03"
+    node_id: "khs-007"
+  - sentence_id: "kaku-03-x01"
+    node_id: "khs-005"
+  - sentence_id: "kaku-03-x02"
+    node_id: "khs-006"
+  - sentence_id: "kaku-03-x03"
+    node_id: "khs-006"
+  - sentence_id: "kaku-03-x04"
+    node_id: "khs-007"

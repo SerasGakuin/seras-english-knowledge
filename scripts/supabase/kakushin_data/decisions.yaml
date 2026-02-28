@@ -35,3 +35,15 @@ decisions:
     question: "Gate 4レビュー: kvt-002のcheck_pointsにgrow up/bring up, sit/seatが含まれていないとの指摘。"
     decision: "check_pointsは上限5件で既に満杯。grow up/bring up, sit/seatはnotesに詳細記載済み。check_pointsはlie/lay, rise/raise, discussなど最頻出項目を優先。understanding_goalsでもカバー。"
     decided_by: "リード"
+  - id: 7
+    date: "2026-03-01"
+    section: "Kaku_04"
+    question: "CHECK(3)「each・every・eitherを3つ書きましょう」は暗記問題で英文がない。登録するか？"
+    decision: "登録しない。暗記問題で完全な英文が存在しない。知識はkhs-008のnotesに「3つのe」として記録し、check_pointsではa few/fewの判別を優先。"
+    decided_by: "リード"
+  - id: 8
+    date: "2026-03-01"
+    section: "Kaku_04"
+    question: "khs-008のcheck_point seq 5（a few/few）に対応する英文がない。問題ないか？"
+    decision: "問題なし。p.35-43にa few/fewの例文・CHECK・入試問題は存在しない（数量形容詞は表のみの説明）。知識はnotesとcheck_pointsで完全に保存されており、英文による実践はないが判別知識として重要なためcheck_pointsに残す。"
+    decided_by: "リード"

@@ -143,6 +143,30 @@ section_knowledge_nodes:
   - section_id: "Kaku_01"
     node_id: "khs-002"
     seq: 2
+  # Kaku_02
+  - section_id: "Kaku_02"
+    node_id: "khs-003"
+    seq: 1
+  - section_id: "Kaku_02"
+    node_id: "khs-004"
+    seq: 2
+  # Kaku_03
+  - section_id: "Kaku_03"
+    node_id: "khs-005"
+    seq: 1
+  - section_id: "Kaku_03"
+    node_id: "khs-006"
+    seq: 2
+  - section_id: "Kaku_03"
+    node_id: "khs-007"
+    seq: 3
+  # Kaku_04
+  - section_id: "Kaku_04"
+    node_id: "khs-008"
+    seq: 1
+  - section_id: "Kaku_04"
+    node_id: "khs-009"
+    seq: 2
   # Kaku_20
   - section_id: "Kaku_20"
     node_id: "kta-001"

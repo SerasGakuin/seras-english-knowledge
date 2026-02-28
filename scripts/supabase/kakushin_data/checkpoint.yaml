@@ -2,24 +2,40 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T23:00:00"
+updated_at: "2026-03-01T23:30:00"
 book: "英文法の核心"
 book_slug: "kakushin"
 
 current_state:
-  phase: "Phase 1 (Pilot) 完了"
+  phase: "Phase 2 — Batch 1 完了"
   current_section: null
   current_step: null
-  last_completed_section: "Kaku_07a"
+  last_completed_section: "Kaku_04"
   last_completed_gate: 5
 
 progress:
   total_sections: 26
-  completed: 3
+  completed: 6
   in_progress: 0
-  remaining: 23
-  total_nodes: 8
-  total_sentences: 32
+  remaining: 20
+  total_nodes: 15
+  total_sentences: 64
+
+batch1_results:
+  sections_completed:
+    - section: "Kaku_02"
+      nodes: ["khs-003", "khs-004"]
+      sentences: 8
+    - section: "Kaku_03"
+      nodes: ["khs-005", "khs-006", "khs-007"]
+      sentences: 15
+    - section: "Kaku_04"
+      nodes: ["khs-008", "khs-009"]
+      sentences: 9
+  metrics:
+    batch_node_section_ratio: 2.3
+    batch_sentences: 32
+    cumulative_node_section_ratio: 2.5
 
 pilot_results:
   sections_completed:
@@ -32,25 +48,16 @@ pilot_results:
     - section: "Kaku_07a"
       nodes: ["kvt-001", "kvt-002", "kvt-003"]
       sentences: 9
-  metrics:
-    node_section_ratio: 2.7
-    avg_sentences_per_node: 4.0
-    avg_goals_per_node: 3.9
-    avg_checkpoints_per_node: 4.3
 
 recent_decisions:
-  - "decision #1: 芝浦工業大学入試問題(Do you have the time?)は重複登録しない"
-  - "decision #2: 駒澤大学入試問題(Twice a month)はフラグメントで登録対象外"
-  - "decision #3: Kaku_07aの>マーカーなし文を登録（kvt-001の英文ゼロ回避）"
-  - "decision #4: 分割テーマ前半にCHECK/入試問題なしは想定内"
-  - "decision #5: Gate 4指摘の芝浦工業大学・駒澤大学は既存判断維持"
-  - "decision #6: kvt-002のcheck_points上限5件でgrow up/bring upはnotes対応"
+  - "decision #7: CHECK(3)「3つのe」は暗記問題で英文なし → 登録対象外"
+  - "decision #8: khs-008のa few/fewは英文なしだがcheck_points+notesで保存"
 
 active_concerns: []
 
 next_actions:
-  - "パイロット振り返りをユーザーに報告"
-  - "Phase 2への進行判断を仰ぐ"
+  - "Batch 2: Kaku_05（副詞）, Kaku_06（接続詞）"
+  - "Batch 2 完了後: Part 1 完了 → 全指示書再読込 + checkpoint更新"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

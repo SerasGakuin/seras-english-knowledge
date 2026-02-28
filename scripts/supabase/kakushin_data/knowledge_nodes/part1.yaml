@@ -32,6 +32,157 @@ knowledge_nodes:
       ③ 「ある程度」: 「1つに認識できるカタマリ」（Just a moment.「ちょっと待って」）
       世間では熟語・決まり文句として扱われるが、すべて「たくさんある中の1つ」から理解できる。
 
+  # --- Kaku_02: 名詞 ---
+  - id: "khs-003"
+    name: "可算名詞の複数形熟語"
+    category: "品詞"
+    priority: "P1"
+    notes: |
+      核心（可算名詞部分）: 可算名詞は「複数形の熟語」に注意
+      入試で問われるのは複数形の作り方（-s/-es）ではなく「複数形がポイントになる熟語」。
+      「複数形」に注意する熟語（どれも「複数でないと成立しない行為」）:
+      ・make friends with ~「~と友達になる」— 友達になるには2人の人間が必要
+      ・shake hands with ~「~と握手する」— 握手は2つの手で行う
+      ・change trains「電車を乗り換える」— 今の電車とこれからの電車の2つ
+      ・be on [形容詞] terms with ~「~とは[形容詞]の関係だ」— 関係には複数人が必要
+      「神様の視点（上から見るイメージ）」: 日本人は目の前の新しい友達1人を見るが、英語では世界に2人友達が生まれたという感覚で複数形になる。
+      前提知識との差分: 中学では複数形の作り方（-s, -es, y→i, child→children等）に時間を割くが、入試ではほとんど問われない。入試で得点に直結するのは「複数形を使った熟語」。
+
+  - id: "khs-004"
+    name: "不可算名詞の3パターン（目に見えない・切ってもOK・ひとまとめ）"
+    category: "品詞"
+    priority: "P1"
+    notes: |
+      核心（不可算名詞部分）: 不可算名詞は「目に見えない・切ってもOK・ひとまとめ」
+      パターン(1)「目に見えない」から数えない:
+      ・情報系: information, news, advice
+      ・仕事系: work（仕事）, homework, housework
+      ・利害系: fun, progress, damage
+      workやhomeworkが「目に見えない」のは日本人にない発想。見えるのは「働く人間」「宿題のテキスト」で、仕事そのものは目に見えないという英語の感覚。
+      パターン(2)「切ってもOK」だから数えない:
+      ・water, sugar, bread, paper, chalk
+      ・切っても性質が失われない → 具体的な形がイメージできない → 不可算
+      ・逆に smartphone は切ると本来の性質が失われるから可算
+      ※パターン(2)の語自体は入試であまり問われないが、「切ってもOK」の逆の発想（切ったらOKじゃない→可算）が入試頻出のworkの判別などで役立つ。
+      パターン(3)「ひとまとめ」だから数えない:
+      ・baggage/luggage「荷物ひとまとめ」, furniture「家具ひとまとめ」, money「お金全般」
+      ・baggage = bags, furniture = chairs + tables + beds — 元から複数を含んだ単語
+      ・元から複数形を含むので、さらにsをつけたり冠詞aをつけたりしない
+      workの二面性（入試頻出）:
+      ・work①「仕事」= 不可算（← 目に見えないから）
+      ・work②「作品」= 可算（← 切ったらOKじゃない！）
+      ・パターン(2)の「切ってもOK」の逆の発想で判別できる
+      不可算名詞に使えない語: a/an, 複数のs, many
+      不可算名詞に使える語: some, much, a lot of
+      前提知識との差分: 中学では出てくるたびに1つずつ暗記する方式だが、3パターンで体系的に整理できる。
+      参考書内参照: →p.15 テーマ1「冠詞」（sugarの例）
+
+  # --- Kaku_03: 代名詞 ---
+  - id: "khs-005"
+    name: "the other/another/othersの使い分け"
+    category: "品詞"
+    priority: "P1"
+    notes: |
+      核心（代名詞テーマ全体）: 代名詞は「日本語訳」で考えない。英語の「視点」から考える。
+      the otherとanotherの違い = theとaの違い =「共通認識できるか否か」。
+      ■ 2つだけの場合: one / the other（残り1つは特定できるのでthe）
+      [図表: 対比図 — 2つの丸: one / the other（p.25）]
+      ■ 3つ以上の場合: one / another / ... / the other（ラスト1つはthe other）
+      [図表: 対比図 — 4つの丸: one / another / ... / the other（p.26）]
+      anotherの正体は "an + other"。3つ以上あるとき、2つめはどれを指すか特定できないのでtheは使えず、anがつく。
+      ※「ラスト1つ」はthe otherと考えてよい。
+      ■ 残り全員が特定できる場合: some / the others
+      [図表: 対比図 — 8つの丸: some（白丸）/ the others（黒丸）（p.26-27）]
+      ■ 残りが特定できない場合: some / others（theなし）
+      [図表: 対比図 — 8つの丸+その他: some / others / その他（p.27）]
+      Someで始まる文は「何人かの人」ではなく「~な人もいる」と訳すと自然。
+      前提知識との差分: 中学では代名詞は I-my-me-mine の暗唱が中心。高校では the other/another, it/one, both/all などの厳密な区別が問われる。
+
+  - id: "khs-006"
+    name: "it/one/thatの判別"
+    category: "品詞"
+    priority: "P1"
+    notes: |
+      「前に出てきたもの」を指す代名詞 it/one/that の判別。3つの軸で区別する。
+      ■ 判別の3軸:
+      ①特定 or 不特定: it=特定、one=不特定、that=特定
+      ②前置修飾 or 後置修飾: it=両方NG、one=両方OK、that/those=後置のみOK
+      ③可算名詞 or 不可算名詞: it=両方OK、one=可算のみOK、that=両方OK
+      ■ it vs. one（最頻出）:
+      ・it =「ズバリそれっ！」（特定のもの、前に出た名詞そのもの）
+      ・one =「同じ種類のそれ」（不特定、たくさんある同種類の中の1つ）
+      日本語訳ではなく「特定・不特定」の視点で判別する。
+      ■ thatの特徴:
+      ・前置修飾NG（語源がtheと同じ。theの前に形容詞がこないのと同じ理屈）
+      ・後置修飾OK: that of ~「~のそれ（と同じもの）」が頻出
+      ・that of ~ではofがthatを修飾している
+      ■ oneの修飾:
+      ・前置修飾: this one など
+      ・後置修飾: the one in the box「箱に入っているもの」
+
+  - id: "khs-007"
+    name: "2 vs. 3以上の代名詞（both/either/neither vs. all/any/none）"
+    category: "品詞"
+    priority: "P1"
+    notes: |
+      英語には「2 vs. 3以上」の視点がある。これを見落としやすいので注意。
+      ■ 2つの場合にしか使えない: both「両方」/ either「どちらか・どちらでも」/ neither「どちらも~ない」
+      ■ 3つ以上の場合に使う: all「全部」/ any「どれか・どれでも」/ none「どれも~ない」
+      2つだけのものにallを使ってはいけない。
+      None of ~「~のうち1つも…でない」: noneは代名詞で of ~の形をとれる。
+      noは形容詞が主な役割で "no 名詞" の形で使う。× no of ~という形は英語に存在しない。
+
+  # --- Kaku_04: 形容詞 ---
+  - id: "khs-008"
+    name: "形容詞の用法ルール（限定/叙述・ハイフン形容詞・convenient制約）"
+    category: "品詞"
+    priority: "P1"
+    notes: |
+      核心（用法の面）: 「用法」がポイントの形容詞 — 限定用法のみ・叙述用法のみ・ハイフン形容詞・人を主語にしない形容詞
+      ■ 形容詞の2用法:
+      ①限定用法: 名詞の前に置いて修飾。smart boy（boyを限定）
+      ②叙述用法: 補語になる（主にbe動詞の後）。The boy is kind.（性質を説明）
+      両方の使い方があるのが原則だが、以下の例外がある。
+      (1) 限定用法のみ: only「唯一の」, elder「年上の」, live「生きている」※発音「ライヴ」
+      (2) 叙述用法のみ: alike, alive, asleep, awake, afraid, aware（aで始まるものが多い）
+      (3) 用法で意味が異なる: certain（限定: ある / 叙述: 確かな）、present（限定: 現在の / 叙述: 出席している）
+      ■ convenientは人を主語にしない:
+      ○ It is convenient for you. / × You are convenient.
+      人を主語にしない形容詞: convenient, inconvenient, unnecessary
+      ■ ハイフン形容詞は複数形にしない:
+      three-year-old（× three-years-old）— ハイフンで結ばれて形容詞化しているので複数形にならない（形容詞に単数・複数はありえない）。
+      例: five-year-old daughter, two-week vacation, four-leaf clover, three-story building
+      ※storyの「階」の語源: ヨーロッパの建築物でフロアごとに歴史物語の絵を飾ったことから。
+      ■ 数量形容詞（可算/不可算名詞で使い分ける）:
+      「たくさんの」: 可算 many / 不可算 much
+      「少しある」(肯定): 可算 a few / 不可算 a little
+      「ほとんどない」(否定): 可算 few / 不可算 little
+      「たくさんの」: 可算 quite a few
+      a = 「ある程度のカタマリ1つ」→「少しある」(肯定)、aなし = 「1つのカタマリすらない」→「ほとんどない」(否定)。
+      ■ 単数扱いする「3つのe」: each, every, either は意味が複数っぽいが単数扱い。neitherも同様。
+      前提知識との差分: 中学英語では品詞を意識せず単語の意味を覚えるだけだった。高校では用法（限定/叙述）の区別が問われる。
+
+  - id: "khs-009"
+    name: "-able/-ibleの法則とavailable（能動/受動の判別）"
+    category: "品詞"
+    priority: "P1"
+    notes: |
+      核心（意味の面）: 「意味」がポイントの形容詞 — -able/-ibleの語尾で能動/受動を判別する法則
+      ■ -able/-ibleの2つの特徴:
+      ①可能「～できる」
+      ②受動「～される」
+      -able/-ibleは「～されることができる」と考えると、まぎらわしい形容詞の意味が鮮明に区別できる。
+      裏返し: -able/-ible以外の語尾は能動「～する」と考えられる。
+      ■ 入試で特に大事なペア（能動 vs. 受動）:
+      ・forgetful（忘れっぽい: 能動）vs. forgettable（印象に残らない: 受動 ← 忘れられるような）
+      ・respectful（敬意を示す: 能動）vs. respectable（立派な: 受動 ← 尊敬されるような）
+      ・regretful（残念に思っている: 能動）vs. regrettable（残念な: 受動 ← 後悔されるような）
+      ■ available = 「スタンバイOK」:
+      avail「役立つ」+ -able → 「使われることができる」→「スタンバイOK」
+      ・物がスタンバイOK → 利用できる・手に入る
+      ・人がスタンバイOK → 都合がつく・手が空いている
+      availableの訳語（利用できる/手に入る/都合がつく/手が空いている）を個別に暗記するのではなく、「スタンバイOK」の1イメージで統一理解。
+
 understanding_goals:
   # khs-001
   - node_id: "khs-001"
@@ -56,6 +207,94 @@ understanding_goals:
   - node_id: "khs-002"
     seq: 3
     goal: "aの派生用法（〜につき、ある〇〇、ある程度）を核心概念から説明できる"
+  # khs-003
+  - node_id: "khs-003"
+    seq: 1
+    goal: "入試で問われる「複数形がポイントになる熟語」を4つ挙げることができる"
+  - node_id: "khs-003"
+    seq: 2
+    goal: "これらの熟語で複数形が使われる理由（複数でないと成立しない行為）を説明できる"
+  - node_id: "khs-003"
+    seq: 3
+    goal: "空所補充問題で正しい形（複数形）を選ぶことができる"
+  # khs-004
+  - node_id: "khs-004"
+    seq: 1
+    goal: "不可算名詞の3パターン（目に見えない・切ってもOK・ひとまとめ）を説明できる"
+  - node_id: "khs-004"
+    seq: 2
+    goal: "代表的な不可算名詞がどのパターンに属するか分類できる"
+  - node_id: "khs-004"
+    seq: 3
+    goal: "workが「仕事」（不可算）と「作品」（可算）で扱いが変わる理由を説明できる"
+  - node_id: "khs-004"
+    seq: 4
+    goal: "不可算名詞に使えない語（a, 複数のs, many）と使える語（some, much）を判別できる"
+  # khs-005
+  - node_id: "khs-005"
+    seq: 1
+    goal: "the otherとanotherの違い（共通認識できるか否か）を説明できる"
+  - node_id: "khs-005"
+    seq: 2
+    goal: "2つの場合と3つ以上の場合で、one/the other/anotherの使い分けを図示・説明できる"
+  - node_id: "khs-005"
+    seq: 3
+    goal: "the othersとothersの違い（残り全員が特定できるかどうか）を説明できる"
+  - node_id: "khs-005"
+    seq: 4
+    goal: "空所補充問題でthe other/another/the others/othersを正しく選択できる"
+  # khs-006
+  - node_id: "khs-006"
+    seq: 1
+    goal: "it/one/thatの3つの判別軸（特定/不特定、修飾パターン、可算/不可算）を説明できる"
+  - node_id: "khs-006"
+    seq: 2
+    goal: "itとoneの違いを「特定・不特定」の観点から判別できる"
+  - node_id: "khs-006"
+    seq: 3
+    goal: "that of ~の意味と用法を説明できる"
+  - node_id: "khs-006"
+    seq: 4
+    goal: "空所補充問題でit/one/thatを正しく選択できる"
+  # khs-007
+  - node_id: "khs-007"
+    seq: 1
+    goal: "2つの場合に使う代名詞（both/either/neither）と3つ以上の場合に使う代名詞（all/any/none）を区別できる"
+  - node_id: "khs-007"
+    seq: 2
+    goal: "空所補充問題でnone/neitherやeither/anyを正しく選択できる"
+  - node_id: "khs-007"
+    seq: 3
+    goal: "None of ~の用法と、noとnoneの違いを説明できる"
+  # khs-008
+  - node_id: "khs-008"
+    seq: 1
+    goal: "形容詞の限定用法と叙述用法の違いを説明できる"
+  - node_id: "khs-008"
+    seq: 2
+    goal: "限定用法のみ・叙述用法のみの形容詞を判別できる（例: liveとalive）"
+  - node_id: "khs-008"
+    seq: 3
+    goal: "ハイフン形容詞が複数形にならない理由を説明し、正しい形を書ける"
+  - node_id: "khs-008"
+    seq: 4
+    goal: "convenientが人を主語にできないことを理解し、正しい文を選べる"
+  - node_id: "khs-008"
+    seq: 5
+    goal: "a few/few, a little/littleのaの有無による意味の違いを説明できる"
+  # khs-009
+  - node_id: "khs-009"
+    seq: 1
+    goal: "-able/-ibleの語尾が持つ2つの特徴（可能・受動）を説明できる"
+  - node_id: "khs-009"
+    seq: 2
+    goal: "-able/-ible = 受動、それ以外 = 能動 という法則で、まぎらわしい形容詞ペアを判別できる"
+  - node_id: "khs-009"
+    seq: 3
+    goal: "forgetful/forgettable, respectful/respectable, regretful/regrettableの意味の違いを説明できる"
+  - node_id: "khs-009"
+    seq: 4
+    goal: "availableの意味を「スタンバイOK」のイメージから統一的に説明できる"
 
 check_points:
   # khs-001
@@ -88,8 +327,129 @@ check_points:
     seq: 3
     question: "theとaの文法用語での名前と意味は？"
     answer: "the＝定冠詞（定まったものに使う）、a＝不定冠詞（定まらないものに使う）。"
+  # khs-003
+  - node_id: "khs-003"
+    seq: 1
+    question: "make friends withのfriendsはなぜ複数形か？"
+    answer: "友達になるには2人の人間（自分と相手）が必要。英語では「神様の視点」で世界に2人友達が生まれたという感覚で複数形になる。"
+  - node_id: "khs-003"
+    seq: 2
+    question: "change trainsはなぜ複数形か？"
+    answer: "今乗ってきた電車とこれから乗る電車の2つがあるため。「複数でないと成立しない行為」の例。"
+  - node_id: "khs-003"
+    seq: 3
+    question: "「複数形がポイントになる熟語」を4つ挙げよ。"
+    answer: "make friends with ~, shake hands with ~, change trains, be on [形容詞] terms with ~。どれも「複数でないと成立しない行為」。"
+  # khs-004
+  - node_id: "khs-004"
+    seq: 1
+    question: "information, advice, newsはなぜ不可算名詞か？"
+    answer: "「目に見えない」から。不可算名詞パターン(1)。"
+  - node_id: "khs-004"
+    seq: 2
+    question: "workが「仕事」（不可算）と「作品」（可算）で扱いが変わるのはなぜか？"
+    answer: "「仕事」は目に見えないから不可算。「作品」は切ったらOKじゃない（性質が失われる）から可算。パターン(2)の逆の発想。"
+  - node_id: "khs-004"
+    seq: 3
+    question: "furniture, baggageはなぜ不可算名詞か？"
+    answer: "「ひとまとめ」の概念。furniture = chairs + tables + beds のように元から複数を含んだ単語。さらにsや冠詞aをつけない。"
+  - node_id: "khs-004"
+    seq: 4
+    question: "不可算名詞にmanyは使えるか？someは？"
+    answer: "manyは使えない（much/a lot ofを使う）。someは可算・不可算の両方に使える。"
+  - node_id: "khs-004"
+    seq: 5
+    question: "homework, houseworkはなぜ不可算名詞か？"
+    answer: "「目に見えない」から。見えるのは宿題のテキストや掃除機であり、仕事そのものは目に見えないという英語の発想。"
+  # khs-005
+  - node_id: "khs-005"
+    seq: 1
+    question: "the otherとanotherの違いは何か？"
+    answer: "theとaの違い。the other = 共通認識できる（残り1つが特定できる）。another = an + other で、特定できない「もう1個」。"
+  - node_id: "khs-005"
+    seq: 2
+    question: "2つのうち1つを指した後、残りはどう表現するか？"
+    answer: "one ... the other。残り1つは特定できるのでthe otherを使う。"
+  - node_id: "khs-005"
+    seq: 3
+    question: "the othersとothers（theなし）の違いは？"
+    answer: "the others = 残り全員が特定できる場合。others = 残りが特定できない場合（他にもまだいる）。"
+  - node_id: "khs-005"
+    seq: 4
+    question: "3つ以上あるとき、1つめの次の「もう1個」はthe otherとanotherのどちらか？"
+    answer: "another。まだ残りがいくつかあるので、どれを指すか特定できない。anotherの正体は an + other。"
+  # khs-006
+  - node_id: "khs-006"
+    seq: 1
+    question: "itとoneの違いは？"
+    answer: "it = 特定のもの（「ズバリそれっ！」前に出た名詞そのもの）。one = 不特定のもの（「同じ種類のそれ」たくさんある中の1つ）。"
+  - node_id: "khs-006"
+    seq: 2
+    question: "that of ~はどういう意味か？なぜthatが使われるか？"
+    answer: "「~のそれ（と同じもの）」。例: that of India = the population of India。thatは後置修飾のみOKで、of ~がthatを修飾する。"
+  - node_id: "khs-006"
+    seq: 3
+    question: "it/one/thatの修飾パターンの違いは？"
+    answer: "it = 前置・後置ともNG。one = 前置・後置ともOK（this one, the one in the box等）。that = 後置のみOK（語源がtheと同じで前置修飾不可）。"
+  - node_id: "khs-006"
+    seq: 4
+    question: "oneは不可算名詞を受けることができるか？"
+    answer: "できない。oneは可算名詞のみ。itとthatは可算・不可算の両方を受けられる。"
+  # khs-007
+  - node_id: "khs-007"
+    seq: 1
+    question: "bothとallはどう使い分けるか？"
+    answer: "both = 2つの場合の「両方」。all = 3つ以上の場合の「全部」。2つだけのものにallは使えない。"
+  - node_id: "khs-007"
+    seq: 2
+    question: "neitherとnoneはどう使い分けるか？"
+    answer: "neither = 2つの場合の「どちらも~ない」。none = 3つ以上の場合の「どれも~ない」。"
+  - node_id: "khs-007"
+    seq: 3
+    question: "None of ~は使えるが、No of ~は使えない。なぜか？"
+    answer: "noは形容詞で「no 名詞」の形で使う。noneは代名詞で「none of ~」の形をとれる。× no of ~という形は英語に存在しない。"
+  # khs-008
+  - node_id: "khs-008"
+    seq: 1
+    question: "限定用法のみの形容詞の例を挙げよ。"
+    answer: "only「唯一の」, elder「年上の」, live「生きている」（発音はライヴ）。名詞の前に置く用法でしか使えない。"
+  - node_id: "khs-008"
+    seq: 2
+    question: "叙述用法のみの形容詞にはどのような特徴があるか？"
+    answer: "aで始まるものが多い（alike, alive, asleep, awake, afraid, aware）。名詞の前には置けず、補語としてのみ使う。"
+  - node_id: "khs-008"
+    seq: 3
+    question: "three-years-old boysはなぜ誤りか？"
+    answer: "ハイフンで結ばれて形容詞化しているため複数形にならない。正しくはthree-year-old boys。形容詞に単数・複数はありえない。"
+  - node_id: "khs-008"
+    seq: 4
+    question: "「あなたに都合がよい」はYou are convenient.で正しいか？"
+    answer: "誤り。convenientは人を主語にできない形容詞。It is convenient for you. が正しい。"
+  - node_id: "khs-008"
+    seq: 5
+    question: "a fewとfewの違いは？"
+    answer: "a few = 「少しある」（肯定的）。few = 「ほとんどない」（否定的）。aは「ある程度のカタマリ1つ」→ある = 肯定、aなし = 1つのカタマリすらない = 否定。"
+  # khs-009
+  - node_id: "khs-009"
+    seq: 1
+    question: "-able/-ibleの語尾はどのような意味を持つか？"
+    answer: "①可能「～できる」②受動「～される」。「～されることができる」と考えると判別に使える。"
+  - node_id: "khs-009"
+    seq: 2
+    question: "respectfulとrespectableの違いは？"
+    answer: "respectful = 能動「敬意を示す」（-fulは-able以外→能動）。respectable = 受動「立派な・尊敬されるような」（-able→受動）。"
+  - node_id: "khs-009"
+    seq: 3
+    question: "regretfulとregrettableのどちらが「残念に思っている」か？"
+    answer: "regretful（-ful = 能動「残念に思っている」）。regrettableは-able = 受動「残念な・悲しむべき」。"
+  - node_id: "khs-009"
+    seq: 4
+    question: "availableの多義語（利用できる/手に入る/都合がつく）はどのようなイメージで統一できるか？"
+    answer: "-ableから「使われることができる」→「スタンバイOK」。物がスタンバイOK = 利用できる・手に入る、人がスタンバイOK = 都合がつく・手が空いている。"
 
-node_prerequisites: []
+node_prerequisites:
+  - node_id: "khs-005"
+    prerequisite_id: "khs-001"
 
 knowledge_references:
   - node_id: "khs-001"
@@ -100,3 +460,31 @@ knowledge_references:
     book: "英文法の核心"
     section_id: "Kaku_01"
     pages: "p.13"
+  - node_id: "khs-003"
+    book: "英文法の核心"
+    section_id: "Kaku_02"
+    pages: "p.17-18"
+  - node_id: "khs-004"
+    book: "英文法の核心"
+    section_id: "Kaku_02"
+    pages: "p.18-20"
+  - node_id: "khs-005"
+    book: "英文法の核心"
+    section_id: "Kaku_03"
+    pages: "p.25-27"
+  - node_id: "khs-006"
+    book: "英文法の核心"
+    section_id: "Kaku_03"
+    pages: "p.27-29"
+  - node_id: "khs-007"
+    book: "英文法の核心"
+    section_id: "Kaku_03"
+    pages: "p.29-30"
+  - node_id: "khs-008"
+    book: "英文法の核心"
+    section_id: "Kaku_04"
+    pages: "p.35-37, 39"
+  - node_id: "khs-009"
+    book: "英文法の核心"
+    section_id: "Kaku_04"
+    pages: "p.37-39"

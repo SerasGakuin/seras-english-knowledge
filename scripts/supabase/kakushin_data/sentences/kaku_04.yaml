@@ -1,0 +1,165 @@
+# Kaku_04: 形容詞（p.35-43）
+
+sentences:
+  # === 本編解説の例文 ===
+  - id: "kaku-04-e01"
+    section_id: "Kaku_04"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "Yuina comes from a respectable family."
+    japanese: "ユイナは立派な家柄の出だ。"
+    notes: "respect+able（受動）→「リスペクトされるような家」→「立派な家柄」"
+  - id: "kaku-04-e02"
+    section_id: "Kaku_04"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Yuina's parents were respectful of her career choice."
+    japanese: "ユイナの両親は、彼女の進路選択を尊重した。"
+    notes: "respect+ful（能動）→「リスペクトを示している」。be respectful of ~「~に敬意を示す・~を尊重する」はよく使われる形"
+  - id: "kaku-04-e03"
+    section_id: "Kaku_04"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "Free Wi-Fi is available in the hotel lobby."
+    japanese: "ホテルのロビーでは、無料Wi-Fiが使えます。"
+    notes: "availableは「スタンバイOK」のイメージ。物がスタンバイOK→「利用できる」という意味"
+
+  # === CHECK 入試問題に向けて ===
+  - id: "kaku-04-c01"
+    section_id: "Kaku_04"
+    drill: 1
+    number: 1
+    role: "check"
+    english: "It is convenient for you."
+    japanese: "あなたにとって都合がいい。"
+    notes: "CHECK(1)。「正しいのはどっち」形式。正解: ①It is convenient。convenientは人を主語にできない形容詞。×You are convenientではなくIt is convenient (for you) が正しい"
+  - id: "kaku-04-c02"
+    section_id: "Kaku_04"
+    drill: 1
+    number: 2
+    role: "check"
+    english: "He is regretful."
+    japanese: "彼は残念に思っている。"
+    notes: "CHECK(2)。空所補充。正解: ①regretful。「彼が残念に思っている」は能動関係なのでregretful（-ful=能動）。②regrettableは-able（受動）で「残念な・悲しむべき」"
+
+  # === 実際の入試問題演習 ===
+  - id: "kaku-04-x01"
+    section_id: "Kaku_04"
+    drill: 2
+    number: 1
+    role: "exam"
+    english: "Live animals will be accepted for transportation only when shipped in accordance with government regulations."
+    japanese: "生きた動物は、政府の規制に従って輸送される場合のみ輸送が許可されるだろう。"
+    notes: "出典: 立教大学。空所補充。正解: ②Live。名詞animalsを修飾する限定用法の形容詞が必要。liveは限定用法のみの形容詞「生きている」。aliveは叙述用法のみなのでNG"
+  - id: "kaku-04-x02"
+    section_id: "Kaku_04"
+    drill: 2
+    number: 2
+    role: "exam"
+    english: "Three-year-old boys learn fast, so give them presents that will help them develop skills."
+    japanese: "3歳の男の子は学ぶのが早い。だから彼らには技能を成長させるようなプレゼントを与えよ。"
+    notes: "出典: 早稲田大学。誤り訂正。正解: ①Three-years-old → Three-year-old。ハイフンで結ばれて形容詞化しているので複数形にならない"
+  - id: "kaku-04-x03"
+    section_id: "Kaku_04"
+    drill: 2
+    number: 3
+    role: "exam"
+    english: "It is most regrettable that Mr. Cole has decided to resign."
+    japanese: "コールさんが辞職することを決めたのは、とても残念なことだ。"
+    notes: "出典: 法政大学。空所補充。正解: ④regrettable。It is ~ that ...「…することは~だ」の仮主語構文。「辞職すること」は「残念に思われる」（受動関係）なので-able（受動）のregrettable"
+  - id: "kaku-04-x04"
+    section_id: "Kaku_04"
+    drill: 2
+    number: 4
+    role: "exam"
+    english: "I am available the day after tomorrow."
+    japanese: "あさってなら時間があります。"
+    notes: "出典: 中央大学。空所補充。正解: ①available。「スタンバイOK」→ 人がスタンバイOK→「手が空いている・都合がつく・時間がある」"
+
+sentence_structures:
+  # e01
+  - sentence_id: "kaku-04-e01"
+    label: "overall"
+    value: "S V M."
+  - sentence_id: "kaku-04-e01"
+    label: "details"
+    value: "Yuina(S) comes(V) [from <a respectable family>](M:前置詞句)."
+  # e02
+  - sentence_id: "kaku-04-e02"
+    label: "overall"
+    value: "S V C M."
+  - sentence_id: "kaku-04-e02"
+    label: "details"
+    value: "<Yuina's parents>(S) were(V) respectful(C) [of <her career choice>](M:前置詞句)."
+  # e03
+  - sentence_id: "kaku-04-e03"
+    label: "overall"
+    value: "S V C M."
+  - sentence_id: "kaku-04-e03"
+    label: "details"
+    value: "<Free Wi-Fi>(S) is(V) available(C) [in <the hotel lobby>](M:前置詞句)."
+  # c01
+  - sentence_id: "kaku-04-c01"
+    label: "overall"
+    value: "S V C M."
+  - sentence_id: "kaku-04-c01"
+    label: "details"
+    value: "It(S) is(V) convenient(C) [for you](M:前置詞句)."
+  # c02
+  - sentence_id: "kaku-04-c02"
+    label: "overall"
+    value: "S V C."
+  - sentence_id: "kaku-04-c02"
+    label: "details"
+    value: "He(S) is(V) regretful(C)."
+  # x01
+  - sentence_id: "kaku-04-x01"
+    label: "overall"
+    value: "S V M M."
+  - sentence_id: "kaku-04-x01"
+    label: "details"
+    value: "<Live animals>(S) will be accepted(V:受動態) [for transportation](M:前置詞句) [only when shipped in accordance with government regulations](M:条件節/分詞構文)."
+  # x02
+  - sentence_id: "kaku-04-x02"
+    label: "overall"
+    value: "S V M, so V O1 O2."
+  - sentence_id: "kaku-04-x02"
+    label: "details"
+    value: "<Three-year-old boys>(S) learn(V) fast(M:副詞), so give(V:命令) them(O1) <presents [that will help them develop skills]>(O2:名詞+関係代名詞節)."
+  # x03
+  - sentence_id: "kaku-04-x03"
+    label: "overall"
+    value: "It V C that S V O."
+  - sentence_id: "kaku-04-x03"
+    label: "details"
+    value: "It(仮S) is(V) <most regrettable>(C) [that Mr. Cole(S) has decided(V) <to resign>(O:不定詞)](真主語:that節)."
+  # x04
+  - sentence_id: "kaku-04-x04"
+    label: "overall"
+    value: "S V C M."
+  - sentence_id: "kaku-04-x04"
+    label: "details"
+    value: "I(S) am(V) available(C) [the day after tomorrow](M:副詞句)."
+
+sentence_knowledge_tags:
+  - sentence_id: "kaku-04-e01"
+    node_id: "khs-009"
+  - sentence_id: "kaku-04-e02"
+    node_id: "khs-009"
+  - sentence_id: "kaku-04-e03"
+    node_id: "khs-009"
+  - sentence_id: "kaku-04-c01"
+    node_id: "khs-008"
+  - sentence_id: "kaku-04-c02"
+    node_id: "khs-009"
+  - sentence_id: "kaku-04-x01"
+    node_id: "khs-008"
+  - sentence_id: "kaku-04-x02"
+    node_id: "khs-008"
+  - sentence_id: "kaku-04-x03"
+    node_id: "khs-009"
+  - sentence_id: "kaku-04-x04"
+    node_id: "khs-009"

@@ -1,0 +1,148 @@
+# Kaku_02: 名詞（p.17-24）
+
+sentences:
+  # === 本編解説の例文 ===
+  - id: "kaku-02-e01"
+    section_id: "Kaku_02"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "She wants to make friends with you."
+    japanese: "彼女は君と友達になりたいと思っているんだよ。"
+    notes: "make friends with ~「~と友達になる」。複数形がポイントになる熟語の代表例"
+
+  # === CHECK 入試問題に向けて ===
+  - id: "kaku-02-c01"
+    section_id: "Kaku_02"
+    drill: 1
+    number: 1
+    role: "check"
+    english: "He made friends with her."
+    japanese: "彼は彼女と友達になった。"
+    notes: "空所補充。正解: friends（複数形）"
+  - id: "kaku-02-c02"
+    section_id: "Kaku_02"
+    drill: 1
+    number: 2
+    role: "check"
+    english: "He got some advice from his coach."
+    japanese: "彼はコーチからいくつかのアドバイスをもらった。"
+    notes: "空所補充。正解: some advice（adviceは不可算名詞）。someは可算・不可算の両方に使える"
+  - id: "kaku-02-c03"
+    section_id: "Kaku_02"
+    drill: 1
+    number: 3
+    role: "check"
+    english: "The museum has many works by Vincent van Gogh."
+    japanese: "その美術館にはフィンセント・ファン・ゴッホの作品がたくさんある。"
+    notes: "下線部の意味を問う問題。正解: 「作品」。worksと複数形（可算名詞扱い）なので「作品」の意味"
+
+  # === 実際の入試問題演習 ===
+  - id: "kaku-02-x01"
+    section_id: "Kaku_02"
+    drill: 2
+    number: 1
+    role: "exam"
+    english: "You'll have to change trains at Hiroshima to get there."
+    japanese: "そこに着くためには、広島で電車を乗り換えないといけないだろうね。"
+    notes: "出典: 広島経済大学。空所補充。change trains「電車を乗り換える」。今乗ってきた電車とこれから乗る電車の複数"
+  - id: "kaku-02-x02"
+    section_id: "Kaku_02"
+    drill: 2
+    number: 2
+    role: "exam"
+    english: "A pamphlet with much information, describing the courses, is available from the Admissions Office."
+    japanese: "コースのことが記載されていて、多くの情報が含まれているパンフレットは入学事務局で入手できます。"
+    notes: "出典: 立命館大学。誤り訂正。many informations → much information。informationは不可算名詞で複数形不可、manyも不可"
+  - id: "kaku-02-x03"
+    section_id: "Kaku_02"
+    drill: 2
+    number: 3
+    role: "exam"
+    english: "Chiharu is busy with all the housework since her marriage last year."
+    japanese: "チハルは昨年結婚して以来、あらゆる家事で忙しい。"
+    notes: "出典: 早稲田大学。誤り訂正。all the houseworks → all the housework。houseworkは不可算名詞（目に見えない）で複数形不可"
+  - id: "kaku-02-x04"
+    section_id: "Kaku_02"
+    drill: 2
+    number: 4
+    role: "exam"
+    english: "Pretty much, but I still need to buy some furniture."
+    japanese: "かなりね。でも、まだいくつか家具を買わないといけないんだ。"
+    notes: "出典: 北海学園大学。空所補充。対話形式（X: Are you settled into your new apartment?への返答）。furnitureは不可算名詞（ひとまとめ）で、aも複数sも不可。someは不可算名詞にも使える"
+
+sentence_structures:
+  # e01
+  - sentence_id: "kaku-02-e01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-02-e01"
+    label: "details"
+    value: "She(S) wants(V) <to make friends with you>(O:不定詞句)."
+  # c01
+  - sentence_id: "kaku-02-c01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "kaku-02-c01"
+    label: "details"
+    value: "He(S) made(V) friends(O) [with her](M:前置詞句)."
+  # c02
+  - sentence_id: "kaku-02-c02"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "kaku-02-c02"
+    label: "details"
+    value: "He(S) got(V) <some advice>(O) [from his coach](M:前置詞句)."
+  # c03
+  - sentence_id: "kaku-02-c03"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-02-c03"
+    label: "details"
+    value: "<The museum>(S) has(V) <many works [by Vincent van Gogh]>(O)."
+  # x01
+  - sentence_id: "kaku-02-x01"
+    label: "overall"
+    value: "S V O M M"
+  - sentence_id: "kaku-02-x01"
+    label: "details"
+    value: "You(S)'ll have to change(V) trains(O) [at Hiroshima](M:前置詞句) [to get there](M:不定詞句/目的)."
+  # x02
+  - sentence_id: "kaku-02-x02"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "kaku-02-x02"
+    label: "details"
+    value: "<A pamphlet [with much information], [describing the courses]>(S) is(V) available(C) [from the Admissions Office](M:前置詞句)."
+  # x03
+  - sentence_id: "kaku-02-x03"
+    label: "overall"
+    value: "S V C M M"
+  - sentence_id: "kaku-02-x03"
+    label: "details"
+    value: "Chiharu(S) is(V) busy(C) [with all the housework](M:前置詞句) [since her marriage last year](M:前置詞句)."
+  # x04
+  - sentence_id: "kaku-02-x04"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-02-x04"
+    label: "details"
+    value: "Pretty much(応答), but I(S) still need to buy(V) <some furniture>(O)."
+
+sentence_knowledge_tags:
+  - sentence_id: "kaku-02-e01"
+    node_id: "khs-003"
+  - sentence_id: "kaku-02-c01"
+    node_id: "khs-003"
+  - sentence_id: "kaku-02-c02"
+    node_id: "khs-004"
+  - sentence_id: "kaku-02-c03"
+    node_id: "khs-004"
+  - sentence_id: "kaku-02-x01"
+    node_id: "khs-003"
+  - sentence_id: "kaku-02-x02"
+    node_id: "khs-004"
+  - sentence_id: "kaku-02-x03"
+    node_id: "khs-004"
+  - sentence_id: "kaku-02-x04"
+    node_id: "khs-004"
