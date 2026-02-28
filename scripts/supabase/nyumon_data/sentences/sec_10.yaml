@@ -1,0 +1,45 @@
+sentences:
+  - id: "ny-10-s1"
+    section_id: "Ny_10"
+    drill: 10
+    number: 1
+    role: "exercise"
+    english: "The history of the development of numbers is still not fully understood, but recent work by researchers into clay tokens found all over the Middle East has given us a better picture."
+    japanese: "数の発達の歴史はいまだに十分には理解されていない。しかし，中東全域で発見された粘土の塊を研究する研究者による最近の調査によってよりはっきりとイメージがつかめるようになった。"
+    notes: "出典: 名城大学。* clay token「粘土の塊」（問題文の語彙注釈）"
+  - id: "ny-10-s2"
+    section_id: "Ny_10"
+    drill: 10
+    number: 2
+    role: "exercise"
+    english: "Thanks to this research, it now seems probable that mathematics was invented before writing itself."
+    japanese: "この研究のおかげで，数学はおそらく文字そのものより前に発明されたらしいということが今わかっている。"
+    notes: "出典: 名城大学"
+
+sentence_structures:
+  - sentence_id: "ny-10-s1"
+    label: "overall"
+    value: "S V, S V O O"
+  - sentence_id: "ny-10-s1"
+    label: "details"
+    value: "{S}The history (of the development (of numbers)(M:形容詞句))(M:形容詞句) {V}is still not fully understood, {等接}but {S}recent work (by researchers (into clay tokens (found (all over the Middle East)(M:副詞句))(M:形容詞句/過去分詞))(M:形容詞句))(M:形容詞句) {V}has given {O}us {O}a better picture."
+  - sentence_id: "ny-10-s1"
+    label: "partial_translations"
+    value: |
+      ❸ 粘土の塊について研究している研究者による最近の調査
+  - sentence_id: "ny-10-s2"
+    label: "overall"
+    value: "M S V C"
+  - sentence_id: "ny-10-s2"
+    label: "details"
+    value: "(Thanks to this research)(M:副詞句), {S}it(仮主語) now {V}seems {C}probable [that {S}mathematics {V}was invented (before writing itself)(M:副詞句)](C:that節/真主語)."
+  - sentence_id: "ny-10-s2"
+    label: "partial_translations"
+    value: |
+      ❻ おそらく…だと思われる
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-10-s1"
+    node_id: "nsv-009"
+  - sentence_id: "ny-10-s2"
+    node_id: "nsv-009"

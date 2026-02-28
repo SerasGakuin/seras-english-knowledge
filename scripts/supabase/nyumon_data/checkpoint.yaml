@@ -1,37 +1,39 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T23:30:00"
+updated_at: "2026-03-02T00:30:00"
 book: "入門英文問題精講"
 book_slug: "nyumon"
 
 current_state:
   phase: "Phase 2B"
-  current_section: "Ny_08"
+  current_section: "Ny_11"
   current_step: "Step 1"
-  last_completed_section: "Ny_07"
+  last_completed_section: "Ny_10"
   last_completed_gate: 5
 
 progress:
   total_sections: 85
-  completed: 21
+  completed: 24
   in_progress: 0
-  remaining: 64
-  total_nodes: 20
-  total_sentences: 93
+  remaining: 61
+  total_nodes: 23
+  total_sentences: 98
 
 recent_decisions:
-  - "Ny_05: 2 Point（❸❹）→ nsv-005 に統合（catch O V-ing + help O to V + 知覚/使役動詞は同一テーマ SVOC with C=V形）"
-  - "Ny_06+07: 3 Point（Ny_06❷ + Ny_07❷❹）→ nsv-006 に統合（分詞との区別①②は同一テーマ）"
-  - "nsv-006 の比率 2/3=0.67: 0.7を僅かに下回るが、Ny_06/07は明示的に①②の続きであり統合は妥当"
-  - "Ny_07 の「I have no water.」は登録しない（no+名詞は tangential、適切なタグ対象ノードなし）"
+  - "Ny_08: ny-08-s1 は what関係代名詞を練習する文なので nks-001 にタグ（nsv-007 ではない）"
+  - "Ny_08: ny-08-s2 の when writing 省略パターンを nsv-007 にタグ"
+  - "Ny_08: 英文中の「...」は原本に忠実に保存"
+  - "Ny_09: Point❶は長い副詞句の認識スキルとして nsv-008 を独立ノード化（nsv-006 との重複は承知の上）"
+  - "Ny_10: 長い主語 nsv-009 は nsv-001, nsv-006 を前提知識に設定"
 
 active_concerns:
   - "nbk-001, nbk-002 は tagged sentences なし（WARNING レベル。基本講義ノードでは想定内）"
   - "nsv-003 のタグ付き英文が1文のみ（ny-03-s1）。テスト生成時に素材が少ない"
 
 next_actions:
-  - "Phase 2B Batch 7: Ny_08（主語と動詞の省略）→ Ny_09（文頭の長い副詞句）→ Ny_10（長い主語）"
+  - "Phase 2B Batch 8: Ny_11（主語の把握（否定語））— 第1章末セクション"
+  - "Batch 8 完了後: 章区切りのため全指示書再読込"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

@@ -1,0 +1,47 @@
+sentences:
+  - id: "ny-08-s1"
+    section_id: "Ny_08"
+    drill: 8
+    number: 1
+    role: "exercise"
+    english: "... his theory of relativity does not fit with what we know about gravity, namely with how things fall."
+    japanese: "彼の相対性理論は，重力に関して私達が知っていること，すなわち，物の落下の仕方とは合わない。"
+    notes: "出典: 信州大学。文頭の ... は原文が中途からの抜粋であることを示す。"
+  - id: "ny-08-s2"
+    section_id: "Ny_08"
+    drill: 8
+    number: 2
+    role: "exercise"
+    english: "He came to realize this when writing an article summarizing his theory ...."
+    japanese: "彼は，彼の理論を要約する論文を書いているときにこのことに気がついた。"
+    notes: "出典: 信州大学。末尾の .... は原文に後続があることを示す。"
+
+sentence_structures:
+  - sentence_id: "ny-08-s1"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "ny-08-s1"
+    label: "details"
+    value: "... {S}his theory (of relativity)(M:形容詞句) {V}does not fit (with [what {S}we {V}know (about gravity)(M:副詞句)](O:what節))(M:副詞句), (namely with [how {S}things {V}fall](M:how節))(M:副詞句)."
+  - sentence_id: "ny-08-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 彼の相対性理論は，重力に関して私達が知っていることと合わない
+      ❷ すなわち，物の落下の仕方
+  - sentence_id: "ny-08-s2"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "ny-08-s2"
+    label: "details"
+    value: "{S}He {V}came to realize {O}this (when writing an article (summarizing his theory)(M:形容詞句/現在分詞))(M:副詞句/when節省略) ...."
+  - sentence_id: "ny-08-s2"
+    label: "partial_translations"
+    value: |
+      ❸ 彼はこのことに気づいた
+      ❹ 彼の理論を要約する論文を書いているときに
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-08-s1"
+    node_id: "nks-001"
+  - sentence_id: "ny-08-s2"
+    node_id: "nsv-007"

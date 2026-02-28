@@ -1,0 +1,26 @@
+sentences:
+  - id: "ny-09-s1"
+    section_id: "Ny_09"
+    drill: 9
+    number: 1
+    role: "exercise"
+    english: "According to a report published jointly in December 2015 by Nomura Research Institute and Oxford University, researchers predicted that advanced robots and AI would replace about 49 percent of Japan's workforce within 10 to 20 years."
+    japanese: "野村総合研究所がオックスフォード大学と共同して2015年12月に発表した報告によると，進化したロボットと人工知能は今後10年から20年以内に日本の労働力のおよそ49パーセントに取って代わると研究者は予測した。"
+    notes: "出典: 鳥取大学。* AI: Artificial Intelligence「人工知能」（問題文の語彙注釈）"
+
+sentence_structures:
+  - sentence_id: "ny-09-s1"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "ny-09-s1"
+    label: "details"
+    value: "(According to a report (published jointly (in December 2015)(M:副詞句) (by Nomura Research Institute and Oxford University)(M:副詞句))(M:形容詞句/過去分詞))(M:副詞句), {S}researchers {V}predicted {O}[that {S}advanced robots {等接}and AI {V}would replace {O}about 49 percent (of Japan's workforce)(M:形容詞句) (within 10 to 20 years)(M:副詞句)](O:that節)."
+  - sentence_id: "ny-09-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 野村総合研究所とオックスフォード大学の共同によって2015年12月に発表された報告によると
+      ❸ 進化したロボットとAIが日本の労働力のおよそ49パーセントに取って代わる
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-09-s1"
+    node_id: "nsv-008"

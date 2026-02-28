@@ -144,19 +144,25 @@ sections:
     title: "主語と動詞の省略"
     pages: "p.42-43"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: when の後ろに足りないものは？
+      一言: 相対性理論で述べていることは「光の速さで移動する物体は縮む」などの現象。「重力に関して私達が知っていることと合わない」というのは，この理論が誤りだということではない。
   - id: "Ny_09"
     book: "入門英文問題精講"
     title: "主語の把握（文頭の長い副詞句）"
     pages: "p.44-45"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: どこに主語がある？
+      一言: Oxford University は英語圏で最古の歴史（およそ900年）を誇り，ケンブリッジ大学と共にイギリスを代表する大学。50名以上のノーベル賞受賞者を輩出。Oxford English Dictionary は総収録語数600,000語超の大辞典でギネスに認定されている。
   - id: "Ny_10"
     book: "入門英文問題精講"
     title: "主語の把握（長い主語）"
     pages: "p.46-47"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: 文の主語はどこまで？
+      一言: 「数学のほうが文字より早い段階で発明された」とは，文字はないが数字はあったということ。人間は損得・金銭勘定をまず発達させた。
   - id: "Ny_11"
     book: "入門英文問題精講"
     title: "主語の把握（否定語）"
@@ -609,6 +615,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_07"
     node_id: "nsv-006"
+    seq: 1
+  - section_id: "Ny_08"
+    node_id: "nsv-007"
+    seq: 1
+  - section_id: "Ny_09"
+    node_id: "nsv-008"
+    seq: 1
+  - section_id: "Ny_10"
+    node_id: "nsv-009"
     seq: 1
 
 section_prerequisites: []

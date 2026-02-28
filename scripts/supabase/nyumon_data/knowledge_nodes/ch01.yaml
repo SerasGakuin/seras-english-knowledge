@@ -174,6 +174,77 @@ knowledge_nodes:
         英語では否定語が名詞につくことがある。
         no = not any と分解すると「どんな～もない」と訳せる。
 
+  - id: "nsv-007"
+    name: "接続詞節の主語と動詞の省略"
+    category: "主語と動詞の把握"
+    priority: "P1"
+    notes: |
+      Point分類: ❹〔接続詞〕
+      ■ 〈when/while/if + S + be動詞 + V-ing〉の場合、〈S + be動詞〉が省略されることがある。
+        条件: 従属節の主語が主節の主語と同じ場合。
+        例: when (he was) writing → when writing
+      ■ summarizing his theory:
+        summarize の現在分詞形が直前の名詞 an article を修飾する形容詞の働き。
+        「彼の理論を要約した（論文）」。
+      ❶ what は関係代名詞「～こと」:
+        what we know about gravity = 「重力に関して私達が知っていること」。
+        what節全体が前置詞 with の目的語。→第3章で詳しく解説。
+      ❷ how は疑問副詞/関係副詞:
+        how things fall = 「どのようにして物が落ちるのか」「物の落下の仕方」。
+        how節全体が前置詞 with の目的語（名詞のかたまり）。
+      ❸ 文を指す代名詞 this/that:
+        普通「もの・事柄」を指す代名詞は it だが、文全体の内容を指す場合は this/that。
+        ただし it が if/when 節の内容を指す場合は it でもOK。
+
+  - id: "nsv-008"
+    name: "文頭の長い副詞句と主語の識別"
+    category: "主語と動詞の把握"
+    priority: "P1"
+    notes: |
+      Point分類: ❶〔分詞〕
+      ■ 文頭に長い〈前置詞＋名詞＋分詞句〉がある場合、全体が副詞句。
+        主語はその後（通常コンマの後）に来る。
+      ■ according to ～ の to ～ には「調査結果」「研究の結果」「天気予報」等が置かれる。
+        自分の主張を有利に進めるために資料を持ち出すときに使う。
+      ■ published は過去分詞: a report に前置詞 according to がついているため主語ではない。
+        published を過去形とすると目的語がない → 過去分詞形。
+        published ... University 全体で a report を修飾する形容詞句。
+      ❷ 接続詞 that（文を名詞化する働き）:
+        predict の目的語として、that 以降の文全体を1つの名詞にする。
+        that advanced robots を「その進化したロボット」と読むのは不可（those なら可）。
+      ❸ 時制の一致: predicted が過去形 → will → would に変化。
+        内容は未来の予測だが、語り手の視点が過去なので would を使う。
+      ❹ within 10 to 20 years: 前置詞+名詞=副詞句。
+        〈from A to B〉の from が名詞の前では省略されることがある。
+        例: a nine to five job「9時から5時までの仕事」
+
+  - id: "nsv-009"
+    name: "長い主語の構造把握"
+    category: "主語と動詞の把握"
+    priority: "P1"
+    notes: |
+      Point分類: ❸〔形容詞〕❹〔分詞〕
+      ■ 複数の前置詞句・分詞句を含む長い主語の解析方法:
+        前置詞のついた名詞は主語にならないルールを繰り返し適用する。
+        例: The history of the development of numbers → 主語は The history
+      ■ 前置詞句の修飾先の判断:
+        into clay tokens は researchers を修飾（work ではない）。
+        work into ～ という形は使わないが、research/researchers into ～ は使われる。
+      ■ found = 過去分詞（clay tokens を修飾）:
+        過去形なら目的語が必要だが、直後は副詞句 all over the Middle East。
+        目的語がない → 過去分詞形で、直前の clay tokens を修飾。
+      ❶ of the development of numbers は形容詞句として history を修飾。
+      ❷ still not fully understood: 部分否定。
+        not fully = 「十分には～ない」。still = 「依然として」。
+      ❺ 〈give O O〉: 「OにOを与える」。
+        us = 一般人（研究者 they に対して）。picture = 「イメージ、全体像」。
+      ❻ 形式主語構文 it seems probable that ...:
+        it は仮の主語。that節が真の主語。
+        it is probable that ... の is を seems に置き換えた形。
+      ❼ 再帰代名詞 oneself:
+        (1) 主語と目的語が一致する場合: You shouldn't blame yourself.
+        (2) 〈名詞 + oneself〉で名詞を強調: writing itself「文字そのもの」
+
 understanding_goals:
   - node_id: "nsv-001"
     seq: 1
@@ -250,6 +321,39 @@ understanding_goals:
   - node_id: "nsv-006"
     seq: 5
     goal: "分詞構文としての-ed形（being省略）を認識できる"
+  - node_id: "nsv-007"
+    seq: 1
+    goal: "〈when/while/if + V-ing〉を見て、省略された主語とbe動詞を復元できる"
+  - node_id: "nsv-007"
+    seq: 2
+    goal: "主節と従属節の主語が一致する場合に省略が起こることを理解している"
+  - node_id: "nsv-007"
+    seq: 3
+    goal: "現在分詞が名詞を修飾する形容詞的用法を認識できる"
+  - node_id: "nsv-008"
+    seq: 1
+    goal: "文頭の長い前置詞句（分詞句を含む）を副詞句と認識し、主語を特定できる"
+  - node_id: "nsv-008"
+    seq: 2
+    goal: "長い前置詞句内の-ed形を過去分詞と判定できる"
+  - node_id: "nsv-008"
+    seq: 3
+    goal: "接続詞thatが文を名詞化する働きを理解している"
+  - node_id: "nsv-008"
+    seq: 4
+    goal: "時制の一致（will→would）のパターンを認識できる"
+  - node_id: "nsv-009"
+    seq: 1
+    goal: "複数の前置詞句・分詞句を含む長い主語を正しく解析し、動詞の位置を特定できる"
+  - node_id: "nsv-009"
+    seq: 2
+    goal: "前置詞句の修飾先を文脈から正しく判断できる"
+  - node_id: "nsv-009"
+    seq: 3
+    goal: "長い主語内の過去分詞を形容詞と認識し、名詞修飾と判断できる"
+  - node_id: "nsv-009"
+    seq: 4
+    goal: "形式主語構文 it seems/is ... that ... の構造を理解し、真の主語を特定できる"
 
 check_points:
   - node_id: "nsv-001"
@@ -348,6 +452,46 @@ check_points:
     seq: 4
     question: "conducted と showed が同じ文にある場合、どちらが文の中心の動詞か判定する方法は？"
     answer: "conducted は他動詞だが目的語がないため過去分詞形。showed が中心の動詞。conducted は a previous analysis を修飾する過去分詞（形容詞句）。"
+  - node_id: "nsv-007"
+    seq: 1
+    question: "when writing an article の省略を復元するとどうなるか？"
+    answer: "when (he was) writing an article. 接続詞 when の後の主語（主節の主語と同一）と be動詞が省略されている。"
+  - node_id: "nsv-007"
+    seq: 2
+    question: "〈when S + be + V-ing〉の〈S + be動詞〉が省略される条件は？"
+    answer: "従属節の主語が主節の主語と同じ場合。while, if などでも同様の省略が起こる。"
+  - node_id: "nsv-007"
+    seq: 3
+    question: "an article summarizing his theory の summarizing は何か？"
+    answer: "summarize の現在分詞形で、直前の名詞 an article を修飾する形容詞の働き。「彼の理論を要約した論文」の意味。"
+  - node_id: "nsv-008"
+    seq: 1
+    question: "According to a report published ... University, の部分は文のどの要素か？ また文の主語はどこか？"
+    answer: "文全体を修飾する副詞句。主語はコンマの後の researchers。"
+  - node_id: "nsv-008"
+    seq: 2
+    question: "published jointly in December 2015 by ... が過去分詞だと判定する根拠は？"
+    answer: "a report には前置詞 according to がついているため主語ではない。published を過去形とすると目的語がない。よって過去分詞で a report を修飾する形容詞句。"
+  - node_id: "nsv-008"
+    seq: 3
+    question: "predicted that advanced robots and AI would replace ... の would は何を表すか？"
+    answer: "時制の一致。predicted が過去形であるため will → would に変化した。未来の予測内容を過去時制の中で表している。"
+  - node_id: "nsv-009"
+    seq: 1
+    question: "The history of the development of numbers の主語はどの語か？"
+    answer: "The history. of the development of numbers は形容詞句で history を修飾。前置詞のついた名詞（development, numbers）は主語にならない。"
+  - node_id: "nsv-009"
+    seq: 2
+    question: "researchers into clay tokens の into clay tokens は何を修飾するか？ work ではない理由は？"
+    answer: "researchers を修飾。work into ～ という形は使わないが、research/researchers into ～ は使われるため。"
+  - node_id: "nsv-009"
+    seq: 3
+    question: "found all over the Middle East の found は過去形か過去分詞形か？ その判定根拠は？"
+    answer: "過去分詞形。過去形なら目的語が必要だが、直後は副詞句 all over the Middle East なので目的語がない。直前の clay tokens を修飾する形容詞の働き。"
+  - node_id: "nsv-009"
+    seq: 4
+    question: "it now seems probable that mathematics was invented ... の it は何を指すか？"
+    answer: "形式主語（仮主語）。that 以下（mathematics was invented before writing itself）が真の主語。主語が長くなるのを避けるため it を仮の主語として置いている。"
 
 node_prerequisites:
   - node_id: "nsv-001"
@@ -370,6 +514,16 @@ node_prerequisites:
     prerequisite_id: "nbk-002"
   - node_id: "nsv-006"
     prerequisite_id: "nbk-006"
+  - node_id: "nsv-007"
+    prerequisite_id: "nbk-011"
+  - node_id: "nsv-008"
+    prerequisite_id: "nsv-001"
+  - node_id: "nsv-008"
+    prerequisite_id: "nsv-006"
+  - node_id: "nsv-009"
+    prerequisite_id: "nsv-001"
+  - node_id: "nsv-009"
+    prerequisite_id: "nsv-006"
 
 knowledge_references:
   - node_id: "nsv-001"
@@ -404,3 +558,15 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_07"
     pages: "p.40-41"
+  - node_id: "nsv-007"
+    book: "入門英文問題精講"
+    section_id: "Ny_08"
+    pages: "p.42-43"
+  - node_id: "nsv-008"
+    book: "入門英文問題精講"
+    section_id: "Ny_09"
+    pages: "p.44-45"
+  - node_id: "nsv-009"
+    book: "入門英文問題精講"
+    section_id: "Ny_10"
+    pages: "p.46-47"
