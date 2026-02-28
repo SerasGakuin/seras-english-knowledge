@@ -1,0 +1,131 @@
+# Scr_020: Theme 20 used toとbe used to → sdv-017 + PU!16 + PU!17
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-020-p01"
+    section_id: "Scr_020"
+    drill: 1
+    number: 63
+    role: "exam"
+    english: "Linda doesn't dance much now, but I know she used to a lot."
+    japanese: "リンダは今ではあまり踊らないが、以前はよく踊っていたことを私は知っている。"
+    notes: "難易度: 頻出; 出典: 立正大; used to do「以前はよく～したものだ」（現在と対比された過去の習慣）; used toの後にdanceが省略"
+  - id: "scr-020-p02"
+    section_id: "Scr_020"
+    drill: 1
+    number: 64
+    role: "exam"
+    english: "Wood used to be used as the main fuel, but nowadays fossil fuels are used widely."
+    japanese: "木はかつて主な燃料として使われていたが、今では化石燃料が広く使われている。"
+    notes: "難易度: 頻出; 出典: センター; used to do「以前は～だった」（過去の状態）; be usedは受動態「使われる」; 選択肢③④ be used to は通例後ろに動名詞・名詞が続くので不可; ⇨PU!17"
+  - id: "scr-020-p03"
+    section_id: "Scr_020"
+    drill: 1
+    number: 65
+    role: "exam"
+    english: "While I was living in the country, I was used to getting up early in the morning."
+    japanese: "田舎に住んでいた頃は、早起きには慣れていた。"
+    notes: "難易度: 頻出; 出典: 成城大; be used to doing「～することに慣れている」(= be accustomed to doing); toは前置詞→後ろは動名詞"
+
+  # === 例文（example） ===
+  - id: "scr-020-e01"
+    section_id: "Scr_020"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "We would often play for hours on the beach."
+    japanese: "私たちはよく海辺で何時間も遊んだものだ。"
+    notes: "PU!16: would doの例（過去の習慣を回想的に述べる）; used toとの違い→used toは現在と対比あり"
+  - id: "scr-020-e02"
+    section_id: "Scr_020"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "He used to go to the museum, but now he hardly ever goes."
+    japanese: "彼は以前よくその博物館に行ったものだが、今はめったに行かない。"
+    notes: "PU!16: used to doの例（現在と対比して過去の習慣を表す）"
+  - id: "scr-020-e03"
+    section_id: "Scr_020"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "There used to be a castle on the hill."
+    japanese: "かつてはその丘の上に城があった。"
+    notes: "PU!16: used toは状態動詞(be)にも使える。×would be（wouldは状態動詞と結びつかない）"
+  - id: "scr-020-e04"
+    section_id: "Scr_020"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "In those days a flint was used to make a fire."
+    japanese: "当時は火打石が火をおこすのに使われていた。"
+    notes: "PU!17: ③ be used to do（受動態+目的の不定詞）の例; usedの発音: [juːzd]"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-020-p01"
+    label: "overall"
+    value: "S V O M S V S V M"
+  - sentence_id: "scr-020-p01"
+    label: "details"
+    value: "Linda(S) doesn't dance(V) much(M) now(M), but I(S) know(V) [she used to a lot](O:名詞節)."
+  # p02
+  - sentence_id: "scr-020-p02"
+    label: "overall"
+    value: "S V C M S V M"
+  - sentence_id: "scr-020-p02"
+    label: "details"
+    value: "Wood(S) used to be used(V) [as the main fuel](C:前置詞句), but nowadays <fossil fuels>(S) are used(V) widely(M)."
+  # p03
+  - sentence_id: "scr-020-p03"
+    label: "overall"
+    value: "M S V C"
+  - sentence_id: "scr-020-p03"
+    label: "details"
+    value: "[While I was living in the country](M:副詞節), I(S) was used(V) [to getting up early in the morning](C:前置詞句)."
+  # e01
+  - sentence_id: "scr-020-e01"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-020-e01"
+    label: "details"
+    value: "We(S) would often play(V) [for hours](M:前置詞句) [on the beach](M:前置詞句)."
+  # e02
+  - sentence_id: "scr-020-e02"
+    label: "overall"
+    value: "S V M M S M V"
+  - sentence_id: "scr-020-e02"
+    label: "details"
+    value: "He(S) used to go(V) [to the museum](M:前置詞句), but now(M) he(S) hardly ever(M) goes(V)."
+  # e03
+  - sentence_id: "scr-020-e03"
+    label: "overall"
+    value: "V S M"
+  - sentence_id: "scr-020-e03"
+    label: "details"
+    value: "There used to be(V) <a castle>(S) [on the hill](M:前置詞句)."
+  # e04
+  - sentence_id: "scr-020-e04"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-020-e04"
+    label: "details"
+    value: "[In those days](M) <a flint>(S) was used(V) [to make a fire](M:不定詞)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-020-p01"
+    node_id: "sdv-017"
+  - sentence_id: "scr-020-p02"
+    node_id: "sdv-017"
+  - sentence_id: "scr-020-p03"
+    node_id: "sdv-017"
+  - sentence_id: "scr-020-e01"
+    node_id: "sdv-017"
+  - sentence_id: "scr-020-e01"
+    node_id: "sdv-016"
+  - sentence_id: "scr-020-e02"
+    node_id: "sdv-017"
+  - sentence_id: "scr-020-e03"
+    node_id: "sdv-017"
+  - sentence_id: "scr-020-e04"
+    node_id: "sdv-017"

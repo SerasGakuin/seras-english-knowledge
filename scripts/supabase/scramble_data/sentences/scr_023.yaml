@@ -1,0 +1,163 @@
+# Scr_023: Theme 23 助動詞を用いた慣用表現 ① → sdv-019
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-023-p01"
+    section_id: "Scr_023"
+    drill: 1
+    number: 73
+    role: "exam"
+    english: "You cannot be too careful in crossing a street."
+    japanese: "通りを渡るとき、どんなに注意してもしすぎることはない。"
+    notes: "難易度: 頻出; 出典: 金城学院大; cannot ~ too ...「いくら…しても～しすぎることはない」; 補足: in doing「～する際に」（⇨問133）"
+  - id: "scr-023-p02"
+    section_id: "Scr_023"
+    drill: 1
+    number: 74
+    role: "exam"
+    english: "He couldn't help falling asleep during the concert."
+    japanese: "彼はコンサートの途中で眠らずにはいられなかった。"
+    notes: "難易度: 頻出; 出典: 成城大; cannot help doing「～せずにはいられない」; helpは「避ける」(= avoid)の意味; 語句: fall asleep「寝入る」"
+  - id: "scr-023-p03"
+    section_id: "Scr_023"
+    drill: 1
+    number: 75
+    role: "exam"
+    english: "He may well complain about the treatment."
+    japanese: "彼がその扱いに対して不平を言うのも当然である。"
+    notes: "難易度: 頻出; 出典: 北海学園大; may [might] well do「～するのももっともだ」（= It is natural that ~ / have good [every] reason to do）; 書き換え元: It is natural that he should complain about the treatment. / He has good reason to complain about the treatment."
+  - id: "scr-023-p04"
+    section_id: "Scr_023"
+    drill: 1
+    number: 76
+    role: "exam"
+    english: "If we can't see the game live, we might as well watch it on TV."
+    japanese: "その試合を生で見られなかったら、テレビで見るとするか。"
+    notes: "出典: 東京理科大; may [might] as well do「（気は進まないが）～するほうがよいだろう」; 元はas notが省略; had betterより弱い遠回しな表現; mightのほうが多少控えめだが実質差なし"
+  - id: "scr-023-p05"
+    section_id: "Scr_023"
+    drill: 1
+    number: 77
+    role: "exam"
+    english: "You might as well throw your money into the sea as lend it to such a person."
+    japanese: "あんなやつにお金を貸すのは海に捨てるようなものだ。"
+    notes: "難易度: 発展; 出典: 武庫川女子大; might as well A as B「BするくらいならAするほうがましだ / Bするのは A するようなものだ」; 選択肢: do well to do「～するのが賢明である」はas...が後ろに来ないので不可"
+
+  # === 例文（example） ===
+  - id: "scr-023-e01"
+    section_id: "Scr_023"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I cannot but think so."
+    japanese: "そう思わざるを得ない。"
+    notes: "問74プラスα: cannot but do《文語》; = cannot help thinking so; butの後ろは原形"
+  - id: "scr-023-e02"
+    section_id: "Scr_023"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "This may well be the last time we meet."
+    japanese: "君に会うのもたぶんこれが最後になるだろう。"
+    notes: "問75発展: may [might] well doの第2の意味「たぶん～だろう」(= It is (very) likely that ~); wellは「十分に」の意味でmay単独より確信が強い"
+  - id: "scr-023-e03"
+    section_id: "Scr_023"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "She had no choice but to cancel the tour due to bad weather."
+    japanese: "悪天候のため、彼女はツアーをキャンセルせざるを得なかった。"
+    notes: "PU!20（発展）: have no choice but to do「～するしかない」; cannot help doing / cannot but do とほぼ同意; can/cannotがなければbut to do"
+  - id: "scr-023-e04"
+    section_id: "Scr_023"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "There is nothing for it but to try again."
+    japanese: "もう一度挑戦するしかない。"
+    notes: "PU!20（発展）: There is nothing for it but to do「～するしかない」; can/cannotがなければbut to do"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-023-p01"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-023-p01"
+    label: "details"
+    value: "You(S) cannot be(V) too careful(C) [in crossing a street](M:前置詞句)."
+  # p02
+  - sentence_id: "scr-023-p02"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-023-p02"
+    label: "details"
+    value: "He(S) couldn't help(V) falling asleep(O) [during the concert](M:前置詞句)."
+  # p03
+  - sentence_id: "scr-023-p03"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-023-p03"
+    label: "details"
+    value: "He(S) may well complain(V) [about the treatment](M:前置詞句)."
+  # p04
+  - sentence_id: "scr-023-p04"
+    label: "overall"
+    value: "M S V O M"
+  - sentence_id: "scr-023-p04"
+    label: "details"
+    value: "[If we can't see the game live](M:副詞節), we(S) might as well watch(V) it(O) [on TV](M:前置詞句)."
+  # p05
+  - sentence_id: "scr-023-p05"
+    label: "overall"
+    value: "S V O M M"
+  - sentence_id: "scr-023-p05"
+    label: "details"
+    value: "You(S) might as well throw(V) <your money>(O) [into the sea](M:前置詞句) [as lend it to such a person](M:比較節)."
+  # e01
+  - sentence_id: "scr-023-e01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-023-e01"
+    label: "details"
+    value: "I(S) cannot but think(V) so(M)."
+  # e02
+  - sentence_id: "scr-023-e02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-023-e02"
+    label: "details"
+    value: "This(S) may well be(V) <the last time [we meet]>(C)."
+  # e03
+  - sentence_id: "scr-023-e03"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-023-e03"
+    label: "details"
+    value: "She(S) had(V) <no choice [but to cancel the tour]>(O) [due to bad weather](M:前置詞句)."
+  # e04
+  - sentence_id: "scr-023-e04"
+    label: "overall"
+    value: "V S M"
+  - sentence_id: "scr-023-e04"
+    label: "details"
+    value: "There is(V) nothing(S) [for it but to try again](M)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-023-p01"
+    node_id: "sdv-019"
+  - sentence_id: "scr-023-p02"
+    node_id: "sdv-019"
+  - sentence_id: "scr-023-p03"
+    node_id: "sdv-019"
+  - sentence_id: "scr-023-p04"
+    node_id: "sdv-019"
+  - sentence_id: "scr-023-p05"
+    node_id: "sdv-019"
+  - sentence_id: "scr-023-e01"
+    node_id: "sdv-019"
+  - sentence_id: "scr-023-e02"
+    node_id: "sdv-019"
+  - sentence_id: "scr-023-e03"
+    node_id: "sdv-019"
+  - sentence_id: "scr-023-e04"
+    node_id: "sdv-019"

@@ -1,0 +1,61 @@
+# Scr_019: Theme 19 wouldの注意すべき用法 → sdv-016
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-019-p01"
+    section_id: "Scr_019"
+    drill: 1
+    number: 61
+    role: "exam"
+    english: "When we were children, we would go swimming in the river every summer."
+    japanese: "私たちが子どものころは、毎年夏に川へ泳ぎに行ったものだ。"
+    notes: "難易度: 頻出; 出典: 青山学院大; would do「（よく）～したものだ」（過去の習慣）; しばしばoften/sometimes/now and thenなどの副詞（句）を伴う"
+  - id: "scr-019-p02"
+    section_id: "Scr_019"
+    drill: 1
+    number: 62
+    role: "exam"
+    english: "Whatever they said, Ken would not change his mind."
+    japanese: "彼らが何を言っても、ケンは決心を変えようとしなかった。"
+    notes: "難易度: 頻出; 出典: 大阪経済大; 整序問題; would not [wouldn't] do「どうしても～しようとしなかった」（過去の拒絶）; 「拒絶」のwill notの過去形"
+
+  # === 例文（example） ===
+  - id: "scr-019-e01"
+    section_id: "Scr_019"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "This box will not open."
+    japanese: "この箱はどうしても開かない。"
+    notes: "問62解説: will not「現在の強い意志（拒絶）」; would notはその過去形"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-019-p01"
+    label: "overall"
+    value: "M S V O M"
+  - sentence_id: "scr-019-p01"
+    label: "details"
+    value: "[When we were children](M:副詞節), we(S) would go(V) swimming(O) [in the river](M:前置詞句) [every summer](M)."
+  # p02
+  - sentence_id: "scr-019-p02"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "scr-019-p02"
+    label: "details"
+    value: "[Whatever they said](M:副詞節), Ken(S) would not change(V) <his mind>(O)."
+  # e01
+  - sentence_id: "scr-019-e01"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "scr-019-e01"
+    label: "details"
+    value: "<This box>(S) will not open(V)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-019-p01"
+    node_id: "sdv-016"
+  - sentence_id: "scr-019-p02"
+    node_id: "sdv-016"
+  - sentence_id: "scr-019-e01"
+    node_id: "sdv-016"

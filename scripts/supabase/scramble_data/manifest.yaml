@@ -163,6 +163,158 @@ sections:
     gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sdv-013(単独)。問題47-53=7exam, PU!12の例文2件=2example, PU!13は表現リスト→notes記録"
+  # Part 1 > Ch03 助動詞
+  Scr_017:
+    title: "can / may / mustの基本用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sdv-014(単独)。問題54-57=4exam, PU!15の例文3件=3example"
+  Scr_018:
+    title: "have to doの用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sdv-015(単独)。問題58-60=3exam"
+  Scr_019:
+    title: "wouldの注意すべき用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sdv-016(単独)。問題61-62=2exam, will not例文1件=1example"
+  Scr_020:
+    title: "used toとbe used to"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sdv-017(単独)。問題63-65=3exam, PU!16の例文3件+PU!17の例文1件=4example; e01はsdv-016にもクロスタグ"
+  Scr_021:
+    title: "助動詞 + have done ①"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sdv-018(Theme21+22統合)。問題66-68=3exam, プラスα例文2件=2example"
+  Scr_022:
+    title: "助動詞 + have done ②"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sdv-018(Theme21+22統合)。問題69-72=4exam, 比較例文(needn't have done vs didn't need to do)2件=2example"
+  Scr_023:
+    title: "助動詞を用いた慣用表現 ①"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sdv-019(単独)。問題73-77=5exam, プラスα例文2件+PU!20の例文2件=4example"
+  Scr_024:
+    title: "助動詞を用いた慣用表現 ②"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sdv-020(単独)。問題78-84=7exam, 補足例文1件+PU!21の例文1件=2example"
+  # Part 1 > Ch04 不定詞
+  Scr_025:
+    title: "不定詞の名詞的用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sjd-001(単独)。問題85-87=3exam。重要: All S can do is (to) do"
+  Scr_026:
+    title: "不定詞の形容詞的用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sjd-002(単独)。問題88-90=3exam。PU!22(疑問詞+to do)はnotes記録"
+  Scr_027:
+    title: "不定詞の副詞的用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 10
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sjd-003(単独)。問題91-96=6exam, 解説例文2件+PU!23例文2件=4example"
+  Scr_028:
+    title: "不定詞の形"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sjd-004(単独)。問題97-100=4exam。意味上の主語/否定形/完了形/代不定詞"
+  Scr_029:
+    title: "be+to doの用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sjd-005(単独)。問題101-103=3exam, 導入例文2件=2example。be to blame頻出"
+  Scr_030:
+    title: "独立不定詞"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sjd-006(単独)。問題104-105=2exam。PU!24(12表現)はnotes記録"
+  Scr_031:
+    title: "不定詞を用いた重要表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sjd-007(単独)。問題106-110=5exam, PU!25例文2件=2example。too...to/enough to/so as to"
   Scr_046:
     title: "仮定法過去"
     type: "grammar"
@@ -185,9 +337,9 @@ sections:
     notes: "パイロット。sgh-001。PU!92(他動詞14語)/PU!93(自動詞7語)はnotes記録"
 
 summary:
-  total_sections: 18
-  completed: 18
+  total_sections: 33
+  completed: 33
   in_progress: 0
   not_started: 0
-  total_knowledge_nodes: 15
-  total_sentences: 86
+  total_knowledge_nodes: 29
+  total_sentences: 169

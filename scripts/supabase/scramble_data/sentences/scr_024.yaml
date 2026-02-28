@@ -1,0 +1,163 @@
+# Scr_024: Theme 24 助動詞を用いた慣用表現 ② → sdv-020
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-024-p01"
+    section_id: "Scr_024"
+    drill: 1
+    number: 78
+    role: "exam"
+    english: "Travelers had better make their reservations early if they want to fly during the holiday seasons."
+    japanese: "休暇シーズンに飛行機を利用したいなら、旅行者は早めに予約するほうがよい。"
+    notes: "難易度: 頻出; 出典: 青山学院大; had better do「～するほうがよい / ～しなさい」; 2語で1つの助動詞→後ろは原形; 語句: make a reservation「予約する」（⇨問620）"
+  - id: "scr-024-p02"
+    section_id: "Scr_024"
+    drill: 1
+    number: 79
+    role: "exam"
+    english: "You had better not go jogging after dark in this neighborhood."
+    japanese: "この辺りは、暗くなってからのジョギングはやめたほうがいいよ。"
+    notes: "難易度: 頻出; 出典: 法政大; had better not do「～しないほうがよい」; 否定形はhad better notでbetterの後にnot; 注意: ought not toとのnotの位置の違い（⇨PU!21）"
+  - id: "scr-024-p03"
+    section_id: "Scr_024"
+    drill: 1
+    number: 80
+    role: "exam"
+    english: "If you don't mind, I would like to speak to you in private."
+    japanese: "もしできれば2人だけでお話をしたいのですが。"
+    notes: "出典: 日本大; 整序問題; would like to do「～したいのですが」（口語 'd like to do）; want to doより丁寧; 語句: if you don't mind「差しつかえなければ」; speak to ~「～と話をする」（⇨問577）; in private「内密に」⇔ in public「人前で」（⇨問1259）"
+  - id: "scr-024-p04"
+    section_id: "Scr_024"
+    drill: 1
+    number: 81
+    role: "exam"
+    english: "I would like my son to be independent of me."
+    japanese: "私は息子に私から独立してもらいたい。"
+    notes: "出典: 高知大; 整序問題; would like A to do「Aに～してほしいのですが」; 語句: be independent of ~「～から独立している」（⇨問1140）"
+  - id: "scr-024-p05"
+    section_id: "Scr_024"
+    drill: 1
+    number: 82
+    role: "exam"
+    english: "Most young people would rather spend money than put it in the bank."
+    japanese: "ほとんどの若者はお金を銀行に預けるよりも使いたいと思っている。"
+    notes: "出典: センター; would rather A than B「Bするよりもむしろ A したい」; A, Bはともに原形"
+  - id: "scr-024-p06"
+    section_id: "Scr_024"
+    drill: 1
+    number: 83
+    role: "exam"
+    english: "I would rather stay in London much longer than a week."
+    japanese: "私はむしろ1週間よりずっと長くロンドンに滞在したい。"
+    notes: "出典: 法政大; would rather do「むしろ～したい」（would rather do than doのthan以下省略形）; 本問のthanはlonger thanの比較級構文; 語句: much「ずっと」（比較級を強める）（⇨問202）"
+  - id: "scr-024-p07"
+    section_id: "Scr_024"
+    drill: 1
+    number: 84
+    role: "exam"
+    english: "I would rather not have the operation unless it is absolutely necessary."
+    japanese: "本当に必要でなければ私は手術を受けたくない。"
+    notes: "出典: 関東学院大; 整序問題; would rather not do「むしろ～したくない」; 否定はratherの後にnot; notの位置注意（⇨PU!21）"
+
+  # === 例文（example） ===
+  - id: "scr-024-e01"
+    section_id: "Scr_024"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "You had better bring an umbrella."
+    japanese: "傘を持って行ったほうがいいよ。"
+    notes: "問78補足: had better doのyou主語の例（忠告・軽い命令）; 「そうしないと大変な目にあう」含意あり; 目下の人や子どもに対して使うことが多い"
+  - id: "scr-024-e02"
+    section_id: "Scr_024"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "You ought not to waste money."
+    japanese: "お金をむだ遣いすべきではない。"
+    notes: "PU!21: ought not to doの例; notはoughtの後（×ought to not）; had better not do / would rather not do との否定語の位置の違いに注意"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-024-p01"
+    label: "overall"
+    value: "S V O M M"
+  - sentence_id: "scr-024-p01"
+    label: "details"
+    value: "Travelers(S) had better make(V) <their reservations>(O) early(M) [if they want to fly during the holiday seasons](M:副詞節)."
+  # p02
+  - sentence_id: "scr-024-p02"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-024-p02"
+    label: "details"
+    value: "You(S) had better not go jogging(V) [after dark](M:前置詞句) [in this neighborhood](M:前置詞句)."
+  # p03
+  - sentence_id: "scr-024-p03"
+    label: "overall"
+    value: "M S V M M"
+  - sentence_id: "scr-024-p03"
+    label: "details"
+    value: "[If you don't mind](M:副詞節), I(S) would like to speak(V) [to you](M:前置詞句) [in private](M:前置詞句)."
+  # p04
+  - sentence_id: "scr-024-p04"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "scr-024-p04"
+    label: "details"
+    value: "I(S) would like(V) <my son>(O) [to be independent of me](C:不定詞)."
+  # p05
+  - sentence_id: "scr-024-p05"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-024-p05"
+    label: "details"
+    value: "<Most young people>(S) would rather spend(V) money(O) [than put it in the bank](M:比較節)."
+  # p06
+  - sentence_id: "scr-024-p06"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-024-p06"
+    label: "details"
+    value: "I(S) would rather stay(V) [in London](M:前置詞句) [much longer than a week](M)."
+  # p07
+  - sentence_id: "scr-024-p07"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-024-p07"
+    label: "details"
+    value: "I(S) would rather not have(V) <the operation>(O) [unless it is absolutely necessary](M:副詞節)."
+  # e01
+  - sentence_id: "scr-024-e01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-024-e01"
+    label: "details"
+    value: "You(S) had better bring(V) <an umbrella>(O)."
+  # e02
+  - sentence_id: "scr-024-e02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-024-e02"
+    label: "details"
+    value: "You(S) ought not to waste(V) money(O)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-024-p01"
+    node_id: "sdv-020"
+  - sentence_id: "scr-024-p02"
+    node_id: "sdv-020"
+  - sentence_id: "scr-024-p03"
+    node_id: "sdv-020"
+  - sentence_id: "scr-024-p04"
+    node_id: "sdv-020"
+  - sentence_id: "scr-024-p05"
+    node_id: "sdv-020"
+  - sentence_id: "scr-024-p06"
+    node_id: "sdv-020"
+  - sentence_id: "scr-024-p07"
+    node_id: "sdv-020"
+  - sentence_id: "scr-024-e01"
+    node_id: "sdv-020"
+  - sentence_id: "scr-024-e02"
+    node_id: "sdv-020"

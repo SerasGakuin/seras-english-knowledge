@@ -1,0 +1,59 @@
+# Scr_025: Theme 25 不定詞の名詞的用法 → sjd-001
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-025-p01"
+    section_id: "Scr_025"
+    drill: 1
+    number: 85
+    role: "exam"
+    english: "It is almost impossible to revise my report in such a short period of time."
+    japanese: "こんな短期間に報告書を書き直すのはほぼ不可能だ。"
+    notes: "難易度: 基本; 出典: 東北学院大; 整序問題; 形式主語構文 It is ... (for A) to do; 元の形: To revise my report ... is almost impossible.（⇨287）"
+  - id: "scr-025-p02"
+    section_id: "Scr_025"
+    drill: 1
+    number: 86
+    role: "exam"
+    english: "All he could do was to cry for help."
+    japanese: "彼にできることは助けを求めて叫ぶことだけだった。"
+    notes: "出典: 法政大; 整序問題; 補語になる場合; 〈重要〉All + S + can do is (to) do「Sにできるのは〜だけだ」; 《米口語》ではtoが省略されて原形不定詞"
+  - id: "scr-025-p03"
+    section_id: "Scr_025"
+    drill: 1
+    number: 87
+    role: "exam"
+    english: "How to use the library is the key to a successful college life."
+    japanese: "図書館をどのように利用するかは充実した大学生活への手がかりである。"
+    notes: "難易度: 基本; 難易度: 頻出; 出典: 中京大; 整序問題; 疑問詞+to不定詞（how to do）が主語; 語句: the key to ~「〜の秘訣/手がかり」（⇨704）"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-025-p01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-025-p01"
+    label: "details"
+    value: "It(S:形式主語) is(V) <almost impossible>(C) [to revise my report](真主語:不定詞) [in such a short period of time](M:前置詞句)."
+  # p02
+  - sentence_id: "scr-025-p02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-025-p02"
+    label: "details"
+    value: "<All he could do>(S) was(V) [to cry for help](C:不定詞)."
+  # p03
+  - sentence_id: "scr-025-p03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-025-p03"
+    label: "details"
+    value: "<How to use the library>(S:疑問詞+不定詞) is(V) <the key to a successful college life>(C)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-025-p01"
+    node_id: "sjd-001"
+  - sentence_id: "scr-025-p02"
+    node_id: "sjd-001"
+  - sentence_id: "scr-025-p03"
+    node_id: "sjd-001"

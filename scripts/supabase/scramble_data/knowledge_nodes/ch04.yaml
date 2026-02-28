@@ -1,0 +1,356 @@
+# Ch04 不定詞 — sjd-001〜sjd-007（7ノード）
+
+knowledge_nodes:
+  - id: "sjd-001"
+    name: "不定詞の名詞的用法"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Theme 25。名詞的用法の不定詞（「〜すること」）。文中で名詞の働きをし、主語・目的語・補語になる。
+      ① 主語になる場合: 形式主語itを文頭に置き、to不定詞を後に回すのが普通（形式主語構文 It is ... (for A) to do）。参照: ⇨287
+      ② 補語になる場合: to不定詞が名詞句として補語になる。
+      〈重要〉All + S + can do is (to) do「Sにできるのは〜だけだ」: 《米口語》ではtoが省略されて原形不定詞が来る。
+      ③ 疑問詞+to不定詞: 名詞句を作り、文中で主語・目的語・補語になる。
+      参照: the key to ~「〜の秘訣/手がかり」（⇨704）
+
+  - id: "sjd-002"
+    name: "不定詞の形容詞的用法"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Theme 26。直前の名詞を修飾する不定詞。修飾される名詞と不定詞の関係で3パターン。
+      ① 名詞が不定詞の意味上の主語: the first man to cross（the first manがto crossの主語）
+      ② 名詞が不定詞に続く前置詞の目的語: something to write on（somethingがwrite onの目的語）→前置詞が文末に残る。
+        比較: something to write on「書くもの（紙）」vs something to write with「書く道具（ペン等）」
+      ③ 不定詞が名詞の内容を説明: the courage to ask（to askがcourageの内容を説明）
+      語句: have the courage to do [×doing]「〜するだけの勇気がある」
+      PU!22: 疑問詞+to doの訳し方。まず疑問詞を訳し、次に「〜すべきか/〜すればよいか」と訳す。
+        how to do「どのように〜すべきか/〜の仕方」(⇨問87)
+        what to do「何を〜すべきか」/ when to do「いつ〜すべきか」
+        who [whom] to do / which to do / where to do
+        ＊why to doの形はない。
+
+  - id: "sjd-003"
+    name: "不定詞の副詞的用法"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Theme 27。不定詞が主として動詞・形容詞を修飾する用法。6種類。
+      ① 目的「〜するために/〜するように」: 明確にするために so as to do / in order to do の形もある（⇨109）。
+      ② 結果: awoke to find ~、...only to do、...never to do。
+      ③ 感情の原因「〜して（うれしい/腹が立つ等）」: be glad / surprised / sorry + to do。
+      ④ 判断の根拠「〜するなんて/〜するとは」: must be careless to send のように判断の根拠を示す。
+      ⑤ 形容詞の意味の限定「Aは〜するのに…だ」: A is + 形容詞 + to do。主語Aが不定詞の意味上の目的語。
+        → 形式主語itでの書き換え可能: It is ... to do A。
+        → 使われる形容詞: easy / difficult / hard / impossible / dangerous / safe / pleasant / comfortable 等。
+      ⑥ 条件（⇨問183）。
+      PU!23:「結果」を表す不定詞5表現:
+        awake [wake up] to find ~「目が覚めると〜だと知る」(⇨問92)
+        grow up to be ~「成長して〜になる」
+        live to be ~「〜まで生きる」
+        ...only to do「…だが結局〜する（にすぎない）」(⇨問93)
+        ...never to do「…だが二度と〜しない」
+      参照: advise A to do「Aに〜するように忠告する」（⇨542）
+      参照: miss「乗りそこなう」（⇨839）
+
+  - id: "sjd-004"
+    name: "不定詞の形"
+    category: "準動詞"
+    priority: "P2"
+    notes: |
+      Theme 28。不定詞の形の変化4パターン。
+      ① 意味上の主語: 「for + 名詞[代名詞目的格]」を不定詞の直前に置く。for me to sit on。参照: ⇨問89（形容詞的用法）
+      ② 否定形: not [never] を不定詞の直前に置く（not to do / never to do）。
+        try to do → try not to do「〜しないように努める」
+      ③ 完了形: to have done。文の述語動詞の示す時よりも前のことを表す。
+        He seems to have been ... when he was young.（現在seemsに対して、過去のことを完了形で表す）
+        参照: ⇨PU!60（seem+完了不定詞の詳細）
+      ④ 代不定詞: 前出の動詞（を含む語句）を繰り返さずにtoだけを用いる。
+        told him not to = told him not to read my e-mails
+        参照: tell A to do / tell A not to do（⇨575）
+
+  - id: "sjd-005"
+    name: "be+to doの用法"
+    category: "準動詞"
+    priority: "P2"
+    notes: |
+      Theme 29。be+to doの形で助動詞のように働く4用法。
+      ① 予定・運命「〜することになっている」(= be scheduled to do): The results are to be announced tomorrow.
+      ② 義務・命令「〜すべきである/〜しなければならない」: be to blame「責めを負うべきである/責任がある」は頻出。
+      ③ 可能「〜できる」: 通例否定文で、to be done の受身形で用いられる。No life form was to be found...
+      ④ 意図・願望「〜するつもりである/〜したいと思う」: if節の中で用いられることが多い。if we are to remain friends...
+      注意: be+to doを文字通りに「〜することである」（名詞的用法・補語）と訳すべき場合もある。My aim is to become a doctor.
+      語句: be to blame for ~「〜の責任がある」。responsibleではなくbe to blameの場合、toが不要語にならないことに注意（問102）。
+
+  - id: "sjd-006"
+    name: "独立不定詞"
+    category: "準動詞"
+    priority: "P2"
+    notes: |
+      Theme 30。文の他の部分から独立し、文全体を修飾する副詞的用法の不定詞。「言う・話す」の意味の動詞を用いるものが多い。慣用句として暗記。
+      PU!24: 独立不定詞12表現:
+        □ to tell (you) the truth「実を言うと」
+        □ to be sure「確かに」
+        □ to be frank with you「率直に言って」(= frankly speaking)
+        □ to make matters [things] worse「さらに悪いことには」(⇨問105)
+        □ to say nothing of ~ = not to speak of ~ = not to mention ~「〜は言うまでもなく」(= let alone)(⇨問104)
+        □ not to say ~「〜とは言わないまでも」
+        □ to say the least (of it)「控えめに言っても」
+        □ to do A justice「Aを公平に評価すると」(⇨PU!192)
+        □ to begin [start] with「まず第一に」(= in the first place)
+        □ to put it briefly [clearly / simply]「手短に[はっきり/端的に]言えば」
+        □ needless to say [通例文頭]「言うまでもなく」
+        □ strange to say「奇妙なことに」
+
+  - id: "sjd-007"
+    name: "不定詞を用いた重要表現"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Theme 31。不定詞を用いた重要構文パターン。
+      □ too ... to do「とても…なので〜できない / 〜するには…すぎる」: so ... that S can't doで書き換え可能。
+        注意: 文の主語と不定詞の目的語が一致する場合、不定詞の目的語を省略する（×too hot to drink it → too hot to drink）。
+        意味上の主語が必要な場合は too ... for A to do の形。
+      □ ... enough to do「とても…なので〜する / 〜するほど…」:
+        注意: enoughは修飾する形容詞・副詞の後ろに置く（tall enough、×enough tall）。
+      □ so ... as to do「とても…なので〜する / 〜するほど…」: やや改まった言い方。現在では enough to doを用いるのがふつう。
+      □ so as to do / in order to do「〜するために / 〜するように」: 不定詞が「目的」であることをはっきり示す。ともに文語的。
+        否定形: so as not to do / in order not to do「〜しないように」（notは不定詞の直前）。
+      PU!25: so as to do（目的）と so ... as to do（結果/程度）を混同しないように注意。
+        so as to catch = 間に合うように（目的）
+        so early as to catch = とても早く起きたので間に合った（結果）
+
+understanding_goals:
+  # sjd-001
+  - node_id: "sjd-001"
+    seq: 1
+    goal: "名詞的用法の不定詞が主語・目的語・補語として機能することを説明できる"
+  - node_id: "sjd-001"
+    seq: 2
+    goal: "形式主語構文 It is ... (for A) to do への書き換えができる"
+  - node_id: "sjd-001"
+    seq: 3
+    goal: "疑問詞+to不定詞が名詞句として主語・目的語・補語になることを理解している"
+  - node_id: "sjd-001"
+    seq: 4
+    goal: "All S can do is (to) do の意味と構造を説明できる"
+  # sjd-002
+  - node_id: "sjd-002"
+    seq: 1
+    goal: "形容詞的用法の3パターン（意味上の主語/目的語/内容説明）を区別できる"
+  - node_id: "sjd-002"
+    seq: 2
+    goal: "名詞が前置詞の目的語になる場合に前置詞が残る構造を理解している"
+  - node_id: "sjd-002"
+    seq: 3
+    goal: "疑問詞+to doの各パターンの訳し方を知っている"
+  # sjd-003
+  - node_id: "sjd-003"
+    seq: 1
+    goal: "副詞的用法の6種類（目的/結果/感情の原因/判断の根拠/形容詞の意味の限定/条件）を区別できる"
+  - node_id: "sjd-003"
+    seq: 2
+    goal: "「結果」を表す不定詞の5つの表現を列挙できる"
+  - node_id: "sjd-003"
+    seq: 3
+    goal: "A is + 形容詞 + to do の構文で主語が意味上の目的語であることを理解している"
+  - node_id: "sjd-003"
+    seq: 4
+    goal: "「目的」の意味を明確にする so as to do / in order to do を使い分けられる"
+  # sjd-004
+  - node_id: "sjd-004"
+    seq: 1
+    goal: "不定詞の意味上の主語を for+名詞で表せる"
+  - node_id: "sjd-004"
+    seq: 2
+    goal: "不定詞の否定形 not to do を正確に作れる"
+  - node_id: "sjd-004"
+    seq: 3
+    goal: "完了形の不定詞 to have done が述語動詞より前の時を表すことを理解している"
+  - node_id: "sjd-004"
+    seq: 4
+    goal: "代不定詞（toだけで前出の動詞を代用する用法）を理解している"
+  # sjd-005
+  - node_id: "sjd-005"
+    seq: 1
+    goal: "be+to doの4用法（予定/義務/可能/意図）を区別できる"
+  - node_id: "sjd-005"
+    seq: 2
+    goal: "be to blameの意味と用法を知っている"
+  - node_id: "sjd-005"
+    seq: 3
+    goal: "be+to doの文字通りの意味（補語）と助動詞的用法を区別できる"
+  # sjd-006
+  - node_id: "sjd-006"
+    seq: 1
+    goal: "独立不定詞が文全体を修飾する副詞的用法であることを理解している"
+  - node_id: "sjd-006"
+    seq: 2
+    goal: "to say nothing of ~ の意味と同義表現を列挙できる"
+  - node_id: "sjd-006"
+    seq: 3
+    goal: "主要な独立不定詞12表現の意味を知っている"
+  # sjd-007
+  - node_id: "sjd-007"
+    seq: 1
+    goal: "too ... to doの意味とso ... that S can'tとの書き換えができる"
+  - node_id: "sjd-007"
+    seq: 2
+    goal: "enough to doのenoughの語順を正確に使える"
+  - node_id: "sjd-007"
+    seq: 3
+    goal: "so as to do（目的）と so ... as to do（結果/程度）を区別できる"
+  - node_id: "sjd-007"
+    seq: 4
+    goal: "so as not to do / in order not to doの否定形を正確に作れる"
+
+check_points:
+  # sjd-001
+  - node_id: "sjd-001"
+    seq: 1
+    question: "名詞的用法の不定詞が主語になる場合、通例どうするか？"
+    answer: "形式主語itを文頭に置き、to不定詞を後に回す（It is ... (for A) to do）。"
+  - node_id: "sjd-001"
+    seq: 2
+    question: "All S can do is (to) do はどのような意味か？《米口語》ではどうなるか？"
+    answer: "「Sにできるのは〜だけだ」。《米口語》ではtoが省略されて原形不定詞が来る。"
+  - node_id: "sjd-001"
+    seq: 3
+    question: "疑問詞+to不定詞はどのような名詞句を作るか？"
+    answer: "「〜すべきか/〜すればよいか」の意味の名詞句を作り、文中で主語・目的語・補語になる。"
+  # sjd-002
+  - node_id: "sjd-002"
+    seq: 1
+    question: "形容詞的用法の不定詞で、修飾される名詞と不定詞の関係は何パターンあるか？"
+    answer: "3パターン: ①名詞が不定詞の意味上の主語 ②名詞が前置詞の目的語（前置詞が残る） ③不定詞が名詞の内容を説明。"
+  - node_id: "sjd-002"
+    seq: 2
+    question: "something to write on と something to write with の意味の違いは？"
+    answer: "to write on =「書くもの」（紙）。to write with =「書く道具」（ペン等）。前置詞により意味が変わる。"
+  - node_id: "sjd-002"
+    seq: 3
+    question: "疑問詞+to doのうち存在しない形は？"
+    answer: "why to doの形はない。"
+  # sjd-003
+  - node_id: "sjd-003"
+    seq: 1
+    question: "副詞的用法の主な意味を6つ挙げよ。"
+    answer: "①目的 ②結果 ③感情の原因 ④判断の根拠 ⑤形容詞の意味の限定 ⑥条件。"
+  - node_id: "sjd-003"
+    seq: 2
+    question: "...only to doの意味は？"
+    answer: "「…だが結局〜する（にすぎない）」（結果）。"
+  - node_id: "sjd-003"
+    seq: 3
+    question: "A is difficult to do の構文で、主語Aはどのような役割を果たすか？"
+    answer: "不定詞の意味上の目的語。This question is difficult to answer. = It is difficult to answer this question."
+  - node_id: "sjd-003"
+    seq: 4
+    question: "「結果」を表す不定詞の5つの表現は？"
+    answer: "awake [wake up] to find / grow up to be / live to be / ...only to do / ...never to do。"
+  # sjd-004
+  - node_id: "sjd-004"
+    seq: 1
+    question: "不定詞の意味上の主語はどう表すか？"
+    answer: "「for + 名詞[代名詞目的格]」を不定詞の直前に置く（for me to sit on）。"
+  - node_id: "sjd-004"
+    seq: 2
+    question: "不定詞の否定形はどう作るか？"
+    answer: "not [never] を不定詞の直前に置く（not to do / never to do）。×to not do は不可。"
+  - node_id: "sjd-004"
+    seq: 3
+    question: "He seems to have been a popular actor when he was young. のto have beenは何を表すか？"
+    answer: "現在のseemsよりも前（過去）のことを、完了形の不定詞で表している。"
+  - node_id: "sjd-004"
+    seq: 4
+    question: "代不定詞とは何か？例を挙げよ。"
+    answer: "前出の動詞を含む語句を繰り返さずにtoだけを用いる用法。told him not to = told him not to read my e-mails。"
+  # sjd-005
+  - node_id: "sjd-005"
+    seq: 1
+    question: "be+to doの4つの用法は？"
+    answer: "①予定・運命 ②義務・命令 ③可能 ④意図・願望。"
+  - node_id: "sjd-005"
+    seq: 2
+    question: "be+to doが「可能」を表す場合の特徴は？"
+    answer: "通例否定文で、to be doneの受身形で用いられる（No life form was to be found...）。"
+  - node_id: "sjd-005"
+    seq: 3
+    question: "be to blameの意味は？"
+    answer: "「責めを負うべきである/責任がある」。頻出表現。"
+  - node_id: "sjd-005"
+    seq: 4
+    question: "be+to doが「意図」を表す場合、どこで用いられることが多いか？"
+    answer: "if節の中（if we are to remain friends...）。"
+  # sjd-006
+  - node_id: "sjd-006"
+    seq: 1
+    question: "独立不定詞とは何か？"
+    answer: "文の他の部分から独立し、文全体を修飾する副詞的用法の不定詞。慣用句として暗記する。"
+  - node_id: "sjd-006"
+    seq: 2
+    question: "to say nothing of ~ の意味は？同義表現は？"
+    answer: "「〜は言うまでもなく」。= not to speak of / not to mention / let alone。"
+  - node_id: "sjd-006"
+    seq: 3
+    question: "to make matters [things] worse の意味は？"
+    answer: "「さらに悪いことには」。"
+  - node_id: "sjd-006"
+    seq: 4
+    question: "to tell the truth / to be frank with you / needless to say の意味は？"
+    answer: "「実を言うと」/「率直に言って」(= frankly speaking) /「言うまでもなく」。"
+  # sjd-007
+  - node_id: "sjd-007"
+    seq: 1
+    question: "too ... to doの意味は？so ... that S can't doとの書き換えで注意すべき点は？"
+    answer: "「とても…なので〜できない」。文の主語と不定詞の目的語が一致する場合、不定詞の目的語を省略する（×to drink it → to drink）。"
+  - node_id: "sjd-007"
+    seq: 2
+    question: "enough to doのenoughの位置は？"
+    answer: "修飾する形容詞・副詞の後ろに置く（tall enough, ×enough tall）。"
+  - node_id: "sjd-007"
+    seq: 3
+    question: "so as to doとso ... as to doの意味の違いは？"
+    answer: "so as to do =「〜するために」（目的）。so ... as to do =「とても…なので〜する」（結果/程度）。"
+  - node_id: "sjd-007"
+    seq: 4
+    question: "so as to doの否定形は？notの位置は？"
+    answer: "so as not to do。notは不定詞の直前（×so as to not do）。in order not to doも同様。"
+
+node_prerequisites:
+  - node_id: "sjd-004"
+    prerequisite_id: "sjd-001"
+  - node_id: "sjd-006"
+    prerequisite_id: "sjd-003"
+  - node_id: "sjd-007"
+    prerequisite_id: "sjd-003"
+
+knowledge_references:
+  - node_id: "sjd-001"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_025"
+    pages: ""
+  - node_id: "sjd-002"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_026"
+    pages: ""
+  - node_id: "sjd-003"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_027"
+    pages: ""
+  - node_id: "sjd-004"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_028"
+    pages: ""
+  - node_id: "sjd-005"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_029"
+    pages: ""
+  - node_id: "sjd-006"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_030"
+    pages: ""
+  - node_id: "sjd-007"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_031"
+    pages: ""

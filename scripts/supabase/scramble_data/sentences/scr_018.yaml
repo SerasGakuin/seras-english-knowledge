@@ -1,0 +1,59 @@
+# Scr_018: Theme 18 have to doの用法 → sdv-015
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-018-p01"
+    section_id: "Scr_018"
+    drill: 1
+    number: 58
+    role: "exam"
+    english: "My bicycle had a flat tire, so I had to walk to school yesterday."
+    japanese: "昨日、自転車のタイヤがパンクしたので、私は歩いて学校へ行かなければならなかった。"
+    notes: "難易度: 基本; had to do「～しなければならなかった」; 過去・未来ではmustを使えないのでhave toで代用"
+  - id: "scr-018-p02"
+    section_id: "Scr_018"
+    drill: 1
+    number: 59
+    role: "exam"
+    english: "You don't have to finish the work today. Tomorrow is OK."
+    japanese: "今日、仕事を終える必要はありません。明日で大丈夫です。"
+    notes: "難易度: 基本; 出典: 北星学園大; don't have to do「～する必要はない」(= need not do / don't need to do); 選択肢④ need not [needn't] なら正しい（needは助動詞で否定文・疑問文でのみ使う）"
+  - id: "scr-018-p03"
+    section_id: "Scr_018"
+    drill: 1
+    number: 60
+    role: "exam"
+    english: "You have only to let me have a glance at it."
+    japanese: "私にそれをちょっと見せてくれるだけでいいのです。"
+    notes: "出典: 早大; have only to do「～しさえすればよい」(= only have to do); 書き換え: All you have to do is (to) let me have a glance at it.（頻出）; Allの後ろにthat省略、補語のto doは原形doも可"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-018-p01"
+    label: "overall"
+    value: "S V O S V M M"
+  - sentence_id: "scr-018-p01"
+    label: "details"
+    value: "<My bicycle>(S) had(V) <a flat tire>(O), so I(S) had to walk(V) [to school](M:前置詞句) yesterday(M)."
+  # p02
+  - sentence_id: "scr-018-p02"
+    label: "overall"
+    value: "S V O M / S V C"
+  - sentence_id: "scr-018-p02"
+    label: "details"
+    value: "You(S) don't have to finish(V) <the work>(O) today(M). Tomorrow(S) is(V) OK(C)."
+  # p03
+  - sentence_id: "scr-018-p03"
+    label: "overall"
+    value: "S V O V O M"
+  - sentence_id: "scr-018-p03"
+    label: "details"
+    value: "You(S) have only to let(V) me(O) have(V) <a glance>(O) [at it](M:前置詞句)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-018-p01"
+    node_id: "sdv-015"
+  - sentence_id: "scr-018-p02"
+    node_id: "sdv-015"
+  - sentence_id: "scr-018-p03"
+    node_id: "sdv-015"

@@ -1,0 +1,129 @@
+# Scr_031: Theme 31 不定詞を用いた重要表現 → sjd-007
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-031-p01"
+    section_id: "Scr_031"
+    drill: 1
+    number: 106
+    role: "exam"
+    english: "This coffee is too hot for me to drink."
+    japanese: "このコーヒーは熱すぎて私には飲めない。"
+    notes: "難易度: 基本; 難易度: 頻出; 出典: 追手門学院大; 穴埋め; too ... to do「とても…なので〜できない」; 書き換え: This coffee is so hot that I can't drink it.; 注意: 主語と不定詞の目的語が一致する場合、目的語を省略（×to drink it）; 意味上の主語 for me（⇨問97）"
+  - id: "scr-031-p02"
+    section_id: "Scr_031"
+    drill: 1
+    number: 107
+    role: "exam"
+    english: "He is tall enough to reach the book on the top shelf."
+    japanese: "彼は一番上の棚の本に届くほど背が高い。"
+    notes: "難易度: 基本; 難易度: 頻出; 出典: 国士舘大; 整序問題; ... enough to do「〜するほど…」; 注意: enoughは修飾する形容詞の後ろに置く（tall enough, ×enough tall）"
+  - id: "scr-031-p03"
+    section_id: "Scr_031"
+    drill: 1
+    number: 108
+    role: "exam"
+    english: "He was so kind as to show me the way."
+    japanese: "彼は親切にも道を教えてくれた。"
+    notes: "難易度: 頻出; 出典: 武蔵大; 穴埋め; so ... as to do「とても…なので〜する」; やや改まった言い方、現在ではenough to doがふつう; 書き換え: He was kind enough to show me the way."
+  - id: "scr-031-p04"
+    section_id: "Scr_031"
+    drill: 1
+    number: 109
+    role: "exam"
+    english: "Lisa studies every day so as to become a lawyer."
+    japanese: "リサは弁護士になるために毎日勉強している。"
+    notes: "難易度: 頻出; 出典: 亜細亜大; 4択; so as to do / in order to do「〜するために」; 不定詞が「目的」であることをはっきり示す; ともに文語的"
+  - id: "scr-031-p05"
+    section_id: "Scr_031"
+    drill: 1
+    number: 110
+    role: "exam"
+    english: "John woke up early so as not to be late for school."
+    japanese: "ジョンは学校に遅れないように早起きした。"
+    notes: "難易度: 頻出; 出典: 中京大; 整序問題; so as not to do / in order not to do「〜しないように」; notは不定詞の直前に置く"
+
+  # === 例文（example） ===
+  - id: "scr-031-e01"
+    section_id: "Scr_031"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "He hurried so as to catch the train."
+    japanese: "彼は列車に間に合うように急いだ。"
+    notes: "PU!25: so as to do = 目的「〜するために」の例; so ... as to doとの混同注意"
+  - id: "scr-031-e02"
+    section_id: "Scr_031"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "He got up so early as to catch the first train."
+    japanese: "彼はとても早く起きたので一番列車に間に合った。"
+    notes: "PU!25: so ... as to do = 結果/程度の例; = He got up early enough to catch the first train.; so as to（目的）と混同しないこと"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-031-p01"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-031-p01"
+    label: "details"
+    value: "<This coffee>(S) is(V) <too hot>(C) [for me to drink](M:不定詞+意味上の主語)."
+  # p02
+  - sentence_id: "scr-031-p02"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-031-p02"
+    label: "details"
+    value: "He(S) is(V) <tall enough>(C) [to reach the book on the top shelf](M:結果の不定詞)."
+  # p03
+  - sentence_id: "scr-031-p03"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-031-p03"
+    label: "details"
+    value: "He(S) was(V) <so kind>(C) [as to show me the way](M:結果の不定詞)."
+  # p04
+  - sentence_id: "scr-031-p04"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-031-p04"
+    label: "details"
+    value: "Lisa(S) studies(V) [every day](M) [so as to become a lawyer](M:目的の不定詞)."
+  # p05
+  - sentence_id: "scr-031-p05"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-031-p05"
+    label: "details"
+    value: "John(S) woke up(V) early(M) [so as not to be late for school](M:否定の目的不定詞)."
+  # e01
+  - sentence_id: "scr-031-e01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-031-e01"
+    label: "details"
+    value: "He(S) hurried(V) [so as to catch the train](M:目的の不定詞)."
+  # e02
+  - sentence_id: "scr-031-e02"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-031-e02"
+    label: "details"
+    value: "He(S) got up(V) [so early](M) [as to catch the first train](M:結果の不定詞)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-031-p01"
+    node_id: "sjd-007"
+  - sentence_id: "scr-031-p02"
+    node_id: "sjd-007"
+  - sentence_id: "scr-031-p03"
+    node_id: "sjd-007"
+  - sentence_id: "scr-031-p04"
+    node_id: "sjd-007"
+  - sentence_id: "scr-031-p05"
+    node_id: "sjd-007"
+  - sentence_id: "scr-031-e01"
+    node_id: "sjd-007"
+  - sentence_id: "scr-031-e02"
+    node_id: "sjd-007"

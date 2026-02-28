@@ -1,0 +1,59 @@
+# Scr_026: Theme 26 不定詞の形容詞的用法 → sjd-002
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-026-p01"
+    section_id: "Scr_026"
+    drill: 1
+    number: 88
+    role: "exam"
+    english: "He was the first man to cross the Pacific by canoe."
+    japanese: "彼はカヌーで太平洋を横断した最初の男性だ。"
+    notes: "難易度: 基本; 出典: 畿央大; 4択; 名詞が不定詞の意味上の主語になる場合（the first man = to crossの主語）"
+  - id: "scr-026-p02"
+    section_id: "Scr_026"
+    drill: 1
+    number: 89
+    role: "exam"
+    english: "I need something to write on. Do you have a piece of paper?"
+    japanese: "何か書くものが必要です。紙をお持ちですか。"
+    notes: "難易度: 頻出; 出典: 東京電機大; 4択; 名詞が前置詞の目的語になる場合（somethingがwrite onの目的語）→前置詞が残る; 比較: something to write with =「書く道具」（ペン等）"
+  - id: "scr-026-p03"
+    section_id: "Scr_026"
+    drill: 1
+    number: 90
+    role: "exam"
+    english: "I don't have the courage to ask my boss to lend me his car."
+    japanese: "私は車を貸してほしいと上司に頼む勇気がない。"
+    notes: "出典: センター; 4択; 不定詞が名詞の内容を説明する場合（to askがcourageの内容を説明）; 語句: have the courage to do [×doing]「〜するだけの勇気がある」"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-026-p01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-026-p01"
+    label: "details"
+    value: "He(S) was(V) <the first man [to cross the Pacific by canoe]>(C:名詞+形容詞的不定詞)."
+  # p02
+  - sentence_id: "scr-026-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-026-p02"
+    label: "details"
+    value: "I(S) need(V) <something [to write on]>(O:名詞+形容詞的不定詞). Do you have a piece of paper?"
+  # p03
+  - sentence_id: "scr-026-p03"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-026-p03"
+    label: "details"
+    value: "I(S) don't have(V) <the courage [to ask my boss to lend me his car]>(O:名詞+形容詞的不定詞)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-026-p01"
+    node_id: "sjd-002"
+  - sentence_id: "scr-026-p02"
+    node_id: "sjd-002"
+  - sentence_id: "scr-026-p03"
+    node_id: "sjd-002"

@@ -1,0 +1,112 @@
+# Scr_022: Theme 22 助動詞+have done ② → sdv-018（Theme 21+22統合）
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-022-p01"
+    section_id: "Scr_022"
+    drill: 1
+    number: 69
+    role: "exam"
+    english: "You should have checked your schedule before accepting an offer for dinner."
+    japanese: "夕食の申し出を受ける前に、スケジュールを確認すべきだったのに。"
+    notes: "難易度: 頻出; 出典: 摂南大; should have done「～すべきだったのに」（過去のことに対する非難・後悔、実際はしなかった）; 選択肢①had betterと③couldは後ろに原形、②would beは意味不成立"
+  - id: "scr-022-p02"
+    section_id: "Scr_022"
+    drill: 1
+    number: 70
+    role: "exam"
+    english: "The letter I mailed two days ago ought to have reached my mother by this time."
+    japanese: "私が2日前に投函した手紙は、今頃母のところに届いているはずだ。"
+    notes: "難易度: 頻出; 出典: 近畿大; 整序問題; ought to [should] have done「～した[している]はずだ」（推量用法）; by now / by this time「今ごろはもう」とセットで用いられることが多い"
+  - id: "scr-022-p03"
+    section_id: "Scr_022"
+    drill: 1
+    number: 71
+    role: "exam"
+    english: "I should not have bought such an expensive application."
+    japanese: "こんなに高いアプリを買うんじゃなかった。"
+    notes: "難易度: 頻出; 出典: 佛教大; 整序問題; should not have done「～すべきではなかったのに」（= ought not to have done）; notの位置注意（⇨PU!21）"
+  - id: "scr-022-p04"
+    section_id: "Scr_022"
+    drill: 1
+    number: 72
+    role: "exam"
+    english: "You need not have paid him."
+    japanese: "あんなやつに金を支払わなくてもよかったのに。"
+    notes: "出典: 神奈川大; 整序問題（1語句不要: didn't need）; need not have done「～する必要はなかったのに（実際はした）」; 比較: needn't have done vs didn't need to do（問72解説）"
+
+  # === 例文（example） ===
+  - id: "scr-022-e01"
+    section_id: "Scr_022"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "He needn't have hurried."
+    japanese: "彼は急ぐ必要がなかったのに（急いだ）。"
+    notes: "問72比較: needn't have done = 必要なかったのに実際はした"
+  - id: "scr-022-e02"
+    section_id: "Scr_022"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "He didn't need to hurry."
+    japanese: "彼は急ぐ必要がなかった（急いだかは不明）。"
+    notes: "問72比較: didn't need to do = 必要がなかった（実際にしたかは不明）; needn't have doneとの違いが頻出"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-022-p01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-022-p01"
+    label: "details"
+    value: "You(S) should have checked(V) <your schedule>(O) [before accepting an offer for dinner](M:前置詞句)."
+  # p02
+  - sentence_id: "scr-022-p02"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-022-p02"
+    label: "details"
+    value: "<The letter [I mailed two days ago]>(S) ought to have reached(V) <my mother>(O) [by this time](M)."
+  # p03
+  - sentence_id: "scr-022-p03"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-022-p03"
+    label: "details"
+    value: "I(S) should not have bought(V) <such an expensive application>(O)."
+  # p04
+  - sentence_id: "scr-022-p04"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-022-p04"
+    label: "details"
+    value: "You(S) need not have paid(V) him(O)."
+  # e01
+  - sentence_id: "scr-022-e01"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "scr-022-e01"
+    label: "details"
+    value: "He(S) needn't have hurried(V)."
+  # e02
+  - sentence_id: "scr-022-e02"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "scr-022-e02"
+    label: "details"
+    value: "He(S) didn't need to hurry(V)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-022-p01"
+    node_id: "sdv-018"
+  - sentence_id: "scr-022-p02"
+    node_id: "sdv-018"
+  - sentence_id: "scr-022-p03"
+    node_id: "sdv-018"
+  - sentence_id: "scr-022-p04"
+    node_id: "sdv-018"
+  - sentence_id: "scr-022-e01"
+    node_id: "sdv-018"
+  - sentence_id: "scr-022-e02"
+    node_id: "sdv-018"

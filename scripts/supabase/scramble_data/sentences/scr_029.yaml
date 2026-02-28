@@ -1,0 +1,95 @@
+# Scr_029: Theme 29 be+to doの用法 → sjd-005
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-029-p01"
+    section_id: "Scr_029"
+    drill: 1
+    number: 101
+    role: "exam"
+    english: "The results of the exam are to be announced tomorrow."
+    japanese: "試験の結果は、明日発表されることになっている。"
+    notes: "出典: 慶應大; 4択; be+to do①予定「〜することになっている」(= be scheduled to do); 受動態 are to be announced"
+  - id: "scr-029-p02"
+    section_id: "Scr_029"
+    drill: 1
+    number: 102
+    role: "exam"
+    english: "We thought he was to blame for the accident."
+    japanese: "私たちは、その事故の責任が彼にあると思っていた。"
+    notes: "出典: 青山学院大; 整序問題[1語不要: responsible]; be+to do②義務; be to blame「責めを負うべきである/責任がある」は頻出表現; responsibleを使うとtoが不要語にならない"
+  - id: "scr-029-p03"
+    section_id: "Scr_029"
+    drill: 1
+    number: 103
+    role: "exam"
+    english: "You must tell me the exact truth if we are to remain friends."
+    japanese: "友達のままでいたいなら、あなたは本当のことを私に伝えなければならない。"
+    notes: "出典: 金城学院大; 4択; be+to do④意図・願望「〜するつもりである/〜したいと思う」; if節の中で用いられることが多い"
+
+  # === 例文（example） ===
+  - id: "scr-029-e01"
+    section_id: "Scr_029"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "No life form was to be found on the surface of the planet."
+    japanese: "その惑星の表面にはどんな生命体も見つからなかった。"
+    notes: "導入部の例文; be+to do③可能; 通例否定文で、to be doneの受身形で用いられる"
+  - id: "scr-029-e02"
+    section_id: "Scr_029"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "My aim is to become a doctor."
+    japanese: "私の目標は医者になることだ。"
+    notes: "導入部の例文; be+to doの文字通りの意味「〜することである」（名詞的用法・補語）; 助動詞的用法ではない場合の例"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-029-p01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-029-p01"
+    label: "details"
+    value: "<The results of the exam>(S) are to be announced(V:be+to do+受動態) tomorrow(M)."
+  # p02
+  - sentence_id: "scr-029-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-029-p02"
+    label: "details"
+    value: "We(S) thought(V) [he was to blame for the accident](O:that節)."
+  # p03
+  - sentence_id: "scr-029-p03"
+    label: "overall"
+    value: "S V O O M"
+  - sentence_id: "scr-029-p03"
+    label: "details"
+    value: "You(S) must tell(V) me(O) <the exact truth>(O) [if we are to remain friends](M:副詞節+be+to do)."
+  # e01
+  - sentence_id: "scr-029-e01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-029-e01"
+    label: "details"
+    value: "<No life form>(S) was to be found(V:be+to do+受動態) [on the surface of the planet](M:前置詞句)."
+  # e02
+  - sentence_id: "scr-029-e02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-029-e02"
+    label: "details"
+    value: "<My aim>(S) is(V) [to become a doctor](C:名詞的用法の不定詞)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-029-p01"
+    node_id: "sjd-005"
+  - sentence_id: "scr-029-p02"
+    node_id: "sjd-005"
+  - sentence_id: "scr-029-p03"
+    node_id: "sjd-005"
+  - sentence_id: "scr-029-e01"
+    node_id: "sjd-005"
+  - sentence_id: "scr-029-e02"
+    node_id: "sjd-005"

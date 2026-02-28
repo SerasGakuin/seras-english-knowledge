@@ -1,0 +1,129 @@
+# Scr_017: Theme 17 can / may / mustの基本用法 → sdv-014 + PU!15
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-017-p01"
+    section_id: "Scr_017"
+    drill: 1
+    number: 54
+    role: "exam"
+    english: "He cannot be a good student, because he doesn't study at all."
+    japanese: "彼は優秀な学生であるはずがない、まったく勉強しないのだから。"
+    notes: "難易度: 基本; 出典: 清泉女子大; cannot「～のはずがない」（強い否定の推量）; 語句: for「というのは～だから」"
+  - id: "scr-017-p02"
+    section_id: "Scr_017"
+    drill: 1
+    number: 55
+    role: "exam"
+    english: "It's getting cloudy. It may start raining soon."
+    japanese: "雲が出てきていますね。もうすぐ雨が降り始めるかもしれません。"
+    notes: "may「～かもしれない」（可能性・推量）"
+  - id: "scr-017-p03"
+    section_id: "Scr_017"
+    drill: 1
+    number: 56
+    role: "exam"
+    english: "Yes, you may, but you must come back before dark."
+    japanese: "ええ、いいわよ。でも暗くならないうちに帰ってきなさいよ。"
+    notes: "難易度: 基本; 出典: 芝浦工大; must「～しなければならない」（義務・必要）; 対話問題Aの文: \"May I go out now?\"「今、出かけてもいい？」"
+  - id: "scr-017-p04"
+    section_id: "Scr_017"
+    drill: 1
+    number: 57
+    role: "exam"
+    english: "You must be a good athlete to have run a mile in such a short time."
+    japanese: "あんな短時間で1マイル走ったなんて、君は優れた運動選手にちがいない。"
+    notes: "難易度: 基本; 難易度: 頻出; 出典: 愛知工大; must「～にちがいない」（強い肯定の推量）"
+
+  # === 例文（example） ===
+  - id: "scr-017-e01"
+    section_id: "Scr_017"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "Can I use your phone?"
+    japanese: "電話を借りていいですか。"
+    notes: "PU!15: 許可のcan（口語的）; 応答: \"Yes, of course (you can).\"; Can I ~? は May I ~? より口語的"
+  - id: "scr-017-e02"
+    section_id: "Scr_017"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "May I sit here?"
+    japanese: "ここに座ってもよろしいでしょうか。"
+    notes: "PU!15: 丁寧な許可のmay; May I ~? は Can I ~? より丁寧"
+  - id: "scr-017-e03"
+    section_id: "Scr_017"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "May your dreams come true!"
+    japanese: "あなたの夢がかないますように！"
+    notes: "PU!15: 祈願のmay（文語的）; May A do! の形"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-017-p01"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-017-p01"
+    label: "details"
+    value: "He(S) cannot be(V) <a good student>(C) [because he doesn't study at all](M:副詞節)."
+  # p02
+  - sentence_id: "scr-017-p02"
+    label: "overall"
+    value: "S V C / S V O M"
+  - sentence_id: "scr-017-p02"
+    label: "details"
+    value: "It(S)'s getting(V) cloudy(C). It(S) may start(V) raining(O) soon(M)."
+  # p03
+  - sentence_id: "scr-017-p03"
+    label: "overall"
+    value: "S V C S V M"
+  - sentence_id: "scr-017-p03"
+    label: "details"
+    value: "Yes, you(S) may(V), but you(S) must come back(V) [before dark](M:前置詞句)."
+  # p04
+  - sentence_id: "scr-017-p04"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-017-p04"
+    label: "details"
+    value: "You(S) must be(V) <a good athlete>(C) [to have run a mile in such a short time](M:不定詞)."
+  # e01
+  - sentence_id: "scr-017-e01"
+    label: "overall"
+    value: "V S V O"
+  - sentence_id: "scr-017-e01"
+    label: "details"
+    value: "Can(V) I(S) use(V) <your phone>(O)?"
+  # e02
+  - sentence_id: "scr-017-e02"
+    label: "overall"
+    value: "V S V M"
+  - sentence_id: "scr-017-e02"
+    label: "details"
+    value: "May(V) I(S) sit(V) here(M)?"
+  # e03
+  - sentence_id: "scr-017-e03"
+    label: "overall"
+    value: "V S V"
+  - sentence_id: "scr-017-e03"
+    label: "details"
+    value: "May(aux) <your dreams>(S) come true(V)!"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-017-p01"
+    node_id: "sdv-014"
+  - sentence_id: "scr-017-p02"
+    node_id: "sdv-014"
+  - sentence_id: "scr-017-p03"
+    node_id: "sdv-014"
+  - sentence_id: "scr-017-p04"
+    node_id: "sdv-014"
+  - sentence_id: "scr-017-e01"
+    node_id: "sdv-014"
+  - sentence_id: "scr-017-e02"
+    node_id: "sdv-014"
+  - sentence_id: "scr-017-e03"
+    node_id: "sdv-014"

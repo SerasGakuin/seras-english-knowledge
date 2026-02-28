@@ -1,0 +1,95 @@
+# Scr_021: Theme 21 助動詞+have done ① → sdv-018（Theme 21+22統合）
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-021-p01"
+    section_id: "Scr_021"
+    drill: 1
+    number: 66
+    role: "exam"
+    english: "I've lost my cellphone. I must have left it somewhere."
+    japanese: "携帯電話をなくしてしまった。どこかに置いてきたにちがいない。"
+    notes: "難易度: 超頻出; 出典: 清泉女子大; must have done「～したにちがいない」（過去のことに対する確信のある推量）"
+  - id: "scr-021-p02"
+    section_id: "Scr_021"
+    drill: 1
+    number: 67
+    role: "exam"
+    english: "She has not come here yet. I am afraid she may have lost her way."
+    japanese: "彼女はまだここに来ていない。道に迷ったのではないかと思う。"
+    notes: "難易度: 頻出; 出典: 京都産業大; may have done「～したかもしれない」（確信の持てない推量）; 語句: lose one's way「道に迷う」"
+  - id: "scr-021-p03"
+    section_id: "Scr_021"
+    drill: 1
+    number: 68
+    role: "exam"
+    english: "You cannot have seen Tom in Kyoto yesterday. He is still in England."
+    japanese: "君は昨日京都でトムに会ったはずはない。彼はまだイングランドにいる。"
+    notes: "難易度: 頻出; 出典: 西南学院大; cannot have done「～したはずがない」（確信のある否定的推量）"
+
+  # === 例文（example） ===
+  - id: "scr-021-e01"
+    section_id: "Scr_021"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I can't find my textbook. I might have left it at home."
+    japanese: "教科書がない。家に置いてきたかもしれない。"
+    notes: "問67プラスα: might have done もほぼ may have done と同じ意味"
+  - id: "scr-021-e02"
+    section_id: "Scr_021"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "He couldn't have been at the meeting; I saw him at the café."
+    japanese: "彼は会議にいたはずがない。カフェで見かけたよ。"
+    notes: "問68プラスα: couldn't have done もほぼ cannot have done と同じ意味"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-021-p01"
+    label: "overall"
+    value: "S V O / S V O M"
+  - sentence_id: "scr-021-p01"
+    label: "details"
+    value: "I(S)'ve lost(V) <my cellphone>(O). I(S) must have left(V) it(O) somewhere(M)."
+  # p02
+  - sentence_id: "scr-021-p02"
+    label: "overall"
+    value: "S V M / S V C S V O"
+  - sentence_id: "scr-021-p02"
+    label: "details"
+    value: "She(S) has not come(V) here(M) yet(M). I(S) am afraid(V:C) [she may have lost her way](O:that節)."
+  # p03
+  - sentence_id: "scr-021-p03"
+    label: "overall"
+    value: "S V O M M / S V M"
+  - sentence_id: "scr-021-p03"
+    label: "details"
+    value: "You(S) cannot have seen(V) Tom(O) [in Kyoto](M:前置詞句) yesterday(M). He(S) is(V) still [in England](M:前置詞句)."
+  # e01
+  - sentence_id: "scr-021-e01"
+    label: "overall"
+    value: "S V O / S V O M"
+  - sentence_id: "scr-021-e01"
+    label: "details"
+    value: "I(S) can't find(V) <my textbook>(O). I(S) might have left(V) it(O) [at home](M:前置詞句)."
+  # e02
+  - sentence_id: "scr-021-e02"
+    label: "overall"
+    value: "S V M / S V O M"
+  - sentence_id: "scr-021-e02"
+    label: "details"
+    value: "He(S) couldn't have been(V) [at the meeting](M:前置詞句); I(S) saw(V) him(O) [at the café](M:前置詞句)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-021-p01"
+    node_id: "sdv-018"
+  - sentence_id: "scr-021-p02"
+    node_id: "sdv-018"
+  - sentence_id: "scr-021-p03"
+    node_id: "sdv-018"
+  - sentence_id: "scr-021-e01"
+    node_id: "sdv-018"
+  - sentence_id: "scr-021-e02"
+    node_id: "sdv-018"

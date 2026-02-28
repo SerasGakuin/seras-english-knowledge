@@ -1,0 +1,42 @@
+# Scr_030: Theme 30 独立不定詞 → sjd-006
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-030-p01"
+    section_id: "Scr_030"
+    drill: 1
+    number: 104
+    role: "exam"
+    english: "We have wasted too much money, to say nothing of time, haven't we?"
+    japanese: "時間は言うまでもなく、お金を無駄にしすぎたよね。"
+    notes: "出典: 中央大; 穴埋め; to say nothing of ~「〜は言うまでもなく」= not to speak of ~ = not to mention ~ = let alone"
+  - id: "scr-030-p02"
+    section_id: "Scr_030"
+    drill: 1
+    number: 105
+    role: "exam"
+    english: "To make matters worse, he got pneumonia after breaking his leg."
+    japanese: "さらに悪いことに、彼は足を骨折した後に肺炎にかかった。"
+    notes: "出典: 東京理科大; 4択; to make matters [things] worse「さらに悪いことには」; 独立不定詞の慣用句"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-030-p01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-030-p01"
+    label: "details"
+    value: "We(S) have wasted(V) <too much money>(O), [to say nothing of time](M:独立不定詞), haven't we?"
+  # p02
+  - sentence_id: "scr-030-p02"
+    label: "overall"
+    value: "M S V O M"
+  - sentence_id: "scr-030-p02"
+    label: "details"
+    value: "[To make matters worse](M:独立不定詞), he(S) got(V) pneumonia(O) [after breaking his leg](M:前置詞句)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-030-p01"
+    node_id: "sjd-006"
+  - sentence_id: "scr-030-p02"
+    node_id: "sjd-006"

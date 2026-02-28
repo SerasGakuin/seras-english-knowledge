@@ -1,0 +1,180 @@
+# Scr_027: Theme 27 不定詞の副詞的用法 → sjd-003
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-027-p01"
+    section_id: "Scr_027"
+    drill: 1
+    number: 91
+    role: "exam"
+    english: "They made loud noises to frighten the dog away."
+    japanese: "彼らはその犬をおどかして追い払うために大きな音をたてた。"
+    notes: "難易度: 基本; 出典: 城西大; 4択（同用法選択）; 副詞的用法①目的「〜するために」; 正解③ He worked very hard to support his family.も同じ目的用法; 語句: advise A to do「Aに〜するように忠告する」（⇨542）, know A to do「A(人)が〜するのを見聞きする」"
+  - id: "scr-027-p02"
+    section_id: "Scr_027"
+    drill: 1
+    number: 92
+    role: "exam"
+    english: "She awoke to find the small town covered with snow."
+    japanese: "彼女が目を覚ましてみると、その小さな町は一面雪景色だった。"
+    notes: "難易度: 頻出; 整序問題[1語不要: found]; 副詞的用法②結果; awake [wake up] to find ~「目が覚めると〜だと知る」; 書き換え: She awoke and found ..."
+  - id: "scr-027-p03"
+    section_id: "Scr_027"
+    drill: 1
+    number: 93
+    role: "exam"
+    english: "We hurried to the station, only to miss the train."
+    japanese: "私たちは駅へと急いだが、電車に乗り遅れた。"
+    notes: "難易度: 頻出; 出典: 名城大; 穴埋め; 副詞的用法②結果; ...only to do「…だが結局〜する（にすぎない）」; 語句: miss「乗りそこなう」（⇨839）"
+  - id: "scr-027-p04"
+    section_id: "Scr_027"
+    drill: 1
+    number: 94
+    role: "exam"
+    english: "I'm very glad to meet you here."
+    japanese: "ここであなたに会えてとてもうれしい。"
+    notes: "出典: 駒澤大; 4択; 副詞的用法③感情の原因「〜して（うれしい）」; be glad + to doの形"
+  - id: "scr-027-p05"
+    section_id: "Scr_027"
+    drill: 1
+    number: 95
+    role: "exam"
+    english: "She must be quite careless to send an important email to the wrong person."
+    japanese: "大事なメールを間違った人に送るなんて、彼女は相当不注意にちがいない。"
+    notes: "難易度: 頻出; 整序問題; 副詞的用法④判断の根拠「〜するなんて/〜するとは」; must be careless to sendでcarelessの判断の根拠を示す"
+  - id: "scr-027-p06"
+    section_id: "Scr_027"
+    drill: 1
+    number: 96
+    role: "exam"
+    english: "This question is more difficult to answer than that one."
+    japanese: "この質問はその質問よりも答えにくい。"
+    notes: "難易度: 頻出; 出典: 愛知大; 整序問題; 副詞的用法⑤形容詞の意味の限定; A is + 形容詞 + to do（主語Aが不定詞の意味上の目的語）; 書き換え: It is more difficult to answer this question than that one."
+
+  # === 例文（example） ===
+  - id: "scr-027-e01"
+    section_id: "Scr_027"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "He is impossible to persuade."
+    japanese: "彼を説得するのは不可能だ。"
+    notes: "問96解説補足; 副詞的用法⑤形容詞の意味の限定の例; 主語Heが不定詞to persuadeの意味上の目的語; 使われる形容詞: impossible / dangerous / safe / pleasant 等"
+  - id: "scr-027-e02"
+    section_id: "Scr_027"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "This lake is dangerous to swim in."
+    japanese: "この湖は泳ぐには危険です。"
+    notes: "問96解説補足; 副詞的用法⑤形容詞の意味の限定の例; 前置詞inが残る形（⇨問89と同じ構造）"
+  - id: "scr-027-e03"
+    section_id: "Scr_027"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "The cat lived to be 28 years old."
+    japanese: "その猫は28歳まで生きた。"
+    notes: "PU!23: live to be ~「〜まで生きる（生きてその結果〜になる）」; 結果を表す不定詞の例"
+  - id: "scr-027-e04"
+    section_id: "Scr_027"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "He left the country, never to return."
+    japanese: "彼はその国を去り、二度と戻ることはなかった。"
+    notes: "PU!23: ...never to do「…だが二度と〜しない」; 結果を表す不定詞の例"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-027-p01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-027-p01"
+    label: "details"
+    value: "They(S) made(V) <loud noises>(O) [to frighten the dog away](M:目的の不定詞)."
+  # p02
+  - sentence_id: "scr-027-p02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-027-p02"
+    label: "details"
+    value: "She(S) awoke(V) [to find <the small town> <covered with snow>](M:結果の不定詞→SVOC)."
+  # p03
+  - sentence_id: "scr-027-p03"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-027-p03"
+    label: "details"
+    value: "We(S) hurried(V) [to the station](M:前置詞句), [only to miss the train](M:結果の不定詞)."
+  # p04
+  - sentence_id: "scr-027-p04"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-027-p04"
+    label: "details"
+    value: "I(S) 'm(V) <very glad>(C) [to meet you here](M:感情の原因の不定詞)."
+  # p05
+  - sentence_id: "scr-027-p05"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-027-p05"
+    label: "details"
+    value: "She(S) must be(V) <quite careless>(C) [to send an important email to the wrong person](M:判断の根拠の不定詞)."
+  # p06
+  - sentence_id: "scr-027-p06"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-027-p06"
+    label: "details"
+    value: "<This question>(S) is(V) <more difficult [to answer]>(C:形容詞+意味限定の不定詞) [than that one](M:比較)."
+  # e01
+  - sentence_id: "scr-027-e01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-027-e01"
+    label: "details"
+    value: "He(S) is(V) <impossible [to persuade]>(C:形容詞+意味限定の不定詞)."
+  # e02
+  - sentence_id: "scr-027-e02"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-027-e02"
+    label: "details"
+    value: "<This lake>(S) is(V) <dangerous>(C) [to swim in](M:意味限定の不定詞)."
+  # e03
+  - sentence_id: "scr-027-e03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-027-e03"
+    label: "details"
+    value: "<The cat>(S) lived(V) [to be 28 years old](M:結果の不定詞)."
+  # e04
+  - sentence_id: "scr-027-e04"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-027-e04"
+    label: "details"
+    value: "He(S) left(V) <the country>(O), [never to return](M:結果の不定詞)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-027-p01"
+    node_id: "sjd-003"
+  - sentence_id: "scr-027-p02"
+    node_id: "sjd-003"
+  - sentence_id: "scr-027-p03"
+    node_id: "sjd-003"
+  - sentence_id: "scr-027-p04"
+    node_id: "sjd-003"
+  - sentence_id: "scr-027-p05"
+    node_id: "sjd-003"
+  - sentence_id: "scr-027-p06"
+    node_id: "sjd-003"
+  - sentence_id: "scr-027-e01"
+    node_id: "sjd-003"
+  - sentence_id: "scr-027-e02"
+    node_id: "sjd-003"
+  - sentence_id: "scr-027-e03"
+    node_id: "sjd-003"
+  - sentence_id: "scr-027-e04"
+    node_id: "sjd-003"

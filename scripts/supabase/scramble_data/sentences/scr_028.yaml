@@ -1,0 +1,76 @@
+# Scr_028: Theme 28 不定詞の形 → sjd-004
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-028-p01"
+    section_id: "Scr_028"
+    drill: 1
+    number: 97
+    role: "exam"
+    english: "Is there anything for me to sit on?"
+    japanese: "私が腰掛けるものが何かありますか。"
+    notes: "難易度: 頻出; 出典: 青山学院大; 4択; 不定詞の意味上の主語「for+代名詞目的格」; anythingを修飾する形容詞的用法の不定詞（⇨問89）"
+  - id: "scr-028-p02"
+    section_id: "Scr_028"
+    drill: 1
+    number: 98
+    role: "exam"
+    english: "The child tried hard not to cry."
+    japanese: "その子どもは泣くまいと懸命に努めた。"
+    notes: "難易度: 頻出; 出典: 大阪学院大; 4択; 不定詞の否定形 not to do; try not to do「〜しないように努める」"
+  - id: "scr-028-p03"
+    section_id: "Scr_028"
+    drill: 1
+    number: 99
+    role: "exam"
+    english: "He seems to have been a very popular actor when he was young."
+    japanese: "彼は若いころ、とても人気のある俳優だったようだ。"
+    notes: "難易度: 頻出; 出典: 南山大; 4択; 完了形の不定詞 to have done; 現在のseemsに対して過去のことを完了形で表す; 書き換え: It seems that he was a very popular actor when he was young.; 参照: ⇨PU!60"
+  - id: "scr-028-p04"
+    section_id: "Scr_028"
+    drill: 1
+    number: 100
+    role: "exam"
+    english: "He read my e-mails, though I told him not to."
+    japanese: "私が読むなと言ったにもかかわらず、彼は私のメールを読んだ。"
+    notes: "難易度: 発展; 出典: 関西学院大; 4択; 代不定詞 not to = not to read my e-mails; 語句: tell A not to do「Aに〜しないように言う」（⇨575）"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-028-p01"
+    label: "overall"
+    value: "V S M"
+  - sentence_id: "scr-028-p01"
+    label: "details"
+    value: "Is there(V) anything(S) [for me to sit on](M:形容詞的不定詞+意味上の主語)?"
+  # p02
+  - sentence_id: "scr-028-p02"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-028-p02"
+    label: "details"
+    value: "<The child>(S) tried(V) hard(M) [not to cry](M:否定の不定詞)."
+  # p03
+  - sentence_id: "scr-028-p03"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-028-p03"
+    label: "details"
+    value: "He(S) seems(V) [to have been a very popular actor](C:完了形不定詞) [when he was young](M:副詞節)."
+  # p04
+  - sentence_id: "scr-028-p04"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-028-p04"
+    label: "details"
+    value: "He(S) read(V) <my e-mails>(O), [though I told him not to](M:副詞節+代不定詞)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-028-p01"
+    node_id: "sjd-004"
+  - sentence_id: "scr-028-p02"
+    node_id: "sjd-004"
+  - sentence_id: "scr-028-p03"
+    node_id: "sjd-004"
+  - sentence_id: "scr-028-p04"
+    node_id: "sjd-004"
