@@ -108,32 +108,32 @@ sections:
     title: "句と節の働き"
     type: "grammar_lecture"
     pages: "p.21-22"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "名詞/形容詞/副詞の3用法。関代略称の導入。"
   Ny_G12:
     title: "助動詞"
     type: "grammar_lecture"
     pages: "p.22-23"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "基本助動詞5種+had to/ought to。助動詞+have+過去分詞の用法。"
   Ny_G13:
     title: "to不定詞"
     type: "grammar_lecture"
     pages: "p.23-25"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 11
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "準動詞の概念。to不定詞の名詞/形容詞/副詞用法。Section 14まとめは復習のため独立ノード化せず。"
 
   # === 第1章 主語と動詞の把握（11セクション） ===
   Ny_01:
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 12
+  completed: 15
   in_progress: 0
-  not_started: 73
-  total_knowledge_nodes: 12
-  total_sentences: 44
+  not_started: 70
+  total_knowledge_nodes: 15
+  total_sentences: 71

@@ -66,3 +66,8 @@ decisions:
     question: "同じ英文が複数セクションで出現する場合どうするか（例: Japan has four seasons. が G05/G06/G07 に出現）？"
     decision: "各セクションに独立して登録する。"
     reason: "section_id が異なり、knowledge_tags も異なるため。各セクションで英文を使う目的が異なる（主語の説明 / 文型の説明 / 目的語の説明）。"
+  - section: "Ny_G13"
+    date: "2026-03-01"
+    question: "Section 14「英文の要素のまとめ」(p.24-25) は独立ノードとして扱うか？"
+    decision: "独立ノード化しない。Ny_G13 の sections notes に存在を記録する。"
+    reason: "Section 14 は復習セクションで新概念を導入しない。15英文中9つは既出（他セクションで登録済み）、6つの新出英文は既存ノード（前置詞+名詞、文型、補語等）の実践例であり独立ノード化の必要なし。"

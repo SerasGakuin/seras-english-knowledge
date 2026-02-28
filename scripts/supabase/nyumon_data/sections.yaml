@@ -65,19 +65,22 @@ sections:
     title: "句と節の働き"
     pages: "p.21-22"
     type: "grammar_lecture"
-    notes: ""
+    notes: "講義動画: 第11回。関代（関係代名詞）の略称を導入。"
   - id: "Ny_G12"
     book: "入門英文問題精講"
     title: "助動詞"
     pages: "p.22-23"
     type: "grammar_lecture"
-    notes: ""
+    notes: "講義動画: 第12回"
   - id: "Ny_G13"
     book: "入門英文問題精講"
     title: "to不定詞"
     pages: "p.23-25"
     type: "grammar_lecture"
-    notes: ""
+    notes: |
+      講義動画: 第13回。Section 14「英文の要素のまとめ」(p.24-25) を含む。
+      Section 14 は復習セクション（15英文中6つが新出、9つが既出）で、新概念の導入なし。
+      新出英文は既存ノードの実践例であるため独立ノード化せず。
 
   # === 第1章 主語と動詞の把握（11セクション） ===
   - id: "Ny_01"
@@ -563,6 +566,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_G10"
     node_id: "nbk-010"
+    seq: 1
+  - section_id: "Ny_G11"
+    node_id: "nbk-011"
+    seq: 1
+  - section_id: "Ny_G12"
+    node_id: "nbk-012"
+    seq: 1
+  - section_id: "Ny_G13"
+    node_id: "nbk-013"
     seq: 1
 
 section_prerequisites: []

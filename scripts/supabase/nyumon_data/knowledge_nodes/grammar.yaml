@@ -182,6 +182,73 @@ knowledge_nodes:
       ■ 等位接続詞（等接）: 語・句・節を対等に結び付ける。and, but, or。
       ■ 本書の用語: 本編では「完成した文」「欠けのある文」など、節を「文」と表現することがある。
 
+  - id: "nbk-011"
+    name: "句と節の働き"
+    category: "基本講義"
+    priority: "P1"
+    notes: |
+      句や節は文中で名詞・形容詞・副詞の3つの働きをする。
+      ■ 名詞の働き:
+        - 主語: (for children) to swim in the river（真主語）
+        - 目的語（句）: to eat the cake（want の目的語）
+        - 目的語（節）: that you like her（know の目的語、名詞節）
+      ■ 形容詞の働き:
+        - SVC の C: surprised（looked の補語）
+        - 関係代名詞節: that is running over there（The small dog を修飾）
+          ※ 関係代名詞節は1つの文だが、便宜上、形容詞の働きをしていると考える。
+          ※ 本書では関係代名詞を「関代」と表記する。
+      ■ 副詞の働き:
+        - to不定詞句: to catch the last train（ran を修飾、目的）
+        - 副詞節: When I came home（was sleeping を修飾）
+      ■ for 〜 は to不定詞の意味上の主語を表す。
+
+  - id: "nbk-012"
+    name: "助動詞"
+    category: "基本講義"
+    priority: "P1"
+    notes: |
+      助動詞は、話し手や書き手の「判断」を動詞（動作・状態）に加える働きがある。
+      助動詞の後ろの動詞は原形になる。
+      ■ 基本助動詞:
+        - can: ～できる
+        - may: ～かもしれない
+        - must: ～しなければならない
+        - cannot: ～な可能性はない、～なはずはない
+        - should: ～すべきだ、～したほうがよい
+        - will: ～するつもりだ（〈will + 動詞の原形〉で未来も表す）
+      ■ 助動詞的表現:
+        - had to: have to の過去形。「～する必要があった」
+        - ought to: should と同義。「～すべきだ」
+      ■ 過去のことを表す用法:
+        - 〈may have + 過去分詞〉: ～だったかもしれない
+          例: The runner may have been injured.
+        - 〈ought to have + 過去分詞〉: ～すべきだったのに（実際にはしなかった）
+          例: You ought to have finished it earlier.
+
+  - id: "nbk-013"
+    name: "to不定詞の用法"
+    category: "基本講義"
+    priority: "P1"
+    notes: |
+      to不定詞・分詞・動名詞の3つは「準動詞」と呼ばれる。
+      動名詞は名詞の働き、分詞は形容詞や副詞の働きをする（本編で詳述）。
+      to不定詞には名詞・形容詞・副詞の3つの働きがある。
+      ■ 名詞用法:
+        - 目的語: He asked his boss to give him a short break.
+        - 真主語: It was not easy to solve the math problem.
+        - 疑問詞 + to不定詞: I didn't know what to do.（know の目的語）
+      ■ 形容詞用法:
+        - 名詞を修飾: She has many friends to help her. / We have a plan to go camping.
+      ■ 副詞用法:
+        - too ... to V: This T-shirt is too small to wear.「着るには小さすぎる」
+        - not to V: Be careful not to make the same mistakes.
+        - in order to V: They worked hard in order to finish it.（in order なしでも同義）
+        - 目的: We waited for a while to get tickets for the concert.
+        - 感情の原因: It is very kind of you to invite me.「〜するとは」
+          ※ it は状況を示す it。
+        - enough to V: He is old enough to travel alone.「Vできるほどの〜」
+      ■ 語彙注釈: * short break「小休止」、* math problem「数学の問題」
+
 understanding_goals:
   - node_id: "nbk-001"
     seq: 1
@@ -306,6 +373,45 @@ understanding_goals:
   - node_id: "nbk-010"
     seq: 3
     goal: "従属接続詞（従接）と等位接続詞（等接）の違いを説明できる"
+
+  - node_id: "nbk-011"
+    seq: 1
+    goal: "句や節が名詞・形容詞・副詞のどの働きをしているか判断できる"
+  - node_id: "nbk-011"
+    seq: 2
+    goal: "to不定詞句の名詞用法（主語・目的語）を識別できる"
+  - node_id: "nbk-011"
+    seq: 3
+    goal: "関係代名詞節が形容詞の働きをすることを説明できる"
+  - node_id: "nbk-011"
+    seq: 4
+    goal: "副詞句・副詞節の修飾先を特定できる"
+
+  - node_id: "nbk-012"
+    seq: 1
+    goal: "助動詞の働き（話し手の判断を動詞に加える）を説明できる"
+  - node_id: "nbk-012"
+    seq: 2
+    goal: "基本助動詞（can/may/must/should/will）の意味を区別できる"
+  - node_id: "nbk-012"
+    seq: 3
+    goal: "〈助動詞 + have + 過去分詞〉で過去のことを表す用法を説明できる"
+  - node_id: "nbk-012"
+    seq: 4
+    goal: "had to, ought to が助動詞であることを認識できる"
+
+  - node_id: "nbk-013"
+    seq: 1
+    goal: "準動詞（to不定詞・分詞・動名詞）の概念を説明できる"
+  - node_id: "nbk-013"
+    seq: 2
+    goal: "to不定詞の3つの用法（名詞・形容詞・副詞）を区別できる"
+  - node_id: "nbk-013"
+    seq: 3
+    goal: "副詞用法の多様なパターン（too...to, in order to, enough to, 感情の原因）を識別できる"
+  - node_id: "nbk-013"
+    seq: 4
+    goal: "疑問詞 + to不定詞（what to do 等）の構造を説明できる"
 
 check_points:
   - node_id: "nbk-001"
@@ -470,6 +576,65 @@ check_points:
     question: "従属接続詞と等位接続詞の違いは何か？ 各1例を挙げよ。"
     answer: "従属接続詞（従接）: 節を導く（that, when 等）。等位接続詞（等接）: 語・句・節を対等に結ぶ（and, but, or）。"
 
+  - node_id: "nbk-011"
+    seq: 1
+    question: "句・節の3つの働きは何か？"
+    answer: "名詞・形容詞・副詞の働き。名詞なら主語や目的語になり、形容詞なら名詞を修飾し、副詞なら動詞等を修飾する。"
+  - node_id: "nbk-011"
+    seq: 2
+    question: "I want to eat the cake. の to eat the cake は何用法か？"
+    answer: "名詞用法。want の目的語になっている。"
+  - node_id: "nbk-011"
+    seq: 3
+    question: "The small dog that is running over there is mine. の that 節の働きは？"
+    answer: "形容詞。関係代名詞節で The small dog を修飾している。関係代名詞節は1つの文だが、便宜上形容詞の働きとみなす。"
+  - node_id: "nbk-011"
+    seq: 4
+    question: "I ran to the station to catch the last train. の to catch the last train は何用法か？"
+    answer: "副詞用法。ran を修飾する目的の副詞。「最終電車に乗るために」。"
+
+  - node_id: "nbk-012"
+    seq: 1
+    question: "助動詞の働きは何か？ また助動詞の後ろの動詞はどの形になるか？"
+    answer: "話し手・書き手の「判断」を動詞に加える。後ろの動詞は原形になる。"
+  - node_id: "nbk-012"
+    seq: 2
+    question: "cannot の意味は？"
+    answer: "「〜な可能性はない」「〜なはずがない」。例: It cannot be true.「それは本当のはずがない」。"
+  - node_id: "nbk-012"
+    seq: 3
+    question: "may have been injured はどういう意味か？"
+    answer: "「けがをしていたのかもしれない」。〈may have + 過去分詞〉で過去のことを「〜だったかもしれない」と表す。"
+  - node_id: "nbk-012"
+    seq: 4
+    question: "ought to と同じ意味の助動詞は？"
+    answer: "should。「〜すべきだ、〜したほうがよい」の意味。"
+  - node_id: "nbk-012"
+    seq: 5
+    question: "had to は何の過去形か？"
+    answer: "have to の過去形。「〜する必要があった」の意味。"
+
+  - node_id: "nbk-013"
+    seq: 1
+    question: "準動詞とは何か？ 3つ挙げよ。"
+    answer: "to不定詞・分詞・動名詞。動詞の変化形で、文中で名詞・形容詞・副詞の働きをする。"
+  - node_id: "nbk-013"
+    seq: 2
+    question: "She has many friends to help her. の to help her は何用法か？"
+    answer: "形容詞用法。many friends を修飾している。"
+  - node_id: "nbk-013"
+    seq: 3
+    question: "This T-shirt is too small to wear. の to wear は何用法か？"
+    answer: "副詞用法。too small を修飾。「着るには小さすぎる」の意。too ... to V で「Vするには〜すぎる」。"
+  - node_id: "nbk-013"
+    seq: 4
+    question: "It is very kind of you to invite me. の it は何か？"
+    answer: "状況を示す it。to invite me は「〜するとは」の意味の副詞用法。形式主語の it とは異なる。"
+  - node_id: "nbk-013"
+    seq: 5
+    question: "in order to と to の違いは？"
+    answer: "意味は同じ（目的を示す副詞用法）。in order を付けて目的であることを明確にする。in order がなくても意味は変わらない。"
+
 node_prerequisites:
   - node_id: "nbk-002"
     prerequisite_id: "nbk-001"
@@ -501,6 +666,14 @@ node_prerequisites:
     prerequisite_id: "nbk-006"
   - node_id: "nbk-010"
     prerequisite_id: "nbk-009"
+  - node_id: "nbk-011"
+    prerequisite_id: "nbk-010"
+  - node_id: "nbk-012"
+    prerequisite_id: "nbk-002"
+  - node_id: "nbk-013"
+    prerequisite_id: "nbk-011"
+  - node_id: "nbk-013"
+    prerequisite_id: "nbk-002"
 
 knowledge_references:
   - node_id: "nbk-001"
@@ -543,3 +716,15 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_G10"
     pages: "p.20-21"
+  - node_id: "nbk-011"
+    book: "入門英文問題精講"
+    section_id: "Ny_G11"
+    pages: "p.21-22"
+  - node_id: "nbk-012"
+    book: "入門英文問題精講"
+    section_id: "Ny_G12"
+    pages: "p.22-23"
+  - node_id: "nbk-013"
+    book: "入門英文問題精講"
+    section_id: "Ny_G13"
+    pages: "p.23-25"
