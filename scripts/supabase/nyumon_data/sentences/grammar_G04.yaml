@@ -1,0 +1,53 @@
+sentences:
+  - id: "ny-G04-s1"
+    section_id: "Ny_G04"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "The game will probably be canceled."
+    japanese: "試合はおそらく中止になるだろう。"
+    notes: "基本講義の解説中の例文。副詞 probably が文全体を修飾する例。"
+  - id: "ny-G04-s2"
+    section_id: "Ny_G04"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "The game was canceled because it rained."
+    japanese: "雨が降ったので試合は中止になった。"
+    notes: "基本講義の解説中の例文。副詞節 because it rained が主節を修飾する例。"
+  - id: "ny-G04-s3"
+    section_id: "Ny_G04"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "He runs fast."
+    japanese: "彼は速く走る。"
+    notes: "基本講義の解説中の例文。fast が副詞として動詞 runs を修飾する例。形容詞と同形の副詞。"
+
+sentence_structures:
+  - sentence_id: "ny-G04-s1"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "ny-G04-s1"
+    label: "details"
+    value: "{S}The game {V}will probably be canceled."
+  - sentence_id: "ny-G04-s2"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "ny-G04-s2"
+    label: "details"
+    value: "{S}The game {V}was canceled [because it rained](副詞節)."
+  - sentence_id: "ny-G04-s3"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "ny-G04-s3"
+    label: "details"
+    value: "{S}He {V}runs fast(M:副詞)."
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-G04-s1"
+    node_id: "nbk-004"
+  - sentence_id: "ny-G04-s2"
+    node_id: "nbk-004"
+  - sentence_id: "ny-G04-s3"
+    node_id: "nbk-004"

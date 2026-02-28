@@ -12,6 +12,119 @@ knowledge_nodes:
       ■ 不可算名詞: 数えられない名詞。複数形を持たず冠詞 a もつかない（例: water）
       ■ 注意: information は不可算名詞。数える場合は a piece of information とする。日本語の感覚は通じない
 
+  - id: "nbk-002"
+    name: "品詞の働き: 動詞"
+    category: "基本講義"
+    priority: "P1"
+    notes: |
+      動詞とは、動き（動作）を表す言葉。日本語で言い切りの形がウ段で終わるもの。
+      例: put「置く」, go「行く」, change「変える」
+      ■ 状態動詞: be動詞, become「〜になる」, remain「〜のままである」, seem「〜に思える」
+        など存在や状態を表すのも動詞に含まれる。
+      ■ 時制:
+        - 過去: walked / wrote（語尾変化で過去を示す）
+        - 未来: will walk / will write（〈will + 動詞の原形〉）
+        - 現在進行形: is walking / is writing（〈be + V-ing〉）
+        - 現在完了: have walked / have written（〈have + 過去分詞〉）
+      ■ 規則動詞: 語尾に -ed を加えて過去形・過去分詞形を作る（walk → walked）
+      ■ 不規則動詞: 不規則な過去形・過去分詞形を持つ（write → wrote → written）
+
+  - id: "nbk-003"
+    name: "品詞の働き: 形容詞"
+    category: "基本講義"
+    priority: "P1"
+    notes: |
+      形容詞とは、名詞に情報を加える（＝修飾する）言葉。
+      ■ 2つの働き:
+        (1) 名詞を修飾する: cold water「冷たい水」
+        (2) 名詞の状態を表す「（名詞は）〜だ」: The house is big.
+      ■ 形容詞の位置:
+        - 1語 → 名詞の前に置く（前置修飾）: a running dog
+        - 2語以上の句 → 名詞の後ろに置く（後置修飾）:
+          a dog running in the park「公園を走っている犬」
+          a machine broken by the storm「嵐によって壊された機械」
+      ■ 関係代名詞節も名詞の説明に使われる:
+        The small dog that is running over there is mine.
+      ■ SVC構造での形容詞:
+        be動詞の他に become, seem, look などの動詞の後ろにも置かれる。
+        They seemed happy.（He = happy の関係）
+
+  - id: "nbk-004"
+    name: "品詞の働き: 副詞"
+    category: "基本講義"
+    priority: "P1"
+    notes: |
+      副詞とは、動詞・形容詞・副詞・文全体に情報を加える（＝修飾する）言葉。
+      時・場所・頻度・程度・様態などの情報を加える。
+      ■ 副詞の修飾先:
+        - 動詞を修飾: stop suddenly「突然止まる」
+        - 動詞を修飾（句）: buy apples to bake a pie「パイを焼くためにリンゴを買う」
+        - 形容詞を修飾: a very interesting book「とても面白い本」
+        - 文全体を修飾: The game will probably be canceled.
+        - 主節を修飾（節）: The game was canceled because it rained.
+      ■ 副詞の形:
+        - 形容詞に -ly を付けて副詞にする: quick → quickly, easy → easily
+        - 形容詞と副詞が同形のもの: early, fast, enough, long
+          例: a fast runner（形容詞）/ He runs fast.（副詞）
+      ■ 副詞も2語以上の句や〈S + V〉を含む節の形をとることがある。
+
+  - id: "nbk-005"
+    name: "文の要素: 主語"
+    category: "基本講義"
+    priority: "P1"
+    notes: |
+      主語とは、文の中で「〜は[が]」に当たり、文の動作を行うまたは文の主題を示す語。
+      記号: S（subject）
+      ■ 主語になるのは名詞（代名詞）。
+      ■ 英語では命令文を除いて基本的に主語は省略できない。
+      ■ 形式主語 It:
+        主語が (for 〜) to + 動詞 の場合、形式的に it を主語に置き、真主語を後ろに置く。
+        例: It is dangerous for children to swim in the river.
+      ■ 動名詞の主語:
+        動詞を主語にする場合、動名詞にするのが一般的。
+        例: Reading newspapers is my morning routine.
+      ■ There is 構文:
+        There is 〜. では「〜」に当たる部分が主語。
+        例: There is a big supermarket near the school. → 主語は a big supermarket
+      ■ 命令文には原則として主語がない。
+
+  - id: "nbk-006"
+    name: "文の要素: 動詞と文型"
+    category: "基本講義"
+    priority: "P1"
+    notes: |
+      動詞は文の中で「〜だ」「〜する」の述語に当たる。
+      記号: V（verb）
+      ■ 英語では原則として主語の後ろに述語動詞が来る。
+      ■ 語順は動詞によって決定される。
+      ■ 5文型:
+        第1文型〈S + V〉: go, cry, fly, stand 等
+        第2文型〈S + V + C〉: be動詞, become, seem, look 等
+        第3文型〈S + V + O〉: have, want, say, know 等
+        第4文型〈S + V + O + O〉: give, lend, show, tell 等
+        第5文型〈S + V + O + C〉: call, keep, leave, make 等
+
+  - id: "nbk-007"
+    name: "文の要素: 目的語"
+    category: "基本講義"
+    priority: "P1"
+    notes: |
+      目的語とは、動作などの対象になる語。
+      記号: O（object）
+      ■ 目的語になるのは名詞。
+      ■ 目的語の形態:
+        - 名詞: four seasons（Japan has four seasons.）
+        - 動名詞: singing songs（I like singing songs.）
+        - to不定詞: to eat the cake（I want to eat the cake.）
+        - that節: that you like her（I know that you like her.）
+          接続詞 that で1つの文を名詞化する。that は省略可。
+      ■ 間接目的語と直接目的語:
+        第4文型〈S + V + O + O〉では2つの目的語を取る。
+        例: The man asked me(O:間接) the way to the station(O:直接).
+      ■ 形式目的語 it:
+        〈S + V + O + C〉で目的語が to不定詞のとき、形式的に it を置き、真の目的語を後ろに置く。
+        例: I found it hard to go there by myself.
+
 understanding_goals:
   - node_id: "nbk-001"
     seq: 1
@@ -25,6 +138,84 @@ understanding_goals:
   - node_id: "nbk-001"
     seq: 4
     goal: "不可算名詞の数え方（a piece of information 等）を説明できる"
+
+  - node_id: "nbk-002"
+    seq: 1
+    goal: "動詞を他の品詞と区別して識別できる"
+  - node_id: "nbk-002"
+    seq: 2
+    goal: "be動詞・become・remain・seem 等の状態動詞を動詞として認識できる"
+  - node_id: "nbk-002"
+    seq: 3
+    goal: "動詞の4つの時制形式（過去・未来・進行形・完了）の作り方を説明できる"
+  - node_id: "nbk-002"
+    seq: 4
+    goal: "規則動詞と不規則動詞の違いを説明できる"
+
+  - node_id: "nbk-003"
+    seq: 1
+    goal: "形容詞を他の品詞と区別して識別できる"
+  - node_id: "nbk-003"
+    seq: 2
+    goal: "形容詞の2つの働き（名詞修飾と状態表現）を説明できる"
+  - node_id: "nbk-003"
+    seq: 3
+    goal: "形容詞の位置ルール（1語→前置、2語以上の句→後置）を適用できる"
+  - node_id: "nbk-003"
+    seq: 4
+    goal: "SVC構造で補語になる形容詞を識別できる（be動詞・seem・look 等の後ろ）"
+
+  - node_id: "nbk-004"
+    seq: 1
+    goal: "副詞を他の品詞と区別して識別できる"
+  - node_id: "nbk-004"
+    seq: 2
+    goal: "副詞の修飾先（動詞・形容詞・副詞・文全体）を特定できる"
+  - node_id: "nbk-004"
+    seq: 3
+    goal: "形容詞から副詞を作る方法（-ly付加）と同形の例外（fast, early等）を説明できる"
+  - node_id: "nbk-004"
+    seq: 4
+    goal: "副詞の句・節の形（to不定詞句, because節 等）を認識できる"
+
+  - node_id: "nbk-005"
+    seq: 1
+    goal: "英文の中で主語を正確に特定できる"
+  - node_id: "nbk-005"
+    seq: 2
+    goal: "形式主語 It と真主語（for 〜 to V）の関係を説明できる"
+  - node_id: "nbk-005"
+    seq: 3
+    goal: "動名詞が主語になるパターンを認識できる"
+  - node_id: "nbk-005"
+    seq: 4
+    goal: "There is 構文で真の主語を特定できる"
+
+  - node_id: "nbk-006"
+    seq: 1
+    goal: "英文の述語動詞を特定できる"
+  - node_id: "nbk-006"
+    seq: 2
+    goal: "5文型の名称と構成要素を列挙できる"
+  - node_id: "nbk-006"
+    seq: 3
+    goal: "与えられた英文がどの文型かを判別できる"
+  - node_id: "nbk-006"
+    seq: 4
+    goal: "各文型に対応する代表的な動詞を挙げられる"
+
+  - node_id: "nbk-007"
+    seq: 1
+    goal: "英文の中で目的語を正確に特定できる"
+  - node_id: "nbk-007"
+    seq: 2
+    goal: "目的語になれる4つの形態（名詞・動名詞・to不定詞・that節）を区別できる"
+  - node_id: "nbk-007"
+    seq: 3
+    goal: "間接目的語と直接目的語を区別できる"
+  - node_id: "nbk-007"
+    seq: 4
+    goal: "形式目的語 it の構造を説明できる"
 
 check_points:
   - node_id: "nbk-001"
@@ -44,10 +235,154 @@ check_points:
     question: "information を数えるにはどうするか？"
     answer: "a piece of information のように助数表現を使う。information は不可算名詞であり、*informations や *an information とはできない。"
 
-node_prerequisites: []
+  - node_id: "nbk-002"
+    seq: 1
+    question: "動詞とは何を表す言葉か？"
+    answer: "動き（動作）を表す言葉。日本語で言い切りの形がウ段で終わるもの。put, go, change などが動詞にあたる。"
+  - node_id: "nbk-002"
+    seq: 2
+    question: "be動詞・become・remain・seem はなぜ動詞なのか？"
+    answer: "これらは存在や状態を表す動詞（状態動詞）である。動作を表さなくても、述語として文の中で「〜だ」「〜になる」「〜のままである」を表す。"
+  - node_id: "nbk-002"
+    seq: 3
+    question: "英語で未来を表すにはどうするか？"
+    answer: "〈will + 動詞の原形〉の形にする。例: will walk, will write。"
+  - node_id: "nbk-002"
+    seq: 4
+    question: "規則動詞と不規則動詞の違いは何か？"
+    answer: "規則動詞は語尾に -ed を加えて過去形・過去分詞形を作る（walk→walked）。不規則動詞は不規則な変化をする（write→wrote→written）。"
+
+  - node_id: "nbk-003"
+    seq: 1
+    question: "形容詞とは何か？ 2つの働きを述べよ。"
+    answer: "名詞に情報を加える言葉。(1) 名詞を修飾する（cold water）、(2) 名詞の状態を表す（The house is big.）の2つの働きがある。"
+  - node_id: "nbk-003"
+    seq: 2
+    question: "形容詞が名詞の前に来る場合と後ろに来る場合の違いは？"
+    answer: "1語の形容詞は名詞の前（a running dog）。2語以上の句になると名詞の後ろ（a dog running in the park）。"
+  - node_id: "nbk-003"
+    seq: 3
+    question: "a machine broken by the storm の broken by the storm はなぜ名詞の後ろにあるか？"
+    answer: "2語以上の形容詞句は名詞の後ろに置く（後置修飾）ため。broken 1語なら a broken machine と前置できる。"
+  - node_id: "nbk-003"
+    seq: 4
+    question: "They seemed happy. の happy は何か？"
+    answer: "形容詞で、補語（C）の働き。seem の後ろに置かれ、主語 They の状態を表す。SVC構造。"
+
+  - node_id: "nbk-004"
+    seq: 1
+    question: "副詞とは何か？ どのようなものを修飾するか？"
+    answer: "動詞・形容詞・副詞・文全体に、時・場所・頻度・程度・様態などの情報を加える言葉。"
+  - node_id: "nbk-004"
+    seq: 2
+    question: "形容詞から副詞を作る一般的な方法は？ また例外は？"
+    answer: "形容詞に -ly を付ける（quick→quickly, easy→easily）。ただし形容詞と副詞が同形のものもある（fast, early, enough, long）。"
+  - node_id: "nbk-004"
+    seq: 3
+    question: "fast が形容詞のときと副詞のときの違いは？"
+    answer: "a fast runner の fast は名詞を修飾するので形容詞。He runs fast. の fast は動詞を修飾するので副詞。形は同じだが働きが異なる。"
+  - node_id: "nbk-004"
+    seq: 4
+    question: "The game was canceled because it rained. の because it rained は何か？"
+    answer: "副詞節。〈S + V〉を含む節の形をとった副詞で、主節 The game was canceled を修飾している。"
+
+  - node_id: "nbk-005"
+    seq: 1
+    question: "主語とは何か？ 何が主語になれるか？"
+    answer: "文の中で「〜は[が]」に当たり、文の動作を行うまたは主題を示す語。主語になるのは名詞（代名詞）。"
+  - node_id: "nbk-005"
+    seq: 2
+    question: "It is dangerous for children to swim in the river. の主語は何か？"
+    answer: "形式上の主語は It。真主語は for children to swim in the river。主語が長い場合に形式主語 it を置き、真主語を後ろに回す。"
+  - node_id: "nbk-005"
+    seq: 3
+    question: "There is a big supermarket near the school. の主語は何か？"
+    answer: "a big supermarket。There is 構文では、There は主語ではなく、is の後ろの名詞が主語。"
+  - node_id: "nbk-005"
+    seq: 4
+    question: "英語で主語を省略できるのはどのような場合か？"
+    answer: "命令文の場合のみ。それ以外は基本的に主語を省略できない（日本語と異なる点）。"
+
+  - node_id: "nbk-006"
+    seq: 1
+    question: "英語の述語動詞は文のどこに来るか？"
+    answer: "原則として主語の後ろに来る（日本語の「文末」とは異なる）。"
+  - node_id: "nbk-006"
+    seq: 2
+    question: "第2文型〈S + V + C〉と第3文型〈S + V + O〉の違いは何か？"
+    answer: "第2文型は S = C の関係（He looks happy → He = happy）。第3文型は V の動作の対象を O が示す（Japan has four seasons → Japan ≠ four seasons）。"
+  - node_id: "nbk-006"
+    seq: 3
+    question: "第4文型と第5文型の違いは何か？"
+    answer: "第4文型〈S+V+O+O〉は2つの目的語を取る（give me the book）。第5文型〈S+V+O+C〉は O = C の関係がある（call me John → me = John）。"
+  - node_id: "nbk-006"
+    seq: 4
+    question: "第2文型を取る代表的な動詞を3つ挙げよ。"
+    answer: "be動詞、become、seem（他に look, remain 等）。これらの後ろに来る語は補語 C。"
+
+  - node_id: "nbk-007"
+    seq: 1
+    question: "目的語とは何か？"
+    answer: "動作などの対象になる語。記号 O。目的語になるのは名詞。"
+  - node_id: "nbk-007"
+    seq: 2
+    question: "動名詞・to不定詞・that節が目的語になる例をそれぞれ挙げよ。"
+    answer: "動名詞: I like singing songs. / to不定詞: I want to eat the cake. / that節: I know that you like her."
+  - node_id: "nbk-007"
+    seq: 3
+    question: "The man asked me the way to the station. の目的語は何か？"
+    answer: "me（間接目的語）と the way to the station（直接目的語）の2つ。第4文型〈S+V+O+O〉。"
+  - node_id: "nbk-007"
+    seq: 4
+    question: "I found it hard to go there by myself. の it は何か？"
+    answer: "形式目的語。真の目的語は to go there by myself。〈S+V+O+C〉の目的語が to不定詞のとき、形式的に it を置き、真の目的語を後ろに回す。"
+
+node_prerequisites:
+  - node_id: "nbk-002"
+    prerequisite_id: "nbk-001"
+  - node_id: "nbk-003"
+    prerequisite_id: "nbk-001"
+  - node_id: "nbk-004"
+    prerequisite_id: "nbk-001"
+  - node_id: "nbk-004"
+    prerequisite_id: "nbk-003"
+  - node_id: "nbk-005"
+    prerequisite_id: "nbk-001"
+  - node_id: "nbk-006"
+    prerequisite_id: "nbk-002"
+  - node_id: "nbk-006"
+    prerequisite_id: "nbk-005"
+  - node_id: "nbk-007"
+    prerequisite_id: "nbk-001"
+  - node_id: "nbk-007"
+    prerequisite_id: "nbk-006"
 
 knowledge_references:
   - node_id: "nbk-001"
     book: "入門英文問題精講"
     section_id: "Ny_G01"
     pages: "p.10"
+  - node_id: "nbk-002"
+    book: "入門英文問題精講"
+    section_id: "Ny_G02"
+    pages: "p.10-12"
+  - node_id: "nbk-003"
+    book: "入門英文問題精講"
+    section_id: "Ny_G03"
+    pages: "p.12-13"
+  - node_id: "nbk-004"
+    book: "入門英文問題精講"
+    section_id: "Ny_G04"
+    pages: "p.13-14"
+  - node_id: "nbk-005"
+    book: "入門英文問題精講"
+    section_id: "Ny_G05"
+    pages: "p.14-15"
+  - node_id: "nbk-006"
+    book: "入門英文問題精講"
+    section_id: "Ny_G06"
+    pages: "p.15-17"
+  - node_id: "nbk-007"
+    book: "入門英文問題精講"
+    section_id: "Ny_G07"
+    pages: "p.17-18"

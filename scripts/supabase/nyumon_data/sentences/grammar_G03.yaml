@@ -1,0 +1,37 @@
+sentences:
+  - id: "ny-G03-s1"
+    section_id: "Ny_G03"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "They seemed happy."
+    japanese: "彼らは幸せそうに見えた。"
+    notes: "基本講義の解説中の例文。SVC構造での形容詞の用法を示す。"
+  - id: "ny-G03-s2"
+    section_id: "Ny_G03"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "The small dog that is running over there is mine."
+    japanese: "向こうで走っている小さな犬は私の犬だ。"
+    notes: "基本講義の解説中の例文。関係代名詞節による名詞修飾の例。"
+
+sentence_structures:
+  - sentence_id: "ny-G03-s1"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "ny-G03-s1"
+    label: "details"
+    value: "{S}They {V}seemed {C}happy."
+  - sentence_id: "ny-G03-s2"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "ny-G03-s2"
+    label: "details"
+    value: "{S}The small dog [that is running over there](形容詞節:関代) {V}is {C}mine."
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-G03-s1"
+    node_id: "nbk-003"
+  - sentence_id: "ny-G03-s2"
+    node_id: "nbk-003"
