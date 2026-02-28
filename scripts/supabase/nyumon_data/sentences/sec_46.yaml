@@ -1,0 +1,29 @@
+sentences:
+  - id: "ny-46-s1"
+    section_id: "Ny_46"
+    drill: 46
+    number: 1
+    role: "exercise"
+    english: "While approximately two-thirds of Americans believe that robots will perform most of the work currently done by human beings during the next 50 years, about 80% also believe their current jobs will either \"definitely\" or \"probably\" exist in their current form within the same period."
+    japanese: "アメリカ人のおよそ3分の2が，今後 50 年の間に，現在人間が行っている仕事の大半をロボットがするようになると信じていて，そして同じくアメリカ人の約 80％は，今後 50 年の間に，彼らの現在の仕事は「間違いなく」あるいは「おそらく」現在の形態で存在するだろうと信じている。"
+    notes: "出典: 岩手大学"
+
+sentence_structures:
+  - sentence_id: "ny-46-s1"
+    label: "overall"
+    value: "M S V O"
+
+  - sentence_id: "ny-46-s1"
+    label: "details"
+    value: "[While(従接) approximately two-thirds of Americans believe [that(従接) robots will perform most of the work (currently done by human beings)(M:形容詞句) (during the next 50 years)(M:副詞句)]](M:副詞節), {S}about 80%(S) also {V}believe(V) {O}[(that省略) their current jobs will (either \"definitely\" or \"probably\") exist (in their current form)(M:副詞句) (within the same period)(M:副詞句)](O:that節)"
+
+  - sentence_id: "ny-46-s1"
+    label: "partial_translations"
+    value: |
+      ❷ ロボットは次の50年，現在人間によってなされている仕事の大半をするだろう
+      ❹ （彼らの現在の仕事が）間違いなくあるいはおそらく存在する
+      ❺ 同じ期間内に仕事が現在の形で存在するだろう
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-46-s1"
+    node_id: "nst-013"

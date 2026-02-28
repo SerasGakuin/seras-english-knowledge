@@ -1,0 +1,54 @@
+sentences:
+  - id: "ny-45-s1"
+    section_id: "Ny_45"
+    drill: 45
+    number: 1
+    role: "exercise"
+    english: "When we recognize an emotion in a character in a story, our brains generate the same emotion, so we are simulating the character's emotional state."
+    japanese: "物語に出てくる登場人物の中にある感情を認識するとき，私達の脳は同じ感情を生み出し，つまり私達はその登場人物の情緒的状態を追体験しているのだ。"
+    notes: ""
+
+  - id: "ny-45-s2"
+    section_id: "Ny_45"
+    drill: 45
+    number: 2
+    role: "exercise"
+    english: "This working out of what fictional characters are thinking and feeling becomes a powerful rehearsal for living in the real world."
+    japanese: "架空の人物が考えたり感じたりしていることを，このように自分もたどることは，現実の世界で生きるための強力な予行演習になる。"
+    notes: ""
+
+sentence_structures:
+  - sentence_id: "ny-45-s1"
+    label: "overall"
+    value: "M S V O, so S V O"
+
+  - sentence_id: "ny-45-s1"
+    label: "details"
+    value: "[When(従接) we recognize an emotion (in a character in a story)(M:副詞句)](M:副詞節), {S}our brains(S) {V}generate(V) {O}the same emotion(O), so {S}we(S) {V}are simulating(V) {O}the character's emotional state(O)"
+
+  - sentence_id: "ny-45-s1"
+    label: "partial_translations"
+    value: |
+      ❷ 私達が物語の登場人物の中に感情を認識する
+      ❸ 私達の脳は同じ感情を生む
+      ❹ そこで，その登場人物の感情状態を追体験する
+
+  - sentence_id: "ny-45-s2"
+    label: "overall"
+    value: "S V C"
+
+  - sentence_id: "ny-45-s2"
+    label: "details"
+    value: "{S}This working out (of [what(関代) fictional characters are thinking and feeling])(M:形容詞句)(S:動名詞句) {V}becomes(V) {C}a powerful rehearsal(C) (for living in the real world)(M:形容詞句)"
+
+  - sentence_id: "ny-45-s2"
+    label: "partial_translations"
+    value: |
+      ❺ この〜を十分理解することは…のための強力なリハーサルになる
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-45-s1"
+    node_id: "nst-013"
+
+  - sentence_id: "ny-45-s2"
+    node_id: "nst-013"

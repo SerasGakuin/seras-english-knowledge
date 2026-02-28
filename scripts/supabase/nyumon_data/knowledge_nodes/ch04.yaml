@@ -290,6 +290,96 @@ knowledge_nodes:
         例: Teachers should treat students equally. → Students should be treated equally.
         本文: machines would replace them → they would be replaced by machines.
 
+  - id: "nst-011"
+    name: "疑問詞節（間接疑問文）"
+    category: "接続詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❶〔疑問詞〕（問44）
+      ■ 疑問詞節（間接疑問文）:
+        疑問詞（what/when/where/how/to what extent 等）が作る名詞節。
+        名詞の役割（目的語/主語/補語）を果たす。
+      ■ find out + 疑問詞節:
+        「〜がわかる」「〜を見つけ出す」の意味。
+        隠れていたものを見つけ出すイメージ。
+        例: find out to what extent domestic cats are influenced =
+        「家で飼っているネコがどの程度影響されるかを知る」
+      ■ to what extent:
+        to ~ extent「〜な程度」の「〜」が what に置き換わった形。
+        「どの程度（〜か）」の意味で、疑問詞節を作る。
+      ❸（問44）because の訳し方:
+        〈S V, because S' V'〉は前から「SV、なぜならS'V'」と読むのが自然。
+        英文の流れに逆らって後ろから訳すのは避けたい。
+      ❹（問44）it seems that の it:
+        「状況の it」で特に何かを指すものがない（形式主語ではない）。
+        形式主語なら seems の補語部分が必要になるが、それがない。
+        that は名詞節を作る接続詞。
+
+  - id: "nst-012"
+    name: "接触節（関係代名詞の省略）"
+    category: "接続詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❺〔関係詞〕（問44）
+      ■ 接触節（contact clause）:
+        関係代名詞が省略されて、先行詞の直後に〈S＋V〉が連続する形。
+        例: the sounds (which/that) they produce → the sounds they produce
+      ■ 判別法:
+        名詞の直後に〈S＋V〉が来たら接触節を疑う。
+        他動詞の目的語が見当たらない → 省略された関係代名詞の先行詞が目的語。
+      ■ 例文:
+        The cost is something (that/which) we can ignore.
+        「費用のことは考えなくてよい」
+        → ignore の目的語がない → something が先行詞で目的語。
+      ■ 本文: in the sounds they produce
+        produce は他動詞「〜を作る」→ 目的語がない
+        → the sounds (which/that) they produce から関係代名詞が省略。
+        「彼ら（ネコ）が生み出す音において」
+      ■ slightly different dialects in the sounds they produce:
+        slightly different（副詞＋形容詞）が前から dialects を修飾。
+        in the sounds they produce は use を修飾する副詞句。
+        in は「言語・手段を表す」in（talk in English の in と同じ）とも解釈可能。
+
+  - id: "nst-013"
+    name: "複数節の構造把握"
+    category: "接続詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❶〔接続詞〕（問45）❶❷〔接続詞〕（問46）
+      ■ 複数の節が重なった英文の読解法:
+        副詞節＋主節＋等位接続詞 や、副詞節内にthat節が入る入れ子構造を正しく解析する。
+      ■ When節 + 主節 + so の構造（問45）:
+        When節はコンマまで。so は等位接続詞で「そこで」「だから」。
+        When we recognize ..., our brains generate ..., so we are simulating ...
+        → When副詞節 / our brains generate が主節 / so以下が結果節
+      ■ While節の範囲特定（問46）:
+        長いWhile節ではコンマを目印にして節の終わりを見つける。
+        While ... Americans believe that ... years, about 80% also believe ...
+        → years までがWhile節、about 80% から主節。
+      ■ 入れ子構造:
+        While節の中に believe that節が入り、主節にも believe (that省略)節がある。
+        接続詞（While/that）の開始位置と対応する動詞を追跡する。
+      ■ While の意味判定（問46）:
+        ここでは「〜の一方で」（対比）。「〜の間に」では意味を成さない。
+        two-thirds（3分の2）: 英語では「3分の1」が2つと考え複数形。
+      ❷（問45）recognize A in B:「Bの中にAを認識する」。
+        in a character in a story: 第1の in は recognize を修飾する副詞句、
+        第2の in a story は character を修飾する形容詞句。
+      ❸（問45）the same: same には必ず the がつく。
+      ❹（問45）進行形「〜していることになる」:
+        進行形が「結果としてそういう状態にある」を示す用法。
+        脳が同じ感情を生む ＝ 登場人物の感情状態を追体験している。
+      ❺（問45）This working out of what:
+        what は前置詞 of の後ろなので名詞節を作る。
+        working out は動名詞。work out =「〜を解決・理解する」。
+        第1文の simulate = 第2文の work out what の言い換え。
+      ❸（問46）80%:「アメリカ人全体の約80%」。also に注目。
+        believe の後の接続詞 that が省略されている。
+      ❹（問46）either A or B:「AかBか」。definitely or probably。
+      ❺（問46）in their current form / within the same period:
+        共に will exist を修飾する副詞句。
+        within the same period = during the next 50 years の言い換え。
+
 understanding_goals:
   - node_id: "nst-001"
     seq: 1
@@ -397,6 +487,36 @@ understanding_goals:
   - node_id: "nst-010"
     seq: 4
     goal: "be afraid that / be sure that の構造を理解し訳出できる"
+  - node_id: "nst-011"
+    seq: 1
+    goal: "疑問詞（what/when/where/how/to what extent等）が作る名詞節を識別できる"
+  - node_id: "nst-011"
+    seq: 2
+    goal: "find out + 疑問詞節の構造を把握し和訳できる"
+  - node_id: "nst-011"
+    seq: 3
+    goal: "to what extent の成り立ち（to ~ extent の what 置換）を説明できる"
+  - node_id: "nst-012"
+    seq: 1
+    goal: "名詞の直後に〈S＋V〉が来たとき、接触節（関係代名詞省略）を認識できる"
+  - node_id: "nst-012"
+    seq: 2
+    goal: "省略された関係代名詞の先行詞と文中での役割を特定できる"
+  - node_id: "nst-012"
+    seq: 3
+    goal: "接触節を含む英文を正しく和訳できる"
+  - node_id: "nst-013"
+    seq: 1
+    goal: "When節+主節+so の構造を把握し、各節の境界を正確に特定できる"
+  - node_id: "nst-013"
+    seq: 2
+    goal: "長いWhile節の範囲を特定し、主節との境界を見つけられる"
+  - node_id: "nst-013"
+    seq: 3
+    goal: "入れ子構造（副詞節内のthat節等）を正しく解析できる"
+  - node_id: "nst-013"
+    seq: 4
+    goal: "複数の接続詞が重なった文の全体構造を把握できる"
 
 check_points:
   - node_id: "nst-001"
@@ -536,6 +656,46 @@ check_points:
     seq: 4
     question: "be afraid that S+V の構造はどう成り立っているか？"
     answer: "本来 be afraid of＋名詞 の形だが、that節を従える場合にofが脱落し、be afraid that S+V となる。「…ではないかと恐れている」の意味。be sure that も同様にofが脱落。"
+  - node_id: "nst-011"
+    seq: 1
+    question: "find out to what extent domestic cats are influenced の to what extent 以下は何か？"
+    answer: "疑問詞節（間接疑問文）。find out の目的語になる名詞節。to ~ extent「〜な程度」の「〜」が what に置き換わった形で「どの程度〜か」を表す。"
+  - node_id: "nst-011"
+    seq: 2
+    question: "it seems that cats use... の it は何か？"
+    answer: "状況の it。特に何かを指すものがない。形式主語ではない（形式主語なら seems の補語部分「〜のように思える」の「〜」がなくなってしまう）。that は名詞節を作る接続詞。"
+  - node_id: "nst-011"
+    seq: 3
+    question: "〈S V, because S' V'〉の自然な訳し方は？"
+    answer: "前から「SV、なぜなら S'V'」と読む。英文の流れに逆らって後ろから「S'V' なので SV」と訳すのは避けたい。"
+  - node_id: "nst-012"
+    seq: 1
+    question: "the sounds they produce の they produce はどのような構造か？"
+    answer: "接触節。the sounds (which/that) they produce から関係代名詞が省略された形。produce は他動詞で目的語がないことから、省略された関係代名詞（= the sounds）が目的語とわかる。"
+  - node_id: "nst-012"
+    seq: 2
+    question: "接触節とは何か？"
+    answer: "関係代名詞が省略されて、先行詞の直後に〈S＋V〉が連続する形。名詞の直後にいきなり主語＋動詞が来る。他動詞の目的語の欠落が接触節を見抜く目印。"
+  - node_id: "nst-012"
+    seq: 3
+    question: "The cost is something we can ignore. の構造を説明せよ。"
+    answer: "something (that/which) we can ignore から関係代名詞が省略された接触節。we can ignore の目的語がないので接触節と判断。「費用は無視できるものだ」。"
+  - node_id: "nst-013"
+    seq: 1
+    question: "When we recognize..., our brains generate..., so we are simulating... の文で主節はどこか？"
+    answer: "our brains generate the same emotion が主節。When節はstoryまで（コンマで区切り）。so は等位接続詞で、so以下は結果節。"
+  - node_id: "nst-013"
+    seq: 2
+    question: "While ... Americans believe that ... years, about 80% also believe... のWhile節はどこまでか？"
+    answer: "during the next 50 years まで。While節内に believe that節が入れ子になっている。コンマの後の about 80% から主節が始まる。"
+  - node_id: "nst-013"
+    seq: 3
+    question: "主節の about 80% also believe their current jobs will... の believe の後に何が省略されているか？"
+    answer: "接続詞 that。believe (that) their current jobs will...。目的語の that 節の that が省略されている。"
+  - node_id: "nst-013"
+    seq: 4
+    question: "複数節が重なった英文で節の境界を見つける方法は？"
+    answer: "コンマを目印にする。接続詞（When/While/that/because等）の開始位置を見つけ、対応する主語・動詞のペアを追跡する。副詞節内にさらにthat節が入る入れ子構造に注意する。"
 
 node_prerequisites:
   - node_id: "nst-001"
@@ -559,6 +719,14 @@ node_prerequisites:
   - node_id: "nst-009"
     prerequisite_id: "nst-008"
   - node_id: "nst-010"
+    prerequisite_id: "nst-008"
+  - node_id: "nst-011"
+    prerequisite_id: "nbk-001"
+  - node_id: "nst-012"
+    prerequisite_id: "nbk-001"
+  - node_id: "nst-013"
+    prerequisite_id: "nst-004"
+  - node_id: "nst-013"
     prerequisite_id: "nst-008"
 
 knowledge_references:
@@ -610,3 +778,19 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_43"
     pages: "p.112-113"
+  - node_id: "nst-011"
+    book: "入門英文問題精講"
+    section_id: "Ny_44"
+    pages: "p.114-115"
+  - node_id: "nst-012"
+    book: "入門英文問題精講"
+    section_id: "Ny_44"
+    pages: "p.114-115"
+  - node_id: "nst-013"
+    book: "入門英文問題精講"
+    section_id: "Ny_45"
+    pages: "p.116-117"
+  - node_id: "nst-013"
+    book: "入門英文問題精講"
+    section_id: "Ny_46"
+    pages: "p.118-119"

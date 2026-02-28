@@ -1,0 +1,33 @@
+sentences:
+  - id: "ny-44-s1"
+    section_id: "Ny_44"
+    drill: 44
+    number: 1
+    role: "exercise"
+    english: "We want to find out to what extent domestic cats are influenced by the language and dialect that humans use to speak to them, because it seems that cats use slightly different dialects in the sounds they produce."
+    japanese: "家で飼っているネコは，人間が彼らに話しかけるために使う言語や方言によってどの程度影響されるのかを私達は知りたいと考えている。なぜなら，ネコは自らが生み出す音を使って，わずかに異なる方言を使っているように思われるからだ。"
+    notes: "出典: 麗澤大学"
+
+sentence_structures:
+  - sentence_id: "ny-44-s1"
+    label: "overall"
+    value: "S V O"
+
+  - sentence_id: "ny-44-s1"
+    label: "details"
+    value: "{S}We(S) {V}want(V) {O}(to find out [to what extent(疑問詞節) domestic cats are influenced (by the language and dialect [that(関代) humans use (to speak to them)(M:副詞句)](M:関係代名詞節))(M:副詞句)])(O:to不定詞句), [because(従接) it seems [that(従接) cats use slightly different dialects (in the sounds [they produce](M:接触節))(M:副詞句)]](M:副詞節)"
+
+  - sentence_id: "ny-44-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 私達はどの程度〜かを知りたいと思う
+      ❷ 彼ら（ネコ）に話しかけるために人間が使う言語や方言によって
+      ❹ （なぜなら）〜のように思える
+      ❺ 彼ら（ネコ）が生み出す音において
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-44-s1"
+    node_id: "nst-011"
+
+  - sentence_id: "ny-44-s1"
+    node_id: "nst-012"

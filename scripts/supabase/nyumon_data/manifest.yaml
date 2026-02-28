@@ -576,32 +576,32 @@ sections:
     title: "節＋節①"
     type: "exercise"
     pages: "p.114-115"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 2
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nst-011(疑問詞節), nst-012(接触節)"
   Ny_45:
     title: "節＋節②"
     type: "exercise"
     pages: "p.116-117"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nst-013(複数節の構造把握) Ny_46と共有"
   Ny_46:
     title: "節＋節③"
     type: "exercise"
     pages: "p.118-119"
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nst-013をNy_45と共有"
   Ny_47:
     title: "節＋節④"
     type: "exercise"
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 56
+  completed: 59
   in_progress: 0
-  not_started: 29
-  total_knowledge_nodes: 46
-  total_sentences: 157
+  not_started: 26
+  total_knowledge_nodes: 49
+  total_sentences: 161

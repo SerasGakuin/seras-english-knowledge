@@ -430,19 +430,25 @@ sections:
     title: "節＋節①"
     pages: "p.114-115"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: to what 以下はどのようになっている？
+      一言: 言語と方言の区分は実は非常に困難。方言の定義を「方言間で相互に意思疎通ができるもの」とすると、相互理解可能なノルウェー語・スウェーデン語・デンマーク語が方言になる。青森と沖縄の方言で意思疎通不可能なら、それぞれが言語扱いに。
   - id: "Ny_45"
     book: "入門英文問題精講"
     title: "節＋節②"
     pages: "p.116-117"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: 第1文の主節はどこ？
+      一言: 小説を読んで登場人物の経験を追体験することで、実社会でも人の気持ちを察することができるという話。
   - id: "Ny_46"
     book: "入門英文問題精講"
     title: "節＋節③"
     pages: "p.118-119"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: もう1つのthatはどこにある？
+      一言: 今後50年でロボットが人間の仕事をすると思いながら、多くの人が「自分の仕事はなくならない」と信じている。人間は「自分だけは例外」と思いたい楽観的な生き物。
   - id: "Ny_47"
     book: "入門英文問題精講"
     title: "節＋節④"
@@ -776,6 +782,18 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_43"
     node_id: "nst-010"
+    seq: 1
+  - section_id: "Ny_44"
+    node_id: "nst-011"
+    seq: 1
+  - section_id: "Ny_44"
+    node_id: "nst-012"
+    seq: 2
+  - section_id: "Ny_45"
+    node_id: "nst-013"
+    seq: 1
+  - section_id: "Ny_46"
+    node_id: "nst-013"
     seq: 1
 
 section_prerequisites: []
