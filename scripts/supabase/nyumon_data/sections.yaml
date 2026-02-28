@@ -225,7 +225,8 @@ sections:
     title: "〜ingの働き（完了分詞構文）"
     pages: "p.64-65"
     type: "exercise"
-    notes: ""
+    notes: |
+      一言: バンクーバーはカナダ連邦にある人口約60万の都市。ニューヨーク（人口860万）や東京23区（人口950万）よりはるかに小さいが「本当に美しい」都市。
 
   # === 第3章 関係詞（12セクション） ===
   - id: "Ny_20"
@@ -652,6 +653,12 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_17"
     node_id: "njd-005"
+    seq: 1
+  - section_id: "Ny_18"
+    node_id: "njd-006"
+    seq: 1
+  - section_id: "Ny_19"
+    node_id: "njd-007"
     seq: 1
 
 section_prerequisites: []

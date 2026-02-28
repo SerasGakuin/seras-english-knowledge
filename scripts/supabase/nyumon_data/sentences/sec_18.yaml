@@ -1,0 +1,48 @@
+sentences:
+  - id: "ny-18-s1"
+    section_id: "Ny_18"
+    drill: 18
+    number: 1
+    role: "exercise"
+    english: "Even though they involved athletes from 164 countries, officials admit that the London Paralympic Games were not a truly global event."
+    japanese: "ロンドンパラリンピックは，164か国の選手が参加したが，それは本当の意味で世界的な催しではなかったと委員達は認めている。"
+    notes: "出典: 共立女子大学。* Paralympic Games「パラリンピック競技」（問題文の語彙注釈）"
+  - id: "ny-18-s2"
+    section_id: "Ny_18"
+    drill: 18
+    number: 2
+    role: "exercise"
+    english: "Developing nations were under-represented, with competitors facing obstacles ranging from prejudice against disability to the high cost of wheelchairs and artificial limbs."
+    japanese: "発展途上国からの参加は少なく，そして競技者達は障害に対する偏見から，車椅子や義肢の値段が高いことまで，数々の困難に直面した。"
+    notes: "出典: 共立女子大学。* wheelchair「車椅子」* artificial limb「義肢」（問題文の語彙注釈）"
+
+sentence_structures:
+  - sentence_id: "ny-18-s1"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "ny-18-s1"
+    label: "details"
+    value: "(Even though [{S}they {V}involved {O}athletes (from 164 countries)(M:形容詞句)](従属節))(M:副詞節), {S}officials {V}admit {O}[that {S}the London Paralympic Games {V}were not {C}a truly global event](that節)."
+  - sentence_id: "ny-18-s1"
+    label: "partial_translations"
+    value: |
+      ❶ それら（＝ロンドンパラリンピック）は，164の国の選手が参加したけれども
+      ❷ ロンドンパラリンピックは本当の意味で世界的な催しではなかったと委員達は認めている
+  - sentence_id: "ny-18-s2"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "ny-18-s2"
+    label: "details"
+    value: "{S}Developing nations {V}were {C}under-represented, (with {s}competitors {v}facing {o}obstacles (ranging (from prejudice (against disability)(M:形容詞句))(M:副詞句) (to the high cost (of wheelchairs {等接}and artificial limbs)(M:形容詞句))(M:副詞句))(M:形容詞句/現在分詞))(M:副詞/付帯状況)."
+  - sentence_id: "ny-18-s2"
+    label: "partial_translations"
+    value: |
+      ❸ 発展途上国からの参加が少なかった
+      ❹ 競技者達は数々の困難に直面していて
+      ❺ 障害に対する偏見から車椅子や義肢の値段が高いことまで
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-18-s1"
+    node_id: "njd-006"
+  - sentence_id: "ny-18-s2"
+    node_id: "njd-006"

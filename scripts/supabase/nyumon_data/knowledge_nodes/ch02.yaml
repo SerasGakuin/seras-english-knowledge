@@ -131,6 +131,51 @@ knowledge_nodes:
         showing + 完全な文 → that が省略されている。were は that節内の過去進行形。
       一言（問17）: 後置修飾を理解することが英語学習では非常に重要。
 
+  - id: "njd-006"
+    name: "付帯状況のwith"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❹〔分詞〕❺〔分詞〕
+      ■ 分詞構文の意味上の主語が文の主語と異なる場合、分詞の前に主語を置いて示す。
+        この形を独立分詞構文と呼ぶ。独立分詞構文にはしばしば with がつく。
+        これを一般に「付帯状況を示す with」と呼ぶ。
+      ■ 文中に〈with＋名詞〉があったら付帯状況を予想し、後ろに V-ing や過去分詞を探す。
+        例: with competitors facing obstacles → 「競技者達が困難に直面していて」
+      ■ 訳出: 人物描写を除き、主文を補足するような追加的な訳をするのが普通。
+      ■ 分詞の ranging from A to B は通例、名詞の直後に置かれ形容詞句として
+        その名詞の範囲を特定する働きをする。2語以上の修飾語句は名詞の後ろに置かれる。
+      ❶ even though: 接続詞 though に強調の even がついた形。
+        even though に続く内容は「現実・事実」を表す（even if は仮定）。
+        訳は though と同様「～だけれども」で十分。
+        代名詞 they が先に置かれ、主節の the London Paralympic Games を指す例。
+      ❷ that は admit の目的語となる接続詞の that。後続の文を名詞にまとめる。
+      ❸ under-represented: 〈under＋動詞〉は「不十分・少ない」の意味が加わる。
+        represent「代表する」→ under-represented「参加が少ない」。
+        underestimate「過小評価する」、underemphasize「あまり強調しない」も同パターン。
+
+  - id: "njd-007"
+    name: "完了分詞構文"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❹〔分詞〕
+      ■ having + V-pp = 完了形の分詞構文。
+        主節より前の時点に起きたことを示すために完了形になる。
+        元の文: I have experienced city life in New York and Tokyo.
+      ■ 分詞構文は「文と文を緩くつなぐ」もの。
+        日本語にするときは「～なので」のようにつなぎ言葉を加えるとうまくいく。
+      ❶ 接続詞 As は「～するとき」。as の基本イメージは「だいたい等しい」。
+        まず「（～と）同じくらい」を当てはめ、しっくりいかなければ
+        「～のように」「～するとき」「～なので」を当てはめる。
+      ❷ Vancouver, where I was born and raised: 関係副詞 where の非制限用法。
+        先行詞が固有名詞の場合、関係副詞の前にコンマを打つのが英語の決まり。
+        コンマがないと「自分が生まれ育ったほうのバンクーバー」と限定的な意味になる。
+      ❸ To me = 「私にとって」。文頭の〈前置詞＋名詞〉は副詞句。
+      ❺ how little I knew: how は感嘆文を作る how が文中に入った形。
+        疑問文の how か感嘆文の how かは意味で判断する。
+        文末に「？」→ 疑問文、「！」→ 感嘆文。文中では意味で決める。
+
 understanding_goals:
   - node_id: "njd-001"
     seq: 1
@@ -186,6 +231,24 @@ understanding_goals:
   - node_id: "njd-005"
     seq: 4
     goal: "分詞構文が that節（省略可）を伴う構造を解析できる"
+  - node_id: "njd-006"
+    seq: 1
+    goal: "分詞構文の意味上の主語が文の主語と異なる場合の独立分詞構文の構造を理解している"
+  - node_id: "njd-006"
+    seq: 2
+    goal: "〈with＋名詞＋V-ing/V-pp〉の付帯状況構文を認識できる"
+  - node_id: "njd-006"
+    seq: 3
+    goal: "付帯状況の with を見たときに、後ろの V-ing/V-pp を予測して読める"
+  - node_id: "njd-007"
+    seq: 1
+    goal: "having + V-pp が完了形の分詞構文であることを認識できる"
+  - node_id: "njd-007"
+    seq: 2
+    goal: "完了分詞構文が主節より前の時点の出来事を表すことを理解している"
+  - node_id: "njd-007"
+    seq: 3
+    goal: "完了分詞構文を元の文（I have experienced ...）に戻すことができる"
 
 check_points:
   - node_id: "njd-001"
@@ -256,6 +319,30 @@ check_points:
     seq: 4
     question: "過去分詞と現在分詞が形容詞・副詞として働く場合の違いは？"
     answer: "過去分詞は「～される」、現在分詞は「～している」。どちらも形容詞として名詞を修飾する働きと、副詞になる働き（分詞構文）を持つ。"
+  - node_id: "njd-006"
+    seq: 1
+    question: "with competitors facing obstacles の文法的な構造を説明せよ。"
+    answer: "独立分詞構文に with がついた付帯状況の構文。分詞構文の意味上の主語（competitors）が文の主語（Developing nations）と異なるため、分詞の前に主語を置いている。with は付帯状況を示す。"
+  - node_id: "njd-006"
+    seq: 2
+    question: "独立分詞構文はどのような場合に用いられるか？"
+    answer: "分詞構文の意味上の主語が文の主語と異なる場合。分詞の前に主語を置いて示す。しばしば with がつく（付帯状況の with）。"
+  - node_id: "njd-006"
+    seq: 3
+    question: "ranging from prejudice against disability to the high cost の ranging は何か？"
+    answer: "分詞（現在分詞）。名詞 obstacles の直後に置かれ、形容詞句としてその名詞の範囲を特定する後置修飾。from A to B で範囲を示す。"
+  - node_id: "njd-007"
+    seq: 1
+    question: "having experienced city life in New York and Tokyo の having experienced は何か？"
+    answer: "完了形の分詞構文。主節（I have to admit）より前の時点に起きたことを示すために、having + V-pp の完了形になっている。"
+  - node_id: "njd-007"
+    seq: 2
+    question: "完了分詞構文と通常の分詞構文の違いは何か？"
+    answer: "通常の分詞構文（V-ing）は主節と同時点の出来事。完了分詞構文（having + V-pp）は主節より前の時点に起きた出来事を表す。"
+  - node_id: "njd-007"
+    seq: 3
+    question: "having experienced を元の文の形に直すとどうなるか？"
+    answer: "I have experienced city life in New York and Tokyo. 完了形の分詞構文は現在完了の文を分詞構文にしたもの。"
 
 node_prerequisites:
   - node_id: "njd-001"
@@ -270,6 +357,10 @@ node_prerequisites:
     prerequisite_id: "njd-003"
   - node_id: "njd-005"
     prerequisite_id: "njd-003"
+  - node_id: "njd-006"
+    prerequisite_id: "njd-005"
+  - node_id: "njd-007"
+    prerequisite_id: "njd-005"
 
 knowledge_references:
   - node_id: "njd-001"
@@ -296,3 +387,11 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_17"
     pages: "p.60-61"
+  - node_id: "njd-006"
+    book: "入門英文問題精講"
+    section_id: "Ny_18"
+    pages: "p.62-63"
+  - node_id: "njd-007"
+    book: "入門英文問題精講"
+    section_id: "Ny_19"
+    pages: "p.64-65"

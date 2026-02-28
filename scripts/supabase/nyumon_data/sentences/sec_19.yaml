@@ -1,0 +1,47 @@
+sentences:
+  - id: "ny-19-s1"
+    section_id: "Ny_19"
+    drill: 19
+    number: 1
+    role: "exercise"
+    english: "As I stood in Shinjuku, I thought about Vancouver, where I was born and raised."
+    japanese: "新宿に立っていたとき，生まれ育ったバンクーバーのことを考えた。"
+    notes: ""
+  - id: "ny-19-s2"
+    section_id: "Ny_19"
+    drill: 19
+    number: 2
+    role: "exercise"
+    english: "To me it was a great city, but having experienced city life in New York and Tokyo, I have to admit how little I knew back in Vancouver."
+    japanese: "私にとってはそれ（＝バンクーバー）は大都市だったが，ニューヨークや東京で都市生活を経験してきたので，故郷のバンクーバーにいたとき，自分がどれほど物事を知らなかったかを認めざるをえない。"
+    notes: ""
+
+sentence_structures:
+  - sentence_id: "ny-19-s1"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "ny-19-s1"
+    label: "details"
+    value: "(As [{S}I {V}stood (in Shinjuku)(M:副詞句)](従属節))(M:副詞節), {S}I {V}thought (about Vancouver, (where [{S}I {V}was born {等接}and raised](関係副詞節/非制限用法))(M:形容詞節))(M:副詞句)."
+  - sentence_id: "ny-19-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 新宿に立っていたとき
+      ❷ 私が生まれ育ったバンクーバー
+  - sentence_id: "ny-19-s2"
+    label: "overall"
+    value: "M S V C 等接 M S V O"
+  - sentence_id: "ny-19-s2"
+    label: "details"
+    value: "(To me)(M:副詞句) {S}it {V}was {C}a great city, {等接}but (having experienced city life (in New York {等接}and Tokyo)(M:副詞句))(M:副詞/分詞構文), {S}I {V}have to admit {O}[how little {S}I {V}knew (back in Vancouver)(M:副詞句)](感嘆節)."
+  - sentence_id: "ny-19-s2"
+    label: "partial_translations"
+    value: |
+      ❹ ニューヨークと東京で都市生活を経験してきたので
+      ❺ 故郷のバンクーバーにいたとき自分がどれほど物事を知らなかったか
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-19-s1"
+    node_id: "njd-007"
+  - sentence_id: "ny-19-s2"
+    node_id: "njd-007"
