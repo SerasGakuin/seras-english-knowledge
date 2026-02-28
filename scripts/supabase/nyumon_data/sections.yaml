@@ -242,19 +242,22 @@ sections:
     title: "前置詞＋関係代名詞①"
     pages: "p.68-69"
     type: "exercise"
-    notes: ""
+    notes: |
+      一言: ジェームズ・ワットの蒸気機関は当初の目的（鉱山の排水ポンプ改良）が別の目的（機関車・船舶・工業機械の動力源）に応用された例。正確には蒸気機関はニューコメンらが発明し、ワットは改良を行った。
   - id: "Ny_22"
     book: "入門英文問題精講"
     title: "前置詞＋関係代名詞②"
     pages: "p.70-71"
     type: "exercise"
-    notes: ""
+    notes: |
+      一言: エジソンの蓄音機は録音した音を再生できる最初のもの。音声でも動画でも携帯端末に保管し再生できる現代だが、礎を築いたエジソンはすごい。
   - id: "Ny_23"
     book: "入門英文問題精講"
     title: "関係代名詞(those who)"
     pages: "p.72-73"
     type: "exercise"
-    notes: ""
+    notes: |
+      一言: 「過ぎたるはなお及ばざるがごとし」。何ごとも適量が一番。「身体によいから飲む・飲まない」ではなく「ほっと一息つくために」飲むほうが健全。
   - id: "Ny_24"
     book: "入門英文問題精講"
     title: "関係代名詞の非制限用法①"
@@ -659,6 +662,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_19"
     node_id: "njd-007"
+    seq: 1
+  - section_id: "Ny_21"
+    node_id: "nks-002"
+    seq: 1
+  - section_id: "Ny_22"
+    node_id: "nks-002"
+    seq: 1
+  - section_id: "Ny_23"
+    node_id: "nks-003"
     seq: 1
 
 section_prerequisites: []

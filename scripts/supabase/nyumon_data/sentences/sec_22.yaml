@@ -1,0 +1,42 @@
+sentences:
+  - id: "ny-22-s1"
+    section_id: "Ny_22"
+    drill: 22
+    number: 1
+    role: "exercise"
+    english: "When Edison built his first phonograph in 1877, he published an article proposing ten uses to which his invention might be put."
+    japanese: "エジソンが1877年に初めて蓄音機を作ったとき，彼はその発明品の可能な使用方法を10種類提案する論文を発表した。"
+    notes: "出典: 熊本大学。* phonograph「蓄音機」（問題文の語彙注釈）"
+  - id: "ny-22-s2"
+    section_id: "Ny_22"
+    drill: 22
+    number: 2
+    role: "exercise"
+    english: "They included preserving the last words of dying people, recording books for blind people to hear, and teaching spelling."
+    japanese: "その中には臨終を迎える人の最後の言葉を保存すること，本を録音して目の見えない人が聞くことができるようにすること，それに綴りを教えることなどがあった。"
+    notes: "出典: 熊本大学"
+
+sentence_structures:
+  - sentence_id: "ny-22-s1"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "ny-22-s1"
+    label: "details"
+    value: "(When [{S}Edison {V}built {O}his first phonograph (in 1877)(M:副詞句)](従属節))(M:副詞節), {S}he {V}published {O}an article (proposing ten uses (to which [{S}his invention {V}might be put](関係代名詞節/前置詞+which))(M:形容詞句))(M:形容詞句/現在分詞)."
+  - sentence_id: "ny-22-s1"
+    label: "partial_translations"
+    value: |
+      ❶ エジソンが1877年に初めて蓄音機を作ったとき
+      ❸ 彼の発明品が使用されるかもしれない10種類のやり方
+  - sentence_id: "ny-22-s2"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "ny-22-s2"
+    label: "details"
+    value: "{S}They {V}included {O}(preserving the last words (of dying people)(M:形容詞句)), (recording books (for blind people to hear)(M:形容詞句/to不定詞)), {等接}and (teaching spelling)."
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-22-s1"
+    node_id: "nks-002"
+  - sentence_id: "ny-22-s2"
+    node_id: "nks-002"

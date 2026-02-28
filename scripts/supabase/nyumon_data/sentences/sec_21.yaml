@@ -1,0 +1,29 @@
+sentences:
+  - id: "ny-21-s1"
+    section_id: "Ny_21"
+    drill: 21
+    number: 1
+    role: "exercise"
+    english: "Even inventions that meet the need for which they were initially designed may later prove more valuable at meeting unforeseen needs."
+    japanese: "当初設計された目的であった必要性を満たす発明品でさえ，のちに，予想もつかない必要性を満たすのにもっと有用だと判明することもあるかもしれない。"
+    notes: "出典: 熊本大学"
+
+sentence_structures:
+  - sentence_id: "ny-21-s1"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "ny-21-s1"
+    label: "details"
+    value: "(Even)(M:副詞) {S}inventions (that [{S}{関代}that {V}meet {O}the need (for which [{S}they {V}were initially designed](関係代名詞節/前置詞+which))(M:形容詞節)](関係代名詞節))(M:形容詞節) {V}may later prove {C}more valuable (at {v}meeting {o}unforeseen needs)(M:副詞句)."
+  - sentence_id: "ny-21-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 需要を満たす発明品でさえ
+      ❷ それらが最初設計されたときの目的であった必要性
+      ❸ より有用だと判明するかもしれない
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-21-s1"
+    node_id: "nks-001"
+  - sentence_id: "ny-21-s1"
+    node_id: "nks-002"

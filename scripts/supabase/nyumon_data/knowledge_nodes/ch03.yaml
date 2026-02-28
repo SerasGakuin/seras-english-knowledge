@@ -27,6 +27,55 @@ knowledge_nodes:
         excel と are ではなく tend と are をつないでいる（excel と are なら be にする必要がある）。
       be well-suited = suit の受動態 + 副詞 well
 
+  - id: "nks-002"
+    name: "前置詞＋関係代名詞"
+    category: "関係詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❷〔関係詞〕（問21）❸〔関係詞〕（問22）
+      ■ 〈前置詞＋関係代名詞〉: 関係代名詞の前に前置詞がつく形。
+        理解困難なときは、関係代名詞の代わりに普通の代名詞を入れて読む。
+        例: for which they were initially designed
+          → for it(=the need) they were initially designed
+          → they were initially designed for it
+          → 「それらが最初設計されたときの目的であった必要性」
+      ■ put A to B:「AをBの状態にする」。put his invention to ten uses = 10種類のやり方で使用する。
+      ■ 先行詞が複数なら it ではなく them で置き換える。
+      ❶（問21）that の直後に meet という動詞 → that はその主語になる関係代名詞。
+        meet は「会う」が基本だが「（必要性・期待）を満たす」の意味もある。
+      ❸（問21）prove: 後ろに形容詞（valuable）が補語 → 「〜だと判明する」。
+        目的語をとる場合は「〜を証明する」。
+      ❹（問21）meeting unforeseen needs: 前置詞 at の後 → meet が動名詞に。
+        〈V-ing＋名詞〉でVが他動詞 → 「（名詞）を〜すること」。
+        自動詞なら「〜している（名詞）」で現在分詞。例: a flying saucer。
+      ❶（問22）When は接続詞「〜なとき」。Edison〜1877が副詞節。
+      ❷（問22）proposing ten uses: 現在分詞。article を修飾する形容詞句。
+      ❹（問22）and は included の目的語3つの動名詞をつなぐ。A, B, and C の形。
+        preserving ..., recording ..., and teaching。
+        spell は動詞「綴る」なので「綴り」は spelling。
+
+  - id: "nks-003"
+    name: "those whoの用法"
+    category: "関係詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❸〔関係詞〕
+      ■ those who 〜 = 「〜な人々」。漠然と those「あれらの」と言ってから
+        who 〜 で具体的に説明する（those people who 〜 の people 省略とも考えられる）。
+      ■ 同格の挿入: about three to five cups a day は a moderate amount of coffee と同格。
+        a day の a は「〜につき」の意味。
+      ❶ The combined data: 冠詞(the)＋過去分詞(combined)＋名詞(data)。
+        combined は「結合された」。the はこの前の文の内容を受けて「その」。
+      ❷ showed that: show は他動詞で目的語が必要 → that は接続詞（文を名詞にまとめる）。
+      ❹ at the lowest risk for problems: 〈前置詞＋名詞〉は原則副詞だが、
+        形容詞的に捉えれば SVC の C としても解釈可能（どちらでも可）。
+      ❺ problems: 冠詞 the がなく複数形 → 「いろいろな健康上の問題」。
+        problem には「健康上の問題」の意味もある。
+      ❻ no higher risk: 〈no＋比較級〉の no は「あるものとあるものとの差がゼロ」
+        または「同じくらいの程度でしかない」ことを示す。
+        例: He is no older than I am. = 「彼と私との年齢に差はない」
+        本文: 5杯以上飲む人と全く飲まない人の危険性に差がない。
+
 understanding_goals:
   - node_id: "nks-001"
     seq: 1
@@ -40,6 +89,24 @@ understanding_goals:
   - node_id: "nks-001"
     seq: 4
     goal: "同格の that（the view that S+V）と関係代名詞の that を区別できる"
+  - node_id: "nks-002"
+    seq: 1
+    goal: "〈前置詞＋関係代名詞〉の構造を認識し、先行詞との関係を理解できる"
+  - node_id: "nks-002"
+    seq: 2
+    goal: "関係代名詞を普通の代名詞に置き換えて意味をとる手法を実行できる"
+  - node_id: "nks-002"
+    seq: 3
+    goal: "〈前置詞＋which〉を含む英文を自然な日本語に訳せる"
+  - node_id: "nks-003"
+    seq: 1
+    goal: "those who 〜 が「〜な人々」を意味することを理解している"
+  - node_id: "nks-003"
+    seq: 2
+    goal: "those who 節の範囲を正確に特定できる"
+  - node_id: "nks-003"
+    seq: 3
+    goal: "〈no＋比較級〉が「差がゼロ」を意味することを理解している"
 
 check_points:
   - node_id: "nks-001"
@@ -62,6 +129,30 @@ check_points:
     seq: 5
     question: "the view that boys tend to excel の that は関係代名詞か接続詞か？ なぜそう判断できるか？"
     answer: "同格の接続詞。that の後に boys tend to excel という完成した文（主語・動詞が揃った文）が続いているため。関係代名詞なら後に主語や目的語の欠けた不完全な文が来る。"
+  - node_id: "nks-002"
+    seq: 1
+    question: "for which they were initially designed の for which はどこにつながるか？ どう読み解くか？"
+    answer: "先行詞は the need。関係代名詞 which を普通の代名詞 it に置き換えると: they were initially designed for it(=the need)。「その必要性のために発明品は元々設計された」→「それらが最初設計されたときの目的であった必要性」。"
+  - node_id: "nks-002"
+    seq: 2
+    question: "to which his invention might be put の to which はどう理解するか？"
+    answer: "関係代名詞 which を代名詞 them(=ten uses) に置き換え、to them を文末に置く: his invention might be put to them。put A to B = 「AをBの状態にする」で「彼の発明品が10種類のやり方で使用されるかもしれない」。"
+  - node_id: "nks-002"
+    seq: 3
+    question: "〈前置詞＋関係代名詞〉の意味を理解するための基本手順は？"
+    answer: "関係代名詞を普通の代名詞に戻し、前置詞＋代名詞を元の位置（通常は文末）に置いて読む。先行詞が複数なら it ではなく them で置き換える。"
+  - node_id: "nks-003"
+    seq: 1
+    question: "those who consumed a moderate amount of coffee の those who はどういう意味か？"
+    answer: "「〜な人々」。those（あれらの人）と漠然と言ってから who 以下で具体的に説明する形。those people who の people 省略とも考えられる。「適度な量のコーヒーを消費する人々」。"
+  - node_id: "nks-003"
+    seq: 2
+    question: "Those who consumed five or more cups a day had no higher risk than those who consumed none. の no higher risk はどういう意味か？"
+    answer: "〈no＋比較級〉は「差がゼロ」を示す。5杯以上飲む人とまったく飲まない人の健康リスクの高さに差がない、という意味。"
+  - node_id: "nks-003"
+    seq: 3
+    question: "about three to five cups a day は文中でどのような働きをしているか？"
+    answer: "a moderate amount of coffee と同格の関係。「適度な量のコーヒー」を具体化して「1日に約3〜5杯」と説明している。a day の a は「〜につき」の意味。"
 
 node_prerequisites:
   - node_id: "nks-001"
@@ -72,9 +163,25 @@ node_prerequisites:
     prerequisite_id: "nbk-010"
   - node_id: "nks-001"
     prerequisite_id: "nbk-011"
+  - node_id: "nks-002"
+    prerequisite_id: "nks-001"
+  - node_id: "nks-003"
+    prerequisite_id: "nks-001"
 
 knowledge_references:
   - node_id: "nks-001"
     book: "入門英文問題精講"
     section_id: "Ny_20"
     pages: "p.66-67"
+  - node_id: "nks-002"
+    book: "入門英文問題精講"
+    section_id: "Ny_21"
+    pages: "p.68-69"
+  - node_id: "nks-002"
+    book: "入門英文問題精講"
+    section_id: "Ny_22"
+    pages: "p.70-71"
+  - node_id: "nks-003"
+    book: "入門英文問題精講"
+    section_id: "Ny_23"
+    pages: "p.72-73"

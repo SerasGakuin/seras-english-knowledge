@@ -1,44 +1,36 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T04:00:00"
+updated_at: "2026-03-02T05:00:00"
 book: "入門英文問題精講"
 book_slug: "nyumon"
 
 current_state:
   phase: "Phase 2D"
-  current_section: "Ny_21"
+  current_section: "Ny_24"
   current_step: "Step 1"
-  last_completed_section: "Ny_19"
+  last_completed_section: "Ny_23"
   last_completed_gate: 5
 
 progress:
   total_sections: 85
-  completed: 33
+  completed: 36
   in_progress: 0
-  remaining: 52
-  total_nodes: 31
-  total_sentences: 116
+  remaining: 49
+  total_nodes: 33
+  total_sentences: 121
 
 recent_decisions:
-  - "Ny_16+17: 分詞構文①②を njd-005（文末の分詞構文）に統合（①②連番テーマ、比率0.67許容）"
-  - "Ny_18: njd-006（付帯状況のwith）新規作成。❹❺の2つのPointを1ノードに統合"
-  - "Ny_19: njd-007（完了分詞構文）新規作成"
+  - "Ny_21+22: 前置詞＋関係代名詞①②を nks-002 に統合（①②連番テーマ）"
+  - "Ny_21 ny-21-s1: nks-001 と nks-002 の2タグ（that識別 + 前置詞+which 両方を練習）"
+  - "Ny_23: nks-003（those whoの用法）を新規作成。❻ no+比較級は notes に記録"
 
 active_concerns:
   - "nbk-001, nbk-002 は tagged sentences なし（基本講義ノードでは想定内）"
   - "nsv-003 のタグ付き英文が1文のみ"
 
 next_actions:
-  - "Phase 2D Batch 12: Ny_21（前置詞＋関係代名詞①）→ Ny_22（②）→ Ny_23（those who）"
-  - "Ny_20 は完了済みなので skip"
-
-chapter_completion:
-  ch02_準動詞:
-    sections: "Ny_12〜Ny_19（8セクション）"
-    nodes_created: 7
-    sentences_created: 14
-    notes: "njd-001〜007。Ny_16+17はnjd-005に統合。第2章全セクション完了。"
+  - "Phase 2D Batch 13: Ny_24（非制限用法①）→ Ny_25（②）→ Ny_26（③）"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

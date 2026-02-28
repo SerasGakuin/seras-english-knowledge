@@ -1,0 +1,42 @@
+sentences:
+  - id: "ny-23-s1"
+    section_id: "Ny_23"
+    drill: 23
+    number: 1
+    role: "exercise"
+    english: "The combined data showed that those who consumed a moderate amount of coffee, about three to five cups a day, were at the lowest risk for problems."
+    japanese: "合算されたそのデータによると，適量のコーヒー，つまり1日におよそ3〜5杯を飲んでいる人々は，いろいろな健康上の問題に対する危険性が最も低いことがわかった。"
+    notes: "出典: 愛知教育大学"
+  - id: "ny-23-s2"
+    section_id: "Ny_23"
+    drill: 23
+    number: 2
+    role: "exercise"
+    english: "Those who consumed five or more cups a day had no higher risk than those who consumed none."
+    japanese: "1日に5杯以上飲んでいる人々は，まったくコーヒーを飲んでいない人と同じ程度の危険性だった。"
+    notes: "出典: 愛知教育大学"
+
+sentence_structures:
+  - sentence_id: "ny-23-s1"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "ny-23-s1"
+    label: "details"
+    value: "{S}The combined data {V}showed {O}[that {S}those (who [{S}{関代}who {V}consumed {O}a moderate amount (of coffee)(M:形容詞句), (about three to five cups a day)(M:同格)](関係代名詞節))(M:形容詞節) {V}were (at the lowest risk (for problems)(M:形容詞句))(C:前置詞句)](that節)."
+  - sentence_id: "ny-23-s1"
+    label: "partial_translations"
+    value: |
+      ❷ そのデータが〜を示した
+      ❸ 1日につき3〜5杯の適度な量のコーヒーを消費する人々は
+  - sentence_id: "ny-23-s2"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "ny-23-s2"
+    label: "details"
+    value: "{S}Those (who [{S}{関代}who {V}consumed {O}five or more cups (a day)(M:副詞句)](関係代名詞節))(M:形容詞節) {V}had {O}no higher risk (than those (who [{S}{関代}who {V}consumed {O}none](関係代名詞節))(M:形容詞節))(M:副詞句/比較)."
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-23-s1"
+    node_id: "nks-003"
+  - sentence_id: "ny-23-s2"
+    node_id: "nks-003"

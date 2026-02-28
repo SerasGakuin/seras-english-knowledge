@@ -344,31 +344,31 @@ sections:
     title: "前置詞＋関係代名詞①"
     type: "exercise"
     pages: "p.68-69"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nks-002をNy_22と共有（前置詞＋関係代名詞①②統合）"
   Ny_22:
     title: "前置詞＋関係代名詞②"
     type: "exercise"
     pages: "p.70-71"
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nks-002をNy_21と共有（前置詞＋関係代名詞①②統合）"
   Ny_23:
     title: "関係代名詞(those who)"
     type: "exercise"
     pages: "p.72-73"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
   Ny_24:
     title: "関係代名詞の非制限用法①"
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 33
+  completed: 36
   in_progress: 0
-  not_started: 52
-  total_knowledge_nodes: 31
-  total_sentences: 116
+  not_started: 49
+  total_knowledge_nodes: 33
+  total_sentences: 121
