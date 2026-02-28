@@ -183,6 +183,166 @@ knowledge_nodes:
       ・人がスタンバイOK → 都合がつく・手が空いている
       availableの訳語（利用できる/手に入る/都合がつく/手が空いている）を個別に暗記するのではなく、「スタンバイOK」の1イメージで統一理解。
 
+  # --- Kaku_05: 副詞 ---
+  - id: "khs-010"
+    name: "副詞の品詞判別（名詞混同・-ly法則・接続副詞）"
+    category: "品詞"
+    priority: "P1"
+    notes: |
+      核心（用法の面）: 「用法」がポイントの副詞 — 品詞を意識して判別する
+      ■ 名詞と勘違いしやすい副詞（場所関係の単語に多い）:
+      home「家に・家で」/ here「ここに」/ there「そこに」/ abroad・overseas「海外へ」/ downtown「繁華街へ」
+      名詞ではないので「直前に前置詞は不要」がポイント。× go to abroad → ○ go abroad
+      ※homeには名詞用法もあるが、入試では副詞用法が問われる。
+      ■ -lyがつくと品詞が「右に1つズレる」法則:
+      [図表: 品詞ズレ図 — 名詞→(+ly)形容詞→(+ly)副詞（p.45）]
+      名詞 + ly = 形容詞（friendly, lovely, timely, likely, unlikely）
+      形容詞 + ly = 副詞（completely, carefully等）
+      -lyで終わるのに副詞ではない単語: ①時間関係 daily/weekly/monthly ②その他 friendly/lovely/timely/likely/unlikely
+      ■ 接続副詞は結局「副詞」:
+      however等の接続副詞は意味は接続詞っぽいが、品詞は副詞 → 文をつなぐ働きはない。
+      × SV however SV. → ○ SV. However, SV.
+      接続副詞の例: however/nevertheless/instead/also/besides/moreover/furthermore/otherwise/therefore
+      ※besidesには前置詞（～に加えて）の用法もある。
+      ▶ まとめ 形容詞と副詞の区別: 形容詞=名詞を修飾・Cになる、副詞=名詞以外を修飾・M（修飾要素）になる
+      前提知識との差分: 中学英語では品詞を意識することが少なく、単語の意味ばかりに意識がいく。高校では文法的視点が必要。
+
+  - id: "khs-011"
+    name: "副詞の位置ルール（enough・頻度の副詞・わがまま副詞）"
+    category: "品詞"
+    priority: "P1"
+    notes: |
+      核心（用法の面続き）: 入試に出る「位置が決まった副詞」3パターン
+      副詞の位置はある程度自由だが、入試で問われるのは「位置が明確に決まっている副詞」だけ。
+      ■ (1) enough:
+      enoughは例外的に、修飾したい形容詞・副詞の「直後」に置く。
+      [形容詞・副詞] enough to ～「～するほど[形容詞・副詞]だ」
+      × enough big → ○ big enough
+      ※enough [名詞] の形はOK（名詞の前は可）。入試でポイントになるのは「後ろにくるとき」だけ。
+      ■ (2) 頻度の副詞（「notと同じ位置」で解決）:
+      always(100%) / usually(80%) / often(60%) / sometimes(50%) / seldom・rarely(10%) / hardly ever・scarcely ever(5%) / not・never(0%)
+      位置の覚え方: notの位置を知っているはず → 頻度の副詞は全てnotと同じ位置。
+      be動詞の後（She is usually late. ← is notと同じ位置）、一般動詞の前（hardly ever goes ← do not goと同じ位置）。
+      ■ (3) わがまま副詞（so・as・too・how・howeverの5つ）:
+      普通の副詞（very等）は「謙虚」で自ら修飾する相手のそばへ移動する（a very good teacher）。
+      わがまま副詞は「自らは動かず、修飾する単語を自分のそばに来させる」。
+      [図表: わがまま副詞の語順 — very: a very good teacher（謙虚）vs. so: so good a teacher（わがまま）（p.48-49）]
+      語順: [わがまま副詞] [形容詞] [冠詞] [名詞]
+      例: so interesting a book / as nice a person as
+
+  - id: "khs-012"
+    name: "意味がまぎらわしい副詞（-ly変化・almost/nearly）"
+    category: "品詞"
+    priority: "P1"
+    notes: |
+      核心（意味の面）: 「意味」がポイントの副詞 — -lyがつくと意味が変わる副詞とalmost/nearlyの正確な意味
+      ■ -lyがつくと意味が変わる副詞:
+      元々副詞のものにさらに-lyがつくとガラっと意味が変わる。
+      hard「熱心に」→ hardly「ほとんど～ない」（≒ scarcely）
+      late「遅く」→ lately「最近」
+      most「ほとんど」→ mostly「たいていの場合は／大部分は」
+      near「近くに」→ nearly「ほとんど」（≒ almost）
+      「hardやlateには形容詞・副詞の両方がある。だからあえて-lyがつく以上、何か別の意味を生み出す」と考えるとよい。
+      ■ almost/nearlyの正確な意味（「あともうちょっと」「ちょっと足りない」）:
+      almost 70%は68%などを示す。絶対に70%は超えない。「ほとんど70%」と訳すと72%を想像するかもしれないが誤り。
+      「ほとんど・約」の区別:
+      about/around/approximately「約」= 前後両方OK
+      almost/nearly「ほとんど」= その数値には達しない
+      barely「かろうじて」= わずかに上回る
+      ■ 動詞を修飾するalmost/nearly:
+      「もう少しで～しそう（実際はしない）」という意味。
+      He nearly missed his flight. = 実際には乗り遅れなかった。
+      グラフ問題で大事な知識。
+
+  # --- Kaku_06: 接続詞 ---
+  - id: "khs-013"
+    name: "等位接続詞（2種類の区別・andの構造・重要表現）"
+    category: "品詞"
+    priority: "P1"
+    notes: |
+      核心: 接続詞は2種類／接続詞は「形」から入る
+      ■ 接続詞の2種類:
+      (1) 等位接続詞（and・but・orなど）: 2つのものを対等に結ぶ。少ない。
+      (2) 従属接続詞（when・ifなどたくさん）: 副詞節をつくる（一部は名詞節も）。多い。
+      ■ 等位接続詞の基本 — andの構造:
+      「andを見たら後ろを見てから前を探す」
+      [図表: 構造図 — andの構造。①andに反応→②直後のBに注目→③「Bと対等な品詞」をandより前で探す（p.56）]
+      ※A ... and Bの形で、Aの後に長い語句が入るときに特に効果的。
+      ※3つを結ぶときは A, B and C の形。
+      ■ 等位接続詞を使った重要表現（AとBをセットで考える）:
+      並列系: both A and B「AとB両方」/ either A or B「AかBどちらか」/ neither A nor B「AもBもどちらも〜ない」
+      対比系: not A but B「AでなくB」/ not only A but also B「Aだけでなく Bも」
+      both A and Bが主語のとき動詞は複数扱い（are）。
+      前提知識との差分: 中学ではandやifの意味だけ覚えるが、高校では品詞としての理解が必要。
+
+  - id: "khs-014"
+    name: "従属接続詞の副詞節（形・前置詞との区別・主要接続詞・s+be省略）"
+    category: "品詞"
+    priority: "P1"
+    notes: |
+      核心（従属接続詞の「形」）: 従属接続詞は副詞節をつくる
+      ■ 用語の整理:
+      従属接続詞 = if, because等の「単語そのもの」
+      副詞節 = 「if svというカタマリ」（従属接続詞がつくるグループ）
+      主節 = メインのSV、従属節 = 従属接続詞を含むsv
+      従属節を品詞の観点からは「副詞節」、主節との兼ね合いからは「従属節」と呼ぶ。
+      [図表: 構造図 — 従属接続詞の構造。( If sv ), SV. で副詞節と主節を示す（p.57）]
+      ■ 従属接続詞の形: ( 従属接続詞 sv ), SV.　※副詞節が後ろでもOK: SV ( 従属接続詞 sv )
+      ▶ まとめ 等位接続詞 vs 従属接続詞:
+      等位接続詞: 対等に結ぶ、単語・句・節・文（何でもOK）、数は少ない
+      従属接続詞: 対等でない（従属）、文のみ、数は多い
+      ■ 前置詞と接続詞の区別（「後ろの形」で判別）:
+      前置詞: 後ろに名詞（代名詞・動名詞含む）→ 副詞句/形容詞句をつくる
+      接続詞: 後ろにSV → 副詞節をつくる
+      入試頻出ペア: during/while（〜の間）、by/by the time（〜までには）、because of/because（〜なので）、without/unless（〜しなければ）、in spite of・despite/though・although・even though・even if（〜だけれども）
+      補足: 前置詞・接続詞「両方」の用法がある語（時関係に多い）: before/after/till/until/since/as
+      ■ 従属接続詞一覧（意味と形）:
+      (1)時: when/while/before/after/till・until/since/as soon as/by the time
+      (2)条件: if/unless/once/in case/as long as・so long as/as far as・so far as
+      (3)対比/逆接・譲歩: while・whereas/though・although/even though/even if/if（=even if）/whether
+      (4)理由: because/since・as/in that/now that
+      ■ 副詞節内のs+be省略（2条件を同時に満たすとき）:
+      ①副詞節内のs＝主節のS　②副詞節内の動詞がbe動詞
+      例: while {I am} walking → while walking / while {you are} seated → while seated
+
+  - id: "khs-015"
+    name: "名詞節をつくる接続詞（that名詞節・同格のthat・if/whether判別）"
+    category: "品詞"
+    priority: "P1"
+    notes: |
+      ■ 名詞節をつくれる従属接続詞はたった3つ: that・if・whether
+      ■ 接続詞thatの名詞節:
+      that sv =「svということ」。名詞と交換可能。
+      I know the man. → I know that he is rich. （名詞をthat節に置き換え）
+      ■ SV that〜の裏技: Vは「認識・伝達系」の動詞 →「思う・言う」の意味を当てはめれば大体わかる。
+      知らない動詞でもSV that〜の形ならば「思う・言う」で通る（100%完璧ではないが十分）。
+      ■ 同格のthat:
+      「名詞 that sv」の形で、名詞の内容をthat以下で説明。「2つの名詞が同じように並ぶ」から「同格」。
+      同格のthatをとる名詞は事実・認識・可能性系統: fact/news/knowledge/conclusion/idea/thought/belief/feeling/likelihood等
+      ■ ifの3つの意味（核心: 半々の不安定）:
+      ①副詞節「もし〜ならば」②副詞節「たとえ〜でも」（= even ifの形もある）③名詞節「〜かどうか」
+      判別法: 他動詞の直後にif〜があれば名詞節（目的語）→「〜かどうか」
+      ■ whetherの判別（核心: 2つのうちどっちか）:
+      ①副詞節「〜であろうとなかろうと」②名詞節「〜かどうか」
+      名詞節のときifとwhetherは同じ意味。
+      ▶ まとめ if/whetherの意味: if（副詞節: もし〜/たとえ〜でも、名詞節: 〜かどうか）、whether（副詞節: 〜であろうとなかろうと、名詞節: 〜かどうか）
+      参考書内参照: →テーマ7「他動詞」（knowは他動詞なので直後に名詞が必要）
+
+  - id: "khs-016"
+    name: "so~that構文（結果/程度・so that目的の判別）"
+    category: "品詞"
+    priority: "P1"
+    notes: |
+      ■ so ~ that ... の2つの意味:
+      ①結果「とても〜なので（その結果）…だ」→ 前から訳す
+      ②程度「…なくらい〜だ」→ 後ろから訳す
+      訳し方: まず結果で訳す → 不自然なら程度に切り替え。実際には結果・程度どちらでも解釈できるものが大半。
+      ■ so that〜との区別:
+      soとthatがくっつくときは「目的（〜するために）」。
+      so thatの後ろには必ず助動詞が必要（will/can/may、時制の一致でwould/could/might）。
+      so ~ that ...: soとthatが離れている → 結果/程度
+      so that sv: soとthatがくっつく + 助動詞 → 目的
+
 understanding_goals:
   # khs-001
   - node_id: "khs-001"
@@ -282,6 +442,48 @@ understanding_goals:
   - node_id: "khs-008"
     seq: 5
     goal: "a few/few, a little/littleのaの有無による意味の違いを説明できる"
+  # khs-010
+  - node_id: "khs-010"
+    seq: 1
+    goal: "名詞と勘違いしやすい副詞（home, abroad等）を列挙し、前置詞が不要な理由を説明できる"
+  - node_id: "khs-010"
+    seq: 2
+    goal: "-lyがつくと品詞が「右に1つズレる」法則を使い、-lyで終わる形容詞を見抜ける"
+  - node_id: "khs-010"
+    seq: 3
+    goal: "接続副詞（however等）が文をつなげない理由を説明し、正しい書き方を示せる"
+  - node_id: "khs-010"
+    seq: 4
+    goal: "形容詞と副詞の違い（修飾対象・文中の要素・-lyの法則）を説明できる"
+  # khs-011
+  - node_id: "khs-011"
+    seq: 1
+    goal: "enoughの位置ルール（形容詞・副詞の直後）を説明し、正しい語順を書ける"
+  - node_id: "khs-011"
+    seq: 2
+    goal: "頻度の副詞の位置を「notと同じ位置」の法則で説明できる"
+  - node_id: "khs-011"
+    seq: 3
+    goal: "わがまま副詞5つ（so・as・too・how・however）を挙げることができる"
+  - node_id: "khs-011"
+    seq: 4
+    goal: "わがまま副詞の語順（[副詞][形容詞][冠詞][名詞]）を正しく適用できる"
+  - node_id: "khs-011"
+    seq: 5
+    goal: "空所補充問題でenough・頻度の副詞・わがまま副詞の位置を正しく選択できる"
+  # khs-012
+  - node_id: "khs-012"
+    seq: 1
+    goal: "-lyがつくと意味が変わる副詞4組（hard/hardly, late/lately, most/mostly, near/nearly）を正確に訳せる"
+  - node_id: "khs-012"
+    seq: 2
+    goal: "almost/nearlyの正確な意味（「その数値には達しない」）を説明できる"
+  - node_id: "khs-012"
+    seq: 3
+    goal: "about/around/approximately vs. almost/nearly vs. barelyの違いを説明できる"
+  - node_id: "khs-012"
+    seq: 4
+    goal: "動詞を修飾するalmost/nearlyの意味（「もう少しで～しそう、実際はしない」）を理解し、正しく解釈できる"
   # khs-009
   - node_id: "khs-009"
     seq: 1
@@ -295,6 +497,61 @@ understanding_goals:
   - node_id: "khs-009"
     seq: 4
     goal: "availableの意味を「スタンバイOK」のイメージから統一的に説明できる"
+  # khs-013
+  - node_id: "khs-013"
+    seq: 1
+    goal: "等位接続詞と従属接続詞の違いを説明できる"
+  - node_id: "khs-013"
+    seq: 2
+    goal: "andの構造分析法（「後ろを見てから前を探す」）を適用して、andが結んでいる要素を特定できる"
+  - node_id: "khs-013"
+    seq: 3
+    goal: "both A and B / either A or B / neither A nor Bの意味と用法を説明できる"
+  - node_id: "khs-013"
+    seq: 4
+    goal: "not A but B / not only A but also Bの意味を説明し、空所補充問題で正しく選択できる"
+  # khs-014
+  - node_id: "khs-014"
+    seq: 1
+    goal: "従属接続詞・副詞節・主節・従属節の用語を正しく説明できる"
+  - node_id: "khs-014"
+    seq: 2
+    goal: "従属接続詞の形（(従属接続詞 sv), SV.）を示し、副詞節の位置（前・後）を理解している"
+  - node_id: "khs-014"
+    seq: 3
+    goal: "前置詞と接続詞を「後ろの形」（名詞 vs. SV）で判別できる"
+  - node_id: "khs-014"
+    seq: 4
+    goal: "主要な従属接続詞（時・条件・対比逆接譲歩・理由）の意味を説明できる"
+  - node_id: "khs-014"
+    seq: 5
+    goal: "副詞節内のs+be省略の2条件を説明し、省略前の形を復元できる"
+  # khs-015
+  - node_id: "khs-015"
+    seq: 1
+    goal: "名詞節をつくれる従属接続詞がthat・if・whetherの3つだけであることを知り列挙できる"
+  - node_id: "khs-015"
+    seq: 2
+    goal: "SV that〜の裏技（Vは「思う・言う」で当てはめる）を適用して未知の動詞の意味を推測できる"
+  - node_id: "khs-015"
+    seq: 3
+    goal: "同格のthatの形（名詞 that sv）と、同格のthatをとる名詞の特徴（事実・認識・可能性系統）を説明できる"
+  - node_id: "khs-015"
+    seq: 4
+    goal: "ifの3つの意味（もし〜/たとえ〜でも/〜かどうか）を区別し、名詞節のifを見抜ける"
+  - node_id: "khs-015"
+    seq: 5
+    goal: "whetherの2つの意味（〜であろうとなかろうと/〜かどうか）を区別できる"
+  # khs-016
+  - node_id: "khs-016"
+    seq: 1
+    goal: "so ~ that ... の2つの意味（結果「とても〜なので…」/ 程度「…なくらい〜だ」）を説明できる"
+  - node_id: "khs-016"
+    seq: 2
+    goal: "so that〜（目的）とso ~ that ...（結果/程度）をsoとthatの距離で区別できる"
+  - node_id: "khs-016"
+    seq: 3
+    goal: "so that + 助動詞の形を理解し、目的「〜するために」の意味を正しく訳せる"
 
 check_points:
   # khs-001
@@ -429,6 +686,61 @@ check_points:
     seq: 5
     question: "a fewとfewの違いは？"
     answer: "a few = 「少しある」（肯定的）。few = 「ほとんどない」（否定的）。aは「ある程度のカタマリ1つ」→ある = 肯定、aなし = 1つのカタマリすらない = 否定。"
+  # khs-010
+  - node_id: "khs-010"
+    seq: 1
+    question: "go to abroadは正しいか？なぜか？"
+    answer: "誤り。abroadは副詞なので前置詞toは不要。正しくはgo abroad。home, here, there, overseas, downtownも同様。"
+  - node_id: "khs-010"
+    seq: 2
+    question: "friendlyやlovelyは-lyで終わるが品詞は何か？なぜか？"
+    answer: "形容詞。名詞(friend) + ly = 形容詞。-lyは品詞を「右に1つズレ」させる。形容詞 + ly = 副詞のパターンではない。"
+  - node_id: "khs-010"
+    seq: 3
+    question: "SV however SV.はなぜ誤りか？正しくはどう書くか？"
+    answer: "howeverは接続副詞＝あくまで「副詞」。接続詞のように文をつなぐ働きはない。正しくはSV. However, SV.とピリオドで文を分ける。"
+  - node_id: "khs-010"
+    seq: 4
+    question: "-lyで終わる「形容詞」の代表例を3つ以上挙げよ。"
+    answer: "daily, weekly, monthly（時間関係）、friendly, lovely, timely, likely, unlikely（その他）。名詞 + ly = 形容詞のパターン。"
+  # khs-011
+  - node_id: "khs-011"
+    seq: 1
+    question: "enough bigは正しいか？正しい語順は？"
+    answer: "誤り。enoughは修飾する形容詞・副詞の直後に置く。正しくはbig enough。"
+  - node_id: "khs-011"
+    seq: 2
+    question: "頻度の副詞の位置はどう覚えればよいか？"
+    answer: "「notと同じ位置」。be動詞の後（is usually = is notと同じ位置）、一般動詞の前（hardly ever goes = do not goと同じ位置）。"
+  - node_id: "khs-011"
+    seq: 3
+    question: "わがまま副詞5つを挙げよ。"
+    answer: "so・as・too・how・however。この5つだけが[わがまま副詞][形容詞][冠詞][名詞]の語順をとる。"
+  - node_id: "khs-011"
+    seq: 4
+    question: "a so interesting bookは正しいか？正しい語順は？"
+    answer: "誤り。soはわがまま副詞なので形容詞を自分のそばに引きずり出す。正しくはso interesting a book。"
+  - node_id: "khs-011"
+    seq: 5
+    question: "as (　) you thinkの空所にas nice a person asとa person as nice asのどちらが入るか？"
+    answer: "as nice a person as。asはわがまま副詞なので[as][形容詞][冠詞][名詞]の語順。"
+  # khs-012
+  - node_id: "khs-012"
+    seq: 1
+    question: "hardlyとhardの違いは？"
+    answer: "hard =「熱心に」（副詞）。hardly =「ほとんど～ない」。-lyがつくとガラっと意味が変わる。"
+  - node_id: "khs-012"
+    seq: 2
+    question: "latelyとlateの違いは？"
+    answer: "late =「遅く」。lately =「最近」。-lyがつくと別の意味になる。"
+  - node_id: "khs-012"
+    seq: 3
+    question: "almost 70%は72%を含むか？"
+    answer: "含まない。almost/nearlyは「ちょっと足りない」の意味で、その数値には絶対に達しない。68%程度を示す。「約」のabout/aroundとは異なる。"
+  - node_id: "khs-012"
+    seq: 4
+    question: "He nearly missed his flight.は乗り遅れたのか？"
+    answer: "乗り遅れなかった。動詞を修飾するnearly/almostは「もう少しで～しそう（実際はしない）」の意味。"
   # khs-009
   - node_id: "khs-009"
     seq: 1
@@ -446,10 +758,84 @@ check_points:
     seq: 4
     question: "availableの多義語（利用できる/手に入る/都合がつく）はどのようなイメージで統一できるか？"
     answer: "-ableから「使われることができる」→「スタンバイOK」。物がスタンバイOK = 利用できる・手に入る、人がスタンバイOK = 都合がつく・手が空いている。"
+  # khs-013
+  - node_id: "khs-013"
+    seq: 1
+    question: "等位接続詞と従属接続詞の違いは何か？"
+    answer: "等位接続詞は対等に結ぶ（and/but/or等、少ない）。従属接続詞は副詞節をつくる（when/if等、多い）。等位接続詞は何でも結べるが、従属接続詞は文のみ。"
+  - node_id: "khs-013"
+    seq: 2
+    question: "andを見たとき、何と何を結んでいるかどう判断するか？"
+    answer: "「andを見たら後ろを見てから前を探す」。①andに反応→②直後のBに注目→③Bと対等な品詞をandより前で探す。"
+  - node_id: "khs-013"
+    seq: 3
+    question: "both A and Bが主語のとき、動詞は単数扱いか複数扱いか？"
+    answer: "複数扱い（are）。Both he and I are against the plan."
+  - node_id: "khs-013"
+    seq: 4
+    question: "neither A nor Bはどういう意味か？"
+    answer: "「AもBもどちらも〜ない」。並列系（both A and B, either A or B）と対比系（not A but B, not only A but also B）のグループがある。"
+  # khs-014
+  - node_id: "khs-014"
+    seq: 1
+    question: "従属接続詞の形（構造）はどうなるか？"
+    answer: "(従属接続詞 sv), SV. の形。副詞節が前でも後ろでもOK: SV (従属接続詞 sv)."
+  - node_id: "khs-014"
+    seq: 2
+    question: "duringとwhileの違いは何か？"
+    answer: "during = 前置詞（後ろに名詞）。while = 接続詞（後ろにSV）。「後ろの形」で判別する。"
+  - node_id: "khs-014"
+    seq: 3
+    question: "because ofとbecauseの違いは何か？"
+    answer: "because of = 前置詞（後ろに名詞）。because = 接続詞（後ろにSV）。「後ろの形」で判別する。"
+  - node_id: "khs-014"
+    seq: 4
+    question: "副詞節内のs+be省略ができる2つの条件は？"
+    answer: "①副詞節内のs＝主節のS、②副詞節内の動詞がbe動詞。2つ同時に満たすとき省略可能。"
+  - node_id: "khs-014"
+    seq: 5
+    question: "while walkingの省略前の形は？（主語がIの場合）"
+    answer: "while I am walking。副詞節のs(I)=主節のS(I)かつbe動詞(am)なので省略可能。"
+  # khs-015
+  - node_id: "khs-015"
+    seq: 1
+    question: "名詞節をつくれる従属接続詞は何か？"
+    answer: "that・if・whetherの3つだけ。多数ある従属接続詞の中で名詞節をつくれるのはこの3つに限られる。"
+  - node_id: "khs-015"
+    seq: 2
+    question: "SV that〜の形でVの意味がわからないとき、どう推測するか？"
+    answer: "裏技: Vは「認識・伝達系」の動詞なので「思う・言う」を当てはめれば大体わかる。"
+  - node_id: "khs-015"
+    seq: 3
+    question: "同格のthatをとる名詞にはどのような特徴があるか？"
+    answer: "事実・認識・可能性系統の名詞: fact/news/knowledge/conclusion/idea/thought/belief/feeling/likelihood等。「名詞 that sv」の形で名詞の内容を説明する。"
+  - node_id: "khs-015"
+    seq: 4
+    question: "ifが「もし〜ならば」か「〜かどうか」か、どう判別するか？"
+    answer: "他動詞の直後にif〜があれば名詞節（目的語）→「〜かどうか」。それ以外は副詞節→「もし〜ならば」または「たとえ〜でも」。"
+  - node_id: "khs-015"
+    seq: 5
+    question: "名詞節のとき、ifとwhetherに意味の違いはあるか？"
+    answer: "ない。名詞節のときifとwhetherは同じ意味（「〜かどうか」）。"
+  # khs-016
+  - node_id: "khs-016"
+    seq: 1
+    question: "so ~ that ... の2つの意味は何か？"
+    answer: "①結果「とても〜なので（その結果）…だ」→ 前から訳す。②程度「…なくらい〜だ」→ 後ろから訳す。まず結果で訳し、不自然なら程度に切り替え。"
+  - node_id: "khs-016"
+    seq: 2
+    question: "soとthatがくっついているときと離れているときの意味の違いは？"
+    answer: "離れている（so ~ that ...）= 結果/程度。くっついている（so that sv）= 目的「〜するために」。"
+  - node_id: "khs-016"
+    seq: 3
+    question: "so that svの後に何が必要か？"
+    answer: "助動詞が必要（will/can/may、時制の一致でwould/could/might）。助動詞がないso thatはありえない。"
 
 node_prerequisites:
   - node_id: "khs-005"
     prerequisite_id: "khs-001"
+  - node_id: "khs-014"
+    prerequisite_id: "khs-013"
 
 knowledge_references:
   - node_id: "khs-001"
@@ -488,3 +874,31 @@ knowledge_references:
     book: "英文法の核心"
     section_id: "Kaku_04"
     pages: "p.37-39"
+  - node_id: "khs-010"
+    book: "英文法の核心"
+    section_id: "Kaku_05"
+    pages: "p.44-46"
+  - node_id: "khs-011"
+    book: "英文法の核心"
+    section_id: "Kaku_05"
+    pages: "p.46-49"
+  - node_id: "khs-012"
+    book: "英文法の核心"
+    section_id: "Kaku_05"
+    pages: "p.49-51"
+  - node_id: "khs-013"
+    book: "英文法の核心"
+    section_id: "Kaku_06"
+    pages: "p.55-57"
+  - node_id: "khs-014"
+    book: "英文法の核心"
+    section_id: "Kaku_06"
+    pages: "p.57-65"
+  - node_id: "khs-015"
+    book: "英文法の核心"
+    section_id: "Kaku_06"
+    pages: "p.65-68"
+  - node_id: "khs-016"
+    book: "英文法の核心"
+    section_id: "Kaku_06"
+    pages: "p.68-69"

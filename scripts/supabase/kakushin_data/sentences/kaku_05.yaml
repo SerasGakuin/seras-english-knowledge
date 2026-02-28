@@ -1,0 +1,231 @@
+# Kaku_05: 副詞（p.44-54）
+
+sentences:
+  # === 本編解説の例文 ===
+  - id: "kaku-05-e01"
+    section_id: "Kaku_05"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "Natasha will go abroad at the end of May."
+    japanese: "ナターシャは5月末に海外に行く予定です。"
+    notes: "abroadは副詞なので前置詞toは不要。× go to abroad"
+  - id: "kaku-05-e02"
+    section_id: "Kaku_05"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "My father has a driver's license. However, he almost never drives."
+    japanese: "父は運転免許を持っている。しかし、ほとんど運転することはない。"
+    notes: "接続副詞howeverは副詞なので文をつなげない。× SV however SV → ○ SV. However, SV."
+  - id: "kaku-05-e03"
+    section_id: "Kaku_05"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "The refrigerator was big enough to fit everything we bought."
+    japanese: "冷蔵庫は私たちが買ったものが全部収まるくらいに大きかった。"
+    notes: "enoughは修飾する形容詞の直後。× enough big → ○ big enough。fitは「合う」のほか「収める」の意味もある"
+  - id: "kaku-05-e04"
+    section_id: "Kaku_05"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "She is usually late."
+    japanese: "彼女はたいてい遅れてくる。"
+    notes: "頻度の副詞usuallyはisの後（notと同じ位置）"
+  - id: "kaku-05-e05"
+    section_id: "Kaku_05"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "My family hardly ever goes on vacation."
+    japanese: "私の家族は休みの日にめったに出かけない。"
+    notes: "頻度の副詞hardly everは一般動詞goの前（do not goのnotと同じ位置）"
+  - id: "kaku-05-e06"
+    section_id: "Kaku_05"
+    drill: 0
+    number: 6
+    role: "example"
+    english: "It was so interesting a book that I couldn't put it down."
+    japanese: "それはとても面白い本だったので、読むのをやめることができなかった。"
+    notes: "わがまま副詞soの語順: so interesting a book（× a so interesting book）。put down「下に置く」→「読むのをやめる」"
+  - id: "kaku-05-e07"
+    section_id: "Kaku_05"
+    drill: 0
+    number: 7
+    role: "example"
+    english: "Yuta hardly studies."
+    japanese: "ユウタはほとんど勉強しない。"
+    notes: "hardly =「ほとんど～ない」。hard「熱心に」に-lyがつくと全く別の意味になる"
+  - id: "kaku-05-e08"
+    section_id: "Kaku_05"
+    drill: 0
+    number: 8
+    role: "example"
+    english: "Nearly 20 people attended the meeting."
+    japanese: "20人近くの人がその会議に参加しました。"
+    notes: "nearly =「ほとんど」（≒ almost）。20人には達しない（18-19人程度）"
+  - id: "kaku-05-e09"
+    section_id: "Kaku_05"
+    drill: 0
+    number: 9
+    role: "example"
+    english: "He nearly missed his flight."
+    japanese: "彼はあやうく飛行機に乗り遅れるところだった。"
+    notes: "動詞を修飾するnearly =「もう少しで～しそう（実際はしない）」。実際には乗り遅れなかった"
+
+  # === 実際の入試問題演習 ===
+  - id: "kaku-05-x01"
+    section_id: "Kaku_05"
+    drill: 2
+    number: 1
+    role: "exam"
+    english: "I was careless to have lost my wallet on my way home from the party."
+    japanese: "パーティーから家に帰る途中で財布をなくすなんて、私は不注意だった。"
+    notes: "出典: 群馬大学。誤り訂正。正解: ④to→削除。homeは副詞なので前置詞toは不要。on one's way home「家に帰る途中で」。参考書内参照: →p.182 完了不定詞（to have p.p.）"
+  - id: "kaku-05-x02"
+    section_id: "Kaku_05"
+    drill: 2
+    number: 2
+    role: "exam"
+    english: "Well, he was kind enough to explain about the situation in detail."
+    japanese: "ええと、彼はとても親切だから、状況について詳しく説明してくれたよ。"
+    notes: "出典: 追手門学院大学。空所補充。対話形式（A: So, what did you think of Ross?への返答）。正解: ③kind enough to explain。enoughは形容詞kindの直後に置く"
+  - id: "kaku-05-x03"
+    section_id: "Kaku_05"
+    drill: 2
+    number: 3
+    role: "exam"
+    english: "I may not be as nice a person as you think."
+    japanese: "私は君が思うほど良い人ではないかもしれないよ。"
+    notes: "出典: 県立広島大学。空所補充。正解: ②as nice a person as。わがまま副詞asの語順: [as] [形容詞] [冠詞] [名詞]"
+  - id: "kaku-05-x04"
+    section_id: "Kaku_05"
+    drill: 2
+    number: 4
+    role: "exam"
+    english: "Please speak up, as I can hardly hear you."
+    japanese: "大きな声で話してください。あなたの声がほとんど聞こえないんです。"
+    notes: "出典: 学習院大学。空所補充。正解: ②hardly「ほとんど～ない」。①hard「熱心に」との区別がポイント。asは接続詞「理由」"
+
+sentence_structures:
+  # e01
+  - sentence_id: "kaku-05-e01"
+    label: "overall"
+    value: "S V M M."
+  - sentence_id: "kaku-05-e01"
+    label: "details"
+    value: "Natasha(S) will go(V) abroad(M:副詞) [at the end of May](M:前置詞句)."
+  # e02
+  - sentence_id: "kaku-05-e02"
+    label: "overall"
+    value: "S V O. However, S M V."
+  - sentence_id: "kaku-05-e02"
+    label: "details"
+    value: "<My father>(S) has(V) <a driver's license>(O). However, he(S) almost never(M:頻度副詞) drives(V)."
+  # e03
+  - sentence_id: "kaku-05-e03"
+    label: "overall"
+    value: "S V C M."
+  - sentence_id: "kaku-05-e03"
+    label: "details"
+    value: "<The refrigerator>(S) was(V) <big enough>(C) [to fit <everything [we bought]>](M:不定詞句/程度)."
+  # e04
+  - sentence_id: "kaku-05-e04"
+    label: "overall"
+    value: "S V C."
+  - sentence_id: "kaku-05-e04"
+    label: "details"
+    value: "She(S) is(V) usually(M:頻度副詞) late(C)."
+  # e05
+  - sentence_id: "kaku-05-e05"
+    label: "overall"
+    value: "S M V M."
+  - sentence_id: "kaku-05-e05"
+    label: "details"
+    value: "<My family>(S) hardly ever(M:頻度副詞) goes(V) [on vacation](M:前置詞句)."
+  # e06
+  - sentence_id: "kaku-05-e06"
+    label: "overall"
+    value: "S V C M."
+  - sentence_id: "kaku-05-e06"
+    label: "details"
+    value: "It(S) was(V) <so interesting a book>(C:わがまま副詞語順) [that I couldn't put it down](M:結果節)."
+  # e07
+  - sentence_id: "kaku-05-e07"
+    label: "overall"
+    value: "S M V."
+  - sentence_id: "kaku-05-e07"
+    label: "details"
+    value: "Yuta(S) hardly(M:副詞) studies(V)."
+  # e08
+  - sentence_id: "kaku-05-e08"
+    label: "overall"
+    value: "M S V O."
+  - sentence_id: "kaku-05-e08"
+    label: "details"
+    value: "Nearly(M:副詞) <20 people>(S) attended(V) <the meeting>(O)."
+  # e09
+  - sentence_id: "kaku-05-e09"
+    label: "overall"
+    value: "S M V O."
+  - sentence_id: "kaku-05-e09"
+    label: "details"
+    value: "He(S) nearly(M:副詞) missed(V) <his flight>(O)."
+  # x01
+  - sentence_id: "kaku-05-x01"
+    label: "overall"
+    value: "S V C M."
+  - sentence_id: "kaku-05-x01"
+    label: "details"
+    value: "I(S) was(V) careless(C) [to have lost <my wallet> on my way home from the party](M:不定詞句/理由)."
+  # x02
+  - sentence_id: "kaku-05-x02"
+    label: "overall"
+    value: "S V C M."
+  - sentence_id: "kaku-05-x02"
+    label: "details"
+    value: "Well(応答), he(S) was(V) <kind enough>(C) [to explain about <the situation> in detail](M:不定詞句/程度)."
+  # x03
+  - sentence_id: "kaku-05-x03"
+    label: "overall"
+    value: "S V C M."
+  - sentence_id: "kaku-05-x03"
+    label: "details"
+    value: "I(S) may not be(V) <as nice a person>(C:わがまま副詞語順) [as you think](M:比較節)."
+  # x04
+  - sentence_id: "kaku-05-x04"
+    label: "overall"
+    value: "V, conj S M V O."
+  - sentence_id: "kaku-05-x04"
+    label: "details"
+    value: "Please speak up(V:命令/句動詞), [as I(S) can hardly(M:副詞) hear(V) you(O)](M:理由節)."
+
+sentence_knowledge_tags:
+  - sentence_id: "kaku-05-e01"
+    node_id: "khs-010"
+  - sentence_id: "kaku-05-e02"
+    node_id: "khs-010"
+  - sentence_id: "kaku-05-e03"
+    node_id: "khs-011"
+  - sentence_id: "kaku-05-e04"
+    node_id: "khs-011"
+  - sentence_id: "kaku-05-e05"
+    node_id: "khs-011"
+  - sentence_id: "kaku-05-e06"
+    node_id: "khs-011"
+  - sentence_id: "kaku-05-e07"
+    node_id: "khs-012"
+  - sentence_id: "kaku-05-e08"
+    node_id: "khs-012"
+  - sentence_id: "kaku-05-e09"
+    node_id: "khs-012"
+  - sentence_id: "kaku-05-x01"
+    node_id: "khs-010"
+  - sentence_id: "kaku-05-x02"
+    node_id: "khs-011"
+  - sentence_id: "kaku-05-x03"
+    node_id: "khs-011"
+  - sentence_id: "kaku-05-x04"
+    node_id: "khs-012"

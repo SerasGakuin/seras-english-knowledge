@@ -1,0 +1,456 @@
+# Kaku_06: 接続詞（p.55-70）
+
+sentences:
+  # === 本編解説の例文 ===
+  - id: "kaku-06-e01"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "She went to the supermarket and bought some eggs."
+    japanese: "彼女はスーパーマーケットに行って卵をいくつか買いました。"
+    notes: "andの構造: 直後のbought(過去形)に注目→前で同じ形のwentを探す。went~とbought~を結んでいる"
+  - id: "kaku-06-e02"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Both he and I are against the plan."
+    japanese: "彼も私も2人ともその計画には反対です。"
+    notes: "both A and B「AとB両方」。主語がboth A and Bの場合、動詞は複数扱い（are）"
+  - id: "kaku-06-e03"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "She is not only a nurse but also a yoga instructor."
+    japanese: "彼女は看護師であるだけでなく、ヨガのインストラクターでもある。"
+    notes: "not only A but also B「Aだけでなく Bも」"
+  - id: "kaku-06-e04"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "When she was young, she played soccer every day."
+    japanese: "彼女は若い頃、毎日サッカーをしていました。"
+    notes: "従属接続詞whenの形: (When sv), SV."
+  - id: "kaku-06-e05"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "I read the new book during lunch break."
+    japanese: "私はお昼休憩の間に、その新しい本を読みました。"
+    notes: "during=前置詞。SV during 名詞.の形"
+  - id: "kaku-06-e06"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 6
+    role: "example"
+    english: "I read the new book while I ate lunch."
+    japanese: "私はお昼ご飯を食べている間に、その新しい本を読みました。"
+    notes: "while=接続詞。SV while sv.の形。e05のduringとの対比"
+  - id: "kaku-06-e07"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 7
+    role: "example"
+    english: "I couldn't sleep last night because my little sister was crying all night long."
+    japanese: "妹が一晩中泣いていたので、私は昨夜眠れなかった。"
+    notes: "because=接続詞。SV because sv.の形。all night long「一晩中」"
+  - id: "kaku-06-e08"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 8
+    role: "example"
+    english: "I couldn't sleep last night because of my little sister. She was crying all night long."
+    japanese: "妹のせいで、私は昨夜眠れなかった。妹が一晩中泣いていたのだ。"
+    notes: "because of=前置詞。SV because of 名詞.の形。e07のbecauseとの対比"
+  - id: "kaku-06-e09"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 9
+    role: "example"
+    english: "We waited until Steven came."
+    japanese: "僕たちはスティーブンが来るまで待った。"
+    notes: "until=従属接続詞（時）。SV until sv.「svするまでSVだ」の形。until svから訳す"
+  - id: "kaku-06-e10"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 10
+    role: "example"
+    english: "Unless you study, you'll never pass the test."
+    japanese: "勉強しないと、試験には受からないぞ。"
+    notes: "unless=従属接続詞（条件）。Unless sv, SV.「svしない限りSVだ」"
+  - id: "kaku-06-e11"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 11
+    role: "example"
+    english: "Although I live in Tokyo, I have never been to Asakusa."
+    japanese: "私は東京に住んでいますが、浅草には一度も行ったことがありません。"
+    notes: "although=従属接続詞（逆接・譲歩）。Although sv, SV.「svだけれどもSVだ」"
+  - id: "kaku-06-e12"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 12
+    role: "example"
+    english: "Now that you have been accepted to university, you need to find a place to live."
+    japanese: "もう大学に受かったんだから、住むところを探さなきゃね。"
+    notes: "now that=従属接続詞（理由）。be accepted to university「大学に合格する」"
+  - id: "kaku-06-e13"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 13
+    role: "example"
+    english: "I never use my smartphone while walking."
+    japanese: "私は絶対に歩きながらスマホを使わない。"
+    notes: "副詞節内のs+be省略。本来: while {I am} walking。副詞節のs=主節のS(I)かつbe動詞なので省略可。「歩きスマホ」= use one's smartphone while walking"
+  - id: "kaku-06-e14"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 14
+    role: "example"
+    english: "Fasten your seatbelt while seated."
+    japanese: "お座席ではシートベルトをご着用ください。"
+    notes: "副詞節内のs+be省略。命令文なので主語はYou。本来: {You} Fasten ... while {you are} seated。fasten「締める」（← fastener）。be seated「座っている」（← seat「座らせる」の受動態）"
+  - id: "kaku-06-e15"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 15
+    role: "example"
+    english: "I know that he is rich."
+    japanese: "私は彼がお金持ちだということを知っている。"
+    notes: "接続詞thatが名詞節をつくる例。I know the man.のthe man（名詞）をthat he is rich（名詞節）に置き換えた形"
+  - id: "kaku-06-e16"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 16
+    role: "example"
+    english: "I venture that the price of land in Yokohama will go up in the next few years."
+    japanese: "横浜の地価が今後数年間で上昇すると思います（推測します）。"
+    notes: "SV that〜の裏技: Vが「認識・伝達系」→「思う・言う」と当てはめれば意味がわかる。venture=名詞「冒険」、動詞「あえて〜と述べる」"
+  - id: "kaku-06-e17"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 17
+    role: "example"
+    english: "She is proud of the fact that her painting won an award."
+    japanese: "自分の絵が受賞したという事実を、彼女は誇らしく思っている。"
+    notes: "同格のthat。the fact that sv「svという事実」。同格のthatをとる名詞は事実・認識・可能性系統（fact/news/knowledge/conclusion/idea/thought/belief/feeling/likelihood等）。be proud of「〜を誇らしく思う」"
+  - id: "kaku-06-e18"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 18
+    role: "example"
+    english: "My boss is so kind that he is liked by everybody."
+    japanese: "ウチの上司はとても優しいので、みんなに好かれている。"
+    notes: "so~that...構文。結果「とても〜なので…」でも程度「…なくらい〜だ」でも解釈可。程度訳: 「ウチの上司はみんなに好かれているほど優しい」"
+  - id: "kaku-06-e19"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 19
+    role: "example"
+    english: "He got to the concert early so that he could get a good seat."
+    japanese: "彼は良い席をとるために、コンサート（会場）に早く着いた。"
+    notes: "so thatは「目的（〜するために）」。soとthatがくっつく形。後ろに必ず助動詞が必要（will/can/may等）"
+  - id: "kaku-06-e20"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 20
+    role: "example"
+    english: "If he comes, I'll tell you."
+    japanese: "もし彼が来たら、（あなたに）伝えるよ。"
+    notes: "副詞節をつくるif。If sv, SV.「もしsvなら、SVだ」"
+  - id: "kaku-06-e21"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 21
+    role: "example"
+    english: "Do you know if he will come?"
+    japanese: "彼が来るかどうか知っていますか？"
+    notes: "名詞節をつくるif。knowは他動詞→直後に名詞（目的語）が必要→if〜は名詞節→「〜かどうか」。ifの核心: 半々の不安定"
+  - id: "kaku-06-e22"
+    section_id: "Kaku_06"
+    drill: 0
+    number: 22
+    role: "example"
+    english: "Do you know whether he will come?"
+    japanese: "彼が来るかどうか知っていますか？"
+    notes: "名詞節をつくるwhether。他動詞knowの後→名詞節→「〜かどうか」。名詞節のときifとwhetherは同じ意味"
+
+  # === 実際の入試問題演習 ===
+  - id: "kaku-06-x01"
+    section_id: "Kaku_06"
+    drill: 2
+    number: 1
+    role: "exam"
+    english: "When he was a little boy, he used to like both baseball and swimming."
+    japanese: "彼は子どものころ、野球と水泳が好きだった。"
+    notes: "出典: 駒沢大学。空所補充。正解: ④both。both A and B「AとBの両方」。used to |原形|「かつては〜していた」。参考書内参照: →p.161 used to"
+  - id: "kaku-06-x02"
+    section_id: "Kaku_06"
+    drill: 2
+    number: 2
+    role: "exam"
+    english: "During his vacation, the shop was temporarily closed."
+    japanese: "彼の休暇中、その店は一時的に休業した。"
+    notes: "出典: 法政大学。空所補充。正解: ②During。空所直後が名詞(his vacation)→前置詞が入る。During「〜の間ずっと」。③Inも前置詞だが意味が不自然"
+  - id: "kaku-06-x03"
+    section_id: "Kaku_06"
+    drill: 2
+    number: 3
+    role: "exam"
+    english: "While I'm enjoying my stay in France, I still miss my home country."
+    japanese: "フランス滞在は楽しいが、それでも母国が恋しい。"
+    notes: "出典: 南山大学。空所補充。正解: ①While。空所直後がsv(I'm enjoying)→接続詞が入る。While「〜する一方で」（対比）。While sv, SV."
+  - id: "kaku-06-x04"
+    section_id: "Kaku_06"
+    drill: 2
+    number: 4
+    role: "exam"
+    english: "My father was so exhausted last night that he went to bed without even eating supper."
+    japanese: "父は昨夜とても疲れていたので、夕食もとらずに寝てしまいました。"
+    notes: "出典: 中央大学。空所補充。正解: ②that。so〜that...「とても〜なので…」。without even -ing「〜すらしないで」"
+
+sentence_structures:
+  # e01
+  - sentence_id: "kaku-06-e01"
+    label: "overall"
+    value: "S V M conj V O."
+  - sentence_id: "kaku-06-e01"
+    label: "details"
+    value: "She(S) went(V) [to the supermarket](M:前置詞句) and bought(V) <some eggs>(O)."
+  # e02
+  - sentence_id: "kaku-06-e02"
+    label: "overall"
+    value: "S V M."
+  - sentence_id: "kaku-06-e02"
+    label: "details"
+    value: "<Both he and I>(S:等位接続詞) are(V) [against the plan](M:前置詞句)."
+  # e03
+  - sentence_id: "kaku-06-e03"
+    label: "overall"
+    value: "S V C conj C."
+  - sentence_id: "kaku-06-e03"
+    label: "details"
+    value: "She(S) is(V) <not only a nurse>(C) <but also a yoga instructor>(C:等位接続詞)."
+  # e04
+  - sentence_id: "kaku-06-e04"
+    label: "overall"
+    value: "(conj S V C), S V O M."
+  - sentence_id: "kaku-06-e04"
+    label: "details"
+    value: "(When she(s) was(v) young(c)), she(S) played(V) soccer(O) <every day>(M:副詞句)."
+  # e05
+  - sentence_id: "kaku-06-e05"
+    label: "overall"
+    value: "S V O M."
+  - sentence_id: "kaku-06-e05"
+    label: "details"
+    value: "I(S) read(V) <the new book>(O) [during lunch break](M:前置詞句)."
+  # e06
+  - sentence_id: "kaku-06-e06"
+    label: "overall"
+    value: "S V O (conj S V O)."
+  - sentence_id: "kaku-06-e06"
+    label: "details"
+    value: "I(S) read(V) <the new book>(O) (while I(s) ate(v) lunch(o))(M:副詞節)."
+  # e07
+  - sentence_id: "kaku-06-e07"
+    label: "overall"
+    value: "S V M (conj S V M)."
+  - sentence_id: "kaku-06-e07"
+    label: "details"
+    value: "I(S) couldn't sleep(V) <last night>(M:副詞) (because <my little sister>(s) was crying(v) <all night long>(m))(M:副詞節)."
+  # e08
+  - sentence_id: "kaku-06-e08"
+    label: "overall"
+    value: "S V M M. S V M."
+  - sentence_id: "kaku-06-e08"
+    label: "details"
+    value: "I(S) couldn't sleep(V) <last night>(M) [because of <my little sister>](M:前置詞句). She(S) was crying(V) <all night long>(M)."
+  # e09
+  - sentence_id: "kaku-06-e09"
+    label: "overall"
+    value: "S V (conj S V)."
+  - sentence_id: "kaku-06-e09"
+    label: "details"
+    value: "We(S) waited(V) (until Steven(s) came(v))(M:副詞節)."
+  # e10
+  - sentence_id: "kaku-06-e10"
+    label: "overall"
+    value: "(conj S V), S V O."
+  - sentence_id: "kaku-06-e10"
+    label: "details"
+    value: "(Unless you(s) study(v)), you(S) 'll never pass(V) <the test>(O)."
+  # e11
+  - sentence_id: "kaku-06-e11"
+    label: "overall"
+    value: "(conj S V M), S V M."
+  - sentence_id: "kaku-06-e11"
+    label: "details"
+    value: "(Although I(s) live(v) [in Tokyo](m)), I(S) have never been(V) [to Asakusa](M)."
+  # e12
+  - sentence_id: "kaku-06-e12"
+    label: "overall"
+    value: "(conj S V M), S V O."
+  - sentence_id: "kaku-06-e12"
+    label: "details"
+    value: "(Now that you(s) have been accepted(v) [to university](m)), you(S) need(V) [to find <a place> [to live]](O:不定詞句)."
+  # e13
+  - sentence_id: "kaku-06-e13"
+    label: "overall"
+    value: "S M V O (conj V-ing)."
+  - sentence_id: "kaku-06-e13"
+    label: "details"
+    value: "I(S) never(M) use(V) <my smartphone>(O) (while {I am} walking)(M:副詞節/s+be省略)."
+  # e14
+  - sentence_id: "kaku-06-e14"
+    label: "overall"
+    value: "V O (conj p.p.)."
+  - sentence_id: "kaku-06-e14"
+    label: "details"
+    value: "{You} Fasten(V:命令文) <your seatbelt>(O) (while {you are} seated)(M:副詞節/s+be省略)."
+  # e15
+  - sentence_id: "kaku-06-e15"
+    label: "overall"
+    value: "S V O(=that節)."
+  - sentence_id: "kaku-06-e15"
+    label: "details"
+    value: "I(S) know(V) [that he(s) is(v) rich(c)](O:名詞節)."
+  # e16
+  - sentence_id: "kaku-06-e16"
+    label: "overall"
+    value: "S V O(=that節)."
+  - sentence_id: "kaku-06-e16"
+    label: "details"
+    value: "I(S) venture(V) [that <the price of land in Yokohama>(s) will go up(v) [in the next few years](m)](O:名詞節)."
+  # e17
+  - sentence_id: "kaku-06-e17"
+    label: "overall"
+    value: "S V M."
+  - sentence_id: "kaku-06-e17"
+    label: "details"
+    value: "She(S) is(V) proud(C) [of <the fact [that <her painting>(s) won(v) <an award>(o)]>](M:前置詞句/同格のthat)."
+  # e18
+  - sentence_id: "kaku-06-e18"
+    label: "overall"
+    value: "S V C M(=that節)."
+  - sentence_id: "kaku-06-e18"
+    label: "details"
+    value: "<My boss>(S) is(V) <so kind>(C) [that he(s) is liked(v) [by everybody](m)](M:結果/程度節)."
+  # e19
+  - sentence_id: "kaku-06-e19"
+    label: "overall"
+    value: "S V M M(=so that節)."
+  - sentence_id: "kaku-06-e19"
+    label: "details"
+    value: "He(S) got(V) [to the concert](M) early(M) [so that he(s) could get(v) <a good seat>(o)](M:目的節)."
+  # e20
+  - sentence_id: "kaku-06-e20"
+    label: "overall"
+    value: "(conj S V), S V O."
+  - sentence_id: "kaku-06-e20"
+    label: "details"
+    value: "(If he(s) comes(v)), I(S) 'll tell(V) you(O)."
+  # e21
+  - sentence_id: "kaku-06-e21"
+    label: "overall"
+    value: "V S O(=if節)?"
+  - sentence_id: "kaku-06-e21"
+    label: "details"
+    value: "Do you(S) know(V) [if he(s) will come(v)](O:名詞節)?"
+  # e22
+  - sentence_id: "kaku-06-e22"
+    label: "overall"
+    value: "V S O(=whether節)?"
+  - sentence_id: "kaku-06-e22"
+    label: "details"
+    value: "Do you(S) know(V) [whether he(s) will come(v)](O:名詞節)?"
+  # x01
+  - sentence_id: "kaku-06-x01"
+    label: "overall"
+    value: "(conj S V C), S V O."
+  - sentence_id: "kaku-06-x01"
+    label: "details"
+    value: "(When he(s) was(v) <a little boy>(c)), he(S) used to like(V) <both baseball and swimming>(O:等位接続詞)."
+  # x02
+  - sentence_id: "kaku-06-x02"
+    label: "overall"
+    value: "M, S V C."
+  - sentence_id: "kaku-06-x02"
+    label: "details"
+    value: "[During <his vacation>](M:前置詞句), <the shop>(S) was(V) <temporarily closed>(C)."
+  # x03
+  - sentence_id: "kaku-06-x03"
+    label: "overall"
+    value: "(conj S V O), S M V O."
+  - sentence_id: "kaku-06-x03"
+    label: "details"
+    value: "(While I(s) 'm enjoying(v) <my stay in France>(o)), I(S) still(M) miss(V) <my home country>(O)."
+  # x04
+  - sentence_id: "kaku-06-x04"
+    label: "overall"
+    value: "S V C M M(=that節)."
+  - sentence_id: "kaku-06-x04"
+    label: "details"
+    value: "<My father>(S) was(V) <so exhausted>(C) <last night>(M) [that he(s) went(v) [to bed](m) [without even eating supper](m)](M:結果節)."
+
+sentence_knowledge_tags:
+  # 等位接続詞 → khs-013
+  - sentence_id: "kaku-06-e01"
+    node_id: "khs-013"
+  - sentence_id: "kaku-06-e02"
+    node_id: "khs-013"
+  - sentence_id: "kaku-06-e03"
+    node_id: "khs-013"
+  - sentence_id: "kaku-06-x01"
+    node_id: "khs-013"
+  # 従属接続詞の副詞節 → khs-014
+  - sentence_id: "kaku-06-e04"
+    node_id: "khs-014"
+  - sentence_id: "kaku-06-e05"
+    node_id: "khs-014"
+  - sentence_id: "kaku-06-e06"
+    node_id: "khs-014"
+  - sentence_id: "kaku-06-e07"
+    node_id: "khs-014"
+  - sentence_id: "kaku-06-e08"
+    node_id: "khs-014"
+  - sentence_id: "kaku-06-e09"
+    node_id: "khs-014"
+  - sentence_id: "kaku-06-e10"
+    node_id: "khs-014"
+  - sentence_id: "kaku-06-e11"
+    node_id: "khs-014"
+  - sentence_id: "kaku-06-e12"
+    node_id: "khs-014"
+  - sentence_id: "kaku-06-e13"
+    node_id: "khs-014"
+  - sentence_id: "kaku-06-e14"
+    node_id: "khs-014"
+  - sentence_id: "kaku-06-x02"
+    node_id: "khs-014"
+  - sentence_id: "kaku-06-x03"
+    node_id: "khs-014"
+  # 名詞節（that/if/whether） → khs-015
+  - sentence_id: "kaku-06-e15"
+    node_id: "khs-015"
+  - sentence_id: "kaku-06-e16"
+    node_id: "khs-015"
+  - sentence_id: "kaku-06-e17"
+    node_id: "khs-015"
+  - sentence_id: "kaku-06-e20"
+    node_id: "khs-015"
+  - sentence_id: "kaku-06-e21"
+    node_id: "khs-015"
+  - sentence_id: "kaku-06-e22"
+    node_id: "khs-015"
+  # so~that構文 → khs-016
+  - sentence_id: "kaku-06-e18"
+    node_id: "khs-016"
+  - sentence_id: "kaku-06-e19"
+    node_id: "khs-016"
+  - sentence_id: "kaku-06-x04"
+    node_id: "khs-016"

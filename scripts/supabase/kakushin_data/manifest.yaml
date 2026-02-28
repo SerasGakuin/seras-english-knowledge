@@ -47,22 +47,22 @@ sections:
     title: "副詞"
     type: "grammar_lecture"
     pages: "p.44-54"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 3
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "khs-010/011/012。CHECK 3問は全て英文なし→登録対象外(decision #9)。khs-010→khs-001のprereqは不要（副詞の前置詞不要は冠詞知識と直接関連しない）"
   Kaku_06:
     title: "接続詞"
     type: "grammar_lecture"
     pages: "p.55-70"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 4
+    sentences_created: 26
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "khs-013/014/015/016。CHECK 3問は全て英文なし→登録対象外(decision #10)。「I know the man.」は導入文→登録対象外(decision #11)。Gate3: khs-014→khs-013 prerequisite追加"
   Kaku_07a:
     title: "文型（自動詞と他動詞・品詞と文型・第1〜2文型）"
     type: "grammar_lecture"
@@ -266,8 +266,8 @@ sections:
 
 summary:
   total_sections: 26
-  completed: 6
+  completed: 8
   in_progress: 0
-  not_started: 20
-  total_knowledge_nodes: 15
-  total_sentences: 64
+  not_started: 18
+  total_knowledge_nodes: 22
+  total_sentences: 103

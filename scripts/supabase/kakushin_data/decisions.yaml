@@ -47,3 +47,21 @@ decisions:
     question: "khs-008のcheck_point seq 5（a few/few）に対応する英文がない。問題ないか？"
     decision: "問題なし。p.35-43にa few/fewの例文・CHECK・入試問題は存在しない（数量形容詞は表のみの説明）。知識はnotesとcheck_pointsで完全に保存されており、英文による実践はないが判別知識として重要なためcheck_pointsに残す。"
     decided_by: "リード"
+  - id: 9
+    date: "2026-03-01"
+    section: "Kaku_05"
+    question: "Kaku_05のCHECK 3問は全て完全な英文がない（選択・暗唱・語彙問題）。登録するか？"
+    decision: "登録しない。CHECK(1)はgo abroad vs go to abroadの2択で完全な文ではない。CHECK(2)はわがまま副詞5つを挙げる暗唱問題。CHECK(3)は4語の意味を答える語彙問題。いずれも完全な英文が存在しない。知識はkhs-010/011/012のcheck_pointsとnotesで保存。"
+    decided_by: "リード"
+  - id: 10
+    date: "2026-03-01"
+    section: "Kaku_06"
+    question: "Kaku_06のCHECK 3問は全て完全な英文がない（和訳問題・用語暗唱・分類問題）。登録するか？"
+    decision: "登録しない。CHECK(1)は接続詞の和訳リスト問題、CHECK(2)は名詞節をつくる接続詞3つを答える暗唱問題、CHECK(3)はifの3つの意味を分類する問題。いずれも完全な英文が存在しない。知識はkhs-013/014/015のcheck_pointsとnotesで保存。"
+    decided_by: "リード"
+  - id: 11
+    date: "2026-03-01"
+    section: "Kaku_06"
+    question: "「I know the man.」はthat節への置き換えの導入用の文。完全な英文だが登録するか？"
+    decision: "登録しない。この文自体は接続詞の知識を実践する英文ではなく、名詞→that節の変換を示すための導入。「I know that he is rich.」（e15）の方が接続詞thatの実践例。"
+    decided_by: "リード"
