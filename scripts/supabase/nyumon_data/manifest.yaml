@@ -668,32 +668,32 @@ sections:
     title: "the＋比較級，the＋比較級"
     type: "exercise"
     pages: "p.132-133"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nhk-004(the＋比較級, the＋比較級)"
   Ny_54:
     title: "as〜as①"
     type: "exercise"
     pages: "p.134-135"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nhk-005(as〜as構文の構造把握) Ny_55と共有"
   Ny_55:
     title: "as〜as②"
     type: "exercise"
     pages: "p.136-137"
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nhk-005をNy_54と共有（as〜as構文の構造把握）"
   Ny_56:
     title: "as〜as③"
     type: "exercise"
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 65
+  completed: 68
   in_progress: 0
-  not_started: 20
-  total_knowledge_nodes: 54
-  total_sentences: 174
+  not_started: 17
+  total_knowledge_nodes: 56
+  total_sentences: 180

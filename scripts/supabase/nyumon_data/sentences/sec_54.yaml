@@ -1,0 +1,28 @@
+sentences:
+  - id: "ny-54-s1"
+    section_id: "Ny_54"
+    drill: 54
+    number: 1
+    role: "exercise"
+    english: "For babies born in 1980 — today's 36-year-olds — the index of the American dream has fallen to 50 percent: Only half of them make as much money as their parents did."
+    japanese: "1980年に生まれた赤ん坊，つまり今36歳の人々だが，彼らにとってアメリカンドリームの指標は50％にまで下がった，すなわち，自分の親達と同じだけ稼いでいるのは彼らのたった半数にすぎないのだ。"
+    notes: "出典: 首都大学東京"
+
+sentence_structures:
+  - sentence_id: "ny-54-s1"
+    label: "overall"
+    value: "M S V M : S V O"
+
+  - sentence_id: "ny-54-s1"
+    label: "details"
+    value: "(For babies (born in 1980)(M:過去分詞句) — today's 36-year-olds —(M:同格))(M:副詞句) {S}the index (of the American dream)(M:形容詞句)(S) {V}has fallen(V) (to 50 percent)(M:副詞句) : {S}Only half (of them)(M:形容詞句)(S) {V}make(V) {O}as much money [as(接続詞) their parents(S) did(V)](M:比較)(O)"
+
+  - sentence_id: "ny-54-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 1980年に生まれた赤ん坊，つまり今36歳の人々だが，にとって
+      ❸ 彼らのたった半数が自分の親達と同じだけ稼いでいる
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-54-s1"
+    node_id: "nhk-005"

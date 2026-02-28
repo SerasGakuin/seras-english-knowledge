@@ -1,0 +1,53 @@
+sentences:
+  - id: "ny-53-s1"
+    section_id: "Ny_53"
+    drill: 53
+    number: 1
+    role: "exercise"
+    english: "Tea can be divided into several types based on how much the picked tea leaves react to oxygen."
+    japanese: "お茶は，その摘まれた茶葉がどの程度酸素に反応するかに応じていくつかの種類に分類できる。"
+    notes: ""
+
+  - id: "ny-53-s2"
+    section_id: "Ny_53"
+    drill: 53
+    number: 2
+    role: "exercise"
+    english: "The longer the leaf goes through this reaction process, the stronger its taste and smell become."
+    japanese: "茶葉がこの反応過程を長時間経ればそれだけ，その味と香りが強くなる。"
+    notes: ""
+
+sentence_structures:
+  - sentence_id: "ny-53-s1"
+    label: "overall"
+    value: "S V M"
+
+  - sentence_id: "ny-53-s1"
+    label: "details"
+    value: "{S}Tea(S) can {V}be divided(V) (into several types)(M:副詞句) (based on [how much(疑問詞) the picked tea leaves(S) react(V) (to oxygen)(M:副詞句)](M:疑問詞節))(M:副詞句)"
+
+  - sentence_id: "ny-53-s1"
+    label: "partial_translations"
+    value: |
+      ❶ お茶はいくつかの種類に分類できる
+      ❸ 摘まれた茶葉がどれほど酸素に反応するかということに基づいて
+
+  - sentence_id: "ny-53-s2"
+    label: "overall"
+    value: "the比較級 S V O, the比較級 S V"
+
+  - sentence_id: "ny-53-s2"
+    label: "details"
+    value: "[The longer(比較級:副詞) {S}the leaf(S) {V}goes through(V) {O}this reaction process(O)](従属節), [the stronger(比較級:形容詞) {S}its taste and smell(S) {V}become(V)](主節)"
+
+  - sentence_id: "ny-53-s2"
+    label: "partial_translations"
+    value: |
+      ❹ 茶葉がこの反応過程を長時間経ればそれだけ，その味と香りが強くなる
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-53-s1"
+    node_id: "nhk-004"
+
+  - sentence_id: "ny-53-s2"
+    node_id: "nhk-004"

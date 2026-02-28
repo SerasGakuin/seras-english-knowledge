@@ -503,19 +503,25 @@ sections:
     title: "the＋比較級，the＋比較級"
     pages: "p.132-133"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: The longerとくれば後ろには……
+      一言: 同じ茶葉でも酸素に触れさせる時間で味や香りが変わり，緑茶・ウーロン茶・紅茶などと名前が変わる。
   - id: "Ny_54"
     book: "入門英文問題精講"
     title: "as〜as①"
     pages: "p.134-135"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: their parents didは具体的にどんなこと？
+      一言: アメリカンドリームはベトナム戦争の敗戦で終わったと言われるが、Amazonのジェフ・ベゾス氏のように自宅ガレージから起業して総資産14兆円の成功者もいる。
   - id: "Ny_55"
     book: "入門英文問題精講"
     title: "as〜as②"
     pages: "p.136-137"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: 何と何が同じなのか？
+      一言: ヨーロッパでは「痩せすぎたモデルは雇わない」風潮が出てきている。
   - id: "Ny_56"
     book: "入門英文問題精講"
     title: "as〜as③"
@@ -823,6 +829,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_52"
     node_id: "nhk-003"
+    seq: 1
+  - section_id: "Ny_53"
+    node_id: "nhk-004"
+    seq: 1
+  - section_id: "Ny_54"
+    node_id: "nhk-005"
+    seq: 1
+  - section_id: "Ny_55"
+    node_id: "nhk-005"
     seq: 1
 
 section_prerequisites: []

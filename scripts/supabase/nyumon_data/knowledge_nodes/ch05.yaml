@@ -103,6 +103,76 @@ knowledge_nodes:
         increase/rise by〜 の by は自明のため省略される傾向がある。
         byは「増加分・減少分」を示す前置詞。100から150まで増加すれば媒介は50でby 50。
 
+  - id: "nhk-004"
+    name: "the＋比較級, the＋比較級"
+    category: "比較"
+    priority: "P1"
+    notes: |
+      Point分類: ❹〔比較〕（問53）
+      〈the＋比較級, the＋比較級〉で比例関係を表す構文。接続詞を必要としない。
+      ■ the＋比較級, the＋比較級の構造（問53 ❹）:
+        前半が従属節、後半が主節。
+        The older you get, the more forgetful you become.
+        「年をとればとるほど，物忘れがひどくなる」
+        元の文: You get older. / You become more forgetful.
+        本来 As you get older, you become more forgetful. のように接続詞Asが必要だが、
+        比較級にtheをつけて文頭に移動することで接続詞なしで2文をつなげる。
+      ■ 本文の元の文:
+        The leaf goes through this reaction process longer.（longerは副詞）
+        Its taste and smell become stronger.（strongerは形容詞）
+        → 茶葉が反応過程を経る時間と味・香りの強さが比例する。
+      ■ 訳出のコツ:
+        「〜すればそれだけ，…となる」と比例関係を前面に出す。
+      ❶（問53）can be divided:
+        助動詞＋受動態。「分類されることができる」→「分類できる」と能動で訳す。
+        into several types は be divided を修飾する副詞句。
+      ❷（問53）based on:
+        be divided を修飾する副詞句。「〜に基づいて」。基準を示す表現。
+      ❸（問53）how much ... :
+        疑問詞が後ろの文を1つの名詞にまとめる。「どれほど〜かということ」。
+        文中に入った場合は疑問形の語順にしない。
+        tea leaves: 名詞 tea が形容詞のように leaf を修飾（名詞の形容詞的用法）。
+
+  - id: "nhk-005"
+    name: "as〜as構文の構造把握"
+    category: "比較"
+    priority: "P1"
+    notes: |
+      Point分類: ❸〔比較〕（問54）、❶〔比較〕（問55）
+      as〜as構文の正確な構造理解。最初のas＝副詞、2番目のas＝接続詞。
+      ■ as〜as構文の基本（問54 ❸）:
+        (1) 両者の程度を比較して「だいたい等しい」
+        (2) as〜asの「〜」には形容詞・副詞の原級が入る
+        最初のas＝副詞、2番目のas＝接続詞。
+        正しくは ～ as ... [as ～] という2分割。2番目のasの前後に独立した文がある。
+        Tom runs as fast as Bob. = Tom runs as fast [as Bob runs (fast)].
+      ■ as much money as（問54 ❸）:
+        Only half of them make as much money [as their parents did].
+        did = made (much money)。現在と過去の比較は動詞と動詞の比較。
+        make（現在時制）vs did=made（過去時制）。
+      ■ as much ... as（副詞句を挟む場合）（問55 ❶）:
+        最初のasの後ろには形容詞・副詞は置けるが、〈前置詞＋名詞〉の副詞句は置けない。
+        muchは、asと副詞句 on the basis of をつなぐ働きをする。
+        元の2文:
+        Pop singers are often judged as much on the basis of how they look
+        as they are judged much on the basis of how they sound.
+        共通部分 they are judged much on the basis of が省略。
+        「容姿で判断される程度」＝「歌声で判断される程度」。
+      ❶（問54）ダッシュ（同格）:
+        babies born in 1980 と today's 36-year-olds が同格。
+        ダッシュはコンマより切れ目を明確にする場合に使用。
+      ❷（問54）コロン:
+        前後の文が密接な関係にあることを示す。
+        本文: 「指標は50%に下がった」→（コロン）→「半数しか親と同じだけ稼いでいない」。
+      ❷（問55）performing（分詞構文）:
+        主語直後にコンマで挟まれた V-ing は分詞構文（副詞句）。
+        influenced は過去分詞で audiences を修飾。
+      ❸（問55）expected to be:
+        expect O to V の受動態。動作主は「世間の人々」。
+      ❹（問55）and の直後に副詞が挿入される場合:
+        and の直後の副詞 possibly をいったん無視し、その後ろの harmful と同種の語を前方に探す。
+        unrealistic と harmful（形容詞同士）が and でつながれている。
+
 understanding_goals:
   - node_id: "nhk-001"
     seq: 1
@@ -133,6 +203,26 @@ understanding_goals:
   - node_id: "nhk-003"
     seq: 3
     goal: "moreの二重品詞（名詞＋形容詞/副詞）を理解できる"
+
+  - node_id: "nhk-004"
+    seq: 1
+    goal: "〈the＋比較級, the＋比較級〉の構造（従属節＋主節）を説明できる"
+  - node_id: "nhk-004"
+    seq: 2
+    goal: "〈the＋比較級, the＋比較級〉の文を元の2文に復元できる"
+  - node_id: "nhk-004"
+    seq: 3
+    goal: "この構文が接続詞なしで文をつなぐ仕組みを理解できる"
+
+  - node_id: "nhk-005"
+    seq: 1
+    goal: "as〜asの最初のas（副詞）と2番目のas（接続詞）の役割を説明できる"
+  - node_id: "nhk-005"
+    seq: 2
+    goal: "as〜as構文を元の2文に復元し、省略された共通要素を特定できる"
+  - node_id: "nhk-005"
+    seq: 3
+    goal: "as much＋副詞句＋as の構造でmuchの役割を説明できる"
 
 check_points:
   - node_id: "nhk-001"
@@ -174,6 +264,32 @@ check_points:
     question: "「比較級を見たら元の2文を考える」とはどういう手法か？"
     answer: "I am older than Bob. → I am old / Bob is old の2文を想定し、比較の構造を理解する手法。thanは接続詞なので後ろにS+Vの完全な文が存在し、共通要素が省略されていると考える。"
 
+  - node_id: "nhk-004"
+    seq: 1
+    question: "〈the＋比較級, the＋比較級〉の構造を説明せよ。"
+    answer: "前半が従属節、後半が主節。比較級にtheをつけて文頭に移動することで、接続詞なしで2つの文をつなげ、比例関係を表す。「〜すればそれだけ，…となる」。"
+  - node_id: "nhk-004"
+    seq: 2
+    question: "The older you get, the more forgetful you become. を元の2文に復元せよ。"
+    answer: "You get older.（より年をとる）/ You become more forgetful.（より物忘れがひどくなる）。本来 As you get older, you become more forgetful. のように接続詞Asが必要。"
+  - node_id: "nhk-004"
+    seq: 3
+    question: "なぜこの構文では接続詞が不要なのか？"
+    answer: "元の文の形容詞（または副詞）の比較級にtheをつけて文頭に移動する操作自体が、接続詞の機能を果たすため。theが従属節を示すマーカーとして働く。"
+
+  - node_id: "nhk-005"
+    seq: 1
+    question: "as〜asの最初のasと2番目のasの品詞は何か？"
+    answer: "最初のas＝副詞、2番目のas＝接続詞。正しくは ～ as ... [as ～] の2分割。2番目のasの前後に独立した文がある。"
+  - node_id: "nhk-005"
+    seq: 2
+    question: "as much money as their parents did を元の文に復元せよ。"
+    answer: "Only half of them make as much money [as their parents made (much) money]. did = made。共通要素 much money が省略。現在と過去の比較は動詞と動詞の比較（make vs did=made）。"
+  - node_id: "nhk-005"
+    seq: 3
+    question: "as much on the basis of how they look as how they sound で、muchの役割は何か？"
+    answer: "muchは、副詞のasと副詞句 on the basis of をつなぐ働きをする。最初のasの後には形容詞・副詞は置けるが〈前置詞＋名詞〉の副詞句は直接置けないため、muchが仲介する。"
+
 node_prerequisites:
   - node_id: "nhk-001"
     prerequisite_id: "nbk-001"
@@ -182,6 +298,10 @@ node_prerequisites:
     prerequisite_id: "nhk-001"
   - node_id: "nhk-003"
     prerequisite_id: "nhk-002"
+  - node_id: "nhk-004"
+    prerequisite_id: "nhk-001"
+  - node_id: "nhk-005"
+    prerequisite_id: "nhk-001"
 
 knowledge_references:
   - node_id: "nhk-001"
@@ -200,3 +320,15 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_52"
     pages: "p.130-131"
+  - node_id: "nhk-004"
+    book: "入門英文問題精講"
+    section_id: "Ny_53"
+    pages: "p.132-133"
+  - node_id: "nhk-005"
+    book: "入門英文問題精講"
+    section_id: "Ny_54"
+    pages: "p.134-135"
+  - node_id: "nhk-005"
+    book: "入門英文問題精講"
+    section_id: "Ny_55"
+    pages: "p.136-137"
