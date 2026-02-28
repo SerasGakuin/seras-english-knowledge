@@ -1,0 +1,55 @@
+# Nar_01_11: パターンで理解する動詞(1) — V+A+with+B（p.45-47）
+
+sentences:
+  - id: "nar-0111-e043"
+    section_id: "Nar_01_11"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "She provided her child with a good book."
+    japanese: "彼女は子どもによい本を与えた"
+    notes: "V+A+with+B（与える・供給）。5文型ではSVOMだが、パターンで理解する方が効率的"
+  - id: "nar-0111-e044"
+    section_id: "Nar_01_11"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "We associate Einstein with the theory of relativity."
+    japanese: "私たちはアインシュタインと言えば相対性理論を連想する"
+    notes: "V+A+with+B（関連・結合）。AとBを結びつけて考える"
+  - id: "nar-0111-e045"
+    section_id: "Nar_01_11"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "Mr. Lawson endowed the college with a large sum of money."
+    japanese: "ローソン氏はその大学に多額の金を寄付した"
+    notes: "V+A+with+B（与える・供給）。未知の動詞endowもパターンから意味推測可能"
+
+sentence_structures:
+  - sentence_id: "nar-0111-e043"
+    label: "overall"
+    value: "S V A with B"
+  - sentence_id: "nar-0111-e043"
+    label: "details"
+    value: "<She>(S) provided(V) <her child>(A) with <a good book>(B)"
+  - sentence_id: "nar-0111-e044"
+    label: "overall"
+    value: "S V A with B"
+  - sentence_id: "nar-0111-e044"
+    label: "details"
+    value: "<We>(S) associate(V) <Einstein>(A) with <the theory of relativity>(B)"
+  - sentence_id: "nar-0111-e045"
+    label: "overall"
+    value: "S V A with B"
+  - sentence_id: "nar-0111-e045"
+    label: "details"
+    value: "<Mr. Lawson>(S) endowed(V) <the college>(A) with <a large sum of money>(B)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0111-e043"
+    node_id: "nrv-011"
+  - sentence_id: "nar-0111-e044"
+    node_id: "nrv-011"
+  - sentence_id: "nar-0111-e045"
+    node_id: "nrv-011"

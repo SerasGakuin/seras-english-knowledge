@@ -1,0 +1,87 @@
+# Nar_01_05: 〈S+V+O₁+O₂〉をとる重要動詞（p.28-30）
+
+sentences:
+  - id: "nar-0105-e015"
+    section_id: "Nar_01_05"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "This bag cost me 10,000 yen."
+    japanese: "このかばんは10,000円した"
+    notes: "cost+O₁+O₂。「O₁からO₂が消える」→10,000円かかった"
+  - id: "nar-0105-e016"
+    section_id: "Nar_01_05"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "One mistake can cost a person his life."
+    japanese: "1つの間違いで人は命を失うことがある"
+    notes: "cost+O₁+O₂。「O₁からO₂が消える」→命を失わせる"
+  - id: "nar-0105-e017"
+    section_id: "Nar_01_05"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "I spared her the trouble of coming here."
+    japanese: "私は彼女がわざわざここに来る手間を省いた"
+    notes: "spare+O₁+O₂「O₁のO₂を省く」の用法"
+  - id: "nar-0105-e018"
+    section_id: "Nar_01_05"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "Could you spare me a few minutes?"
+    japanese: "私に少々時間を割いていただけないでしょうか？"
+    notes: "spare+O₁+O₂「O₁にO₂を割く」の用法"
+  - id: "nar-0105-e019"
+    section_id: "Nar_01_05"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "Too much drinking will do you harm."
+    japanese: "酒の飲み過ぎは体に悪い"
+    notes: "do+O₁+O₂。O₂=harm（害）。giveで置き換え不可"
+
+sentence_structures:
+  - sentence_id: "nar-0105-e015"
+    label: "overall"
+    value: "S V O₁ O₂"
+  - sentence_id: "nar-0105-e015"
+    label: "details"
+    value: "<This bag>(S) cost(V) <me>(O₁) <10,000 yen>(O₂)"
+  - sentence_id: "nar-0105-e016"
+    label: "overall"
+    value: "S V O₁ O₂"
+  - sentence_id: "nar-0105-e016"
+    label: "details"
+    value: "<One mistake>(S) can cost(V) <a person>(O₁) <his life>(O₂)"
+  - sentence_id: "nar-0105-e017"
+    label: "overall"
+    value: "S V O₁ O₂"
+  - sentence_id: "nar-0105-e017"
+    label: "details"
+    value: "<I>(S) spared(V) <her>(O₁) <the trouble of coming here>(O₂)"
+  - sentence_id: "nar-0105-e018"
+    label: "overall"
+    value: "S V O₁ O₂"
+  - sentence_id: "nar-0105-e018"
+    label: "details"
+    value: "Could <you>(S) spare(V) <me>(O₁) <a few minutes>(O₂)"
+  - sentence_id: "nar-0105-e019"
+    label: "overall"
+    value: "S V O₁ O₂"
+  - sentence_id: "nar-0105-e019"
+    label: "details"
+    value: "<Too much drinking>(S) will do(V) <you>(O₁) <harm>(O₂)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0105-e015"
+    node_id: "nrv-005"
+  - sentence_id: "nar-0105-e016"
+    node_id: "nrv-005"
+  - sentence_id: "nar-0105-e017"
+    node_id: "nrv-005"
+  - sentence_id: "nar-0105-e018"
+    node_id: "nrv-005"
+  - sentence_id: "nar-0105-e019"
+    node_id: "nrv-005"

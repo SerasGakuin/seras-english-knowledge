@@ -28,6 +28,289 @@ knowledge_nodes:
       参考書内参照: →p.235〈分詞形容詞〉
       別冊ポイント001（第1文型の形式と意味的特徴）、002（第2文型＋SVC動詞リスト）、003（go+形容詞）、004（五感印象動詞）、005（第3文型の形式と意味的特徴）参照
 
+  - id: "nrv-002"
+    name: "第4〜5文型の判別"
+    category: "動詞語法と文型"
+    priority: "P1"
+    notes: |
+      ■ 第4文型〈S+V+O₁+O₂〉の判別
+      動詞の後ろに文の要素が2つ並んだ場合、2つにイコール関係があるか確認する。
+      her ≠ a meal → 両方O（目的語）→ 第4文型。O₁もO₂も名詞のみ。
+      ■ 第5文型〈S+V+O+C〉の判別
+      her = happy → 2つ目はC（補語）→ 第5文型。
+      〈S+V+C〉とは違い、〈S+V+O+C〉のCには形容詞だけでなく名詞も多く置かれる。
+      ■ 判別のコツ
+      「イコールの関係」は「主語と述語の関係」で考えてもよい（脚注*1）。
+      「彼女は食事である」→不成立→O₁+O₂、「彼女は幸せである」→成立→O+C。
+      ■ 5文型の全体像
+      動詞の後ろに何がどんな語順で置かれるかに着目する。
+      S+V+ → (M)第1文型 / C 第2文型 / O 第3文型 / O₁+O₂ 第4文型 / O+C 第5文型
+      [図表: イラスト — her ≠ a meal（第4文型）の不等号図（p.20）]
+      [図表: イラスト — her = happy（第5文型）のイコール図（p.20）]
+      [図表: イラスト — her = chairperson（第5文型Cに名詞）の図（p.21）]
+      [図表: 分岐図 — S+V+の後ろのパターンで5文型を分類する体系図（p.21）]
+
+  - id: "nrv-003"
+    name: "第1〜3文型の意味的特徴"
+    category: "動詞語法と文型"
+    priority: "P1"
+    notes: |
+      ■ 大原則: 動詞の意味は文型に左右される
+      同じ動詞（get, find等）でも文型が変われば意味が変わる。文型判別が英文読解に直結する。
+      ■ 第1文型〈S+V(+M)〉の意味的特徴
+      用いられる動詞の意味は限定的:
+      存在（be, exist, lie, stand, stay, live）、移動（go, come, move, travel, migrate）、
+      出発（leave, start, depart）、到着（arrive, get）。
+      場所を表すM（修飾語句）と共に使われるのがふつう。
+      例: I got to Rome. → toが到達を表すので get=たどり着く。
+      ■ 第2文型〈S+V+C〉の意味的特徴
+      S=Cの関係は不変。動詞により3パターンに分類:
+      (1) 状態: be, remain, keep, stay 等
+      (2) 変化: get, become, go, grow, turn 等
+      (3) 感覚・印象: seem, look, sound, feel, taste, smell 等
+      ■ 第3文型〈S+V+O〉の意味的特徴
+      S≠O。「SがOに何らかの影響を与える」が基本だが、パターン化できる訳し方はない。
+      ■ 文型で誤読を防ぐ
+      find+O（第3文型）＝「Oを見つける」vs find+O+C（第5文型）＝「OがCだとわかる」。
+      easily（副詞→M）vs easy（形容詞→C）で文型が変わり、意味が全く異なる。
+      [図表: イラスト — 状態/変化/感覚・印象の3パターンを示す女性3人（p.23）]
+      [図表: イラスト — I ≠ a lot of money（第3文型）の不等号図（p.23）]
+      [図表: イラスト — find+O（見つける）vs find+O+C（わかる）の比較（p.24）]
+      別冊ポイント002（第2文型の重要動詞リスト）参照
+
+  - id: "nrv-004"
+    name: "第4〜5文型の意味的特徴"
+    category: "動詞語法と文型"
+    priority: "P1"
+    notes: |
+      ■ 第4文型〈S+V+O₁+O₂〉の意味的特徴
+      基本的な意味: 「SはO₁にO₂を与える」。
+      未知の動詞が出ても第4文型だとわかれば「与える」で類推できる。
+      例: I got her a smartphone. → 「彼女にスマートフォンを与えた＝買ってやった」。
+      ただし take+O₁+O₂, deny+O₁+O₂ 等「与える」だけでは厳しいものもある。
+      ■ 第5文型〈S+V+O+C〉の意味的特徴
+      動詞は大きく2分類:
+      (1) 知覚・認識系: see, hear, feel, smell, think, believe, find, consider
+        → 「OがCだと知覚・認識する」
+      (2) それ以外: make, have, let, get, keep, leave
+        → 「Sが原因で、結果OがCになる」（因果関係）
+      ■ 第5文型の因果関係の読み方
+      The student(原因) made her angry(結果) → 生徒が原因で彼女が怒った。
+      日本語から最もかけ離れた文型だからこそ、因果関係を意識することが英文読解で応用できる。
+      [図表: イラスト — スマートフォン購入と第4文型の「与える」（p.25）]
+      [図表: イラスト — 壁を汚す因果関係（SVOC）（p.26）]
+      [図表: イラスト — 生徒が先生を怒らせる因果関係（SVOC）（p.27）]
+      参考書内参照: → PART 01 §5（「与える」で厳しいもの）
+      別冊ポイント009（第4文型の「与える」に該当しない重要動詞）参照
+
+  - id: "nrv-005"
+    name: "第4文型をとる重要動詞（cost・spare・save・do）"
+    category: "動詞語法と文型"
+    priority: "P2"
+    notes: |
+      ■ cost+O₁+O₂「SによってO₁からO₂が消える」
+      costの主語は「物事」が原則（脚注*1）。
+      (a) O₁にO₂（額・費用）がかかる: This bag cost me 10,000 yen.
+      (b) O₁にO₂（損失・犠牲）を支払わせる: One mistake can cost a person his life.
+      2パターンを個別に覚えなくても「消える」の一語で統一理解できる。
+      ■ spare+O₁+O₂
+      基本イメージ「使わずにとっておく」。2つの意味:
+      (a) 「O₁のO₂を軽減する（省く）」= save と同義
+      (b) 「O₁にO₂を割く」（save にはこの意味がない）
+      spareは〈人〉を主語にして使うのが原則。
+      ■ save+O₁+O₂
+      「O₁のO₂（時間・手間・お金など）を軽減する、省く」= spare(a)と同義。
+      「割く」の意味はない。
+      ■ do+O₁+O₂「O₁にO₂（利益・害など）を与える」
+      O₂に置けるものが限定: good（利益）、harm（害）、damage（被害）など。
+      giveで置き換えることはできない。
+      [図表: イラスト — costのイメージ（10,000円が消える/命が消える）（p.28-29）]
+      [図表: イラスト — spareのイメージ（とっておく→割ける）（p.29）]
+      [図表: イラスト — do you harmのイメージ（飲み過ぎ→二日酔い）（p.30）]
+      別冊ポイント011（spare/saveの比較）、010（doの第4文型）参照
+
+  - id: "nrv-006"
+    name: "〈S+V+O+toV〉をとる動詞と原則"
+    category: "動詞語法と文型"
+    priority: "P1"
+    notes: |
+      ■ 〈S+V+O+C〉のCに動詞を置くときの原則
+      Cにはto V（不定詞）を置くのが原則。
+      toを右向き矢印（→）と考え、「OがCへ到達する」イメージ。
+      ■ このパターンをとる動詞の特徴
+      「忠告・説得・勧誘・強制」など何らかの働きかけをする動詞が多い:
+      advise, persuade, encourage, force, tell, warn, command, order 等。
+      ■ Cにto Vを置けない動詞がある
+      使役動詞(make, let, have)や知覚動詞(see, hear等)は原則としてCにto Vを置けない。
+      → 特別な名前がついている動詞は例外（後続セクション7,8で詳述）。
+      [図表: イラスト — force（強制的に署名）vs make（息子に勉強させる）の比較（p.32）]
+      別冊ポイント014（V+O+toVの動詞リスト）、015（Cに置かれるもの一覧）参照
+
+  - id: "nrv-007"
+    name: "使役動詞のCに置かれる形（make・let・have・get）"
+    category: "動詞語法と文型"
+    priority: "P1"
+    notes: |
+      ■ make: 強い働きかけ（無理強い）
+      能動 → C に V（動詞の原形）、受動 → C に Vp.p.（過去分詞）。
+      受動態: be made to V（makeだけ受動態あり、have/letはない）。
+      ■ let: 自由容認（makeと正反対）
+      C に V（動詞の原形）のみ。Vp.p.は置けない（まれにbe+Vp.p.）。
+      やりたいように自由にやらせるイメージ。
+      ■ have: 依頼（当然の相手に）
+      能動 → C に V（原形）、受動 → C に Vp.p.。Ving で継続の意味もあり（脚注*1）。
+      業者や部下など、それをやるのが当然の相手に依頼してやってもらう。
+      have+O+Vp.p.は「依頼・使役」「被害」「完了」の3パターンに訳し分け。
+      ■ get: 説得（頼み込む）
+      能動 → C に to V（不定詞）、受動 → C に Vp.p.。
+      haveと違って動詞の原形は置けない。相手にそうする義務はないので説得が必要。
+      ■ have と get の被害用法の違い（脚注*2）
+      have: 意志のある「人」が引き起こす被害（I had my wallet stolen.）
+      get: 意志のない「もの」が引き起こす被害（I got my fingers caught in the doors.）
+      ■ 使役動詞のCにto Vが似合わない理由
+      make: 無理強い→間髪入れず→toの「到達」イメージと合わない
+      let: 自由容認→働きかけなし→toが不要
+      have: 当然の相手→説得不要→toが不要
+      [図表: イラスト — make（宿題させる）/ let（行かせる）の対比（p.33-34）]
+      [図表: イラスト — have（ベルボーイに頼む）/ have（髪を切ってもらう）（p.34）]
+      [図表: イラスト — 4使役動詞の比較（have/make/let/getの使い分け）（p.35）]
+
+  - id: "nrv-008"
+    name: "知覚動詞のCに置かれる形と受動態"
+    category: "動詞語法と文型"
+    priority: "P1"
+    notes: |
+      ■ 知覚動詞のCに置かれる形（統一パターン）
+      OとCの関係が「能動」→ V（原形）または Ving
+      OとCの関係が「受動」→ Vp.p.（過去分詞）
+      代表的な知覚動詞: see, hear, feel, watch, look at, notice, listen to
+      ■ V（原形）と Ving の意味の違い
+      V（原形）: 動作の一部始終すべてを知覚する
+      Ving: 動作の最中・途中を知覚する
+      ■ 知覚動詞のCにtoVが置けない理由
+      toV = 「まだ行われていない・これからのこと」を表す。
+      実際に食事したり歌ったりしているからこそ見たり聞いたりできる → toVは似合わない。
+      ■ 受動態での変化
+      知覚動詞+O+V(原形)を受動態にすると、V(原形)→toVに変化する。
+      例: We heard him sing. → He was heard to sing.
+      知覚動詞+O+Vingを受動態にすると、Vingはそのまま。
+      使役動詞makeも同様: They made me wait. → I was made to wait. (be made to V)
+      have, letは受動態にしない。
+      [図表: イラスト — 028(一部始終)と029(途中)の比較（p.36）]
+      参考書内参照: →p.193（PART 06 5）toVの特性
+      別冊ポイント016（V原形vsVingの違い＋受動態での扱い）、015❸（知覚動詞のCに置かれるもの一覧）参照
+
+  - id: "nrv-009"
+    name: "keep・leave・findと思考動詞の〈SVOC〉"
+    category: "動詞語法と文型"
+    priority: "P1"
+    notes: |
+      ■ keep, leave, find の SVOC
+      共通点: Cに形容詞・Ving（能動）・Vp.p.（受動）が置かれる。
+      keep: 「意識して保つ（保持）」
+      leave: 「ほったらかし（放置）」
+      find: 「気づく、わかる」
+      ■ 思考・認識系動詞の SVOC
+      think, consider, believe, find など。
+      Cには形容詞/名詞が置かれ、OとCの間にto beが挿入される場合がある（省略も可）。
+      that節を用いた書き換えが可能:
+      I think her (to be) very kind. = I think that she is very kind.
+      ■ 能動/受動の判別テクニック
+      日本語の「する/される」だけでは判断困難。Cに入る動詞の語法に注目:
+      (1) 自動詞 → そもそも受動態にできない → 能動のVingのみ
+      (2) 他動詞 + 後ろに目的語なし → 受動 → Vp.p.
+      例: wait(自動詞) → waitingのみ
+      例: understand(他動詞) + 目的語なし → understood
+      [図表: イラスト — keep(機械を回し続ける)/leave(エンジンつけっ放し)の対比（p.39）]
+      [図表: イラスト — find(泣いている人に気づく)（p.40）]
+      [図表: イラスト — She is very kind.の吹き出し（SVOC→that節書き換え）（p.40）]
+      [図表: 穴埋め図 — make myself understood（目的語なし→受動）（p.41）]
+      参考書内参照: →p.85（PART 02 受動態）
+      別冊ポイント015❹（keep, leave, findのCに置かれるもの一覧）参照
+
+  - id: "nrv-010"
+    name: "自動詞と他動詞の判別"
+    category: "動詞語法と文型"
+    priority: "P1"
+    notes: |
+      ■ 自動詞と他動詞の判別方法
+      他動詞: 前置詞なしで後ろに名詞を置ける（mention the accident）
+      自動詞: 前置詞を置かないと後ろに名詞を置けない（refer to the accident）
+      自動詞: 後ろに名詞を置かなくても文は成立する（We worked together.）
+      ■ 効率的な学習戦略
+      英語の動詞は他動詞が圧倒的に多く、自動詞は少数派。
+      少数派の自動詞を見つけたら積極的にインプットしていくのが効率的。
+      ■ 自動詞・他動詞の両方の用法を持つ動詞
+      大半の動詞は自動詞と他動詞の両方の用法を持つ（readの例）。
+      辞書で上に出てくる用例がより一般的。
+      ■ 活用の紛らわしい動詞（lie / lay）
+      lie（自動詞）: ある、存在する（lie-lay-lain）
+      lay（他動詞）: 置く（lay-laid-laid）
+      自動詞lieの過去形layと他動詞layの原形が同じ形のため混乱しやすい。
+      [図表: イラスト — 自動詞と他動詞の2つの円（p.43）]
+      [図表: イラスト — lie(テーブル上の本)/lay(本を置く女性)の対比（p.43-44）]
+      別冊ポイント020（動詞の分類）、021（頻出自動詞リスト）、022（前置詞不要の他動詞リスト）、025（lie/layなど活用の紛らわしい動詞）参照
+      脚注*1: 他動詞の後ろの名詞=他動詞の目的語
+      脚注*2: 前置詞の後ろの名詞=前置詞の目的語
+      脚注*3: 辞書ではVt(他動詞)・Vi(自動詞)で区別
+
+  - id: "nrv-011"
+    name: "〈V+A+with+B〉パターンの動詞"
+    category: "動詞語法と文型"
+    priority: "P2"
+    notes: |
+      ■ 5文型は万能ではない
+      5文型のパターンだけですべてが解決できるわけではない。
+      provideを〈S+V+O+M〉（第3文型）と分類するより、〈provide+A+with+B〉（AにBを与える）
+      というパターンでまとめた方がすんなり理解できる。
+      ■ 〈V+A+前置詞+B〉を攻略するコツ
+      2つの注目ポイント:
+      (1) それぞれの前置詞の意味
+      (2) パターンが似ていると意味も似てくるという法則
+      ■ withの基本イメージ:「〜をもって、もっている」
+      〈provide+A+with+B〉= AがBをもって（もっている）。
+      AがBをもてば、AとBには何らかの関連・関係が生まれる → withと「関連・結合」の動詞の相性がよい。
+      ■ 〈V+A+with+B〉のパターンをとる動詞の2大意味
+      ❶ AにBを与える（与える・供給）: provide, supply, present, feed, serve, trust, fill, endow, furnish, equip, burden, face
+      ❷ AをBと結びつけて考える（関連・結合）: associate, combine, compare, identify
+      ■ 未知の動詞でも意味推測が可能
+      endowの意味がわからなくても、V+A+with+Bのパターンから❶か❷をあてはめて推測できる。
+      ■ 別冊027の補足ルール
+      provide[supply] A with B → AとBを入れ替えるとprovide[supply] B for（またはto）Aの形となる。
+      be endowed with A = 「A（才能）を授けられている」（受動態の慣用表現）。
+      compare A with B: withはtoとなることもある。「たとえる」の意味ではtoを用いるのが一般的。
+        例: Life is often compared to a voyage.（人生は航海にたとえられることがよくある）
+      [図表: イラスト — 女の子が本を受け取る（A with B）（p.45）]
+      [図表: イラスト — アインシュタインと相対性理論を結びつける（関連・結合）（p.46）]
+      別冊ポイント026（with型の中心的意味）、027（V+A+with+B型の動詞リスト）参照
+
+  - id: "nrv-012"
+    name: "〈V+A+from+B〉と〈V+A+into+B〉パターンの動詞"
+    category: "動詞語法と文型"
+    priority: "P2"
+    notes: |
+      ■ fromの基本イメージ:「出所」→「切り離す」
+      The rumor came from her. → うわさの「出所」が彼女。彼女から切り離された。
+      「切り離す」から3つの意味が広がる。
+      ■ 〈V+A+from+B〉のパターンをとる動詞の3つの意味
+      ❶ AがBしないようにする（妨害・禁止）: prevent, keep, stop, hinder, prohibit, forbid, ban, discourage, dissuade, restrain
+        → AとBが切り離される → AにBさせない。Bに置かれるのは基本的にVing（動名詞）。
+      ❷ AをBから守る（保護）: protect, rescue, save
+        → 危険からAを切り離す → 保護する。
+      ❸ AをBと区別する（区別）: distinguish, tell, know
+        → AとBを切り離す → 別個にグループ分け → 区別する。
+        ※ order A from B（AをBに注文する）もこの型。
+      ■ intoの基本イメージ:「内部への移動」→「変化」
+      右向き矢印（→）のイメージ。場所でも状況でも。
+      ■ 〈V+A+into+B〉のパターンをとる動詞の2つの意味
+      ❶ AがBの内部に入る（移動）: put
+      ❷ Aが変化してBになる（変化）: change, convert, turn, make, divide, classify, translate, put
+        → 「変化」を表すものが多い。
+      [図表: イラスト — right/wrongの箱を区別する（from: 区別）（p.48-49）]
+      [図表: イラスト — 服をスーツケースに入れる（into: 移動）（p.49）]
+      [図表: イラスト — イタリア語→英語の翻訳（into: 変化）（p.49-50）]
+      別冊ポイント028（from型の中心的意味）、029（V+A+from+B型の動詞リスト）、030（into型の中心的意味）、031（V+A+into+B型の動詞リスト）参照
+
   - id: "nrv-016"
     name: "「言う」の動詞の使い分け"
     category: "動詞語法と文型"
@@ -67,6 +350,146 @@ understanding_goals:
   - node_id: "nrv-001"
     seq: 4
     goal: "Cに名詞を置ける動詞の制限と、(✕) We are happiness. が不可な理由を説明できる"
+  # nrv-002
+  - node_id: "nrv-002"
+    seq: 1
+    goal: "動詞の後ろに2要素が並んだとき、イコール関係の有無で第4・第5文型を判別できる"
+  - node_id: "nrv-002"
+    seq: 2
+    goal: "第4文型のO₁・O₂がいずれも名詞であることを説明できる"
+  - node_id: "nrv-002"
+    seq: 3
+    goal: "第5文型のCには形容詞と名詞の両方が置かれることを説明できる"
+  - node_id: "nrv-002"
+    seq: 4
+    goal: "5文型を動詞の後ろのパターンとして体系的に整理できる"
+  # nrv-003
+  - node_id: "nrv-003"
+    seq: 1
+    goal: "動詞の意味は文型に左右されるという大原則を説明できる"
+  - node_id: "nrv-003"
+    seq: 2
+    goal: "第1文型に用いられる動詞の意味的特徴（存在・移動・出発・到着）を列挙できる"
+  - node_id: "nrv-003"
+    seq: 3
+    goal: "第2文型の動詞を状態・変化・感覚/印象の3パターンに分類できる"
+  - node_id: "nrv-003"
+    seq: 4
+    goal: "同じ動詞が文型の違いで異なる意味になることを具体例で示せる"
+  # nrv-004
+  - node_id: "nrv-004"
+    seq: 1
+    goal: "第4文型の基本的な意味「O₁にO₂を与える」を説明できる"
+  - node_id: "nrv-004"
+    seq: 2
+    goal: "第5文型の動詞を「知覚・認識系」と「それ以外」の2つに分類できる"
+  - node_id: "nrv-004"
+    seq: 3
+    goal: "第5文型の因果関係（Sが原因→OがCになる）を具体例で説明できる"
+  - node_id: "nrv-004"
+    seq: 4
+    goal: "未知の動詞でも文型から意味を類推する方法を説明できる"
+  # nrv-005
+  - node_id: "nrv-005"
+    seq: 1
+    goal: "cost+O₁+O₂の根本的な意味「SによってO₁からO₂が消える」を説明できる"
+  - node_id: "nrv-005"
+    seq: 2
+    goal: "spare+O₁+O₂の2つの意味（省く / 割く）を使い分けられる"
+  - node_id: "nrv-005"
+    seq: 3
+    goal: "spare と save の共通点と相違点を説明できる"
+  - node_id: "nrv-005"
+    seq: 4
+    goal: "do+O₁+O₂のO₂に置ける語（good, harm等）の限定を説明できる"
+  # nrv-006
+  - node_id: "nrv-006"
+    seq: 1
+    goal: "第5文型のCに動詞を置くときの原則（to V）とそのイメージ（到達の→）を説明できる"
+  - node_id: "nrv-006"
+    seq: 2
+    goal: "V+O+to Vをとる動詞の共通的特徴（働きかけ動詞）を説明できる"
+  - node_id: "nrv-006"
+    seq: 3
+    goal: "Cにto Vを置けない例外（使役動詞・知覚動詞）があることを説明できる"
+  # nrv-007
+  - node_id: "nrv-007"
+    seq: 1
+    goal: "make, let, have, get それぞれのCに置かれる動詞の形を正確に列挙できる"
+  - node_id: "nrv-007"
+    seq: 2
+    goal: "make（無理強い）・let（自由容認）・have（依頼）・get（説得）の意味の違いを説明できる"
+  - node_id: "nrv-007"
+    seq: 3
+    goal: "have+O+Vp.p.の3パターン（依頼・被害・完了）を訳し分けられる"
+  - node_id: "nrv-007"
+    seq: 4
+    goal: "使役動詞の受動態（be made to V）の形を説明できる"
+  - node_id: "nrv-007"
+    seq: 5
+    goal: "使役動詞のCにto Vが似合わない理由を説明できる"
+  # nrv-008
+  - node_id: "nrv-008"
+    seq: 1
+    goal: "知覚動詞のCに置かれる3つの形（V原形・Ving・Vp.p.）を列挙できる"
+  - node_id: "nrv-008"
+    seq: 2
+    goal: "V原形とVingの意味の違い（一部始終 vs 途中）を説明できる"
+  - node_id: "nrv-008"
+    seq: 3
+    goal: "知覚動詞のCにtoVが置けない理由を説明できる"
+  - node_id: "nrv-008"
+    seq: 4
+    goal: "知覚動詞・使役動詞makeの受動態で原形がtoVに変化することを説明できる"
+  # nrv-009
+  - node_id: "nrv-009"
+    seq: 1
+    goal: "keep（保持）・leave（放置）・find（気づく）のSVOCでの意味の違いを説明できる"
+  - node_id: "nrv-009"
+    seq: 2
+    goal: "keep/leave/findのCに置かれる形（形容詞・Ving・Vp.p.）を説明できる"
+  - node_id: "nrv-009"
+    seq: 3
+    goal: "思考・認識系動詞のSVOCでの(to be)省略とthat節書き換えを説明できる"
+  - node_id: "nrv-009"
+    seq: 4
+    goal: "能動/受動の判別で自動詞・他動詞と目的語の有無を使うテクニックを説明できる"
+  # nrv-010
+  - node_id: "nrv-010"
+    seq: 1
+    goal: "自動詞と他動詞の区別方法（前置詞の有無）を説明できる"
+  - node_id: "nrv-010"
+    seq: 2
+    goal: "英語の動詞は他動詞が多数派であり、少数派の自動詞を覚える戦略が効率的であることを説明できる"
+  - node_id: "nrv-010"
+    seq: 3
+    goal: "同じ動詞が自動詞・他動詞両方の用法を持つことを具体例で示せる"
+  - node_id: "nrv-010"
+    seq: 4
+    goal: "lie/layの意味・活用の違いを正確に区別できる"
+  # nrv-011
+  - node_id: "nrv-011"
+    seq: 1
+    goal: "5文型では効率的に理解できない動詞があることを説明し、〈V+A+前置詞+B〉パターンの意義を述べられる"
+  - node_id: "nrv-011"
+    seq: 2
+    goal: "withの基本イメージ「もって、もっている」から「与える・供給」と「関連・結合」の2つの意味を導出できる"
+  - node_id: "nrv-011"
+    seq: 3
+    goal: "未知の動詞でも〈V+A+with+B〉パターンから意味を推測する方法を実践できる"
+  # nrv-012
+  - node_id: "nrv-012"
+    seq: 1
+    goal: "fromの基本イメージ「出所→切り離す」から妨害・保護・区別の3つの意味を導出できる"
+  - node_id: "nrv-012"
+    seq: 2
+    goal: "〈V+A+from+B〉の妨害・禁止パターンでBに置かれる形（Ving）を説明できる"
+  - node_id: "nrv-012"
+    seq: 3
+    goal: "intoの基本イメージ「内部への移動→変化」から移動・変化の2つの意味を導出できる"
+  - node_id: "nrv-012"
+    seq: 4
+    goal: "前置詞の基本イメージから〈V+A+前置詞+B〉パターンの動詞の意味を推測する方法を実践できる"
   # nrv-016
   - node_id: "nrv-016"
     seq: 1
@@ -102,6 +525,189 @@ check_points:
     seq: 4
     question: "(✕) We are happiness. はなぜ不可か？"
     answer: "Cに名詞を置く場合、SとCは厳密なイコール関係が必要。happiness（幸福）は人を表すWeと厳密にイコールになれない。正しくは We are happy.（形容詞を使う）。"
+  # nrv-002
+  - node_id: "nrv-002"
+    seq: 1
+    question: "第4文型と第5文型の判別方法は？"
+    answer: "動詞の後ろに並ぶ2つの要素にイコール関係があるかを確認。不成立→O₁+O₂（第4文型）、成立→O+C（第5文型）。"
+  - node_id: "nrv-002"
+    seq: 2
+    question: "第4文型のO₁・O₂になれる品詞は？"
+    answer: "名詞のみ。O₁もO₂もどちらも名詞。"
+  - node_id: "nrv-002"
+    seq: 3
+    question: "〈S+V+O+C〉のCになれる品詞は？ 〈S+V+C〉のCとの違いは？"
+    answer: "形容詞と名詞の両方。〈S+V+C〉のCは形容詞がほとんどだが、〈S+V+O+C〉のCには名詞も多い。"
+  - node_id: "nrv-002"
+    seq: 4
+    question: "5文型の判別で一番大切な着目ポイントは？"
+    answer: "動詞の後ろに何がどのような順番で置かれているかに着目すること。(M)→第1、C→第2、O→第3、O₁+O₂→第4、O+C→第5。"
+  # nrv-003
+  - node_id: "nrv-003"
+    seq: 1
+    question: "同じ動詞getが文型によってどう意味が変わるか？"
+    answer: "第1文型（I got to Rome）→到着する、第2文型（She got angry）→変化する、第3文型（I got money）→手に入れる。"
+  - node_id: "nrv-003"
+    seq: 2
+    question: "第1文型に用いられる動詞の意味は主にどんなものか？"
+    answer: "存在（be, exist, lie, stand, stay, live）、移動（go, come, move, travel）、出発（leave, start, depart）、到着（arrive, get）。"
+  - node_id: "nrv-003"
+    seq: 3
+    question: "第2文型〈S+V+C〉の動詞の3分類は？"
+    answer: "状態（be, remain, keep, stay等）、変化（get, become, go, grow, turn等）、感覚・印象（seem, look, sound, feel, taste, smell等）。"
+  - node_id: "nrv-003"
+    seq: 4
+    question: "found the book easily と found the book easy はどう違うか？"
+    answer: "easily（副詞→M）は第3文型でfind=見つける。easy（形容詞→C）は第5文型でfind=わかる。"
+  # nrv-004
+  - node_id: "nrv-004"
+    seq: 1
+    question: "第4文型〈S+V+O₁+O₂〉の基本的な意味は？"
+    answer: "「SはO₁にO₂を与える」。未知の動詞でも第4文型だとわかれば「与える」で意味を類推できる。"
+  - node_id: "nrv-004"
+    seq: 2
+    question: "第5文型の動詞の2大分類は？"
+    answer: "(1)知覚・認識系（see, hear, feel, think, believe, find等）→「OがCだと知覚・認識する」、(2)それ以外（make, have, let等）→「Sが原因でOがCになる」（因果関係）。"
+  - node_id: "nrv-004"
+    seq: 3
+    question: "The student made her angry. でSとO+Cの意味関係は？"
+    answer: "因果関係。生徒（原因）→彼女が怒る（結果）。第5文型（知覚・認識系以外）は原因と結果の関係を読み取る。"
+  - node_id: "nrv-004"
+    seq: 4
+    question: "I got her a smartphone. を第4文型の法則で訳すと？"
+    answer: "「彼女にスマートフォンを与えた→買ってやった」。getの「得る」の意味から「与える」で類推できる。"
+  # nrv-005
+  - node_id: "nrv-005"
+    seq: 1
+    question: "cost+O₁+O₂の根本的な意味は？ costの主語の制約は？"
+    answer: "「SによってO₁からO₂が消える」。costの主語は「物事」が原則で、「人」は置かない。"
+  - node_id: "nrv-005"
+    seq: 2
+    question: "spare+O₁+O₂には2つの意味があるが、saveとの共通点・相違点は？"
+    answer: "共通: 両方とも「O₁のO₂を省く（軽減する）」の意味がある。相違: spareには「O₁にO₂を割く」の意味もあるが、saveにはない。"
+  - node_id: "nrv-005"
+    seq: 3
+    question: "do+O₁+O₂のO₂に置ける語は？ giveで置き換えられるか？"
+    answer: "O₂はgood（利益）、harm（害）、damage（被害）など限定的。giveで置き換えることはできない。"
+  # nrv-006
+  - node_id: "nrv-006"
+    seq: 1
+    question: "〈S+V+O+C〉のCに動詞を置くときの原則は？"
+    answer: "to V（不定詞）を置くのが原則。toを右向き矢印（→）と考え、Oが→C（toV）へ到達するイメージ。"
+  - node_id: "nrv-006"
+    seq: 2
+    question: "V+O+to Vをとる動詞にはどのような共通的特徴があるか？"
+    answer: "忠告・説得・勧誘・強制など、何らかの「働きかけ」をする動詞が多い（advise, persuade, encourage, force等）。"
+  - node_id: "nrv-006"
+    seq: 3
+    question: "Cにto Vを置けない例外的な動詞は？"
+    answer: "使役動詞（make, let, have）と知覚動詞（see, hear, feel等）。特別な名前がついている動詞は例外。"
+  # nrv-007
+  - node_id: "nrv-007"
+    seq: 1
+    question: "make, let, have, get それぞれのCに置かれる動詞の形は？"
+    answer: "make: 能動→原形/受動→Vp.p.。let: 原形のみ。have: 能動→原形/受動→Vp.p.。get: 能動→to V/受動→Vp.p.。"
+  - node_id: "nrv-007"
+    seq: 2
+    question: "make・let・have・get の意味の違いは？"
+    answer: "make: 無理強い。let: 自由容認。have: 当然の相手に依頼。get: 説得して頼み込む。"
+  - node_id: "nrv-007"
+    seq: 3
+    question: "have+O+Vp.p.の3つの訳し分けパターンは？"
+    answer: "❶依頼・使役（OをCしてもらう）、❷被害（OをCされる）、❸完了（OをCしてしまう）。"
+  - node_id: "nrv-007"
+    seq: 4
+    question: "使役動詞を受動態にできるのはどれか？ その形は？"
+    answer: "makeのみ。be made to V の形になる。have, let は受動態にしない。"
+  - node_id: "nrv-007"
+    seq: 5
+    question: "have と get の被害用法の違いは？"
+    answer: "have: 意志のある「人」による被害（wallet stolen）。get: 意志のない「もの」による被害（fingers caught in doors）。"
+  # nrv-008
+  - node_id: "nrv-008"
+    seq: 1
+    question: "知覚動詞のCに置かれる形は能動・受動それぞれ何か？"
+    answer: "能動→V（原形）かVing、受動→Vp.p.（過去分詞）。使役動詞と違い、能動に2つの選択肢がある。"
+  - node_id: "nrv-008"
+    seq: 2
+    question: "I saw my friend walk と I saw my friend walking の意味の違いは？"
+    answer: "walk（原形）＝通りを渡る一部始終を見た。walking（Ving）＝渡っている途中を見た。"
+  - node_id: "nrv-008"
+    seq: 3
+    question: "知覚動詞のCにtoVが置けない理由は？"
+    answer: "toVは「まだ行われていない・これからのこと」を表す。実際に起きているからこそ見たり聞いたりできるので、toVは似合わない。"
+  - node_id: "nrv-008"
+    seq: 4
+    question: "We heard him sing that song. を受動態にすると？"
+    answer: "He was heard to sing that song.　V（原形）のsingがto singに変化する。Vingの場合は受動態にしてもそのまま。"
+  # nrv-009
+  - node_id: "nrv-009"
+    seq: 1
+    question: "keep+O+C と leave+O+C の意味の違いは？"
+    answer: "keep＝意識して保つ（保持）、leave＝ほったらかし（放置）。"
+  - node_id: "nrv-009"
+    seq: 2
+    question: "I think her (to be) very kind. のto beは省略できるか？ that節に書き換えると？"
+    answer: "省略可能。I think that she is very kind. に書き換えられる。"
+  - node_id: "nrv-009"
+    seq: 3
+    question: "I kept the machine ___.(run) の空欄には何が入るか？"
+    answer: "running。OとCは能動関係（the machine is running）。keepは保持の意味。"
+  - node_id: "nrv-009"
+    seq: 4
+    question: "make myself (understand / understood) の正解と理由は？"
+    answer: "understood。understandは他動詞だが後ろに目的語がない→受動→Vp.p.を選ぶ。"
+  # nrv-010
+  - node_id: "nrv-010"
+    seq: 1
+    question: "他動詞と自動詞の一番の違いは？"
+    answer: "他動詞は前置詞なしで後ろに名詞を置ける。自動詞は前置詞を置かないと名詞を置けない。"
+  - node_id: "nrv-010"
+    seq: 2
+    question: "mention と refer の違いは？ それぞれ自動詞・他動詞どちらか？"
+    answer: "mentionは他動詞（mention the accident）。referは自動詞（refer to the accident）で前置詞toが必要。"
+  - node_id: "nrv-010"
+    seq: 3
+    question: "英語の動詞は自動詞と他動詞のどちらが多い？ 効率的な学習法は？"
+    answer: "他動詞が圧倒的に多い。少数派の自動詞を見つけたら積極的に覚えていく方が効率的。"
+  - node_id: "nrv-010"
+    seq: 4
+    question: "lie と lay の意味と活用の違いは？"
+    answer: "lie（自動詞）: ある、存在する（lie-lay-lain）。lay（他動詞）: 置く（lay-laid-laid）。"
+  - node_id: "nrv-010"
+    seq: 5
+    question: "大半の動詞は自動詞・他動詞どちらか一方に分類できるか？"
+    answer: "一方に分類できるわけではない。大半の動詞は両方の用法を持つ。ただし通常はどちらかに偏る。"
+  # nrv-011
+  - node_id: "nrv-011"
+    seq: 1
+    question: "〈V+A+前置詞+B〉を攻略する2つの注目ポイントは？"
+    answer: "(1) それぞれの前置詞の意味に注目する。(2) パターンが似ていると意味も似てくるという法則を活用する。"
+  - node_id: "nrv-011"
+    seq: 2
+    question: "〈V+A+with+B〉の2つの意味は？ withの基本イメージとの関係は？"
+    answer: "❶与える・供給、❷関連・結合。withの基本イメージ「もって、もっている」から、AがBをもっている→与える。AとBに関連が生まれる→関連・結合。"
+  - node_id: "nrv-011"
+    seq: 3
+    question: "endowの意味を知らなくても、Mr. Lawson endowed the college with a large sum of money. をどう訳せるか？"
+    answer: "V+A+with+Bのパターンから❶与える・供給をあてはめ、「大学に多額のお金を与えた（→寄付した）」と推測できる。"
+  # nrv-012
+  - node_id: "nrv-012"
+    seq: 1
+    question: "〈V+A+from+B〉の3つの意味は？ fromの基本イメージとの関係は？"
+    answer: "fromの基本「出所→切り離す」から: ❶妨害・禁止（AにBさせない）、❷保護（AをBから守る）、❸区別（AをBと区別する）。"
+  - node_id: "nrv-012"
+    seq: 2
+    question: "prevent A from B のBに置かれる形は？ その理由は？"
+    answer: "Bには基本的にVing（動名詞）が置かれる。「AがBするのを妨げる」という意味で、Bには動作を表す語が来るため。"
+  - node_id: "nrv-012"
+    seq: 3
+    question: "〈V+A+into+B〉の2つの意味は？ intoの基本イメージとの関係は？"
+    answer: "intoの基本「内部への移動→変化」から: ❶AがBの内部に入る（移動）、❷Aが変化してBになる（変化）。「変化」を表すものが多い。"
+  - node_id: "nrv-012"
+    seq: 4
+    question: "She translated an Italian novel into English. のA→Bの関係は「移動」と「変化」のどちらか？"
+    answer: "変化。イタリア語の小説（A）が変化して英語（B）になるイメージ。translateは「変化」カテゴリの動詞。"
   # nrv-016
   - node_id: "nrv-016"
     seq: 1
@@ -124,13 +730,77 @@ check_points:
     question: "speak が他動詞として使える場合は？"
     answer: "「言語など」を目的語にとる場合（speak Japanese など）。言葉を発することに重点がある動詞だから。"
 
-node_prerequisites: []
+node_prerequisites:
+  - node_id: "nrv-002"
+    prerequisite_id: "nrv-001"
+  - node_id: "nrv-003"
+    prerequisite_id: "nrv-001"
+  - node_id: "nrv-004"
+    prerequisite_id: "nrv-002"
+  - node_id: "nrv-005"
+    prerequisite_id: "nrv-004"
+  - node_id: "nrv-006"
+    prerequisite_id: "nrv-002"
+  - node_id: "nrv-007"
+    prerequisite_id: "nrv-006"
+  - node_id: "nrv-008"
+    prerequisite_id: "nrv-007"
+  - node_id: "nrv-009"
+    prerequisite_id: "nrv-004"
+  - node_id: "nrv-011"
+    prerequisite_id: "nrv-010"
+  - node_id: "nrv-012"
+    prerequisite_id: "nrv-011"
 
 knowledge_references:
   - node_id: "nrv-001"
     book: "成川の深めて解ける！英文法 INPUT"
     section_id: "Nar_01_01"
     pages: "p.18-19"
+  - node_id: "nrv-002"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_02"
+    pages: "p.20-21"
+  - node_id: "nrv-003"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_03"
+    pages: "p.22-24"
+  - node_id: "nrv-004"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_04"
+    pages: "p.25-27"
+  - node_id: "nrv-005"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_05"
+    pages: "p.28-30"
+  - node_id: "nrv-006"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_06"
+    pages: "p.31-32"
+  - node_id: "nrv-007"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_07"
+    pages: "p.33-35"
+  - node_id: "nrv-008"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_08"
+    pages: "p.36-38"
+  - node_id: "nrv-009"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_09"
+    pages: "p.39-41"
+  - node_id: "nrv-010"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_10"
+    pages: "p.42-44"
+  - node_id: "nrv-011"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_11"
+    pages: "p.45-47"
+  - node_id: "nrv-012"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_12"
+    pages: "p.48-50"
   - node_id: "nrv-016"
     book: "成川の深めて解ける！英文法 INPUT"
     section_id: "Nar_01_16"

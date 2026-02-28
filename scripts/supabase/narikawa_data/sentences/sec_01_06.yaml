@@ -1,0 +1,55 @@
+# Nar_01_06: 〈S+V+O+toV〉をとる重要動詞（p.31-32）
+
+sentences:
+  - id: "nar-0106-e020"
+    section_id: "Nar_01_06"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I advised her to put her smartphone into silent mode on trains."
+    japanese: "私は彼女に電車ではスマートフォンはマナーモードにした方がいいと忠告した"
+    notes: "V+O+toV の原則パターン。advise（忠告＝働きかけ動詞）"
+  - id: "nar-0106-e021"
+    section_id: "Nar_01_06"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "The man forced me to sign my name."
+    japanese: "その男は無理やり私に署名させた"
+    notes: "force+O+toV。「強制」の働きかけ動詞。toV が使える"
+  - id: "nar-0106-e022"
+    section_id: "Nar_01_06"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "His father always makes his son study."
+    japanese: "彼の父親はいつも息子に勉強させる"
+    notes: "make+O+V（原形）。使役動詞はtoVを置けない例外。021との対比が重要"
+
+sentence_structures:
+  - sentence_id: "nar-0106-e020"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0106-e020"
+    label: "details"
+    value: "<I>(S) advised(V) <her>(O) <to put her smartphone into silent mode on trains>(C:toV句)"
+  - sentence_id: "nar-0106-e021"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0106-e021"
+    label: "details"
+    value: "<The man>(S) forced(V) <me>(O) <to sign my name>(C:toV句)"
+  - sentence_id: "nar-0106-e022"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0106-e022"
+    label: "details"
+    value: "<His father>(S) always makes(V) <his son>(O) <study>(C:原形)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0106-e020"
+    node_id: "nrv-006"
+  - sentence_id: "nar-0106-e021"
+    node_id: "nrv-006"
+  - sentence_id: "nar-0106-e022"
+    node_id: "nrv-006"

@@ -1,0 +1,103 @@
+# Nar_01_12: パターンで理解する動詞(2) — V+A+from+B / into+B（p.48-50）
+
+sentences:
+  - id: "nar-0112-e046"
+    section_id: "Nar_01_12"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "The rumor came from her."
+    japanese: "そのうわさは彼女から出ていた"
+    notes: "fromの基本イメージ「出所」の導入例"
+  - id: "nar-0112-e047"
+    section_id: "Nar_01_12"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Illness prevented her from going out."
+    japanese: "彼女は病気のため外出できなかった"
+    notes: "V+A+from+B（妨害・禁止）。AとBが切り離される→AにBさせない"
+  - id: "nar-0112-e048"
+    section_id: "Nar_01_12"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "They rescued the boy from drowning."
+    japanese: "彼らは少年が溺れ死ぬのを救った"
+    notes: "V+A+from+B（保護）。AをBから切り離す→保護する"
+  - id: "nar-0112-e049"
+    section_id: "Nar_01_12"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "We have to distinguish right from wrong."
+    japanese: "私たちは善と悪を区別しなくてはならない"
+    notes: "V+A+from+B（区別）。AとBを切り離す→別個にグループ分け"
+  - id: "nar-0112-e050"
+    section_id: "Nar_01_12"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "He put my clothes into his suitcase."
+    japanese: "彼は私の服をスーツケースの中に入れた"
+    notes: "V+A+into+B（移動）。AがBの内部へ"
+  - id: "nar-0112-e051"
+    section_id: "Nar_01_12"
+    drill: 0
+    number: 6
+    role: "example"
+    english: "She translated an Italian novel into English."
+    japanese: "彼女はイタリア語の小説を英語に訳した"
+    notes: "V+A+into+B（変化）。Aが変化してBになる"
+
+sentence_structures:
+  - sentence_id: "nar-0112-e046"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0112-e046"
+    label: "details"
+    value: "<The rumor>(S) came(V) [from her](M:前置詞句) ※fromの基本イメージ導入"
+  - sentence_id: "nar-0112-e047"
+    label: "overall"
+    value: "S V A from B"
+  - sentence_id: "nar-0112-e047"
+    label: "details"
+    value: "<Illness>(S) prevented(V) <her>(A) from <going out>(B)"
+  - sentence_id: "nar-0112-e048"
+    label: "overall"
+    value: "S V A from B"
+  - sentence_id: "nar-0112-e048"
+    label: "details"
+    value: "<They>(S) rescued(V) <the boy>(A) from <drowning>(B)"
+  - sentence_id: "nar-0112-e049"
+    label: "overall"
+    value: "S V A from B"
+  - sentence_id: "nar-0112-e049"
+    label: "details"
+    value: "<We>(S) have to distinguish(V) <right>(A) from <wrong>(B)"
+  - sentence_id: "nar-0112-e050"
+    label: "overall"
+    value: "S V A into B"
+  - sentence_id: "nar-0112-e050"
+    label: "details"
+    value: "<He>(S) put(V) <my clothes>(A) into <his suitcase>(B)"
+  - sentence_id: "nar-0112-e051"
+    label: "overall"
+    value: "S V A into B"
+  - sentence_id: "nar-0112-e051"
+    label: "details"
+    value: "<She>(S) translated(V) <an Italian novel>(A) into <English>(B)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0112-e046"
+    node_id: "nrv-012"
+  - sentence_id: "nar-0112-e047"
+    node_id: "nrv-012"
+  - sentence_id: "nar-0112-e048"
+    node_id: "nrv-012"
+  - sentence_id: "nar-0112-e049"
+    node_id: "nrv-012"
+  - sentence_id: "nar-0112-e050"
+    node_id: "nrv-012"
+  - sentence_id: "nar-0112-e051"
+    node_id: "nrv-012"

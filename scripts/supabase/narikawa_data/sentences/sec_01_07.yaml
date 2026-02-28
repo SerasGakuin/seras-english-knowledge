@@ -1,0 +1,87 @@
+# Nar_01_07: 使役動詞を用いた〈S+V+O+C〉（p.33-35）
+
+sentences:
+  - id: "nar-0107-e023"
+    section_id: "Nar_01_07"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "He made his son do homework."
+    japanese: "彼は息子に宿題をさせた"
+    notes: "make+O+V（原形）。能動関係。無理強いのmake"
+  - id: "nar-0107-e024"
+    section_id: "Nar_01_07"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "He made his hair cut."
+    japanese: "彼は自分の髪を無理やり切らせた"
+    notes: "make+O+Vp.p.。受動関係。"
+  - id: "nar-0107-e025"
+    section_id: "Nar_01_07"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "We let him go there."
+    japanese: "私たちは彼をそこへ行かせた"
+    notes: "let+O+V（原形）のみ。自由容認のlet"
+  - id: "nar-0107-e026"
+    section_id: "Nar_01_07"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "She had the bellboy take up her bags."
+    japanese: "彼女はベルボーイに荷物を運んでもらった"
+    notes: "have+O+V（原形）。能動関係。依頼のhave"
+  - id: "nar-0107-e027"
+    section_id: "Nar_01_07"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "He had his hair cut."
+    japanese: "彼は自分の髪を切ってもらった"
+    notes: "have+O+Vp.p.。受動関係。依頼のhave（024のmakeとの対比）"
+
+sentence_structures:
+  - sentence_id: "nar-0107-e023"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0107-e023"
+    label: "details"
+    value: "<He>(S) made(V) <his son>(O) <do homework>(C:原形)"
+  - sentence_id: "nar-0107-e024"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0107-e024"
+    label: "details"
+    value: "<He>(S) made(V) <his hair>(O) <cut>(C:Vp.p.)"
+  - sentence_id: "nar-0107-e025"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0107-e025"
+    label: "details"
+    value: "<We>(S) let(V) <him>(O) <go there>(C:原形)"
+  - sentence_id: "nar-0107-e026"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0107-e026"
+    label: "details"
+    value: "<She>(S) had(V) <the bellboy>(O) <take up her bags>(C:原形)"
+  - sentence_id: "nar-0107-e027"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0107-e027"
+    label: "details"
+    value: "<He>(S) had(V) <his hair>(O) <cut>(C:Vp.p.)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0107-e023"
+    node_id: "nrv-007"
+  - sentence_id: "nar-0107-e024"
+    node_id: "nrv-007"
+  - sentence_id: "nar-0107-e025"
+    node_id: "nrv-007"
+  - sentence_id: "nar-0107-e026"
+    node_id: "nrv-007"
+  - sentence_id: "nar-0107-e027"
+    node_id: "nrv-007"

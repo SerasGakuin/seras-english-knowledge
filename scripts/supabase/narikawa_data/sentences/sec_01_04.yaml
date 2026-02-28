@@ -1,0 +1,71 @@
+# Nar_01_04: 5文型攻略のメリット(2)（p.25-27）
+
+sentences:
+  - id: "nar-0104-e011"
+    section_id: "Nar_01_04"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I got her a smartphone."
+    japanese: "私は彼女にスマートフォンを買ってやった"
+    notes: "第4文型。getの第4文型用法。「与える」の法則で意味を類推"
+  - id: "nar-0104-e012"
+    section_id: "Nar_01_04"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "I saw him running."
+    japanese: "私は彼が走っているところを目にした"
+    notes: "第5文型。知覚動詞see。「OがCしているのが見える」"
+  - id: "nar-0104-e013"
+    section_id: "Nar_01_04"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "She got the wall dirty."
+    japanese: "彼女はその壁を汚した"
+    notes: "第5文型。因果関係: She（原因）→the wall dirty（結果）"
+  - id: "nar-0104-e014"
+    section_id: "Nar_01_04"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "The student made her angry."
+    japanese: "その生徒は彼女を怒らせた"
+    notes: "第5文型。因果関係: The student（原因）→her angry（結果）"
+
+sentence_structures:
+  - sentence_id: "nar-0104-e011"
+    label: "overall"
+    value: "S V O₁ O₂"
+  - sentence_id: "nar-0104-e011"
+    label: "details"
+    value: "<I>(S) got(V) <her>(O₁) <a smartphone>(O₂)"
+  - sentence_id: "nar-0104-e012"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0104-e012"
+    label: "details"
+    value: "<I>(S) saw(V) <him>(O) <running>(C:Ving)"
+  - sentence_id: "nar-0104-e013"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0104-e013"
+    label: "details"
+    value: "<She>(S) got(V) <the wall>(O) <dirty>(C:形容詞)"
+  - sentence_id: "nar-0104-e014"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0104-e014"
+    label: "details"
+    value: "<The student>(S) made(V) <her>(O) <angry>(C:形容詞)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0104-e011"
+    node_id: "nrv-004"
+  - sentence_id: "nar-0104-e012"
+    node_id: "nrv-004"
+  - sentence_id: "nar-0104-e013"
+    node_id: "nrv-004"
+  - sentence_id: "nar-0104-e014"
+    node_id: "nrv-004"

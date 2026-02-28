@@ -1,0 +1,55 @@
+# Nar_01_02: 第4〜5文型の判別方法（p.20-21）
+
+sentences:
+  - id: "nar-0102-e004"
+    section_id: "Nar_01_02"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "He made her a meal."
+    japanese: "彼は彼女に食事をつくってあげた"
+    notes: "第4文型。her ≠ a meal → O₁+O₂"
+  - id: "nar-0102-e005"
+    section_id: "Nar_01_02"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "He will make her happy."
+    japanese: "彼は彼女を幸せにするだろう"
+    notes: "第5文型。her = happy → O+C（Cは形容詞）"
+  - id: "nar-0102-e006"
+    section_id: "Nar_01_02"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "We made her chairperson."
+    japanese: "私たちは彼女を議長にした"
+    notes: "第5文型。her = chairperson → O+C（Cに名詞）"
+
+sentence_structures:
+  - sentence_id: "nar-0102-e004"
+    label: "overall"
+    value: "S V O₁ O₂"
+  - sentence_id: "nar-0102-e004"
+    label: "details"
+    value: "<He>(S) made(V) <her>(O₁) <a meal>(O₂)"
+  - sentence_id: "nar-0102-e005"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0102-e005"
+    label: "details"
+    value: "<He>(S) will make(V) <her>(O) <happy>(C:形容詞)"
+  - sentence_id: "nar-0102-e006"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0102-e006"
+    label: "details"
+    value: "<We>(S) made(V) <her>(O) <chairperson>(C:名詞)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0102-e004"
+    node_id: "nrv-002"
+  - sentence_id: "nar-0102-e005"
+    node_id: "nrv-002"
+  - sentence_id: "nar-0102-e006"
+    node_id: "nrv-002"

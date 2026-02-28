@@ -1,0 +1,87 @@
+# Nar_01_09: 〈S+V+O+C〉をとるその他の重要動詞（p.39-41）
+
+sentences:
+  - id: "nar-0109-e031"
+    section_id: "Nar_01_09"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I kept the machine running."
+    japanese: "私はその機械を運転し続けた"
+    notes: "keep+O+C(Ving)。意識して保つ（保持）"
+  - id: "nar-0109-e032"
+    section_id: "Nar_01_09"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Don't leave the engine switched on."
+    japanese: "エンジンをつけっ放しにしてはいけないよ"
+    notes: "leave+O+C(Vp.p.)。ほったらかし（放置）"
+  - id: "nar-0109-e033"
+    section_id: "Nar_01_09"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "I found her crying."
+    japanese: "彼女が泣いているのに気づいた"
+    notes: "find+O+C(Ving)。気づく、わかる"
+  - id: "nar-0109-e034"
+    section_id: "Nar_01_09"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "I think her (to be) very kind."
+    japanese: "彼女はとてもやさしいと私は思う"
+    notes: "思考動詞+O+(to be)+C。to beは省略可能"
+  - id: "nar-0109-e035"
+    section_id: "Nar_01_09"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "I believed her (to be) very kind."
+    japanese: "彼女はとてもやさしいと私は信じていた"
+    notes: "思考動詞+O+(to be)+C。that節書き換え可: I believed that she was very kind."
+
+sentence_structures:
+  - sentence_id: "nar-0109-e031"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0109-e031"
+    label: "details"
+    value: "<I>(S) kept(V) <the machine>(O) <running>(C:Ving)"
+  - sentence_id: "nar-0109-e032"
+    label: "overall"
+    value: "V O C"
+  - sentence_id: "nar-0109-e032"
+    label: "details"
+    value: "Don't leave(V) <the engine>(O) <switched on>(C:Vp.p.)"
+  - sentence_id: "nar-0109-e033"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0109-e033"
+    label: "details"
+    value: "<I>(S) found(V) <her>(O) <crying>(C:Ving)"
+  - sentence_id: "nar-0109-e034"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0109-e034"
+    label: "details"
+    value: "<I>(S) think(V) <her>(O) <(to be) very kind>(C:形容詞)"
+  - sentence_id: "nar-0109-e035"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0109-e035"
+    label: "details"
+    value: "<I>(S) believed(V) <her>(O) <(to be) very kind>(C:形容詞)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0109-e031"
+    node_id: "nrv-009"
+  - sentence_id: "nar-0109-e032"
+    node_id: "nrv-009"
+  - sentence_id: "nar-0109-e033"
+    node_id: "nrv-009"
+  - sentence_id: "nar-0109-e034"
+    node_id: "nrv-009"
+  - sentence_id: "nar-0109-e035"
+    node_id: "nrv-009"
