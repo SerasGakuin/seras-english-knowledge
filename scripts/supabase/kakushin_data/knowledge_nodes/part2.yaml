@@ -62,6 +62,190 @@ knowledge_nodes:
       ・「動詞の意味を暗記→文脈で訳し分ける」ではなく「文型を見抜いて意味を予想する」が先。
       参考書内参照: →p.75「注意すべき他動詞」（同テーマ内）
 
+  - id: "kvt-004"
+    name: "第4文型SVOOと「与える/奪う」の意味予測"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      第4文型SVOOの特徴: 目的語が2つ。V 人 物「人に物を与える」が基本形。O₁=与える相手（～に）、O₂=与える物（～を）。
+      「与える」系動詞: give系（teach/show/lend/send）はすべてgive「与える」がベース。teach=知識を与える、show=視覚情報を与える、lend=一時的に与える、send=送るという手段で与える。
+      do 人 物「人に物を与える」: doに「与える」の意味。ただし物にくる名詞は「善悪・利害」に関するものに限定（good/harm/damage/a favor等）。
+      「奪う」系動詞（V 人 物「人から物を奪う」）:
+      [図表: 表 — 「奪う」系統の動詞一覧。take 人 時間 / cost 人 金(命も可) / save 人 手間 / spare 人 手間 / owe 人 金（p.84）]
+      ※ギブ＆テイク: give「与える」の反対がtake「とる・奪う」。この対概念で「与える」系と「奪う」系を整理。すべて「V 人 物」が共通形。
+      spareの意味判別: 「与える」と「奪う」の両方の意味を持つ。物にくる名詞の種類で判別。
+      ① spare 人 時間・お金 →「与える」（余ったものを与える=割く）
+      ② spare 人 マイナス単語（trouble等）→「奪う」
+      ※あくまで傾向。文脈がおかしければスイッチして考え直す。
+      知らない動詞の意味予測: V 人 物の形なら「与える」と考えればOK。「奪う」系はtake/cost/save/spare/oweだけ覚えれば、残りは全て「与える」で予測可能。
+      It takes 人 時間 to ~「人が~するのに時間がかかる」: Itは仮主語、to~が真主語。人はよく省略される。公式丸暗記ではなく「take 人 物」の形として理解する。
+
+  - id: "kvt-005"
+    name: "第5文型SVOCと使役・知覚動詞"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      SVOO vs SVOC判別:
+      [図表: 表 — 第4文型(O₁≠O₂) vs 第5文型(O＝C)の判別。共通点: Vの後ろに2つの要素（p.87）]
+      Cに形容詞がきたら（SVO+形容詞）即断でSVOC。
+      SVOCを理解する3ステップ:
+      step1: SVOCをとる動詞に反応（使役/知覚/使役もどき/命名系/SV人to~/help）
+      step2: OとCの関係を把握（形容詞・名詞→O=C、動詞関係→s'v'の関係）
+      step3: s'v'の吟味（能動「する」vs 受動「される」）
+      Cの形式:
+      ① 能動(s'がv'する): (a) 原形/to不定詞 (b) -ing
+      ② 受動(s'がv'される): p.p./to be p.p.
+      原形/to不定詞はカードの裏表:
+      使役・知覚動詞（セレブ）→ 原形をとれる（to不定詞は不可）
+      その他の動詞（庶民: allow/enable等）→ to不定詞をとる（原形は不可）
+      ※使役・知覚動詞は-ing・p.p.もとれる（原形「しか」とれないわけではない）
+      使役動詞（3つだけ）:
+      make（強制・必然）: 「OCの状態をつくる」。必ずしも「無理やり」ではなく「必然的・結果的に~になる」でも使用。
+      have（利害）: 「させた・してもらった・された」は立場の違いだけで現象は同じ。訳し方の暗記ではなく「利害」で理解。
+      let（許可）: 「好きなように~させてあげる」。命令文 Let me 原形.「私に~させて」が頻出。
+      知覚動詞: see/hear/feel/findの4つで入試9割対応。使い方は使役動詞と同じ（反応→s'v'→能動/受動）。
+      重要表現: make oneself understood「話が通じる」=「自分自身が理解される（ようにする）」
+
+  - id: "kvt-006"
+    name: "SVOCの発展動詞（使役もどき・命名系・SV人to~・help）"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      使役もどき（keep/leave/get）: 使役動詞に意味はそっくりだが、原形をとれない（セレブ特権なし）ので明確に区別。
+      keep「OをCの状態に保つ」/ leave「OをCの状態のまま放っておく」/ get「OにCさせる」
+      getの形: get O to原形 / get O -ing / get O p.p.
+      keepの形: keep O -ing / keep O p.p. / keep O 形容詞
+      leaveの形: leave O -ing / leave O p.p. / leave O 形容詞
+      「させっぱなし」の頻出5パターン:
+      ① 水流しっぱなし leave[keep] the water running
+      ② エンジンかけっぱなし leave[keep] the engine running
+      ③ 彼女待たせっぱなし keep[leave] her waiting
+      ④ ドアにカギかけっぱなし keep[leave] the door locked
+      ⑤ マド開けっぱなし leave[keep] the window open ※openは形容詞
+      ※keep=わかってて放置、leave=無意識or意識的放置（入試では問われない）
+      命名系の動詞: call OC「OをCと呼ぶ」/ name OC「OをCと名付ける」/ elect OC「OをCに選ぶ」
+      SV人to~の動詞群: allow・permit/want/ask/advise/expect/enable/cause/force
+      to不定詞には「未来志向」がある→「これから人が~することをVする」。
+      SV人to~の裏技: 「Sによって人は~する」と意訳。知らない動詞でもSV人to~の形なら意味予測可能。
+      参考書内参照: →p.188「未来志向」
+      helpの語法まとめ:
+      [図表: 表 — helpの語法まとめ。(1)help人{to}原形 / help人with~ (2)help{to}原形 (3)help yourself to物（p.95）]
+      ※helpは庶民出身だがセレブ階級にも出入りできる唯一の例外（原形もto不定詞も可）。
+
+  - id: "kvt-007"
+    name: "現在形の核心（「現在・過去・未来形」）"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      核心: 「現在形」は「現在・過去・未来形」
+      現在形は「昨日のことも今日のことも明日のことも表す」。「過去〜現在〜未来のどこにでも起こること」を英文法では「現在形」と呼んでいるだけ。
+      3つの用法はすべて核心で解決:
+      ・習慣: I go to school. →「昨日も今日も明日も学校へ行く」→学生しか使えない
+      ・不変の真理: The sun rises in the east. →「昨日も今日も明日も東から昇る」
+      ・確定した未来: The train arrives at 10. →「昨日も明日も10時に着く」=繰り返し行われる行為
+      ※習慣と不変の真理の差（休む日があるかないか）は英文法では区別しない
+      What do you do?「ご職業は？」: 現在形→「昨日も今日も明日も何をするの？」→「普段何をするの？」→「お仕事は何を？」
+      What do you do for fun?「趣味は何？」: 「昨日も今日も明日も楽しみを求めて何をする？」
+      前提知識との差分: 中学では「動詞の変化そのもの」重視（不規則変化の暗記、副詞で時制判断）。高校では「時制の概念」を理解しているかが問われる。
+
+  - id: "kvt-008"
+    name: "時・条件を表す副詞節の現在形ルール"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      重要ルール: 「時・条件を表す副詞節の中では未来のことでも現在形を使う」
+      3つのポイント:
+      ① 時・条件を表す副詞節とは: when（時）・if（条件）・as soon as等の従属接続詞がつくる副詞節
+      ② 副詞節の「中だけ」が特殊: 副詞節の外（主節）では未来のことは普通にwillなど未来の形を使う
+      ③「未来→現在形で代用」: 未来の形が使えず、仕方なく現在形を使う。未来完了形の場面なら現在完了形で代用（→テーマ9）
+      ※助動詞・助動詞相当表現（must/have to等）はすべて未来を表すことができる
+      名詞節との区別:
+      他動詞+when/if → 名詞節（「〜かどうか」「いつ〜か」）→ 未来のことは普通にwillを使う
+      この区別が必要なのはifとwhenだけ。入試で問われやすい動詞: know, wonder
+      [図表: 表 — whenが副詞節・名詞節になるとき。①従属接続詞「〜するとき」=副詞節 ②疑問詞「いつ」=名詞節（間接疑問文）（p.103）]
+      ※名詞節をつくるwhenは従属接続詞ではなく「疑問詞」
+      参考書内参照: →p.58「接続詞の副詞節」
+
+  - id: "kvt-009"
+    name: "進行形の核心（「途中」と5秒ルール）"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      核心: 「進行形」は「途中」
+      進行形は「〜している」ではなく「〜している途中」と考える。
+      状態動詞（進行形にできない動詞）:
+      [図表: 表 — 状態動詞の分類。①所属・構成: belong to/resemble/have/consist of/contain ②知覚・心理: hear/see/smell/taste/like/want/know/believe/think（p.104）]
+      5秒ルール: 「5秒ごとに中断・再開できない動詞は進行形にできない」
+      ・know: 5秒ごとに記憶を消したり戻したりはできない→×be knowing
+      ・like: 5秒ごとに好きになったり嫌いになったりはできない→×be liking
+      ・resemble: 5秒ごとに似なくなって、また似てくることは不可能→×be resembling
+      ルールの由来: 進行形=「途中」→「途中で中断・再開できる」動詞は進行形OK。逆手をとれば「中断・再開できない動詞は進行形不可」。
+      5秒ルールの例外: rain/snow/die。be dying「死にかけている（死に向かっている途中）」
+      haveの検証: 「持っている」→中断・再開不可→×be having(所有)。「食べる・飲む」→中断・再開可能→◎She is having lunch.
+      「予定」を表す進行形: 「途中」→「何かしら着手して進行している」→スケジュールに書き込む予定。
+      「近い未来」の正体: 時間の近さではなく「着手済みかどうか」が基準。1年先でも着手済みなら進行形OK、明日でも着手してなければ不可。
+      前提知識との差分: 中学では単に「〜している」と訳すだけ。高校では「途中」の概念から各用法・例外を理解する。
+
+  - id: "kvt-010"
+    name: "完了形の核心「矢印」と現在完了形の3用法"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      核心: 完了形は「矢印」で考える！
+      現在完了形（have + p.p.）のイメージ: 「過去〜現在」をつないだ矢印。重点は「現在」にある。
+      ※p.p.=past participle（過去分詞）の頭文字。
+      過去＋現在＝have + p.p.
+      3用法（どれも矢印の範囲内で起きること）:
+      ① 継続「ずっと〜している」: 過去に始まり、今現在も継続している。
+      ② 完了・結果「〜したところだ」: 過去に始まり、今現在ちょうど完了した。
+      ③ 経験「〜したことがある」: 過去に経験、今は「経験値」を持っている。
+      経験用法の発想: 経験自体は「過去のこと」だが、英語では「過去にした経験を今現在まで持ち続けている／経験値として持っている」。
+      継続用法でよく使われる語句: for「〜の間」/ since「〜以来ずっと」/ in the last[past] ○ years「ここ○年間で」/ How long「どのくらい」
+      完了・結果用法でよく使われる語句: just「ちょうど」/ already「すでに」/ yet（否定文で「まだ」・疑問文で「もう」）
+      経験用法でよく使われる語句: before「以前」/ once「1回」/ twice「2回」/ 〜 times「〜回」/ How many times・How often「何回」/ ever「今までに」/ never「一度も〜ない」
+      前提知識との差分: 中学ではfor/sinceを見て「継続用法」と訳語を当てはめるだけ。高校・大学受験では完了形の概念そのもの（矢印の感覚）が問われる。
+
+  - id: "kvt-011"
+    name: "過去完了形・未来完了形（カット＆ペースト）"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      過去完了形（had + p.p.）: 現在完了形の矢印を過去に向けて「カット＆ペースト」。
+      矢印の先端を「過去の一点」にくっつけるのがポイント。
+      現在完了形=現在が基準（現在までの矢印）、過去完了形=過去のある一点が基準（過去までの矢印）。
+      「過去完了形とは過去のある一点までの継続／完了・結果／経験を表す」
+      大過去: 過去のさらに過去のこと。「すごく昔」ではなく「過去の②の時点よりもさらに過去」。
+      過去完了形の3用法:
+      ① 継続「（過去の一点まで）ずっと〜していた」
+      ② 完了・結果「（過去の一点までに）ちょうど〜したところだ・その結果…だ」
+      ③ 経験「（過去の一点までに）〜した経験がある」
+      未来完了形（will have p.p.）: 現在完了形を「未来へ向けてカット＆ペースト」。
+      現在完了形=現在までの矢印、過去完了形=過去のある一点までの矢印、未来完了形=未来のある一点までの矢印。
+      未来完了形の3用法:
+      ① 継続「（未来の一時点まで）ずっと〜しているでしょう」
+      ② 完了・結果「（未来の一時点で）ちょうど〜したところでしょう」
+      ③ 経験「（未来の一時点までに）〜する経験があるでしょう」
+      [図表: フロー図 — 完了形のゾーン図。had p.p.ゾーン(大過去→過去) / have p.p.ゾーン(過去→現在) / will have p.p.ゾーン(現在→未来)（p.116）]
+
+  - id: "kvt-012"
+    name: "完了進行形と完了形の慣用表現"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      現在完了進行形（have been -ing）: 文字通り「現在完了＋進行形」。現在完了形の「継続」の意味が強まる用法。
+      「現在完了形（継続）」と「現在完了進行形」の区別は非常に曖昧で、入試で問われることはない。
+      ※状態動詞（進行形にできない動詞）はhave + p.p.の形になる。
+      過去完了進行形（had been -ing）: 現在完了進行形を過去にカット＆ペースト。
+      未来完了進行形（will have been -ing）: 現在完了進行形を未来にカット＆ペースト。
+      慣用表現(1)「〜してから年月が経った」:
+      ① [年月] have passed since sv（過去形） ※sinceのvは「過去形」
+      ② It has been [年月] since sv（過去形）
+      ③ It is [年月] since sv（過去形）
+      注意: ①と②を混ぜて×It has passedは誤り。「Itが過ぎる」わけがなく「年月が過ぎる（pass）」。③はsinceがあるのにisで簡略化された形。
+      慣用表現(2) have been to 〜 と have gone to 〜:
+      have been to〜: 【完了】〜へ行ってきたところだ / 【経験】〜へ行ったことがある → 共通点: 今はここにいる（beは「いる」の意味）
+      have gone to〜: 【結果】〜へ行ってしまった（もうここにいない）→ goは「離れていく」感覚
+
 understanding_goals:
   # kvt-001
   - node_id: "kvt-001"
@@ -105,6 +289,135 @@ understanding_goals:
   - node_id: "kvt-003"
     seq: 5
     goal: "同じ動詞が文型によって異なる意味になることを具体例で説明できる"
+  # kvt-004
+  - node_id: "kvt-004"
+    seq: 1
+    goal: "V 人 物の形から「与える」の意味を予測できる"
+  - node_id: "kvt-004"
+    seq: 2
+    goal: "「奪う」系動詞5つ（take/cost/save/spare/owe）を説明できる"
+  - node_id: "kvt-004"
+    seq: 3
+    goal: "spareの意味を物にくる名詞の種類で判別できる"
+  - node_id: "kvt-004"
+    seq: 4
+    goal: "do 人 物の形で物に入る名詞の制限を説明できる"
+  # kvt-005
+  - node_id: "kvt-005"
+    seq: 1
+    goal: "SVOOとSVOCをO₁≠O₂ vs O=Cの基準で判別できる"
+  - node_id: "kvt-005"
+    seq: 2
+    goal: "SVOCを理解する3ステップ（動詞反応→OC関係把握→s'v'吟味）を実行できる"
+  - node_id: "kvt-005"
+    seq: 3
+    goal: "Cの形式（原形/to不定詞/-ing/p.p.）の選び方を能動/受動の観点で判断できる"
+  - node_id: "kvt-005"
+    seq: 4
+    goal: "使役動詞3つ（make/have/let）のニュアンスの違いを説明できる"
+  - node_id: "kvt-005"
+    seq: 5
+    goal: "知覚動詞4つ（see/hear/feel/find）でSVOCの形を使える"
+  # kvt-006
+  - node_id: "kvt-006"
+    seq: 1
+    goal: "使役もどき3つ（keep/leave/get）と使役動詞の違い（原形不可）を説明できる"
+  - node_id: "kvt-006"
+    seq: 2
+    goal: "「させっぱなし」の代表パターンでOCの能動/受動を正しく判断できる"
+  - node_id: "kvt-006"
+    seq: 3
+    goal: "SV人to~の形を「Sによって人は~する」と意訳できる"
+  - node_id: "kvt-006"
+    seq: 4
+    goal: "helpの4パターン（help人{to}原形/help人with~/help{to}原形/help yourself to物）を使い分けられる"
+  - node_id: "kvt-006"
+    seq: 5
+    goal: "知らない動詞がSV人to~の形で出ても意味を予測できる"
+  # kvt-007
+  - node_id: "kvt-007"
+    seq: 1
+    goal: "現在形を「現在・過去・未来形」と捉え直して説明できる"
+  - node_id: "kvt-007"
+    seq: 2
+    goal: "「習慣・不変の真理・確定した未来」をすべて「現在・過去・未来形」の核心で説明できる"
+  - node_id: "kvt-007"
+    seq: 3
+    goal: "What do you do?がなぜ「ご職業は？」の意味になるか文法的に説明できる"
+  - node_id: "kvt-007"
+    seq: 4
+    goal: "現在形の文から「昨日も今日も明日も」の意味を読み取れる"
+  # kvt-008
+  - node_id: "kvt-008"
+    seq: 1
+    goal: "「時・条件を表す副詞節の中では未来のことでも現在形」のルールを説明できる"
+  - node_id: "kvt-008"
+    seq: 2
+    goal: "副詞節の中と外（主節）で時制の扱いが違うことを具体例で示せる"
+  - node_id: "kvt-008"
+    seq: 3
+    goal: "ifが名詞節「〜かどうか」をつくるとき、未来のことはwillを使うことを説明できる"
+  - node_id: "kvt-008"
+    seq: 4
+    goal: "他動詞+if/whenの形から名詞節だと判断できる"
+  # kvt-009
+  - node_id: "kvt-009"
+    seq: 1
+    goal: "進行形の核心を「途中」と説明でき、中学の「〜している」との違いを言える"
+  - node_id: "kvt-009"
+    seq: 2
+    goal: "5秒ルールを使って状態動詞を判別できる"
+  - node_id: "kvt-009"
+    seq: 3
+    goal: "haveが進行形にできるケースとできないケースを5秒ルールで説明できる"
+  - node_id: "kvt-009"
+    seq: 4
+    goal: "「予定」を表す進行形の条件を「途中」の概念から説明できる"
+  - node_id: "kvt-009"
+    seq: 5
+    goal: "状態動詞の代表例（所属・構成/知覚・心理）を挙げられる"
+  # kvt-010
+  - node_id: "kvt-010"
+    seq: 1
+    goal: "完了形の「矢印」イメージを説明でき、重点が現在にあることを理解している"
+  - node_id: "kvt-010"
+    seq: 2
+    goal: "現在完了形の3用法（継続/完了・結果/経験）を矢印のゾーンと関連づけて説明できる"
+  - node_id: "kvt-010"
+    seq: 3
+    goal: "経験用法がなぜ「現在完了」なのか（過去の経験を今現在まで持ち続けている）を説明できる"
+  - node_id: "kvt-010"
+    seq: 4
+    goal: "完了形でよく使われる語句（for/since/just/already/yet/ever/never等）を用法と結びつけられる"
+  # kvt-011
+  - node_id: "kvt-011"
+    seq: 1
+    goal: "現在完了形を「カット＆ペースト」して過去完了形を説明できる"
+  - node_id: "kvt-011"
+    seq: 2
+    goal: "「大過去」の概念を正しく理解している（過去のさらに過去、すごく昔ではない）"
+  - node_id: "kvt-011"
+    seq: 3
+    goal: "過去完了形の3用法を具体例で説明できる"
+  - node_id: "kvt-011"
+    seq: 4
+    goal: "未来完了形の3用法を具体例で説明できる"
+  - node_id: "kvt-011"
+    seq: 5
+    goal: "完了形のゾーン図（had p.p./have p.p./will have p.p.）を描ける"
+  # kvt-012
+  - node_id: "kvt-012"
+    seq: 1
+    goal: "完了進行形の意味（継続が強まる）を説明できる"
+  - node_id: "kvt-012"
+    seq: 2
+    goal: "完了進行形のカット＆ペースト（過去完了進行形・未来完了進行形）を説明できる"
+  - node_id: "kvt-012"
+    seq: 3
+    goal: "「〜してから年月が経った」の3パターンを使い分けられる"
+  - node_id: "kvt-012"
+    seq: 4
+    goal: "have been to と have gone to の違いを「今ここにいるか」で説明できる"
 
 check_points:
   # kvt-001
@@ -170,8 +483,189 @@ check_points:
     seq: 5
     question: "第2文型をとる代表的な動詞を3グループ挙げよ。"
     answer: "①存在・継続(be, keep) ②変化(become, get, turn, grow, come, go) ③感覚(seem, appear, look, feel, sound)。"
+  # kvt-004
+  - node_id: "kvt-004"
+    seq: 1
+    question: "V 人 物の形で知らない動詞が出てきたら、どう意味を推測するか？"
+    answer: "「与える」と考える。「奪う」系はtake/cost/save/spare/oweだけなので、それ以外はすべて「与える」。"
+  - node_id: "kvt-004"
+    seq: 2
+    question: "「奪う」系動詞を5つ挙げ、共通点を説明せよ。"
+    answer: "take（時間を奪う）/cost（金・大事なものを奪う）/save（手間を奪う）/spare（手間を奪う）/owe（金を一時的に奪う）。すべてV 人 物「人から物を奪う」が共通形。"
+  - node_id: "kvt-004"
+    seq: 3
+    question: "spare 人 物の意味が「与える」か「奪う」かを判別する方法は？"
+    answer: "物にくる名詞の種類で判別。時間・お金→「与える」（余ったものを割く）。マイナス単語（trouble等）→「奪う」（手間を省く）。"
+  - node_id: "kvt-004"
+    seq: 4
+    question: "do 人 物で物に入れる名詞にはどんな制限があるか？"
+    answer: "「善悪・利害」に関する名詞に限定（good/harm/damage/a favor等）。何でも使えるわけではない。"
+  - node_id: "kvt-004"
+    seq: 5
+    question: "It takes 人 時間 to ~を「奪う」の観点から説明せよ。"
+    answer: "take 人 時間「人から時間を奪う」の形。Itは仮主語、to~が真主語。人はよく省略される。公式丸暗記ではなく第4文型として理解する。"
+  # kvt-005
+  - node_id: "kvt-005"
+    seq: 1
+    question: "SVOOとSVOCはどう判別するか？"
+    answer: "Vの後の2要素がO₁≠O₂なら第4文型SVOO、O=Cなら第5文型SVOC。Cに形容詞がきたら即断でSVOC。"
+  - node_id: "kvt-005"
+    seq: 2
+    question: "SVOCの3ステップとは？"
+    answer: "step1: SVOCをとる動詞に反応。step2: OとCの関係把握（O=C or s'v'）。step3: s'v'の吟味（能動「する」→原形/to不定詞/-ing、受動「される」→p.p.）。"
+  - node_id: "kvt-005"
+    seq: 3
+    question: "使役・知覚動詞はなぜ原形をとれるのか？to不定詞は使えるか？"
+    answer: "原形/to不定詞はカードの裏表。使役・知覚動詞は「セレブ」扱いで原形をとれる特権がある。その裏として to不定詞は不可。ただし-ing・p.p.は併用可能。"
+  - node_id: "kvt-005"
+    seq: 4
+    question: "使役動詞make/have/letのニュアンスの違いは？"
+    answer: "make=強制・必然（OCの状態をつくる、必然的に~になる）。have=利害（させた/してもらった/されたは立場の違いだけ）。let=許可（好きなように~させてあげる）。"
+  - node_id: "kvt-005"
+    seq: 5
+    question: "make oneself understoodの意味と構造は？"
+    answer: "「話が通じる」。make OC構文で、oneself(O)がunderstood(C=p.p.)される受動関係。直訳「自分自身が理解されるようにする」。"
+  # kvt-006
+  - node_id: "kvt-006"
+    seq: 1
+    question: "使役もどき（keep/leave/get）と使役動詞の決定的な違いは？"
+    answer: "使役もどきは原形をとれない（セレブ特権がない）。get→to不定詞、keep/leave→-ing or p.p. or 形容詞。"
+  - node_id: "kvt-006"
+    seq: 2
+    question: "keep me waitingのCがwaitedではなくwaitingになる理由は？"
+    answer: "「私が待つ」=能動関係なので-ing。waitedだと「待たれる」という受動の意味になり不自然。"
+  - node_id: "kvt-006"
+    seq: 3
+    question: "SV人to~の形で知らない動詞が出たとき、どう意訳するか？"
+    answer: "「Sによって人は~する」と考える。動詞の正確な意味を知らなくても文意が予測できる。"
+  - node_id: "kvt-006"
+    seq: 4
+    question: "helpの語法で特殊な点は？パターンを挙げよ。"
+    answer: "原形とto不定詞の両方をとれる唯一の例外。① help 人 {to} 原形 ② help 人 with ~ ③ help {to} 原形「役立つ」④ help yourself to 物「自由に食べる」。"
+  - node_id: "kvt-006"
+    seq: 5
+    question: "「させっぱなし」の代表例を2つ挙げ、OとCの関係を説明せよ。"
+    answer: "例: keep her waiting（彼女が待つ=能動→-ing）、keep the door locked（ドアがカギをかけられる=受動→p.p.）。leave the window open（openは形容詞）。"
+  # kvt-007
+  - node_id: "kvt-007"
+    seq: 1
+    question: "現在形はどういう時間を表すか？"
+    answer: "過去・現在・未来のどこにでも起こること。「昨日も今日も明日も」を表す。「現在・過去・未来形」と捉え直す。"
+  - node_id: "kvt-007"
+    seq: 2
+    question: "What do you do?の意味は？なぜそうなるか？"
+    answer: "「ご職業は？」。現在形doに注目。「昨日も今日も明日も何をするの？」→「普段何をするの？」→「お仕事は何を？」"
+  - node_id: "kvt-007"
+    seq: 3
+    question: "「確定した未来」の正体は何か？The train arrives at 10.で説明せよ。"
+    answer: "「現在・過去・未来に繰り返し行われる行為」のこと。The train arrives at 10.=「その電車は昨日も明日も10時に着く」。"
+  # kvt-008
+  - node_id: "kvt-008"
+    seq: 1
+    question: "時・条件を表す副詞節の中で未来のことを表すとき、動詞はどの形を使うか？"
+    answer: "現在形。未来の形（willなど）が使えず、仕方なく現在形で代用する。"
+  - node_id: "kvt-008"
+    seq: 2
+    question: "I don't know if he will go...のifは副詞節か名詞節か？なぜwillが使われているか？"
+    answer: "名詞節「〜かどうか」。他動詞knowの目的語なので名詞節。副詞節ではないので未来のことは普通にwillを使う。"
+  - node_id: "kvt-008"
+    seq: 3
+    question: "未来完了形を使う場面で副詞節内にいる場合、何で代用するか？"
+    answer: "現在完了形（have p.p.）で代用する。"
+  - node_id: "kvt-008"
+    seq: 4
+    question: "副詞節と名詞節の区別が入試で必要な接続詞は？出題されやすい動詞は？"
+    answer: "ifとwhen。出題されやすい動詞はknow, wonder（他動詞+if/whenの形）。"
+  # kvt-009
+  - node_id: "kvt-009"
+    seq: 1
+    question: "進行形の核心は何か？"
+    answer: "「途中」。「〜している」ではなく「〜している途中」と考える。"
+  - node_id: "kvt-009"
+    seq: 2
+    question: "5秒ルールとは？具体例で説明せよ。"
+    answer: "5秒ごとに中断・再開できない動詞は進行形にできない。know=記憶を消したり戻したりはできない→×be knowing。resemble=似なくなって、また似てくるは不可能→×be resembling。"
+  - node_id: "kvt-009"
+    seq: 3
+    question: "haveはなぜ「持っている」では進行形不可だが「食べる」ではOKか？"
+    answer: "「持っている」は5秒ごとに中断・再開できない→進行形不可。「食べる」は中断・再開可能→She is having lunch.はOK。"
+  - node_id: "kvt-009"
+    seq: 4
+    question: "「予定」を表す進行形はどんな条件で使えるか？「近い未来」の正体は？"
+    answer: "何かしら着手して進行しているとき。「近い未来」=時間の近さではなく着手済みかどうかが基準。1年先でも着手済みなら進行形OK。"
+  - node_id: "kvt-009"
+    seq: 5
+    question: "5秒ルールの例外となる動詞は？"
+    answer: "rain/snow/die。be dying「死にかけている（死に向かっている途中）」。It is raining.「雨が降っている」。"
+  # kvt-010
+  - node_id: "kvt-010"
+    seq: 1
+    question: "現在完了形の「矢印」はどの時間を表すか？重点はどこにあるか？"
+    answer: "過去から現在までの矢印。重点は現在にある（過去の部分は曖昧でもよい）。"
+  - node_id: "kvt-010"
+    seq: 2
+    question: "継続・完了/結果・経験のうち、なぜ経験が現在完了なのか？"
+    answer: "経験自体は過去のことだが、英語では「過去にした経験を今現在まで経験値として持ち続けている」という発想。"
+  - node_id: "kvt-010"
+    seq: 3
+    question: "forとsinceの違いは？"
+    answer: "forは期間「〜の間」、sinceは起点「〜以来ずっと」。どちらも継続用法の目印。"
+  - node_id: "kvt-010"
+    seq: 4
+    question: "完了・結果用法でよく使われる語句は？"
+    answer: "just「ちょうど」、already「すでに」、yet（否定文で「まだ」・疑問文で「もう」）。"
+  # kvt-011
+  - node_id: "kvt-011"
+    seq: 1
+    question: "過去完了形はどうやって作るか？"
+    answer: "現在完了形の矢印を過去にカット＆ペースト。先端を「過去の一点」にくっつける。had + p.p.。"
+  - node_id: "kvt-011"
+    seq: 2
+    question: "「大過去」とは？"
+    answer: "過去の②の時点よりもさらに過去のこと。「すごく昔」ではなく、基準となる過去の一点よりも前。"
+  - node_id: "kvt-011"
+    seq: 3
+    question: "過去完了形の経験用法の例を説明せよ。"
+    answer: "Until she came to Sapporo, she had never seen snow. 生まれてから過去の一点（札幌に来たとき）までの経験。"
+  - node_id: "kvt-011"
+    seq: 4
+    question: "未来完了形の完了用法はどう考えるか？"
+    answer: "未来の一点までに行為が完了する。例: I will have finished dinner by 10.「10時までには夕食を終えている」。"
+  - node_id: "kvt-011"
+    seq: 5
+    question: "完了形のゾーン図を描けるか？"
+    answer: "had p.p.ゾーン(大過去→過去) / have p.p.ゾーン(過去→現在) / will have p.p.ゾーン(現在→未来)。"
+  # kvt-012
+  - node_id: "kvt-012"
+    seq: 1
+    question: "完了進行形は何が強まるか？状態動詞はどうなるか？"
+    answer: "継続の意味が強まる。状態動詞は進行形にできないのでhave + p.p.の形になる。"
+  - node_id: "kvt-012"
+    seq: 2
+    question: "「〜してから年月が経った」を3通りで言え。注意点は？"
+    answer: "①年月 have passed since sv ②It has been 年月 since sv ③It is 年月 since sv。注意: ①と②を混ぜて×It has passedは誤り（Itが過ぎるわけがない）。"
+  - node_id: "kvt-012"
+    seq: 3
+    question: "have been toの2つの意味は？共通点は？"
+    answer: "完了「行ってきたところだ」/ 経験「行ったことがある」。共通点: 今はここにいる（beは「いる」の意味）。"
+  - node_id: "kvt-012"
+    seq: 4
+    question: "have gone toとhave been toの違いは？"
+    answer: "have gone to=結果「行ってしまった（ここにいない）」、have been to=「行ってきた/行ったことがある（ここにいる）」。goの「離れていく」感覚。"
 
-node_prerequisites: []
+node_prerequisites:
+  - node_id: "kvt-004"
+    prerequisite_id: "kvt-003"
+  - node_id: "kvt-005"
+    prerequisite_id: "kvt-004"
+  - node_id: "kvt-006"
+    prerequisite_id: "kvt-005"
+  - node_id: "kvt-008"
+    prerequisite_id: "kvt-007"
+  - node_id: "kvt-011"
+    prerequisite_id: "kvt-010"
+  - node_id: "kvt-012"
+    prerequisite_id: "kvt-010"
 
 knowledge_references:
   - node_id: "kvt-001"
@@ -186,3 +680,39 @@ knowledge_references:
     book: "英文法の核心"
     section_id: "Kaku_07a"
     pages: "p.78-82"
+  - node_id: "kvt-004"
+    book: "英文法の核心"
+    section_id: "Kaku_07b"
+    pages: "p.83-86"
+  - node_id: "kvt-005"
+    book: "英文法の核心"
+    section_id: "Kaku_07b"
+    pages: "p.86-92"
+  - node_id: "kvt-006"
+    book: "英文法の核心"
+    section_id: "Kaku_07b"
+    pages: "p.92-96"
+  - node_id: "kvt-007"
+    book: "英文法の核心"
+    section_id: "Kaku_08"
+    pages: "p.100-102"
+  - node_id: "kvt-008"
+    book: "英文法の核心"
+    section_id: "Kaku_08"
+    pages: "p.102-103"
+  - node_id: "kvt-009"
+    book: "英文法の核心"
+    section_id: "Kaku_08"
+    pages: "p.104-107"
+  - node_id: "kvt-010"
+    book: "英文法の核心"
+    section_id: "Kaku_09"
+    pages: "p.111-112"
+  - node_id: "kvt-011"
+    book: "英文法の核心"
+    section_id: "Kaku_09"
+    pages: "p.113-116"
+  - node_id: "kvt-012"
+    book: "英文法の核心"
+    section_id: "Kaku_09"
+    pages: "p.117-119"

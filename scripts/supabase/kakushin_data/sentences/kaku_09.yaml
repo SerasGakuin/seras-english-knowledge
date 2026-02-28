@@ -1,0 +1,404 @@
+# Kaku_09: 完了形（p.111-123）
+
+sentences:
+  # === 例文 (16 sentences) ===
+  - id: "kaku-09-e01"
+    section_id: "Kaku_09"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I have lived in Nagano for twenty years."
+    japanese: "私は20年間長野に住んでいます。"
+    notes: "現在完了形（継続用法）。for twenty yearsは継続の期間。"
+  - id: "kaku-09-e02"
+    section_id: "Kaku_09"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "I have just seen your e-mail."
+    japanese: "私はちょうどあなたからのメールを見たところです。"
+    notes: "現在完了形（完了・結果用法）。justは完了用法の目印。"
+  - id: "kaku-09-e03"
+    section_id: "Kaku_09"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "Robert has visited my house a few times."
+    japanese: "ロバートは数回、僕の家に来たことがあります。"
+    notes: "現在完了形（経験用法）。a few timesは経験の回数。"
+  - id: "kaku-09-e04"
+    section_id: "Kaku_09"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "I had lived in Tokushima for two years before I moved to Kagawa."
+    japanese: "香川に引っ越した時点で、2年間徳島に住んでいました。"
+    notes: "過去完了形（継続用法）。moved（過去の一点）までの2年間の継続。①→②のゾーン。"
+  - id: "kaku-09-e05"
+    section_id: "Kaku_09"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "When I arrived at the airport, she had left for Sapporo."
+    japanese: "私が空港に着いたとき、彼女は札幌に向けて出発していた。"
+    notes: "過去完了形（完了・結果用法）。arrived（過去の一点）までに出発が完了。"
+  - id: "kaku-09-e06"
+    section_id: "Kaku_09"
+    drill: 0
+    number: 6
+    role: "example"
+    english: "Until she came to Sapporo, she had never seen snow."
+    japanese: "札幌に来るまで、彼女は雪を見たことがなかった。"
+    notes: "過去完了形（経験用法）。came to Sapporo（過去の一点）までの経験。never=否定の経験。"
+  - id: "kaku-09-e07"
+    section_id: "Kaku_09"
+    drill: 0
+    number: 7
+    role: "example"
+    english: "I will have lived in Amsterdam for three years next month."
+    japanese: "来月でアムステルダムに3年間住んでいることになる。"
+    notes: "未来完了形（継続用法）。next month（未来の一点）までの3年間の継続。"
+  - id: "kaku-09-e08"
+    section_id: "Kaku_09"
+    drill: 0
+    number: 8
+    role: "example"
+    english: "I will have finished dinner by 10."
+    japanese: "10時までには夕食を終えてしまっているよ。"
+    notes: "未来完了形（完了・結果用法）。by 10（未来の一点）までに完了。"
+  - id: "kaku-09-e09"
+    section_id: "Kaku_09"
+    drill: 0
+    number: 9
+    role: "example"
+    english: "If I see the movie one more time, I will have seen it five times."
+    japanese: "もう1回その映画を観れば、5回観たことになる。"
+    notes: "未来完了形（経験用法）。未来の一点（5回目を見るとき）までのトータルの経験。if節は条件の副詞節で現在形（→kvt-008）。"
+  - id: "kaku-09-e10"
+    section_id: "Kaku_09"
+    drill: 0
+    number: 10
+    role: "example"
+    english: "Masato has been playing the piano since this morning."
+    japanese: "マサトは今朝からずっとピアノを弾き続けている。"
+    notes: "現在完了進行形（have been -ing）。継続の意味が強まる。"
+  - id: "kaku-09-e11"
+    section_id: "Kaku_09"
+    drill: 0
+    number: 11
+    role: "example"
+    english: "I had been reading for three hours when my mother entered my room."
+    japanese: "母が部屋に入ってきたとき、私は3時間読書をしていた。"
+    notes: "過去完了進行形（had been -ing）。現在完了進行形を過去にカット＆ペースト。"
+  - id: "kaku-09-e12"
+    section_id: "Kaku_09"
+    drill: 0
+    number: 12
+    role: "example"
+    english: "By next April he will have been learning the piano for five years."
+    japanese: "今度の4月で、彼は5年間ピアノを習っていることになる。"
+    notes: "未来完了進行形（will have been -ing）。現在完了進行形を未来にカット＆ペースト。"
+  - id: "kaku-09-e13"
+    section_id: "Kaku_09"
+    drill: 0
+    number: 13
+    role: "example"
+    english: "Two years have passed since we graduated."
+    japanese: "卒業してから、もう2年が経ったんだね。"
+    notes: "「〜してから年月が経った」の表現①。同義: ② It has been two years since we graduated. ③ It is two years since we graduated. ①と②を混ぜて×It has passedは誤り（Itが過ぎるわけがない）。③はsinceがあるのに現在形isで簡略化された形。"
+  - id: "kaku-09-e14"
+    section_id: "Kaku_09"
+    drill: 0
+    number: 14
+    role: "example"
+    english: "Have you ever been to Korea?"
+    japanese: "韓国に行ったことある？"
+    notes: "have been to〜（経験「行ったことがある」）。今はここにいる。beは「いる」の意味。"
+  - id: "kaku-09-e15"
+    section_id: "Kaku_09"
+    drill: 0
+    number: 15
+    role: "example"
+    english: "I have just been to the library."
+    japanese: "ちょうど図書館に行ってきたところなんだ。"
+    notes: "have been to〜（完了「行ってきたところだ」）。今はここにいる。"
+  - id: "kaku-09-e16"
+    section_id: "Kaku_09"
+    drill: 0
+    number: 16
+    role: "example"
+    english: "She has gone to China."
+    japanese: "彼女は中国に行ってしまったんだ。"
+    notes: "have gone to〜（結果「行ってしまった」＝ここにはいない）。goは「離れていく」感覚。"
+  # === CHECK (3 sentences) ===
+  - id: "kaku-09-c01"
+    section_id: "Kaku_09"
+    drill: 1
+    number: 1
+    role: "check"
+    english: "He didn't want to go to the movies with me because he had seen the film before."
+    japanese: "彼は前にその映画を見たことがあったので、私と一緒に映画に行きたがらなかった。"
+    notes: "CHECK(1)。空所: had seen。「行きたがらなかった」（過去の一点）までに映画を見た経験→過去完了形(had p.p.)。"
+  - id: "kaku-09-c02"
+    section_id: "Kaku_09"
+    drill: 1
+    number: 2
+    role: "check"
+    english: "By the end of next month I will have been here for five years."
+    japanese: "来月末で、私はここに5年間いることになる。"
+    notes: "CHECK(2)。空所: will have been。「来月末」（未来の一点）までの5年間の継続→未来完了形(will have p.p.)。"
+  - id: "kaku-09-c03"
+    section_id: "Kaku_09"
+    drill: 1
+    number: 3
+    role: "check"
+    english: "I have never seen Merlion."
+    japanese: "私はマーライオンを一度も見たことがない。"
+    notes: "CHECK(3)。空所: never。「一度も〜ない」=never。現在完了形（経験用法の否定）。"
+  # === 入試問題 (4 sentences) ===
+  - id: "kaku-09-x01"
+    section_id: "Kaku_09"
+    drill: 2
+    number: 1
+    role: "exam"
+    english: "Hiroko had lived here for five years before she moved."
+    japanese: "ヒロコは引っ越すまでに、ここに5年間住んでいた。"
+    notes: "入試問題(1)（芝浦工業大学）。空所: had lived。「引っ越した」（過去の一点）までの5年間の継続→過去完了形。"
+  - id: "kaku-09-x02"
+    section_id: "Kaku_09"
+    drill: 2
+    number: 2
+    role: "exam"
+    english: "By the time you get to the theater, the concert will have finished."
+    japanese: "君が劇場に着くころには、コンサートは終わっているよ。"
+    notes: "入試問題(2)（鹿児島大学）。空所: will have finished。「劇場に着く」（未来の一点）までに完了→未来完了形。by the time副詞節内はget（現在形）→副詞節ルール（→kvt-008）。"
+  - id: "kaku-09-x03"
+    section_id: "Kaku_09"
+    drill: 2
+    number: 3
+    role: "exam"
+    english: "Kevin has been working at this company since he came to Japan in 1980."
+    japanese: "ケビンは1980年に来日してからずっとこの会社で働いている。"
+    notes: "入試問題(3)（日本大学）。空所: since。現在完了進行形（have been -ing）の継続用法。since〜「〜以来ずっと」。"
+  - id: "kaku-09-x04"
+    section_id: "Kaku_09"
+    drill: 2
+    number: 4
+    role: "exam"
+    english: "Have you ever been to the United States?"
+    japanese: "今までにアメリカに行ったことがありますか？"
+    notes: "入試問題(4)（九州国際大学）。空所: ever。Have you ever been to〜?「今までに〜へ行ったことがありますか？」。have been to（経験用法）。"
+
+sentence_knowledge_tags:
+  # kvt-010: 完了形の核心と現在完了形の3用法
+  - sentence_id: "kaku-09-e01"
+    node_id: "kvt-010"
+  - sentence_id: "kaku-09-e02"
+    node_id: "kvt-010"
+  - sentence_id: "kaku-09-e03"
+    node_id: "kvt-010"
+  - sentence_id: "kaku-09-c03"
+    node_id: "kvt-010"
+  # kvt-011: 過去完了形・未来完了形
+  - sentence_id: "kaku-09-e04"
+    node_id: "kvt-011"
+  - sentence_id: "kaku-09-e05"
+    node_id: "kvt-011"
+  - sentence_id: "kaku-09-e06"
+    node_id: "kvt-011"
+  - sentence_id: "kaku-09-e07"
+    node_id: "kvt-011"
+  - sentence_id: "kaku-09-e08"
+    node_id: "kvt-011"
+  - sentence_id: "kaku-09-e09"
+    node_id: "kvt-011"
+  - sentence_id: "kaku-09-c01"
+    node_id: "kvt-011"
+  - sentence_id: "kaku-09-c02"
+    node_id: "kvt-011"
+  - sentence_id: "kaku-09-x01"
+    node_id: "kvt-011"
+  - sentence_id: "kaku-09-x02"
+    node_id: "kvt-011"
+  # kvt-012: 完了進行形・慣用表現
+  - sentence_id: "kaku-09-e10"
+    node_id: "kvt-012"
+  - sentence_id: "kaku-09-e11"
+    node_id: "kvt-012"
+  - sentence_id: "kaku-09-e12"
+    node_id: "kvt-012"
+  - sentence_id: "kaku-09-e13"
+    node_id: "kvt-012"
+  - sentence_id: "kaku-09-e14"
+    node_id: "kvt-012"
+  - sentence_id: "kaku-09-e15"
+    node_id: "kvt-012"
+  - sentence_id: "kaku-09-e16"
+    node_id: "kvt-012"
+  - sentence_id: "kaku-09-x03"
+    node_id: "kvt-012"
+  - sentence_id: "kaku-09-x04"
+    node_id: "kvt-012"
+
+sentence_structures:
+  # e01
+  - sentence_id: "kaku-09-e01"
+    label: "overall"
+    value: "S V M M."
+  - sentence_id: "kaku-09-e01"
+    label: "details"
+    value: "I(S) have lived(V:現在完了形) [in Nagano](M) [for twenty years](M)."
+  # e02
+  - sentence_id: "kaku-09-e02"
+    label: "overall"
+    value: "S V O."
+  - sentence_id: "kaku-09-e02"
+    label: "details"
+    value: "I(S) have just seen(V:現在完了形) <your e-mail>(O)."
+  # e03
+  - sentence_id: "kaku-09-e03"
+    label: "overall"
+    value: "S V O M."
+  - sentence_id: "kaku-09-e03"
+    label: "details"
+    value: "Robert(S) has visited(V:現在完了形) <my house>(O) <a few times>(M)."
+  # e04
+  - sentence_id: "kaku-09-e04"
+    label: "overall"
+    value: "S V M M (conj S V M)."
+  - sentence_id: "kaku-09-e04"
+    label: "details"
+    value: "I(S) had lived(V:過去完了形) [in Tokushima](M) [for two years](M) [before I(s) moved(v) [to Kagawa](m)](M:時の副詞節)."
+  # e05
+  - sentence_id: "kaku-09-e05"
+    label: "overall"
+    value: "(conj S V M,) S V M."
+  - sentence_id: "kaku-09-e05"
+    label: "details"
+    value: "[When I(s) arrived(v) [at the airport](m)](M:時の副詞節,) she(S) had left(V:過去完了形) [for Sapporo](M)."
+  # e06
+  - sentence_id: "kaku-09-e06"
+    label: "overall"
+    value: "(conj S V M,) S V O."
+  - sentence_id: "kaku-09-e06"
+    label: "details"
+    value: "[Until she(s) came(v) [to Sapporo](m)](M:時の副詞節,) she(S) had never seen(V:過去完了形) <snow>(O)."
+  # e07
+  - sentence_id: "kaku-09-e07"
+    label: "overall"
+    value: "S V M M M."
+  - sentence_id: "kaku-09-e07"
+    label: "details"
+    value: "I(S) will have lived(V:未来完了形) [in Amsterdam](M) [for three years](M) <next month>(M)."
+  # e08
+  - sentence_id: "kaku-09-e08"
+    label: "overall"
+    value: "S V O M."
+  - sentence_id: "kaku-09-e08"
+    label: "details"
+    value: "I(S) will have finished(V:未来完了形) <dinner>(O) [by 10](M)."
+  # e09
+  - sentence_id: "kaku-09-e09"
+    label: "overall"
+    value: "(conj S V O M,) S V O M."
+  - sentence_id: "kaku-09-e09"
+    label: "details"
+    value: "[If I(s) see(v:現在形) <the movie>(o) <one more time>(m)](M:条件副詞節,) I(S) will have seen(V:未来完了形) <it>(O) <five times>(M)."
+  # e10
+  - sentence_id: "kaku-09-e10"
+    label: "overall"
+    value: "S V O M."
+  - sentence_id: "kaku-09-e10"
+    label: "details"
+    value: "Masato(S) has been playing(V:現在完了進行形) <the piano>(O) [since this morning](M)."
+  # e11
+  - sentence_id: "kaku-09-e11"
+    label: "overall"
+    value: "S V M (conj S V O)."
+  - sentence_id: "kaku-09-e11"
+    label: "details"
+    value: "I(S) had been reading(V:過去完了進行形) [for three hours](M) [when <my mother>(s) entered(v) <my room>(o)](M:時の副詞節)."
+  # e12
+  - sentence_id: "kaku-09-e12"
+    label: "overall"
+    value: "M S V O M."
+  - sentence_id: "kaku-09-e12"
+    label: "details"
+    value: "[By next April](M) he(S) will have been learning(V:未来完了進行形) <the piano>(O) [for five years](M)."
+  # e13
+  - sentence_id: "kaku-09-e13"
+    label: "overall"
+    value: "S V (conj S V)."
+  - sentence_id: "kaku-09-e13"
+    label: "details"
+    value: "<Two years>(S) have passed(V:現在完了形) [since we(s) graduated(v)](M:時の副詞節)."
+  # e14
+  - sentence_id: "kaku-09-e14"
+    label: "overall"
+    value: "V S M M?"
+  - sentence_id: "kaku-09-e14"
+    label: "details"
+    value: "Have(aux) you(S) ever(M) been(V) [to Korea](M)?"
+  # e15
+  - sentence_id: "kaku-09-e15"
+    label: "overall"
+    value: "S V M."
+  - sentence_id: "kaku-09-e15"
+    label: "details"
+    value: "I(S) have just been(V:現在完了形) [to the library](M)."
+  # e16
+  - sentence_id: "kaku-09-e16"
+    label: "overall"
+    value: "S V M."
+  - sentence_id: "kaku-09-e16"
+    label: "details"
+    value: "She(S) has gone(V:現在完了形) [to China](M)."
+  # c01
+  - sentence_id: "kaku-09-c01"
+    label: "overall"
+    value: "S V O (conj S V O M)."
+  - sentence_id: "kaku-09-c01"
+    label: "details"
+    value: "He(S) didn't want(V) [to go [to the movies](M) [with me](M)](O) [because he(s) had seen(v:過去完了形) <the film>(o) before(m)](M:理由の副詞節)."
+  # c02
+  - sentence_id: "kaku-09-c02"
+    label: "overall"
+    value: "M S V M M."
+  - sentence_id: "kaku-09-c02"
+    label: "details"
+    value: "[By the end of next month](M) I(S) will have been(V:未来完了形) here(M) [for five years](M)."
+  # c03
+  - sentence_id: "kaku-09-c03"
+    label: "overall"
+    value: "S V O."
+  - sentence_id: "kaku-09-c03"
+    label: "details"
+    value: "I(S) have never seen(V:現在完了形) <Merlion>(O)."
+  # x01
+  - sentence_id: "kaku-09-x01"
+    label: "overall"
+    value: "S V M M (conj S V)."
+  - sentence_id: "kaku-09-x01"
+    label: "details"
+    value: "Hiroko(S) had lived(V:過去完了形) here(M) [for five years](M) [before she(s) moved(v)](M:時の副詞節)."
+  # x02
+  - sentence_id: "kaku-09-x02"
+    label: "overall"
+    value: "(conj S V M,) S V."
+  - sentence_id: "kaku-09-x02"
+    label: "details"
+    value: "[By the time you(s) get(v:現在形) [to the theater](m)](M:時の副詞節,) <the concert>(S) will have finished(V:未来完了形)."
+  # x03
+  - sentence_id: "kaku-09-x03"
+    label: "overall"
+    value: "S V M (conj S V M M)."
+  - sentence_id: "kaku-09-x03"
+    label: "details"
+    value: "Kevin(S) has been working(V:現在完了進行形) [at this company](M) [since he(s) came(v) [to Japan](m) [in 1980](m)](M:時の副詞節)."
+  # x04
+  - sentence_id: "kaku-09-x04"
+    label: "overall"
+    value: "V S M M?"
+  - sentence_id: "kaku-09-x04"
+    label: "details"
+    value: "Have(aux) you(S) ever(M) been(V) [to the United States](M)?"

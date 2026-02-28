@@ -2,24 +2,40 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T08:00:00"
+updated_at: "2026-03-02T12:00:00"
 book: "英文法の核心"
 book_slug: "kakushin"
 
 current_state:
-  phase: "Phase 2 — Batch 2 完了（Part 1 完了）"
+  phase: "Phase 2 — Batch 3 完了"
   current_section: null
   current_step: null
-  last_completed_section: "Kaku_06"
+  last_completed_section: "Kaku_09"
   last_completed_gate: 5
 
 progress:
   total_sections: 26
-  completed: 8
+  completed: 11
   in_progress: 0
-  remaining: 18
-  total_nodes: 22
-  total_sentences: 103
+  remaining: 15
+  total_nodes: 31
+  total_sentences: 169
+
+batch3_results:
+  sections_completed:
+    - section: "Kaku_07b"
+      nodes: ["kvt-004", "kvt-005", "kvt-006"]
+      sentences: 31
+    - section: "Kaku_08"
+      nodes: ["kvt-007", "kvt-008", "kvt-009"]
+      sentences: 12
+    - section: "Kaku_09"
+      nodes: ["kvt-010", "kvt-011", "kvt-012"]
+      sentences: 23
+  metrics:
+    batch_node_section_ratio: 3.0
+    batch_sentences: 66
+    cumulative_node_section_ratio: 2.82
 
 batch2_results:
   sections_completed:
@@ -59,16 +75,15 @@ pilot_results:
       sentences: 9
 
 recent_decisions:
-  - "decision #9: Kaku_05 CHECK 3問は英文なし → 登録対象外"
-  - "decision #10: Kaku_06 CHECK 3問は英文なし → 登録対象外"
-  - "decision #11: 「I know the man.」は導入文 → 登録対象外"
+  - "decision #12: Kaku_08 CHECK(1)「What do you do?」はe02と同一文 → 重複登録しない"
+  - "decision #13: Kaku_08 入試問題(1)「What do you do?」(麻布大学)はe02と同一文 → 重複登録しない"
 
 active_concerns: []
 
 next_actions:
-  - "Part 1 完了 → 全指示書再読込（済）"
-  - "Batch 3: Kaku_07b（文型後半）, Kaku_08（現在形）, Kaku_09（完了形）"
-  - "Kaku_07bはkvt-003から続番。CHECK/入試問題がここに集中"
+  - "3セクション完了 → 全指示書再読込"
+  - "Batch 4: Kaku_10（仮定法）, Kaku_11a（助動詞前半）, Kaku_11b（助動詞後半）"
+  - "kvt-012から続番。仮定法は17p（523L）で大規模。助動詞は11a+11bで881L（最大級）"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

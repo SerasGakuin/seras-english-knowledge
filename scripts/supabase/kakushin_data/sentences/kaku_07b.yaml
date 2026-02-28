@@ -1,0 +1,546 @@
+# Kaku_07b: 文型（第3〜5文型・使役知覚・入試問題）（p.83-99）
+
+sentences:
+  # === 本編解説の例文 ===
+  # --- 第4文型 SVOO ---
+  - id: "kaku-07b-e01"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "Kaito gave Sakura a beautiful bracelet."
+    japanese: "カイトはサクラに美しいブレスレットをあげました。"
+    notes: "第4文型SVOO。V 人 物「人に物を与える」の基本形"
+  - id: "kaku-07b-e02"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "My brother taught me how to swim."
+    japanese: "兄が私に泳ぎ方を教えてくれました。"
+    notes: "teach 人 物。物にhow to ~がきた形。teach=「知識を与える」"
+  - id: "kaku-07b-e03"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "Would you do me a favor?"
+    japanese: "（1つ）お願いがあるのですが。"
+    notes: "do 人 物「人に物を与える」。直訳「私に1つ親切(a favor)を与えて(do)くれませんか？」。doに「与える」の意味。物にくる名詞は「善悪・利害」に関するもの（good/harm/damage/a favor等）に限定"
+  - id: "kaku-07b-e04"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "It took me two hours to finish my homework."
+    japanese: "宿題を終えるのに私は2時間かかりました。"
+    notes: "take 人 時間「人は時間がかかる」=「人から時間を奪う」。Itは仮主語、to ~が真主語。人はよく省略される"
+  - id: "kaku-07b-e05"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "The doctor's carelessness cost the patient his life."
+    japanese: "その医者の不注意のせいで、その患者は命を落とした。"
+    notes: "cost 人 物「人から物を奪う」。costは「お金」だけでなく「大事なもの」も可。直訳「医者の不注意が、患者から命を奪った」"
+  - id: "kaku-07b-e06"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 6
+    role: "example"
+    english: "Could you spare me a few minutes?"
+    japanese: "少し時間をいただけますか。"
+    notes: "spare 人 時間・お金 →「与える」。spareは「余ったものを与える」=「割く」"
+  - id: "kaku-07b-e07"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 7
+    role: "example"
+    english: "Your e-mail spared me the trouble of going there."
+    japanese: "君がメールをくれたおかげで、わざわざそこに出掛ける手間が省けました。"
+    notes: "spare 人 マイナス単語 →「奪う」。直訳「あなたのメールが私からそこに行くという手間を奪った」。trouble=マイナス単語"
+  - id: "kaku-07b-e08"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 8
+    role: "example"
+    english: "She got her dog a new toy."
+    japanese: "彼女は自分が飼っている犬に、新しいおもちゃを与えた。"
+    notes: "知らない動詞でもV 人 物の形なら「与える」と予想。get 人 物=「手に入れてあげる・買ってあげる」=「与える」"
+  # --- 第5文型 SVOC 全体像・使役・知覚 ---
+  - id: "kaku-07b-e09"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 9
+    role: "example"
+    english: "I made my sister a doll."
+    japanese: "私は妹に人形をつくってあげました。"
+    notes: "第4文型SVOO。my sister ≠ a dollなのでSVOC ではない。e10との対比で文型判別を実演"
+  - id: "kaku-07b-e10"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 10
+    role: "example"
+    english: "Reading every day made me a better writer."
+    japanese: "毎日読書をしたおかげで、私はより良い作家となれた。"
+    notes: "第5文型SVOC。me = a better writerなのでSVOC。直訳「毎日読書をすることが、私をより良い作家にした」"
+  - id: "kaku-07b-e11"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 11
+    role: "example"
+    english: "We made the teacher angry."
+    japanese: "私たちは先生を怒らせてしまいました。"
+    notes: "SVOC。Cに形容詞→即断でSVOC。angry「怒っている」は形容詞"
+  - id: "kaku-07b-e12"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 12
+    role: "example"
+    english: "The teacher made the student go home."
+    japanese: "先生はその生徒を帰宅させました。"
+    notes: "SVOC。the student(O)とgo home(C)がs'v'の関係（生徒が帰る=能動）。使役動詞makeはCに原形をとれる"
+  - id: "kaku-07b-e13"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 13
+    role: "example"
+    english: "I'll have my secretary e-mail you."
+    japanese: "秘書にメールさせます。"
+    notes: "使役動詞have+原形。e-mailは動詞の原形。使役・知覚動詞は「セレブ」扱いで原形をとれる（to不定詞は不可）"
+  - id: "kaku-07b-e14"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 14
+    role: "example"
+    english: "Our teacher allows us to use a smartphone at school."
+    japanese: "ウチの先生は、学校でスマホを使わせてくれる。"
+    notes: "SV人to~の形。allow 人 to ~「人が~するのを許可する」。allowは「庶民」なので原形は不可、to不定詞をとる"
+  - id: "kaku-07b-e15"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 15
+    role: "example"
+    english: "LINE helps people stay in touch with each other."
+    japanese: "ライン（LINE）は人々が連絡を取り合うのに役立つ。"
+    notes: "help+原形。helpは例外的に原形とto不定詞の両方OK（stayはto stayでもOK）。stay in touch with ~「~と連絡を取り続ける」"
+  - id: "kaku-07b-e16"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 16
+    role: "example"
+    english: "I couldn't make myself understood in English."
+    japanese: "私の英語は通じなかった。"
+    notes: "make OC + p.p.（受動）。make oneself understood「話が通じる」=直訳「自分自身が理解される（ようにする）」。重要表現"
+  - id: "kaku-07b-e17"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 17
+    role: "example"
+    english: "The music made me sleepy."
+    japanese: "その音楽を聞いていたら、眠くなった。"
+    notes: "make OC（強制・必然）。Cに形容詞。直訳「音楽が私を眠くさせた」。必然のニュアンス（無理やりではない）"
+  - id: "kaku-07b-e18"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 18
+    role: "example"
+    english: "I had my hair cut."
+    japanese: "私は髪を切ってもらった。"
+    notes: "have OC（利害）+ p.p.（受動）。my hair(O)が cut(C=p.p.)される関係。「させた・してもらった・された」は立場の違いだけで現象は同じ"
+  - id: "kaku-07b-e19"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 19
+    role: "example"
+    english: "Let me know when you've finished."
+    japanese: "終わったら、教えてね。"
+    notes: "let OC（許可）+ 原形。「好きなように~させてあげる」。直訳「あなたが終わったら、私に知らせて」。命令文のLet me 原形.「私に~させて」"
+  - id: "kaku-07b-e20"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 20
+    role: "example"
+    english: "I found my sister eating my chips."
+    japanese: "姉が私のポテトチップスを食べてるのを見つけた。"
+    notes: "知覚動詞find + O + -ing（能動）。my sister(s')がeating(v')するという能動関係。知覚動詞: see/hear/feel/find"
+  - id: "kaku-07b-e21"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 21
+    role: "example"
+    english: "I got John to help me with the presentation."
+    japanese: "私は、ジョンにプレゼンテーションを手伝ってもらった。"
+    notes: "get OC（使役もどき）+ to原形。getは「庶民」なので原形は不可、to不定詞をとる。help 人 with ~「人の~を手伝う」"
+  - id: "kaku-07b-e22"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 22
+    role: "example"
+    english: "Yamato kept me waiting for many hours yesterday."
+    japanese: "ヤマトは昨日、私を何時間も待たせたんだよ。"
+    notes: "keep OC（使役もどき）+ -ing（能動）。me(O)がwaiting(C)するという能動関係。× waitedだと「待たれる」で変。keep/leaveの「させっぱなし」パターン"
+  - id: "kaku-07b-e23"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 23
+    role: "example"
+    english: "She named her baby Karen."
+    japanese: "彼女は自分の赤ちゃんにカレンと名付けた。"
+    notes: "命名系の動詞。name OC「OをCと名付ける」。call/name/elect"
+  - id: "kaku-07b-e24"
+    section_id: "Kaku_07b"
+    drill: 0
+    number: 24
+    role: "example"
+    english: "The Internet enables people to get a lot of information."
+    japanese: "インターネットのおかげで、人々はたくさんの情報を得ることができる。"
+    notes: "SV人to~の裏技: 「Sによって人は~する」と意訳。enable 人 to ~「人が~することを可能にする」。参考書内参照: →p.188「未来志向」"
+
+  # === CHECK 入試問題に向けて ===
+  - id: "kaku-07b-c01"
+    section_id: "Kaku_07b"
+    drill: 1
+    number: 1
+    role: "check"
+    english: "Smoking does us more harm than good."
+    japanese: "たばこは体に、利益より害を与える。"
+    notes: "空所補充。正解: does。do 人 物「人に物を与える」の形。空所直後に名詞2つ(us more harm)→SVOO"
+  - id: "kaku-07b-c02"
+    section_id: "Kaku_07b"
+    drill: 1
+    number: 2
+    role: "check"
+    english: "I saw my father reading a magazine at the café."
+    japanese: "私は父がカフェで雑誌を読んでいるのを見た。"
+    notes: "並び替え。知覚動詞saw→see OC。my father(O)、reading ~(C)=能動のs'v'関係"
+  - id: "kaku-07b-c03"
+    section_id: "Kaku_07b"
+    drill: 1
+    number: 3
+    role: "check"
+    english: "Taking a warm bath helps you sleep better."
+    japanese: "温かいお風呂に入ると、よく眠れるよ。"
+    notes: "空所補充。正解: sleep（原形）。help 人 {to} 原形の形。toは省略可"
+
+  # === 実際の入試問題演習 ===
+  - id: "kaku-07b-x01"
+    section_id: "Kaku_07b"
+    drill: 2
+    number: 1
+    role: "exam"
+    english: "You really look happy today."
+    japanese: "君は今日本当に幸せそうだね。"
+    notes: "出典: 札幌大学。空所補充。正解: ①happy。look+形容詞=第2文型SVC。look at~は前置詞atの後に名詞が必要なので③at happyは不可"
+  - id: "kaku-07b-x02"
+    section_id: "Kaku_07b"
+    drill: 2
+    number: 2
+    role: "exam"
+    english: "It only takes ten minutes to walk there."
+    japanese: "そこまで歩いて10分しかかかりません。"
+    notes: "出典: 鹿児島大学。空所補充。正解: takes。It takes 時間 to ~「~するのに時間がかかる」。take 人 時間の人が省略された形"
+  - id: "kaku-07b-x03"
+    section_id: "Kaku_07b"
+    drill: 2
+    number: 3
+    role: "exam"
+    english: "I had my wallet stolen on the way to the university."
+    japanese: "大学への通学中、私は財布を盗まれた。"
+    notes: "出典: 亜細亜大学。空所補充。正解: ③stolen。使役動詞had→SVOC。my wallet(O)が「盗まれる」=受動→p.p.のstolen"
+  - id: "kaku-07b-x04"
+    section_id: "Kaku_07b"
+    drill: 2
+    number: 4
+    role: "exam"
+    english: "The scholarship allowed Haruka to go to college in the U.S."
+    japanese: "その奨学金のおかげで、春香はアメリカに留学することができた。"
+    notes: "出典: 中央大学。並び替え（不要語: thanks）。allow 人 to ~「人が~するのを許可する」→「Sによって人は~する」と意訳。thanks to ~「~のおかげで」のひっかけ"
+
+sentence_structures:
+  # e01
+  - sentence_id: "kaku-07b-e01"
+    label: "overall"
+    value: "S V O O."
+  - sentence_id: "kaku-07b-e01"
+    label: "details"
+    value: "Kaito(S) gave(V) Sakura(O₁) <a beautiful bracelet>(O₂)."
+  # e02
+  - sentence_id: "kaku-07b-e02"
+    label: "overall"
+    value: "S V O O."
+  - sentence_id: "kaku-07b-e02"
+    label: "details"
+    value: "<My brother>(S) taught(V) me(O₁) [how to swim](O₂:名詞句)."
+  # e03
+  - sentence_id: "kaku-07b-e03"
+    label: "overall"
+    value: "V S V O O?"
+  - sentence_id: "kaku-07b-e03"
+    label: "details"
+    value: "Would you(S) do(V) me(O₁) <a favor>(O₂)?"
+  # e04
+  - sentence_id: "kaku-07b-e04"
+    label: "overall"
+    value: "S V O O M."
+  - sentence_id: "kaku-07b-e04"
+    label: "details"
+    value: "It(S:仮主語) took(V) me(O₁) <two hours>(O₂) [to finish my homework](M:真主語)."
+  # e05
+  - sentence_id: "kaku-07b-e05"
+    label: "overall"
+    value: "S V O O."
+  - sentence_id: "kaku-07b-e05"
+    label: "details"
+    value: "<The doctor's carelessness>(S) cost(V) <the patient>(O₁) <his life>(O₂)."
+  # e06
+  - sentence_id: "kaku-07b-e06"
+    label: "overall"
+    value: "V S V O O?"
+  - sentence_id: "kaku-07b-e06"
+    label: "details"
+    value: "Could you(S) spare(V) me(O₁) <a few minutes>(O₂)?"
+  # e07
+  - sentence_id: "kaku-07b-e07"
+    label: "overall"
+    value: "S V O O."
+  - sentence_id: "kaku-07b-e07"
+    label: "details"
+    value: "<Your e-mail>(S) spared(V) me(O₁) <the trouble of going there>(O₂)."
+  # e08
+  - sentence_id: "kaku-07b-e08"
+    label: "overall"
+    value: "S V O O."
+  - sentence_id: "kaku-07b-e08"
+    label: "details"
+    value: "She(S) got(V) <her dog>(O₁) <a new toy>(O₂)."
+  # e09
+  - sentence_id: "kaku-07b-e09"
+    label: "overall"
+    value: "S V O O."
+  - sentence_id: "kaku-07b-e09"
+    label: "details"
+    value: "I(S) made(V) <my sister>(O₁) <a doll>(O₂). ※O₁≠O₂→第4文型"
+  # e10
+  - sentence_id: "kaku-07b-e10"
+    label: "overall"
+    value: "S V O C."
+  - sentence_id: "kaku-07b-e10"
+    label: "details"
+    value: "<Reading every day>(S:動名詞句) made(V) me(O) <a better writer>(C:名詞). ※O=C→第5文型"
+  # e11
+  - sentence_id: "kaku-07b-e11"
+    label: "overall"
+    value: "S V O C."
+  - sentence_id: "kaku-07b-e11"
+    label: "details"
+    value: "We(S) made(V) <the teacher>(O) angry(C:形容詞). ※SVO+形容詞→即断SVOC"
+  # e12
+  - sentence_id: "kaku-07b-e12"
+    label: "overall"
+    value: "S V O C."
+  - sentence_id: "kaku-07b-e12"
+    label: "details"
+    value: "<The teacher>(S) made(V:使役) <the student>(O=s') [go home](C=v':原形). ※能動: s'がv'する"
+  # e13
+  - sentence_id: "kaku-07b-e13"
+    label: "overall"
+    value: "S V O C."
+  - sentence_id: "kaku-07b-e13"
+    label: "details"
+    value: "I(S) 'll have(V:使役) <my secretary>(O=s') [e-mail you](C=v':原形). ※使役動詞→原形をとれる"
+  # e14
+  - sentence_id: "kaku-07b-e14"
+    label: "overall"
+    value: "S V O C M."
+  - sentence_id: "kaku-07b-e14"
+    label: "details"
+    value: "<Our teacher>(S) allows(V) us(O=s') [to use <a smartphone>](C=v':to不定詞) [at school](M)."
+  # e15
+  - sentence_id: "kaku-07b-e15"
+    label: "overall"
+    value: "S V O C."
+  - sentence_id: "kaku-07b-e15"
+    label: "details"
+    value: "LINE(S) helps(V) people(O=s') [stay in touch with each other](C=v':原形). ※helpはto省略可"
+  # e16
+  - sentence_id: "kaku-07b-e16"
+    label: "overall"
+    value: "S V O C M."
+  - sentence_id: "kaku-07b-e16"
+    label: "details"
+    value: "I(S) couldn't make(V:使役) myself(O=s') understood(C=v':p.p.) [in English](M). ※受動: s'がv'される"
+  # e17
+  - sentence_id: "kaku-07b-e17"
+    label: "overall"
+    value: "S V O C."
+  - sentence_id: "kaku-07b-e17"
+    label: "details"
+    value: "<The music>(S) made(V:使役/強制必然) me(O) sleepy(C:形容詞). ※O=C"
+  # e18
+  - sentence_id: "kaku-07b-e18"
+    label: "overall"
+    value: "S V O C."
+  - sentence_id: "kaku-07b-e18"
+    label: "details"
+    value: "I(S) had(V:使役/利害) <my hair>(O=s') cut(C=v':p.p.). ※受動: 髪が切られる"
+  # e19
+  - sentence_id: "kaku-07b-e19"
+    label: "overall"
+    value: "V O C (conj S V)."
+  - sentence_id: "kaku-07b-e19"
+    label: "details"
+    value: "Let(V:使役/許可/命令文) me(O=s') know(C=v':原形) (when you(s) 've finished(v))(M:副詞節)."
+  # e20
+  - sentence_id: "kaku-07b-e20"
+    label: "overall"
+    value: "S V O C."
+  - sentence_id: "kaku-07b-e20"
+    label: "details"
+    value: "I(S) found(V:知覚) <my sister>(O=s') [eating <my chips>](C=v':-ing). ※能動: s'がv'する"
+  # e21
+  - sentence_id: "kaku-07b-e21"
+    label: "overall"
+    value: "S V O C."
+  - sentence_id: "kaku-07b-e21"
+    label: "details"
+    value: "I(S) got(V:使役もどき) John(O=s') [to help me with the presentation](C=v':to不定詞)."
+  # e22
+  - sentence_id: "kaku-07b-e22"
+    label: "overall"
+    value: "S V O C M."
+  - sentence_id: "kaku-07b-e22"
+    label: "details"
+    value: "Yamato(S) kept(V:使役もどき) me(O=s') [waiting](C=v':-ing) [for many hours yesterday](M). ※能動: s'がv'する"
+  # e23
+  - sentence_id: "kaku-07b-e23"
+    label: "overall"
+    value: "S V O C."
+  - sentence_id: "kaku-07b-e23"
+    label: "details"
+    value: "She(S) named(V:命名系) <her baby>(O) Karen(C:名詞). ※O=C"
+  # e24
+  - sentence_id: "kaku-07b-e24"
+    label: "overall"
+    value: "S V O C."
+  - sentence_id: "kaku-07b-e24"
+    label: "details"
+    value: "<The Internet>(S) enables(V) people(O=s') [to get <a lot of information>](C=v':to不定詞)."
+  # c01
+  - sentence_id: "kaku-07b-c01"
+    label: "overall"
+    value: "S V O O."
+  - sentence_id: "kaku-07b-c01"
+    label: "details"
+    value: "Smoking(S:動名詞) does(V) us(O₁) <more harm than good>(O₂)."
+  # c02
+  - sentence_id: "kaku-07b-c02"
+    label: "overall"
+    value: "S V O C M."
+  - sentence_id: "kaku-07b-c02"
+    label: "details"
+    value: "I(S) saw(V:知覚) <my father>(O=s') [reading <a magazine>](C=v':-ing) [at the café](M)."
+  # c03
+  - sentence_id: "kaku-07b-c03"
+    label: "overall"
+    value: "S V O C."
+  - sentence_id: "kaku-07b-c03"
+    label: "details"
+    value: "<Taking a warm bath>(S:動名詞句) helps(V) you(O=s') [sleep better](C=v':原形)."
+  # x01
+  - sentence_id: "kaku-07b-x01"
+    label: "overall"
+    value: "S M V C M."
+  - sentence_id: "kaku-07b-x01"
+    label: "details"
+    value: "You(S) really(M) look(V) happy(C:形容詞) today(M). ※SVC第2文型"
+  # x02
+  - sentence_id: "kaku-07b-x02"
+    label: "overall"
+    value: "S M V O M."
+  - sentence_id: "kaku-07b-x02"
+    label: "details"
+    value: "It(S:仮主語) only(M) takes(V) <ten minutes>(O:時間) [to walk there](M:真主語). ※人省略形: take 時間 to~"
+  # x03
+  - sentence_id: "kaku-07b-x03"
+    label: "overall"
+    value: "S V O C M."
+  - sentence_id: "kaku-07b-x03"
+    label: "details"
+    value: "I(S) had(V:使役/利害) <my wallet>(O=s') stolen(C=v':p.p.) [on the way to the university](M). ※受動: 財布が盗まれる"
+  # x04
+  - sentence_id: "kaku-07b-x04"
+    label: "overall"
+    value: "S V O C."
+  - sentence_id: "kaku-07b-x04"
+    label: "details"
+    value: "<The scholarship>(S) allowed(V) Haruka(O=s') [to go to college in the U.S.](C=v':to不定詞)."
+
+sentence_knowledge_tags:
+  # 第4文型 SVOO → kvt-004
+  - sentence_id: "kaku-07b-e01"
+    node_id: "kvt-004"
+  - sentence_id: "kaku-07b-e02"
+    node_id: "kvt-004"
+  - sentence_id: "kaku-07b-e03"
+    node_id: "kvt-004"
+  - sentence_id: "kaku-07b-e04"
+    node_id: "kvt-004"
+  - sentence_id: "kaku-07b-e05"
+    node_id: "kvt-004"
+  - sentence_id: "kaku-07b-e06"
+    node_id: "kvt-004"
+  - sentence_id: "kaku-07b-e07"
+    node_id: "kvt-004"
+  - sentence_id: "kaku-07b-e08"
+    node_id: "kvt-004"
+  - sentence_id: "kaku-07b-c01"
+    node_id: "kvt-004"
+  - sentence_id: "kaku-07b-x02"
+    node_id: "kvt-004"
+  # 第5文型 SVOC + 使役・知覚 → kvt-005
+  - sentence_id: "kaku-07b-e09"
+    node_id: "kvt-005"
+  - sentence_id: "kaku-07b-e10"
+    node_id: "kvt-005"
+  - sentence_id: "kaku-07b-e11"
+    node_id: "kvt-005"
+  - sentence_id: "kaku-07b-e12"
+    node_id: "kvt-005"
+  - sentence_id: "kaku-07b-e13"
+    node_id: "kvt-005"
+  - sentence_id: "kaku-07b-e16"
+    node_id: "kvt-005"
+  - sentence_id: "kaku-07b-e17"
+    node_id: "kvt-005"
+  - sentence_id: "kaku-07b-e18"
+    node_id: "kvt-005"
+  - sentence_id: "kaku-07b-e19"
+    node_id: "kvt-005"
+  - sentence_id: "kaku-07b-e20"
+    node_id: "kvt-005"
+  - sentence_id: "kaku-07b-c02"
+    node_id: "kvt-005"
+  - sentence_id: "kaku-07b-x01"
+    node_id: "kvt-003"
+  - sentence_id: "kaku-07b-x03"
+    node_id: "kvt-005"
+  # SVOC発展動詞 → kvt-006
+  - sentence_id: "kaku-07b-e14"
+    node_id: "kvt-005"
+  - sentence_id: "kaku-07b-e14"
+    node_id: "kvt-006"
+  - sentence_id: "kaku-07b-e15"
+    node_id: "kvt-006"
+  - sentence_id: "kaku-07b-e21"
+    node_id: "kvt-006"
+  - sentence_id: "kaku-07b-e22"
+    node_id: "kvt-006"
+  - sentence_id: "kaku-07b-e23"
+    node_id: "kvt-006"
+  - sentence_id: "kaku-07b-e24"
+    node_id: "kvt-006"
+  - sentence_id: "kaku-07b-c03"
+    node_id: "kvt-006"
+  - sentence_id: "kaku-07b-x04"
+    node_id: "kvt-006"

@@ -77,32 +77,32 @@ sections:
     title: "文型（第3〜5文型・使役知覚・入試問題）"
     type: "grammar_lecture"
     pages: "p.83-99"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 3
+    sentences_created: 31
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "kvt-004/005/006。Gate4: x01タグをkvt-003に修正（SVC第2文型）、e14にkvt-005タグ追加。Gate3: x02のO₂→O(時間)に修正、kvt-004→kvt-003 prerequisite追加"
   Kaku_08:
     title: "現在形"
     type: "grammar_lecture"
     pages: "p.100-110"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 3
+    sentences_created: 12
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "kvt-007/008/009。重複文2件除外(decisions #12,#13)。Gate3: kvt-008→kvt-007 prerequisite追加"
   Kaku_09:
     title: "完了形"
     type: "grammar_lecture"
     pages: "p.111-123"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 3
+    sentences_created: 23
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "kvt-010/011/012。完了形の核心「矢印」概念。例文16+CHECK3+入試4=23文。Gate3: sentence_structures形式修正+sourceフィールド除去"
   Kaku_10:
     title: "仮定法"
     type: "grammar_lecture"
@@ -266,8 +266,8 @@ sections:
 
 summary:
   total_sections: 26
-  completed: 8
+  completed: 11
   in_progress: 0
-  not_started: 18
-  total_knowledge_nodes: 22
-  total_sentences: 103
+  not_started: 15
+  total_knowledge_nodes: 31
+  total_sentences: 169

@@ -1,0 +1,224 @@
+# Kaku_08: 現在形（p.100-110）
+
+sentences:
+  # === 本編解説の例文 ===
+  # --- 現在形の核心 ---
+  - id: "kaku-08-e01"
+    section_id: "Kaku_08"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I watch anime a lot."
+    japanese: "私はアニメをよく見ます。"
+    notes: "現在形=「昨日も今日も明日もアニメを見る」。現在形は「現在・過去・未来形」と捉え直す"
+  - id: "kaku-08-e02"
+    section_id: "Kaku_08"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "What do you do?"
+    japanese: "お仕事は何をしていますか？"
+    notes: "現在形doに注目。「昨日も今日も明日も何をするの？」→「普段何をするの？」→「ご職業は？」。応答例: I go to school.「学生です」。CHECK(1)の和訳問題でも出題。入試問題(麻布大学)でも出題。What do you do for fun?なら「趣味は何？」"
+  # --- 時・条件を表す副詞節の現在形ルール ---
+  - id: "kaku-08-e03"
+    section_id: "Kaku_08"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "My dad will take me to the aquarium tomorrow if I finish my homework today."
+    japanese: "もし今日、宿題を終えれば、明日、お父さんが水族館に連れていってくれるんだ。"
+    notes: "if副詞節の中→現在形finish（未来の動作だが現在形で代用）。主節は未来のことなのでwill take"
+  - id: "kaku-08-e04"
+    section_id: "Kaku_08"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "I have to go as soon as the bell rings."
+    japanese: "チャイムが鳴ったらすぐに行かないと。"
+    notes: "as soon as副詞節の中→現在形rings。副詞節の外ではhave to（助動詞相当表現）が未来を表す"
+  - id: "kaku-08-e05"
+    section_id: "Kaku_08"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "I don't know if he will go to Italy next month."
+    japanese: "来月に彼がイタリアに行くのかどうか、私にはわからない。"
+    notes: "他動詞knowの後のif=名詞節「〜かどうか」→副詞節ではないので未来のことは普通にwill go。if/whenの副詞節vs名詞節の区別が入試頻出"
+  # --- 進行形の核心 ---
+  - id: "kaku-08-e06"
+    section_id: "Kaku_08"
+    drill: 0
+    number: 6
+    role: "example"
+    english: "I am doing my homework."
+    japanese: "私は宿題をしているところです。"
+    notes: "進行形=「途中」。「〜している」ではなく「〜している途中」と考える"
+  - id: "kaku-08-e07"
+    section_id: "Kaku_08"
+    drill: 0
+    number: 7
+    role: "example"
+    english: "The couple are marrying next month."
+    japanese: "その2人は来月結婚する予定です。"
+    notes: "「予定」を表す進行形。結婚式は来月だが、準備は進行中（式場予約・ドレス・招待状等）=「結婚の途中」。「近い未来」=時間の近さではなく着手済みかどうかが基準"
+
+  # === CHECK 入試問題に向けて ===
+  # CHECK(1) What do you do? はe02と同一文 → 重複登録しない（decision #12）
+  - id: "kaku-08-c01"
+    section_id: "Kaku_08"
+    drill: 1
+    number: 2
+    role: "check"
+    english: "I'll call you when I'm done."
+    japanese: "終わったら電話するね。"
+    notes: "空所補充。正解: I'm。when副詞節の中→未来のことでも現在形（am）。be done「終える」。主節は未来の形will call"
+  - id: "kaku-08-c02"
+    section_id: "Kaku_08"
+    drill: 1
+    number: 3
+    role: "check"
+    english: "He likes avocados."
+    japanese: "彼はアボカドが好きです。"
+    notes: "空所補充。正解: likes。like=5秒ごとに中断・再開できない→進行形不可→現在形"
+
+  # === 実際の入試問題演習 ===
+  # 入試問題(1) What do you do? (麻布大学) はe02と同一文 → 重複登録しない（decision #13）
+  - id: "kaku-08-x01"
+    section_id: "Kaku_08"
+    drill: 2
+    number: 2
+    role: "exam"
+    english: "We will have indoor activities if it rains tomorrow."
+    japanese: "明日雨が降れば、室内活動にします。"
+    notes: "出典: 国士舘大学。空所補充。正解: rains。if副詞節の中→現在形。主節はwill have（未来の形）"
+  - id: "kaku-08-x02"
+    section_id: "Kaku_08"
+    drill: 2
+    number: 3
+    role: "exam"
+    english: "I had a fight with Jun and now we aren't speaking to each other."
+    japanese: "ジュンと喧嘩して、今はお互い口をきいてないんだ。"
+    notes: "出典: 慶応大学。空所補充。正解: aren't speaking。nowに注目→現在進行形。speakは自動詞でspeak to 人の形"
+  - id: "kaku-08-x03"
+    section_id: "Kaku_08"
+    drill: 2
+    number: 4
+    role: "exam"
+    english: "Robert resembles his father in appearance but not in character."
+    japanese: "ロバートは父に容姿の面では似ているが、性格の面では似ていない。"
+    notes: "出典: 佛教大学。空所補充。正解: resembles。resemble=5秒ごとに中断・再開できない→進行形不可→現在形。×be resembling"
+
+sentence_structures:
+  # e01
+  - sentence_id: "kaku-08-e01"
+    label: "overall"
+    value: "S V O M."
+  - sentence_id: "kaku-08-e01"
+    label: "details"
+    value: "I(S) watch(V:現在形) anime(O) <a lot>(M)."
+  # e02
+  - sentence_id: "kaku-08-e02"
+    label: "overall"
+    value: "Wh V S V?"
+  - sentence_id: "kaku-08-e02"
+    label: "details"
+    value: "What(O) do(aux:現在形) you(S) do(V)?"
+  # e03
+  - sentence_id: "kaku-08-e03"
+    label: "overall"
+    value: "S V O M M (conj S V O M)."
+  - sentence_id: "kaku-08-e03"
+    label: "details"
+    value: "<My dad>(S) will take(V) me(O) [to the aquarium](M) tomorrow(M) [if I(s) finish(v:現在形) <my homework>(o) today(m)](M:条件副詞節)."
+  # e04
+  - sentence_id: "kaku-08-e04"
+    label: "overall"
+    value: "S V (conj S V)."
+  - sentence_id: "kaku-08-e04"
+    label: "details"
+    value: "I(S) have to go(V) [as soon as <the bell>(s) rings(v:現在形)](M:時副詞節)."
+  # e05
+  - sentence_id: "kaku-08-e05"
+    label: "overall"
+    value: "S V O."
+  - sentence_id: "kaku-08-e05"
+    label: "details"
+    value: "I(S) don't know(V) [if he(s) will go(v) [to Italy](m) [next month](m)](O:名詞節)."
+  # e06
+  - sentence_id: "kaku-08-e06"
+    label: "overall"
+    value: "S V O."
+  - sentence_id: "kaku-08-e06"
+    label: "details"
+    value: "I(S) am doing(V:進行形) <my homework>(O)."
+  # e07
+  - sentence_id: "kaku-08-e07"
+    label: "overall"
+    value: "S V M."
+  - sentence_id: "kaku-08-e07"
+    label: "details"
+    value: "<The couple>(S) are marrying(V:進行形/予定) [next month](M)."
+  # c01
+  - sentence_id: "kaku-08-c01"
+    label: "overall"
+    value: "S V O (conj S V)."
+  - sentence_id: "kaku-08-c01"
+    label: "details"
+    value: "I(S) 'll call(V) you(O) [when I(s) 'm(v:現在形) done](M:時副詞節)."
+  # c02
+  - sentence_id: "kaku-08-c02"
+    label: "overall"
+    value: "S V O."
+  - sentence_id: "kaku-08-c02"
+    label: "details"
+    value: "He(S) likes(V:現在形/状態動詞) avocados(O)."
+  # x01
+  - sentence_id: "kaku-08-x01"
+    label: "overall"
+    value: "S V O (conj S V M)."
+  - sentence_id: "kaku-08-x01"
+    label: "details"
+    value: "We(S) will have(V) <indoor activities>(O) [if it(s) rains(v:現在形) tomorrow(m)](M:条件副詞節)."
+  # x02
+  - sentence_id: "kaku-08-x02"
+    label: "overall"
+    value: "S V O M (conj M S V M)."
+  - sentence_id: "kaku-08-x02"
+    label: "details"
+    value: "I(S) had(V) <a fight>(O) [with Jun](M) and now(M) we(S) aren't speaking(V:進行形) [to each other](M)."
+  # x03
+  - sentence_id: "kaku-08-x03"
+    label: "overall"
+    value: "S V O M (conj neg M)."
+  - sentence_id: "kaku-08-x03"
+    label: "details"
+    value: "Robert(S) resembles(V:現在形/状態動詞) <his father>(O) [in appearance](M) but not [in character](M)."
+
+sentence_knowledge_tags:
+  # 現在形の核心 → kvt-007
+  - sentence_id: "kaku-08-e01"
+    node_id: "kvt-007"
+  - sentence_id: "kaku-08-e02"
+    node_id: "kvt-007"
+  # 副詞節の現在形ルール → kvt-008
+  - sentence_id: "kaku-08-e03"
+    node_id: "kvt-008"
+  - sentence_id: "kaku-08-e04"
+    node_id: "kvt-008"
+  - sentence_id: "kaku-08-e05"
+    node_id: "kvt-008"
+  - sentence_id: "kaku-08-c01"
+    node_id: "kvt-008"
+  - sentence_id: "kaku-08-x01"
+    node_id: "kvt-008"
+  # 進行形の核心と5秒ルール → kvt-009
+  - sentence_id: "kaku-08-e06"
+    node_id: "kvt-009"
+  - sentence_id: "kaku-08-e07"
+    node_id: "kvt-009"
+  - sentence_id: "kaku-08-c02"
+    node_id: "kvt-009"
+  - sentence_id: "kaku-08-x02"
+    node_id: "kvt-009"
+  - sentence_id: "kaku-08-x03"
+    node_id: "kvt-009"

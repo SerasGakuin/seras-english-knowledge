@@ -65,3 +65,15 @@ decisions:
     question: "「I know the man.」はthat節への置き換えの導入用の文。完全な英文だが登録するか？"
     decision: "登録しない。この文自体は接続詞の知識を実践する英文ではなく、名詞→that節の変換を示すための導入。「I know that he is rich.」（e15）の方が接続詞thatの実践例。"
     decided_by: "リード"
+  - id: 12
+    date: "2026-03-01"
+    section: "Kaku_08"
+    question: "CHECK(1)「What do you do?」はe02と同一文。重複登録するか？"
+    decision: "重複登録しない。e02のnotesに「CHECK(1)の和訳問題でも出題」と記録。decision #1の先例に従う。"
+    decided_by: "リード"
+  - id: 13
+    date: "2026-03-01"
+    section: "Kaku_08"
+    question: "入試問題(1)「What do you do?」（麻布大学）はe02と同一文。重複登録するか？"
+    decision: "重複登録しない。e02のnotesに「入試問題(麻布大学)でも出題」と記録。decision #1の先例に従う。"
+    decided_by: "リード"
