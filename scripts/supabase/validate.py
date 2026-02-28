@@ -28,6 +28,10 @@ BOOK_CONFIGS = {
         "sentence_id_pattern": r"^ny-\d{2}-s\d+$",
         "node_section_ratio": (2.0, 4.0),
     },
+    "scramble": {
+        "sentence_id_pattern": r"^scr-(?:\d{3}|s\d{2})-[pe]\d{2}$",
+        "node_section_ratio": (0.5, 1.0),
+    },
 }
 
 

@@ -1,0 +1,73 @@
+# Ch15 動詞の語法 — パイロット: Scr_125（Theme 125: 自動詞と他動詞）
+
+knowledge_nodes:
+  - id: "sgh-001"
+    name: "自動詞と他動詞──前置詞の有無"
+    category: "語法"
+    priority: "P1"
+    notes: |
+      Theme 125: 自動詞と他動詞──前置詞の有無（問題474-480）
+      ■ 他動詞（前置詞不要）— 自動詞と間違えやすい他動詞14語（PU!92）:
+      approach「〜に近づく」, attend「〜に出席する」, discuss「〜について議論する」,
+      obey「〜に従う」, marry「〜と結婚する」, leave「〜を去る」,
+      mention「〜に言及する」(= refer to), answer「〜に答える」(= reply to),
+      resemble「〜に似ている」, oppose「〜に反対する」(= object to),
+      enter「〜に入る」(= go into), reach「〜に着く」(= arrive at/in),
+      survive「〜を切り抜けて生き残る」, search「(場所)を捜す」(cf. search for「(物)を捜し求める」)
+      ■ 自動詞（前置詞必要）— 他動詞と間違えやすい自動詞7語（PU!93）:
+      apologize (to A) for B「(Aに)Bのことで謝る」, complain (to A) of/about B「(Aに)Bについて不平を言う」,
+      graduate from〜「〜を卒業する」, object to〜「〜に反対する」,
+      participate in〜「〜に参加する」, argue with A (about/over B)「(Bについて)Aと口論する」,
+      hope for〜「〜を望む」
+      ■ marry の3語法（〈重要〉）:
+      (1) A marry B「AはBと結婚する」
+      (2) A get [is] married to B「AはBと結婚する[している]」
+      (3) A and B get [are] married「AとBは結婚する[している]」
+      ■ hope の注意点:
+      (代)名詞が続くとき自動詞用法で for が必要。
+      他動詞の hope は to do [×doing] または that 節を目的語にとる。
+      参照: Theme 121（object to）, Theme 497（hope の to do / that 節）, Theme 543（hope の語法詳細）, Theme 168, Theme 735（survive）
+
+understanding_goals:
+  - node_id: "sgh-001"
+    seq: 1
+    goal: "discuss / marry / resemble / attend 等が他動詞であり前置詞が不要であることを判断できる"
+  - node_id: "sgh-001"
+    seq: 2
+    goal: "apologize to A for B / graduate from / hope for 等が自動詞であり前置詞が必要であることを判断できる"
+  - node_id: "sgh-001"
+    seq: 3
+    goal: "marry の3つの語法（marry B / get married to B / get married）を正しく使い分けられる"
+  - node_id: "sgh-001"
+    seq: 4
+    goal: "他動詞を自動詞と混同する典型的な誤り（×discuss about, ×resemble to 等）を指摘できる"
+
+check_points:
+  - node_id: "sgh-001"
+    seq: 1
+    question: "discuss の後ろに about は必要か？"
+    answer: "不要。discuss は他動詞用法のみなので前置詞なしで目的語を直接とる（×discuss about）。"
+  - node_id: "sgh-001"
+    seq: 2
+    question: "apologize の後ろに人と理由を続けるとき、どの前置詞を使うか？"
+    answer: "apologize to A for B。謝る相手には to、理由には for。"
+  - node_id: "sgh-001"
+    seq: 3
+    question: "marry の3つの語法を書け。"
+    answer: "(1) A marry B (2) A get/is married to B (3) A and B get/are married"
+  - node_id: "sgh-001"
+    seq: 4
+    question: "hope の後ろに名詞を続けるとき、前置詞は何が必要か？"
+    answer: "for が必要。hope for ~「~を望む」。hope は名詞が続くとき自動詞用法。"
+  - node_id: "sgh-001"
+    seq: 5
+    question: "「〜を卒業する」は英語で何というか？"
+    answer: "graduate from ~。graduate は自動詞用法なので from が必要。"
+
+node_prerequisites: []
+
+knowledge_references:
+  - node_id: "sgh-001"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_125"
+    pages: ""

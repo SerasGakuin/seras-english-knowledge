@@ -1,0 +1,32 @@
+sections:
+  # Part 1 > Ch01 時制
+  - id: "Scr_001"
+    book: "スクランブル英文法・語法"
+    title: "基本3時制の用法"
+    pages: ""
+    type: "grammar"
+  # Part 1 > Ch07 仮定法
+  - id: "Scr_046"
+    book: "スクランブル英文法・語法"
+    title: "仮定法過去"
+    pages: ""
+    type: "grammar"
+  # Part 2 > Ch15 動詞の語法
+  - id: "Scr_125"
+    book: "スクランブル英文法・語法"
+    title: "自動詞と他動詞──前置詞の有無"
+    pages: ""
+    type: "usage"
+
+section_knowledge_nodes:
+  - section_id: "Scr_001"
+    node_id: "sdv-001"
+    seq: 1
+  - section_id: "Scr_046"
+    node_id: "skh-001"
+    seq: 1
+  - section_id: "Scr_125"
+    node_id: "sgh-001"
+    seq: 1
+
+section_prerequisites: []

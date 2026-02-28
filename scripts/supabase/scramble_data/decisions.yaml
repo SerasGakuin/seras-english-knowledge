@@ -1,0 +1,37 @@
+decisions:
+  - id: 1
+    date: "2026-03-01"
+    section: "Scr_001"
+    question: "PU!1の12時制表の形（I do. / I did. 等）はsentencesに登録するか？"
+    decision: "登録しない。スケルトン的で完全な文でない。"
+    decided_by: "リード"
+  - id: 2
+    date: "2026-03-01"
+    section: "Scr_001"
+    question: "PU!2中の例文（Our school festival begins tomorrow. 等）はsentencesに登録するか？"
+    decision: "登録する。完全な文で和訳もある。"
+    decided_by: "リード"
+  - id: 3
+    date: "2026-03-01"
+    section: "general"
+    question: "drill フィールドの値はどうするか？"
+    decision: "exam = 1, example = 0。問題集の問題はドリル扱い、例文は非ドリル。"
+    decided_by: "リード"
+  - id: 4
+    date: "2026-03-01"
+    section: "Scr_046"
+    question: "PU!29はScr_046に含めるか、Scr_047に含めるか？"
+    decision: "Scr_047に含める。位置的にTheme 47の直後にある。"
+    decided_by: "リード"
+  - id: 5
+    date: "2026-03-01"
+    section: "general"
+    question: "解説中の書き換え文（本問 = ... の形）はsentencesに登録するか？"
+    decision: "登録しない。構造的パラフレーズで独立した例文でない。"
+    decided_by: "リード"
+  - id: 6
+    date: "2026-03-01"
+    section: "general"
+    question: "対話形式問題の場合、AとBどちらの文を登録するか？"
+    decision: "Bの文のみ登録し、Aの文はnotesに記録。文法ポイントを含む文を優先。"
+    decided_by: "リード"

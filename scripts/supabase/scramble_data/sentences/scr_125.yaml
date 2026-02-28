@@ -1,0 +1,127 @@
+# Scr_125: Theme 125 自動詞と他動詞──前置詞の有無
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-125-p01"
+    section_id: "Scr_125"
+    drill: 1
+    number: 474
+    role: "exam"
+    english: "We have to discuss the current human rights problems as soon as possible."
+    japanese: "私たちは現在の人権問題についてできるだけ早く議論しなければならない。"
+    notes: "難易度: 基本, 頻出; 出典: 阪南大; discuss は他動詞用法のみ（×discuss about）"
+  - id: "scr-125-p02"
+    section_id: "Scr_125"
+    drill: 1
+    number: 475
+    role: "exam"
+    english: "John married a woman from France."
+    japanese: "ジョンはフランス出身の女性と結婚した。"
+    notes: "難易度: 基本, 頻出; 出典: 神戸学院大; marry は他動詞; 〈重要〉marry の3語法"
+  - id: "scr-125-p03"
+    section_id: "Scr_125"
+    drill: 1
+    number: 476
+    role: "exam"
+    english: "I think you resemble your elder brother."
+    japanese: "あなたはお兄さんに似ていると思う。"
+    notes: "難易度: 頻出; 出典: 駒澤大; resemble は他動詞用法のみ（×resemble to）"
+  - id: "scr-125-p04"
+    section_id: "Scr_125"
+    drill: 1
+    number: 477
+    role: "exam"
+    english: "Over three thousand people attended the concert."
+    japanese: "コンサートには3千人以上の人たちが来た。"
+    notes: "出典: 南山大; attend は他動詞; 〈選択肢〉participated in, gathered at, listened to なら可"
+  - id: "scr-125-p05"
+    section_id: "Scr_125"
+    drill: 1
+    number: 478
+    role: "exam"
+    english: "Will you apologize to him for what I have done?"
+    japanese: "私がやってしまったことを彼に謝ってくれませんか。"
+    notes: "難易度: 頻出; 出典: 関西大; apologize は自動詞: to A for B"
+  - id: "scr-125-p06"
+    section_id: "Scr_125"
+    drill: 1
+    number: 479
+    role: "exam"
+    english: "Her sister will graduate from junior high school this year."
+    japanese: "彼女の妹は、今年、中学校を卒業します。"
+    notes: "難易度: 基本; 出典: 愛知学院大; graduate は自動詞: from が必要"
+  - id: "scr-125-p07"
+    section_id: "Scr_125"
+    drill: 1
+    number: 480
+    role: "exam"
+    english: "I hope for his success in business."
+    japanese: "私は彼が仕事で成功することを望んでいる。"
+    notes: "出典: 中京学院大; hope は名詞が続くとき自動詞: for が必要; 参照: Theme 543"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-125-p01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-125-p01"
+    label: "details"
+    value: "We(S) have to discuss(V) <the current human rights problems>(O) [as soon as possible](M:副詞句)."
+  # p02
+  - sentence_id: "scr-125-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-125-p02"
+    label: "details"
+    value: "John(S) married(V) <a woman from France>(O)."
+  # p03
+  - sentence_id: "scr-125-p03"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-125-p03"
+    label: "details"
+    value: "I(S) think(V) [you resemble your elder brother](O:that節省略)."
+  # p04
+  - sentence_id: "scr-125-p04"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-125-p04"
+    label: "details"
+    value: "<Over three thousand people>(S) attended(V) <the concert>(O)."
+  # p05
+  - sentence_id: "scr-125-p05"
+    label: "overall"
+    value: "V M M"
+  - sentence_id: "scr-125-p05"
+    label: "details"
+    value: "Will you apologize(V) [to him](M:前置詞句) [for what I have done](M:前置詞句)?"
+  # p06
+  - sentence_id: "scr-125-p06"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-125-p06"
+    label: "details"
+    value: "<Her sister>(S) will graduate(V) [from junior high school](M:前置詞句) [this year](M:副詞句)."
+  # p07
+  - sentence_id: "scr-125-p07"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-125-p07"
+    label: "details"
+    value: "I(S) hope(V) [for his success in business](M:前置詞句)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-125-p01"
+    node_id: "sgh-001"
+  - sentence_id: "scr-125-p02"
+    node_id: "sgh-001"
+  - sentence_id: "scr-125-p03"
+    node_id: "sgh-001"
+  - sentence_id: "scr-125-p04"
+    node_id: "sgh-001"
+  - sentence_id: "scr-125-p05"
+    node_id: "sgh-001"
+  - sentence_id: "scr-125-p06"
+    node_id: "sgh-001"
+  - sentence_id: "scr-125-p07"
+    node_id: "sgh-001"

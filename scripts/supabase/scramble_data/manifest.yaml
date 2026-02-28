@@ -1,0 +1,43 @@
+project: "スクランブル英文法・語法"
+book_slug: "scramble"
+last_updated: "2026-03-01"
+
+sections:
+  Scr_001:
+    title: "基本3時制の用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 10
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "パイロット。sdv-001。PU!1(12時制表)はnotes記録、PU!2の例文3件登録"
+  Scr_046:
+    title: "仮定法過去"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "パイロット。skh-001。PU!29はScr_047管轄(decision #4)"
+  Scr_125:
+    title: "自動詞と他動詞──前置詞の有無"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "パイロット。sgh-001。PU!92(他動詞14語)/PU!93(自動詞7語)はnotes記録"
+
+summary:
+  total_sections: 3
+  completed: 3
+  in_progress: 0
+  not_started: 0
+  total_knowledge_nodes: 3
+  total_sentences: 21

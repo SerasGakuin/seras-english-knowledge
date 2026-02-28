@@ -1,0 +1,180 @@
+# Scr_001: Theme 1 基本3時制の用法
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-001-p01"
+    section_id: "Scr_001"
+    drill: 1
+    number: 1
+    role: "exam"
+    english: "I read an English newspaper before going to work every day."
+    japanese: "私は毎日、仕事に行く前に英字新聞を読んでいます。"
+    notes: "難易度: 基本, 頻出; 出典: 麗澤大; 対話形式（A: What is your daily routine?）; 現在の習慣的動作→現在形"
+  - id: "scr-001-p02"
+    section_id: "Scr_001"
+    drill: 1
+    number: 2
+    role: "exam"
+    english: "Water boils at a temperature of 100 degrees centigrade."
+    japanese: "水は摂氏100度で沸騰する。"
+    notes: "難易度: 頻出; 出典: 上智大; 不変の真理→現在形"
+  - id: "scr-001-p03"
+    section_id: "Scr_001"
+    drill: 1
+    number: 3
+    role: "exam"
+    english: "Masato visited Canada when he was five years old."
+    japanese: "5歳の時、マサトはカナダを訪れた。"
+    notes: "難易度: 基本, 頻出; 出典: 新潟食料農業大; 過去のできごと→過去形; 参照: Theme 5（現在完了形は明らかに過去を示す語句と共に使えない）"
+  - id: "scr-001-p04"
+    section_id: "Scr_001"
+    drill: 1
+    number: 4
+    role: "exam"
+    english: "I do not know when he will come next time."
+    japanese: "彼が今度いつ来るのかわからない。"
+    notes: "難易度: 基本; 出典: 名城大; 未来のできごと→will"
+
+  # === 例文（example） ===
+  - id: "scr-001-e01"
+    section_id: "Scr_001"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "The teacher said that the Earth goes around the Sun."
+    japanese: "地球は太陽の周りを回っていると教師は言った。"
+    notes: "問題2プラスα: 不変の真理は時制の一致を受けない"
+  - id: "scr-001-e02"
+    section_id: "Scr_001"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Look at those fallen leaves. It is going to be winter soon."
+    japanese: "あの落ち葉を見てごらん。もうすぐ冬になりそうだ。"
+    notes: "問題4プラスα: be going to — 根拠に基づく予測"
+  - id: "scr-001-e03"
+    section_id: "Scr_001"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "I'm very tired, so I'm going to go to bed early tonight."
+    japanese: "とても疲れているので、今晩は早く寝るつもりです。"
+    notes: "問題4プラスα: be going to — 意図・予定"
+  - id: "scr-001-e04"
+    section_id: "Scr_001"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "Our school festival begins tomorrow."
+    japanese: "学園祭が明日から始まる。"
+    notes: "PU!2: 現在形で確定的な未来の予定を表す"
+  - id: "scr-001-e05"
+    section_id: "Scr_001"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "He sometimes visited the museum when he was a student."
+    japanese: "彼は学生のころ、時々その美術館を訪れた。"
+    notes: "PU!2: 過去の習慣的動作"
+  - id: "scr-001-e06"
+    section_id: "Scr_001"
+    drill: 0
+    number: 6
+    role: "example"
+    english: "I will do it, even if it's difficult."
+    japanese: "たとえ難しくても私はそれをするつもりだ。"
+    notes: "PU!2: 意志未来"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-001-p01"
+    label: "overall"
+    value: "S V O M M"
+  - sentence_id: "scr-001-p01"
+    label: "details"
+    value: "I(S) read(V) <an English newspaper>(O) [before going to work](M:前置詞句) [every day](M:副詞句)."
+  # p02
+  - sentence_id: "scr-001-p02"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-001-p02"
+    label: "details"
+    value: "Water(S) boils(V) [at a temperature of 100 degrees centigrade](M:前置詞句)."
+  # p03
+  - sentence_id: "scr-001-p03"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-001-p03"
+    label: "details"
+    value: "Masato(S) visited(V) Canada(O) [when he was five years old](M:副詞節)."
+  # p04
+  - sentence_id: "scr-001-p04"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-001-p04"
+    label: "details"
+    value: "I(S) do not know(V) [when he will come next time](O:名詞節)."
+  # e01
+  - sentence_id: "scr-001-e01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-001-e01"
+    label: "details"
+    value: "<The teacher>(S) said(V) [that the Earth goes around the Sun](O:that節)."
+  # e02
+  - sentence_id: "scr-001-e02"
+    label: "overall"
+    value: "V M / S V C M"
+  - sentence_id: "scr-001-e02"
+    label: "details"
+    value: "Look(V) [at those fallen leaves](M:前置詞句). It(S) is going to be(V) winter(C) soon(M)."
+  # e03
+  - sentence_id: "scr-001-e03"
+    label: "overall"
+    value: "S V C / S V M M"
+  - sentence_id: "scr-001-e03"
+    label: "details"
+    value: "I(S)'m(V) <very tired>(C), so I(S)'m going to go(V) [to bed](M:前置詞句) [early tonight](M:副詞句)."
+  # e04
+  - sentence_id: "scr-001-e04"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-001-e04"
+    label: "details"
+    value: "<Our school festival>(S) begins(V) tomorrow(M)."
+  # e05
+  - sentence_id: "scr-001-e05"
+    label: "overall"
+    value: "S M V O M"
+  - sentence_id: "scr-001-e05"
+    label: "details"
+    value: "He(S) sometimes(M) visited(V) <the museum>(O) [when he was a student](M:副詞節)."
+  # e06
+  - sentence_id: "scr-001-e06"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-001-e06"
+    label: "details"
+    value: "I(S) will do(V) it(O), [even if it's difficult](M:副詞節)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-001-p01"
+    node_id: "sdv-001"
+  - sentence_id: "scr-001-p02"
+    node_id: "sdv-001"
+  - sentence_id: "scr-001-p03"
+    node_id: "sdv-001"
+  - sentence_id: "scr-001-p04"
+    node_id: "sdv-001"
+  - sentence_id: "scr-001-e01"
+    node_id: "sdv-001"
+  - sentence_id: "scr-001-e02"
+    node_id: "sdv-001"
+  - sentence_id: "scr-001-e03"
+    node_id: "sdv-001"
+  - sentence_id: "scr-001-e04"
+    node_id: "sdv-001"
+  - sentence_id: "scr-001-e05"
+    node_id: "sdv-001"
+  - sentence_id: "scr-001-e06"
+    node_id: "sdv-001"

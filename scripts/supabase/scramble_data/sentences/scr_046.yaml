@@ -1,0 +1,78 @@
+# Scr_046: Theme 46 仮定法過去
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-046-p01"
+    section_id: "Scr_046"
+    drill: 1
+    number: 158
+    role: "exam"
+    english: "If I were in your situation, I would be more careful about what you post on social media."
+    japanese: "私があなたの立場なら、SNSの投稿内容にはもっと気をつけるだろう。"
+    notes: "難易度: 頻出; 出典: 南山大; 仮定法過去のif節: be動詞はwere"
+  - id: "scr-046-p02"
+    section_id: "Scr_046"
+    drill: 1
+    number: 159
+    role: "exam"
+    english: "If I had a lot of money, I could go abroad."
+    japanese: "もしお金がたくさんあったら外国に行けるのだが。"
+    notes: "難易度: 頻出; 出典: 拓殖大; 仮定法過去の主節: 助動詞の過去形+原形"
+  - id: "scr-046-p03"
+    section_id: "Scr_046"
+    drill: 1
+    number: 160
+    role: "exam"
+    english: "It is time we started packing. We only have two hours left before we leave."
+    japanese: "もう荷造りを始める時間だ。出発まで2時間しかない。"
+    notes: "難易度: 頻出; 出典: 東京経済大; It is time + S + 仮定法過去"
+
+  # === 例文（example） ===
+  - id: "scr-046-e01"
+    section_id: "Scr_046"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "It is high time you went to bed."
+    japanese: "あなたはもうとっくに寝る時間ですよ。"
+    notes: "問題160補足: timeの前にhigh「とっくに」がつく例"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-046-p01"
+    label: "overall"
+    value: "M S V C M"
+  - sentence_id: "scr-046-p01"
+    label: "details"
+    value: "[If I were in your situation](M:条件節), I(S) would be(V) <more careful>(C) [about what you post on social media](M:前置詞句)."
+  # p02
+  - sentence_id: "scr-046-p02"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-046-p02"
+    label: "details"
+    value: "[If I had a lot of money](M:条件節), I(S) could go(V) abroad(M)."
+  # p03
+  - sentence_id: "scr-046-p03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-046-p03"
+    label: "details"
+    value: "It(S:形式主語) is(V) time(C) [we started packing](仮定法過去節)."
+  # e01
+  - sentence_id: "scr-046-e01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-046-e01"
+    label: "details"
+    value: "It(S:形式主語) is(V) <high time>(C) [you went to bed](仮定法過去節)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-046-p01"
+    node_id: "skh-001"
+  - sentence_id: "scr-046-p02"
+    node_id: "skh-001"
+  - sentence_id: "scr-046-p03"
+    node_id: "skh-001"
+  - sentence_id: "scr-046-e01"
+    node_id: "skh-001"

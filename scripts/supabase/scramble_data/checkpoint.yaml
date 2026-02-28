@@ -1,0 +1,57 @@
+---
+# checkpoint.yaml — 作業状態スナップショット
+# コンテキストコンパクション後に必ず読む
+
+updated_at: "2026-03-01T12:00:00"
+book: "スクランブル英文法・語法"
+book_slug: "scramble"
+
+current_state:
+  phase: "Phase 1 (Pilot) 完了"
+  current_section: null
+  current_step: null
+  last_completed_section: "Scr_125"
+  last_completed_gate: 5
+
+progress:
+  total_sections: 271
+  completed: 3
+  in_progress: 0
+  remaining: 268
+  total_nodes: 3
+  total_sentences: 21
+
+pilot_results:
+  sections_completed:
+    - section: "Scr_001"
+      nodes: ["sdv-001"]
+      sentences: 10
+    - section: "Scr_046"
+      nodes: ["skh-001"]
+      sentences: 4
+    - section: "Scr_125"
+      nodes: ["sgh-001"]
+      sentences: 7
+  metrics:
+    node_section_ratio: 1.0
+    avg_sentences_per_node: 7.0
+    avg_goals_per_node: 4.0
+    avg_checkpoints_per_node: 4.3
+
+recent_decisions:
+  - "decision #1: PU!1の12時制表はsentences登録しない（スケルトン）"
+  - "decision #2: PU!2中の例文はsentences登録する（完全文＋和訳）"
+  - "decision #3: drill: exam=1, example=0"
+  - "decision #4: PU!29はScr_047の管轄"
+  - "decision #5: 解説中の書き換え文は登録しない"
+  - "decision #6: 対話問題はBの文のみ登録"
+
+active_concerns: []
+
+next_actions:
+  - "パイロット振り返りをユーザーに報告"
+  - "Phase 2への進行判断を仰ぐ"
+
+must_reread:
+  - "docs/design/構造化共通ワークフロー.md"
+  - "docs/design/参考書別設計書_スクランブル.md"

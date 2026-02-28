@@ -1,0 +1,59 @@
+# Ch07 仮定法 — パイロット: Scr_046（Theme 46: 仮定法過去）
+
+knowledge_nodes:
+  - id: "skh-001"
+    name: "仮定法過去"
+    category: "仮定法・比較"
+    priority: "P1"
+    notes: |
+      Theme 46: 仮定法過去（問題158-160）
+      ■ 基本形: If + S + 過去形〜, S' + 助動詞の過去形 + 原形 ...
+      「もし（今）〜なら、…だろう（に）」— 現在の事実に反すること・可能性の低いことを仮定・想像する。
+      過去形の動詞を使うので「仮定法過去」と呼ばれるが、内容は現在のことを表す。
+      ■ if 節中の be 動詞:
+      主語の人称・数に関係なく were を使うのが原則。口語では主語が I や3人称単数なら was も可。
+      ■ 主節の助動詞:
+      would / could / might + 原形。if 節が過去形なら主節は「助動詞の過去形 + 原形」。
+      ■ It is time + S + 仮定法過去:
+      「（まだ〜していないが）Sはもう〜してよいころだ」
+      time の前に high「とっくに」や about「そろそろ」がつくことがある。
+
+understanding_goals:
+  - node_id: "skh-001"
+    seq: 1
+    goal: "仮定法過去の基本形（If + S + 過去形, S' + 助動詞の過去形 + 原形）を正確に書ける"
+  - node_id: "skh-001"
+    seq: 2
+    goal: "仮定法過去が「現在の事実に反する仮定」を表すことを説明できる"
+  - node_id: "skh-001"
+    seq: 3
+    goal: "if 節中の be 動詞は were が原則であることを理解している"
+  - node_id: "skh-001"
+    seq: 4
+    goal: "It is time + S + 仮定法過去 の意味と用法を説明できる"
+
+check_points:
+  - node_id: "skh-001"
+    seq: 1
+    question: "仮定法過去の if 節と主節の動詞形をそれぞれ答えよ。"
+    answer: "if 節: 過去形。主節: 助動詞の過去形（would/could/might）+ 原形。"
+  - node_id: "skh-001"
+    seq: 2
+    question: "仮定法過去は「過去」のことを表すか？"
+    answer: "いいえ。名前に「過去」とあるが、表すのは現在の事実に反する仮定・想像。"
+  - node_id: "skh-001"
+    seq: 3
+    question: "If I (be) in your situation のように仮定法過去の if 節で be 動詞を使う場合、何を入れるか？"
+    answer: "were。主語の人称・数に関係なく were が原則（口語では was も可）。"
+  - node_id: "skh-001"
+    seq: 4
+    question: "It is time we started packing. はどういう意味か？"
+    answer: "もう荷造りを始める時間だ（まだ始めていないが、始めるべきだ）。It is time + S + 仮定法過去。"
+
+node_prerequisites: []
+
+knowledge_references:
+  - node_id: "skh-001"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_046"
+    pages: ""
