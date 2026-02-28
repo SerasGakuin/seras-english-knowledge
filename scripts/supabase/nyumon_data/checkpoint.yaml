@@ -1,0 +1,32 @@
+# checkpoint.yaml — 作業状態スナップショット
+# コンテキストコンパクション後に必ず読む
+
+updated_at: "2026-03-01T00:00:00"
+book: "入門英文問題精講"
+book_slug: "nyumon"
+
+current_state:
+  phase: "Phase 1"
+  current_section: null
+  current_step: null
+  last_completed_section: null
+  last_completed_gate: null
+
+progress:
+  total_sections: 85
+  completed: 0
+  in_progress: 0
+  remaining: 85
+  total_nodes: 0
+  total_sentences: 0
+
+recent_decisions: []
+
+active_concerns: []
+
+next_actions:
+  - "Ny_G01 の構造化を開始（パイロット1/3）"
+
+must_reread:
+  - "docs/design/構造化共通ワークフロー.md"
+  - "docs/design/参考書別設計書_入門英文問題精講.md"

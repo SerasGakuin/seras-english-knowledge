@@ -1,0 +1,14 @@
+# decisions.yaml — 構造化中の判断事例の蓄積
+# 同じ判断に迷った時の参照用
+
+book: "入門英文問題精講"
+book_slug: "nyumon"
+last_updated: "2026-03-01"
+
+decisions: []
+  # 例:
+  # - section: "Ny_01"
+  #   date: "2026-03-01"
+  #   question: "❷のコンマの解説はノード化するか？"
+  #   decision: "ノード化しない。nsv-001の notes に記述"
+  #   reason: "独立テスト不可。コンマの並列ルールは文法の基礎であり、この問の固有知識ではない"

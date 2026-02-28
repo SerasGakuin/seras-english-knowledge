@@ -1,0 +1,876 @@
+project: "入門英文問題精講"
+book_slug: "nyumon"
+last_updated: "2026-03-01"
+
+sections:
+  # === 基本講義（13セクション） ===
+  Ny_G01:
+    title: "名詞"
+    type: "grammar_lecture"
+    pages: "p.9-10"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_G02:
+    title: "動詞"
+    type: "grammar_lecture"
+    pages: "p.10-12"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_G03:
+    title: "形容詞"
+    type: "grammar_lecture"
+    pages: "p.12-13"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_G04:
+    title: "副詞"
+    type: "grammar_lecture"
+    pages: "p.13-14"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_G05:
+    title: "主語"
+    type: "grammar_lecture"
+    pages: "p.14-15"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_G06:
+    title: "動詞と文型"
+    type: "grammar_lecture"
+    pages: "p.15-17"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_G07:
+    title: "目的語"
+    type: "grammar_lecture"
+    pages: "p.17-18"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_G08:
+    title: "補語"
+    type: "grammar_lecture"
+    pages: "p.18-19"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_G09:
+    title: "前置詞＋名詞"
+    type: "grammar_lecture"
+    pages: "p.19-20"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_G10:
+    title: "句と節"
+    type: "grammar_lecture"
+    pages: "p.20-21"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_G11:
+    title: "句と節の働き"
+    type: "grammar_lecture"
+    pages: "p.21-22"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_G12:
+    title: "助動詞"
+    type: "grammar_lecture"
+    pages: "p.22-23"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_G13:
+    title: "to不定詞"
+    type: "grammar_lecture"
+    pages: "p.23-25"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+
+  # === 第1章 主語と動詞の把握（11セクション） ===
+  Ny_01:
+    title: "主語の把握（前置詞＋名詞）"
+    type: "exercise"
+    pages: "p.28-29"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_02:
+    title: "動詞の把握（受動態）"
+    type: "exercise"
+    pages: "p.30-31"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_03:
+    title: "動詞の把握（受動態＋不定詞）①"
+    type: "exercise"
+    pages: "p.32-33"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_04:
+    title: "動詞の把握（受動態＋不定詞）②"
+    type: "exercise"
+    pages: "p.34-35"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_05:
+    title: "動詞の把握（SVOCのCが〈V-ing〉）"
+    type: "exercise"
+    pages: "p.36-37"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_06:
+    title: "動詞の把握（分詞との区別）①"
+    type: "exercise"
+    pages: "p.38-39"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_07:
+    title: "動詞の把握（分詞との区別）②"
+    type: "exercise"
+    pages: "p.40-41"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_08:
+    title: "主語と動詞の省略"
+    type: "exercise"
+    pages: "p.42-43"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_09:
+    title: "主語の把握（文頭の長い副詞句）"
+    type: "exercise"
+    pages: "p.44-45"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_10:
+    title: "主語の把握（長い主語）"
+    type: "exercise"
+    pages: "p.46-47"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_11:
+    title: "主語の把握（否定語）"
+    type: "exercise"
+    pages: "p.48-49"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+
+  # === 第2章 準動詞（8セクション） ===
+  Ny_12:
+    title: "〜ingの働き（動名詞）①"
+    type: "exercise"
+    pages: "p.50-51"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_13:
+    title: "〜ingの働き（動名詞）②"
+    type: "exercise"
+    pages: "p.52-53"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_14:
+    title: "〜ingの働き（動名詞か現在分詞か）①"
+    type: "exercise"
+    pages: "p.54-55"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_15:
+    title: "〜ingの働き（動名詞か現在分詞か）②"
+    type: "exercise"
+    pages: "p.56-57"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_16:
+    title: "〜ingの働き（分詞構文）①"
+    type: "exercise"
+    pages: "p.58-59"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_17:
+    title: "〜ingの働き（分詞構文）②"
+    type: "exercise"
+    pages: "p.60-61"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_18:
+    title: "〜ingの働き（付帯状況）"
+    type: "exercise"
+    pages: "p.62-63"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_19:
+    title: "〜ingの働き（完了分詞構文）"
+    type: "exercise"
+    pages: "p.64-65"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+
+  # === 第3章 関係詞（12セクション） ===
+  Ny_20:
+    title: "関係代名詞"
+    type: "exercise"
+    pages: "p.66-67"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_21:
+    title: "前置詞＋関係代名詞①"
+    type: "exercise"
+    pages: "p.68-69"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_22:
+    title: "前置詞＋関係代名詞②"
+    type: "exercise"
+    pages: "p.70-71"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_23:
+    title: "関係代名詞(those who)"
+    type: "exercise"
+    pages: "p.72-73"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_24:
+    title: "関係代名詞の非制限用法①"
+    type: "exercise"
+    pages: "p.74-75"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_25:
+    title: "関係代名詞の非制限用法②"
+    type: "exercise"
+    pages: "p.76-77"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_26:
+    title: "関係代名詞の非制限用法③"
+    type: "exercise"
+    pages: "p.78-79"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_27:
+    title: "関係副詞(when)"
+    type: "exercise"
+    pages: "p.80-81"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_28:
+    title: "関係副詞の非制限用法"
+    type: "exercise"
+    pages: "p.82-83"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_29:
+    title: "主語になるwhat"
+    type: "exercise"
+    pages: "p.84-85"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_30:
+    title: "補語になるwhat"
+    type: "exercise"
+    pages: "p.86-87"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_31:
+    title: "目的語になるwhat"
+    type: "exercise"
+    pages: "p.88-89"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+
+  # === 第4章 接続詞（17セクション） ===
+  Ny_32:
+    title: "等位接続詞and①"
+    type: "exercise"
+    pages: "p.90-91"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_33:
+    title: "等位接続詞and②"
+    type: "exercise"
+    pages: "p.92-93"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_34:
+    title: "等位接続詞and③"
+    type: "exercise"
+    pages: "p.94-95"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_35:
+    title: "相関語句"
+    type: "exercise"
+    pages: "p.96-97"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_36:
+    title: "may…but"
+    type: "exercise"
+    pages: "p.98-99"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_37:
+    title: "従属接続詞when"
+    type: "exercise"
+    pages: "p.100-101"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_38:
+    title: "従属接続詞although"
+    type: "exercise"
+    pages: "p.102-103"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_39:
+    title: "従属接続詞while"
+    type: "exercise"
+    pages: "p.104-105"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_40:
+    title: "従属接続詞whether"
+    type: "exercise"
+    pages: "p.106-107"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_41:
+    title: "that節"
+    type: "exercise"
+    pages: "p.108-109"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_42:
+    title: "thatの省略"
+    type: "exercise"
+    pages: "p.110-111"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_43:
+    title: "従属接続詞that(同格)"
+    type: "exercise"
+    pages: "p.112-113"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_44:
+    title: "節＋節①"
+    type: "exercise"
+    pages: "p.114-115"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_45:
+    title: "節＋節②"
+    type: "exercise"
+    pages: "p.116-117"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_46:
+    title: "節＋節③"
+    type: "exercise"
+    pages: "p.118-119"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_47:
+    title: "節＋節④"
+    type: "exercise"
+    pages: "p.120-121"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_48:
+    title: "節＋節⑤"
+    type: "exercise"
+    pages: "p.122-123"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+
+  # === 第5章 比較（8セクション） ===
+  Ny_49:
+    title: "比較対象の把握①"
+    type: "exercise"
+    pages: "p.124-125"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_50:
+    title: "比較対象の把握②"
+    type: "exercise"
+    pages: "p.126-127"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_51:
+    title: "比較対象の把握③"
+    type: "exercise"
+    pages: "p.128-129"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_52:
+    title: "比較対象の把握④"
+    type: "exercise"
+    pages: "p.130-131"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_53:
+    title: "the＋比較級，the＋比較級"
+    type: "exercise"
+    pages: "p.132-133"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_54:
+    title: "as〜as①"
+    type: "exercise"
+    pages: "p.134-135"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_55:
+    title: "as〜as②"
+    type: "exercise"
+    pages: "p.136-137"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_56:
+    title: "as〜as③"
+    type: "exercise"
+    pages: "p.138-139"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+
+  # === 第6章 その他の重要項目（16セクション） ===
+  Ny_57:
+    title: "仮定法①"
+    type: "exercise"
+    pages: "p.140-141"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_58:
+    title: "仮定法②"
+    type: "exercise"
+    pages: "p.142-143"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_59:
+    title: "仮定法③"
+    type: "exercise"
+    pages: "p.144-145"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_60:
+    title: "仮定法④"
+    type: "exercise"
+    pages: "p.146-147"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_61:
+    title: "強調構文①"
+    type: "exercise"
+    pages: "p.148-149"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_62:
+    title: "強調構文②"
+    type: "exercise"
+    pages: "p.150-151"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_63:
+    title: "強調構文③"
+    type: "exercise"
+    pages: "p.152-153"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_64:
+    title: "説明要素の後置①"
+    type: "exercise"
+    pages: "p.154-155"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_65:
+    title: "説明要素の後置②"
+    type: "exercise"
+    pages: "p.156-157"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_66:
+    title: "注意すべき副詞の位置"
+    type: "exercise"
+    pages: "p.158-159"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_67:
+    title: "注意すべき副詞句の位置"
+    type: "exercise"
+    pages: "p.160-161"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_68:
+    title: "否定①"
+    type: "exercise"
+    pages: "p.162-163"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_69:
+    title: "否定②"
+    type: "exercise"
+    pages: "p.164-165"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_70:
+    title: "否定③"
+    type: "exercise"
+    pages: "p.166-167"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_71:
+    title: "倒置①"
+    type: "exercise"
+    pages: "p.168-169"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Ny_72:
+    title: "倒置②"
+    type: "exercise"
+    pages: "p.170-171"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+
+summary:
+  total_sections: 85
+  completed: 0
+  in_progress: 0
+  not_started: 85
+  total_knowledge_nodes: 0
+  total_sentences: 0
