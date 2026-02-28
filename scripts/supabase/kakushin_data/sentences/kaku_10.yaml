@@ -1,0 +1,404 @@
+sentences:
+  # 例文（本文中の > 付き英文）
+  - id: "kaku-10-e01"
+    section_id: "Kaku_10"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "If it rains tomorrow, the game will be cancelled."
+    japanese: "明日雨が降れば、試合は中止になるだろうね。"
+    notes: "直説法の例。ifがあっても仮定法ではない（助動詞の過去形がないため）"
+  - id: "kaku-10-e02"
+    section_id: "Kaku_10"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "If I lived in Tokyo, I would go to Akihabara every weekend."
+    japanese: "もし東京に住んでいたら、毎週末、秋葉原に行くんだけどなぁ。"
+    notes: "仮定法過去の公式。wouldが目印"
+  - id: "kaku-10-e03"
+    section_id: "Kaku_10"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "If I were you, I would ask him for help."
+    japanese: "もし私があなた（の立場）だったら、彼に助けを求めるけどね。"
+    notes: "仮定法過去。主語がIでもbe動詞はwere"
+  - id: "kaku-10-e04"
+    section_id: "Kaku_10"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "If I had arrived at the station three minutes earlier, I could have caught the train."
+    japanese: "駅にあと3分早く着いていれば、その電車に乗れたのに。"
+    notes: "仮定法過去完了の公式。実際には遅れて電車に乗れなかった"
+  - id: "kaku-10-e05"
+    section_id: "Kaku_10"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "If she had won the election, she would be the president now."
+    japanese: "もし彼女が選挙に勝っていれば、彼女は今頃、大統領だろうに。"
+    notes: "ミックス仮定法。if節=過去完了（過去の妄想）、主節=would原形（現在の状態）"
+  - id: "kaku-10-e06"
+    section_id: "Kaku_10"
+    drill: 0
+    number: 6
+    role: "example"
+    english: "If you should need my help, please call me."
+    japanese: "万一、私の助けが必要なら、電話してね。"
+    notes: "shouldを使った未来の仮定法。主節は命令文（入試最頻出パターン）"
+  - id: "kaku-10-e07"
+    section_id: "Kaku_10"
+    drill: 0
+    number: 7
+    role: "example"
+    english: "If Mike were to learn Japanese, his life would be much easier."
+    japanese: "もしマイクが日本語を学んだら、彼の生活はもっとずっと楽になるだろうに。"
+    notes: "were toを使った未来の仮定法。実現可能性に関係なく完全妄想"
+  - id: "kaku-10-e08"
+    section_id: "Kaku_10"
+    drill: 0
+    number: 8
+    role: "example"
+    english: "Had I arrived at the station three minutes earlier, I could have caught the train."
+    japanese: "駅にあと3分早く着いていれば、その電車に乗れたのに。"
+    notes: "if省略倒置。e04のif省略形（Had + S + p.p.）"
+  - id: "kaku-10-e09"
+    section_id: "Kaku_10"
+    drill: 0
+    number: 9
+    role: "example"
+    english: "Should you need my help, please call me."
+    japanese: "万一、私の助けが必要なら、電話してね。"
+    notes: "if省略倒置。e06のif省略形（Should + S + 原形）"
+  - id: "kaku-10-e10"
+    section_id: "Kaku_10"
+    drill: 0
+    number: 10
+    role: "example"
+    english: "Haruna would have come had she been invited."
+    japanese: "ハルナはもし招待されたら来ただろう。"
+    notes: "倒置した副詞節が後ろに来るパターン。コンマなしOK"
+  - id: "kaku-10-e11"
+    section_id: "Kaku_10"
+    drill: 0
+    number: 11
+    role: "example"
+    english: "Without you, my life would be boring."
+    japanese: "君がいない僕の人生は退屈だろう。"
+    notes: "withoutがif節の代用。wouldで仮定法を確信"
+  - id: "kaku-10-e12"
+    section_id: "Kaku_10"
+    drill: 0
+    number: 12
+    role: "example"
+    english: "I was very tired. Otherwise, I would have gone to the movies with you last night."
+    japanese: "私はとても疲れていた。そうでなければ、昨夜は君と一緒に映画に行ったのに。"
+    notes: "otherwiseがif節の代用。前半は直説法、otherwiseから仮定法モードに入る"
+  - id: "kaku-10-e13"
+    section_id: "Kaku_10"
+    drill: 0
+    number: 13
+    role: "example"
+    english: "If it had not been for your advice, I wouldn't have known what to do."
+    japanese: "君のアドバイスがなかったら、何をしたらいいかわからなかったよ。"
+    notes: "without〜のバリエーション。if it had not been for = without（仮定法過去完了）"
+  - id: "kaku-10-e14"
+    section_id: "Kaku_10"
+    drill: 0
+    number: 14
+    role: "example"
+    english: "It's time we went to bed."
+    japanese: "もう私たちは寝る時間だよ。"
+    notes: "It is time s 過去形。相手に促す表現"
+  - id: "kaku-10-e15"
+    section_id: "Kaku_10"
+    drill: 0
+    number: 15
+    role: "example"
+    english: "I wish I were a bird."
+    japanese: "鳥だったらなぁ。"
+    notes: "I wish s 過去形。「願う」と「鳥になる」が同時制 → 過去形were"
+  - id: "kaku-10-e16"
+    section_id: "Kaku_10"
+    drill: 0
+    number: 16
+    role: "example"
+    english: "I wish you had asked me about that earlier."
+    japanese: "それに関しては、もっと早く聞いてくれたらよかったのに。"
+    notes: "I wish s had p.p.。「願う」のは今、「聞く」のは過去 → had p.p."
+  # CHECK（空所補充・完全形で登録）
+  - id: "kaku-10-c01"
+    section_id: "Kaku_10"
+    drill: 1
+    number: 1
+    role: "check"
+    english: "If I knew her telephone number, I would call her."
+    japanese: "もし彼女の電話番号を知っていれば、電話するのになぁ。"
+    notes: "仮定法過去。選択肢: ① knew ② had known → 正解①"
+  - id: "kaku-10-c02"
+    section_id: "Kaku_10"
+    drill: 1
+    number: 2
+    role: "check"
+    english: "If my father had won the lottery, he would have bought a new car."
+    japanese: "もし宝くじが当たっていたら、父は新車を買っていただろう。"
+    notes: "仮定法過去完了。選択肢: ① bought ② would have bought → 正解②"
+  - id: "kaku-10-c03"
+    section_id: "Kaku_10"
+    drill: 1
+    number: 3
+    role: "check"
+    english: "Without your help, I could never have finished high school."
+    japanese: "あなたの助けがなければ、高校を卒業できなかっただろう。"
+    notes: "without + 仮定法過去完了。選択肢: ① would ② could never have → 正解②"
+  # 入試問題演習
+  - id: "kaku-10-x01"
+    section_id: "Kaku_10"
+    drill: 2
+    number: 1
+    role: "exam"
+    english: "If I had money I would buy a car."
+    japanese: "お金があれば車を買うのに。"
+    notes: "出典: 青山学院大学。並べ替え問題。仮定法過去"
+  - id: "kaku-10-x02"
+    section_id: "Kaku_10"
+    drill: 2
+    number: 2
+    role: "exam"
+    english: "Should you have any questions, please do not hesitate to contact us."
+    japanese: "ご不明な点などございましたら、どうぞお気軽にご連絡ください。"
+    notes: "出典: 成城大学。shouldを使った仮定法のif省略倒置。実用頻出表現"
+  - id: "kaku-10-x03"
+    section_id: "Kaku_10"
+    drill: 2
+    number: 3
+    role: "exam"
+    english: "We started immediately after breakfast; otherwise we would have missed the train."
+    japanese: "私たちは朝食を食べてすぐに出発した。そうでなければ、電車を逃してしまっただろう。"
+    notes: "出典: 東京電気大学。otherwiseがif節の代用。前半は直説法、後半は仮定法過去完了"
+  - id: "kaku-10-x04"
+    section_id: "Kaku_10"
+    drill: 2
+    number: 4
+    role: "exam"
+    english: "Had it not been for his earnest support, this project could not have been completed."
+    japanese: "彼の熱心なサポートがなければ、この計画は完遂できなかったかもしれない。"
+    notes: "出典: 中央大学。同意文: But for his earnest support, ... 。if it had not been for のif省略倒置形"
+
+sentence_knowledge_tags:
+  # kvt-013: 仮定法の核心と5つの公式
+  - sentence_id: "kaku-10-e01"
+    node_id: "kvt-013"
+  - sentence_id: "kaku-10-e02"
+    node_id: "kvt-013"
+  - sentence_id: "kaku-10-e03"
+    node_id: "kvt-013"
+  - sentence_id: "kaku-10-e04"
+    node_id: "kvt-013"
+  - sentence_id: "kaku-10-e05"
+    node_id: "kvt-013"
+  - sentence_id: "kaku-10-e06"
+    node_id: "kvt-013"
+  - sentence_id: "kaku-10-e07"
+    node_id: "kvt-013"
+  - sentence_id: "kaku-10-c01"
+    node_id: "kvt-013"
+  - sentence_id: "kaku-10-c02"
+    node_id: "kvt-013"
+  - sentence_id: "kaku-10-x01"
+    node_id: "kvt-013"
+  # kvt-014: if省略倒置とif節代用表現
+  - sentence_id: "kaku-10-e08"
+    node_id: "kvt-014"
+  - sentence_id: "kaku-10-e09"
+    node_id: "kvt-014"
+  - sentence_id: "kaku-10-e10"
+    node_id: "kvt-014"
+  - sentence_id: "kaku-10-e11"
+    node_id: "kvt-014"
+  - sentence_id: "kaku-10-e12"
+    node_id: "kvt-014"
+  - sentence_id: "kaku-10-c03"
+    node_id: "kvt-014"
+  - sentence_id: "kaku-10-x02"
+    node_id: "kvt-014"
+  - sentence_id: "kaku-10-x03"
+    node_id: "kvt-014"
+  - sentence_id: "kaku-10-x04"
+    node_id: "kvt-014"
+  # kvt-015: 仮定法の慣用表現
+  - sentence_id: "kaku-10-e13"
+    node_id: "kvt-015"
+  - sentence_id: "kaku-10-e14"
+    node_id: "kvt-015"
+  - sentence_id: "kaku-10-e15"
+    node_id: "kvt-015"
+  - sentence_id: "kaku-10-e16"
+    node_id: "kvt-015"
+  - sentence_id: "kaku-10-x04"
+    node_id: "kvt-015"
+
+sentence_structures:
+  # e01
+  - sentence_id: "kaku-10-e01"
+    label: "overall"
+    value: "M(if節) S V"
+  - sentence_id: "kaku-10-e01"
+    label: "details"
+    value: "[If it rains tomorrow](M:条件副詞節/直説法) <the game>(S) will be cancelled(V:受動態)"
+  # e02
+  - sentence_id: "kaku-10-e02"
+    label: "overall"
+    value: "M(if節) S V M M"
+  - sentence_id: "kaku-10-e02"
+    label: "details"
+    value: "[If I lived in Tokyo](M:仮定法過去if節) <I>(S) would go(V) [to Akihabara](M) [every weekend](M)"
+  # e03
+  - sentence_id: "kaku-10-e03"
+    label: "overall"
+    value: "M(if節) S V O M"
+  - sentence_id: "kaku-10-e03"
+    label: "details"
+    value: "[If I were you](M:仮定法過去if節) <I>(S) would ask(V) <him>(O) [for help](M)"
+  # e04
+  - sentence_id: "kaku-10-e04"
+    label: "overall"
+    value: "M(if節) S V O"
+  - sentence_id: "kaku-10-e04"
+    label: "details"
+    value: "[If I had arrived at the station three minutes earlier](M:仮定法過去完了if節) <I>(S) could have caught(V) <the train>(O)"
+  # e05
+  - sentence_id: "kaku-10-e05"
+    label: "overall"
+    value: "M(if節) S V C M"
+  - sentence_id: "kaku-10-e05"
+    label: "details"
+    value: "[If she had won the election](M:仮定法過去完了if節) <she>(S) would be(V) <the president>(C) [now](M)"
+  # e06
+  - sentence_id: "kaku-10-e06"
+    label: "overall"
+    value: "M(if節) V O"
+  - sentence_id: "kaku-10-e06"
+    label: "details"
+    value: "[If you should need my help](M:should仮定法if節) please call(V:命令文) <me>(O)"
+  # e07
+  - sentence_id: "kaku-10-e07"
+    label: "overall"
+    value: "M(if節) S V C"
+  - sentence_id: "kaku-10-e07"
+    label: "details"
+    value: "[If Mike were to learn Japanese](M:were to仮定法if節) <his life>(S) would be(V) <much easier>(C)"
+  # e08
+  - sentence_id: "kaku-10-e08"
+    label: "overall"
+    value: "M(倒置if節) S V O"
+  - sentence_id: "kaku-10-e08"
+    label: "details"
+    value: "[Had I arrived at the station three minutes earlier](M:if省略倒置) <I>(S) could have caught(V) <the train>(O)"
+  # e09
+  - sentence_id: "kaku-10-e09"
+    label: "overall"
+    value: "M(倒置if節) V O"
+  - sentence_id: "kaku-10-e09"
+    label: "details"
+    value: "[Should you need my help](M:if省略倒置) please call(V:命令文) <me>(O)"
+  # e10
+  - sentence_id: "kaku-10-e10"
+    label: "overall"
+    value: "S V M(倒置if節/後置)"
+  - sentence_id: "kaku-10-e10"
+    label: "details"
+    value: "<Haruna>(S) would have come(V) [had she been invited](M:if省略倒置/後置)"
+  # e11
+  - sentence_id: "kaku-10-e11"
+    label: "overall"
+    value: "M S V C"
+  - sentence_id: "kaku-10-e11"
+    label: "details"
+    value: "[Without you](M:if節代用) <my life>(S) would be(V) <boring>(C)"
+  # e12
+  - sentence_id: "kaku-10-e12"
+    label: "overall"
+    value: "S V C / M S V M M"
+  - sentence_id: "kaku-10-e12"
+    label: "details"
+    value: "<I>(S) was(V) <very tired>(C). [Otherwise](M:if節代用), <I>(S) would have gone(V) [to the movies](M) [with you last night](M)"
+  # e13
+  - sentence_id: "kaku-10-e13"
+    label: "overall"
+    value: "M(if節) S V O"
+  - sentence_id: "kaku-10-e13"
+    label: "details"
+    value: "[If it had not been for your advice](M:仮定法過去完了if節) <I>(S) wouldn't have known(V) [what to do](O:名詞句)"
+  # e14
+  - sentence_id: "kaku-10-e14"
+    label: "overall"
+    value: "S V C M(仮定法)"
+  - sentence_id: "kaku-10-e14"
+    label: "details"
+    value: "<It>(S:形式主語) 's(V) <time>(C) [we went to bed](仮定法過去)"
+  # e15
+  - sentence_id: "kaku-10-e15"
+    label: "overall"
+    value: "S V O(節)"
+  - sentence_id: "kaku-10-e15"
+    label: "details"
+    value: "<I>(S) wish(V) [I were a bird](O:仮定法過去)"
+  # e16
+  - sentence_id: "kaku-10-e16"
+    label: "overall"
+    value: "S V O(節)"
+  - sentence_id: "kaku-10-e16"
+    label: "details"
+    value: "<I>(S) wish(V) [you had asked me about that earlier](O:仮定法過去完了)"
+  # c01
+  - sentence_id: "kaku-10-c01"
+    label: "overall"
+    value: "M(if節) S V O"
+  - sentence_id: "kaku-10-c01"
+    label: "details"
+    value: "[If I knew her telephone number](M:仮定法過去if節) <I>(S) would call(V) <her>(O)"
+  # c02
+  - sentence_id: "kaku-10-c02"
+    label: "overall"
+    value: "M(if節) S V O"
+  - sentence_id: "kaku-10-c02"
+    label: "details"
+    value: "[If my father had won the lottery](M:仮定法過去完了if節) <he>(S) would have bought(V) <a new car>(O)"
+  # c03
+  - sentence_id: "kaku-10-c03"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "kaku-10-c03"
+    label: "details"
+    value: "[Without your help](M:if節代用) <I>(S) could never have finished(V) <high school>(O)"
+  # x01
+  - sentence_id: "kaku-10-x01"
+    label: "overall"
+    value: "M(if節) S V O"
+  - sentence_id: "kaku-10-x01"
+    label: "details"
+    value: "[If I had money](M:仮定法過去if節) <I>(S) would buy(V) <a car>(O)"
+  # x02
+  - sentence_id: "kaku-10-x02"
+    label: "overall"
+    value: "M(倒置if節) V"
+  - sentence_id: "kaku-10-x02"
+    label: "details"
+    value: "[Should you have any questions](M:if省略倒置) please do not hesitate(V:命令文) [to contact us](M:to不定詞)"
+  # x03
+  - sentence_id: "kaku-10-x03"
+    label: "overall"
+    value: "S V M / M S V O"
+  - sentence_id: "kaku-10-x03"
+    label: "details"
+    value: "<We>(S) started(V) [immediately after breakfast](M); [otherwise](M:if節代用) <we>(S) would have missed(V) <the train>(O)"
+  # x04
+  - sentence_id: "kaku-10-x04"
+    label: "overall"
+    value: "M(倒置if節) S V"
+  - sentence_id: "kaku-10-x04"
+    label: "details"
+    value: "[Had it not been for his earnest support](M:if省略倒置) <this project>(S) could not have been completed(V:受動態)"

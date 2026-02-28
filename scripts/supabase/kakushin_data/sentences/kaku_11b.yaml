@@ -1,0 +1,585 @@
+# Kaku_11b: 助動詞 would〜should・その他・助動詞have p.p.・入試問題（p.149-168）
+
+sentences:
+  # === 例文 (26 sentences) ===
+  # would（kvt-019）
+  - id: "kaku-11b-e01"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "Would you show me around the office? ― Sure. Follow me."
+    japanese: "私にオフィスを案内してもらえますか？ ― いいよ。ついてきて。"
+    notes: "Would you〜?の丁寧表現。仮定法の「もし」のニュアンスで丁寧に。show[人]around〜「[人]に〜を案内する」"
+  - id: "kaku-11b-e02"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "We would often talk for hours on the phone."
+    japanese: "私たちは、昔はよく何時間も電話をしたものだ。"
+    notes: "wouldの過去の習慣用法。would often/sometimesの形で即断可能"
+  - id: "kaku-11b-e03"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "The door wouldn't open."
+    japanese: "どうしてもドアは開かなかった。"
+    notes: "wouldの過去の拒絶用法。wouldn't「どうしても〜しようとしなかった」"
+  # could（kvt-019）
+  - id: "kaku-11b-e04"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "Could you turn on the light?"
+    japanese: "電気をつけていただけませんか。"
+    notes: "Could you〜?の丁寧表現。仮定法の「もしよろしければ」のニュアンス"
+  - id: "kaku-11b-e05"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "It couldn't be true."
+    japanese: "そんなことはありえない。"
+    notes: "couldの予想用法（否定）。It can't be true.と同じ意味"
+  - id: "kaku-11b-e06"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 6
+    role: "example"
+    english: "My grandfather could run fast when he was young."
+    japanese: "おじいちゃんは、若いときは速く走ることができたんだ。"
+    notes: "couldの過去形用法。「もしやろうと思えば走れた」→ could OK"
+  - id: "kaku-11b-e07"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 7
+    role: "example"
+    english: "I was able to go to Germany last year."
+    japanese: "去年はドイツに行くことができました。"
+    notes: "「一度だけできた」にはcouldは使えない。was able toを使う"
+  # might（kvt-019）
+  - id: "kaku-11b-e08"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 8
+    role: "example"
+    english: "It might rain tomorrow."
+    japanese: "（もしかしたら）明日は雨かもしれない。"
+    notes: "might≒may。mayに仮定法の「もしかしたら」が加わった形。50%よりやや弱い感覚"
+  # should（kvt-020）
+  - id: "kaku-11b-e09"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 9
+    role: "example"
+    english: "You should eat breakfast."
+    japanese: "朝ごはんは食べるべきだよ。"
+    notes: "shouldの義務用法。核心「本来ならば〜するのが当然」"
+  - id: "kaku-11b-e10"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 10
+    role: "example"
+    english: "She should be home."
+    japanese: "彼女は家にいるはずだ。"
+    notes: "shouldの予想用法。80〜90%の自信"
+  - id: "kaku-11b-e11"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 11
+    role: "example"
+    english: "My father suggested that I should go to his parents' house."
+    japanese: "父は、私が祖父母の家に行くように提案した。"
+    notes: "仮定法現在（shouldを使う形）。命令内容は「まだ現実に起きていない」→仮定法の目印"
+  - id: "kaku-11b-e12"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 12
+    role: "example"
+    english: "My father suggested that I go to his parents' house."
+    japanese: "父は、私が祖父母の家に行くように提案した。"
+    notes: "仮定法現在（原形を使う形）。命令する内容→命令文の動詞の原形。「shouldの省略」ではない"
+  # ought to（kvt-021）
+  - id: "kaku-11b-e13"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 13
+    role: "example"
+    english: "We ought to clean up."
+    japanese: "片付けをしたほうがいいね。"
+    notes: "ought to = should。義務用法"
+  - id: "kaku-11b-e14"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 14
+    role: "example"
+    english: "You ought not to tell anyone our secret."
+    japanese: "誰にも僕らの秘密を教えるべきではない。"
+    notes: "ought toの否定形。ought not to〜。notはtoの直前（不定詞の原則通り→p.180）"
+  # had better（kvt-021）
+  - id: "kaku-11b-e15"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 15
+    role: "example"
+    english: "You'd better not lie."
+    japanese: "嘘はつかないほうがいいぞ。"
+    notes: "had better notの否定形。短縮形You'd better。「嘘をついたら大変だぞ」のニュアンス"
+  # need（kvt-021）
+  - id: "kaku-11b-e16"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 16
+    role: "example"
+    english: "I don't need to save money for my trip to Paris."
+    japanese: "パリ旅行のためにお金を貯める必要はありません。"
+    notes: "一般動詞needの否定文。don't + need to [原形]（wantと同じ使い方）"
+  - id: "kaku-11b-e17"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 17
+    role: "example"
+    english: "You need not go there."
+    japanese: "そこへ行く必要はない。"
+    notes: "助動詞needの否定文。need not [原形]（canと同じ使い方）"
+  # used to（kvt-021）
+  - id: "kaku-11b-e18"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 18
+    role: "example"
+    english: "He used to play basketball when he was in high school."
+    japanese: "彼は高校生のとき、よくバスケをしていました。"
+    notes: "used toの過去の習慣用法。play=動作動詞→「よく〜したものだ」"
+  - id: "kaku-11b-e19"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 19
+    role: "example"
+    english: "There used to be a nice café here."
+    japanese: "以前はここに素敵なカフェがあったんだ。"
+    notes: "used toの過去の状態用法。be=状態動詞→「昔は〜であった」。×「カフェがあったものだ」は誤訳"
+  - id: "kaku-11b-e20"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 20
+    role: "example"
+    english: "I used to cry a lot."
+    japanese: "私は、昔は泣き虫でした。"
+    notes: "used toの過去と現在の対比。この文だけで「今はもう泣き虫ではない」ことがわかる。wouldにはこの機能がない"
+  # 助動詞have p.p.（kvt-022）
+  - id: "kaku-11b-e21"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 21
+    role: "example"
+    english: "She may know our secret."
+    japanese: "彼女は我々の秘密を知っているかもしれない。"
+    notes: "比較用の基本形。「今知っている」と今予想。have p.p.との対比で使用"
+  - id: "kaku-11b-e22"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 22
+    role: "example"
+    english: "She may have known our secret."
+    japanese: "彼女は我々の秘密を知っていたかもしれない。"
+    notes: "may have p.p.（予想グループ）。「過去に知っていた」と今予想"
+  - id: "kaku-11b-e23"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 23
+    role: "example"
+    english: "She must have known our secret."
+    japanese: "彼女は我々の秘密を知っていたに違いない。"
+    notes: "must have p.p.（予想グループ）。×「しなきゃいけなかった」ではない"
+  - id: "kaku-11b-e24"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 24
+    role: "example"
+    english: "She can't have known our secret."
+    japanese: "彼女は我々の秘密を知っていたはずがない。"
+    notes: "can't have p.p.（予想グループ）。×「できなかった」ではない"
+  - id: "kaku-11b-e25"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 25
+    role: "example"
+    english: "She should have asked for advice."
+    japanese: "彼女はアドバイスを求めるべきだったのに。"
+    notes: "should have p.p.（イヤミグループ）。過去への後悔"
+  - id: "kaku-11b-e26"
+    section_id: "Kaku_11b"
+    drill: 0
+    number: 26
+    role: "example"
+    english: "She ought not to have known our secret."
+    japanese: "彼女は我々の秘密を知るべきじゃなかったのに。"
+    notes: "ought not to have p.p.（イヤミグループ否定）。notはtoの直前"
+  # CHECK（空所補充・完全形で登録）
+  - id: "kaku-11b-c01"
+    section_id: "Kaku_11b"
+    drill: 1
+    number: 1
+    role: "check"
+    english: "She recommended that I buy a ticket right away."
+    japanese: "彼女は、私がすぐにチケットを購入するように薦めた。"
+    notes: "仮定法現在。選択肢: ① will buy ② buy → 正解②。recommendは命令系統の動詞"
+  - id: "kaku-11b-c02"
+    section_id: "Kaku_11b"
+    drill: 1
+    number: 2
+    role: "check"
+    english: "He used to watch TV every night."
+    japanese: "彼は、よく毎晩テレビを見ていた。"
+    notes: "used to [原形]の過去の習慣。選択肢: ① used to ② was used to → 正解①"
+  - id: "kaku-11b-c03"
+    section_id: "Kaku_11b"
+    drill: 1
+    number: 3
+    role: "check"
+    english: "I should have studied harder."
+    japanese: "もっと勉強すべきだったなぁ。"
+    notes: "should have p.p.（イヤミ/後悔）。選択肢: ① should study ② should have studied → 正解②"
+  # 入試問題演習
+  - id: "kaku-11b-x01"
+    section_id: "Kaku_11b"
+    drill: 2
+    number: 1
+    role: "exam"
+    english: "You don't have to go to university today because all the lectures are cancelled."
+    japanese: "全部の講義が中止になったから、今日は大学に行く必要はないよ。"
+    notes: "出典: 東北学院大学。don't have to「不必要」。must not「禁止」との区別"
+  - id: "kaku-11b-x02"
+    section_id: "Kaku_11b"
+    drill: 2
+    number: 2
+    role: "exam"
+    english: "I suggested that she visit the art museum after lunch."
+    japanese: "私は彼女に昼食後美術館に行くよう提案した。"
+    notes: "出典: 駒澤大学。仮定法現在。suggestedは命令系統の動詞→that節にvisit（原形）"
+  - id: "kaku-11b-x03"
+    section_id: "Kaku_11b"
+    drill: 2
+    number: 3
+    role: "exam"
+    english: "Small children had better not stay up all night."
+    japanese: "幼い子どもは、一晩中起きていてはいけません。"
+    notes: "出典: 九州国際大学。並べ替え問題。had better not [原形]。stay up all night「一晩中起きている・徹夜する」"
+  - id: "kaku-11b-x04"
+    section_id: "Kaku_11b"
+    drill: 2
+    number: 4
+    role: "exam"
+    english: "She cannot have seen Henry in Osaka yesterday. He is still in England."
+    japanese: "彼女が昨日大阪でヘンリーに会ったはずがない。彼はまだイングランドにいるのだから。"
+    notes: "出典: 日本女子大学。cannot have p.p.「〜だったはずがない」（予想グループ）"
+
+sentence_knowledge_tags:
+  # kvt-019: would/could/mightの意味と使い分け
+  - sentence_id: "kaku-11b-e01"
+    node_id: "kvt-019"
+  - sentence_id: "kaku-11b-e02"
+    node_id: "kvt-019"
+  - sentence_id: "kaku-11b-e03"
+    node_id: "kvt-019"
+  - sentence_id: "kaku-11b-e04"
+    node_id: "kvt-019"
+  - sentence_id: "kaku-11b-e05"
+    node_id: "kvt-019"
+  - sentence_id: "kaku-11b-e06"
+    node_id: "kvt-019"
+  - sentence_id: "kaku-11b-e07"
+    node_id: "kvt-019"
+  - sentence_id: "kaku-11b-e08"
+    node_id: "kvt-019"
+  # kvt-020: shouldと仮定法現在
+  - sentence_id: "kaku-11b-e09"
+    node_id: "kvt-020"
+  - sentence_id: "kaku-11b-e10"
+    node_id: "kvt-020"
+  - sentence_id: "kaku-11b-e11"
+    node_id: "kvt-020"
+  - sentence_id: "kaku-11b-e12"
+    node_id: "kvt-020"
+  - sentence_id: "kaku-11b-c01"
+    node_id: "kvt-020"
+  - sentence_id: "kaku-11b-x02"
+    node_id: "kvt-020"
+  # kvt-021: その他の助動詞
+  - sentence_id: "kaku-11b-e13"
+    node_id: "kvt-021"
+  - sentence_id: "kaku-11b-e14"
+    node_id: "kvt-021"
+  - sentence_id: "kaku-11b-e15"
+    node_id: "kvt-021"
+  - sentence_id: "kaku-11b-e16"
+    node_id: "kvt-021"
+  - sentence_id: "kaku-11b-e17"
+    node_id: "kvt-021"
+  - sentence_id: "kaku-11b-e18"
+    node_id: "kvt-021"
+  - sentence_id: "kaku-11b-e19"
+    node_id: "kvt-021"
+  - sentence_id: "kaku-11b-e20"
+    node_id: "kvt-021"
+  - sentence_id: "kaku-11b-c02"
+    node_id: "kvt-021"
+  - sentence_id: "kaku-11b-x03"
+    node_id: "kvt-021"
+  # kvt-022: 助動詞have p.p.
+  - sentence_id: "kaku-11b-e21"
+    node_id: "kvt-022"
+  - sentence_id: "kaku-11b-e22"
+    node_id: "kvt-022"
+  - sentence_id: "kaku-11b-e23"
+    node_id: "kvt-022"
+  - sentence_id: "kaku-11b-e24"
+    node_id: "kvt-022"
+  - sentence_id: "kaku-11b-e25"
+    node_id: "kvt-022"
+  - sentence_id: "kaku-11b-e26"
+    node_id: "kvt-022"
+  - sentence_id: "kaku-11b-c03"
+    node_id: "kvt-022"
+  - sentence_id: "kaku-11b-x04"
+    node_id: "kvt-022"
+  # kvt-017: don't have to（Kaku_11aのノードだがx01の知識テスト先）
+  - sentence_id: "kaku-11b-x01"
+    node_id: "kvt-017"
+
+sentence_structures:
+  # e01
+  - sentence_id: "kaku-11b-e01"
+    label: "overall"
+    value: "V S O M"
+  - sentence_id: "kaku-11b-e01"
+    label: "details"
+    value: "Would <you>(S) show(V) <me>(O) [around the office](M)?"
+  # e02
+  - sentence_id: "kaku-11b-e02"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "kaku-11b-e02"
+    label: "details"
+    value: "<We>(S) would often talk(V) [for hours](M) [on the phone](M)"
+  # e03
+  - sentence_id: "kaku-11b-e03"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "kaku-11b-e03"
+    label: "details"
+    value: "<The door>(S) wouldn't open(V)"
+  # e04
+  - sentence_id: "kaku-11b-e04"
+    label: "overall"
+    value: "V S O"
+  - sentence_id: "kaku-11b-e04"
+    label: "details"
+    value: "Could <you>(S) turn on(V) <the light>(O)?"
+  # e05
+  - sentence_id: "kaku-11b-e05"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-11b-e05"
+    label: "details"
+    value: "<It>(S) couldn't be(V) <true>(C)"
+  # e06
+  - sentence_id: "kaku-11b-e06"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "kaku-11b-e06"
+    label: "details"
+    value: "<My grandfather>(S) could run(V) [fast](M) [when he was young](M:時の副詞節)"
+  # e07
+  - sentence_id: "kaku-11b-e07"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-11b-e07"
+    label: "details"
+    value: "<I>(S) was able to go(V) [to Germany last year](M)"
+  # e08
+  - sentence_id: "kaku-11b-e08"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-11b-e08"
+    label: "details"
+    value: "<It>(S) might rain(V) [tomorrow](M)"
+  # e09
+  - sentence_id: "kaku-11b-e09"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-11b-e09"
+    label: "details"
+    value: "<You>(S) should eat(V) <breakfast>(O)"
+  # e10
+  - sentence_id: "kaku-11b-e10"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-11b-e10"
+    label: "details"
+    value: "<She>(S) should be(V) <home>(C)"
+  # e11
+  - sentence_id: "kaku-11b-e11"
+    label: "overall"
+    value: "S V O(that節)"
+  - sentence_id: "kaku-11b-e11"
+    label: "details"
+    value: "<My father>(S) suggested(V) [that I should go to his parents' house](O:that節/仮定法現在)"
+  # e12
+  - sentence_id: "kaku-11b-e12"
+    label: "overall"
+    value: "S V O(that節)"
+  - sentence_id: "kaku-11b-e12"
+    label: "details"
+    value: "<My father>(S) suggested(V) [that I go to his parents' house](O:that節/仮定法現在・原形)"
+  # e13
+  - sentence_id: "kaku-11b-e13"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "kaku-11b-e13"
+    label: "details"
+    value: "<We>(S) ought to clean up(V)"
+  # e14
+  - sentence_id: "kaku-11b-e14"
+    label: "overall"
+    value: "S V O O"
+  - sentence_id: "kaku-11b-e14"
+    label: "details"
+    value: "<You>(S) ought not to tell(V) <anyone>(O₁) <our secret>(O₂)"
+  # e15
+  - sentence_id: "kaku-11b-e15"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "kaku-11b-e15"
+    label: "details"
+    value: "<You>(S) 'd better not lie(V)"
+  # e16
+  - sentence_id: "kaku-11b-e16"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "kaku-11b-e16"
+    label: "details"
+    value: "<I>(S) don't need to save(V) <money>(O) [for my trip to Paris](M)"
+  # e17
+  - sentence_id: "kaku-11b-e17"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-11b-e17"
+    label: "details"
+    value: "<You>(S) need not go(V) [there](M)"
+  # e18
+  - sentence_id: "kaku-11b-e18"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "kaku-11b-e18"
+    label: "details"
+    value: "<He>(S) used to play(V) <basketball>(O) [when he was in high school](M:時の副詞節)"
+  # e19
+  - sentence_id: "kaku-11b-e19"
+    label: "overall"
+    value: "M V S"
+  - sentence_id: "kaku-11b-e19"
+    label: "details"
+    value: "[There](M:存在構文) used to be(V) <a nice café>(S) [here](M)"
+  # e20
+  - sentence_id: "kaku-11b-e20"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-11b-e20"
+    label: "details"
+    value: "<I>(S) used to cry(V) [a lot](M)"
+  # e21
+  - sentence_id: "kaku-11b-e21"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-11b-e21"
+    label: "details"
+    value: "<She>(S) may know(V) <our secret>(O)"
+  # e22
+  - sentence_id: "kaku-11b-e22"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-11b-e22"
+    label: "details"
+    value: "<She>(S) may have known(V) <our secret>(O)"
+  # e23
+  - sentence_id: "kaku-11b-e23"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-11b-e23"
+    label: "details"
+    value: "<She>(S) must have known(V) <our secret>(O)"
+  # e24
+  - sentence_id: "kaku-11b-e24"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-11b-e24"
+    label: "details"
+    value: "<She>(S) can't have known(V) <our secret>(O)"
+  # e25
+  - sentence_id: "kaku-11b-e25"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-11b-e25"
+    label: "details"
+    value: "<She>(S) should have asked(V) [for advice](M)"
+  # e26
+  - sentence_id: "kaku-11b-e26"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-11b-e26"
+    label: "details"
+    value: "<She>(S) ought not to have known(V) <our secret>(O)"
+  # c01
+  - sentence_id: "kaku-11b-c01"
+    label: "overall"
+    value: "S V O(that節)"
+  - sentence_id: "kaku-11b-c01"
+    label: "details"
+    value: "<She>(S) recommended(V) [that I buy a ticket right away](O:that節/仮定法現在)"
+  # c02
+  - sentence_id: "kaku-11b-c02"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "kaku-11b-c02"
+    label: "details"
+    value: "<He>(S) used to watch(V) <TV>(O) [every night](M)"
+  # c03
+  - sentence_id: "kaku-11b-c03"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-11b-c03"
+    label: "details"
+    value: "<I>(S) should have studied(V) [harder](M)"
+  # x01
+  - sentence_id: "kaku-11b-x01"
+    label: "overall"
+    value: "S V M M(because節)"
+  - sentence_id: "kaku-11b-x01"
+    label: "details"
+    value: "<You>(S) don't have to go(V) [to university today](M) [because all the lectures are cancelled](M:理由の副詞節)"
+  # x02
+  - sentence_id: "kaku-11b-x02"
+    label: "overall"
+    value: "S V O(that節)"
+  - sentence_id: "kaku-11b-x02"
+    label: "details"
+    value: "<I>(S) suggested(V) [that she visit the art museum after lunch](O:that節/仮定法現在)"
+  # x03
+  - sentence_id: "kaku-11b-x03"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-11b-x03"
+    label: "details"
+    value: "<Small children>(S) had better not stay up(V) [all night](M)"
+  # x04
+  - sentence_id: "kaku-11b-x04"
+    label: "overall"
+    value: "S V O M / S V M"
+  - sentence_id: "kaku-11b-x04"
+    label: "details"
+    value: "<She>(S) cannot have seen(V) <Henry>(O) [in Osaka yesterday](M). <He>(S) is(V) [still in England](M)"

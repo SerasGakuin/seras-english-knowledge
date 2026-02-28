@@ -1,0 +1,339 @@
+# Kaku_11a: 助動詞 will〜can（p.141-148）
+
+sentences:
+  # === 例文 (19 sentences) ===
+  # will（kvt-016）
+  - id: "kaku-11a-e01"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I will call you again this evening."
+    japanese: "今夜、またあなたに電話するつもりです。"
+    notes: "willの意志用法。核心「100%必ず」→「するつもり」"
+  - id: "kaku-11a-e02"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "The train will be crowded tonight."
+    japanese: "今夜は電車が混むはず。"
+    notes: "willの予想用法。核心「100%必ず」→「〜するはず」。確信度を落とすと「〜するでしょう」"
+  - id: "kaku-11a-e03"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "Avocados will ripen more quickly if you put them in a paper bag with a banana."
+    japanese: "アボカドは、バナナと一緒に紙袋に入れておくと早く熟します。"
+    notes: "willの習慣・習性用法。「必ず〜する」→習性。ripen「熟す」"
+  - id: "kaku-11a-e04"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "The door won't open."
+    japanese: "どうしてもドアが開かない。"
+    notes: "willの拒絶用法（否定文）。won't「絶対に〜しない」"
+  - id: "kaku-11a-e05"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "Will you give this book to your teacher? ― Sure."
+    japanese: "この本を先生に渡してくれる？ ― わかった。"
+    notes: "Will you〜?の依頼用法。「〜するつもり？」→「〜してくれる？」"
+  # may（kvt-016）
+  - id: "kaku-11a-e06"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 6
+    role: "example"
+    english: "You may take this book home if you want."
+    japanese: "もしよろしければ、この本を持って帰ってもいいですよ。"
+    notes: "mayの許可用法。オススメ度50%「持ち帰ってもいいし、別に持ち帰らなくてもいい」"
+  - id: "kaku-11a-e07"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 7
+    role: "example"
+    english: "It may be true, but we will never know the truth."
+    japanese: "それは本当かもしれませんが、真実は知るよしもないのです。"
+    notes: "mayの予想用法。予想50%「かもしれない（そうじゃないかもしれない）」"
+  - id: "kaku-11a-e08"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 8
+    role: "example"
+    english: "May I ask you a question? ― Sure."
+    japanese: "質問をしてもよろしいでしょうか？ ― もちろんです。"
+    notes: "May I〜?の許可を求める表現"
+  # must（kvt-017）
+  - id: "kaku-11a-e09"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 9
+    role: "example"
+    english: "You must brush your teeth before you go to bed."
+    japanese: "寝る前に歯磨きをしないといけません。"
+    notes: "mustの義務用法。「歯を磨くしかないでしょ！」→「しなければならない」"
+  - id: "kaku-11a-e10"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 10
+    role: "example"
+    english: "This box must be empty."
+    japanese: "この箱はきっと空っぽだ。"
+    notes: "mustの予想用法。「どう見ても空だと考えるしかないでしょ！」→「きっと〜だ」"
+  - id: "kaku-11a-e11"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 11
+    role: "example"
+    english: "You must not play games until you finish your homework."
+    japanese: "宿題が終わるまでゲームをしてはいけません。"
+    notes: "must notは「禁止」。don't have to「不必要」との区別が入試頻出"
+  # have to（kvt-017）
+  - id: "kaku-11a-e12"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 12
+    role: "example"
+    english: "I have to go now."
+    japanese: "もう行かなきゃ。"
+    notes: "have toの義務用法。mustと同じ意味"
+  - id: "kaku-11a-e13"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 13
+    role: "example"
+    english: "This has to be a mistake."
+    japanese: "これはきっとミスに違いない。"
+    notes: "have toの予想用法。mustと同じ意味"
+  - id: "kaku-11a-e14"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 14
+    role: "example"
+    english: "He had to stay home yesterday."
+    japanese: "彼は昨日、家にいなければならなかった。"
+    notes: "had to = mustの過去形代用。mustには過去形がない"
+  - id: "kaku-11a-e15"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 15
+    role: "example"
+    english: "You will have to wait for 30 minutes."
+    japanese: "30分待たなければならないだろう。"
+    notes: "will have to = mustの未来形代用。mustには未来形がない"
+  - id: "kaku-11a-e16"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 16
+    role: "example"
+    english: "You don't have to go to the doctor anymore."
+    japanese: "あなたはもう病院（医者）に行かなくていいのよ。"
+    notes: "don't have to「不必要」。must not「禁止」との決定的な違い。not〜anymore「もはや〜でない」"
+  # can（kvt-018）
+  - id: "kaku-11a-e17"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 17
+    role: "example"
+    english: "I can play the piano."
+    japanese: "私はピアノが弾けます。"
+    notes: "canの可能用法。核心「いつでも起こる」→「やれと言われればいつでもできる」"
+  - id: "kaku-11a-e18"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 18
+    role: "example"
+    english: "It can't be true."
+    japanese: "それは真実のはずがない。"
+    notes: "canの可能性の否定。can't「ありえない」。It can't be.の省略形もよく使われる"
+  - id: "kaku-11a-e19"
+    section_id: "Kaku_11a"
+    drill: 0
+    number: 19
+    role: "example"
+    english: "Can I see your camera?"
+    japanese: "君のカメラを見せてもらってもいいかな？"
+    notes: "Can I〜? can「できる」→「できるなら〜してもいい？」の感覚"
+
+sentence_knowledge_tags:
+  # kvt-016: will/mayの核心
+  - sentence_id: "kaku-11a-e01"
+    node_id: "kvt-016"
+  - sentence_id: "kaku-11a-e02"
+    node_id: "kvt-016"
+  - sentence_id: "kaku-11a-e03"
+    node_id: "kvt-016"
+  - sentence_id: "kaku-11a-e04"
+    node_id: "kvt-016"
+  - sentence_id: "kaku-11a-e05"
+    node_id: "kvt-016"
+  - sentence_id: "kaku-11a-e06"
+    node_id: "kvt-016"
+  - sentence_id: "kaku-11a-e07"
+    node_id: "kvt-016"
+  - sentence_id: "kaku-11a-e08"
+    node_id: "kvt-016"
+  # kvt-017: must/have toの核心
+  - sentence_id: "kaku-11a-e09"
+    node_id: "kvt-017"
+  - sentence_id: "kaku-11a-e10"
+    node_id: "kvt-017"
+  - sentence_id: "kaku-11a-e11"
+    node_id: "kvt-017"
+  - sentence_id: "kaku-11a-e12"
+    node_id: "kvt-017"
+  - sentence_id: "kaku-11a-e13"
+    node_id: "kvt-017"
+  - sentence_id: "kaku-11a-e14"
+    node_id: "kvt-017"
+  - sentence_id: "kaku-11a-e15"
+    node_id: "kvt-017"
+  - sentence_id: "kaku-11a-e16"
+    node_id: "kvt-017"
+  # kvt-018: canの核心と助動詞の予想判別法
+  - sentence_id: "kaku-11a-e17"
+    node_id: "kvt-018"
+  - sentence_id: "kaku-11a-e18"
+    node_id: "kvt-018"
+  - sentence_id: "kaku-11a-e19"
+    node_id: "kvt-018"
+
+sentence_structures:
+  # e01
+  - sentence_id: "kaku-11a-e01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "kaku-11a-e01"
+    label: "details"
+    value: "<I>(S) will call(V) <you>(O) [again this evening](M)"
+  # e02
+  - sentence_id: "kaku-11a-e02"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "kaku-11a-e02"
+    label: "details"
+    value: "<The train>(S) will be(V) <crowded>(C) [tonight](M)"
+  # e03
+  - sentence_id: "kaku-11a-e03"
+    label: "overall"
+    value: "S V M M(if節)"
+  - sentence_id: "kaku-11a-e03"
+    label: "details"
+    value: "<Avocados>(S) will ripen(V) [more quickly](M) [if you put them in a paper bag with a banana](M:条件副詞節)"
+  # e04
+  - sentence_id: "kaku-11a-e04"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "kaku-11a-e04"
+    label: "details"
+    value: "<The door>(S) won't open(V)"
+  # e05
+  - sentence_id: "kaku-11a-e05"
+    label: "overall"
+    value: "V S O M"
+  - sentence_id: "kaku-11a-e05"
+    label: "details"
+    value: "Will <you>(S) give(V) <this book>(O) [to your teacher](M)?"
+  # e06
+  - sentence_id: "kaku-11a-e06"
+    label: "overall"
+    value: "S V O M M(if節)"
+  - sentence_id: "kaku-11a-e06"
+    label: "details"
+    value: "<You>(S) may take(V) <this book>(O) [home](M) [if you want](M:条件副詞節)"
+  # e07
+  - sentence_id: "kaku-11a-e07"
+    label: "overall"
+    value: "S V C / S V O"
+  - sentence_id: "kaku-11a-e07"
+    label: "details"
+    value: "<It>(S) may be(V) <true>(C), but <we>(S) will never know(V) <the truth>(O)"
+  # e08
+  - sentence_id: "kaku-11a-e08"
+    label: "overall"
+    value: "V S O O"
+  - sentence_id: "kaku-11a-e08"
+    label: "details"
+    value: "May <I>(S) ask(V) <you>(O₁) <a question>(O₂)?"
+  # e09
+  - sentence_id: "kaku-11a-e09"
+    label: "overall"
+    value: "S V O M(before節)"
+  - sentence_id: "kaku-11a-e09"
+    label: "details"
+    value: "<You>(S) must brush(V) <your teeth>(O) [before you go to bed](M:時の副詞節)"
+  # e10
+  - sentence_id: "kaku-11a-e10"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-11a-e10"
+    label: "details"
+    value: "<This box>(S) must be(V) <empty>(C)"
+  # e11
+  - sentence_id: "kaku-11a-e11"
+    label: "overall"
+    value: "S V O M(until節)"
+  - sentence_id: "kaku-11a-e11"
+    label: "details"
+    value: "<You>(S) must not play(V) <games>(O) [until you finish your homework](M:時の副詞節)"
+  # e12
+  - sentence_id: "kaku-11a-e12"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-11a-e12"
+    label: "details"
+    value: "<I>(S) have to go(V) [now](M)"
+  # e13
+  - sentence_id: "kaku-11a-e13"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-11a-e13"
+    label: "details"
+    value: "<This>(S) has to be(V) <a mistake>(C)"
+  # e14
+  - sentence_id: "kaku-11a-e14"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "kaku-11a-e14"
+    label: "details"
+    value: "<He>(S) had to stay(V) [home](M) [yesterday](M)"
+  # e15
+  - sentence_id: "kaku-11a-e15"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-11a-e15"
+    label: "details"
+    value: "<You>(S) will have to wait(V) [for 30 minutes](M)"
+  # e16
+  - sentence_id: "kaku-11a-e16"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "kaku-11a-e16"
+    label: "details"
+    value: "<You>(S) don't have to go(V) [to the doctor](M) [anymore](M)"
+  # e17
+  - sentence_id: "kaku-11a-e17"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-11a-e17"
+    label: "details"
+    value: "<I>(S) can play(V) <the piano>(O)"
+  # e18
+  - sentence_id: "kaku-11a-e18"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-11a-e18"
+    label: "details"
+    value: "<It>(S) can't be(V) <true>(C)"
+  # e19
+  - sentence_id: "kaku-11a-e19"
+    label: "overall"
+    value: "V S O"
+  - sentence_id: "kaku-11a-e19"
+    label: "details"
+    value: "Can <I>(S) see(V) <your camera>(O)?"

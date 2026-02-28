@@ -246,6 +246,235 @@ knowledge_nodes:
       have been to〜: 【完了】〜へ行ってきたところだ / 【経験】〜へ行ったことがある → 共通点: 今はここにいる（beは「いる」の意味）
       have gone to〜: 【結果】〜へ行ってしまった（もうここにいない）→ goは「離れていく」感覚
 
+  - id: "kvt-013"
+    name: "仮定法の核心と5つの公式"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      核心: 助動詞の過去形を見たら仮定法を考える！
+      仮定法 = 妄想の世界（ありえないこと）を語る。直説法 = 現実の世界（ありえること）を語る「普通の文」。
+      仮定法の目印はifではなく「助動詞の過去形」（特にwould・could）。ifがあっても直説法の場合がある（例: If it rains tomorrow...は直説法）。
+      5つの公式:
+      (1) 仮定法過去（現在の妄想）: If s 過去形, S would 原形 →「見た目は過去/中身は現在」。be動詞は主語に関係なく常にwere。
+      (2) 仮定法過去完了（過去の妄想）: If s had p.p., S would have p.p. →「見た目は過去完了/中身は過去」。仮定法過去から動詞が一段階過去に平行移動。
+      (3) ミックス仮定法: If s had p.p., S would 原形 →「あのとき〜だったら、今ごろ…だろうに」。仮定法過去完了のif節 + 仮定法過去の主節。
+      (4) 未来の仮定法（should）: If s should 原形, S would 原形/命令文/直説法 →「万一〜なら」。入試では命令文パターンがほとんど。
+      (5) 未来の仮定法（were to）: If s were to 原形, S would 原形 →「あくまで仮の話で〜なら」。実現可能性に関係なく完全妄想。
+      ※すべての公式でwould以外にcould・might・shouldでも可。
+      shouldを使った仮定法は仮定法の黄金ルール「主節に助動詞の過去形」が崩れる唯一のケース（万一の実現可能性があるため）。
+      前提知識との差分: 中学では仮定法の公式の一部や慣用表現のみ。高校では5公式すべてを理解する必要がある。
+      参考書内参照: →p.102「時・条件を表す副詞節の中では未来のことでも現在形」（直説法ifの例として言及）
+      [図表: 公式一覧表 — 5つの仮定法公式のまとめ（p.130）]
+      [図表: 平行移動図 — 仮定法過去→仮定法過去完了の動詞変化（p.127）]
+
+  - id: "kvt-014"
+    name: "if省略倒置とif節代用表現"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      仮定法のifは省略可能で、省略の目印として「倒置（疑問文の語順）」が起きる。
+      倒置可能な形: Were/Had/Shouldの3つのみ。意味は変わらない。
+      倒置のプロセス:
+      ・仮定法過去: If s were → Were s 〜, S would 原形
+      ・仮定法過去完了: If s had p.p. → Had s p.p., S would have p.p.
+      ・未来(should): If s should → Should s 原形, 命令文など
+      ・未来(were to): If s were to → Were s to 原形, S would 原形
+      倒置した副詞節が「後ろ」に来るパターンもある（コンマなしOK）。
+      if節がない仮定法の見抜き方:
+      ① 助動詞の過去形（特にwould・could）に反応
+      ② 仮定法を予想
+      ③ if節の代用表現を探す
+      if節の代用表現4パターン: Without 〜 / To 〜 / 副詞 / Otherwise
+      圧倒的に出題率が高いのはwithoutとotherwise。
+      otherwiseは「そうでなければ」。直説法の文の後にotherwiseを置き、そこから仮定法モードに入る。
+      ※withoutを見た時点で仮定法だと「断定」してはいけない。wouldを見て「やっぱり仮定法だ！」と確信する。
+      [図表: 表 — if節代用表現の4パターン（p.133）]
+
+  - id: "kvt-016"
+    name: "will/mayの核心"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      核心: 訳語を丸暗記せず、will「100%必ず」、may「50%半々」などの核心を掴む
+      ■ will 核心「100%必ず〜する」
+      4つの意味（すべて核心から派生）:
+      ① 意志「〜するつもり」
+      ② 予想「〜するはず・きっと〜だろう」（確信度を落とすと「〜するでしょう」）
+      ③ 習慣・習性「〜する習慣がある」（「必ず〜する」から自然に派生）
+      ④ 拒絶「（否定文で）絶対に〜しない」（won'tで拒絶）
+      Will you〜?: 「〜するつもり？」→「〜してくれる？」（依頼の決まり文句）
+      ■ may 核心「50%半々」
+      2つの意味:
+      ① 許可「〜してもよい」（オススメ度50%。してもしなくてもよい）
+      ② 予想「〜かもしれない」（予想50%。そうじゃないかもしれない）
+      ※日本語の「かも」は1%〜99%で使えるが、英語のmayは50%半々の感覚
+      May I〜?: 「〜してもよろしいですか？」（許可を求める表現）
+      前提知識との差分: 中学ではcan=できる、may=してよい/かもしれない、の訳語暗記で済んだ。高校では核心概念の理解と予想の意味が必要
+
+  - id: "kvt-017"
+    name: "must/have toの核心"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      ■ must 核心「それしかないでしょ！」
+      2つの意味:
+      ① 義務「〜しなければならない」（「そうするしかないでしょ！」）
+      ② 予想「〜に違いない・きっと〜だ」（「そう考えるしかないでしょ！」。状況から判断）
+      must not = 「禁止」（〜してはいけない）
+      ■ have to 核心 mustと同じ意味を2つ持つ
+      ① 義務「〜しなければならない」
+      ② 予想「〜に違いない・きっと〜だ」
+      同意表現: have got to（have to = have got to）
+      時制変化:
+      ・過去: had to「〜しなければならなかった」
+      ・未来: will have to「〜しなければならないだろう」
+      ※mustには過去形・未来形がないため、have toで代用
+      否定文の決定的な違い:
+      must not 〜 =「〜してはいけない」（禁止）
+      don't have to 〜 =「〜する必要がない」（不必要）
+      ※この区別は入試頻出
+
+  - id: "kvt-018"
+    name: "canの核心と助動詞の予想判別法"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      ■ can 核心「いつでも起こる」
+      2つの意味:
+      ① 可能「〜できる」（「いつでも起こる」→「やれと言われればいつでもできる」）
+      ② 可能性「ありえる」（「いつでも起こりえる」→「ありえる」）
+      ※②の「ありえる」は否定文can't「ありえない・〜のはずがない」でよく使われる
+      It can't be true.の省略形: It can't be. もよく使われる
+      canのその他の意味: Can I〜?「〜してもいい？/〜しましょうか？」
+      → can「できる」から派生。「できるなら〜してもいい？」の感覚
+      ■ 助動詞の予想判別法（全助動詞に適用）
+      「助動詞の後に状態動詞（進行形にできない動詞）」がきたら、まず「予想」系統の意味を考える。
+      状態動詞の代表格はbe。
+      may be →「かもしれない」、must be →「違いない」、can't be →「ありえない」
+      ※100%ではないが、大半のケースでうまくいく
+      参考書内参照: →p.152-153「couldは『もしやろうと思えばできた』でしか使えない」
+      ※canの核心「いつでも起こる」→ 過去形could「もしやろうと思えばいつでもできた」→「一度だけできた」にはcouldは使えない
+      ※be動詞にも「動作」の意味がある（I'll be back.のbeは「移動する」）が、上記の予想判別法は大半のケースで有効
+
+  - id: "kvt-015"
+    name: "仮定法の慣用表現"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      without〜「〜がなければ」のバリエーション3つ:
+      ① if it were not for 〜「今〜がなければ」（仮定法過去）
+      ② if it had not been for 〜「あのとき〜がなかったら」（仮定法過去完了）
+      ③ but for 〜（仮定法過去か過去完了かは主節の動詞で判断）
+      ※①②はif省略倒置も可能: Were it not for / Had it not been for
+      It is time s 過去形「もうsvする時間だ」（相手に促す表現）
+      ・timeの前にabout「そろそろ」やhigh「とっくに」がつくことが多い
+      I wish s 過去形「今〜ならなぁ」（主節wishと同時制の妄想）
+      I wish s had p.p.「あのとき〜だったらなぁ」（主節wishより1つ前の時制の妄想）
+      I wishの後には「if節の中身」がくる → 助動詞の過去形は不要。
+      「公式のif節の中身」だけを言うことで、ロマンチックに響いたり、残念な気持ちが強調される。
+      仮定法なのに助動詞の過去形が不要な2つの特殊な形:
+      (1) 未来の仮定法でshouldを使うとき（主節に命令文やwill等が来てもOK）
+      (2) I wishのとき（if節の中身がくるため）
+      [図表: まとめ表 — 助動詞の過去形が不要な特殊な形（p.136）]
+      [図表: 対応図 — I wish構文とif節公式の関係（p.135-136）]
+
+  - id: "kvt-019"
+    name: "would/could/mightの意味と使い分け"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      助動詞の過去形の大前提2つ:
+      (1)「過去の意味」になるとは限らない: 予想系統の意味は過去形でも同じ（may→might, can→could）。shouldは過去の意味で使われることがない。
+      (2) 助動詞の過去形を見たら、まず「仮定法」を考える（→テーマ10）
+      ■ would 核心「必ず〜した」
+      メインの用法（仮定法の影響を受けている）:
+      ① 仮定法「〜だろうに」（→p.125）
+      ② 遠回しの丁寧表現: Would you〜?「〜していただけませんか？」/ would like to〜「〜したいものだ」
+      ③ 予想・婉曲「〜だろう」
+      過去形としての用法:
+      ① 過去の習慣「よく〜したものだ」（would often/sometimesの形で即断可能）
+      ② 過去の拒絶「（否定文で）どうしても〜しようとしなかった」
+      ③ willの過去形（単なる時制の一致）
+      ■ could 核心「もしかしたらcan」
+      メインの用法:
+      ① 仮定法 ② 丁寧表現（Could you〜?） ③ 予想・可能性「ありえる」
+      過去形としての用法:
+      ① canの過去形「できた」→「もしやろうと思えばできた」のみ。「一度だけできた」にはwas[were] able toを使う
+      ② 時制の一致
+      ■ might 核心「もしかしたらmay」
+      mightの大半（9割以上）が「mayと同じ意味」で使われる。might≒may。
+      mayに仮定法のニュアンス「もしかしたら」が加わった形。50%よりやや弱い感覚。
+      参考書内参照: →p.125（仮定法）、→p.152-153（couldの制限）
+
+  - id: "kvt-020"
+    name: "shouldと仮定法現在"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      ■ should 核心「本来ならば〜するのが当然」
+      メインの用法:
+      ① 義務・忠告「（当然）〜すべき」
+      ② 予想「（当然）〜のはずだ」（80〜90%の自信）
+      仮定法絡み:
+      ① 仮定法過去・仮定法過去完了「〜だろうに」（I人称の主節）
+      ② 未来の仮定法（→p.129）
+      ③ 仮定法現在
+      ■ 仮定法現在
+      基本形: S V that s {should}[原形]
+      命令系統の動詞: suggest/propose/recommend/urge/request/require/demand/insist/order/decide
+      →「提案・主張・要求・命令・決定」は全て「命令」がベース。丸暗記不要。
+      shouldを使う（主にイギリス）: 命令内容は「まだ現実に起きていない」→仮定法の目印としてshould
+      原形を使う（主にアメリカ）: 「命令する内容には命令文（動詞の原形）」
+      ※「shouldが省略される」は間違い。助動詞が省略されることはない。
+      ※入試では「原形」が97%以上出題される
+      ※仮定法のshouldなので無理に「すべき」と訳す必要はない。単なる目印。
+      参考書内参照: →p.129（未来の仮定法）、→p.180（不定詞）
+
+  - id: "kvt-021"
+    name: "その他の助動詞（ought to/had better/need/used to）"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      ■ ought to = should（義務「〜すべき」/ 予想「〜のはずだ」）
+      否定: ought not to〜（notはtoの直前 = 不定詞の原則通り →p.180）
+      ※助動詞の過去形ではないので仮定法の用法なし
+      ■ had better [原形]「〜したほうがよい（じゃないと後で大変だよ）」
+      実は「やらないとマズいぞ」という気持ちが隠れている。ソフトな表現ではない。
+      否定: had better not [原形]
+      短縮形: You'd better
+      ■ 助動詞need vs 一般動詞need
+      「助動詞needはcanと同じ使い方／一般動詞needはwantと同じ使い方」
+      助動詞: need not [原形]「〜する必要はない」。肯定文では使えない。過去形なし。
+      一般動詞: don't need to [原形]。3単現のs（needs）・過去形（needed）あり。
+      [図表: 表 — needの品詞と使い方の対比（p.159）]
+      ■ used to [原形]（usedは「ユースト」と発音）
+      ① 過去の習慣「よく〜したものだ」（used to + 動作動詞）
+      ② 過去の状態「昔は〜であった」（used to + 状態動詞）
+      wouldとの違い: used toは「過去と現在の対比」が可能（昔は〜だったけど今はしない）
+      usedを使った表現まとめ: ①used to [原形] ②be used to -ing「慣れている」(→p.203) ③be used to [原形]（受動態+to不定詞）
+      [図表: 表 — would vs. used to〜の比較（p.161）]
+
+  - id: "kvt-022"
+    name: "助動詞have p.p."
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      「助動詞 + have p.p.」= 過去に意識が向いた表現
+      助動詞の後に過去形を置けないので、「せめてhave p.p.を置こう」と生まれた形。
+      2つのグループで整理:
+      ■ 予想グループ（過去への予想）「（過去に）〜だったと、（今）予想する」
+      ① may have p.p.「〜だったかもしれない」（≒might have p.p.）
+      ② must have p.p.「〜だったに違いない」
+      ③ can't have p.p.「〜だったはずがない」（≒couldn't have p.p.）
+      ※よくあるミス: must have p.p.を「しなきゃいけなかった」、can't have p.p.を「できなかった」と訳す
+      ※この形の助動詞はすべて「予想」系統の意味になるのがポイント
+      ■ イヤミグループ（過去への後悔）「〜したことに、（今）イヤミを言う」
+      ④ should have p.p.「〜すべきだったのに」（≒ought to have p.p.）
+      ⑤ ought to have p.p.「〜すべきだったのに」
+      ⑥ need not have p.p.「〜する必要はなかったのに」（※ほとんど使われない）
+      否定: should not have p.p. / ought not to have p.p.「〜すべきじゃなかったのに」
+      まずは5つの訳語をマスターすれば入試問題の9割が解ける。
+
 understanding_goals:
   # kvt-001
   - node_id: "kvt-001"
@@ -418,6 +647,145 @@ understanding_goals:
   - node_id: "kvt-012"
     seq: 4
     goal: "have been to と have gone to の違いを「今ここにいるか」で説明できる"
+  # kvt-013
+  - node_id: "kvt-013"
+    seq: 1
+    goal: "仮定法と直説法の違いを、ifの有無ではなく「助動詞の過去形」で判別できる"
+  - node_id: "kvt-013"
+    seq: 2
+    goal: "仮定法過去の「見た目は過去/中身は現在」という原理を説明できる"
+  - node_id: "kvt-013"
+    seq: 3
+    goal: "5つの仮定法公式（過去/過去完了/ミックス/should/were to）を正しく使い分けられる"
+  - node_id: "kvt-013"
+    seq: 4
+    goal: "仮定法過去完了が仮定法過去から動詞が一段階過去に平行移動した形であることを理解している"
+  - node_id: "kvt-013"
+    seq: 5
+    goal: "should仮定法とwere to仮定法の違い（万一 vs. 完全妄想）を説明できる"
+  # kvt-014
+  - node_id: "kvt-014"
+    seq: 1
+    goal: "仮定法のif省略が起きると倒置（疑問文の語順）になることを理解している"
+  - node_id: "kvt-014"
+    seq: 2
+    goal: "Were/Had/Shouldの3形のみが倒置可能であることを知っている"
+  - node_id: "kvt-014"
+    seq: 3
+    goal: "倒置した副詞節が後ろに来るパターンを認識できる"
+  - node_id: "kvt-014"
+    seq: 4
+    goal: "助動詞の過去形からif節代用表現（without/otherwise等）を探す手順を実行できる"
+  # kvt-015
+  - node_id: "kvt-015"
+    seq: 1
+    goal: "without〜の3つの言い換え（if it were not for / if it had not been for / but for）を正しく使い分けられる"
+  - node_id: "kvt-015"
+    seq: 2
+    goal: "It is time s 過去形の構文を理解し、使用できる"
+  - node_id: "kvt-015"
+    seq: 3
+    goal: "I wish s 過去形とI wish s had p.p.の時制の違いを正しく判断できる"
+  - node_id: "kvt-015"
+    seq: 4
+    goal: "I wishの後に「if節の中身」がくる原理を理解し、助動詞の過去形が不要な理由を説明できる"
+  - node_id: "kvt-015"
+    seq: 5
+    goal: "仮定法なのに助動詞の過去形が不要な2パターンを列挙できる"
+  # kvt-016
+  - node_id: "kvt-016"
+    seq: 1
+    goal: "willの核心「100%必ず」から4つの意味（意志/予想/習慣・習性/拒絶）を導き出せる"
+  - node_id: "kvt-016"
+    seq: 2
+    goal: "mayの核心「50%半々」から許可と予想の2つの意味を説明できる"
+  - node_id: "kvt-016"
+    seq: 3
+    goal: "Will you〜?（依頼）とMay I〜?（許可を求める）の意味を核心から説明できる"
+  - node_id: "kvt-016"
+    seq: 4
+    goal: "日本語の「かも」と英語のmayの確信度の違いを説明できる"
+  # kvt-017
+  - node_id: "kvt-017"
+    seq: 1
+    goal: "mustの核心「それしかないでしょ！」から義務と予想の2つの意味を導き出せる"
+  - node_id: "kvt-017"
+    seq: 2
+    goal: "have toがmustと同じ2つの意味（義務/予想）を持つことを理解している"
+  - node_id: "kvt-017"
+    seq: 3
+    goal: "must notとdon't have toの意味の違いを正確に区別できる"
+  - node_id: "kvt-017"
+    seq: 4
+    goal: "mustに過去形・未来形がないため、had to/will have toで代用することを知っている"
+  # kvt-018
+  - node_id: "kvt-018"
+    seq: 1
+    goal: "canの核心「いつでも起こる」から可能と可能性の2つの意味を導き出せる"
+  - node_id: "kvt-018"
+    seq: 2
+    goal: "can't beが「ありえない・〜のはずがない」の意味になることを核心から説明できる"
+  - node_id: "kvt-018"
+    seq: 3
+    goal: "助動詞の予想判別法（助動詞＋状態動詞→予想）を実行できる"
+  - node_id: "kvt-018"
+    seq: 4
+    goal: "couldが「一度だけできた」に使えない理由をcanの核心から説明できる"
+  # kvt-019
+  - node_id: "kvt-019"
+    seq: 1
+    goal: "助動詞の過去形の大前提2つ（過去の意味になるとは限らない/まず仮定法を考える）を説明できる"
+  - node_id: "kvt-019"
+    seq: 2
+    goal: "wouldの用法を「メイン（仮定法影響）」と「過去形」の2グループで整理できる"
+  - node_id: "kvt-019"
+    seq: 3
+    goal: "couldの「できた」が使える場面とwas able toの使い分けを説明できる"
+  - node_id: "kvt-019"
+    seq: 4
+    goal: "mightをmayとほぼ同じと捉え、微妙なニュアンスの違いを理解している"
+  # kvt-020
+  - node_id: "kvt-020"
+    seq: 1
+    goal: "shouldの核心「本来ならば」から義務と予想の2つの意味を説明できる"
+  - node_id: "kvt-020"
+    seq: 2
+    goal: "仮定法現在を「命令系統の動詞」のキーワードで理解できる"
+  - node_id: "kvt-020"
+    seq: 3
+    goal: "that節内のshouldと原形の違い（イギリス式 vs アメリカ式）を正しく説明できる"
+  - node_id: "kvt-020"
+    seq: 4
+    goal: "「shouldが省略される」が間違いである理由を説明できる"
+  # kvt-021
+  - node_id: "kvt-021"
+    seq: 1
+    goal: "ought toがshouldと同じ意味であることを知り、否定形の注意点を説明できる"
+  - node_id: "kvt-021"
+    seq: 2
+    goal: "had betterの隠れたニュアンスを理解し、否定形を正しく使える"
+  - node_id: "kvt-021"
+    seq: 3
+    goal: "助動詞needと一般動詞needの使い方の違いを説明できる"
+  - node_id: "kvt-021"
+    seq: 4
+    goal: "used toの2つの意味を後ろの動詞の種類で判別できる"
+  - node_id: "kvt-021"
+    seq: 5
+    goal: "used toとwouldの違い（過去と現在の対比の可否）を説明できる"
+  # kvt-022
+  - node_id: "kvt-022"
+    seq: 1
+    goal: "助動詞have p.p.を「予想グループ」と「イヤミグループ」の2つに分けて整理できる"
+  - node_id: "kvt-022"
+    seq: 2
+    goal: "予想グループの3つ（may/must/can't have p.p.）の訳を正確に言える"
+  - node_id: "kvt-022"
+    seq: 3
+    goal: "イヤミグループ（should/ought to have p.p.）の意味と否定形を正確に言える"
+  - node_id: "kvt-022"
+    seq: 4
+    goal: "must have p.p.を「しなきゃいけなかった」と訳すミスを避けられる"
 
 check_points:
   # kvt-001
@@ -652,6 +1020,188 @@ check_points:
     seq: 4
     question: "have gone toとhave been toの違いは？"
     answer: "have gone to=結果「行ってしまった（ここにいない）」、have been to=「行ってきた/行ったことがある（ここにいる）」。goの「離れていく」感覚。"
+  # kvt-013
+  - node_id: "kvt-013"
+    seq: 1
+    question: "仮定法の目印は何か？"
+    answer: "助動詞の過去形（特にwould・could）。ifではない。ifがあっても直説法の場合がある。"
+  - node_id: "kvt-013"
+    seq: 2
+    question: "仮定法過去は「いつ」の妄想を表すか？"
+    answer: "「現在」の妄想。見た目は過去形だが、中身は現在の内容。「見た目は過去/中身は現在」。"
+  - node_id: "kvt-013"
+    seq: 3
+    question: "ミックス仮定法の構造は？"
+    answer: "If s had p.p.（過去の妄想）, S would 原形（現在の状態）。仮定法過去完了のif節 + 仮定法過去の主節。「あのとき〜だったら、今ごろ…だろうに」。"
+  - node_id: "kvt-013"
+    seq: 4
+    question: "shouldを使った仮定法で、主節にはどんな形が来るか？"
+    answer: "would原形だけでなく、命令文や直説法（willなど）も可。入試では命令文パターンが最頻出。"
+  - node_id: "kvt-013"
+    seq: 5
+    question: "仮定法過去のif節でbe動詞はどう変化するか？"
+    answer: "主語に関係なく常にwereを使う（If I were you...など）。"
+  # kvt-014
+  - node_id: "kvt-014"
+    seq: 1
+    question: "仮定法のifを省略すると何が起きるか？"
+    answer: "倒置が起きる。Were/Had/Shouldが文頭に出て疑問文の語順になる。意味は変わらない。"
+  - node_id: "kvt-014"
+    seq: 2
+    question: "倒置した副詞節が後ろに来る場合、コンマは必要か？"
+    answer: "コンマなしでもOK（入れても入れなくてもOK）。ネイティブからは倒置が一目瞭然なので、コンマは余計に感じられる。"
+  - node_id: "kvt-014"
+    seq: 3
+    question: "if節の代用表現で最も出題率が高い2つは？"
+    answer: "withoutとotherwise。"
+  - node_id: "kvt-014"
+    seq: 4
+    question: "otherwiseを使った仮定法の典型的パターンは？"
+    answer: "直説法の文; otherwise, S would have p.p.（前半が直説法、otherwiseから仮定法モードに入る）。"
+  # kvt-015
+  - node_id: "kvt-015"
+    seq: 1
+    question: "without〜の言い換え3つは？"
+    answer: "if it were not for 〜（現在）、if it had not been for 〜（過去）、but for 〜（主節の動詞で現在/過去を判断）。"
+  - node_id: "kvt-015"
+    seq: 2
+    question: "It is time s 過去形で、timeの前につくことが多い語は？"
+    answer: "about「そろそろ」やhigh「とっくに」。"
+  - node_id: "kvt-015"
+    seq: 3
+    question: "I wish s 過去形は「いつ」の妄想を表すか？"
+    answer: "「今」の妄想。wishと同時制。I wish s had p.p.は「あのとき」の妄想（wishより1つ前の時制）。"
+  - node_id: "kvt-015"
+    seq: 4
+    question: "I wishの後に助動詞の過去形が不要な理由は？"
+    answer: "wishの後にはif節の中身だけがくるため。助動詞の過去形は本来「主節」に必要で、if節には不要。"
+  - node_id: "kvt-015"
+    seq: 5
+    question: "仮定法なのに助動詞の過去形が不要な2パターンは？"
+    answer: "(1) shouldを使う未来の仮定法（主節に命令文やwill等が来てもOK）、(2) I wish（if節の中身がくるため）。"
+  # kvt-016
+  - node_id: "kvt-016"
+    seq: 1
+    question: "willの核心は？4つの意味は？"
+    answer: "「100%必ず〜する」。①意志「〜するつもり」②予想「〜するはず」③習慣・習性「〜する習慣がある」④拒絶「（否定文で）絶対に〜しない」。"
+  - node_id: "kvt-016"
+    seq: 2
+    question: "mayの核心は？2つの意味は？"
+    answer: "「50%半々」。①許可「〜してもよい」（オススメ度50%）②予想「〜かもしれない」（予想50%）。"
+  - node_id: "kvt-016"
+    seq: 3
+    question: "Will you〜?が依頼の意味になる理由は？"
+    answer: "「〜するつもり？」→「（そのつもりなら）〜してくれる？」と派生。will「100%必ず」の核心から。"
+  - node_id: "kvt-016"
+    seq: 4
+    question: "日本語の「かも」と英語のmayの違いは？"
+    answer: "日本語の「かも」は1%〜99%で使えるが、英語のmayは50%半々の感覚。"
+  # kvt-017
+  - node_id: "kvt-017"
+    seq: 1
+    question: "mustの核心は？2つの意味は？"
+    answer: "「それしかないでしょ！」。①義務「〜しなければならない」（そうするしかないでしょ！）②予想「〜に違いない」（そう考えるしかないでしょ！）。"
+  - node_id: "kvt-017"
+    seq: 2
+    question: "must notとdon't have toの意味の違いは？"
+    answer: "must not＝禁止「〜してはいけない」。don't have to＝不必要「〜する必要がない」。この区別は入試頻出。"
+  - node_id: "kvt-017"
+    seq: 3
+    question: "mustの過去形・未来形は？"
+    answer: "mustには過去形・未来形がない。過去: had to、未来: will have toで代用。"
+  - node_id: "kvt-017"
+    seq: 4
+    question: "have got toとは？"
+    answer: "have toの同意表現。have to = have got to。意味は同じ（義務/予想）。"
+  # kvt-018
+  - node_id: "kvt-018"
+    seq: 1
+    question: "canの核心は？2つの意味は？"
+    answer: "「いつでも起こる」。①可能「〜できる」（いつでもできる）②可能性「ありえる」（いつでも起こりえる）。"
+  - node_id: "kvt-018"
+    seq: 2
+    question: "can't beの意味は？省略形は？"
+    answer: "「ありえない・〜のはずがない」。It can't be true.からtrueを省略したIt can't be.もよく使われる。"
+  - node_id: "kvt-018"
+    seq: 3
+    question: "助動詞の予想判別法とは？"
+    answer: "「助動詞＋状態動詞（特にbe）」がきたら予想の意味を考える。may be→かもしれない、must be→違いない、can't be→ありえない。100%ではないが大半で有効。"
+  - node_id: "kvt-018"
+    seq: 4
+    question: "couldが「一度だけできた」に使えない理由は？代わりに何を使う？"
+    answer: "canの核心「いつでも起こる」の過去形→「もしやろうと思えばいつでもできた」。一度だけの行為にはwas[were] able toを使う。"
+  # kvt-019
+  - node_id: "kvt-019"
+    seq: 1
+    question: "助動詞の過去形の大前提2つは？"
+    answer: "(1)過去の意味になるとは限らない（予想系の意味は過去形でも同じ） (2)まず仮定法を考える。"
+  - node_id: "kvt-019"
+    seq: 2
+    question: "would often/sometimesの形を見たら何と判断できるか？"
+    answer: "「過去の習慣」と即断できる。would「必ず〜した」を100%から妥協した形。"
+  - node_id: "kvt-019"
+    seq: 3
+    question: "couldの「できた」が使える場面と使えない場面は？"
+    answer: "「もしやろうと思えばできた」→OK。「一度だけできた」→NG（was[were] able toを使う）。"
+  - node_id: "kvt-019"
+    seq: 4
+    question: "mightの大半の用法は？"
+    answer: "mayと同じ意味（「もしかしたら」のニュアンスが加わる程度）。9割以上がmay≒mightで使われる。"
+  # kvt-020
+  - node_id: "kvt-020"
+    seq: 1
+    question: "shouldの核心は？予想の度合いは？"
+    answer: "「本来ならば〜するのが当然」。予想は80〜90%の自信。"
+  - node_id: "kvt-020"
+    seq: 2
+    question: "仮定法現在のthat節に入る形は？入試での出題傾向は？"
+    answer: "{should}[原形] または [原形]のみ。入試では「原形」が97%以上出題される。"
+  - node_id: "kvt-020"
+    seq: 3
+    question: "命令系統の動詞をまとめて覚えるコツは？"
+    answer: "全て「命令がベース」。suggest=優しい命令、insist=主張=命令、decide=度が過ぎた命令。丸暗記不要。"
+  - node_id: "kvt-020"
+    seq: 4
+    question: "「shouldが省略される」は正しいか？"
+    answer: "間違い。shouldを使う人（イギリス）と原形を使う人（アメリカ）がいるだけ。助動詞が省略されることはない。"
+  # kvt-021
+  - node_id: "kvt-021"
+    seq: 1
+    question: "ought toの否定形は？注意点は？"
+    answer: "ought not to〜。notはtoの直前に置く（不定詞の原則通り）。"
+  - node_id: "kvt-021"
+    seq: 2
+    question: "had betterの否定形は？ニュアンスは？"
+    answer: "had better not [原形]。「〜しないほうがよい」。見た目はソフトだが実は「やらないとマズいぞ」。"
+  - node_id: "kvt-021"
+    seq: 3
+    question: "助動詞needと一般動詞needの否定文の形は？"
+    answer: "助動詞: need not [原形]。一般動詞: don't need to [原形]。「canと同じ vs wantと同じ」。"
+  - node_id: "kvt-021"
+    seq: 4
+    question: "used toの2つの意味を判別する方法は？"
+    answer: "後ろの動詞で判別。動作動詞→過去の習慣「よく〜したものだ」。状態動詞→過去の状態「昔は〜だった」。"
+  - node_id: "kvt-021"
+    seq: 5
+    question: "used toとwouldの違いは？"
+    answer: "used toは「過去と現在の対比」ができる（「昔は〜だったけど今はしない」）。wouldはできない。また、wouldは過去の状態には使えない。"
+  # kvt-022
+  - node_id: "kvt-022"
+    seq: 1
+    question: "助動詞have p.p.の2つのグループは？"
+    answer: "予想グループ（may/must/can't have p.p.）とイヤミグループ（should/ought to have p.p.）。"
+  - node_id: "kvt-022"
+    seq: 2
+    question: "must have p.p.の意味は？よくあるミスは？"
+    answer: "「〜だったに違いない」（予想）。×「しなきゃいけなかった」は誤り。この形の助動詞はすべて予想系統。"
+  - node_id: "kvt-022"
+    seq: 3
+    question: "should have p.p.の意味は？否定形は？"
+    answer: "「〜すべきだったのに」（イヤミ）。否定: should not have p.p.「〜すべきじゃなかったのに」。"
+  - node_id: "kvt-022"
+    seq: 4
+    question: "can't have p.p.の意味は？"
+    answer: "「〜だったはずがない」（過去への予想）。×「できなかった」は誤り。≒couldn't have p.p.。"
 
 node_prerequisites:
   - node_id: "kvt-004"
@@ -666,6 +1216,22 @@ node_prerequisites:
     prerequisite_id: "kvt-010"
   - node_id: "kvt-012"
     prerequisite_id: "kvt-010"
+  - node_id: "kvt-014"
+    prerequisite_id: "kvt-013"
+  - node_id: "kvt-015"
+    prerequisite_id: "kvt-013"
+  - node_id: "kvt-018"
+    prerequisite_id: "kvt-016"
+  - node_id: "kvt-018"
+    prerequisite_id: "kvt-017"
+  - node_id: "kvt-019"
+    prerequisite_id: "kvt-013"
+  - node_id: "kvt-020"
+    prerequisite_id: "kvt-013"
+  - node_id: "kvt-022"
+    prerequisite_id: "kvt-016"
+  - node_id: "kvt-022"
+    prerequisite_id: "kvt-017"
 
 knowledge_references:
   - node_id: "kvt-001"
@@ -716,3 +1282,43 @@ knowledge_references:
     book: "英文法の核心"
     section_id: "Kaku_09"
     pages: "p.117-119"
+  - node_id: "kvt-013"
+    book: "英文法の核心"
+    section_id: "Kaku_10"
+    pages: "p.124-130"
+  - node_id: "kvt-014"
+    book: "英文法の核心"
+    section_id: "Kaku_10"
+    pages: "p.131-134"
+  - node_id: "kvt-015"
+    book: "英文法の核心"
+    section_id: "Kaku_10"
+    pages: "p.134-136"
+  - node_id: "kvt-016"
+    book: "英文法の核心"
+    section_id: "Kaku_11a"
+    pages: "p.141-144"
+  - node_id: "kvt-017"
+    book: "英文法の核心"
+    section_id: "Kaku_11a"
+    pages: "p.144-146"
+  - node_id: "kvt-018"
+    book: "英文法の核心"
+    section_id: "Kaku_11a"
+    pages: "p.146-148"
+  - node_id: "kvt-019"
+    book: "英文法の核心"
+    section_id: "Kaku_11b"
+    pages: "p.148-153"
+  - node_id: "kvt-020"
+    book: "英文法の核心"
+    section_id: "Kaku_11b"
+    pages: "p.153-157"
+  - node_id: "kvt-021"
+    book: "英文法の核心"
+    section_id: "Kaku_11b"
+    pages: "p.157-161"
+  - node_id: "kvt-022"
+    book: "英文法の核心"
+    section_id: "Kaku_11b"
+    pages: "p.161-163"

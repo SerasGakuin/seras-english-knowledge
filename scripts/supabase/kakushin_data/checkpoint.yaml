@@ -2,24 +2,40 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T12:00:00"
+updated_at: "2026-03-02T14:00:00"
 book: "英文法の核心"
 book_slug: "kakushin"
 
 current_state:
-  phase: "Phase 2 — Batch 3 完了"
+  phase: "Phase 2 — Batch 4 完了"
   current_section: null
   current_step: null
-  last_completed_section: "Kaku_09"
+  last_completed_section: "Kaku_11b"
   last_completed_gate: 5
 
 progress:
   total_sections: 26
-  completed: 11
+  completed: 14
   in_progress: 0
-  remaining: 15
-  total_nodes: 31
-  total_sentences: 169
+  remaining: 12
+  total_nodes: 41
+  total_sentences: 244
+
+batch4_results:
+  sections_completed:
+    - section: "Kaku_10"
+      nodes: ["kvt-013", "kvt-014", "kvt-015"]
+      sentences: 23
+    - section: "Kaku_11a"
+      nodes: ["kvt-016", "kvt-017", "kvt-018"]
+      sentences: 19
+    - section: "Kaku_11b"
+      nodes: ["kvt-019", "kvt-020", "kvt-021", "kvt-022"]
+      sentences: 33
+  metrics:
+    batch_node_section_ratio: 3.33
+    batch_sentences: 75
+    cumulative_node_section_ratio: 2.93
 
 batch3_results:
   sections_completed:
@@ -81,9 +97,9 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
+  - "Batch 5: Kaku_12（不定詞1, p.169-186）, Kaku_13（不定詞2, p.187-197）, Kaku_14（動名詞, p.198-213）"
+  - "Part 3 準動詞に入る。kvt-022から続番（kvt-023〜）"
   - "3セクション完了 → 全指示書再読込"
-  - "Batch 4: Kaku_10（仮定法）, Kaku_11a（助動詞前半）, Kaku_11b（助動詞後半）"
-  - "kvt-012から続番。仮定法は17p（523L）で大規模。助動詞は11a+11bで881L（最大級）"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"
