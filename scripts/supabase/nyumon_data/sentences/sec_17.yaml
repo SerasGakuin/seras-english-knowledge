@@ -1,0 +1,43 @@
+sentences:
+  - id: "ny-17-s1"
+    section_id: "Ny_17"
+    drill: 17
+    number: 1
+    role: "exercise"
+    english: "In a study published in the journal Nature, scientists have now accurately dated two human teeth first discovered on the island of Sumatra in the late 19th century, showing our ancestors were living there between 73,000 and 63,000 years ago."
+    japanese: "雑誌『ネイチャー』で発表された研究で，今科学者達がスマトラ島で19世紀後半に初めて発見された2つの人間の歯の年代を正確に特定し，私達の祖先はそこに7万3千年前から6万3千年前の間のどこかの時点で暮らしていたことを示した。"
+    notes: "出典: お茶の水女子大学。* Sumatra「スマトラ島」（問題文の語彙注釈）"
+  - id: "ny-17-s2"
+    section_id: "Ny_17"
+    drill: 17
+    number: 2
+    role: "example"
+    english: "A huge typhoon hit western Japan, causing thousands of people to evacuate from their homes."
+    japanese: "巨大台風が西日本を襲い，何千人もの人々が避難させられた。"
+    notes: "❹の解説中の例文（文末の分詞構文）"
+
+sentence_structures:
+  - sentence_id: "ny-17-s1"
+    label: "overall"
+    value: "M S V O M"
+  - sentence_id: "ny-17-s1"
+    label: "details"
+    value: "(In a study (published (in the journal Nature)(M:副詞句))(M:形容詞句/過去分詞))(M:副詞句), {S}scientists {V}have now accurately dated {O}two human teeth (first discovered (on the island (of Sumatra)(M:形容詞句/同格)) (in the late 19th century)(M:副詞句))(M:形容詞句/過去分詞), (showing [{S}our ancestors {V}were living there (between 73,000 {等接}and 63,000 years ago)(M:副詞句)](that節/that省略))(M:副詞/分詞構文)."
+  - sentence_id: "ny-17-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 雑誌『ネイチャー』で発表された研究の中で
+      ❷ 今科学者達は正確に2つの人間の歯を年代特定している
+      ❸ スマトラ島で19世紀後半に初めて発見された歯
+  - sentence_id: "ny-17-s2"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "ny-17-s2"
+    label: "details"
+    value: "{S}A huge typhoon {V}hit {O}western Japan, (causing thousands (of people)(M:形容詞句) to evacuate (from their homes)(M:副詞句))(M:副詞/分詞構文)."
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-17-s1"
+    node_id: "njd-005"
+  - sentence_id: "ny-17-s2"
+    node_id: "njd-005"

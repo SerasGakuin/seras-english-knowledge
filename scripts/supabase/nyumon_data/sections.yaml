@@ -198,19 +198,22 @@ sections:
     title: "〜ingの働き（動名詞か現在分詞か）②"
     pages: "p.56-57"
     type: "exercise"
-    notes: ""
+    notes: |
+      一言: just last year の just は「ちょうど」の意味だが、適切な日本語訳がない。just the other day「つい最近」、just a year ago「ほんの1年前」とは異なり「つい昨年」「ほんの昨年」は日本語として落ち着きが悪い。
   - id: "Ny_16"
     book: "入門英文問題精講"
     title: "〜ingの働き（分詞構文）①"
     pages: "p.58-59"
     type: "exercise"
-    notes: ""
+    notes: |
+      一言: 英単語の訳語が1つに決まることはまずない。例えば disorder は「秩序がない状態」で、mental disorders は「精神障害」、functional disorders は「機能障害」、digestive disorders は「消化不良」。「1つの単語の訳語は1つでよい」というのは長い目で見てよいことは言えない。
   - id: "Ny_17"
     book: "入門英文問題精講"
     title: "〜ingの働き（分詞構文）②"
     pages: "p.60-61"
     type: "exercise"
-    notes: ""
+    notes: |
+      一言: 後置修飾について。日本語では形容詞は名詞の前に置くが、英語では長い修飾語は名詞の後ろに置かれる（後置修飾）。この後置修飾を理解することが英語学習では非常に重要。
   - id: "Ny_18"
     book: "入門英文問題精講"
     title: "〜ingの働き（付帯状況）"
@@ -640,6 +643,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_14"
     node_id: "njd-003"
+    seq: 1
+  - section_id: "Ny_15"
+    node_id: "njd-004"
+    seq: 1
+  - section_id: "Ny_16"
+    node_id: "njd-005"
+    seq: 1
+  - section_id: "Ny_17"
+    node_id: "njd-005"
     seq: 1
 
 section_prerequisites: []

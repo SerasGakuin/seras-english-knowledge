@@ -76,6 +76,61 @@ knowledge_nodes:
         an unlikely place for early humans to live = 「初期の人間が住みそうにもない場所」。
         for ... to live は an unlikely place を修飾する形容詞用法の to不定詞。
 
+  - id: "njd-004"
+    name: "前置詞の後のV-ingの判別"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❶〔分詞〕
+      ■ 〈名詞＋V-ing〉の直前に前置詞がある場合、まずはV-ingを動名詞と見る。
+        しかし意味が通らなければ、V-ingは分詞（形容詞）として名詞を修飾すると判断する。
+      ■ 判断手順:
+        (1) 動名詞と仮定して意味をとる
+        (2) 意味が通らなければ分詞と判断
+        例: studies looking at ... → 「研究が見ている」は不自然 → looking は分詞（studies を修飾）
+      ■ 「どんな研究だろう？ このあとに説明があるよね」と読み進めるのが適切な読み方。
+      ❷ a systematic review of studies: 長い主語の構造。
+        systematic =「きちんと計画を立てて一定の順序・ルールで行う」。
+        review = 「検証すること」。
+      ❸ and がつなぐもの: long-term consumption of coffee と the risk of cardiovascular disease。
+        後者だけに the がつくのは、「心臓血管病のリスク」は読者が特定できるため。
+        前者に the がないのは、「どのくらいの期間でどのくらいの量」は個人差があり1つのイメージがないため。
+        [図表: 樹形図 — looking at の目的語が A and B の並列関係を示す（p.57）]
+      ❹ involving は分詞: find O（36 studies）で文が完結しているため、
+        involving 以降は修飾語。studies を修飾する形容詞句。
+
+  - id: "njd-005"
+    name: "文末の分詞構文"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❹〔分詞〕（問16・問17共通）
+      ■ 文が完結した後の V-ing / V-pp = 修飾語。コンマで文が切れている → 副詞の可能性が高い。
+      ■ 文末に置かれた V-ing, V-pp などの副詞は「分詞構文」と呼ばれ、
+        「前文の具体化、補足をする働き」を持つ。追加的に後で訳すのが普通。
+      ■ 関係代名詞 which V-ed で置き換え可能（非制限用法）。
+        例: ..., allowing athletes ... = ..., which allowed athletes ...
+      ■ 〈allow O to V〉: 主語が「物や事柄」の場合「OがVするのを可能にする」。
+      ■ 分詞構文が that節を伴う場合: showing that S V ... の that は省略可。
+        例: showing our ancestors were living ... = showing that our ancestors were living ...
+      ■ 分詞の基本整理:
+        | 種類 | 意味 | 働き① | 働き② |
+        | 過去分詞 | ～される | 形容詞として名詞を修飾 | 副詞になる（分詞構文） |
+        | 現在分詞 | ～している | 形容詞として名詞を修飾 | 副詞になる（分詞構文） |
+        ※ 現在完了・受動態・進行形の構成要素にもなる。SVOCのCにもなる。
+      ❶ there is/are 構文: 〈There is [are] + 名詞〉で「～がある」。名詞が実質的な主語。
+        there は特に意味を持たない（注意を促すマーク）。
+      ❷ some は「漠然とした不定量・数」。文脈により「数人」「一部の」「少し」等。
+      ❸ events = 「（競技）種目」（文脈による訳語の変化。辞書で確認する習慣を）。
+      ❶ published は過去分詞（a study を修飾する形容詞）。前置詞のついた名詞は主語にならない。
+      ❷ have + now + accurately + dated: 現在完了の have と pp が副詞の挿入で離れている。
+        動詞を修飾する副詞は原則的に動詞の前後に置かれる。
+      ❸ discovered は過去分詞（teeth を修飾）。目的語がない → 過去分詞形。
+        the island of Sumatra: 「スマトラの島」ではなく「スマトラという島」。同格関係を示す of。
+      ❺ showing that ... の that 省略: show は他動詞で後ろに名詞か that節をとる。
+        showing + 完全な文 → that が省略されている。were は that節内の過去進行形。
+      一言（問17）: 後置修飾を理解することが英語学習では非常に重要。
+
 understanding_goals:
   - node_id: "njd-001"
     seq: 1
@@ -110,6 +165,27 @@ understanding_goals:
   - node_id: "njd-003"
     seq: 4
     goal: "準動詞が時制を持たないことを理解し、文脈から時制を判断できる"
+  - node_id: "njd-004"
+    seq: 1
+    goal: "前置詞の後の〈名詞＋V-ing〉で、V-ingが動名詞でなく分詞の場合があることを理解している"
+  - node_id: "njd-004"
+    seq: 2
+    goal: "動名詞と仮定→意味が通らなければ分詞、という判断手順を実行できる"
+  - node_id: "njd-004"
+    seq: 3
+    goal: "長い主語の中で V-ing が名詞を後置修飾する構造を認識できる"
+  - node_id: "njd-005"
+    seq: 1
+    goal: "文が完結した後のコンマ＋V-ingを分詞構文と認識できる"
+  - node_id: "njd-005"
+    seq: 2
+    goal: "文末の分詞構文が前文の補足・具体化をする働きを理解している"
+  - node_id: "njd-005"
+    seq: 3
+    goal: "文末の分詞構文を関係代名詞 which V-ed に置き換えられることを理解している"
+  - node_id: "njd-005"
+    seq: 4
+    goal: "分詞構文が that節（省略可）を伴う構造を解析できる"
 
 check_points:
   - node_id: "njd-001"
@@ -152,6 +228,34 @@ check_points:
     seq: 4
     question: "準動詞（動名詞・分詞）は時制を持つか？"
     answer: "持たない。いつの時点のことかは文脈で判断する。例: evidence for humans using → 証拠の話なので過去 →「用いた」と訳す。"
+  - node_id: "njd-004"
+    seq: 1
+    question: "studies looking at long-term consumption の looking は動名詞か分詞か？ 判断理由は？"
+    answer: "分詞（現在分詞）。動名詞と仮定すると「研究が見ていること」となり意味不明。分詞として studies を後置修飾すると「長期消費に焦点を当てた研究」で意味が通る。"
+  - node_id: "njd-004"
+    seq: 2
+    question: "前置詞の後の〈名詞＋V-ing〉を見たとき、どのような手順で判別するか？"
+    answer: "(1) まず動名詞と仮定して意味をとる。(2) 意味が通らなければ、V-ing は分詞（形容詞）として名詞を修飾すると判断する。"
+  - node_id: "njd-004"
+    seq: 3
+    question: "36 studies involving more than 1,270,000 participants の involving は何か？ 判断理由は？"
+    answer: "分詞（現在分詞）。found 36 studies で文が完結（SVO）しているため、involving 以降は修飾語。studies を修飾する形容詞句。"
+  - node_id: "njd-005"
+    seq: 1
+    question: "..., allowing athletes from different countries to participate together の allowing は何か？"
+    answer: "分詞構文（現在分詞の副詞用法）。文が完結した後のコンマ＋V-ing → 副詞（分詞構文）。前文の結果を補足・具体化する働き。"
+  - node_id: "njd-005"
+    seq: 2
+    question: "文末の分詞構文はどのような働きをするか？"
+    answer: "前文の具体化・補足をする働き。追加的に後で訳すのが普通。関係代名詞 which V-ed（非制限用法）で置き換え可能。"
+  - node_id: "njd-005"
+    seq: 3
+    question: "showing our ancestors were living ... の showing の後には何が省略されているか？"
+    answer: "接続詞 that が省略されている。show は他動詞で後ろに名詞か that節をとる。showing + 完全な文 → that が省略されていると判断。"
+  - node_id: "njd-005"
+    seq: 4
+    question: "過去分詞と現在分詞が形容詞・副詞として働く場合の違いは？"
+    answer: "過去分詞は「～される」、現在分詞は「～している」。どちらも形容詞として名詞を修飾する働きと、副詞になる働き（分詞構文）を持つ。"
 
 node_prerequisites:
   - node_id: "njd-001"
@@ -162,6 +266,10 @@ node_prerequisites:
     prerequisite_id: "nbk-009"
   - node_id: "njd-003"
     prerequisite_id: "njd-001"
+  - node_id: "njd-004"
+    prerequisite_id: "njd-003"
+  - node_id: "njd-005"
+    prerequisite_id: "njd-003"
 
 knowledge_references:
   - node_id: "njd-001"
@@ -176,3 +284,15 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_14"
     pages: "p.54-55"
+  - node_id: "njd-004"
+    book: "入門英文問題精講"
+    section_id: "Ny_15"
+    pages: "p.56-57"
+  - node_id: "njd-005"
+    book: "入門英文問題精講"
+    section_id: "Ny_16"
+    pages: "p.58-59"
+  - node_id: "njd-005"
+    book: "入門英文問題精講"
+    section_id: "Ny_17"
+    pages: "p.60-61"

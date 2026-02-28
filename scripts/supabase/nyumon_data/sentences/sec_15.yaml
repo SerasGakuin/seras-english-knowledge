@@ -1,0 +1,43 @@
+sentences:
+  - id: "ny-15-s1"
+    section_id: "Ny_15"
+    drill: 15
+    number: 1
+    role: "exercise"
+    english: "Just last year, a systematic review of studies looking at long-term consumption of coffee and the risk of cardiovascular disease was published."
+    japanese: "昨年，コーヒーの長期にわたる消費と心臓血管病のリスクに焦点を当てた研究を体系的に見直した結果が発表された。"
+    notes: "出典: 愛知教育大学。* cardiovascular disease「心臓血管病」（問題文の語彙注釈）"
+  - id: "ny-15-s2"
+    section_id: "Ny_15"
+    drill: 15
+    number: 2
+    role: "exercise"
+    english: "The researchers found 36 studies involving more than 1,270,000 participants."
+    japanese: "その研究者は，127万人超の当事者がかかわった36の研究を見つけたのだ。"
+    notes: "出典: 愛知教育大学"
+
+sentence_structures:
+  - sentence_id: "ny-15-s1"
+    label: "overall"
+    value: "M S V"
+  - sentence_id: "ny-15-s1"
+    label: "details"
+    value: "(Just last year)(M:副詞句), {S}a systematic review (of studies (looking at long-term consumption (of coffee)(M:形容詞句) {等接}and the risk (of cardiovascular disease)(M:形容詞句))(M:形容詞句/現在分詞))(M:形容詞句) {V}was published."
+  - sentence_id: "ny-15-s1"
+    label: "partial_translations"
+    value: |
+      ❶ コーヒーの長期にわたる消費に焦点を当てる研究
+      ❷ （上記研究）の体系的な検証
+      ❸ コーヒーの長期にわたる消費と心臓血管病のリスクに焦点を当てる研究の体系的な検証
+  - sentence_id: "ny-15-s2"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "ny-15-s2"
+    label: "details"
+    value: "{S}The researchers {V}found {O}36 studies (involving more than 1,270,000 participants)(M:形容詞句/現在分詞)."
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-15-s1"
+    node_id: "njd-004"
+  - sentence_id: "ny-15-s2"
+    node_id: "njd-004"

@@ -282,32 +282,32 @@ sections:
     title: "〜ingの働き（動名詞か現在分詞か）②"
     type: "exercise"
     pages: "p.56-57"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
   Ny_16:
     title: "〜ingの働き（分詞構文）①"
     type: "exercise"
     pages: "p.58-59"
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "njd-005をNy_17と共有（分詞構文①②統合）"
   Ny_17:
     title: "〜ingの働き（分詞構文）②"
     type: "exercise"
     pages: "p.60-61"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "njd-005をNy_16と共有（分詞構文①②統合）"
   Ny_18:
     title: "〜ingの働き（付帯状況）"
     type: "exercise"
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 28
+  completed: 31
   in_progress: 0
-  not_started: 57
-  total_knowledge_nodes: 27
-  total_sentences: 107
+  not_started: 54
+  total_knowledge_nodes: 29
+  total_sentences: 112

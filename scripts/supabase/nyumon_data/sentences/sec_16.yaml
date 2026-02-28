@@ -1,0 +1,26 @@
+sentences:
+  - id: "ny-16-s1"
+    section_id: "Ny_16"
+    drill: 16
+    number: 1
+    role: "exercise"
+    english: "... there were mixed-gender teams and mixed-nationality teams for some events, allowing athletes from different countries to participate together in sports such as archery, judo, and triathlon."
+    japanese: "一部の競技では，男女混合チームや国籍混合チームがあり，それによって様々な国の競技者が，アーチェリーや柔道やトライアスロンといったスポーツに一緒に参加することが可能になった。"
+    notes: "出典: 東海大学"
+
+sentence_structures:
+  - sentence_id: "ny-16-s1"
+    label: "overall"
+    value: "... there V S M M"
+  - sentence_id: "ny-16-s1"
+    label: "details"
+    value: "... there {V}were {S}mixed-gender teams {等接}and mixed-nationality teams (for some events)(M:副詞句), (allowing athletes (from different countries)(M:形容詞句) to participate together (in sports (such as archery, judo, {等接}and triathlon)(M:形容詞句))(M:副詞句))(M:副詞/分詞構文)."
+  - sentence_id: "ny-16-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 男女混合チームや国籍混合のチームがあった
+      ❹ 様々な国の競技者が一緒に参加することが可能になった
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-16-s1"
+    node_id: "njd-005"
