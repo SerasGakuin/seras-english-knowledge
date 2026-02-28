@@ -111,6 +111,70 @@ knowledge_nodes:
       ❸（問26）not only with acquaintances but even with our good friends:
         not only A but B「AだけでなくB」。even は「〜さえ」で強調。
 
+  - id: "nks-005"
+    name: "関係副詞"
+    category: "関係詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❷❸〔関係詞〕（問27）❷〔関係詞〕（問28）
+      ■ 関係副詞の4種類と先行詞:
+        - when: 時を表す語（year, time）。time は省略されることがある。
+        - where: 場所を表す語（place）。place は省略されることがある。
+        - why: reason。reason は省略されることがある。
+        - how: the way は必ず省略される。the way を書いた場合は how が省略される。
+      ■ 関係副詞節の中は主語・目的語に欠けのない完全な文となる。
+        例: This is the reason why he gave a car to us.（完全な文）
+           cf. This is the reason which he gave to us.（Oの欠落）
+      ■ 関係副詞 vs 関係代名詞の3つの違い（問28）:
+        (1) 関係副詞には when/where/why/how の4種類がある
+        (2) 関係副詞節の中は完全な文（主語・目的語の欠けなし）
+        (3) 自明の先行詞は省略されることがある
+      ■ 非制限用法（問28）:
+        コンマ＋関係副詞の形で追加的な説明を述べる。
+        非制限用法のときは先行詞は省略されない。
+        例: This is Hawaii, where I was born.（ハワイに情報を追加）
+      ■ when 節が主語になる場合（問27）:
+        the time when 〜 から the time が省略され、when 節全体が主語となる。
+        本文: just when the young are ... wise enough ... is not the time
+        → [just when ...] が主語、is が動詞、the time が補語。
+      ❶（問27）Becoming an adult: 動名詞が主語。「大人になること」。
+      ❹（問27）to give them free access to the drinks bar: the time を修飾する
+        不定詞の形容詞用法。〈the time + to V〉=「〜する時間」。
+      ❺（問27）the drinks bar: 総称の the。誰もがイメージできる「酒場」。
+        〈the＋単数形の名詞〉で総称を示す用法（take the train = 電車全般）。
+      ❻（問27）最終文の主語: 動名詞 drinking by the young「若者による飲酒」。
+      ❶（問28）that は目的格の関係代名詞。see O as C =「OをCと考える」。
+        see の目的語が欠落 → that が関係代名詞。先行詞は a scene of daily life。
+      ❸（問28）the services they need: 名詞＋名詞の連続。
+        need の目的語が欠落 → they の前に目的格の関係代名詞 which/that が省略。
+
+  - id: "nks-006"
+    name: "whatの用法"
+    category: "関係詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❶〔関係詞〕（問29）
+      ■ what は名詞節を作り、文中で主語・目的語・補語になる。
+      ■ 2つの用法（形の面では区別できないので訳を当てはめて判断）:
+        (1) 疑問詞「何が・何を」:
+          I wonder [what he is going to do].
+          「彼は何をしようとしているのだろうか」
+          → what は wonder の目的語になる名詞節を作る。what 節内では do の目的語。
+        (2) 関係代名詞「〜なこと」:
+          I agree with [what you say].「あなたの言うことに賛成です」
+          → what は with の目的語になる名詞節を作る。what 節内では say の目的語。
+      ■ 本問: what we need most が that 節内の主語。
+        「私達が最も必要とすること」→ 関係代名詞の用法。
+      ❷（問29）most: 副詞 much の最上級「最も」。副詞の最上級の場合 the は多くの場合省かれる。
+        most の3つの意味:
+        ① 「最も・一番」（副詞の最上級）
+        ② 「大半・ほとんど」（名詞）: Most of the Japanese high schools have libraries.
+        ③ 「たいていの」（形容詞）: Most teenagers have their own phones.
+      ❸（問29）and は a strong desire と common sense をつなぐ。
+        to work は desire を修飾する to 不定詞の形容詞用法。
+        主語（what we need most）が単数で補語が A and B の形 → 筆者が A と B を1セットと考えている。
+        simply は only と同じ「〜だけ」の意味。
+
 understanding_goals:
   - node_id: "nks-001"
     seq: 1
@@ -154,6 +218,27 @@ understanding_goals:
   - node_id: "nks-004"
     seq: 4
     goal: "which の先行詞が直前の名詞でない場合に正しく特定できる"
+  - node_id: "nks-005"
+    seq: 1
+    goal: "関係副詞の4種類（when/where/why/how）とそれぞれの先行詞を列挙できる"
+  - node_id: "nks-005"
+    seq: 2
+    goal: "関係副詞の先行詞が省略される条件を説明できる"
+  - node_id: "nks-005"
+    seq: 3
+    goal: "関係副詞と関係代名詞の違いを3点説明できる"
+  - node_id: "nks-005"
+    seq: 4
+    goal: "関係副詞の非制限用法の特徴を理解している"
+  - node_id: "nks-006"
+    seq: 1
+    goal: "what が名詞節を作ることを理解し、文中での役割（主語・目的語・補語）を特定できる"
+  - node_id: "nks-006"
+    seq: 2
+    goal: "what の2つの用法（疑問詞/関係代名詞）を訳で判別できる"
+  - node_id: "nks-006"
+    seq: 3
+    goal: "what 節が主語になっている文の構造を正確に把握できる"
 
 check_points:
   - node_id: "nks-001"
@@ -216,6 +301,34 @@ check_points:
     seq: 4
     question: "our good friends, which could result in ends の which の先行詞は何か？ なぜそう判断できるか？"
     answer: "先行詞は good friends ではなく、前方の conflicts。which は人以外を受けるため、人を表す good friends は先行詞になれない。「対立に直面するかもしれず、それ(=対立)が友情の終わりにつながりうる」。"
+  - node_id: "nks-005"
+    seq: 1
+    question: "just when the young are finally wise enough ... is not the time の when はどのような用法か？"
+    answer: "関係副詞 when。先行詞 the time が省略されており、when 節全体が文の主語として機能している。「若者が最終的に若い大人として扱われるくらい賢明になるちょうどその時」。"
+  - node_id: "nks-005"
+    seq: 2
+    question: "関係副詞の先行詞はどのような条件で省略されるか？"
+    answer: "place(where), time(when), reason(why) は省略されることがある。how の場合は the way が必ず省略される（the way を書くと how が省略される）。ただし非制限用法（コンマ付き）では先行詞は省略されない。"
+  - node_id: "nks-005"
+    seq: 3
+    question: "関係副詞と関係代名詞はどう違うか？"
+    answer: "(1) 関係副詞は when/where/why/how の4種類がある。(2) 関係副詞節の中は主語・目的語に欠けのない完全な文。(3) 自明の先行詞は省略されることがある。関係代名詞の場合は節内に主語・目的語の欠けがある。"
+  - node_id: "nks-005"
+    seq: 4
+    question: "Japan's \"super smart society,\" where all individuals can receive ... の where はどのような用法か？"
+    answer: "関係副詞の非制限用法。コンマ＋where で「そこでは」と追加的説明を加えている。先行詞は super smart society。非制限用法なので先行詞は省略されない。"
+  - node_id: "nks-006"
+    seq: 1
+    question: "what we need most is simply a strong desire ... の what はどのような用法か？"
+    answer: "関係代名詞の what で「〜なこと」の意味。what we need most 全体が that 節内の主語。「私達が最も必要とすること」。what 節内では need の目的語として機能している。"
+  - node_id: "nks-006"
+    seq: 2
+    question: "what の疑問詞用法と関係代名詞用法はどう判別するか？"
+    answer: "形の面では区別できないので、訳を当てはめてみて適切なほうを選ぶ。「何が・何を」（疑問詞）か「〜なこと」（関係代名詞）か。例: I wonder what he is going to do.（疑問詞）vs I agree with what you say.（関係代名詞）。"
+  - node_id: "nks-006"
+    seq: 3
+    question: "I wonder what he is going to do. と I agree with what you say. の what の用法の違いは何か？"
+    answer: "前者は疑問詞の what「何を」で、wonder の目的語になる名詞節を作る。後者は関係代名詞の what「〜なこと」で、with の目的語になる名詞節を作る。どちらも what 節内では動詞の目的語として機能している。"
 
 node_prerequisites:
   - node_id: "nks-001"
@@ -231,6 +344,10 @@ node_prerequisites:
   - node_id: "nks-003"
     prerequisite_id: "nks-001"
   - node_id: "nks-004"
+    prerequisite_id: "nks-001"
+  - node_id: "nks-005"
+    prerequisite_id: "nks-001"
+  - node_id: "nks-006"
     prerequisite_id: "nks-001"
 
 knowledge_references:
@@ -262,3 +379,15 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_26"
     pages: "p.78-79"
+  - node_id: "nks-005"
+    book: "入門英文問題精講"
+    section_id: "Ny_27"
+    pages: "p.80-81"
+  - node_id: "nks-005"
+    book: "入門英文問題精講"
+    section_id: "Ny_28"
+    pages: "p.82-83"
+  - node_id: "nks-006"
+    book: "入門英文問題精講"
+    section_id: "Ny_29"
+    pages: "p.84-85"

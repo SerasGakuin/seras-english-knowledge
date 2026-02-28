@@ -284,19 +284,25 @@ sections:
     title: "関係副詞(when)"
     pages: "p.80-81"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: just when以降の主語はどこ？
+      一言: 中略した部分には「獲得して間もない知恵や分別はあまりに早く失われる」とある。大人として認められるくらいに賢明になったからといって、すぐに若者にお酒を飲ませるのはよくないという飲酒年齢引き下げ反対論の一部。
   - id: "Ny_28"
     book: "入門英文問題精講"
     title: "関係副詞の非制限用法"
     pages: "p.82-83"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: where以下は何を説明しているのか？
+      一言: I visited a town, where ... は「ある町を訪れた。そこでは」（筆者は特定の町を想定）。I visited a town where ... は「…な町を訪れた」（色々ある町のうちの1つ）。両者を機械的に区別するのは難しい。
   - id: "Ny_29"
     book: "入門英文問題精講"
     title: "主語になるwhat"
     pages: "p.84-85"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: that 以降の主語はどこ？
+      一言: "We Are the World" の題名は S=複数形(We) で C=単数形(The world)。S＝Cと習うため数が一致すべきと思う人が多いが、実際には必ずしも一致しない。
   - id: "Ny_30"
     book: "入門英文問題精講"
     title: "補語になるwhat"
@@ -683,6 +689,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_26"
     node_id: "nks-004"
+    seq: 1
+  - section_id: "Ny_27"
+    node_id: "nks-005"
+    seq: 1
+  - section_id: "Ny_28"
+    node_id: "nks-005"
+    seq: 1
+  - section_id: "Ny_29"
+    node_id: "nks-006"
     seq: 1
 
 section_prerequisites: []

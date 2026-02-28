@@ -1,0 +1,25 @@
+sentences:
+  - id: "ny-28-s1"
+    section_id: "Ny_28"
+    drill: 28
+    number: 1
+    role: "exercise"
+    english: "This is a scene of daily life that the government sees as the future of Japan's \"super smart society,\" where all individuals can receive the services they need regardless of age, gender, region or language."
+    japanese: "これは，政府が日本の「超スマート社会（そこでは，すべての個人が，年齢，性別，地域，言語とは無関係に，必要とするサービスを受けることができる）」の未来だと考えている日常生活の一場面である。"
+    notes: "出典: 鳥取大学"
+
+sentence_structures:
+  - sentence_id: "ny-28-s1"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "ny-28-s1"
+    label: "details"
+    value: "{S}This {V}is {C}a scene (of daily life)(M:形容詞句) [{O}{関代}that {S}the government {V}sees as {C}the future (of Japan's \"super smart society\")(M:形容詞句)](関係代名詞節), ({関副}where {S}all individuals {V}can receive {O}the services [{関代省略}they need](関係代名詞節/省略) (regardless of age, gender, region {等接}or language)(M:副詞句))(関係副詞節/非制限用法)."
+  - sentence_id: "ny-28-s1"
+    label: "partial_translations"
+    value: |
+      ❶ これは，政府が日本の「超スマート社会」の未来だと考えている日常生活の一場面だ
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-28-s1"
+    node_id: "nks-005"

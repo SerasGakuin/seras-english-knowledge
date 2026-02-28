@@ -1,0 +1,47 @@
+sentences:
+  - id: "ny-27-s1"
+    section_id: "Ny_27"
+    drill: 27
+    number: 1
+    role: "exercise"
+    english: "Becoming an adult is a step-by-step process, and just when the young are finally wise enough to be treated as young adults is not the time to give them free access to the drinks bar."
+    japanese: "人は，段階を経て徐々に大人になっていくのだ。若者が最終的に若い大人として扱われるくらい賢明になるちょうどその時でも，若者に酒場に出入りする自由な権利を与える時ではない。"
+    notes: "出典: 慶應義塾大学"
+  - id: "ny-27-s2"
+    section_id: "Ny_27"
+    drill: 27
+    number: 2
+    role: "exercise"
+    english: "... drinking by the young leads to accidents, injuries, and deaths."
+    japanese: "若者による飲酒は事故，けがや死につながる。"
+    notes: "出典: 慶應義塾大学"
+
+sentence_structures:
+  - sentence_id: "ny-27-s1"
+    label: "overall"
+    value: "S V C, S V C"
+  - sentence_id: "ny-27-s1"
+    label: "details"
+    value: "{S}(Becoming an adult)(動名詞) {V}is {C}a step-by-step process, {等接}and {S}[just {関副}when {S}the young {V}are finally {C}wise enough (to be treated as young adults)(M:副詞句/不定詞)](関係副詞節/先行詞省略) {V}is not {C}the time (to give them free access (to the drinks bar)(M:形容詞句))(M:形容詞句/不定詞)."
+  - sentence_id: "ny-27-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 大人になることは一歩ずつのものだ
+      ❷ 若者が最終的に若い大人として扱われるくらい賢明になるとき
+      ❹ 彼ら（若者）に酒場に出入りする自由な権利を与える時
+  - sentence_id: "ny-27-s2"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "ny-27-s2"
+    label: "details"
+    value: "{S}(drinking (by the young)(M:形容詞句))(動名詞) {V}leads to {O}accidents, injuries, {等接}and deaths."
+  - sentence_id: "ny-27-s2"
+    label: "partial_translations"
+    value: |
+      ❻ 若者による飲酒は事故，けがや死につながる
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-27-s1"
+    node_id: "nks-005"
+  - sentence_id: "ny-27-s2"
+    node_id: "nks-005"

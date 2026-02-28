@@ -1,0 +1,25 @@
+sentences:
+  - id: "ny-29-s1"
+    section_id: "Ny_29"
+    drill: 29
+    number: 1
+    role: "exercise"
+    english: "... she stresses that what we need most is simply a strong desire to work and common sense."
+    japanese: "私達が最も必要としているのは働きたいという強い欲求と良識だけだと彼女は強調する。"
+    notes: "出典: 愛媛大学"
+
+sentence_structures:
+  - sentence_id: "ny-29-s1"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "ny-29-s1"
+    label: "details"
+    value: "{S}she {V}stresses {O}[that {S}[{O}what {S}we {V}need most](what節/主語) {V}is simply {C}a strong desire (to work)(M:形容詞句/不定詞) {等接}and common sense](that節)."
+  - sentence_id: "ny-29-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 私達が最も必要としているのは〜だと彼女は強調する
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-29-s1"
+    node_id: "nks-006"
