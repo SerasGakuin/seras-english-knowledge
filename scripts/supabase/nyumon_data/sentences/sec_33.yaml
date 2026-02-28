@@ -1,0 +1,26 @@
+sentences:
+  - id: "ny-33-s1"
+    section_id: "Ny_33"
+    drill: 33
+    number: 1
+    role: "exercise"
+    english: "She also saw the poverty of her people and the hard lives of so many women who were fighting against such basic problems as lack of food, firewood and water, and against unemployment ...."
+    japanese: "彼女がまた同様に見たのは，同胞の貧困と，食料，たきぎ，水の不足といった基本的な問題や失業と闘う多くの女性達の厳しい生活であった。"
+    notes: "出典: 愛媛大学"
+
+sentence_structures:
+  - sentence_id: "ny-33-s1"
+    label: "overall"
+    value: "S V O 等接 O"
+  - sentence_id: "ny-33-s1"
+    label: "details"
+    value: "{S}She also {V}saw {O}the poverty (of her people)(M:形容詞句) {等接}and {O}the hard lives (of so many women [{S}who {V}were fighting (against such basic problems as lack of food, firewood {等接}and water)(M:副詞句), {等接}and (against unemployment)(M:副詞句)](関係代名詞節))(M:形容詞句)...."
+  - sentence_id: "ny-33-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 彼女はまた人々の貧しさと多くの女性の困難な生活をも見た
+      ❷ 彼女がまた見たものは国民の貧しさと，多くの女性達の苦しい生活であった
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-33-s1"
+    node_id: "nst-001"

@@ -1,0 +1,94 @@
+knowledge_nodes:
+  - id: "nst-001"
+    name: "等位接続詞の接続先判別"
+    category: "接続詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❹〔接続詞〕（問32）❶❹❺〔接続詞〕（問33）❶❷❹〔接続詞〕（問34）
+      ■ 等位接続詞の基本特徴:
+        and: AとB / AそしてB
+        but: AだがB
+        or: AかそれともBか
+        ① 語・句・節をつなぐ。文法的に等しいものをつなぐ（ただし必ずしも同じ形とは限らない）。
+        ② 3つ以上のものをつなぐときは A, B, and C の形（コンマ＋最後にand/or）。
+      ■ 接続先の判別法: and/or の後ろを見て、前方に同じ形を探す。
+        例: or finding → 前方の diagnosing（共にV-ing形）
+        例: and cure → 前方の look, identify（共に原形動詞）
+      ■ 共通部分の省略: 英語では似た文構造が続く場合、共通部分を省略する傾向がある。
+        例: describes [the terrorists as 'them' and 'evil'] and [the victims as 'us' and 'good']
+        → describes が共通なので2つ目が省略。
+      ■ 前置詞句の and: against〜 and against〜 のように前置詞句同士が and でつながる。
+        前方の against と同じ形を探すことで接続先を特定する。
+      ■ 修飾語の作用範囲: new understandings and methods → new は両方を修飾。
+        for diagnosis and treatment → for 以下は understandings and methods 全体を修飾する形容詞句。
+      ❶（問32）media reaction: 〈名詞＋名詞〉で前の名詞が後ろを形容詞的に修飾。
+        日本語の「幼児教育」と同じ構造。
+      ❷（問32）describe O as C =「OをCと述べる」。as は前置詞「〜として」。
+        regard O as C =「OをCと認識する」も同構造。
+      ❸（問32）引用符 ' ' / " ": 他の人の発言を引用、または特別な意味を込める場合に使う。
+        the terrorists の the: 読み手にも想像できると筆者が考えているための the。
+        them/us: 二項対立。英語で we と言った場合、背後に they が隠れている。
+      ❷（問33）so many women: so は「あれほど」の意味の副詞。「とても」ではない。
+        so〜that構文:「あまりにも〜なので…」。目的の so that「〜するように」と区別。
+      ❸（問33）who の先行詞判定: 〈A and B＋修飾語〉は通常 A と B 両方を修飾。
+        ただし固有名詞・one's＋名詞・this＋名詞が先行詞の場合はコンマ付きが原則。
+        本文: her people の後にコンマなし → who の先行詞は so many women のみ。
+      ❸（問34）where: 間接疑問「どこに問題があるか」、または関係副詞「問題があるところ」。
+        identify の目的語になる名詞のかたまり。
+
+understanding_goals:
+  - node_id: "nst-001"
+    seq: 1
+    goal: "and/or/but が語・句・節のうち何をつないでいるか判別できる"
+  - node_id: "nst-001"
+    seq: 2
+    goal: "共通部分の省略を復元して英文を正しく読める"
+  - node_id: "nst-001"
+    seq: 3
+    goal: "3つ以上の並列（A, B, and C）を正しく識別できる"
+  - node_id: "nst-001"
+    seq: 4
+    goal: "and/or の後ろを見て前方に同じ形を探す手法を実行できる"
+  - node_id: "nst-001"
+    seq: 5
+    goal: "修飾語が並列全体にかかるか最後のみにかかるかを判断できる"
+
+check_points:
+  - node_id: "nst-001"
+    seq: 1
+    question: "describes the terrorists as 'them' and 'evil' and the victims as 'us' and 'good' の2つ目の and は何をつないでいるか？"
+    answer: "the terrorists as 'them' and 'evil' と the victims as 'us' and 'good' をつないでいる。describes が共通部分として省略されている。「テロリストを『彼ら』『悪』と述べ、犠牲者を『私達』『善』と述べる」。"
+  - node_id: "nst-001"
+    seq: 2
+    question: "X-rays allowed them to look into their patients, identify where there were problems, and cure them. の and は何をつないでいるか？"
+    answer: "look, identify, cure の3つの原形動詞をつないでいる（A, B, and C の並列）。いずれも to 不定詞の中の動詞で、allow O to V の V にあたる。"
+  - node_id: "nst-001"
+    seq: 3
+    question: "等位接続詞の接続先を判別する基本手法は何か？"
+    answer: "and/or の後ろを見て、前方に同じ形（同じ品詞・同じ文法的役割）を探す。例: or finding → 前方の diagnosing（共にV-ing形）。文法的に等しいものをつなぐのが原則。"
+  - node_id: "nst-001"
+    seq: 4
+    question: "brought new understandings and methods for diagnosis and treatment の2つの and はそれぞれ何をつないでいるか？"
+    answer: "最初の and は understandings と methods をつなぐ（new は両方を修飾）。2つ目の and は diagnosis と treatment をつなぐ（for 以下は形容詞句で understandings and methods 全体を修飾）。"
+  - node_id: "nst-001"
+    seq: 5
+    question: "she saw the poverty of her people and the hard lives of so many women who were fighting... の最初の and は何をつないでいるか？"
+    answer: "the poverty of her people と the hard lives of so many women をつないでいる。共に saw の目的語。who 以下は so many women のみを修飾（her people の後にコンマがないため）。"
+
+node_prerequisites:
+  - node_id: "nst-001"
+    prerequisite_id: "nbk-001"
+
+knowledge_references:
+  - node_id: "nst-001"
+    book: "入門英文問題精講"
+    section_id: "Ny_32"
+    pages: "p.90-91"
+  - node_id: "nst-001"
+    book: "入門英文問題精講"
+    section_id: "Ny_33"
+    pages: "p.92-93"
+  - node_id: "nst-001"
+    book: "入門英文問題精講"
+    section_id: "Ny_34"
+    pages: "p.94-95"

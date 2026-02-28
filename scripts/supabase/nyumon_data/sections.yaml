@@ -326,19 +326,25 @@ sections:
     title: "等位接続詞and①"
     pages: "p.90-91"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: 2つ目の and は何と何をつないでいる？
+      一言: 英語は二項対立を多用する。we と言った場合には背後に they が隠れている。英文中で we を見たら「何が they にあたるのだろうか？」と考える癖をつけよう。
   - id: "Ny_33"
     book: "入門英文問題精講"
     title: "等位接続詞and②"
     pages: "p.92-93"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: 3つの and の前後はそれぞれどうなっている？
+      一言: 「食料，たきぎ，水の不足といった基本的な問題」の「たきぎ」は，ガスや電気が存在しない貧しい地域のこと。これはケニヤの環境保護活動家ワンガリ・マータイ氏についての英文。
   - id: "Ny_34"
     book: "入門英文問題精講"
     title: "等位接続詞and③"
     pages: "p.94-95"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: and がつなぐのは2者とは限らない
+      一言: and がつなぐものは本当に面倒で丁寧に追いかけないと間違える。入試の下線部訳で and のつなぐものを間違えると大幅な減点になる。
   - id: "Ny_35"
     book: "入門英文問題精講"
     title: "相関語句"
@@ -708,6 +714,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_31"
     node_id: "nks-006"
+    seq: 1
+  - section_id: "Ny_32"
+    node_id: "nst-001"
+    seq: 1
+  - section_id: "Ny_33"
+    node_id: "nst-001"
+    seq: 1
+  - section_id: "Ny_34"
+    node_id: "nst-001"
     seq: 1
 
 section_prerequisites: []

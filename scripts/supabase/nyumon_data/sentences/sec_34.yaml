@@ -1,0 +1,65 @@
+sentences:
+  - id: "ny-34-s1"
+    section_id: "Ny_34"
+    drill: 34
+    number: 1
+    role: "exercise"
+    english: "Doctors often had difficulty diagnosing illnesses or finding problems inside the body."
+    japanese: "医師達は病気を診断したり，体内の問題を見つけたりするのに苦労することが多かった。"
+    notes: ""
+  - id: "ny-34-s2"
+    section_id: "Ny_34"
+    drill: 34
+    number: 2
+    role: "exercise"
+    english: "X-rays allowed them to look into their patients, identify where there were problems, and cure them."
+    japanese: "X線のおかげで彼らは患者の体内を調べ，問題箇所がどこにあるのかを特定して，治療することができるようになった。"
+    notes: ""
+  - id: "ny-34-s3"
+    section_id: "Ny_34"
+    drill: 34
+    number: 3
+    role: "exercise"
+    english: "This use of X-rays brought new understandings and methods for diagnosis and treatment."
+    japanese: "X線のこうした使い方によって，診断と治療に，新たな理解と手法が生まれた。"
+    notes: ""
+
+sentence_structures:
+  - sentence_id: "ny-34-s1"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "ny-34-s1"
+    label: "details"
+    value: "{S}Doctors often {V}had {O}difficulty (diagnosing illnesses {等接}or finding problems (inside the body)(M:副詞句))(動名詞句)."
+  - sentence_id: "ny-34-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 医師は病気を診断することや体内の問題を見つけることにしばしば苦労した
+  - sentence_id: "ny-34-s2"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "ny-34-s2"
+    label: "details"
+    value: "{S}X-rays {V}allowed {O}them {C}(to look into their patients, identify [{O}where there {V}were {S}problems](where節/目的語), {等接}and cure them)(不定詞句)."
+  - sentence_id: "ny-34-s2"
+    label: "partial_translations"
+    value: |
+      ❷ X線のおかげで彼らは患者の体内を調べ，問題のある箇所を特定して，治療することができるようになった
+  - sentence_id: "ny-34-s3"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "ny-34-s3"
+    label: "details"
+    value: "{S}This use (of X-rays)(M:形容詞句) {V}brought {O}(new understandings {等接}and methods) (for diagnosis {等接}and treatment)(M:形容詞句)."
+  - sentence_id: "ny-34-s3"
+    label: "partial_translations"
+    value: |
+      ❹ このようなレントゲンの使用によって診断と治療に対する新たな理解と手法がもたらされた
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-34-s1"
+    node_id: "nst-001"
+  - sentence_id: "ny-34-s2"
+    node_id: "nst-001"
+  - sentence_id: "ny-34-s3"
+    node_id: "nst-001"

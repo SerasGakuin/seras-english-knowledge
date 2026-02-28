@@ -1,0 +1,26 @@
+sentences:
+  - id: "ny-32-s1"
+    section_id: "Ny_32"
+    drill: 32
+    number: 1
+    role: "exercise"
+    english: "A common media reaction describes the terrorists as 'them' and 'evil' and the victims as 'us' and 'good'."
+    japanese: "一般的なメディアの反応は，そうしたテロリストを「彼ら」で「悪」，その犠牲者を「私達」で「善」と説明するというものである。"
+    notes: "出典: 岩手大学"
+
+sentence_structures:
+  - sentence_id: "ny-32-s1"
+    label: "overall"
+    value: "S V O C 等接 O C"
+  - sentence_id: "ny-32-s1"
+    label: "details"
+    value: "{S}A common media reaction {V}describes {O}the terrorists as {C}'them' and 'evil' {等接}and {O}the victims as {C}'us' and 'good'."
+  - sentence_id: "ny-32-s1"
+    label: "partial_translations"
+    value: |
+      ❷ 一般的なメディアの反応はテロリストを〜と説明する
+      ❹ テロリストを「彼ら」や「悪」と述べ，犠牲者を「私達」や「善」と述べる
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-32-s1"
+    node_id: "nst-001"
