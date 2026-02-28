@@ -1,0 +1,155 @@
+# Part 4: その他の重要単元（テーマ17〜21）
+# パイロット: Kaku_20（否定）のみ
+
+knowledge_nodes:
+  - id: "kta-001"
+    name: "全体否定と部分否定の区別"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      核心: 全体否定と部分否定を区別する
+      前提知識との差分: 中学では否定文の構造（don't/doesn't/didn't）がメイン。高校では否定の「意味」のニュアンス（部分否定など）がポイントになる。
+      全体否定「全部〜でない」:
+      (1) not〜any = no「1つも〜でない」。anyは「どれでも」の意味で、not〜anyは「どれでも〜でない」→「1つも〜でない」。語順は必ずnot〜any（× any〜notにはならない）。anyはnot以外の否定語ともペアになる（without any〜「〜なしに」など）。
+      (2) not〜either = neither「どちらも〜でない」。×「どちらかが〜でない」は誤訳。日本語訳より英語（not〜either = neither）で覚えたほうがミスしない。
+      部分否定「全部が全部〜というわけではない」:
+      not + 全部を表す語 = 部分否定。全部を表す語: all, both, every (everything, everybody), always。
+      イメージ: notの後ろに「全部」というパワフルな単語が来ると、notでは全てを打ち消しきれず残骸が残る。
+      [図表: 比較表 — 全体否定(not+部分=either/any) vs. 部分否定(not+全部=all/both/always)の見分け方（p.293）]
+      参考書内参照: →p.37「presentの叙述用法（出席している）」（テーマ04 形容詞）
+
+  - id: "kta-002"
+    name: "二重否定と否定の強調表現"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      核心: 否定の慣用表現は「直訳するだけ」
+      否定を強調する語句:
+      ・not〜at all「まったく〜でない」
+      ・by no means / not〜by any means「まったく〜でない」（means＝「手段」という名詞。直訳「どんな手段を用いても〜でない」）
+      ・not〜in the least「少しも〜でない」
+      二重否定（否定を2つ使った表現）:
+      ① never[cannot]〜without -ing「〜すると必ず…する」（直訳「…することなく〜しない」）
+      ② never fail to〜「必ず〜する」（fail to〜＝「〜しない」。fail in〜「〜に失敗する」と区別）
+      ③ It is not unusual[uncommon] to〜「〜することはよくあることだ」（直訳「〜することは珍しくない」）
+      参考書内参照: →p.189「fail to〜の解説」（テーマ13 不定詞(2)）
+
+  - id: "kta-003"
+    name: "notを使わない否定表現"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      notを使った否定文は「〜じゃない！」とキツい印象を与える可能性があるため、遠回しに否定を伝える表現が多く存在する。どれも直訳から理解できる。
+      主要表現:
+      ・the last 名詞 to 原形/関係詞「最も〜しそうにない名詞だ」: lastはあくまで「ラスト」の意味。「〜ランキングでラストに来る」→「一番〜しなさそう」という遠回し表現。lastに否定の意味があるわけではない。
+      ・free from〜「〜がない」: freeは本来「ない」という意味。
+      ・far from〜「決して〜ではない」: 直訳「〜からほど遠い」。
+      ・anything but〜「決して〜ではない」: 「〜以外(but)なら何でもアリ(anything)」。butは前置詞なので直後に名詞が来るのが本来だが、この表現では形容詞もOK。
+      by no means〜 = anything but〜（同義で入試に出題される）。
+
+understanding_goals:
+  # kta-001
+  - node_id: "kta-001"
+    seq: 1
+    goal: "全体否定と部分否定の違いを説明できる"
+  - node_id: "kta-001"
+    seq: 2
+    goal: "not〜any / not〜either が全体否定であることを判別できる"
+  - node_id: "kta-001"
+    seq: 3
+    goal: "not〜all / not〜both / not〜always が部分否定であることを判別できる"
+  - node_id: "kta-001"
+    seq: 4
+    goal: "部分否定の正しい和訳（「全部が全部〜というわけではない」）ができる"
+  # kta-002
+  - node_id: "kta-002"
+    seq: 1
+    goal: "否定を強調する表現（not〜at all, by no means, not〜in the least）の意味がわかる"
+  - node_id: "kta-002"
+    seq: 2
+    goal: "二重否定の3パターンの意味を直訳から導き出せる"
+  - node_id: "kta-002"
+    seq: 3
+    goal: "never〜without -ing の文を正しく和訳できる"
+  - node_id: "kta-002"
+    seq: 4
+    goal: "never fail to〜 の意味をfail toの意味から説明できる"
+  # kta-003
+  - node_id: "kta-003"
+    seq: 1
+    goal: "the last 名詞 to〜 の意味を直訳から説明できる"
+  - node_id: "kta-003"
+    seq: 2
+    goal: "far from〜 と anything but〜 の意味を説明できる"
+  - node_id: "kta-003"
+    seq: 3
+    goal: "notを使わない否定表現を識別し、正しく和訳できる"
+
+check_points:
+  # kta-001
+  - node_id: "kta-001"
+    seq: 1
+    question: "not〜anyはどういう意味か？"
+    answer: "全体否定で「1つも〜でない」。noと同義。語順は必ずnot〜any。"
+  - node_id: "kta-001"
+    seq: 2
+    question: "not〜eitherはどういう意味か？"
+    answer: "全体否定で「どちらも〜でない」。neitherと同義。「どちらかが〜でない」は誤訳。"
+  - node_id: "kta-001"
+    seq: 3
+    question: "not〜allは全体否定か部分否定か？"
+    answer: "部分否定。「すべてが〜というわけではない（そうじゃないものもある）」。"
+  - node_id: "kta-001"
+    seq: 4
+    question: "部分否定になる「全部」を表す語を4つ挙げよ。"
+    answer: "all, both, every (everything/everybody), always。"
+  - node_id: "kta-001"
+    seq: 5
+    question: "全体否定と部分否定の見分け方は？"
+    answer: "not＋部分(any/either)＝全体否定、not＋全部(all/both/always)＝部分否定。"
+  # kta-002
+  - node_id: "kta-002"
+    seq: 1
+    question: "not〜by any means はどういう意味か？"
+    answer: "「まったく〜でない」。直訳「どんな手段(means)を用いても〜でない」。"
+  - node_id: "kta-002"
+    seq: 2
+    question: "never〜without -ing はどういう意味か？"
+    answer: "「〜すると必ず…する」。直訳「…することなく〜しない」。"
+  - node_id: "kta-002"
+    seq: 3
+    question: "never fail to〜 はどういう意味か？"
+    answer: "「必ず〜する」。fail to〜は「〜しない」の意味。"
+  - node_id: "kta-002"
+    seq: 4
+    question: "It is not unusual to〜 はどういう意味か？"
+    answer: "「〜することはよくあることだ」。直訳「〜することは珍しくない」。"
+  # kta-003
+  - node_id: "kta-003"
+    seq: 1
+    question: "the last person to tell a lie はどういう意味か？"
+    answer: "「嘘をつくような人間ではない」。直訳「嘘つきランキングでラストに来る人」。lastに否定の意味はなく、遠回しの否定表現。"
+  - node_id: "kta-003"
+    seq: 2
+    question: "far from satisfactory はどういう意味か？"
+    answer: "「決して満足ではない」。直訳「満足からほど遠い」。"
+  - node_id: "kta-003"
+    seq: 3
+    question: "anything but pleasant はどういう意味か？"
+    answer: "「決して感じがよくない」。「pleasant以外(but)なら何でもアリ(anything)」→「pleasant以外の全部」→「決してpleasantではない」。"
+
+node_prerequisites: []
+
+knowledge_references:
+  - node_id: "kta-001"
+    book: "英文法の核心"
+    section_id: "Kaku_20"
+    pages: "p.292-294"
+  - node_id: "kta-002"
+    book: "英文法の核心"
+    section_id: "Kaku_20"
+    pages: "p.294-295"
+  - node_id: "kta-003"
+    book: "英文法の核心"
+    section_id: "Kaku_20"
+    pages: "p.295-296"

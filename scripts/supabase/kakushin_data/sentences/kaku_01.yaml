@@ -1,0 +1,184 @@
+# Kaku_01: 冠詞（p.10-16）
+
+sentences:
+  # === 本編解説の例文 ===
+  - id: "kaku-01-e01"
+    section_id: "Kaku_01"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "The sun rises in the east."
+    japanese: "太陽は東から昇る。"
+    notes: ""
+  - id: "kaku-01-e02"
+    section_id: "Kaku_01"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "I saw an orange car. The car was cool."
+    japanese: "オレンジ色の車を見かけたんだ。その車はカッコよかったよ。"
+    notes: "「最初はa、2回目にthe」の正体を示す例文"
+  - id: "kaku-01-e03"
+    section_id: "Kaku_01"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "Do you have the time?"
+    japanese: "今、何時かわかりますか？"
+    notes: "Do you have time?「時間ありますか？」との区別。入試問題（芝浦工業大学）でも出題。"
+  - id: "kaku-01-e04"
+    section_id: "Kaku_01"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "Give me a pencil."
+    japanese: "鉛筆貸して。"
+    notes: "「（どれでもいいから）1本の鉛筆」ということ"
+  - id: "kaku-01-e05"
+    section_id: "Kaku_01"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "I go abroad once a month."
+    japanese: "私は月に1回、海外に行きます。"
+    notes: "aの派生用法「〜につき」の例"
+
+  # === CHECK 入試問題に向けて ===
+  - id: "kaku-01-c01"
+    section_id: "Kaku_01"
+    drill: 1
+    number: 1
+    role: "check"
+    english: "The earth is round."
+    japanese: "地球は丸い。"
+    notes: ""
+  - id: "kaku-01-c02"
+    section_id: "Kaku_01"
+    drill: 1
+    number: 2
+    role: "check"
+    english: "Can I drink the milk in the refrigerator?"
+    japanese: "冷蔵庫に入っている牛乳を飲んでもいいですか？"
+    notes: ""
+  - id: "kaku-01-c03"
+    section_id: "Kaku_01"
+    drill: 1
+    number: 3
+    role: "check"
+    english: "The clinic is open five days a week."
+    japanese: "その診療所は週に5日開いている。"
+    notes: ""
+
+  # === 実際の入試問題演習 ===
+  - id: "kaku-01-x01"
+    section_id: "Kaku_01"
+    drill: 2
+    number: 1
+    role: "exam"
+    english: "The sun is at the center of our solar system, and the earth is a planet that orbits it."
+    japanese: "太陽は我々がいる太陽系の中心にあり、地球はその周りをまわる惑星だ。"
+    notes: "出典: 岐阜大学。the sun/the center（共通認識）とa planet（たくさんある中の1つ）の使い分け"
+  - id: "kaku-01-x02"
+    section_id: "Kaku_01"
+    drill: 2
+    number: 2
+    role: "exam"
+    english: "Could you pass me the sugar?"
+    japanese: "その砂糖をとっていただけますか？"
+    notes: "出典: 東北学院大学。食卓で共通認識できる砂糖にthe。Taking too much sugar（theなし）との対比で出題。"
+
+sentence_structures:
+  # e01
+  - sentence_id: "kaku-01-e01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-01-e01"
+    label: "details"
+    value: "<The sun>(S) rises(V) [in the east](M:副詞句)"
+  # e02 (2文)
+  - sentence_id: "kaku-01-e02"
+    label: "overall"
+    value: "S V O. S V C."
+  - sentence_id: "kaku-01-e02"
+    label: "details"
+    value: "I(S) saw(V) <an orange car>(O). <The car>(S) was(V) cool(C)."
+  # e03
+  - sentence_id: "kaku-01-e03"
+    label: "overall"
+    value: "Aux S V O?"
+  - sentence_id: "kaku-01-e03"
+    label: "details"
+    value: "Do(aux) you(S) have(V) <the time>(O)?"
+  # e04
+  - sentence_id: "kaku-01-e04"
+    label: "overall"
+    value: "V O O (命令文)"
+  - sentence_id: "kaku-01-e04"
+    label: "details"
+    value: "(You)(S) Give(V) me(O1) <a pencil>(O2)."
+  # e05
+  - sentence_id: "kaku-01-e05"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "kaku-01-e05"
+    label: "details"
+    value: "I(S) go(V) abroad(M:副詞) [once a month](M:副詞句)."
+  # c01
+  - sentence_id: "kaku-01-c01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-01-c01"
+    label: "details"
+    value: "<The earth>(S) is(V) round(C)."
+  # c02
+  - sentence_id: "kaku-01-c02"
+    label: "overall"
+    value: "Aux S V O M?"
+  - sentence_id: "kaku-01-c02"
+    label: "details"
+    value: "Can(aux) I(S) drink(V) <the milk>(O) [in the refrigerator](M:副詞句)?"
+  # c03
+  - sentence_id: "kaku-01-c03"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "kaku-01-c03"
+    label: "details"
+    value: "<The clinic>(S) is(V) open(C) [five days a week](M:副詞句)."
+  # x01
+  - sentence_id: "kaku-01-x01"
+    label: "overall"
+    value: "S V M, and S V C"
+  - sentence_id: "kaku-01-x01"
+    label: "details"
+    value: "<The sun>(S) is(V) [at the center of our solar system](M:副詞句), and <the earth>(S) is(V) <a planet that orbits it>(C:名詞+関係詞節)."
+  # x02
+  - sentence_id: "kaku-01-x02"
+    label: "overall"
+    value: "Aux S V O O?"
+  - sentence_id: "kaku-01-x02"
+    label: "details"
+    value: "Could(aux) you(S) pass(V) me(O1) <the sugar>(O2)?"
+
+sentence_knowledge_tags:
+  - sentence_id: "kaku-01-e01"
+    node_id: "khs-001"
+  - sentence_id: "kaku-01-e02"
+    node_id: "khs-001"
+  - sentence_id: "kaku-01-e03"
+    node_id: "khs-001"
+  - sentence_id: "kaku-01-e04"
+    node_id: "khs-002"
+  - sentence_id: "kaku-01-e05"
+    node_id: "khs-002"
+  - sentence_id: "kaku-01-c01"
+    node_id: "khs-001"
+  - sentence_id: "kaku-01-c02"
+    node_id: "khs-001"
+  - sentence_id: "kaku-01-c03"
+    node_id: "khs-002"
+  - sentence_id: "kaku-01-x01"
+    node_id: "khs-001"
+  - sentence_id: "kaku-01-x01"
+    node_id: "khs-002"
+  - sentence_id: "kaku-01-x02"
+    node_id: "khs-001"

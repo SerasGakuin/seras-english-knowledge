@@ -1,0 +1,102 @@
+# Part 1: 品詞（テーマ01〜06）
+# パイロット: Kaku_01（冠詞）のみ
+
+knowledge_nodes:
+  - id: "khs-001"
+    name: "定冠詞theの核心（共通認識）"
+    category: "品詞"
+    priority: "P1"
+    notes: |
+      核心: theは「共通認識」
+      theの核心は「共通認識」。「あなたと私（そこに居合わせた人みんな）で共通に認識できるものにtheを使う」。みんなで「せーの」で一斉に指をさせるならtheを使う。
+      天体（the sun, the moon, the earth）: みんなで一斉に同じものを指させるからthe。
+      方角（the east）: 「どの東？」とは聞かない。共通認識できるのでthe。
+      最上級（the tallest）: 「一番背が高い人」は共通認識できるのでthe。
+      序数（the first, the second, the last）: 「5番目の」は共通認識できるのでthe。
+      Open the door.のように最初からtheが使われるのは、状況からどのドアか共通認識できるため。
+      「最初はa、2回目にthe」は部分的な説明。1回目の言及でもtheを使う（I saw an orange car. The car was cool.）のように、2回目で特定できるからtheになる現象を切り取ったルールにすぎない。
+      Do you have the time?「今何時?」: the timeは「今ここにいる自分と相手が共通認識できる時間」→「現時刻」。Do you have time?「時間ある？」とは別の意味。the有無で意味が変わる重要な会話表現。What time is it? より丁寧な表現で、入試でも出題される。
+      前提知識との差分: 中学では「最初はa、2回目にthe」と習うが、Open the door.のような簡単な英文ですら崩れる不完全なルール。
+
+  - id: "khs-002"
+    name: "不定冠詞aの核心（たくさんあるものの1つ）"
+    category: "品詞"
+    priority: "P1"
+    notes: |
+      核心: aは「たくさんあるものの1つ」
+      共通認識できないとき、「たくさんある中の1つ」というときにaを使う。
+      theは「定冠詞（定まったものに使う）」、aは「不定冠詞（定まらないものに使う）」。
+      aの派生用法（全て「たくさんある中の1つ」から理解できる）:
+      ① 「〜につき」: 「1つの」→「1つずつにつき」（once a week「1週間につき1回」）
+      ② 「ある〇〇」: 「たくさんある中の1つ」（in a sense「ある意味において」）
+      ③ 「ある程度」: 「1つに認識できるカタマリ」（Just a moment.「ちょっと待って」）
+      世間では熟語・決まり文句として扱われるが、すべて「たくさんある中の1つ」から理解できる。
+
+understanding_goals:
+  # khs-001
+  - node_id: "khs-001"
+    seq: 1
+    goal: "theの核心（共通認識）を説明できる"
+  - node_id: "khs-001"
+    seq: 2
+    goal: "天体・方角・最上級・序数にtheがつく理由を共通認識の概念で統一的に説明できる"
+  - node_id: "khs-001"
+    seq: 3
+    goal: "「最初はa、2回目にthe」のルールの正体と限界を説明できる"
+  - node_id: "khs-001"
+    seq: 4
+    goal: "Do you have the time? と Do you have time? の違いを説明できる"
+  # khs-002
+  - node_id: "khs-002"
+    seq: 1
+    goal: "aの核心（たくさんあるものの1つ）を説明できる"
+  - node_id: "khs-002"
+    seq: 2
+    goal: "theとaの使い分けの基準を説明できる"
+  - node_id: "khs-002"
+    seq: 3
+    goal: "aの派生用法（〜につき、ある〇〇、ある程度）を核心概念から説明できる"
+
+check_points:
+  # khs-001
+  - node_id: "khs-001"
+    seq: 1
+    question: "theはどのようなときに使うか？"
+    answer: "そこに居合わせた人みんなで「共通に認識できる」ものにtheを使う。"
+  - node_id: "khs-001"
+    seq: 2
+    question: "the sun, the eastなどにtheがつく理由は？"
+    answer: "太陽や方角はみんなで一斉に指さすことができる（共通認識できる）ため。「天体のthe」「方角のthe」と個別に覚える必要はない。"
+  - node_id: "khs-001"
+    seq: 3
+    question: "Open the door.でいきなりtheが使われる理由は？"
+    answer: "状況からどのドアを指すか共通認識できるため。「最初はa」のルールが成立しない例。"
+  - node_id: "khs-001"
+    seq: 4
+    question: "Do you have the time?はどういう意味か？Do you have time?との違いは？"
+    answer: "「今何時ですか？」。the timeは共通認識できる時間＝現時刻。Do you have time?は「時間ありますか？」で別の意味。"
+  # khs-002
+  - node_id: "khs-002"
+    seq: 1
+    question: "aはどのようなときに使うか？"
+    answer: "共通認識できないとき、「たくさんある中の1つ」というときにaを使う。"
+  - node_id: "khs-002"
+    seq: 2
+    question: "once a weekのaはどういう意味か？核心からどう導けるか？"
+    answer: "「〜につき」。「1つの」→「1つずつにつき」から派生。"
+  - node_id: "khs-002"
+    seq: 3
+    question: "theとaの文法用語での名前と意味は？"
+    answer: "the＝定冠詞（定まったものに使う）、a＝不定冠詞（定まらないものに使う）。"
+
+node_prerequisites: []
+
+knowledge_references:
+  - node_id: "khs-001"
+    book: "英文法の核心"
+    section_id: "Kaku_01"
+    pages: "p.10-13"
+  - node_id: "khs-002"
+    book: "英文法の核心"
+    section_id: "Kaku_01"
+    pages: "p.13"

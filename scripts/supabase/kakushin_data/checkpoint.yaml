@@ -1,0 +1,57 @@
+---
+# checkpoint.yaml — 作業状態スナップショット
+# コンテキストコンパクション後に必ず読む
+
+updated_at: "2026-03-01T23:00:00"
+book: "英文法の核心"
+book_slug: "kakushin"
+
+current_state:
+  phase: "Phase 1 (Pilot) 完了"
+  current_section: null
+  current_step: null
+  last_completed_section: "Kaku_07a"
+  last_completed_gate: 5
+
+progress:
+  total_sections: 26
+  completed: 3
+  in_progress: 0
+  remaining: 23
+  total_nodes: 8
+  total_sentences: 32
+
+pilot_results:
+  sections_completed:
+    - section: "Kaku_01"
+      nodes: ["khs-001", "khs-002"]
+      sentences: 10
+    - section: "Kaku_20"
+      nodes: ["kta-001", "kta-002", "kta-003"]
+      sentences: 13
+    - section: "Kaku_07a"
+      nodes: ["kvt-001", "kvt-002", "kvt-003"]
+      sentences: 9
+  metrics:
+    node_section_ratio: 2.7
+    avg_sentences_per_node: 4.0
+    avg_goals_per_node: 3.9
+    avg_checkpoints_per_node: 4.3
+
+recent_decisions:
+  - "decision #1: 芝浦工業大学入試問題(Do you have the time?)は重複登録しない"
+  - "decision #2: 駒澤大学入試問題(Twice a month)はフラグメントで登録対象外"
+  - "decision #3: Kaku_07aの>マーカーなし文を登録（kvt-001の英文ゼロ回避）"
+  - "decision #4: 分割テーマ前半にCHECK/入試問題なしは想定内"
+  - "decision #5: Gate 4指摘の芝浦工業大学・駒澤大学は既存判断維持"
+  - "decision #6: kvt-002のcheck_points上限5件でgrow up/bring upはnotes対応"
+
+active_concerns: []
+
+next_actions:
+  - "パイロット振り返りをユーザーに報告"
+  - "Phase 2への進行判断を仰ぐ"
+
+must_reread:
+  - "docs/design/構造化共通ワークフロー.md"
+  - "docs/design/参考書別設計書_核心.md"

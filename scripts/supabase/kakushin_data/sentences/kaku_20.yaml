@@ -1,0 +1,233 @@
+# Kaku_20: 否定（p.292-299）
+
+sentences:
+  # === 本編解説の例文 ===
+  - id: "kaku-20-e01"
+    section_id: "Kaku_20"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I don't have any money."
+    japanese: "私はお金をまったく持っていません。"
+    notes: "I have no money.も同じ意味"
+  - id: "kaku-20-e02"
+    section_id: "Kaku_20"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "I don't like either of the movies."
+    japanese: "どちらの映画も好きじゃない。"
+    notes: ""
+  - id: "kaku-20-e03"
+    section_id: "Kaku_20"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "I'm not always late for school."
+    japanese: "いつも学校に遅刻するわけじゃない。"
+    notes: "部分否定の例（not + always）"
+  - id: "kaku-20-e04"
+    section_id: "Kaku_20"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "He is not lazy by any means. He has two part-time jobs."
+    japanese: "彼は決して怠け者ではありません。2つバイトをしているんです。"
+    notes: "not〜by any means「まったく〜でない」"
+  - id: "kaku-20-e05"
+    section_id: "Kaku_20"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "His stories never fail to amaze people."
+    japanese: "彼の話を聞くと、みんな必ず驚く。"
+    notes: "never fail to〜「必ず〜する」。amazeは「(良い意味で)驚かせる」"
+  - id: "kaku-20-e06"
+    section_id: "Kaku_20"
+    drill: 0
+    number: 6
+    role: "example"
+    english: "Yamato is the last person to tell a lie."
+    japanese: "ヤマトは嘘をつくような人間ではない。"
+    notes: "the last 名詞 to〜「最も〜しそうにない名詞だ」"
+
+  # === CHECK 入試問題に向けて ===
+  - id: "kaku-20-c01"
+    section_id: "Kaku_20"
+    drill: 1
+    number: 1
+    role: "check"
+    english: "He didn't like either of the two T-shirts."
+    japanese: "彼はTシャツが両方とも気に入らなかった。"
+    notes: "not〜either＝全体否定。not〜bothにすると部分否定（片方は好き）になってしまう"
+  - id: "kaku-20-c02"
+    section_id: "Kaku_20"
+    drill: 1
+    number: 2
+    role: "check"
+    english: "Not all the students were present."
+    japanese: "すべての生徒が出席したわけではなかった。"
+    notes: "部分否定（not + all）。presentは叙述用法で「出席している」（→p.37）"
+  - id: "kaku-20-c03"
+    section_id: "Kaku_20"
+    drill: 1
+    number: 3
+    role: "check"
+    english: "Your composition is far from satisfactory."
+    japanese: "君の作文は満足のいくものではない（満足からはほど遠い）。"
+    notes: "far from〜「決して〜ではない」。satisfactory「満足のいく」はsatisfy「満足させる」の形容詞形"
+
+  # === 実際の入試問題演習 ===
+  - id: "kaku-20-x01"
+    section_id: "Kaku_20"
+    drill: 2
+    number: 1
+    role: "exam"
+    english: "My cell phone won't charge. I don't have any idea what's wrong with it."
+    japanese: "携帯電話の充電ができない。どこに問題があるのか、私にはまったくわからない。"
+    notes: "出典: 南山大学。not〜any「1つも〜ない」。ideaの後のaboutは例外的に省略可能"
+  - id: "kaku-20-x02"
+    section_id: "Kaku_20"
+    drill: 2
+    number: 2
+    role: "exam"
+    english: "Alex never comes to a meeting without being late."
+    japanese: "アレックスは会議に来るときは必ず遅れる。"
+    notes: "出典: 神奈川大学。never〜without -ing「〜すると必ず…する」"
+  - id: "kaku-20-x03"
+    section_id: "Kaku_20"
+    drill: 2
+    number: 3
+    role: "exam"
+    english: "Steve would be the last person to tell a lie."
+    japanese: "スティーブは嘘をつくような人ではないだろう。"
+    notes: "出典: 高知大学。the last 名詞 to〜「最も〜しそうにない名詞だ」"
+  - id: "kaku-20-x04"
+    section_id: "Kaku_20"
+    drill: 2
+    number: 4
+    role: "exam"
+    english: "Their manners were anything but pleasant."
+    japanese: "彼らのマナーは決して感じのよいものではなかった。"
+    notes: "出典: 佛教大学。anything but〜「決して〜ではない」。by no means pleasant と同義で出題"
+
+sentence_structures:
+  # e01
+  - sentence_id: "kaku-20-e01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-20-e01"
+    label: "details"
+    value: "I(S) don't have(V) <any money>(O)."
+  # e02
+  - sentence_id: "kaku-20-e02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-20-e02"
+    label: "details"
+    value: "I(S) don't like(V) <either of the movies>(O)."
+  # e03
+  - sentence_id: "kaku-20-e03"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "kaku-20-e03"
+    label: "details"
+    value: "I(S) 'm not(V) always(M:副詞) late(C) [for school](M:副詞句)."
+  # e04 (2文)
+  - sentence_id: "kaku-20-e04"
+    label: "overall"
+    value: "S V C M. S V O."
+  - sentence_id: "kaku-20-e04"
+    label: "details"
+    value: "He(S) is not(V) lazy(C) [by any means](M:副詞句). He(S) has(V) <two part-time jobs>(O)."
+  # e05
+  - sentence_id: "kaku-20-e05"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-20-e05"
+    label: "details"
+    value: "<His stories>(S) never fail(V) [to amaze people](O:to不定詞句)."
+  # e06
+  - sentence_id: "kaku-20-e06"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-20-e06"
+    label: "details"
+    value: "Yamato(S) is(V) <the last person to tell a lie>(C:名詞句)."
+  # c01
+  - sentence_id: "kaku-20-c01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-20-c01"
+    label: "details"
+    value: "He(S) didn't like(V) <either of the two T-shirts>(O)."
+  # c02
+  - sentence_id: "kaku-20-c02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-20-c02"
+    label: "details"
+    value: "<Not all the students>(S) were(V) present(C)."
+  # c03
+  - sentence_id: "kaku-20-c03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-20-c03"
+    label: "details"
+    value: "<Your composition>(S) is(V) [far from satisfactory](C:形容詞句)."
+  # x01 (2文)
+  - sentence_id: "kaku-20-x01"
+    label: "overall"
+    value: "S V. S V O"
+  - sentence_id: "kaku-20-x01"
+    label: "details"
+    value: "<My cell phone>(S) won't charge(V). I(S) don't have(V) <any idea what's wrong with it>(O)."
+  # x02
+  - sentence_id: "kaku-20-x02"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "kaku-20-x02"
+    label: "details"
+    value: "Alex(S) never comes(V) [to a meeting](M:副詞句) [without being late](M:副詞句)."
+  # x03
+  - sentence_id: "kaku-20-x03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-20-x03"
+    label: "details"
+    value: "Steve(S) would be(V) <the last person to tell a lie>(C:名詞句)."
+  # x04
+  - sentence_id: "kaku-20-x04"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-20-x04"
+    label: "details"
+    value: "<Their manners>(S) were(V) [anything but pleasant](C:形容詞句)."
+
+sentence_knowledge_tags:
+  - sentence_id: "kaku-20-e01"
+    node_id: "kta-001"
+  - sentence_id: "kaku-20-e02"
+    node_id: "kta-001"
+  - sentence_id: "kaku-20-e03"
+    node_id: "kta-001"
+  - sentence_id: "kaku-20-e04"
+    node_id: "kta-002"
+  - sentence_id: "kaku-20-e05"
+    node_id: "kta-002"
+  - sentence_id: "kaku-20-e06"
+    node_id: "kta-003"
+  - sentence_id: "kaku-20-c01"
+    node_id: "kta-001"
+  - sentence_id: "kaku-20-c02"
+    node_id: "kta-001"
+  - sentence_id: "kaku-20-c03"
+    node_id: "kta-003"
+  - sentence_id: "kaku-20-x01"
+    node_id: "kta-001"
+  - sentence_id: "kaku-20-x02"
+    node_id: "kta-002"
+  - sentence_id: "kaku-20-x03"
+    node_id: "kta-003"
+  - sentence_id: "kaku-20-x04"
+    node_id: "kta-003"

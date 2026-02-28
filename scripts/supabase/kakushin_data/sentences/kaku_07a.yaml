@@ -1,0 +1,161 @@
+# Kaku_07a: 文型・前半（p.71-82）
+# ※ CHECK・入試問題はKaku_07b（p.83-99）に属するため、このセクションは例文のみ
+
+sentences:
+  - id: "kaku-07a-e01"
+    section_id: "Kaku_07a"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "The patient waited quietly until his name was called."
+    japanese: "その患者は、名前が呼ばれるまで静かに待った。"
+    notes: "3フェイズ分析の実例として使用（p.78）。フェイズ1→2→3の全段階を示す例文。"
+  - id: "kaku-07a-e02"
+    section_id: "Kaku_07a"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "The cat lay on the sofa."
+    japanese: "ネコはソファの上にいた。"
+    notes: "layはlie（自動詞「いる」）の過去形。他動詞layの現在形なら3単現sがつきlaysになるはず。直後に目的語もない。"
+  - id: "kaku-07a-e03"
+    section_id: "Kaku_07a"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "She laid her smartphone on the table."
+    japanese: "彼女はスマホをテーブルの上に置いた。"
+    notes: "他動詞layの過去形laid。目的語her smartphoneがある。"
+  - id: "kaku-07a-e04"
+    section_id: "Kaku_07a"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "My grandmother walks to the supermarket every morning."
+    japanese: "祖母は毎朝、スーパーまで歩いて行く。"
+    notes: "第1文型SVM。to the supermarketとevery morningが共にM。"
+  - id: "kaku-07a-e05"
+    section_id: "Kaku_07a"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "He transferred to a school in Kobe."
+    japanese: "彼は神戸の学校に転校した。"
+    notes: "第1文型の意味予測例。transferを知らなくても「いる」か「動く」で推測→前置詞toから「移動」→「転校」と予測可能。"
+  - id: "kaku-07a-e06"
+    section_id: "Kaku_07a"
+    drill: 0
+    number: 6
+    role: "example"
+    english: "It looks delicious."
+    japanese: "それ、おいしそうだね。"
+    notes: "第2文型SVC。It=delicious。lookの後に形容詞。"
+  - id: "kaku-07a-e07"
+    section_id: "Kaku_07a"
+    drill: 0
+    number: 7
+    role: "example"
+    english: "They look tired."
+    japanese: "彼らは疲れている様子です。"
+    notes: "第2文型SVC。They=tired。lookを使うことで「見た目では疲れて見える」（断定のareとの違い）"
+  - id: "kaku-07a-e08"
+    section_id: "Kaku_07a"
+    drill: 0
+    number: 8
+    role: "example"
+    english: "The temperature stayed high all night."
+    japanese: "気温は、一晩中高いままでした。"
+    notes: "第2文型SVC。stay+形容詞→「〜のままでいる」。temperature=high。"
+  - id: "kaku-07a-e09"
+    section_id: "Kaku_07a"
+    drill: 0
+    number: 9
+    role: "example"
+    english: "Are you going to stay at a hotel?"
+    japanese: "あなたはホテルに泊まる予定ですか？"
+    notes: "第1文型SVM。stayの後にMの前置詞句（at a hotel）→「滞在する」の意味。第2文型との対比。"
+
+sentence_structures:
+  # e01
+  - sentence_id: "kaku-07a-e01"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "kaku-07a-e01"
+    label: "details"
+    value: "<The patient>(S) waited(V) quietly(M:副詞) [until his name was called](M:副詞節)."
+  # e02
+  - sentence_id: "kaku-07a-e02"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-07a-e02"
+    label: "details"
+    value: "<The cat>(S) lay(V) [on the sofa](M:副詞句)."
+  # e03
+  - sentence_id: "kaku-07a-e03"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "kaku-07a-e03"
+    label: "details"
+    value: "She(S) laid(V) <her smartphone>(O) [on the table](M:副詞句)."
+  # e04
+  - sentence_id: "kaku-07a-e04"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "kaku-07a-e04"
+    label: "details"
+    value: "<My grandmother>(S) walks(V) [to the supermarket](M:副詞句) [every morning](M:副詞句)."
+  # e05
+  - sentence_id: "kaku-07a-e05"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-07a-e05"
+    label: "details"
+    value: "He(S) transferred(V) [to a school in Kobe](M:副詞句)."
+  # e06
+  - sentence_id: "kaku-07a-e06"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-07a-e06"
+    label: "details"
+    value: "It(S) looks(V) delicious(C)."
+  # e07
+  - sentence_id: "kaku-07a-e07"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-07a-e07"
+    label: "details"
+    value: "They(S) look(V) tired(C)."
+  # e08
+  - sentence_id: "kaku-07a-e08"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "kaku-07a-e08"
+    label: "details"
+    value: "<The temperature>(S) stayed(V) high(C) [all night](M:副詞句)."
+  # e09
+  - sentence_id: "kaku-07a-e09"
+    label: "overall"
+    value: "Aux S V M?"
+  - sentence_id: "kaku-07a-e09"
+    label: "details"
+    value: "Are(aux) you(S) going to stay(V) [at a hotel](M:副詞句)?"
+
+sentence_knowledge_tags:
+  - sentence_id: "kaku-07a-e01"
+    node_id: "kvt-001"
+  - sentence_id: "kaku-07a-e02"
+    node_id: "kvt-002"
+  - sentence_id: "kaku-07a-e03"
+    node_id: "kvt-002"
+  - sentence_id: "kaku-07a-e04"
+    node_id: "kvt-003"
+  - sentence_id: "kaku-07a-e05"
+    node_id: "kvt-003"
+  - sentence_id: "kaku-07a-e06"
+    node_id: "kvt-003"
+  - sentence_id: "kaku-07a-e07"
+    node_id: "kvt-003"
+  - sentence_id: "kaku-07a-e08"
+    node_id: "kvt-003"
+  - sentence_id: "kaku-07a-e09"
+    node_id: "kvt-003"

@@ -1,0 +1,37 @@
+decisions:
+  - id: 1
+    date: "2026-03-01"
+    section: "Kaku_01"
+    question: "入試問題(2)のDo you have the time?は例文e03と同じ文。重複登録するか？"
+    decision: "重複登録しない。e03のnotesに「入試問題（芝浦工業大学）でも出題」と記録。"
+    decided_by: "リード"
+  - id: 2
+    date: "2026-03-01"
+    section: "Kaku_01"
+    question: "入試問題(4)のTwice a monthは文として不完全（フラグメント）。登録するか？"
+    decision: "登録しない。完全な文として成立しない断片は対象外。aの「〜につき」用法は例文e05とCHECK c03で十分カバー。"
+    decided_by: "リード"
+  - id: 3
+    date: "2026-03-01"
+    section: "Kaku_07a"
+    question: "The patient waited quietly until his name was called. は>マーカーなし。例文として登録するか？"
+    decision: "登録する。3フェイズ分析の唯一の実例であり、kvt-001に紐づく英文がゼロになるのを防ぐ。完全な文であり和訳も文脈から明確。"
+    decided_by: "リード"
+  - id: 4
+    date: "2026-03-01"
+    section: "Kaku_07a"
+    question: "Kaku_07aにCHECK・入試問題がない（p.97-99はKaku_07bに属する）。問題ないか？"
+    decision: "問題なし。分割テーマの前半にはCHECK・入試問題がないのは設計上想定済み。"
+    decided_by: "リード"
+  - id: 5
+    date: "2026-03-01"
+    section: "Kaku_01"
+    question: "Gate 4レビュー: 芝浦工業大学・駒澤大学の入試問題が未登録との指摘。対応するか？"
+    decision: "既存判断(decision #1, #2)を維持。芝浦工業大学はe03と同一文で重複登録不要（notesに出典記録済み）。駒澤大学はフラグメントで登録対象外。khs-001のnotesに「丁寧」情報を追記して情報補完。"
+    decided_by: "リード"
+  - id: 6
+    date: "2026-03-01"
+    section: "Kaku_07a"
+    question: "Gate 4レビュー: kvt-002のcheck_pointsにgrow up/bring up, sit/seatが含まれていないとの指摘。"
+    decision: "check_pointsは上限5件で既に満杯。grow up/bring up, sit/seatはnotesに詳細記載済み。check_pointsはlie/lay, rise/raise, discussなど最頻出項目を優先。understanding_goalsでもカバー。"
+    decided_by: "リード"

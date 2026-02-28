@@ -1,0 +1,188 @@
+# Part 2: 動詞や時制（テーマ07〜11）
+# パイロット: Kaku_07a（文型・前半）のみ
+
+knowledge_nodes:
+  - id: "kvt-001"
+    name: "文の分析3フェイズ（品詞→句・節→文型）"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      核心: 品詞がわかれば、文型がわかり、意味がわかる
+      フェイズ1（単語レベルの品詞）:
+      ・単独で働ける品詞: 名詞・代名詞・形容詞・副詞・動詞
+      ・ペアを求める品詞: 冠詞(+名詞→名詞のカタマリ)・助動詞(+動詞→動詞のカタマリ)・前置詞(+名詞→副詞/形容詞のカタマリ)・接続詞(+SV→副詞のカタマリ)
+      フェイズ2（カタマリでの4大品詞）: 名詞・形容詞・副詞・動詞
+      ・ペアを求める品詞が他の品詞と合わさり「カタマリ」（句・節）として4大品詞のいずれかになる。
+      ・句と節の共通点: どちらも「カタマリになる」こと。相違点: SVの有無（句＝SVなし、節＝SVあり）。
+      フェイズ3（文型レベル）: SV・SVC・SVO・SVOO・SVOC
+      注意: 「名詞・形容詞・副詞・動詞」という用語はフェイズ1と2で重複使用される。「動詞」は3つのフェイズすべてで使われる。
+      4大品詞の働き: 名詞→S/O/C、形容詞→名詞修飾 or C、副詞→M（名詞以外を修飾）、動詞→V
+      文の要素: S(主語/名詞)、V(動詞)、O(目的語/名詞)、C(補語/形容詞・名詞)、M(修飾語/形容詞・副詞)
+      [図表: フロー図 — フェイズ1→2→3の流れ（p.76）]
+
+  - id: "kvt-002"
+    name: "自動詞/他動詞の判別（「何を？」テスト）"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      即断判別法:
+      ・他動詞: 「何を？」と聞き返せる（know「知っている」→「何を？」→他動詞）
+      ・自動詞: 「何を？」が変で「あっそう」で終わる（live「住む」→「あっそう」→自動詞）
+      他動詞の後には「何を」に当たる名詞（目的語）が必要。品詞の観点では「名詞」、要素の観点では「目的語」（同じもの）。
+      この判別法は100%ではないが大半の動詞で使える。
+      動詞ペア（自動詞/他動詞のセット）:
+      ・lie(自「いる・ある・横になる」lie-lay-lain) vs. lay(他「置く・横にする」lay-laid-laid)
+      ※lieの過去形layと他動詞lay現在形は同じ綴り。3単現の-sや目的語の有無で判別。
+      ・rise(自「上がる」rise-rose-risen) vs. raise(他「上げる」raise-raised-raised)
+      ・grow up(自「育つ」) vs. bring up(他「育てる」受動: be brought up) ※× be grown upは誤り
+      ・sit(自「座る」sit-sat-sat) vs. seat(他「座らせる」seat-seated-seated)
+      「何を？」が使えない他動詞（例外）:
+      ①「〜に」系: resemble, answer, attend, reach(=arrive at/get to), approach, visit, join, enter
+      ②「〜と」系: contact, marry(=get married to)
+      ③「〜について」系: discuss(=talk about/over), mention, consider
+      参考: 自動詞（自分で意味が完結/目的語不要）、他動詞（他者に影響を与える/目的語必要）という形式的説明もある。
+      前提知識との差分: 中学では自動詞・他動詞の区別を明確に教わらない。高校で文型と結びつけて重要になる。
+
+  - id: "kvt-003"
+    name: "第1・第2文型の特徴と動詞の意味予測"
+    category: "動詞と時制"
+    priority: "P1"
+    notes: |
+      第1文型 SV(M):
+      ・実際にはMがつくケースがほとんど（I live.では意味を成さない→I live in Saitama.）。
+      ・よく使われる動詞: ①存在・移動(be, live, come) ②出現・消失(appear, disappear, die) ③感情・その他(laugh, look, talk)
+      ・意味予測: 知らない動詞でも第1文型なら「いる・ある」か「動く」と推測できる。
+      ・例: He transferred to a school in Kobe. → 第1文型 → 移動系 → 「転校した」と予測可能。前置詞toの「方向・到達」も意味予測の手がかり。
+      第2文型 SVC:
+      ・必ずS＝Cが成り立つ。Cになるのは形容詞と名詞。
+      ・よく使われる動詞: ①存在・継続(be, keep) ②変化(become, get, turn, grow, come, go) ③感覚(seem, appear, look, feel, sound)
+      ・意味予測: 「動詞＋形容詞」の形なら第2文型 → 動詞の意味は「イコール」と推測。
+      ・例: The temperature stayed high all night. → stay+形容詞 → temperature=high → 「気温が高いままだった」
+      ・同一動詞の文型による意味の違い: stayは第1文型「滞在する」/第2文型「〜のままでいる」。stayの「滞在する」から「しばらくそこにいる」ニュアンスが加わり「〜の状態でしばらくいる」になる。
+      ・「動詞の意味を暗記→文脈で訳し分ける」ではなく「文型を見抜いて意味を予想する」が先。
+      参考書内参照: →p.75「注意すべき他動詞」（同テーマ内）
+
+understanding_goals:
+  # kvt-001
+  - node_id: "kvt-001"
+    seq: 1
+    goal: "英文を3つのフェイズ（品詞→句・節→文型）で段階的に分析できる"
+  - node_id: "kvt-001"
+    seq: 2
+    goal: "フェイズ1のペアを求める品詞4つ（冠詞・助動詞・前置詞・接続詞）とそのペア相手を説明できる"
+  - node_id: "kvt-001"
+    seq: 3
+    goal: "フェイズ2の4大品詞と、句・節の概念を説明できる"
+  - node_id: "kvt-001"
+    seq: 4
+    goal: "S・V・O・C・Mの働きと、それぞれになれる品詞を説明できる"
+  # kvt-002
+  - node_id: "kvt-002"
+    seq: 1
+    goal: "「何を？」テストで自動詞と他動詞を判別できる"
+  - node_id: "kvt-002"
+    seq: 2
+    goal: "lie/lay, rise/raiseの活用変化と意味を正確に区別できる"
+  - node_id: "kvt-002"
+    seq: 3
+    goal: "「何を？」テストが使えない代表的な他動詞を知っている"
+  - node_id: "kvt-002"
+    seq: 4
+    goal: "他動詞の後ろに来る名詞が「目的語」であることを品詞と要素の両面で説明できる"
+  # kvt-003
+  - node_id: "kvt-003"
+    seq: 1
+    goal: "第1文型の基本構造SV(M)と、Mがつくのが普通であることを説明できる"
+  - node_id: "kvt-003"
+    seq: 2
+    goal: "第1文型の動詞から「存在・移動」の意味を予測できる"
+  - node_id: "kvt-003"
+    seq: 3
+    goal: "第2文型のS＝Cの関係を説明できる"
+  - node_id: "kvt-003"
+    seq: 4
+    goal: "「動詞＋形容詞」の形から第2文型と判断し、動詞を「イコール」と推測できる"
+  - node_id: "kvt-003"
+    seq: 5
+    goal: "同じ動詞が文型によって異なる意味になることを具体例で説明できる"
+
+check_points:
+  # kvt-001
+  - node_id: "kvt-001"
+    seq: 1
+    question: "フェイズ2で全ての品詞は最終的に何種類に集約されるか？"
+    answer: "4種類（名詞・形容詞・副詞・動詞）。"
+  - node_id: "kvt-001"
+    seq: 2
+    question: "前置詞＋名詞のカタマリは何の品詞として働くか？"
+    answer: "副詞または形容詞。"
+  - node_id: "kvt-001"
+    seq: 3
+    question: "句と節の共通点と相違点は？"
+    answer: "共通点: どちらも「カタマリになる」こと。相違点: SVの有無（句＝SVなし、節＝SVあり）。"
+  - node_id: "kvt-001"
+    seq: 4
+    question: "文の要素S・V・O・C・Mのうち、名詞がなれるものは？"
+    answer: "S（主語）、O（目的語）、C（補語）。"
+  - node_id: "kvt-001"
+    seq: 5
+    question: "Mになれる品詞は？"
+    answer: "形容詞と副詞。Mは名詞以外を修飾する働きがある語。"
+  # kvt-002
+  - node_id: "kvt-002"
+    seq: 1
+    question: "自動詞と他動詞を簡単に判別する方法は？"
+    answer: "「何を？」と聞き返せるなら他動詞、「何を？」が変で「あっそう」で終わるなら自動詞。"
+  - node_id: "kvt-002"
+    seq: 2
+    question: "lieの活用と意味は？"
+    answer: "自動詞「いる・ある・横になる」lie-lay-lain。（×「横たわる」ではなく「いる」で覚える）"
+  - node_id: "kvt-002"
+    seq: 3
+    question: "layの活用と意味は？lieの過去形との区別は？"
+    answer: "他動詞「置く・横にする」lay-laid-laid。lieの過去形layと同綴りだが、3単現の-sや目的語の有無で判別。"
+  - node_id: "kvt-002"
+    seq: 4
+    question: "discussは自動詞か他動詞か？前置詞は必要か？"
+    answer: "他動詞（「〜について」系の例外）。直後に名詞が来る。× discuss about は誤り。"
+  - node_id: "kvt-002"
+    seq: 5
+    question: "riseとraiseの違いは？"
+    answer: "rise＝自動詞「上がる」(rise-rose-risen)、raise＝他動詞「上げる」(raise-raised-raised)。"
+  # kvt-003
+  - node_id: "kvt-003"
+    seq: 1
+    question: "第1文型で知らない動詞が出たら、どう意味を推測するか？"
+    answer: "「いる・ある」か「動く」と考える。第1文型の動詞は存在・移動の意味が多い。"
+  - node_id: "kvt-003"
+    seq: 2
+    question: "第2文型の特徴は？"
+    answer: "S＝Cが成り立つ。Cには形容詞か名詞が入る。"
+  - node_id: "kvt-003"
+    seq: 3
+    question: "「動詞＋形容詞」の形のとき、文型は何で、動詞の意味はどう推測するか？"
+    answer: "第2文型（SVC）。動詞は「イコール」の意味と推測する。"
+  - node_id: "kvt-003"
+    seq: 4
+    question: "stayが第1文型と第2文型で使われたとき、それぞれどういう意味か？"
+    answer: "第1文型「滞在する」（stay at a hotel）、第2文型「〜のままでいる」（stay high）。"
+  - node_id: "kvt-003"
+    seq: 5
+    question: "第2文型をとる代表的な動詞を3グループ挙げよ。"
+    answer: "①存在・継続(be, keep) ②変化(become, get, turn, grow, come, go) ③感覚(seem, appear, look, feel, sound)。"
+
+node_prerequisites: []
+
+knowledge_references:
+  - node_id: "kvt-001"
+    book: "英文法の核心"
+    section_id: "Kaku_07a"
+    pages: "p.75-78"
+  - node_id: "kvt-002"
+    book: "英文法の核心"
+    section_id: "Kaku_07a"
+    pages: "p.71-75"
+  - node_id: "kvt-003"
+    book: "英文法の核心"
+    section_id: "Kaku_07a"
+    pages: "p.78-82"
