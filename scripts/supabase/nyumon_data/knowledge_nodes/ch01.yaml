@@ -114,6 +114,66 @@ knowledge_nodes:
       ❺ later =「（もっと）あとの」: 子ども時代を過ぎた成長後を指す。
         reading proficiency も〈名詞+名詞〉の形。「読む力」の意味。
 
+  - id: "nsv-005"
+    name: "SVOC構文のCが動詞形"
+    category: "主語と動詞の把握"
+    priority: "P1"
+    notes: |
+      Point分類: ❸〔動詞〕❹〔動詞〕
+      ■ 〈catch O V-ing〉: 「OがVしているところを見つける」。
+        受動態: 〈O is caught V-ing〉「OはVしているところを見つかる」
+      ■ 〈help O (to) V〉: 「OがVするのを助ける」。
+        現代英語ではtoは通例省略される。
+      ■ 後ろに〈O + V形〉を置く動詞一覧:
+        知覚動詞 see/hear + O + V/V-ing/V-pp「OがVする[している/される]のを見る/聞く」
+        使役動詞 make/let/have + O + V「OにVさせる[するのを許す/してもらう]」
+        keep + O + V-ing「Oを～（の状態）にしておく」
+      ❶ 文頭の〈前置詞＋名詞〉は副詞句（→nsv-001参照）。
+        本文では In 1844 が副詞句。
+      ❷ A named[called] B「Bという名のA」:
+        過去分詞形 named が直前の名詞を修飾する形容詞的用法。
+      ❺ 英語の住所表記は狭い所→広い所の順。
+        例: Pensacola, Florida（日本語とは逆順）。
+        州名は略号も使われる（例: Pensacola, FL）。
+
+  - id: "nsv-006"
+    name: "分詞と動詞の区別"
+    category: "主語と動詞の把握"
+    priority: "P1"
+    notes: |
+      Point分類: Ny_06❷〔分詞〕、Ny_07❷〔分詞〕、Ny_07❹〔分詞〕
+      ■ -ed形の見極め方法:
+        (1) 他動詞の場合: 目的語があれば過去形、なければ過去分詞の可能性
+        (2) 文意の整合性: 過去形と解釈して意味が通るか確認
+        (3) 同じ文にすでに中心の動詞があれば、-edは過去分詞
+      ■ 〈considered C〉: 「Cだと考えられている/みなされている」。
+        分詞構文（being省略）として副詞句。
+        前の名詞を修飾する形容詞句とする見方も可能。
+      ■ 2語以上から成る形容詞句（分詞句含む）は普通、名詞の後ろにつける（後置修飾）。
+        例: hidden meaning（1語→前置修飾）
+        　　the moon hidden by clouds（2語以上→後置修飾）
+        　　aircraft flown by female pilots（2語以上→後置修飾）
+      ■ conducted vs showed の判定例:
+        conducted は他動詞だが目的語がない→過去分詞形。
+        analysis を修飾する形容詞句。showed が文の中心の動詞。
+      Ny_06❶ like = 前置詞「～のような」:
+        動詞「好き」と紛らわしいが、動詞とすると文意が通らない→前置詞と判断。
+        形容詞句として直前の名詞を修飾。
+      Ny_06❸ quite ordinary in the West は considered の補語部分。
+      Ny_06❹ but の接続範囲:
+        but は文と文だけでなく、語・句・節もつなぐ。
+        本文では quite ordinary ... と not a part of ... をつないでいる。
+        [図表: 樹形図 — considered の補語における but の接続構造（p.39）]
+      Ny_06❺ can be found が文の中心の動詞。
+      Ny_07❶ may は弱い推量「～かもしれない」:
+        英文中のmayは通常「かもしれない」。許可のmayは定型表現以外では稀。
+        may ... but は「～かもしれないが、実は……」の頻出パターン。
+      Ny_07❸ 受動態の理由: 「既知→未知」の情報の流れ（→nsv-002参照）。
+        their concerns（既知）→ are not supported by data（新情報）。
+      Ny_07❺ no + 名詞の否定:
+        英語では否定語が名詞につくことがある。
+        no = not any と分解すると「どんな～もない」と訳せる。
+
 understanding_goals:
   - node_id: "nsv-001"
     seq: 1
@@ -160,6 +220,36 @@ understanding_goals:
   - node_id: "nsv-004"
     seq: 4
     goal: "英文中の be + 過去分詞 + to V を見て受動態＋to不定詞のパターンだと認識できる"
+  - node_id: "nsv-005"
+    seq: 1
+    goal: "〈catch O V-ing〉の構文を認識し、「OがVしているところを見つける」と訳せる"
+  - node_id: "nsv-005"
+    seq: 2
+    goal: "〈help O (to) V〉の構文を認識し、「OがVするのを助ける」と訳せる"
+  - node_id: "nsv-005"
+    seq: 3
+    goal: "知覚動詞（see/hear）の〈O + V/V-ing/V-pp〉パターンを識別できる"
+  - node_id: "nsv-005"
+    seq: 4
+    goal: "使役動詞（make/let/have）の〈O + V〉パターンを識別できる"
+  - node_id: "nsv-005"
+    seq: 5
+    goal: "上記の構文が受動態になった場合でも正しく解釈できる"
+  - node_id: "nsv-006"
+    seq: 1
+    goal: "-ed形が過去形なのか過去分詞形なのかを文脈から判定できる"
+  - node_id: "nsv-006"
+    seq: 2
+    goal: "目的語の有無から他動詞の-ed形が過去形か過去分詞形かを判断できる"
+  - node_id: "nsv-006"
+    seq: 3
+    goal: "過去分詞が名詞を修飾する形容詞として働くことを理解している"
+  - node_id: "nsv-006"
+    seq: 4
+    goal: "2語以上の分詞句が名詞の後ろに置かれるルールを適用できる"
+  - node_id: "nsv-006"
+    seq: 5
+    goal: "分詞構文としての-ed形（being省略）を認識できる"
 
 check_points:
   - node_id: "nsv-001"
@@ -226,6 +316,38 @@ check_points:
     seq: 5
     question: "〈S is said to V〉と〈It is said that S + V〉のうち、日本語に訳したとき差が出るか？"
     answer: "差は出ない。どちらも「SはVと言われている」と同じ訳になる。"
+  - node_id: "nsv-005"
+    seq: 1
+    question: "〈catch O V-ing〉はどういう意味か？ また受動態にするとどうなるか？"
+    answer: "「OがVしているところを見つける」。受動態は〈O is caught V-ing〉で「OはVしているところを見つかる」。"
+  - node_id: "nsv-005"
+    seq: 2
+    question: "〈help O V〉と〈help O to V〉の違いは何か？"
+    answer: "意味は同じで「OがVするのを助ける」。現代英語ではtoは通例省略される。"
+  - node_id: "nsv-005"
+    seq: 3
+    question: "知覚動詞see/hearの後に来る〈O + V-ing〉と〈O + V-pp〉の違いは？"
+    answer: "V-ingは「OがVしている」（能動・進行）、V-ppは「OがVされる」（受動）を表す。"
+  - node_id: "nsv-005"
+    seq: 4
+    question: "使役動詞make/let/haveの後に来る形と各動詞の意味の違いは？"
+    answer: "いずれも〈O + V（原形）〉。makeは「（強制的に）させる」、letは「するのを許す」、haveは「してもらう」。"
+  - node_id: "nsv-006"
+    seq: 1
+    question: "文中の-ed形が過去形なのか過去分詞形なのかを見極める方法は？"
+    answer: "(1) 他動詞の場合、目的語があれば過去形、なければ過去分詞の可能性。(2) 過去形と解釈して文意が通るか確認。(3) 同じ文にすでに中心の動詞があれば過去分詞。"
+  - node_id: "nsv-006"
+    seq: 2
+    question: "considered C の形が文中に出現したとき、過去形ではなく分詞だと判断する根拠は？"
+    answer: "considered を過去形とすると主語が「～を考えた」となり文意が通らない。また後ろに別の中心の動詞（can be found等）があるため、considered は分詞構文（being considered の being が省略）。"
+  - node_id: "nsv-006"
+    seq: 3
+    question: "2語以上の形容詞句（分詞句含む）は名詞のどこに置かれるか？"
+    answer: "名詞の後ろ（後置修飾）。例: aircraft flown by female pilots「女性パイロットによって操縦された航空機」。1語なら前置も可（例: hidden meaning）。"
+  - node_id: "nsv-006"
+    seq: 4
+    question: "conducted と showed が同じ文にある場合、どちらが文の中心の動詞か判定する方法は？"
+    answer: "conducted は他動詞だが目的語がないため過去分詞形。showed が中心の動詞。conducted は a previous analysis を修飾する過去分詞（形容詞句）。"
 
 node_prerequisites:
   - node_id: "nsv-001"
@@ -242,6 +364,12 @@ node_prerequisites:
     prerequisite_id: "nsv-002"
   - node_id: "nsv-004"
     prerequisite_id: "nbk-013"
+  - node_id: "nsv-005"
+    prerequisite_id: "nbk-006"
+  - node_id: "nsv-006"
+    prerequisite_id: "nbk-002"
+  - node_id: "nsv-006"
+    prerequisite_id: "nbk-006"
 
 knowledge_references:
   - node_id: "nsv-001"
@@ -264,3 +392,15 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_04"
     pages: "p.34-35"
+  - node_id: "nsv-005"
+    book: "入門英文問題精講"
+    section_id: "Ny_05"
+    pages: "p.36-37"
+  - node_id: "nsv-006"
+    book: "入門英文問題精講"
+    section_id: "Ny_06"
+    pages: "p.38-39"
+  - node_id: "nsv-006"
+    book: "入門英文問題精講"
+    section_id: "Ny_07"
+    pages: "p.40-41"

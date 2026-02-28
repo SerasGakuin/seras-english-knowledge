@@ -180,32 +180,32 @@ sections:
     title: "動詞の把握（SVOCのCが〈V-ing〉）"
     type: "exercise"
     pages: "p.36-37"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "nsv-005。catch O V-ing + help O (to) V + 知覚/使役動詞"
   Ny_06:
     title: "動詞の把握（分詞との区別）①"
     type: "exercise"
     pages: "p.38-39"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "nsv-006（Ny_07と共有）。-ed形の見極め"
   Ny_07:
     title: "動詞の把握（分詞との区別）②"
     type: "exercise"
     pages: "p.40-41"
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "nsv-006（Ny_06と共有）。conducted vs showed の判定"
   Ny_08:
     title: "主語と動詞の省略"
     type: "exercise"
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 18
+  completed: 21
   in_progress: 0
-  not_started: 67
-  total_knowledge_nodes: 18
-  total_sentences: 83
+  not_started: 64
+  total_knowledge_nodes: 20
+  total_sentences: 93

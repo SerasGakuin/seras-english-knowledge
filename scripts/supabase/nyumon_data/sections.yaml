@@ -120,19 +120,25 @@ sections:
     title: "動詞の把握（SVOCのCが〈V-ing〉）"
     pages: "p.36-37"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: was caught helping の，catch と help の作る文型は？
+      一言: ジョナサン・ウォーカーは The Man with the Branded Hand（烙印の手を持つ男）で知られる，奴隷解放に人生を捧げた人物。奴隷を盗んだとしてアメリカ政府から手に SS（Slave Stealer）の烙印を押された。アメリカの奴隷制は17世紀初頭から南北戦争を経て，1863年にリンカーン大統領による「奴隷解放宣言」Emancipation Proclamation まで続いた。
   - id: "Ny_06"
     book: "入門英文問題精講"
     title: "動詞の把握（分詞との区別）①"
     pages: "p.38-39"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: この like の働きは？
+      一言: インドの野菜市場では，インドの地の野菜が所狭しと並んでいる。そこでは西洋ではよく見られる赤ピーマン，ブロッコリーなどは珍しい。一昔前の日本でも同じような状況だった。
   - id: "Ny_07"
     book: "入門英文問題精講"
     title: "動詞の把握（分詞との区別）②"
     pages: "p.40-41"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: conducted と showed はどちらが動詞？
+      一言: 「女性のほうがコミュニケーション力が高い」「男性のほうが論理的だ」などの通説は，多くの場合，先入観によって作り出されたもの。男女差というより個体差のほうが大きい。
   - id: "Ny_08"
     book: "入門英文問題精講"
     title: "主語と動詞の省略"
@@ -594,6 +600,15 @@ section_knowledge_nodes:
     seq: 2
   - section_id: "Ny_04"
     node_id: "nsv-004"
+    seq: 1
+  - section_id: "Ny_05"
+    node_id: "nsv-005"
+    seq: 1
+  - section_id: "Ny_06"
+    node_id: "nsv-006"
+    seq: 1
+  - section_id: "Ny_07"
+    node_id: "nsv-006"
     seq: 1
 
 section_prerequisites: []

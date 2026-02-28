@@ -1,0 +1,26 @@
+sentences:
+  - id: "ny-06-s1"
+    section_id: "Ny_06"
+    drill: 6
+    number: 1
+    role: "exercise"
+    english: "Vegetables like red peppers, broccoli or asparagus, considered quite ordinary in the West but not a part of the traditional Indian food culture, can now be found at subzimandis."
+    japanese: "赤ピーマンやブロッコリーやアスパラガスのような野菜は，西洋ではごく普通だけれどもインドの伝統的な食文化の一部ではないと思われているが，今ではインドの野菜市場で見つけることができる。"
+    notes: "出典: 首都大学東京。* subzimandi「インドの野菜市場」（問題文の語彙注釈）"
+
+sentence_structures:
+  - sentence_id: "ny-06-s1"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "ny-06-s1"
+    label: "details"
+    value: "{S}Vegetables (like red peppers, broccoli or asparagus)(M:形容詞句), (considered quite ordinary (in the West)(M:副詞句) {等接}but not a part (of the traditional Indian food culture)(M:形容詞句))(M:分詞構文/形容詞句), {V}can now be found (at subzimandis)(M:副詞句)."
+  - sentence_id: "ny-06-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 赤ピーマンやブロッコリーやアスパラガスのような野菜は
+      ❷ 西洋ではごく普通だと思われているが、インドの伝統的な食文化の一部ではないと思われている
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-06-s1"
+    node_id: "nsv-006"

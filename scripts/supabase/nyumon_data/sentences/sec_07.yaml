@@ -1,0 +1,46 @@
+sentences:
+  - id: "ny-07-s1"
+    section_id: "Ny_07"
+    drill: 7
+    number: 1
+    role: "exercise"
+    english: "People may be concerned about the safety of aircraft flown by female pilots, but their concerns are not supported by data."
+    japanese: "人々は女性パイロットが操縦する航空機の安全性について心配しているかもしれない。しかし，そうした心配はデータによって裏付けられているものではない。"
+    notes: ""
+  - id: "ny-07-s2"
+    section_id: "Ny_07"
+    drill: 7
+    number: 2
+    role: "exercise"
+    english: "For example, a previous analysis of large pilot databases conducted in the United States showed no meaningful difference in accident rates between male and female pilots."
+    japanese: "例えば，アメリカで行われた，パイロットに関わる巨大なデータベースを以前に分析したものは，事故率にかかわる男性パイロットと女性パイロットとの有意味な差を示さなかった。"
+    notes: ""
+
+sentence_structures:
+  - sentence_id: "ny-07-s1"
+    label: "overall"
+    value: "S V, S V"
+  - sentence_id: "ny-07-s1"
+    label: "details"
+    value: "{S}People {V}may be concerned (about the safety (of aircraft (flown (by female pilots)(M:副詞句))(M:形容詞句/過去分詞))(M:形容詞句))(M:副詞句), {等接}but {S}their concerns {V}are not supported (by data)(M:副詞句)."
+  - sentence_id: "ny-07-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 人々は航空機の安全性について心配しているかもしれない（が，実は……）
+      ❷ 女性パイロットにより操縦された
+  - sentence_id: "ny-07-s2"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "ny-07-s2"
+    label: "details"
+    value: "(For example)(M:副詞句), {S}a previous analysis (of large pilot databases)(M:形容詞句) (conducted (in the United States)(M:副詞句))(M:形容詞句/過去分詞) {V}showed {O}no meaningful difference (in accident rates)(M:形容詞句) (between male {等接}and female pilots)(M:形容詞句)."
+  - sentence_id: "ny-07-s2"
+    label: "partial_translations"
+    value: |
+      ❹ アメリカで行われたパイロットにかかわる巨大なデータベースの以前の分析は
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-07-s1"
+    node_id: "nsv-006"
+  - sentence_id: "ny-07-s2"
+    node_id: "nsv-006"
