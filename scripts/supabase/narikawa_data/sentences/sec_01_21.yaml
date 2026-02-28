@@ -1,0 +1,103 @@
+# Nar_01_21: 「思い出す」の意味をもつ動詞（p.74-75）
+
+sentences:
+  - id: "nar-0121-e096"
+    section_id: "Nar_01_21"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "The photo always reminds me of our first date."
+    japanese: "その写真を見るたびに初めてのデートを思い出すわ"
+    notes: "remind A of B: AにB（過去のこと）を思い出させる"
+  - id: "nar-0121-e097"
+    section_id: "Nar_01_21"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Remind me to go to the post office."
+    japanese: "郵便局へ行くように言ってね"
+    notes: "remind A to V: Aに（これから）Vすることを気づかせる"
+  - id: "nar-0121-e098"
+    section_id: "Nar_01_21"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "I suddenly remembered her."
+    japanese: "突然、私は彼女を思い出した"
+    notes: "remember: 意識して思い出す"
+  - id: "nar-0121-e099"
+    section_id: "Nar_01_21"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "I still remember my promise."
+    japanese: "私はまだ約束を覚えている"
+    notes: "remember: 記憶に定着して覚えている"
+  - id: "nar-0121-e100"
+    section_id: "Nar_01_21"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "I remember that the house was very hot."
+    japanese: "あの家がとても暑かったのを覚えている"
+    notes: "remember+that節: 節の内容を覚えている"
+  - id: "nar-0121-e101"
+    section_id: "Nar_01_21"
+    drill: 0
+    number: 6
+    role: "example"
+    english: "Please remember me to your mother."
+    japanese: "お母様によろしくお伝えください"
+    notes: "remember A to B: AのことをBによろしく伝える（特殊用法）"
+
+sentence_structures:
+  - sentence_id: "nar-0121-e096"
+    label: "overall"
+    value: "S V A of B"
+  - sentence_id: "nar-0121-e096"
+    label: "details"
+    value: "<The photo>(S) always(M:頻度副詞) reminds(V) <me>(A:思い出す人) [of our first date](of B:思い出す内容)"
+  - sentence_id: "nar-0121-e097"
+    label: "overall"
+    value: "V A to V"
+  - sentence_id: "nar-0121-e097"
+    label: "details"
+    value: "Remind(V) <me>(A:気づかされる人) <to go to the post office>(to V:これからやること) ※命令文"
+  - sentence_id: "nar-0121-e098"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0121-e098"
+    label: "details"
+    value: "<I>(S) suddenly(M:副詞) remembered(V) <her>(O)"
+  - sentence_id: "nar-0121-e099"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0121-e099"
+    label: "details"
+    value: "<I>(S) still(M:副詞) remember(V) <my promise>(O)"
+  - sentence_id: "nar-0121-e100"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0121-e100"
+    label: "details"
+    value: "<I>(S) remember(V) <that the house was very hot>(O:that節)"
+  - sentence_id: "nar-0121-e101"
+    label: "overall"
+    value: "S V A to B"
+  - sentence_id: "nar-0121-e101"
+    label: "details"
+    value: "Please(M) remember(V) <me>(A) [to your mother](to B) ※命令文。remember A to B=AのことをBによろしく"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0121-e096"
+    node_id: "nrv-021"
+  - sentence_id: "nar-0121-e097"
+    node_id: "nrv-021"
+  - sentence_id: "nar-0121-e098"
+    node_id: "nrv-021"
+  - sentence_id: "nar-0121-e099"
+    node_id: "nrv-021"
+  - sentence_id: "nar-0121-e100"
+    node_id: "nrv-021"
+  - sentence_id: "nar-0121-e101"
+    node_id: "nrv-021"

@@ -311,6 +311,87 @@ knowledge_nodes:
       [図表: イラスト — イタリア語→英語の翻訳（into: 変化）（p.49-50）]
       別冊ポイント028（from型の中心的意味）、029（V+A+from+B型の動詞リスト）、030（into型の中心的意味）、031（V+A+into+B型の動詞リスト）参照
 
+  - id: "nrv-013"
+    name: "〈V+A+for+B〉と〈V+A+as+B〉パターンの動詞"
+    category: "動詞語法と文型"
+    priority: "P2"
+    notes: |
+      ■ forの基本イメージ:「ある対象に意識が向かう」
+      〈V+A+for+B〉では、Bが意識の向かう先。
+      ■ 〈V+A+for+B〉の2つの意味
+      ❶ Bを理由にAを〜する（賞罰の動詞）: thank, reward, admire, praise, blame, punish, scold, criticize, condemn, excuse, forgive
+        → 脚注＊1: これらの動詞を「賞罰の動詞」と呼ぶことがある。
+      ❷ AをBと交換する（交換のfor）: exchange, pay, sell, buy, substitute
+        → Bに「優位なもの」が置かれる（手に入れたいもの、本来使いたいものなど）。
+      ■ substitute A for B → replace B with[by] A の書き換え
+      substitute A for B「AをBの代用にする」= replace B with[by] A。AとBの位置が入れ替わる。
+      ■ blameの二通りの用法
+      blame A for B「Bの責任がAにあると思う」（A=人, B=理由）
+      blame B on A「BをAのせいにする」（B=事物, A=人）→ Nar_01_14(on型)参照
+      ■ asの基本イメージ:「イコール（＝）」
+      〈V+A+as+B〉ではA=Bの意味関係。
+      ■ 〈V+A+as+B〉の動詞: 「AをBと見なす・考える」系が多い
+      regard, view, look on/upon, think of, see, count, take, consider, treat, describe, refer to, accept, acknowledge, recognize, classify, identify, imagine, define, strike, appoint
+      → lookはon[upon]、thinkはofを伴わないとこの形式で使えない。
+      → classify A as B（分類する）vs classify A into B（変化のニュアンス）の違い。
+      → identify A as B「AがBであるとわかる（確認）」vs identify A with B「AをBと同一視する」。
+      → Bには名詞以外にさまざまな品詞が置かれる（例: regard cheating as wrong → Bに形容詞）。
+      [図表: イラスト — 古いシャツ(A)から新しいシャツ(B)へforで意識が向かう（p.51）]
+      [図表: イラスト — him = the best doctor のasイコール関係（p.52）]
+      別冊ポイント032（for型の中心的意味）、033（V+A+for+B型の動詞リスト）、034（V+A+as+B型の動詞リスト）参照
+
+  - id: "nrv-014"
+    name: "〈V+A+of+B〉と〈V+A+on+B〉パターンの動詞"
+    category: "動詞語法と文型"
+    priority: "P2"
+    notes: |
+      ■ ofの基本イメージ:「分離」（offの親戚）
+      「スイッチoff」→「分離」。ofも基本的には「分離」を表す。
+      ■ 〈V+A+of+B〉の2系統の意味
+      ❶ AからBを分離・除去する: rob, deprive, strip, cure, clear, relieve, rid
+        → rob A of B「AからBを（力ずくで）奪う」vs steal A from B「BからAを（こっそり）盗む」。奪われる人とモノの位置が逆。
+      ❷ AにBに関して知らせる: remind, inform, notify, warn, assure, convince, persuade
+        → 「分離」から「関連」への意味展開（→p.367参照）。
+        → remind, inform, notify, warnはofをaboutにしてもOK。
+        → 「知らせる」系動詞はof Bをthat節で書き換え可能。
+      ❸ その他: ask, require, beg, expect（AをBに求める）
+      ■ onの基本イメージ:「接触」→「のしかかる」「べったり」
+      〈V+A+on+B〉ではAがBにのしかかるイメージ。
+      ■ 〈V+A+on+B〉の2つの意味
+      ❶ AをBに課す: impose, concentrate, base, focus, congratulate, put, force, place
+      ❷ A（責任など）をBになすりつける: blame B on A
+      [図表: イラスト — 女性からハンドバッグを奪う男（of: 分離）（p.54）]
+      [図表: イラスト — たばこに税金を課す（on: のしかかる）（p.55）]
+      [図表: イラスト — 非難されて汗をかいている人物（p.56）]
+      参考書内参照: →p.367（ofの「分離→関連」の意味展開）
+      別冊ポイント035（of型の中心的意味）、036（V+A+of+B型の動詞リスト）、037（on型の中心的意味）、038（V+A+on+B型の動詞リスト）参照
+
+  - id: "nrv-015"
+    name: "〈V+A+to+B〉パターンの動詞と注意点"
+    category: "動詞語法と文型"
+    priority: "P2"
+    notes: |
+      ■ toの基本イメージ:「到達」
+      〈V+A+to+B〉では「AをBに到達させる」が根本の意味。
+      ■ 〈V+A+to+B〉の3つの意味
+      ❶ AをBに合わせる: adapt, adjust, apply, conform, relate
+      ❷ AをBに加える: add, attach, leave, devote, expose
+      ❸ AをBに制限・限定する: limit, restrict, confine, reduce
+      ■ 別冊041: -ute動詞のまとめ（紛らわしい3動詞）
+      attribute A to B「A(結果)をB(原因)のせいにする」
+      contribute A to B「AをBに提供する」（contribute to A「Aに貢献する」も重要）
+      distribute A to[among] B「AをBに分配する」
+      ■ 注意点: 受動態や省略でパターンが崩れる
+      (1) to Bの省略: 何に加えるかが状況から明確ならto Bを書かないことがある。
+        例: She added the sliced tomatoes.（to Bなし）
+      (2) 受動態でAが移動: remind A of Bを受動態にすると、Aが主語に移動しAの位置が空になる。
+        例: She was reminded of her childhood.（Aが主語Sheに）
+      動詞を受動態にすると基本パターンが崩れ、パターンに気づきにくくなることがある。
+      [図表: イラスト — A(herself)がto(到達)でB(her new life)に向かう（p.57）]
+      [図表: イラスト — 油(A)が水(B)にtoで追加される（p.57）]
+      参考書内参照: →p.82（受動態）
+      別冊ポイント039（to型の中心的意味）、040（V+A+to+B型の動詞リスト）、041（attribute/contribute/distributeのまとめ）参照
+
   - id: "nrv-016"
     name: "「言う」の動詞の使い分け"
     category: "動詞語法と文型"
@@ -335,6 +416,211 @@ knowledge_nodes:
       [図表: 比較図 — speak（一方向）と talk（双方向）の方向性（p.60）]
       [図表: 比較図 — say（内容を伝える）と tell（相手に伝える）の方向性（p.61）]
       別冊ポイント043（「言う」に関する重要動詞）参照
+
+  - id: "nrv-020"
+    name: "「盗む、奪う」と「かく」の動詞の使い分け"
+    category: "動詞語法と文型"
+    priority: "P2"
+    notes: |
+      ■ steal と rob の違い
+      steal+A+from+B「BからAを盗む」: こっそり盗む。日本語と近い感覚。A=盗まれるモノ。
+      rob+A+of+B「AからBを奪う」: 力ずくで奪う。A=場所や人、B=奪われるモノ。
+      → stealとrobでは後ろに置かれる要素の位置が逆。
+      ■ rob と同じパターンの動詞
+      deprive A of B: 権利や能力など目に見えない抽象的なものを奪う。
+      rid A of B: 厄介なものを取り除く。
+      → rob A of Bのパターンは Nar_01_14（nrv-014）でも既出。
+      ■ 「かく」の4動詞
+      write: 文字を書く。
+      draw: 鉛筆・クレヨン等を使って線で引いて「かく」。drawの基本イメージは「引く」（脚注*1: モノを手で引く、線で引く、預金を引き出す、注意を引く、結論を引き出す等）。
+      paint: ペンキや絵の具を用いて「かく」（「塗る」の意味でインプット）。
+      mark: 印をつける意味での「かく」。
+      [図表: イラスト — steal（こっそり盗む）とrob（銀行強盗）の比較（p.71）]
+      [図表: イラスト — write/draw/paintの3つの「かく」の比較（p.72）]
+      [図表: イラスト — mark（地図に印をつける）（p.73）]
+      別冊ポイント054（「かく」に関する重要動詞）参照
+
+  - id: "nrv-021"
+    name: "「思い出す」の動詞の使い分け（remind・remember・recollect・recall）"
+    category: "動詞語法と文型"
+    priority: "P2"
+    notes: |
+      ■ remind: 人の記憶を刺激して思い出させる
+      (1) remind A of[about] B「AにB（過去のこと）を思い出させる」: 写真や物をきっかけに過去の記憶を呼び起こす。
+      (2) remind A to V「Aに（これから）Vすることを気づかせる」: これからやるべき未来のことを気づかせる。
+      → of B = 過去のこと、to V = これからのこと。不定詞が「まだやっていないこと」を表すことと連動。
+      ■ remember: 意識して過去のことを思い出す → 覚えている
+      基本: 「（意識して）思い出す」→ 記憶に定着 →「（特に意識しなくても）覚えている」。
+      remember+that節: 節の内容を覚えている。
+      remember A to B「AのことをBによろしく伝える」: 特殊用法。
+      remember+to V / Ving: →p.197参照（定番もの）。
+      ■ recollect / recall: 意識的に思い出す
+      recollect+O: ばらばらになった過去の記憶を思い出す。不定詞は目的語にとれない。
+      recall+O: 過去のことを思い出す。不定詞は目的語にとれない。
+      [図表: 分岐図 — remind+Aの後にof B（過去）またはto V（未来）が続く構造（p.74）]
+      [図表: イラスト — rememberのイメージ（脳内の記憶から人を思い出す）（p.75）]
+      参考書内参照: →p.194（不定詞の「まだやっていないこと」）、→p.197（remember+toV/Ving）
+      別冊ポイント049（「記憶」に関する重要動詞）参照
+
+  - id: "nrv-022"
+    name: "「思いつく」と「着用」の動詞の使い分け"
+    category: "動詞語法と文型"
+    priority: "P2"
+    notes: |
+      ■ 「思いつく」の攻略ポイント: (1)自動詞or他動詞、(2)何が主語に置かれるか
+      ■ strike A〈他動詞〉: 「（考えなど）がA（人）の心に浮かぶ」
+      基本イメージ「打ち付ける、打ち当たる」→ 考えが人にコツンと当たる。主語は「考え」。
+      ■ occur to A〈自動詞〉: 「（考えなど）がA（人）の心に浮かぶ」
+      基本イメージ「起こる」→ 考えが人に起こる。occurは自動詞なのでtoが必要。主語は「考え」。
+      ■ hit on A / come up with A: 「（人が）A（考えなど）を思いつく」
+      人を主語にして使う点がstrikeやoccurと異なる。
+      ■ 「着用」は動作と状態の2種類
+      put on+O「Oを着る」《動作》: 着る動作そのもの。
+      wear+O「Oを着ている」《状態》: 着ている状態。wearは状態動詞が通例。
+      dress+O「Oに服を着せる」: be dressed in A「Aを着ている」《状態》、get dressed in A「Aを着る」《動作》。
+      in Aの部分は着用する服を話題にしなければ省略可（脚注*1）。
+      take off「脱ぐ」: put onの反対。
+      ■ 「服」関連の名詞
+      clothes: 衣服。cloth: 布きれ。clothing: （集合的に）衣類全般。
+      [図表: イラスト — strike（コツンと当たる）とoccur（モヤモヤ浮かぶ）の比較（p.76）]
+      [図表: イラスト — put on（着る動作）とwear（着ている状態）の比較（p.77）]
+      別冊ポイント050（「思いつく」に関する重要動詞）、051（「着用」に関する重要動詞）参照
+
+  - id: "nrv-023"
+    name: "意外な意味をもつ動詞の攻略法"
+    category: "動詞語法と文型"
+    priority: "P2"
+    notes: |
+      ■ 基本原則: 単語の基本的意味は原則1つ
+      辞書に多数の意味が載っていても、それらは基本イメージから前後の表現や光の当て方で意味が変わっているだけ。「多義語」で片づけず、意味の最大公約数を探す訓練が有効。
+      ■ run: 基本イメージ「止まらずに連続して流れる」
+      (1) トラックを流れる少年 → 走る（自動詞）
+      (2) 利根川が流れる → 流れる（自動詞）
+      (3) 会社が止まらず流れるようにする → 経営する（他動詞）
+      ■ meet: 基本イメージ「SとOがあう」
+      私と彼があう → 会う / 私と嵐があう → 遭遇する / 新商品とニーズがあう → 満たす。
+      ■ pay: 基本イメージ「支払う」
+      払った側 → 支出。払われた側 → 利益になる → 割に合う。視点の違いが意味の違いを生む。
+      [図表: イラスト — runのイメージ（走る少年・流れる川・会社の売上げグラフ）（p.78）]
+      [図表: イラスト — meetのイメージ（人と人が出会う・嵐に遭遇・新商品がニーズを満たす）（p.79）]
+      [図表: イラスト — payのイメージ（支払う→利益になる＝割に合う）（p.80）]
+      別冊ポイント023（意外な意味をもつ自動詞: work, matter, long, last, run, do, pay + 能動態で受動態の意味をもつsell/read）、024（意外な意味をもつ他動詞: meet, run, book, consult, stand, miss, practice, see, treat, put, sentence, fire, fail, cover, coin, enjoy, drive, produce, address）参照
+
+  - id: "nrv-024"
+    name: "受動態の意味的特徴"
+    category: "動詞語法と文型"
+    priority: "P1"
+    notes: |
+      ■ 文末焦点（End-Focus）の原則
+      英語は「旧情報」（既知）から始めて「新情報」（重要）を文末に置く傾向がある。受動態はこの情報構造を実現する手段。
+      ■ 受動態を使う3つの理由
+      (1) 誰がその行為をしたかをあえて表す必要がない（Letters are delivered every day. — 郵便屋さんと言わなくてもわかる）
+      (2) 誰がその行為をしたかが不明（The gate was painted last week. — 誰が塗ったかわからない）
+      (3) 誰がその行為をしたかをあえて言いたくない（The woman was killed. — 推理小説で犯人を隠す）
+      ■ 受動態+by〜の形は実は少ない
+      受動態に必ずしも〈by〜〉がつくとは限らない。あえて〈by+行為者〉を置くときは、その部分を「新情報＝重要情報」としてアピールしたいとき。
+      ■ 能動態≠受動態
+      能動態と受動態の単純な書き換え練習で「両者は意味的に等しい」とするのは百害あって一利なし。受動態には能動態では表現できない意味がある。
+      [図表: 情報構造図 — 既出の情報を文頭に、アピールしたい情報は文末へ（p.82）]
+      [図表: 旧情報/新情報ラベル — ItとLucyの会話で旧情報(It)と新情報(by a flood)を示す（p.82）]
+      [図表: イラスト — 郵便配達員が手紙を配達（p.83）]
+      [図表: イラスト — 門が塗装された（誰が？）（p.83）]
+      [図表: イラスト — 探偵と犯人特定の場面（p.83-84）]
+      参考書内参照: →PART15 **2**（文末焦点の詳細）
+      別冊ポイント067（by+A（行為者）が置かれない場合の3つの理由）参照
+
+  - id: "nrv-025"
+    name: "受動態の形式的特徴"
+    category: "動詞語法と文型"
+    priority: "P1"
+    notes: |
+      ■ 受動態には他動詞が最適
+      受動態は目的語を主語に移してつくる。他動詞は後ろに目的語を必要とするので受動態にもってこい。
+      脚注*1: 受動態をつくらない他動詞もある: like, want, contain, have, approach, become, cost, enter, reach, resemble等。主語が動詞の作用や行為を受けるわけではない場合。
+      ■ 自動詞を使って受動態をつくる抜け道
+      laughは自動詞だが、〈laugh at〉を1つのカタマリ（句動詞）と見なすと他動詞と同様に目的語をとれる。受動態にするとatとbyが連続するが、atは省略できない。
+      脚注*2: He runs fast. のような自動詞単独の文は受動態にできない。
+      ■ 受動態は能動態と比べてOが1つ欠ける
+      (a) 〈S+V+O〉→受動態→〈S+V〉（Oが1つ欠落）
+      (b) 〈S+V+O₁+O₂〉→受動態→〈S+V+O₂〉（O₁が欠落）
+      脚注*3: O₂を主語にすることも可能だが全ての第4文型動詞でできるわけではない。
+      (c) 〈S+V+O+C〉→受動態→〈S+V+C〉（Oが欠落）
+      [図表: イラスト — シェイクスピアとリア王（能動態→受動態の変換）（p.85）]
+      [図表: イラスト — エマと呼ばれる女性（第5文型の受動態）（p.86）]
+      別冊ポイント066（受動態の形式的な特徴: 3パターンの詳細）、068（句動詞の受動態: 前置詞の後ろが不足する形）、069（受動態で狙われる句動詞: speak to, take care of, run over, laugh at, look at, look up to）、070（by以外の前置詞と結びつくbe V.p.p.表現: with/at/in）、071（前置詞によって意味変化: be known to/as/for）参照
+
+  - id: "nrv-017"
+    name: "「貸し借り」の動詞の使い分け"
+    category: "動詞語法と文型"
+    priority: "P2"
+    notes: |
+      ■ 攻略の2つのコツ
+      (1) 無料 or 有料？ (2) どんな文型（パターン）で用いるか？
+      ■ 無料での「貸し借り」
+      lend+O₁+O₂ [O₂+to+O₁]「O₁にO₂を貸す」: 無料でモノを貸す。
+      borrow A from B「BからAを借りる」: 無料で移動可能なものを借りる。
+      use+O「Oを借りる」: トイレや場所など移動不可能なものを借りる場合（脚注*1: 実際には区別はあいまい）。
+      銀行などからのお金の貸し借り: lend/borrowを使うが利子は発生する。
+      ■ 有料での「貸し借り」
+      rent+O₁+O₂ [O₂+to+O₁]「O₁にO₂を貸す」/ rent A from B「BからAを借りる」: 家や車などを有料で。
+      rentは1つの単語で「貸す」「借りる」のどちらの意味にもなる一挙両得な動詞。
+      B（借りる相手）を言いたくないなら省略可能。お金の貸し借りにはrentは使わない。
+      hire+O「Oを（一時的に）借りる」: 車を一時的に借りたり、人を一時的に雇ったりする際に最適。
+      hire outで「（一時的に）貸す」の意味にもなる（脚注*2）。
+      ■ その他
+      loan+O₁+O₂ [O₂+to+O₁]: （有利子で）お金を貸す。lendと同様に無料でモノを貸す意味でもよく使われる。
+      let+O₁+O₂ [O₂+to+O₁]:「貸す」の意味のrentとほぼ同様。主にイギリス英語。
+      lease+O: 契約書を交わして土地・建物・車などを有料で借りる/貸す。
+      owe+O₁+O₂: 「O₁にO₂を借りている」（状態動詞）。
+      [図表: イラスト — lend（無料で貸す）とborrow A from B（無料で借りる）の対比（p.63）]
+      [図表: イラスト — rent（有料で貸す）とrent A from B（有料で借りる）の対比（p.64）]
+      別冊ポイント044（「貸し借り」に関する重要動詞の全体整理）参照
+
+  - id: "nrv-018"
+    name: "「疑う」の動詞の使い分け（suspect・doubt・wonder）"
+    category: "動詞語法と文型"
+    priority: "P2"
+    notes: |
+      ■ suspectとdoubtは正反対
+      suspect that SV ～「（肯定的に）～だと思う」≒ think that SV ～。不審な点があり～だと思う。通例、好ましくないことに用いる。
+      doubt that SV ～「（否定的に）～でないと思う」≒ don't think that SV ～。証拠や確信がなく、事実だとは思わないことを表す。
+      → 「suspectもdoubtも疑う」では通用しない。
+      ■ wonderの正しい意味
+      基本の意味: 「～を疑問に思う、不思議に思う」。Alice in Wonderland（不思議の国のアリス）から連想。
+      (1) wonder if[whether]+SV ～「～を知りたいと思う」: ifやwhetherの他にwhen, howなどの疑問詞も置ける（脚注*1）。
+      (2) wonder that+SV ～「～ということに驚く」: that節をとると「驚く」の意味になることがある。It's a wonder (that)+SV ～とする方が一般的（脚注*2）。
+      ■ 接続詞と動詞の相性
+      if/whether（～かどうか）→ askやwonderなど「疑問系」の動詞と相性がよい。
+      that → 事実や断定的な事柄を述べる際の目印。
+      [図表: イラスト — suspect（犯人かなぁ…？）とdoubt（犯人じゃない！）の対比（p.66）]
+      別冊ポイント046（「疑う」に関する重要動詞）、047（wonderの語法）参照
+
+  - id: "nrv-019"
+    name: "「合う」の動詞の使い分け（fit・suit・match・agree with・become）"
+    category: "動詞語法と文型"
+    priority: "P2"
+    notes: |
+      ■ 日本語では「合う」1つで済むが、英語では5つの動詞を使い分ける
+      ■ fit: サイズが合う
+      サイズや型がピッタリであること。日本語の「フィットする」と同じ感覚。
+      ■ suit: そろっている
+      スーツ（ジャケット+パンツ）が上下そろっている → 合っている、調和しているに広がる。
+      脚注*1: suitの根本の意味は「後に続く」。「一連のもの」から「洋服一式」へ、「一貫した追及」から「訴訟」へ発展。
+      ■ match: モノとモノとの調和
+      モノと人との調和には使えない。あくまでもモノとモノの調和。
+      match ≒ go with で書き換え可能。
+      脚注*2: matchは「色や量で同様、釣り合い→調和」、go withは「似合っている」の意味合いが強い。
+      ■ agree with: 食べ物・気候など周辺環境との適応
+      主に食べ物や気候など周辺環境と人との適応を表す場合に使う。
+      ■ become: 達する → 似合う
+      基本の意味は「（変化や成長などによってふさわしい状態に）達する」。
+      「達する」と「合う」は表裏一体。基準に達している → 基準に合っている。
+      脚注*3: becomeを「似合う」の意味で用いるのは現在ではまれ。suitが一般的。
+      [図表: イラスト — 靴が足にフィットしている（fit）（p.68）]
+      [図表: イラスト — スーツを着た男性（suit）（p.68）]
+      [図表: イラスト — ドレスとバッグの調和（match）（p.69）]
+      [図表: イラスト — 青いシャツを着た女性（become）（p.70）]
+      別冊ポイント048（「似合う・合う」に関する重要動詞）参照
 
 understanding_goals:
   # nrv-001
@@ -490,6 +776,135 @@ understanding_goals:
   - node_id: "nrv-012"
     seq: 4
     goal: "前置詞の基本イメージから〈V+A+前置詞+B〉パターンの動詞の意味を推測する方法を実践できる"
+  # nrv-013
+  - node_id: "nrv-013"
+    seq: 1
+    goal: "forの基本イメージ「意識が向かう先」から「理由」と「交換」の2つの意味を導出できる"
+  - node_id: "nrv-013"
+    seq: 2
+    goal: "V+A+for+Bの交換パターンでBに優位なものが置かれるルールを説明できる"
+  - node_id: "nrv-013"
+    seq: 3
+    goal: "asの基本イメージ「イコール」からV+A+as+B型動詞の共通意味「見なす」を説明できる"
+  - node_id: "nrv-013"
+    seq: 4
+    goal: "未知のV+A+for+B / V+A+as+B型動詞の意味を前置詞のイメージから推測できる"
+  # nrv-014
+  - node_id: "nrv-014"
+    seq: 1
+    goal: "ofの基本イメージ「分離」から「分離・除去」と「知らせる」の2系統を導出できる"
+  - node_id: "nrv-014"
+    seq: 2
+    goal: "V+A+of+Bの「知らせる」系動詞がof Bをthat節で書き換えられることを説明できる"
+  - node_id: "nrv-014"
+    seq: 3
+    goal: "onの基本イメージ「接触→のしかかる」からV+A+on+B型の意味を説明できる"
+  - node_id: "nrv-014"
+    seq: 4
+    goal: "rob A of BとstealA from Bの型の違い（奪われる人とモノの位置が逆）を説明できる"
+  # nrv-015
+  - node_id: "nrv-015"
+    seq: 1
+    goal: "toの基本イメージ「到達」からV+A+to+B型の3つの意味（合わせる/加える/制限）を導出できる"
+  - node_id: "nrv-015"
+    seq: 2
+    goal: "V+A+to+B型動詞の具体例を各意味カテゴリごとに挙げられる"
+  - node_id: "nrv-015"
+    seq: 3
+    goal: "受動態や状況に応じてパターンの一部（Aやto+B）が省略・移動されるケースに気づける"
+  # nrv-020
+  - node_id: "nrv-020"
+    seq: 1
+    goal: "stealとrobのパターンの違い（steal A from B vs rob A of B）と意味の違いを説明できる"
+  - node_id: "nrv-020"
+    seq: 2
+    goal: "deprive A of BとridA of Bのrobとの共通パターンと意味の違いを説明できる"
+  - node_id: "nrv-020"
+    seq: 3
+    goal: "write, draw, paint, markの「かく」を目的語に応じて使い分けられる"
+  # nrv-021
+  - node_id: "nrv-021"
+    seq: 1
+    goal: "remind A of B（過去）とremind A to V（未来）の使い分けを説明できる"
+  - node_id: "nrv-021"
+    seq: 2
+    goal: "rememberの「思い出す」と「覚えている」の2つの意味を使い分けられる"
+  - node_id: "nrv-021"
+    seq: 3
+    goal: "recollect/recallがrememberと異なり不定詞を目的語にとれないことを説明できる"
+  # nrv-022
+  - node_id: "nrv-022"
+    seq: 1
+    goal: "strike A（他動詞）とoccur to A（自動詞）の違いと主語の置き方を説明できる"
+  - node_id: "nrv-022"
+    seq: 2
+    goal: "hit on A / come up with Aが人を主語にする点でstrike/occurと異なることを説明できる"
+  - node_id: "nrv-022"
+    seq: 3
+    goal: "put on（動作）・wear（状態）・dress（着せる）の使い分けを説明できる"
+  # nrv-023
+  - node_id: "nrv-023"
+    seq: 1
+    goal: "run, meet, payなどの意外な意味を基本イメージから導出できる"
+  - node_id: "nrv-023"
+    seq: 2
+    goal: "単語の基本的意味は原則1つであり、前後の表現で意味が変わるという考え方を説明できる"
+  - node_id: "nrv-023"
+    seq: 3
+    goal: "多義語の意味を最大公約数化する方法を説明できる"
+  # nrv-024
+  - node_id: "nrv-024"
+    seq: 1
+    goal: "文末焦点（旧情報→新情報）の原則を説明できる"
+  - node_id: "nrv-024"
+    seq: 2
+    goal: "受動態を使う3つの理由（不要・不明・隠したい）を説明できる"
+  - node_id: "nrv-024"
+    seq: 3
+    goal: "by+行為者を置く場合と省略する場合の意図の違いを説明できる"
+  # nrv-025
+  - node_id: "nrv-025"
+    seq: 1
+    goal: "受動態には他動詞が最適である理由を説明できる"
+  - node_id: "nrv-025"
+    seq: 2
+    goal: "自動詞+前置詞（句動詞）で受動態をつくる方法と前置詞が残る理由を説明できる"
+  - node_id: "nrv-025"
+    seq: 3
+    goal: "受動態でOが1つ欠ける法則を3つの文型パターン（SVO/SVOO/SVOC）で説明できる"
+  # nrv-017
+  - node_id: "nrv-017"
+    seq: 1
+    goal: "「貸し借り」の動詞を無料/有料の軸で分類できる"
+  - node_id: "nrv-017"
+    seq: 2
+    goal: "lend/borrowの文型パターン（lend+O₁+O₂ / borrow A from B）を正確に使える"
+  - node_id: "nrv-017"
+    seq: 3
+    goal: "rentが「貸す」「借りる」の両方の意味で使えることを説明できる"
+  - node_id: "nrv-017"
+    seq: 4
+    goal: "hire, loan, let, lease, oweの意味と使い分けを説明できる"
+  # nrv-018
+  - node_id: "nrv-018"
+    seq: 1
+    goal: "suspectとdoubtのthat節の意味が正反対であることを説明できる"
+  - node_id: "nrv-018"
+    seq: 2
+    goal: "wonderのif/whether節（疑問に思う）とthat節（驚く）の意味の違いを説明できる"
+  - node_id: "nrv-018"
+    seq: 3
+    goal: "接続詞（if/whether vs that）と動詞の意味の相性を説明できる"
+  # nrv-019
+  - node_id: "nrv-019"
+    seq: 1
+    goal: "fit（サイズ）・suit（調和）・match（モノとモノ）・agree with（環境適応）・become（似合う）の違いを説明できる"
+  - node_id: "nrv-019"
+    seq: 2
+    goal: "matchが人に対して使えないことを説明できる"
+  - node_id: "nrv-019"
+    seq: 3
+    goal: "becomeの「達する」から「似合う」への意味展開を説明できる"
   # nrv-016
   - node_id: "nrv-016"
     seq: 1
@@ -708,6 +1123,206 @@ check_points:
     seq: 4
     question: "She translated an Italian novel into English. のA→Bの関係は「移動」と「変化」のどちらか？"
     answer: "変化。イタリア語の小説（A）が変化して英語（B）になるイメージ。translateは「変化」カテゴリの動詞。"
+  # nrv-013
+  - node_id: "nrv-013"
+    seq: 1
+    question: "〈V+A+for+B〉の2つの意味パターンは？"
+    answer: "❶Bを理由にAを〜する（賞罰の動詞: thank, blame, punish等）、❷AをBと交換する（交換のfor: exchange, pay, sell, buy, substitute等）。Bに優位なものが置かれる。"
+  - node_id: "nrv-013"
+    seq: 2
+    question: "substitute A for Bの意味は？ replace との書き換えは？"
+    answer: "substitute A for B = AをBの代用にする。replace B with[by] Aに書き換え可能。AとBの位置が入れ替わる。"
+  - node_id: "nrv-013"
+    seq: 3
+    question: "〈V+A+as+B〉型の動詞に共通する意味は？ lookやthinkを使う際の注意点は？"
+    answer: "「AをBとみなす・考える」。asはA=Bの意味関係を表す。lookはon[upon]、thinkはofを伴わないとこの形式で使えない（look on A as B, think of A as B）。"
+  - node_id: "nrv-013"
+    seq: 4
+    question: "blame A for B と blame B on A の違いは？"
+    answer: "blame A for B: Bの責任がAにあると思う（A=人, B=理由）。blame B on A: BをAのせいにする（B=事物, A=人）。AとBの位置が逆。"
+  # nrv-014
+  - node_id: "nrv-014"
+    seq: 1
+    question: "〈V+A+of+B〉の2つの主要な意味は？"
+    answer: "❶AからBを分離・除去する（rob, deprive, strip, cure等）、❷AにBに関して知らせる（remind, inform, warn, convince等）。ofの基本「分離」と派生「関連」。"
+  - node_id: "nrv-014"
+    seq: 2
+    question: "rob A of B の意味は？ steal との型の違いは？"
+    answer: "rob A of B = AからBを（力ずくで）奪う。steal A from B = BからAを（こっそり）盗む。奪われる人とモノの位置が逆。"
+  - node_id: "nrv-014"
+    seq: 3
+    question: "〈V+A+on+B〉の2つの意味は？ onのイメージとの関係は？"
+    answer: "❶AをBに課す（impose, force等）、❷A（責任等）をBになすりつける（blame B on A）。onの「接触→のしかかる・べったり」のイメージ。"
+  - node_id: "nrv-014"
+    seq: 4
+    question: "remind A of B の of を別の前置詞に置き換えられるか？ that節での書き換えは？"
+    answer: "ofをaboutにしてもOK（remind, inform, notify, warn）。また「知らせる」系動詞はof Bをthat節で書き換え可能（例: convince me of her sincerity = convince me that she was sincere）。"
+  # nrv-015
+  - node_id: "nrv-015"
+    seq: 1
+    question: "〈V+A+to+B〉の3つの意味パターンは？"
+    answer: "❶AをBに合わせる（adapt, adjust等）、❷AをBに加える（add, attach等）、❸AをBに制限・限定する（limit, restrict, reduce等）。toの「到達」の派生。"
+  - node_id: "nrv-015"
+    seq: 2
+    question: "attribute A to B の意味は？ contribute A to B との違いは？"
+    answer: "attribute A to B = A(結果)をB(原因)のせいにする。contribute A to B = AをBに提供する。-ute動詞だが意味は異なる。"
+  - node_id: "nrv-015"
+    seq: 3
+    question: "〈V+A+前置詞+B〉パターンが受動態で崩れる例は？"
+    answer: "remind A of B → She was reminded of her childhood. Aが主語に移動しAの位置が空になる。パターンを知っていれば受動態でも理解可能。"
+  - node_id: "nrv-015"
+    seq: 4
+    question: "add A to Bで状況によりto Bやを書かないことがあるか？"
+    answer: "ある。何に加えるかが明確ならto Bを省略可能。何を加えるかが明確ならAも省略可能。"
+  # nrv-017
+  - node_id: "nrv-017"
+    seq: 1
+    question: "無料で「貸す」「借りる」を表す動詞と文型パターンは？"
+    answer: "貸す: lend+O₁+O₂ [O₂+to+O₁]。借りる: borrow A from B（移動可能なもの）、use+O（移動不可能なもの）。"
+  - node_id: "nrv-017"
+    seq: 2
+    question: "rentの「貸す」と「借りる」はどう使い分けるか？"
+    answer: "貸す: rent+O₁+O₂ [O₂+to+O₁]。借りる: rent A from B。1つの単語で「貸す」「借りる」の両方の意味で使える。お金の貸し借りには使わない。"
+  - node_id: "nrv-017"
+    seq: 3
+    question: "hireの基本イメージは？ 「貸す」の意味で使えるか？"
+    answer: "基本は「一時的」。車を一時的に借りたり、人を一時的に雇う場合に使う。hire outで「一時的に貸す」の意味にもなる。"
+  - node_id: "nrv-017"
+    seq: 4
+    question: "loan, let, leaseの使い分けは？"
+    answer: "loan: 有利子でお金を貸す。lendと同様に無料でモノを貸す意味でもよく使われる。let: 有料で部屋等を貸す（主にイギリス英語）。lease: 契約書を交わして土地・建物・車等を有料で貸借。"
+  - node_id: "nrv-017"
+    seq: 5
+    question: "owe+O₁+O₂の意味と注意点は？"
+    answer: "「O₁にO₂を借りている」。状態動詞であることに注意（進行形にしない）。"
+  # nrv-018
+  - node_id: "nrv-018"
+    seq: 1
+    question: "suspect that SV と doubt that SV の意味の違いは？"
+    answer: "suspect that SV = 肯定的に～だと思う（≒ think that SV）。doubt that SV = 否定的に～でないと思う（≒ don't think that SV）。正反対の意味。"
+  - node_id: "nrv-018"
+    seq: 2
+    question: "wonder if SV と wonder that SV の意味の違いは？"
+    answer: "wonder if[whether] SV = ～を知りたいと思う、疑問に思う。wonder that SV = ～ということに驚く。接続詞が変わると意味が変わる。"
+  - node_id: "nrv-018"
+    seq: 3
+    question: "if/whetherとthatはそれぞれどんな種類の動詞と相性がよいか？"
+    answer: "if/whether（～かどうか）→ ask, wonderなど疑問系の動詞と相性がよい。that → 事実や断定的な事柄を述べる動詞（think, believe等）と相性がよい。"
+  # nrv-019
+  - node_id: "nrv-019"
+    seq: 1
+    question: "fitとsuitの「合う」の違いは？"
+    answer: "fit: サイズや型がピッタリ合っている。suit: 色・柄・雰囲気などが一式そろって合っている、調和している。"
+  - node_id: "nrv-019"
+    seq: 2
+    question: "matchはどんな「合う」か？ 人に対して使えるか？"
+    answer: "matchはモノとモノとの調和。人とモノの調和には使えない。go withとほぼ同義で書き換え可能。"
+  - node_id: "nrv-019"
+    seq: 3
+    question: "agree withはどんな場面で使うか？"
+    answer: "食べ物や気候など周辺環境と人との適応を表す場合。例: Pork doesn't agree with her.（豚肉は彼女に合わない）"
+  - node_id: "nrv-019"
+    seq: 4
+    question: "becomeが「似合う」の意味になるのはなぜか？ 現在もよく使われるか？"
+    answer: "基本の意味「達する」から、基準に達している→基準に合っている→似合うと広がった。ただし現在ではまれで、suitを使うのが一般的。"
+  # nrv-020
+  - node_id: "nrv-020"
+    seq: 1
+    question: "steal A from B と rob A of B の違いは？ A/Bに置かれるものは？"
+    answer: "steal A from B: Aは盗まれるモノ、Bは場所や人（こっそり盗む）。rob A of B: Aは場所や人、Bは奪われるモノ（力ずくで奪う）。AとBの位置が逆。"
+  - node_id: "nrv-020"
+    seq: 2
+    question: "deprive A of B と rid A of B の意味の違いは？ rob との共通点は？"
+    answer: "deprive A of B: 権利や能力など抽象的なものを奪う。rid A of B: 厄介なものを取り除く。いずれも rob A of B と同じ〈V+A+of+B〉型。"
+  - node_id: "nrv-020"
+    seq: 3
+    question: "drawの基本イメージは？ 「かく」以外にどんな意味があるか？"
+    answer: "基本イメージは「引く」。モノを手で引く、線で引いて「かく」、預金を引き出す、注意を引く、結論を引き出す等。"
+  - node_id: "nrv-020"
+    seq: 4
+    question: "write, draw, paint, mark はそれぞれどんな「かく」か？"
+    answer: "write: 文字を書く。draw: 鉛筆等で線を引いてかく。paint: ペンキや絵の具を用いてかく（塗る）。mark: 印をつける意味でかく。"
+  # nrv-021
+  - node_id: "nrv-021"
+    seq: 1
+    question: "remind A of B と remind A to V の違いは？ なぜ of は過去、to V は未来に対応するか？"
+    answer: "of B: A に B（過去のこと）を思い出させる。to V: A に（これから）V することを気づかせる。不定詞は「まだやっていないこと」を表すため、未来と対応する。"
+  - node_id: "nrv-021"
+    seq: 2
+    question: "rememberの意味が「思い出す」から「覚えている」に展開するのはなぜか？"
+    answer: "意識して過去のことを思い出す → 記憶に定着 → 特に意識しなくても覚えている、という流れで意味が拡張した。"
+  - node_id: "nrv-021"
+    seq: 3
+    question: "recollect/recall と remember の違いは？ 不定詞との関係は？"
+    answer: "recollect/recall: 意識的に過去の記憶を思い出す。不定詞を目的語にとれない。remember: 不定詞も動名詞も目的語にとれる（→p.197）。"
+  - node_id: "nrv-021"
+    seq: 4
+    question: "remember A to B はどういう意味か？"
+    answer: "「A のことを B によろしく伝える」。remember の特殊用法。"
+  # nrv-022
+  - node_id: "nrv-022"
+    seq: 1
+    question: "strike A と occur to A の違いは？ 主語には何が置かれるか？"
+    answer: "strike A: 他動詞（前置詞不要）。occur to A: 自動詞（toが必要）。どちらも主語は「考え」で、人は目的語（A）側に置く。"
+  - node_id: "nrv-022"
+    seq: 2
+    question: "hit on A / come up with A が strike/occur と異なる点は？"
+    answer: "hit on A / come up with A は人を主語にして使う。strike/occur は考えが主語。"
+  - node_id: "nrv-022"
+    seq: 3
+    question: "put on, wear, dress の違いは？ dressの受動態は？"
+    answer: "put on+O: 着る動作。wear+O: 着ている状態（状態動詞）。dress+O: Oに服を着せる。be dressed in A: Aを着ている（状態）。get dressed in A: Aを着る（動作）。"
+  - node_id: "nrv-022"
+    seq: 4
+    question: "clothes, cloth, clothing の違いは？"
+    answer: "clothes: 衣服。cloth: 布きれ。clothing: 集合的に衣類全般。"
+  # nrv-023
+  - node_id: "nrv-023"
+    seq: 1
+    question: "runの3つの意味（走る・流れる・経営する）に共通する基本イメージは？"
+    answer: "「止まらずに連続して流れる」。少年がトラックを流れる→走る、川が流れる→流れる、会社が止まらず流れるようにする→経営する。"
+  - node_id: "nrv-023"
+    seq: 2
+    question: "meetに「満たす」の意味があるのはなぜか？"
+    answer: "meetの基本は「SとOがあう」。新商品とお客のニーズがあう→ニーズを満たす。会うの一種。"
+  - node_id: "nrv-023"
+    seq: 3
+    question: "payに「割に合う」の意味があるのはなぜか？"
+    answer: "「支払う」の視点を変えたもの。払った側→支出、払われた側→利益になる。「利益になる」が「割に合う」に展開。"
+  # nrv-024
+  - node_id: "nrv-024"
+    seq: 1
+    question: "英語の「文末焦点」の原則とは？ 受動態との関係は？"
+    answer: "既知の情報（旧情報）を文頭に、重要な情報（新情報）を文末に置く原則。受動態はこの情報構造を実現する手段。"
+  - node_id: "nrv-024"
+    seq: 2
+    question: "受動態を使う3つの理由は？"
+    answer: "(1)誰がしたかを表す必要がない（郵便配達は自明）、(2)誰がしたかが不明（門の塗装者不明）、(3)誰がしたかをあえて言いたくない（推理小説で犯人を隠す）。"
+  - node_id: "nrv-024"
+    seq: 3
+    question: "受動態にby〜を付けるのはどんなときか？"
+    answer: "by+行為者を「新情報＝重要情報」として文末でアピールしたいとき。by a floodで「洪水なんだ！」と焦点を当てる。"
+  - node_id: "nrv-024"
+    seq: 4
+    question: "能動態と受動態は意味的に等しいか？"
+    answer: "等しくない。受動態には能動態では表現できない意味（情報構造・行為者の隠蔽等）がある。単純な書き換え練習は百害あって一利なし。"
+  # nrv-025
+  - node_id: "nrv-025"
+    seq: 1
+    question: "受動態には他動詞が最適である理由は？ 受動態にできない他動詞の例は？"
+    answer: "受動態は目的語を主語に移すので、目的語がある他動詞が最適。ただしresemble, contain, cost等は主語が動詞の作用を受けないため受動態にしない。"
+  - node_id: "nrv-025"
+    seq: 2
+    question: "自動詞laughで受動態をつくるにはどうするか？ atは省略できるか？"
+    answer: "laugh at を1つの句動詞と見なして他動詞と同様に扱う。Mary was laughed at by her friends. atは省略不可。Maryがatの後ろから移動しただけ。"
+  - node_id: "nrv-025"
+    seq: 3
+    question: "受動態で「Oが1つ欠ける」法則を3パターンで説明せよ。"
+    answer: "(a) SVO→SV（Oが欠落）、(b) SVO₁O₂→SVO₂（O₁が欠落）、(c) SVOC→SVC（Oが欠落）。いずれも能動態からOが1つ消えた形。"
+  - node_id: "nrv-025"
+    seq: 4
+    question: "Joe gave me this ring. の受動態を2種類つくれるか？"
+    answer: "I was given this ring by Joe.（O₁を主語）と This ring was given to me by Joe.（O₂を主語）。ただし全ての第4文型動詞で2種類つくれるわけではない。"
   # nrv-016
   - node_id: "nrv-016"
     seq: 1
@@ -751,6 +1366,29 @@ node_prerequisites:
     prerequisite_id: "nrv-010"
   - node_id: "nrv-012"
     prerequisite_id: "nrv-011"
+  - node_id: "nrv-013"
+    prerequisite_id: "nrv-011"
+  - node_id: "nrv-014"
+    prerequisite_id: "nrv-011"
+  - node_id: "nrv-015"
+    prerequisite_id: "nrv-011"
+
+  - node_id: "nrv-017"
+    prerequisite_id: "nrv-010"
+  - node_id: "nrv-018"
+    prerequisite_id: "nrv-010"
+  - node_id: "nrv-019"
+    prerequisite_id: "nrv-010"
+  - node_id: "nrv-020"
+    prerequisite_id: "nrv-010"
+  - node_id: "nrv-021"
+    prerequisite_id: "nrv-010"
+  - node_id: "nrv-022"
+    prerequisite_id: "nrv-010"
+  - node_id: "nrv-023"
+    prerequisite_id: "nrv-010"
+  - node_id: "nrv-025"
+    prerequisite_id: "nrv-024"
 
 knowledge_references:
   - node_id: "nrv-001"
@@ -801,7 +1439,55 @@ knowledge_references:
     book: "成川の深めて解ける！英文法 INPUT"
     section_id: "Nar_01_12"
     pages: "p.48-50"
+  - node_id: "nrv-013"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_13"
+    pages: "p.51-53"
+  - node_id: "nrv-014"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_14"
+    pages: "p.54-56"
+  - node_id: "nrv-015"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_15"
+    pages: "p.57-59"
   - node_id: "nrv-016"
     book: "成川の深めて解ける！英文法 INPUT"
     section_id: "Nar_01_16"
     pages: "p.60-62"
+  - node_id: "nrv-017"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_17"
+    pages: "p.63-65"
+  - node_id: "nrv-018"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_18"
+    pages: "p.66-67"
+  - node_id: "nrv-019"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_19"
+    pages: "p.68-70"
+  - node_id: "nrv-020"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_20"
+    pages: "p.71-73"
+  - node_id: "nrv-021"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_21"
+    pages: "p.74-75"
+  - node_id: "nrv-022"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_22"
+    pages: "p.76-77"
+  - node_id: "nrv-023"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_01_23"
+    pages: "p.78-80"
+  - node_id: "nrv-024"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_02_01"
+    pages: "p.82-84"
+  - node_id: "nrv-025"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_02_02"
+    pages: "p.85-88"

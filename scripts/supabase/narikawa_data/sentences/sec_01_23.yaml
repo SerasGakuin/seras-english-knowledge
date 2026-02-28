@@ -1,0 +1,55 @@
+# Nar_01_23: 意外な意味をもつ自動詞や他動詞（p.78-80）
+
+sentences:
+  - id: "nar-0123-e106"
+    section_id: "Nar_01_23"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "The boy ran in the 400-meter race."
+    japanese: "少年は400メートル競走を走った"
+    notes: "run: 止まらずに連続して流れる → 走る"
+  - id: "nar-0123-e107"
+    section_id: "Nar_01_23"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "The Tone River runs in front of my house."
+    japanese: "利根川が私の家の前を流れている"
+    notes: "run: 止まらずに連続して流れる → 流れる（自動詞）"
+  - id: "nar-0123-e108"
+    section_id: "Nar_01_23"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "Mami runs a restaurant in Ginza."
+    japanese: "マミは銀座でレストランを経営している"
+    notes: "run: 止まらずに連続して流れるようにする → 経営する（他動詞）"
+
+sentence_structures:
+  - sentence_id: "nar-0123-e106"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0123-e106"
+    label: "details"
+    value: "<The boy>(S) ran(V) [in the 400-meter race](M:前置詞句) ※第1文型。自動詞run"
+  - sentence_id: "nar-0123-e107"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0123-e107"
+    label: "details"
+    value: "<The Tone River>(S) runs(V) [in front of my house](M:前置詞句) ※第1文型。自動詞run「流れる」"
+  - sentence_id: "nar-0123-e108"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0123-e108"
+    label: "details"
+    value: "<Mami>(S) runs(V) <a restaurant>(O) [in Ginza](M:前置詞句) ※第3文型。他動詞run「経営する」"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0123-e106"
+    node_id: "nrv-023"
+  - sentence_id: "nar-0123-e107"
+    node_id: "nrv-023"
+  - sentence_id: "nar-0123-e108"
+    node_id: "nrv-023"

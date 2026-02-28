@@ -1,0 +1,103 @@
+# Nar_01_22: 「思いつく」「着用」の意味をもつ動詞（p.76-77）
+
+sentences:
+  - id: "nar-0122-e102"
+    section_id: "Nar_01_22"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "The idea suddenly struck him."
+    japanese: "その考えが突然彼の心に浮かんだ"
+    notes: "strike A〈他動詞〉: 考えがA（人）の心に浮かぶ。基本イメージ「打ち付ける」"
+  - id: "nar-0122-v001"
+    section_id: "Nar_01_22"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "The idea suddenly occurred to him."
+    japanese: "その考えが突然彼の心に浮かんだ"
+    notes: "▶例文。occur to A〈自動詞〉: 考えがA（人）の心に浮かぶ。基本イメージ「起こる」"
+  - id: "nar-0122-e103"
+    section_id: "Nar_01_22"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "He hit on a bright idea."
+    japanese: "彼にすばらしいアイディアがわいた"
+    notes: "hit on A: 人が主語で「Aを思いつく」。come up with Aとも"
+  - id: "nar-0122-e104"
+    section_id: "Nar_01_22"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "She put on her purple sweater."
+    japanese: "彼女は紫色のセーターを着た"
+    notes: "put on+O: 着る《動作》"
+  - id: "nar-0122-e105"
+    section_id: "Nar_01_22"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "She wore a purple sweater."
+    japanese: "彼女は紫色のセーターを着ていた"
+    notes: "wear+O: 着ている《状態》。状態動詞"
+  - id: "nar-0122-v002"
+    section_id: "Nar_01_22"
+    drill: 0
+    number: 6
+    role: "example"
+    english: "They were dressed alike."
+    japanese: "彼らは同じような服を着ていた"
+    notes: "▶例文（脚注*1）。be dressed in A: Aを着ている（状態）。in A省略可"
+
+sentence_structures:
+  - sentence_id: "nar-0122-e102"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0122-e102"
+    label: "details"
+    value: "<The idea>(S:考え) suddenly(M:副詞) struck(V) <him>(O:人) ※他動詞。主語は「考え」"
+  - sentence_id: "nar-0122-v001"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0122-v001"
+    label: "details"
+    value: "<The idea>(S:考え) suddenly(M:副詞) occurred(V) [to him](M:前置詞句) ※自動詞+to。主語は「考え」"
+  - sentence_id: "nar-0122-e103"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0122-e103"
+    label: "details"
+    value: "<He>(S:人) hit(V) [on a bright idea](M:前置詞句) ※人が主語。hit on=自動詞+前置詞"
+  - sentence_id: "nar-0122-e104"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0122-e104"
+    label: "details"
+    value: "<She>(S) put on(V:句動詞) <her purple sweater>(O) ※着る《動作》"
+  - sentence_id: "nar-0122-e105"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0122-e105"
+    label: "details"
+    value: "<She>(S) wore(V) <a purple sweater>(O) ※着ている《状態》"
+  - sentence_id: "nar-0122-v002"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0122-v002"
+    label: "details"
+    value: "<They>(S) were dressed(V:受動態) <alike>(C:副詞的形容詞) ※be dressed=着ている（状態）"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0122-e102"
+    node_id: "nrv-022"
+  - sentence_id: "nar-0122-v001"
+    node_id: "nrv-022"
+  - sentence_id: "nar-0122-e103"
+    node_id: "nrv-022"
+  - sentence_id: "nar-0122-e104"
+    node_id: "nrv-022"
+  - sentence_id: "nar-0122-e105"
+    node_id: "nrv-022"
+  - sentence_id: "nar-0122-v002"
+    node_id: "nrv-022"

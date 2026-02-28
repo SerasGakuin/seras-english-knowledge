@@ -1,0 +1,103 @@
+# Nar_01_17: 「貸し借り」の意味をもつ動詞（p.63-65）
+
+sentences:
+  - id: "nar-0117-e074"
+    section_id: "Nar_01_17"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "He lent his car to a friend."
+    japanese: "彼は友達に車を貸した"
+    notes: "lend+O₂+to+O₁。無料で貸す"
+  - id: "nar-0117-e075"
+    section_id: "Nar_01_17"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "I borrowed the book from him."
+    japanese: "私は彼からその本を借りた"
+    notes: "borrow A from B。無料で借りる（移動可能なもの）"
+  - id: "nar-0117-e076"
+    section_id: "Nar_01_17"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "The owner rents rooms to students."
+    japanese: "家主は学生に部屋を貸している"
+    notes: "rent+O₂+to+O₁。有料で貸す"
+  - id: "nar-0117-e077"
+    section_id: "Nar_01_17"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "I rent this apartment from her."
+    japanese: "私は彼女からこのアパートを借りている"
+    notes: "rent A from B。有料で借りる"
+  - id: "nar-0117-e078"
+    section_id: "Nar_01_17"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "I let a room to him."
+    japanese: "私は彼に部屋を貸している"
+    notes: "let≒rent。主にイギリス英語。let+O₂+to+O₁"
+  - id: "nar-0117-v001"
+    section_id: "Nar_01_17"
+    drill: 0
+    number: 6
+    role: "example"
+    english: "We hire out tables for parties."
+    japanese: "私たちはパーティー用にテーブルを賃貸しする"
+    notes: "hire outで「一時的に貸す」。脚注*2の▶例文"
+
+sentence_structures:
+  - sentence_id: "nar-0117-e074"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0117-e074"
+    label: "details"
+    value: "<He>(S) lent(V) <his car>(O) [to a friend](M:前置詞句) ※lend+O₂+to+O₁型"
+  - sentence_id: "nar-0117-e075"
+    label: "overall"
+    value: "S V A from B"
+  - sentence_id: "nar-0117-e075"
+    label: "details"
+    value: "<I>(S) borrowed(V) <the book>(A) from <him>(B)"
+  - sentence_id: "nar-0117-e076"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0117-e076"
+    label: "details"
+    value: "<The owner>(S) rents(V) <rooms>(O) [to students](M:前置詞句) ※rent+O₂+to+O₁型"
+  - sentence_id: "nar-0117-e077"
+    label: "overall"
+    value: "S V A from B"
+  - sentence_id: "nar-0117-e077"
+    label: "details"
+    value: "<I>(S) rent(V) <this apartment>(A) from <her>(B)"
+  - sentence_id: "nar-0117-e078"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0117-e078"
+    label: "details"
+    value: "<I>(S) let(V) <a room>(O) [to him](M:前置詞句) ※let+O₂+to+O₁型"
+  - sentence_id: "nar-0117-v001"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0117-v001"
+    label: "details"
+    value: "<We>(S) hire out(V) <tables>(O) [for parties](M:前置詞句)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0117-e074"
+    node_id: "nrv-017"
+  - sentence_id: "nar-0117-e075"
+    node_id: "nrv-017"
+  - sentence_id: "nar-0117-e076"
+    node_id: "nrv-017"
+  - sentence_id: "nar-0117-e077"
+    node_id: "nrv-017"
+  - sentence_id: "nar-0117-e078"
+    node_id: "nrv-017"
+  - sentence_id: "nar-0117-v001"
+    node_id: "nrv-017"

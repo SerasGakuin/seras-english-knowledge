@@ -1,0 +1,87 @@
+# Nar_01_18: 「疑う」の意味をもつ動詞（p.66-67）
+
+sentences:
+  - id: "nar-0118-e079"
+    section_id: "Nar_01_18"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I suspected that he was guilty."
+    japanese: "私は彼が有罪だと思った"
+    notes: "suspect that SV = 肯定的に～だと思う"
+  - id: "nar-0118-e080"
+    section_id: "Nar_01_18"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "I doubted that he was guilty."
+    japanese: "私は彼が有罪ではないと思った"
+    notes: "doubt that SV = 否定的に～でないと思う"
+  - id: "nar-0118-e081"
+    section_id: "Nar_01_18"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "I wonder if she knows something."
+    japanese: "彼女は何か知っているだろうか"
+    notes: "wonder if SV = ～を知りたいと思う、疑問に思う"
+  - id: "nar-0118-e082"
+    section_id: "Nar_01_18"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "I wonder that she passed the bar exam."
+    japanese: "彼女が司法試験に合格したとは驚きだ"
+    notes: "wonder that SV = ～ということに驚く。It's a wonder that SVとする方が一般的"
+  - id: "nar-0118-v001"
+    section_id: "Nar_01_18"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "I wonder how old she is."
+    japanese: "彼女は何歳なんだろう"
+    notes: "wonderの後に疑問詞（how）を置く用法。脚注*1の▶例文"
+
+sentence_structures:
+  - sentence_id: "nar-0118-e079"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0118-e079"
+    label: "details"
+    value: "<I>(S) suspected(V) <that he was guilty>(O:that節)"
+  - sentence_id: "nar-0118-e080"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0118-e080"
+    label: "details"
+    value: "<I>(S) doubted(V) <that he was guilty>(O:that節)"
+  - sentence_id: "nar-0118-e081"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0118-e081"
+    label: "details"
+    value: "<I>(S) wonder(V) <if she knows something>(O:if節)"
+  - sentence_id: "nar-0118-e082"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0118-e082"
+    label: "details"
+    value: "<I>(S) wonder(V) <that she passed the bar exam>(O:that節)"
+  - sentence_id: "nar-0118-v001"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0118-v001"
+    label: "details"
+    value: "<I>(S) wonder(V) <how old she is>(O:疑問詞節)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0118-e079"
+    node_id: "nrv-018"
+  - sentence_id: "nar-0118-e080"
+    node_id: "nrv-018"
+  - sentence_id: "nar-0118-e081"
+    node_id: "nrv-018"
+  - sentence_id: "nar-0118-e082"
+    node_id: "nrv-018"
+  - sentence_id: "nar-0118-v001"
+    node_id: "nrv-018"

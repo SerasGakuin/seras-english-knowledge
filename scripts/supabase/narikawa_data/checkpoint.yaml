@@ -1,73 +1,37 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T21:00:00"
+updated_at: "2026-03-02T02:00:00"
 book: "成川の深めて解ける！英文法 INPUT"
 book_slug: "narikawa"
 
 current_state:
-  phase: "Phase 2 - B-01 完了待ち"
-  current_section: null
-  current_step: null
-  last_completed_section: "Nar_01_10"
+  phase: "Phase 2 - B-03 開始準備"
+  current_section: "Nar_03_02"
+  current_step: "Step 0（バッチ準備）"
+  last_completed_section: "Nar_02_02"
   last_completed_gate: 5
 
 progress:
   total_sections: 162
-  completed: 12
-  in_progress: 2
-  remaining: 148
-  total_nodes: 14
-  total_sentences: 70
+  completed: 26
+  in_progress: 0
+  remaining: 136
+  total_nodes: 26
+  total_sentences: 139
 
-batch1_results:
-  sections_completed:
-    - section: "Nar_01_02"
-      nodes: ["nrv-002"]
-      sentences: 3
-    - section: "Nar_01_03"
-      nodes: ["nrv-003"]
-      sentences: 7
-    - section: "Nar_01_04"
-      nodes: ["nrv-004"]
-      sentences: 4
-    - section: "Nar_01_05"
-      nodes: ["nrv-005"]
-      sentences: 5
-    - section: "Nar_01_06"
-      nodes: ["nrv-006"]
-      sentences: 3
-    - section: "Nar_01_07"
-      nodes: ["nrv-007"]
-      sentences: 5
-    - section: "Nar_01_08"
-      nodes: ["nrv-008"]
-      sentences: 7
-    - section: "Nar_01_09"
-      nodes: ["nrv-009"]
-      sentences: 5
-    - section: "Nar_01_10"
-      nodes: ["nrv-010"]
-      sentences: 7
-  sections_in_review:
-    - section: "Nar_01_11"
-      nodes: ["nrv-011"]
-      sentences: 3
-      gates_passed: [1, 2, 5]
-    - section: "Nar_01_12"
-      nodes: ["nrv-012"]
-      sentences: 6
-      gates_passed: [1, 2, 5]
-
-recent_decisions: []
+recent_decisions:
+  - "nrv-023: run/meet/payの「意外な意味」を基本イメージから導出する考え方を1ノードに統合"
+  - "nrv-024: 受動態の意味的特徴。文末焦点+by省略の3理由を1ノードに"
+  - "nrv-025: 受動態の形式的特徴。他動詞最適+句動詞+O欠落法則を1ノードに"
+  - "nar-0201-e109: Gate 4で'O V O'→'S V O'に修正（What は主語疑問文の主語）"
 
 active_concerns: []
 
 next_actions:
-  - "Gate 3-4 結果待ち（01_11-12）→ 通過後 B-01 全完了"
-  - "B-01 完了 → Part 境界チェック + validate.py 全データ実行"
-  - "コミット: B-01 全11セクション"
-  - "B-02 に自動進行"
+  - "B-02 コミット"
+  - "B-03 準備: sections.yaml + manifest.yaml に Nar_03_02〜03_10 を追加"
+  - "B-03 開始: Nar_03_02 から Step 1-7"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

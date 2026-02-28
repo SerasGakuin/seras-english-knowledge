@@ -1,0 +1,103 @@
+# Nar_01_19: 「合う」の意味をもつ動詞（p.68-70）
+
+sentences:
+  - id: "nar-0119-e083"
+    section_id: "Nar_01_19"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "The shoe fits her foot."
+    japanese: "その靴は彼女の足に合っている"
+    notes: "fit: サイズが合う"
+  - id: "nar-0119-e084"
+    section_id: "Nar_01_19"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Black suits you."
+    japanese: "あなたには黒がお似合いですね"
+    notes: "suit: 一式そろって合っている、調和している"
+  - id: "nar-0119-e085"
+    section_id: "Nar_01_19"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "Her dress matches her bag."
+    japanese: "彼女のドレスはバッグに合っている"
+    notes: "match: モノとモノの調和。人には使えない"
+  - id: "nar-0119-e086"
+    section_id: "Nar_01_19"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "Pork doesn't agree with her."
+    japanese: "豚肉は彼女に合わない"
+    notes: "agree with: 食べ物・気候など周辺環境との適応"
+  - id: "nar-0119-e087"
+    section_id: "Nar_01_19"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "He became a teacher."
+    japanese: "彼は教師になった"
+    notes: "become: 達する → なる。「合う」への導入例"
+  - id: "nar-0119-e088"
+    section_id: "Nar_01_19"
+    drill: 0
+    number: 6
+    role: "example"
+    english: "The blue shirt becomes Yuko."
+    japanese: "その青いシャツはユウコに似合っている"
+    notes: "become: 達する → 合う、似合う。現在ではまれで、suitが一般的"
+
+sentence_structures:
+  - sentence_id: "nar-0119-e083"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0119-e083"
+    label: "details"
+    value: "<The shoe>(S) fits(V) <her foot>(O)"
+  - sentence_id: "nar-0119-e084"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0119-e084"
+    label: "details"
+    value: "<Black>(S) suits(V) <you>(O)"
+  - sentence_id: "nar-0119-e085"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0119-e085"
+    label: "details"
+    value: "<Her dress>(S) matches(V) <her bag>(O)"
+  - sentence_id: "nar-0119-e086"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0119-e086"
+    label: "details"
+    value: "<Pork>(S) doesn't agree(V) [with her](M:前置詞句) ※agree with=自動詞+前置詞"
+  - sentence_id: "nar-0119-e087"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0119-e087"
+    label: "details"
+    value: "<He>(S) became(V) <a teacher>(C) ※第2文型:He=a teacher"
+  - sentence_id: "nar-0119-e088"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0119-e088"
+    label: "details"
+    value: "<The blue shirt>(S) becomes(V) <Yuko>(O) ※他動詞「似合う」の用法"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0119-e083"
+    node_id: "nrv-019"
+  - sentence_id: "nar-0119-e084"
+    node_id: "nrv-019"
+  - sentence_id: "nar-0119-e085"
+    node_id: "nrv-019"
+  - sentence_id: "nar-0119-e086"
+    node_id: "nrv-019"
+  - sentence_id: "nar-0119-e087"
+    node_id: "nrv-019"
+  - sentence_id: "nar-0119-e088"
+    node_id: "nrv-019"

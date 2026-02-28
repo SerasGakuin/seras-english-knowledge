@@ -1,0 +1,71 @@
+# Nar_02_01: 受動態の意味的特徴（p.82-84）
+
+sentences:
+  - id: "nar-0201-e109"
+    section_id: "Nar_02_01"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "What destroyed the city?"
+    japanese: "何がその都市を壊滅させたの？"
+    notes: "Ericの発話。能動態の疑問文"
+  - id: "nar-0201-e110"
+    section_id: "Nar_02_01"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "It was destroyed by a flood."
+    japanese: "それは洪水で壊滅されたのよ"
+    notes: "Lucyの応答。受動態で旧情報(It=the city)を文頭、新情報(by a flood)を文末に配置"
+  - id: "nar-0201-e111"
+    section_id: "Nar_02_01"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "Letters are delivered every day."
+    japanese: "手紙は毎日配達される"
+    notes: "by a mail carrierは自明なので省略。理由(1)あえて表す必要がない"
+  - id: "nar-0201-e112"
+    section_id: "Nar_02_01"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "The gate was painted last week."
+    japanese: "門は先週塗装された"
+    notes: "誰が塗ったか不明。理由(2)行為者が不明"
+
+sentence_structures:
+  - sentence_id: "nar-0201-e109"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0201-e109"
+    label: "details"
+    value: "<What>(S:疑問詞) destroyed(V) <the city>(O) ※能動態疑問文"
+  - sentence_id: "nar-0201-e110"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0201-e110"
+    label: "details"
+    value: "<It>(S:旧情報=the city) was destroyed(V:受動態) [by a flood](M:新情報=行為者)"
+  - sentence_id: "nar-0201-e111"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0201-e111"
+    label: "details"
+    value: "<Letters>(S) are delivered(V:受動態) [every day](M:時間副詞) ※by省略"
+  - sentence_id: "nar-0201-e112"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0201-e112"
+    label: "details"
+    value: "<The gate>(S) was painted(V:受動態) [last week](M:時間副詞) ※by省略（行為者不明）"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0201-e109"
+    node_id: "nrv-024"
+  - sentence_id: "nar-0201-e110"
+    node_id: "nrv-024"
+  - sentence_id: "nar-0201-e111"
+    node_id: "nrv-024"
+  - sentence_id: "nar-0201-e112"
+    node_id: "nrv-024"

@@ -1,0 +1,87 @@
+# Nar_01_15: パターンで理解する動詞(5) — V+A+to+B（p.57-59）
+
+sentences:
+  - id: "nar-0115-e064"
+    section_id: "Nar_01_15"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "She adapted herself to her new life."
+    japanese: "彼女は新しい生活に順応した"
+    notes: "V+A+to+B（合わせる）。toの「到達」イメージ"
+  - id: "nar-0115-e065"
+    section_id: "Nar_01_15"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Add a little oil to the water."
+    japanese: "少量の油を水に加えなさい"
+    notes: "V+A+to+B（加える）。到達→追加"
+  - id: "nar-0115-e066"
+    section_id: "Nar_01_15"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "He reduced his weight to 60 kg."
+    japanese: "彼は体重を60キログラムに減らした"
+    notes: "V+A+to+B（制限）。到達→制限・限定"
+  - id: "nar-0115-e067"
+    section_id: "Nar_01_15"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "She added the sliced tomatoes."
+    japanese: "彼女は薄く切ったトマトを加えた"
+    notes: "add A to Bのto B部分が文脈から省略された例。パターン崩壊の注意点"
+  - id: "nar-0115-e068"
+    section_id: "Nar_01_15"
+    drill: 0
+    number: 5
+    role: "example"
+    english: "She was reminded of her childhood when she heard the song."
+    japanese: "その歌を聞くと、彼女は自分の子どものころを思い出した"
+    notes: "remind A of Bの受動態。Aが主語Sheに移動しAの位置が空になる。パターン崩壊の注意点"
+
+sentence_structures:
+  - sentence_id: "nar-0115-e064"
+    label: "overall"
+    value: "S V A to B"
+  - sentence_id: "nar-0115-e064"
+    label: "details"
+    value: "<She>(S) adapted(V) <herself>(A) to <her new life>(B)"
+  - sentence_id: "nar-0115-e065"
+    label: "overall"
+    value: "V A to B"
+  - sentence_id: "nar-0115-e065"
+    label: "details"
+    value: "Add(V) <a little oil>(A) to <the water>(B) ※命令文でS省略"
+  - sentence_id: "nar-0115-e066"
+    label: "overall"
+    value: "S V A to B"
+  - sentence_id: "nar-0115-e066"
+    label: "details"
+    value: "<He>(S) reduced(V) <his weight>(A) to <60 kg>(B)"
+  - sentence_id: "nar-0115-e067"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0115-e067"
+    label: "details"
+    value: "<She>(S) added(V) <the sliced tomatoes>(O) ※add A to Bのto B省略"
+  - sentence_id: "nar-0115-e068"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "nar-0115-e068"
+    label: "details"
+    value: "<She>(S) was reminded(V:受動態) [of her childhood](M:前置詞句) [when she heard the song](M:副詞節) ※remind A of Bの受動態でA→主語"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0115-e064"
+    node_id: "nrv-015"
+  - sentence_id: "nar-0115-e065"
+    node_id: "nrv-015"
+  - sentence_id: "nar-0115-e066"
+    node_id: "nrv-015"
+  - sentence_id: "nar-0115-e067"
+    node_id: "nrv-015"
+  - sentence_id: "nar-0115-e068"
+    node_id: "nrv-015"

@@ -1,0 +1,71 @@
+# Nar_01_14: パターンで理解する動詞(4) — V+A+of+B / V+A+on+B（p.54-56）
+
+sentences:
+  - id: "nar-0114-e060"
+    section_id: "Nar_01_14"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "The man robbed her of her handbag."
+    japanese: "その男は彼女からハンドバッグを奪った"
+    notes: "V+A+of+B（分離）。AとBがofで分離されるイメージ"
+  - id: "nar-0114-e061"
+    section_id: "Nar_01_14"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "The picture reminded me of my ex-boyfriend."
+    japanese: "その写真を見て私は元カレを思い出した"
+    notes: "V+A+of+B（関連）。remind A of B「AにBを思い出させる」"
+  - id: "nar-0114-e062"
+    section_id: "Nar_01_14"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "The government imposed a tax on cigarettes."
+    japanese: "政府はたばこに税金を課した"
+    notes: "V+A+on+B（課す）。A(a tax)がon(接触)でB(cigarettes)にのしかかる"
+  - id: "nar-0114-e063"
+    section_id: "Nar_01_14"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "He blamed the accident on me."
+    japanese: "彼はその事故の責任は私にあると言った"
+    notes: "V+A+on+B（なすりつけ）。A（事故の責任）をべったりB（私）になすりつける"
+
+sentence_structures:
+  - sentence_id: "nar-0114-e060"
+    label: "overall"
+    value: "S V A of B"
+  - sentence_id: "nar-0114-e060"
+    label: "details"
+    value: "<The man>(S) robbed(V) <her>(A) of <her handbag>(B)"
+  - sentence_id: "nar-0114-e061"
+    label: "overall"
+    value: "S V A of B"
+  - sentence_id: "nar-0114-e061"
+    label: "details"
+    value: "<The picture>(S) reminded(V) <me>(A) of <my ex-boyfriend>(B)"
+  - sentence_id: "nar-0114-e062"
+    label: "overall"
+    value: "S V A on B"
+  - sentence_id: "nar-0114-e062"
+    label: "details"
+    value: "<The government>(S) imposed(V) <a tax>(A) on <cigarettes>(B)"
+  - sentence_id: "nar-0114-e063"
+    label: "overall"
+    value: "S V A on B"
+  - sentence_id: "nar-0114-e063"
+    label: "details"
+    value: "<He>(S) blamed(V) <the accident>(A) on <me>(B)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0114-e060"
+    node_id: "nrv-014"
+  - sentence_id: "nar-0114-e061"
+    node_id: "nrv-014"
+  - sentence_id: "nar-0114-e062"
+    node_id: "nrv-014"
+  - sentence_id: "nar-0114-e063"
+    node_id: "nrv-014"
