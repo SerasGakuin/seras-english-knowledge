@@ -1,9 +1,28 @@
-phase: 1
-phase_name: "パイロット（3セクション）"
-current_section: "completed"
-current_step: "Phase 1 完了。Gate 1-5 全通過"
-completed_sections: 3
-total_pilot_sections: 3
-total_nodes: 3
-total_sentences: 15
-last_updated: "2026-03-01"
+# checkpoint.yaml — 作業状態スナップショット
+# コンテキストコンパクション後に必ず読む
+
+updated_at: "2026-03-01"
+book: "成川の深めて解ける！英文法 INPUT"
+book_slug: "narikawa"
+
+current_state:
+  phase: "Phase 1 (Pilot) 完了"
+  current_section: null
+  current_step: null
+  last_completed_section: "Nar_03_01"
+  last_completed_gate: 5
+
+progress:
+  total_sections: 162
+  completed: 3
+  in_progress: 0
+  remaining: 159
+  total_nodes: 3
+  total_sentences: 15
+
+next_actions:
+  - "Phase 2 進行（Part単位バッチ構造化）"
+
+must_reread:
+  - "docs/design/構造化共通ワークフロー.md"
+  - "docs/design/参考書別設計書_成川.md"
