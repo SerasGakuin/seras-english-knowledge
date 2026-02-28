@@ -1,0 +1,74 @@
+sentences:
+  - id: "ny-11-s1"
+    section_id: "Ny_11"
+    drill: 11
+    number: 1
+    role: "exercise"
+    english: "Opera is an art form that celebrates the human voice at its highest level of expression."
+    japanese: "オペラは最も高いレベルの表現に達した人間の声を賛美する芸術形態である。"
+    notes: ""
+  - id: "ny-11-s2"
+    section_id: "Ny_11"
+    drill: 11
+    number: 2
+    role: "exercise"
+    english: "No other art form creates excitement and moves the heart in the way that opera does, especially when performed by a great singer."
+    japanese: "どのような芸術形態も，オペラのように，特にそれが偉大な歌手によって演じられたときに，興奮を生み出し，心を動かすものは他にない。"
+    notes: ""
+  - id: "ny-11-s3"
+    section_id: "Ny_11"
+    drill: 11
+    number: 3
+    role: "example"
+    english: "While traveling abroad, I made a lot of friends."
+    japanese: "外国を旅している間に多くの友達ができた。"
+    notes: "❺の解説中の例文（接続詞後のS+be省略）"
+  - id: "ny-11-s4"
+    section_id: "Ny_11"
+    drill: 11
+    number: 4
+    role: "example"
+    english: "If kept in this box, the cake can be preserved for a week."
+    japanese: "この箱の中に入れておけば，ケーキは一週間保存可能だ。"
+    notes: "❺の解説中の例文（接続詞後のS+be省略）"
+
+sentence_structures:
+  - sentence_id: "ny-11-s1"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "ny-11-s1"
+    label: "details"
+    value: "{S}Opera {V}is {C}an art form [that {V}celebrates {O}the human voice (at its highest level (of expression)(M:形容詞句))(M:形容詞句)](C:形容詞節/関係代名詞)."
+  - sentence_id: "ny-11-s2"
+    label: "overall"
+    value: "S V O 等接 V O M M"
+  - sentence_id: "ny-11-s2"
+    label: "details"
+    value: "{S}No other art form {V}creates {O}excitement {等接}and {V}moves {O}the heart (in the way [that {S}opera {V}does](関係副詞節))(M:副詞句), (especially (when performed (by a great singer)(M:副詞句))(M:副詞節/S+be省略))(M:副詞句)."
+  - sentence_id: "ny-11-s2"
+    label: "partial_translations"
+    value: |
+      ❷ どのような芸術形態も～ない
+      ❹ オペラのように（オペラがやっているように）
+  - sentence_id: "ny-11-s3"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "ny-11-s3"
+    label: "details"
+    value: "(While traveling abroad)(M:副詞節/S+be省略), {S}I {V}made {O}a lot of friends."
+  - sentence_id: "ny-11-s4"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "ny-11-s4"
+    label: "details"
+    value: "(If kept (in this box)(M:副詞句))(M:副詞節/S+be省略), {S}the cake {V}can be preserved (for a week)(M:副詞句)."
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-11-s1"
+    node_id: "nks-001"
+  - sentence_id: "ny-11-s2"
+    node_id: "nsv-010"
+  - sentence_id: "ny-11-s3"
+    node_id: "nsv-007"
+  - sentence_id: "ny-11-s4"
+    node_id: "nsv-007"

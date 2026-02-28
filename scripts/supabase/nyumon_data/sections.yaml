@@ -168,7 +168,8 @@ sections:
     title: "主語の把握（否定語）"
     pages: "p.48-49"
     type: "exercise"
-    notes: ""
+    notes: |
+      一言: 「オペラが素晴らしい」という感覚は日本人にはなかなか難しいが，劇場へ足を運べばその素晴らしさが実感できるだろう。
 
   # === 第2章 準動詞（8セクション） ===
   - id: "Ny_12"
@@ -624,6 +625,9 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_10"
     node_id: "nsv-009"
+    seq: 1
+  - section_id: "Ny_11"
+    node_id: "nsv-010"
     seq: 1
 
 section_prerequisites: []

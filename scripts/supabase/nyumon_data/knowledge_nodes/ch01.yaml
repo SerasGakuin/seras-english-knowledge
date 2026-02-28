@@ -245,6 +245,33 @@ knowledge_nodes:
         (1) 主語と目的語が一致する場合: You shouldn't blame yourself.
         (2) 〈名詞 + oneself〉で名詞を強調: writing itself「文字そのもの」
 
+  - id: "nsv-010"
+    name: "否定語を含む主語の読み方"
+    category: "主語と動詞の把握"
+    priority: "P1"
+    notes: |
+      Point分類: ❷〔否定〕
+      ■ 英語では否定語をできるだけ文の前半に置くことが好まれるため、主語に否定語がつくことがある。
+        日本語では主語に否定語がつかない（「ゼロの学生が彼のことを好きだ」は不自然）。
+      ■ 訳し方: no = not any と分解する。
+        主語に any をつけて、not は動詞を修飾するように訳す。
+        例: No other art form creates ... → 「どのような芸術形態も…ない」
+      ■ 注意: any ... not の語順は英作文では原則として認められない。
+        読解の便宜上、頭の中で分解するだけに留める。
+      ❶ that は主格の関係代名詞:
+        直後に動詞 celebrates がある → 主格。
+        an art form（不定冠詞）は「1つとは限らない」ため。
+        human voice に the がつくのは「誰もがイメージする人間の声」だから。
+      ❸ and は動詞と動詞（creates excitement と moves the heart）を接続:
+        A and B の後ろに修飾語が続くときは、原則として A と B の両方を修飾すると考える。
+        意味の不具合があれば後半だけを修飾していると判断する。
+      ❹ in the way that S+V = 「～の方法で」:
+        that は関係副詞。that の後ろは完成した文。
+        that はしばしば省略され、in も省かれることがある。
+        does は代動詞（creates excitement and moves the heart の言い換え）。
+      ❺ when performed = when it is performed の省略:
+        時・条件・譲歩の接続詞後で〈S＋be動詞〉がしばしば省略される（→nsv-007 参照）。
+
 understanding_goals:
   - node_id: "nsv-001"
     seq: 1
@@ -354,6 +381,15 @@ understanding_goals:
   - node_id: "nsv-009"
     seq: 4
     goal: "形式主語構文 it seems/is ... that ... の構造を理解し、真の主語を特定できる"
+  - node_id: "nsv-010"
+    seq: 1
+    goal: "主語に否定語（no, no other, neither 等）が付く英文を認識できる"
+  - node_id: "nsv-010"
+    seq: 2
+    goal: "No + 名詞 の構文を not any に分解して自然な日本語に訳すことができる"
+  - node_id: "nsv-010"
+    seq: 3
+    goal: "否定語が主語に付く理由（英語は否定語を文の前半に置く傾向）を説明できる"
 
 check_points:
   - node_id: "nsv-001"
@@ -492,6 +528,22 @@ check_points:
     seq: 4
     question: "it now seems probable that mathematics was invented ... の it は何を指すか？"
     answer: "形式主語（仮主語）。that 以下（mathematics was invented before writing itself）が真の主語。主語が長くなるのを避けるため it を仮の主語として置いている。"
+  - node_id: "nsv-010"
+    seq: 1
+    question: "No other art form creates excitement ... の主語は何か？ また自然な日本語に訳すにはどうするか？"
+    answer: "主語は No other art form。no = not any と分解し、「どのような芸術形態も興奮を生み出さない」と訳す。any を主語に、not を動詞に振り分ける。"
+  - node_id: "nsv-010"
+    seq: 2
+    question: "英語で否定語が主語に付くのはなぜか？"
+    answer: "英語では否定語をできるだけ文の前半に置くことが好まれるため。日本語では主語に否定語がつかない（「ゼロの学生が彼のことを好きだ」は不自然）ので注意が必要。"
+  - node_id: "nsv-010"
+    seq: 3
+    question: "No student understood the problem. を日本語に訳す際、no をどう処理するか？"
+    answer: "no = not any と分解し、「どの学生も理解しなかった」と訳す。any を主語に（どの学生も）、not を動詞に（理解しなかった）と振り分ける。"
+  - node_id: "nsv-010"
+    seq: 4
+    question: "any ... not の語順は英作文で使えるか？"
+    answer: "原則として認められない。あくまでも英文を読むときに頭の中で便宜上 no = not any と分解するだけ。英作文では No + 名詞 の形を使う。"
 
 node_prerequisites:
   - node_id: "nsv-001"
@@ -524,6 +576,8 @@ node_prerequisites:
     prerequisite_id: "nsv-001"
   - node_id: "nsv-009"
     prerequisite_id: "nsv-006"
+  - node_id: "nsv-010"
+    prerequisite_id: "nsv-001"
 
 knowledge_references:
   - node_id: "nsv-001"
@@ -570,3 +624,7 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_10"
     pages: "p.46-47"
+  - node_id: "nsv-010"
+    book: "入門英文問題精講"
+    section_id: "Ny_11"
+    pages: "p.48-49"

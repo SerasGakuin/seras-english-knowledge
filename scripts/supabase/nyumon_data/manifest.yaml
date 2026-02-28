@@ -240,11 +240,11 @@ sections:
     title: "主語の把握（否定語）"
     type: "exercise"
     pages: "p.48-49"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
 
   # === 第2章 準動詞（8セクション） ===
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 24
+  completed: 25
   in_progress: 0
-  not_started: 61
-  total_knowledge_nodes: 23
-  total_sentences: 98
+  not_started: 60
+  total_knowledge_nodes: 24
+  total_sentences: 102
