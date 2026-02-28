@@ -1,0 +1,46 @@
+sentences:
+  - id: "ny-40-s1"
+    section_id: "Ny_40"
+    drill: 40
+    number: 1
+    role: "exercise"
+    english: "But which is actually better for us, getting good news first or bad?"
+    japanese: "しかし，実際，どちらのほうが私達にとっていいのであろう，よい知らせを先に受け取るのと悪い知らせを先に受け取るのでは。"
+    notes: "出典: 静岡県立大学"
+  - id: "ny-40-s2"
+    section_id: "Ny_40"
+    drill: 40
+    number: 2
+    role: "exercise"
+    english: "A third study suggests that the answer to this important question depends on whether you are focused on your mood or on changing your behavior."
+    japanese: "この重要な問題に対する答えは，自分の気分に重きを置いているのか，それとも自分の行動を変えることに重きを置いているのかで決まるということを3番目の研究は示唆している。"
+    notes: ""
+
+sentence_structures:
+  - sentence_id: "ny-40-s1"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "ny-40-s1"
+    label: "details"
+    value: "{等接}But {S}which {V}is actually {C}better (for us)(M:副詞句), (getting good news first {等接}or bad)(動名詞/補足)?"
+  - sentence_id: "ny-40-s1"
+    label: "partial_translations"
+    value: |
+      ❶ しかし，実際，どちらのほうが私達にとっていいのだろう
+  - sentence_id: "ny-40-s2"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "ny-40-s2"
+    label: "details"
+    value: "{S}A third study {V}suggests {O}[{従接}that {S}the answer (to this important question)(M:形容詞句) {V}depends on [{従接}whether {S}you {V}are focused (on your mood)(M:副詞句) {等接}or (on changing your behavior)(M:副詞句)](whether節/名詞節)](that節/目的語)."
+  - sentence_id: "ny-40-s2"
+    label: "partial_translations"
+    value: |
+      ❷ 3番目の研究は〜ということを示唆している
+      ❸ 自分の気分に重きを置いているのか，自分の行動を変えることに重きを置いているのかで決まる
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-40-s1"
+    node_id: "nst-007"
+  - sentence_id: "ny-40-s2"
+    node_id: "nst-007"

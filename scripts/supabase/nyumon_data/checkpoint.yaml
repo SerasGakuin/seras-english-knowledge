@@ -1,36 +1,37 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T12:00:00"
+updated_at: "2026-03-02T14:00:00"
 book: "入門英文問題精講"
 book_slug: "nyumon"
 
 current_state:
   phase: "Phase 2E"
-  current_section: "Ny_38"
+  current_section: "Ny_41"
   current_step: "Step 1"
-  last_completed_section: "Ny_37"
+  last_completed_section: "Ny_40"
   last_completed_gate: 5
 
 progress:
   total_sections: 85
-  completed: 50
+  completed: 53
   in_progress: 0
-  remaining: 35
-  total_nodes: 40
-  total_sentences: 146
+  remaining: 32
+  total_nodes: 43
+  total_sentences: 150
 
 recent_decisions:
-  - "Ny_32+33+34: 等位接続詞and①②③を nst-001 に統合（①②③連番テーマ、比率0.33）"
   - "Ny_35/36/37: 異なるテーマ → 各1ノード（nst-002, nst-003, nst-004）、比率1.0"
+  - "Ny_38/39/40: 異なるテーマ → 各1ノード（nst-005, nst-006, nst-007）、比率1.0"
+  - "nst-006 → nst-005 prerequisite: while の譲歩用法理解に although の譲歩知識が前提"
 
 active_concerns:
   - "nbk-001, nbk-002 は tagged sentences なし（基本講義ノードでは想定内）"
   - "nsv-003 のタグ付き英文が1文のみ"
 
 next_actions:
-  - "Phase 2E Batch 18: Ny_38（従属接続詞although）→ Ny_39（従属接続詞while）→ Ny_40（従属接続詞whether）"
-  - "3セクション完了 → 構造化共通ワークフロー.md 再読込済み"
+  - "Phase 2E Batch 19: Ny_41（that節）→ Ny_42（thatの省略）→ Ny_43（同格that）"
+  - "Ny_41-43は that 系3問 → 統合の可能性あり"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

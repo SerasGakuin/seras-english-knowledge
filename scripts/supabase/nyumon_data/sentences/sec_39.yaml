@@ -1,0 +1,27 @@
+sentences:
+  - id: "ny-39-s1"
+    section_id: "Ny_39"
+    drill: 39
+    number: 1
+    role: "exercise"
+    english: "While robots have been utilized in several industries for decades, including the manufacturing sector, experts now predict that a turning point in robotic automation is approaching rapidly ― and that much of the developed world simply isn't prepared for such a radical transition."
+    japanese: "ロボットは何十年にもわたり，製造業部門を含むいくつかの産業で使われてきたのだが，専門家は，ロボットによる自動化の転換期が急速に近づいてきており，世界の先進国の多くはそのような抜本的な変遷に対して用意ができていないと予測する。"
+    notes: "出典: 岩手大学"
+
+sentence_structures:
+  - sentence_id: "ny-39-s1"
+    label: "overall"
+    value: "M, S V O"
+  - sentence_id: "ny-39-s1"
+    label: "details"
+    value: "[{従接}While {S}robots {V}have been utilized (in several industries)(M:副詞句) (for decades)(M:副詞句), (including the manufacturing sector)(前置詞句)](while節/副詞節), {S}experts now {V}predict {O}[{従接}that {S}a turning point (in robotic automation)(M:形容詞句) {V}is approaching rapidly](that節/目的語) ― {等接}and {O}[{従接}that {S}much (of the developed world)(M:形容詞句) simply {V}isn't prepared (for such a radical transition)(M:副詞句)](that節/目的語)."
+  - sentence_id: "ny-39-s1"
+    label: "partial_translations"
+    value: |
+      ❶ ロボットが何十年もの間いくつかの産業で使われてきたのだが
+      ❷ 専門家は〜と予測している
+      ❸ 世界の先進国の多くはそのような抜本的な変遷に対して用意ができていない
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-39-s1"
+    node_id: "nst-006"

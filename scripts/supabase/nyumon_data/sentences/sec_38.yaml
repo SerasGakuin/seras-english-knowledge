@@ -1,0 +1,26 @@
+sentences:
+  - id: "ny-38-s1"
+    section_id: "Ny_38"
+    drill: 38
+    number: 1
+    role: "exercise"
+    english: "Although we know that the earth revolves around the sun, we cannot recite the astronomical observations and calculations that led to that conclusion."
+    japanese: "地球は太陽の周りを回っているということを私達は知っているが，その結論を導いた天文学的な観察や計算を挙げることはできない。"
+    notes: "出典: 京都府立医科大学"
+
+sentence_structures:
+  - sentence_id: "ny-38-s1"
+    label: "overall"
+    value: "M, S V O"
+  - sentence_id: "ny-38-s1"
+    label: "details"
+    value: "[{従接}Although {S}we {V}know {O}[{従接}that {S}the earth {V}revolves (around the sun)(M:副詞句)](that節/目的語)](although節/副詞節), {S}we {V}cannot recite {O}the astronomical observations {等接}and calculations [{S}that {V}led (to that conclusion)(M:副詞句)](関係代名詞節)."
+  - sentence_id: "ny-38-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 私達は地球が太陽の周りを回っていることを知っているけれども
+      ❷ 私達はその結論を導いた天文学的な観察や計算を列挙することはできない
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-38-s1"
+    node_id: "nst-005"

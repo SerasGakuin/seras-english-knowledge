@@ -375,19 +375,26 @@ sections:
     title: "従属接続詞although"
     pages: "p.102-103"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: although節と主節の関係は？
+      一言: the がついた名詞に関係代名詞節や分詞がなければ「暗黙の了解でわかる」の the。本文では後ろに関代節がある。
   - id: "Ny_39"
     book: "入門英文問題精講"
     title: "従属接続詞while"
     pages: "p.104-105"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: whileの原義は「S'V'の間にSV」だが……
+      一言: AI の発展によりロボットの守備範囲は一気に広がった。「ロボット自動化の転換期」とはAIが人間の仕事の大半に取って代わることを示唆する。
   - id: "Ny_40"
     book: "入門英文問題精講"
     title: "従属接続詞whether"
     pages: "p.106-107"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: thatやwhetherの前にある語は何？
+      一言: 良い知らせと悪い知らせの順序で行動を改めるかが決まるという話。問題24も同じ文章からの抜粋。
+      参考書内参照: →問24
   - id: "Ny_41"
     book: "入門英文問題精講"
     title: "that節"
@@ -739,6 +746,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_37"
     node_id: "nst-004"
+    seq: 1
+  - section_id: "Ny_38"
+    node_id: "nst-005"
+    seq: 1
+  - section_id: "Ny_39"
+    node_id: "nst-006"
+    seq: 1
+  - section_id: "Ny_40"
+    node_id: "nst-007"
     seq: 1
 
 section_prerequisites: []

@@ -116,6 +116,86 @@ knowledge_nodes:
         先行詞は the ancient board game（＝碁）。
         〈the＋名詞＋関係代名詞節〉で「〜の唯一の…」の意味になることがある。
 
+  - id: "nst-005"
+    name: "譲歩の接続詞"
+    category: "接続詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❶〔接続詞〕（問38）
+      ■ although[though] の意味:
+        〈although S'＋V', S＋V〉で「S'V'だけれど SV」。
+        all over the world の all（副詞/強調）+ though → although。
+        though と同じ意味。
+      ■ 譲歩を表す接続詞一覧:
+        although[though]「〜だけれども」
+        even if / even though「たとえ〜であっても」
+        while / whereas「〜だけれども」（対比の意味にもなる）
+        whether 〜 or ...「〜であろうと…であろうと」
+        no matter＋疑問詞（how/what/when/where/who/which）「たとえ〜であろうとも」
+      ■ even if vs even though:
+        even if は「仮定」→ We should continue our project even if he leaves our team.
+        even though は「現実」を示す。
+      ■ while と whereas: 「〜である一方」の意味にもなる（→問39参照）。
+      ❷（問38）recite: 「暗唱する」が基本義だが、本文では「列挙する」の意味。
+        文脈から意味を特定する習慣が大切。
+      ❸（問38）〈the〜＋A and B〉: the astronomical は observations と calculations の両方を修飾。
+        the の部分が共通になるパターン。
+      ❹（問38）2つの that: 最初の that は led to の主語がないので主格の関係代名詞。
+        先行詞は the astronomical observations and calculations。
+        2つ目の that conclusion の that は前半の内容を指す指示詞。
+
+  - id: "nst-006"
+    name: "従属接続詞 while の多義"
+    category: "接続詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❶❼〔接続詞〕（問39）
+      ■ while の3つの意味（文脈で判断）:
+        (1) 〜する［している］間に（時を表す）
+        (2) 〜の一方で（主節との対比を表す）
+        (3) 〜だが（主節に対して譲歩を表す）
+      ■ 意味の判定法: While 節と主節の内容を比較し、相反する内容なら譲歩。
+        本文: While節「ロボットが何十年も使われてきた」vs 主節「先進国の多くが用意できていない」
+        → 相反する内容なので(3)「〜だが」。
+      ■ for decades の for: 「期間」を示す前置詞。
+        a decade「10年」の複数形で「何十年」。
+        while 節の動詞が have been utilized（現在完了）であることも確認。
+      ❷（問39）including 〜:「〜を含めた」の意味の前置詞。
+        industry は通例「工業」だが「ある業種、産業」の意味もある。
+      ❸（問39）that: predict の目的語になる名詞節を作る接続詞。
+      ❹（問39）and that: and が2つの that 節をつなぐ。
+        and/but/or は文法的に等しいものをつなぐ原則。
+      ❺（問39）much of the developed world: much は名詞「たくさん」。
+        of の後ろが不可算名詞なので much（複数形なら many of the ...）。
+        動詞が単数形 is であることも確認。訳は「〜の多く」。
+      ❻（問39）such a radical transition: such は既出の内容を指す。
+        ここでは robotic automation の転換期のこと。
+        be prepared for 〜 は精神的な準備。
+
+  - id: "nst-007"
+    name: "従属接続詞 whether"
+    category: "接続詞"
+    priority: "P1"
+    notes: |
+      Point分類: ❸〔接続詞〕（問40）
+      ■ whether の2つの働き:
+        (1) 名詞節を作る:「AかBかということ」
+            例: I do not know whether he will come here or not.
+            → whether 節は know の目的語。
+        (2) 副詞節を作る:「AであってもBであっても」
+            例: Whether you like it or not, you have to go to the meeting.
+      ■ if との置き換え:
+        (1)名詞節の「〜かどうか」では if でも置き換え可能。
+        (2)副詞節の whether は if では置き換えられない。
+      ■ 本文の判定: depend on の後ろに置かれているので名詞節。
+        on の目的語になる名詞のかたまりを作っている。
+      ❶（問40）getting: 動名詞。Which plan is better, Plan A or Plan B? と同じ構造で
+        2つの選択肢を示す。getting good news first or bad は
+        getting good news first or getting bad news first の省略形。
+      ❷（問40）that: suggest の内容を示す名詞節の接続詞。
+        a third 〜 = another 〜 の意味（順序ではなく「もう1つ」）。
+      参考書内参照: →問24も同じ文章からの抜粋。
+
 understanding_goals:
   - node_id: "nst-001"
     seq: 1
@@ -159,6 +239,33 @@ understanding_goals:
   - node_id: "nst-004"
     seq: 3
     goal: "when 節が副詞節として文に追加情報を与える構造を把握できる"
+  - node_id: "nst-005"
+    seq: 1
+    goal: "although[though] の基本的な意味と使い方を説明できる"
+  - node_id: "nst-005"
+    seq: 2
+    goal: "譲歩を表す接続詞（although/even if/even though/while/whereas/whether~or/no matter+疑問詞）を列挙できる"
+  - node_id: "nst-005"
+    seq: 3
+    goal: "even if（仮定）と even though（現実）の違いを説明できる"
+  - node_id: "nst-006"
+    seq: 1
+    goal: "while の3つの意味（時/対比/譲歩）を列挙できる"
+  - node_id: "nst-006"
+    seq: 2
+    goal: "文脈から while の意味を正しく判定できる"
+  - node_id: "nst-006"
+    seq: 3
+    goal: "While 節と主節の内容を比較し、相反する場合に譲歩と判断できる"
+  - node_id: "nst-007"
+    seq: 1
+    goal: "whether が名詞節を作る場合と副詞節を作る場合を区別できる"
+  - node_id: "nst-007"
+    seq: 2
+    goal: "whether の名詞節で if への置き換えが可能な場合と不可能な場合を説明できる"
+  - node_id: "nst-007"
+    seq: 3
+    goal: "depend on whether... のように前置詞の後ろの whether 節を名詞節と判断できる"
 
 check_points:
   - node_id: "nst-001"
@@ -217,6 +324,42 @@ check_points:
     seq: 3
     question: "接続詞 as が文脈によって持つ3つの意味は何か？"
     answer: "(1) 様態「〜のように」、(2) 時「〜しながら」、(3) 理由「〜なので」。基本の意味は「だいたい等しい」。文脈から判断する。"
+  - node_id: "nst-005"
+    seq: 1
+    question: "Although we know that the earth revolves around the sun, we cannot recite ... の Although はどのような意味か？"
+    answer: "譲歩の接続詞で「〜だけれども」の意味。〈Although S'V', SV〉で「S'V'だけれど SV」。though と同じ意味。地球が太陽の周りを回っていることを知っているけれども、という譲歩。"
+  - node_id: "nst-005"
+    seq: 2
+    question: "even if と even though の違いは何か？"
+    answer: "even if は「仮定」を示す（例: even if he leaves = 仮に彼が抜けても）。even though は「現実」を示す（例: even though he left = 実際に彼が抜けたが）。"
+  - node_id: "nst-005"
+    seq: 3
+    question: "譲歩を表す接続詞を5つ以上挙げよ。"
+    answer: "although[though]、even if、even though、while、whereas、whether〜or...、no matter＋疑問詞（how/what/when/where/who/which）。"
+  - node_id: "nst-006"
+    seq: 1
+    question: "While robots have been utilized ... の While は3つの意味のうちどれか？"
+    answer: "譲歩「〜だが」。While節「ロボットが何十年も使われてきた」と主節「先進国の多くが用意できていない」が相反する内容なので、(3)譲歩の意味。"
+  - node_id: "nst-006"
+    seq: 2
+    question: "while が「〜だが」（譲歩）を表すかどうかをどうやって判断するか？"
+    answer: "While 節と主節の内容を比較する。相反する内容であれば譲歩。単に同時進行なら「時」、対照的な2つの事実を並べるなら「対比」。文脈から判断する。"
+  - node_id: "nst-006"
+    seq: 3
+    question: "while の3つの意味を列挙し、それぞれ例を示せ。"
+    answer: "(1)時「〜する間に」: While I was sleeping, the phone rang. (2)対比「〜の一方で」: While he likes coffee, she prefers tea. (3)譲歩「〜だが」: While robots have been utilized..., experts predict... は相反する内容で譲歩。"
+  - node_id: "nst-007"
+    seq: 1
+    question: "whether の2つの働きとそれぞれの意味は？"
+    answer: "(1)名詞節を作る:「AかBかということ」。例: I do not know whether he will come or not. (2)副詞節を作る:「AであってもBであっても」。例: Whether you like it or not, you have to go."
+  - node_id: "nst-007"
+    seq: 2
+    question: "the answer depends on whether you are focused on your mood or on changing your behavior の whether 節はどちらの用法か？"
+    answer: "名詞節。depend on の on の後ろに置かれているので、前置詞の目的語になる名詞節。「自分の気分に重きを置いているのか、自分の行動を変えることに重きを置いているのかということ」。"
+  - node_id: "nst-007"
+    seq: 3
+    question: "whether を if に置き換えられない場合はどのような場合か？"
+    answer: "副詞節の whether（「〜であっても」の意味）は if では置き換えられない。名詞節の「〜かどうか」の意味では if でも置き換え可能。"
 
 node_prerequisites:
   - node_id: "nst-001"
@@ -226,6 +369,14 @@ node_prerequisites:
   - node_id: "nst-003"
     prerequisite_id: "nbk-001"
   - node_id: "nst-004"
+    prerequisite_id: "nbk-001"
+  - node_id: "nst-005"
+    prerequisite_id: "nbk-001"
+  - node_id: "nst-006"
+    prerequisite_id: "nbk-001"
+  - node_id: "nst-006"
+    prerequisite_id: "nst-005"
+  - node_id: "nst-007"
     prerequisite_id: "nbk-001"
 
 knowledge_references:
@@ -253,3 +404,15 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_37"
     pages: "p.100-101"
+  - node_id: "nst-005"
+    book: "入門英文問題精講"
+    section_id: "Ny_38"
+    pages: "p.102-103"
+  - node_id: "nst-006"
+    book: "入門英文問題精講"
+    section_id: "Ny_39"
+    pages: "p.104-105"
+  - node_id: "nst-007"
+    book: "入門英文問題精講"
+    section_id: "Ny_40"
+    pages: "p.106-107"
