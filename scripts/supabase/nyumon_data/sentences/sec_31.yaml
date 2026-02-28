@@ -1,0 +1,78 @@
+sentences:
+  - id: "ny-31-s1"
+    section_id: "Ny_31"
+    drill: 31
+    number: 1
+    role: "exercise"
+    english: "Traveling to different countries can bring you a wealth of experience."
+    japanese: "様々な国を旅行することによって多くの経験を得る可能性がある。"
+    notes: "出典: 関東学院大学"
+  - id: "ny-31-s2"
+    section_id: "Ny_31"
+    drill: 31
+    number: 2
+    role: "exercise"
+    english: "The problem is learning how to interpret what you see."
+    japanese: "ここで問題になるのは，見えるものをいかに解釈するかを学び身につけるということだ。"
+    notes: "出典: 関東学院大学"
+  - id: "ny-31-s3"
+    section_id: "Ny_31"
+    drill: 31
+    number: 3
+    role: "exercise"
+    english: "Appearances can be deceptive."
+    japanese: "外見は裏切る可能性がある。"
+    notes: "出典: 関東学院大学"
+  - id: "ny-31-s4"
+    section_id: "Ny_31"
+    drill: 31
+    number: 4
+    role: "exercise"
+    english: "Things aren't always what they seem."
+    japanese: "物事はいつも見たままであるということではない。"
+    notes: "出典: 関東学院大学"
+
+sentence_structures:
+  - sentence_id: "ny-31-s1"
+    label: "overall"
+    value: "S V O O"
+  - sentence_id: "ny-31-s1"
+    label: "details"
+    value: "{S}(Traveling (to different countries)(M:副詞句))(動名詞) {V}can bring {O}you {O}a wealth (of experience)(M:形容詞句)."
+  - sentence_id: "ny-31-s1"
+    label: "partial_translations"
+    value: |
+      ❷ 様々な国へ旅することがかなりの経験をもたらす可能性がある
+  - sentence_id: "ny-31-s2"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "ny-31-s2"
+    label: "details"
+    value: "{S}The problem {V}is {C}(learning (how to interpret [{O}what {S}you {V}see](what節/目的語))(名詞句/how to V))(動名詞/補語)."
+  - sentence_id: "ny-31-s2"
+    label: "partial_translations"
+    value: |
+      ❹ ここでの問題は〜を学ぶことだ
+      ❺ 見えるものをいかに解釈するか
+  - sentence_id: "ny-31-s3"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "ny-31-s3"
+    label: "details"
+    value: "{S}Appearances {V}can be {C}deceptive."
+  - sentence_id: "ny-31-s4"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "ny-31-s4"
+    label: "details"
+    value: "{S}Things {V}aren't always {C}[what {S}they {V}seem](what節/補語)."
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-31-s1"
+    node_id: "nks-006"
+  - sentence_id: "ny-31-s2"
+    node_id: "nks-006"
+  - sentence_id: "ny-31-s3"
+    node_id: "nks-006"
+  - sentence_id: "ny-31-s4"
+    node_id: "nks-006"

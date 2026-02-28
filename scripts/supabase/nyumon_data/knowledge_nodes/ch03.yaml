@@ -153,7 +153,7 @@ knowledge_nodes:
     category: "関係詞"
     priority: "P1"
     notes: |
-      Point分類: ❶〔関係詞〕（問29）
+      Point分類: ❶〔関係詞〕（問29）❸〔関係詞〕（問30）❺❼〔関係詞〕（問31）
       ■ what は名詞節を作り、文中で主語・目的語・補語になる。
       ■ 2つの用法（形の面では区別できないので訳を当てはめて判断）:
         (1) 疑問詞「何が・何を」:
@@ -174,6 +174,27 @@ knowledge_nodes:
         to work は desire を修飾する to 不定詞の形容詞用法。
         主語（what we need most）が単数で補語が A and B の形 → 筆者が A と B を1セットと考えている。
         simply は only と同じ「〜だけ」の意味。
+      ■ what が補語になるケース（問30）:
+        the ability ... is [what enabled us to ...]。what は enabled の主語。
+        what 節全体は is の補語。what を見たら節内部での主語/目的語/補語の役割を考える。
+      ■ what が目的語になるケース（問31）:
+        how to interpret [what you see]。what は see の目的語。
+        what 節全体は interpret の目的語。how to V =「いかに〜するか」（名詞句）。
+      ■ 〈what＋S＋be動詞〉の定番訳（問31）:
+        what he is =「現在の彼」、what they seem =「外見」「印象」。
+        Things aren't always what they seem. =「物事はいつも見たままであるということではない」。
+      ❶（問30）Computer games are a form of story: 主語(games)が複数で補語(a form)が単数。
+        S=Cの「=」は数の一致を必ずしも求めない。
+      ❷（問30）As Yuval Noah Harari argues: As S V =「SがVするように」。
+        副詞節で主節に挿入的に添えられる。
+      ❹（問30）enable O to V =「OがVすることを可能にする」。受動態: O is enabled to V。
+      ❶（問31）Traveling to different countries: 動名詞主語。can bring O O = SVOO構造。
+        a wealth of 〜 =「かなりの〜」。
+      ❷❻（問31）can＋物（事）主語 =「可能性がある」「〜しうる」。
+        Appearances can be deceptive.「外見は裏切る可能性がある」。
+      ❸（問31）The problem is learning ...: the は前文の内容を受けて「ここでの」。
+      ❹（問31）learning how to interpret what you see: 動名詞が補語。
+        how to V が interpret の目的語、what you see が interpret の目的語の中の目的語。
 
 understanding_goals:
   - node_id: "nks-001"
@@ -239,6 +260,12 @@ understanding_goals:
   - node_id: "nks-006"
     seq: 3
     goal: "what 節が主語になっている文の構造を正確に把握できる"
+  - node_id: "nks-006"
+    seq: 4
+    goal: "what 節が補語になっている文の構造を正確に把握できる"
+  - node_id: "nks-006"
+    seq: 5
+    goal: "〈what＋S＋be動詞〉の定番訳を使いこなせる"
 
 check_points:
   - node_id: "nks-001"
@@ -329,6 +356,14 @@ check_points:
     seq: 3
     question: "I wonder what he is going to do. と I agree with what you say. の what の用法の違いは何か？"
     answer: "前者は疑問詞の what「何を」で、wonder の目的語になる名詞節を作る。後者は関係代名詞の what「〜なこと」で、with の目的語になる名詞節を作る。どちらも what 節内では動詞の目的語として機能している。"
+  - node_id: "nks-006"
+    seq: 4
+    question: "the ability to create binding fictions is what enabled us to ... の what はどのような用法か？"
+    answer: "関係代名詞の what で「〜なこと」。what 節全体が is の補語。what は節内で enabled の主語として機能している。「結びつける力を持つ虚構を創る能力は、私達が〜することを可能にしたことだ」。"
+  - node_id: "nks-006"
+    seq: 5
+    question: "Things aren't always what they seem. の what they seem はどう訳すか？"
+    answer: "「外見通りのもの」「見たままのもの」。〈what＋S＋be動詞/seem〉は定番表現で、what he is =「現在の彼」、what they seem =「外見」「印象」と訳す。文全体は「物事はいつも見たままであるということではない」。"
 
 node_prerequisites:
   - node_id: "nks-001"
@@ -391,3 +426,11 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_29"
     pages: "p.84-85"
+  - node_id: "nks-006"
+    book: "入門英文問題精講"
+    section_id: "Ny_30"
+    pages: "p.86-87"
+  - node_id: "nks-006"
+    book: "入門英文問題精講"
+    section_id: "Ny_31"
+    pages: "p.88-89"

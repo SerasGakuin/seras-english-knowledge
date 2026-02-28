@@ -308,13 +308,17 @@ sections:
     title: "補語になるwhat"
     pages: "p.86-87"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: 文中の what はどんな働きをする？
+      一言: Sapiens とは世界的なベストセラーの『サピエンス全史』のこと。大学生になったらぜひ読んでみてほしい。
   - id: "Ny_31"
     book: "入門英文問題精講"
     title: "目的語になるwhat"
     pages: "p.88-89"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: interpret の目的語はどこ？
+      一言: いくら外国へ行って色々なものを見ても、表面的なものだけでは得ることが少ない。目に映るものの本質を見る力を養う必要がある。
 
   # === 第4章 接続詞（17セクション） ===
   - id: "Ny_32"
@@ -697,6 +701,12 @@ section_knowledge_nodes:
     node_id: "nks-005"
     seq: 1
   - section_id: "Ny_29"
+    node_id: "nks-006"
+    seq: 1
+  - section_id: "Ny_30"
+    node_id: "nks-006"
+    seq: 1
+  - section_id: "Ny_31"
     node_id: "nks-006"
     seq: 1
 

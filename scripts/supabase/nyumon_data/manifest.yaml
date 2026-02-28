@@ -434,22 +434,22 @@ sections:
     title: "補語になるwhat"
     type: "exercise"
     pages: "p.86-87"
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nks-006をNy_29,31と共有（whatの用法①②③統合）"
   Ny_31:
     title: "目的語になるwhat"
     type: "exercise"
     pages: "p.88-89"
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nks-006をNy_29,30と共有（whatの用法①②③統合）"
 
   # === 第4章 接続詞（17セクション） ===
   Ny_32:
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 42
+  completed: 44
   in_progress: 0
-  not_started: 43
+  not_started: 41
   total_knowledge_nodes: 36
-  total_sentences: 130
+  total_sentences: 136

@@ -1,0 +1,46 @@
+sentences:
+  - id: "ny-30-s1"
+    section_id: "Ny_30"
+    drill: 30
+    number: 1
+    role: "exercise"
+    english: "Computer games are a form of story, and human beings are devoted storytellers."
+    japanese: "コンピュータゲームは物語の一形態であり，人間は熱心な語り手である。"
+    notes: "出典: 上智大学"
+  - id: "ny-30-s2"
+    section_id: "Ny_30"
+    drill: 30
+    number: 2
+    role: "exercise"
+    english: "As Yuval Noah Harari argues in his book Sapiens, the ability to create binding fictions is what enabled us to become the most dominant species on the planet."
+    japanese: "ユヴァル・ノア・ハラリが自著の『サピエンス全史』で主張しているように，結びつける力を持つ虚構を創る能力は，私達が地球上で最も支配的な種になることを可能にした。"
+    notes: "出典: 上智大学。* Yuval Noah Harari「ユヴァル・ノア・ハラリ：イスラエル人の歴史学者」* Sapiens『サピエンス全史』* binding fictions「結びつける力を持つ虚構」（問題文の語彙注釈）"
+
+sentence_structures:
+  - sentence_id: "ny-30-s1"
+    label: "overall"
+    value: "S V C, S V C"
+  - sentence_id: "ny-30-s1"
+    label: "details"
+    value: "{S}Computer games {V}are {C}a form (of story)(M:形容詞句), {等接}and {S}human beings {V}are {C}devoted storytellers."
+  - sentence_id: "ny-30-s1"
+    label: "partial_translations"
+    value: |
+      ❶ コンピュータゲームは物語の一形態であり，人間は熱心な語り手である
+  - sentence_id: "ny-30-s2"
+    label: "overall"
+    value: "M S V C"
+  - sentence_id: "ny-30-s2"
+    label: "details"
+    value: "[As {S}Yuval Noah Harari {V}argues (in his book Sapiens)(M:副詞句)](M:副詞節), {S}the ability (to create binding fictions)(M:形容詞句/不定詞) {V}is {C}[{S}what {V}enabled {O}us (to become the most dominant species (on the planet)(M:形容詞句))(M:副詞句/不定詞)](what節/補語)."
+  - sentence_id: "ny-30-s2"
+    label: "partial_translations"
+    value: |
+      ❷ ユヴァル・ノア・ハラリが自著の『サピエンス全史』で主張しているように
+      ❸ 私達が地球上で最も支配的な種になることを可能にしたこと
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-30-s1"
+    node_id: "nks-006"
+  - sentence_id: "ny-30-s2"
+    node_id: "nks-006"

@@ -1,37 +1,38 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T07:00:00"
+updated_at: "2026-03-02T09:00:00"
 book: "入門英文問題精講"
 book_slug: "nyumon"
 
 current_state:
-  phase: "Phase 2D"
-  current_section: "Ny_30"
+  phase: "Phase 2E"
+  current_section: "Ny_32"
   current_step: "Step 1"
-  last_completed_section: "Ny_29"
+  last_completed_section: "Ny_31"
   last_completed_gate: 5
 
 progress:
   total_sections: 85
-  completed: 42
+  completed: 44
   in_progress: 0
-  remaining: 43
+  remaining: 41
   total_nodes: 36
-  total_sentences: 130
+  total_sentences: 136
 
 recent_decisions:
   - "Ny_24+25+26: 非制限用法①②③を nks-004 に統合（①②③連番テーマ、比率0.33）"
   - "Ny_27+28: 関係副詞(when)と関係副詞の非制限用法を nks-005 に統合（比率0.5）"
-  - "Ny_29: nks-006 whatの用法。Ny_30,31で拡張予定"
+  - "Ny_29+30+31: whatの用法3問を nks-006 に統合（①②③連番テーマ、比率0.33）"
 
 active_concerns:
   - "nbk-001, nbk-002 は tagged sentences なし（基本講義ノードでは想定内）"
   - "nsv-003 のタグ付き英文が1文のみ"
 
 next_actions:
-  - "Phase 2D Batch 15: Ny_30（補語になるwhat）→ Ny_31（目的語になるwhat）→ 第3章完了"
-  - "Batch 15 完了後: 章区切りのため全指示書再読込"
+  - "Phase 2E Batch 16: Ny_32（等位接続詞and①）→ Ny_33（and②）→ Ny_34（and③）"
+  - "第4章開始。新カテゴリ nst（接続詞）。ch04.yaml を新規作成"
+  - "章区切りのため全指示書再読込済み"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"
