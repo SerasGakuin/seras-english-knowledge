@@ -78,32 +78,32 @@ sections:
     title: "補語"
     type: "grammar_lecture"
     pages: "p.18-19"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "S=C（第2文型）と O=C（第5文型）の補語。名詞/形容詞/分詞が補語になる。"
   Ny_G09:
     title: "前置詞＋名詞"
     type: "grammar_lecture"
     pages: "p.19-20"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "〈前置詞+名詞〉の副詞/形容詞の働き"
   Ny_G10:
     title: "句と節"
     type: "grammar_lecture"
     pages: "p.20-21"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "句（S+Vなし）と節（S+Vあり）の区別。従接/等接の導入。"
   Ny_G11:
     title: "句と節の働き"
     type: "grammar_lecture"
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 9
+  completed: 12
   in_progress: 0
-  not_started: 76
-  total_knowledge_nodes: 9
-  total_sentences: 27
+  not_started: 73
+  total_knowledge_nodes: 12
+  total_sentences: 44

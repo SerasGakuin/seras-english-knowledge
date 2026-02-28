@@ -125,6 +125,63 @@ knowledge_nodes:
         〈S + V + O + C〉で目的語が to不定詞のとき、形式的に it を置き、真の目的語を後ろに置く。
         例: I found it hard to go there by myself.
 
+  - id: "nbk-008"
+    name: "文の要素: 補語"
+    category: "基本講義"
+    priority: "P1"
+    notes: |
+      補語とは、主語の情報を補う語あるいは目的語の情報を補う語。
+      記号: C（complement）
+      ■ S = C の関係（主語補語）:
+        第2文型〈S + V + C〉で使われる。
+        代表的な動詞: be動詞, become, seem, look, turn
+        例: This flower is beautiful.（This flower = beautiful）
+            He looks happy.（He = happy）
+            The leaves turn yellow in fall.（The leaves = yellow）
+      ■ O = C の関係（目的語補語）:
+        第5文型〈S + V + O + C〉で使われる。
+        代表的な動詞: call, leave, keep
+        例: They call me John.（me = John, 名詞の補語）
+            They left the door broken.（the door = broken, 過去分詞の補語）
+            The teacher kept him standing.（him = standing, 現在分詞の補語）
+      ■ 補語になれるもの: 名詞、形容詞、分詞（現在分詞・過去分詞）
+
+  - id: "nbk-009"
+    name: "前置詞＋名詞の働き"
+    category: "基本講義"
+    priority: "P1"
+    notes: |
+      〈前置詞 + 名詞〉は、文中で副詞または形容詞の働きをする。
+      ■ 副詞の働き（通常パターン）:
+        動詞を修飾する。
+        例: He was born in this town.（in this town → 副詞、was born を修飾）
+            On Sunday I met her.（On Sunday → 副詞、met を修飾）
+            I cannot live without my smartphone.（without my smartphone → 副詞）
+            They sat by the window.（by the window → 副詞）
+      ■ 形容詞の働き（名詞の直後のとき）:
+        直前の名詞を修飾する。
+        例: Many boys in this park are fourth graders.
+            （in this park → 形容詞、Many boys を修飾）
+      ■ 訳の順序:
+        前置詞(in) + 名詞(this town) → 日本語では逆順「この町の中に」
+
+  - id: "nbk-010"
+    name: "句と節"
+    category: "基本講義"
+    priority: "P1"
+    notes: |
+      ■ 句（phrase）: 2語以上の単語のかたまり。〈S + V〉を含まない。
+        名詞・動詞・形容詞・副詞の働きをする。
+        例: last month（副詞句）、in the chairs by the window（副詞句）
+            to swim in the river（名詞句: 真主語）
+      ■ 節（clause）: 〈S + V〉を含むかたまり。
+        名詞・形容詞・副詞の働きをする。
+        例: that she likes cats（名詞節: think の目的語）
+            When I came home（副詞節: was sleeping を修飾）
+      ■ 従属接続詞（従接）: 節を導く接続詞。that, when など。
+      ■ 等位接続詞（等接）: 語・句・節を対等に結び付ける。and, but, or。
+      ■ 本書の用語: 本編では「完成した文」「欠けのある文」など、節を「文」と表現することがある。
+
 understanding_goals:
   - node_id: "nbk-001"
     seq: 1
@@ -216,6 +273,39 @@ understanding_goals:
   - node_id: "nbk-007"
     seq: 4
     goal: "形式目的語 it の構造を説明できる"
+
+  - node_id: "nbk-008"
+    seq: 1
+    goal: "英文の中で補語を正確に特定できる"
+  - node_id: "nbk-008"
+    seq: 2
+    goal: "S = C の関係（第2文型）と O = C の関係（第5文型）を区別できる"
+  - node_id: "nbk-008"
+    seq: 3
+    goal: "補語になれるもの（名詞・形容詞・分詞）を列挙できる"
+  - node_id: "nbk-008"
+    seq: 4
+    goal: "call/leave/keep + O + C の構造を認識し、O = C の関係を説明できる"
+
+  - node_id: "nbk-009"
+    seq: 1
+    goal: "〈前置詞 + 名詞〉が副詞の働きか形容詞の働きかを判断できる"
+  - node_id: "nbk-009"
+    seq: 2
+    goal: "名詞の直後の〈前置詞 + 名詞〉が形容詞として名詞を修飾していると認識できる"
+  - node_id: "nbk-009"
+    seq: 3
+    goal: "〈前置詞 + 名詞〉を正しい語順で日本語に訳せる"
+
+  - node_id: "nbk-010"
+    seq: 1
+    goal: "句と節の違い（〈S + V〉の有無）を説明できる"
+  - node_id: "nbk-010"
+    seq: 2
+    goal: "与えられた英文の下線部が句か節かを判断できる"
+  - node_id: "nbk-010"
+    seq: 3
+    goal: "従属接続詞（従接）と等位接続詞（等接）の違いを説明できる"
 
 check_points:
   - node_id: "nbk-001"
@@ -337,6 +427,49 @@ check_points:
     question: "I found it hard to go there by myself. の it は何か？"
     answer: "形式目的語。真の目的語は to go there by myself。〈S+V+O+C〉の目的語が to不定詞のとき、形式的に it を置き、真の目的語を後ろに回す。"
 
+  - node_id: "nbk-008"
+    seq: 1
+    question: "補語とは何か？ どのような関係を作るか？"
+    answer: "主語の情報を補う語（S=C）、または目的語の情報を補う語（O=C）。記号 C。"
+  - node_id: "nbk-008"
+    seq: 2
+    question: "They left the door broken. の broken は何か？ O = C の関係を説明せよ。"
+    answer: "補語。the door = broken（ドアが壊れた状態）の関係。leave O C で「Oを Cの状態に放置する」。"
+  - node_id: "nbk-008"
+    seq: 3
+    question: "第2文型の補語と第5文型の補語の違いは？"
+    answer: "第2文型〈S+V+C〉は主語を補う（S=C）。第5文型〈S+V+O+C〉は目的語を補う（O=C）。"
+  - node_id: "nbk-008"
+    seq: 4
+    question: "The teacher kept him standing. の standing は何か？"
+    answer: "補語（現在分詞）。him = standing の関係。keep O C で「OをCの状態に保つ」。"
+
+  - node_id: "nbk-009"
+    seq: 1
+    question: "〈前置詞 + 名詞〉は文中でどのような働きをするか？"
+    answer: "通常は動詞を修飾する副詞の働き。ただし名詞の直後にある場合は、その名詞を修飾する形容詞の働きをする。"
+  - node_id: "nbk-009"
+    seq: 2
+    question: "Many boys in this park are fourth graders. の in this park は副詞か形容詞か？"
+    answer: "形容詞。名詞 Many boys の直後にあり、Many boys を修飾している（「この公園の多くの少年」）。"
+  - node_id: "nbk-009"
+    seq: 3
+    question: "in this town を日本語でどう訳すか？ なぜ順序が逆になるか？"
+    answer: "「この町で」（または「この町の中に」）。英語は前置詞→名詞の順だが、日本語は名詞→助詞の順のため逆になる。"
+
+  - node_id: "nbk-010"
+    seq: 1
+    question: "句と節の違いは何か？"
+    answer: "句は2語以上のかたまりで〈S+V〉を含まない。節は〈S+V〉を含むかたまり。"
+  - node_id: "nbk-010"
+    seq: 2
+    question: "that she likes cats は句か節か？ その根拠は？"
+    answer: "節。she(S) likes(V) cats という〈S+V〉を含んでいるため。名詞節として think の目的語。"
+  - node_id: "nbk-010"
+    seq: 3
+    question: "従属接続詞と等位接続詞の違いは何か？ 各1例を挙げよ。"
+    answer: "従属接続詞（従接）: 節を導く（that, when 等）。等位接続詞（等接）: 語・句・節を対等に結ぶ（and, but, or）。"
+
 node_prerequisites:
   - node_id: "nbk-002"
     prerequisite_id: "nbk-001"
@@ -356,6 +489,18 @@ node_prerequisites:
     prerequisite_id: "nbk-001"
   - node_id: "nbk-007"
     prerequisite_id: "nbk-006"
+  - node_id: "nbk-008"
+    prerequisite_id: "nbk-006"
+  - node_id: "nbk-008"
+    prerequisite_id: "nbk-003"
+  - node_id: "nbk-009"
+    prerequisite_id: "nbk-003"
+  - node_id: "nbk-009"
+    prerequisite_id: "nbk-004"
+  - node_id: "nbk-010"
+    prerequisite_id: "nbk-006"
+  - node_id: "nbk-010"
+    prerequisite_id: "nbk-009"
 
 knowledge_references:
   - node_id: "nbk-001"
@@ -386,3 +531,15 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_G07"
     pages: "p.17-18"
+  - node_id: "nbk-008"
+    book: "入門英文問題精講"
+    section_id: "Ny_G08"
+    pages: "p.18-19"
+  - node_id: "nbk-009"
+    book: "入門英文問題精講"
+    section_id: "Ny_G09"
+    pages: "p.19-20"
+  - node_id: "nbk-010"
+    book: "入門英文問題精講"
+    section_id: "Ny_G10"
+    pages: "p.20-21"

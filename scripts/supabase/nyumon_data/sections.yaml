@@ -47,19 +47,19 @@ sections:
     title: "補語"
     pages: "p.18-19"
     type: "grammar_lecture"
-    notes: ""
+    notes: "講義動画: 第8回"
   - id: "Ny_G09"
     book: "入門英文問題精講"
     title: "前置詞＋名詞"
     pages: "p.19-20"
     type: "grammar_lecture"
-    notes: ""
+    notes: "講義動画: 第9回"
   - id: "Ny_G10"
     book: "入門英文問題精講"
     title: "句と節"
     pages: "p.20-21"
     type: "grammar_lecture"
-    notes: ""
+    notes: "講義動画: 第10回。本編では「完成した文」「欠けのある文」など、節を「文」と表現することがある旨の注意あり。"
   - id: "Ny_G11"
     book: "入門英文問題精講"
     title: "句と節の働き"
@@ -554,6 +554,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_G07"
     node_id: "nbk-007"
+    seq: 1
+  - section_id: "Ny_G08"
+    node_id: "nbk-008"
+    seq: 1
+  - section_id: "Ny_G09"
+    node_id: "nbk-009"
+    seq: 1
+  - section_id: "Ny_G10"
+    node_id: "nbk-010"
     seq: 1
 
 section_prerequisites: []

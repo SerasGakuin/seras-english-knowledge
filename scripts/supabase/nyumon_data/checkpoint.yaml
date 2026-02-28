@@ -1,30 +1,31 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T16:00:00"
+updated_at: "2026-03-01T18:00:00"
 book: "入門英文問題精講"
 book_slug: "nyumon"
 
 current_state:
   phase: "Phase 2A — 基本講義の残り"
-  current_section: "Ny_G08"
+  current_section: "Ny_G11"
   current_step: "Step 1"
-  last_completed_section: "Ny_G07"
+  last_completed_section: "Ny_G10"
   last_completed_gate: 5
 
 progress:
   total_sections: 85
-  completed: 9
+  completed: 12
   in_progress: 0
-  remaining: 76
-  total_nodes: 9
-  total_sentences: 27
+  remaining: 73
+  total_nodes: 12
+  total_sentences: 44
 
 recent_decisions:
   - "Ny_G05〜G07: Qが完全文を含むため role: example で登録"
   - "同一英文の複数セクション出現: 各セクションに独立登録（section_id/tags が異なるため）"
-  - "nbk-006 の prerequisites に nbk-005（主語）を追加（文型理解に主語の概念が前提）"
-  - "nbk-007 の prerequisites に nbk-006（文型）を追加（目的語は文型の一部）"
+  - "nbk-008 の prerequisites: nbk-006（文型）+ nbk-003（形容詞）"
+  - "nbk-009 の prerequisites: nbk-003（形容詞）+ nbk-004（副詞）"
+  - "nbk-010 の prerequisites: nbk-006（文型）+ nbk-009（前置詞＋名詞）"
 
 active_concerns:
   - "基本講義完了後に nsv-001, nks-001 の prerequisites を見直す"
@@ -33,7 +34,7 @@ active_concerns:
 
 next_actions:
   - "構造化共通ワークフロー.md を再読込（3セクション完了のため）"
-  - "Batch 3: Ny_G08（補語）→ Ny_G09（前置詞＋名詞）→ Ny_G10（句と節）"
+  - "Batch 4: Ny_G11（句と節の働き）→ Ny_G12（助動詞）→ Ny_G13（to不定詞 + Section 14 まとめ）"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"
