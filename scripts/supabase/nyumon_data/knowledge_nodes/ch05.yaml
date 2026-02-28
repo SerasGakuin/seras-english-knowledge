@@ -32,6 +32,77 @@ knowledge_nodes:
         however は副詞（butは接続詞）。
         副詞の位置は比較的自由: (1)文頭 (2)主語直後 (3)文末。
 
+  - id: "nhk-002"
+    name: "比較構文の共通要素省略と復元"
+    category: "比較"
+    priority: "P1"
+    notes: |
+      Point分類: ❺〔比較〕（問50）、❷❸〔比較〕（問51）
+      thanは接続詞であり、後ろにはS+Vが続く。共通要素は省略される。比較級の文を元の2文に復元して構造を理解する。
+      ■ thanは接続詞（問50 ❺, 問51 ❷❸）:
+        He is older than Bob. = He is older than Bob is old.
+        共通要素の is old が省略される。
+        比較の理解にはthan＝接続詞の認識が必須。
+      ■ 元の文への復元（問50 ❺）:
+        it was once much warmer than it currently is [warm]
+        → wasとisの比較（現在と過去は動詞と動詞の比較）。
+        共通要素 warm が後半の文から省略されている。
+      ■ much＋比較級 =「ずっと〜」（問50 ❺）:
+        much warmer =「ずっと暖かい」。
+        muchは比較級を強調する副詞。
+      ■ 動名詞句同士の比較（問51 ❸）:
+        reading for fun, even a little every day（動名詞句=主語）
+        vs spending many hours reading for studying and gathering information（動名詞句）
+        比較対象は文法的に同じもの（動名詞句同士）。
+        than以下を元の文に復元:
+        than just spending ... is beneficial
+      ■ thanの後の省略と復元（問51 ❷）:
+        those who do not [read daily for pleasure]
+        = students who do not read daily for pleasure
+        共通要素を復元する。「わかりきっているから省略される」。
+      ❶（問50）lack a complete understanding:
+        lackは「〜が欠けている」。「完全な理解が欠けている」→「完全には理解していない」。
+      ❷（問50）all over its surface:
+        allは副詞句を強調する副詞。all over the world「世界中で」。
+      ❸（問50）chemistry:
+        「化学反応」→「化学組成」と意味が発展。単語は文中で予想外の意味を持ちうる。
+      ❹（問50）and so:
+        and soで因果関係を示す。「それで，だから」。thinkの主語は文頭のWe。
+      ❻（問50）in order to V:
+        toの目的用法を強調。「〜するために」。全体で副詞句。
+      ❶（問51）who はどこにつながる？:
+        studentsを説明する関係代名詞節。who ... for pleasureまでが主語。
+      ❹（問51）andは何と何をつなぐ？:
+        forの後の2つの動名詞 studying と gathering information をつなぐ。
+
+  - id: "nhk-003"
+    name: "there is more...thanの構造"
+    category: "比較"
+    priority: "P1"
+    notes: |
+      Point分類: ❹〔比較〕（問52）
+      there is more ... than ... の構文で、比較級の元の2文を復元して意味を把握する。
+      ■ 比較級を見たら元の2文を復元する（問52 ❹）:
+        There is more (to be worried about)
+        than (there is) a possible increased risk of cancer.
+        → there is が共通要素として省略。
+        「心配することの量」＞「がんになるリスクの増加」
+        → 「がんのリスク増加よりも、もっと心配すべきことがある」。
+      ■ moreの二重品詞:
+        moreは文の主語（名詞の働き）であると同時に、比較級として形容詞・副詞の役割も兼ねる。
+        このような語を二重品詞と呼ぶことがある。
+      ❶（問52）has been:
+        期間を示す副詞句 For more than 50 years により現在完了「継続」。
+        3人称単数の主語(the health)なので has been。
+        more than 50 years: thanには等号(＝)は含まないので「50年より前から」。
+      ❷（問52）let O 原形不定詞:
+        let + O + 原形不定詞 =「Oが〜するのを許す」。
+        NASA does not let the risk ... rise =「リスクが上昇するのを許さない」。
+      ❸（問52）more than three percent:
+        rise (by) more than three percent。
+        increase/rise by〜 の by は自明のため省略される傾向がある。
+        byは「増加分・減少分」を示す前置詞。100から150まで増加すれば媒介は50でby 50。
+
 understanding_goals:
   - node_id: "nhk-001"
     seq: 1
@@ -42,6 +113,26 @@ understanding_goals:
   - node_id: "nhk-001"
     seq: 3
     goal: "比較対象が単語ではなく句や節の場合も正しく把握できる"
+
+  - node_id: "nhk-002"
+    seq: 1
+    goal: "thanが接続詞であることを理解し、後ろにS+Vが続くことを説明できる"
+  - node_id: "nhk-002"
+    seq: 2
+    goal: "比較級の文を元の2文に復元し、省略された共通要素を特定できる"
+  - node_id: "nhk-002"
+    seq: 3
+    goal: "動名詞句・前置詞句など句同士の比較対象を正確に特定できる"
+
+  - node_id: "nhk-003"
+    seq: 1
+    goal: "there is more ... than ... 構文の意味を正確に把握できる"
+  - node_id: "nhk-003"
+    seq: 2
+    goal: "比較級を含む文から元の2文を復元できる"
+  - node_id: "nhk-003"
+    seq: 3
+    goal: "moreの二重品詞（名詞＋形容詞/副詞）を理解できる"
 
 check_points:
   - node_id: "nhk-001"
@@ -57,12 +148,55 @@ check_points:
     question: "比較対象を特定する基本原則は何か？"
     answer: "比較されるのは文法的に同じもの（同じ文法的役割・形式を持つ要素）。ただし一語とは限らず、句や節が比較対象になることもある。"
 
+  - node_id: "nhk-002"
+    seq: 1
+    question: "He is older than Bob. を元の2文に復元せよ。"
+    answer: "He is older than Bob is old. thanは接続詞で後ろにS+Vが続き、共通要素 is old が省略されている。"
+  - node_id: "nhk-002"
+    seq: 2
+    question: "it was once much warmer than it currently is で比較されているのは何と何か？"
+    answer: "wasとis（動詞と動詞の比較）。現在と過去の比較は動詞で表す。共通要素 warm が省略されている。much は比較級を強調する副詞で「ずっと」の意味。"
+  - node_id: "nhk-002"
+    seq: 3
+    question: "reading for fun ... is more beneficial than just spending ... で比較されているのは何と何か？"
+    answer: "reading for fun（動名詞句）と spending many hours reading for studying and gathering information（動名詞句）。文法的に同じもの（動名詞句同士）が比較されている。"
+
+  - node_id: "nhk-003"
+    seq: 1
+    question: "there is more to be worried about than a possible increased risk of cancer を元の2文に復元せよ。"
+    answer: "There is more (to be worried about) / than there is a possible increased risk of cancer. 共通要素 there is が省略。「がんのリスク増加以上に心配すべきことがある」。"
+  - node_id: "nhk-003"
+    seq: 2
+    question: "この文の more の品詞は何か？"
+    answer: "moreは名詞（文の主語 = there is の S）であると同時に比較級として形容詞の役割を兼ねる（二重品詞）。"
+  - node_id: "nhk-003"
+    seq: 3
+    question: "「比較級を見たら元の2文を考える」とはどういう手法か？"
+    answer: "I am older than Bob. → I am old / Bob is old の2文を想定し、比較の構造を理解する手法。thanは接続詞なので後ろにS+Vの完全な文が存在し、共通要素が省略されていると考える。"
+
 node_prerequisites:
   - node_id: "nhk-001"
     prerequisite_id: "nbk-001"
+
+  - node_id: "nhk-002"
+    prerequisite_id: "nhk-001"
+  - node_id: "nhk-003"
+    prerequisite_id: "nhk-002"
 
 knowledge_references:
   - node_id: "nhk-001"
     book: "入門英文問題精講"
     section_id: "Ny_49"
     pages: "p.124-125"
+  - node_id: "nhk-002"
+    book: "入門英文問題精講"
+    section_id: "Ny_50"
+    pages: "p.126-127"
+  - node_id: "nhk-002"
+    book: "入門英文問題精講"
+    section_id: "Ny_51"
+    pages: "p.128-129"
+  - node_id: "nhk-003"
+    book: "入門英文問題精講"
+    section_id: "Ny_52"
+    pages: "p.130-131"

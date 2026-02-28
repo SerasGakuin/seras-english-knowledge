@@ -1,0 +1,54 @@
+sentences:
+  - id: "ny-51-s1"
+    section_id: "Ny_51"
+    drill: 51
+    number: 1
+    role: "exercise"
+    english: "Research has shown that students who read daily for pleasure perform better on tests than those who do not."
+    japanese: "研究によると，毎日楽しみのために読書している学生はそうでない学生より試験の成績がよいということだ。"
+    notes: ""
+
+  - id: "ny-51-s2"
+    section_id: "Ny_51"
+    drill: 51
+    number: 2
+    role: "exercise"
+    english: "Researchers have also found that reading for fun, even a little every day, is actually more beneficial than just spending many hours reading for studying and gathering information."
+    japanese: "また毎日ほんの少しでも楽しみのために読書することは，勉強や情報収集のためにただ何時間も何かを読むより実際有益であることも研究者は発見した。"
+    notes: ""
+
+sentence_structures:
+  - sentence_id: "ny-51-s1"
+    label: "overall"
+    value: "S V O"
+
+  - sentence_id: "ny-51-s1"
+    label: "details"
+    value: "{S}Research(S) {V}has shown(V) {O}[that(従接) students [who(関代) read daily (for pleasure)(M:副詞句)](M:関代節)(S) perform(V) better (on tests)(M:副詞句) (than those [who(関代) do not](M:関代節))(M:比較)](O)"
+
+  - sentence_id: "ny-51-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 楽しみのために毎日読書する学生は～だ
+      ❷ そうでない学生より試験の成績がよい
+
+  - sentence_id: "ny-51-s2"
+    label: "overall"
+    value: "S V O"
+
+  - sentence_id: "ny-51-s2"
+    label: "details"
+    value: "{S}Researchers(S) have also {V}found(V) {O}[that(従接) (reading (for fun)(M:副詞句), (even a little every day)(M:挿入副詞句),)(S) is(V) actually more beneficial(C) (than just spending many hours reading (for studying and gathering information)(M:副詞句))(M:比較)](O)"
+
+  - sentence_id: "ny-51-s2"
+    label: "partial_translations"
+    value: |
+      ❸ 毎日ほんの少しでも楽しみのために読書すること（動名詞句=主語）
+      ❹ 勉強や情報収集のために
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-51-s1"
+    node_id: "nhk-002"
+
+  - sentence_id: "ny-51-s2"
+    node_id: "nhk-002"

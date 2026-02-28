@@ -1,0 +1,57 @@
+sentences:
+  - id: "ny-50-s1"
+    section_id: "Ny_50"
+    drill: 50
+    number: 1
+    role: "exercise"
+    english: "We also lack a complete understanding of Mars's history."
+    japanese: "私達はまた，火星の歴史を完全には理解していない。"
+    notes: |
+      出典: 九州大学
+      * Mars「火星」（問題文の語彙注釈）
+
+  - id: "ny-50-s2"
+    section_id: "Ny_50"
+    drill: 50
+    number: 2
+    role: "exercise"
+    english: "We see signs of past water all over its surface and in its chemistry, and so think it was once much warmer than it currently is in order to support liquid water."
+    japanese: "私達はその表面全体とその化学組成に，過去に水が存在した痕跡を見る。そしてそれゆえ，液体の水を維持するためにかつては現在よりはるかに暖かかったと私達は考えている。"
+    notes: "出典: 九州大学"
+
+sentence_structures:
+  - sentence_id: "ny-50-s1"
+    label: "overall"
+    value: "S V O"
+
+  - sentence_id: "ny-50-s1"
+    label: "details"
+    value: "{S}We(S) also {V}lack(V) {O}a complete understanding (of Mars's history)(M:形容詞句)(O)"
+
+  - sentence_id: "ny-50-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 私達はまた，火星の歴史を完全には理解していない
+
+  - sentence_id: "ny-50-s2"
+    label: "overall"
+    value: "S V O and V O M"
+
+  - sentence_id: "ny-50-s2"
+    label: "details"
+    value: "{S}We(S) {V}see(V) {O}signs (of past water)(M:形容詞句)(O) (all over its surface)(M:副詞句) and (in its chemistry)(M:副詞句), and so {V}think(V) {O}[it(S) was(V) once much warmer(C) [than it(S) currently is(V)](M:比較)](O) (in order to support liquid water)(M:副詞句)"
+
+  - sentence_id: "ny-50-s2"
+    label: "partial_translations"
+    value: |
+      ❷ 火星の表面全体と火星の化学組成に過去に水が存在した痕跡を見る
+      ❹ だから，私達は…と考えている
+      ❺ かつては現在よりはるかに暖かかった
+      ❻ 液体の水を維持するために
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-50-s1"
+    node_id: "nhk-002"
+
+  - sentence_id: "ny-50-s2"
+    node_id: "nhk-002"

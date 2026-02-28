@@ -1,0 +1,80 @@
+sentences:
+  - id: "ny-52-s1"
+    section_id: "Ny_52"
+    drill: 52
+    number: 1
+    role: "exercise"
+    english: "For more than 50 years, the health of American astronauts has been a concern of NASA — the National Aeronautics and Space Administration."
+    japanese: "50年よりも前から，アメリカの宇宙飛行士の健康はNASA(アメリカ航空宇宙局)の懸念であった。"
+    notes: |
+      出典: 東京経済大学
+      * NASA（National Aeronautics and Space Administration）「アメリカ航空宇宙局」（問題文の語彙注釈）
+
+  - id: "ny-52-s2"
+    section_id: "Ny_52"
+    drill: 52
+    number: 2
+    role: "exercise"
+    english: "NASA does not let the risk of cancer for its astronauts rise more than three percent during their lifetime."
+    japanese: "NASAは宇宙飛行士にとってのがんの危険性が，生涯にわたり一般より3パーセントを上回ることを許さない。"
+    notes: "出典: 東京経済大学"
+
+  - id: "ny-52-s3"
+    section_id: "Ny_52"
+    drill: 52
+    number: 3
+    role: "exercise"
+    english: "But there is more to be worried about than a possible increased risk of cancer."
+    japanese: "しかし，がんの危険性が増加する可能性を上回る懸念されることがあるのだ。"
+    notes: "出典: 東京経済大学"
+
+sentence_structures:
+  - sentence_id: "ny-52-s1"
+    label: "overall"
+    value: "M S V C"
+
+  - sentence_id: "ny-52-s1"
+    label: "details"
+    value: "(For more than 50 years)(M:副詞句), {S}the health (of American astronauts)(M:形容詞句)(S) {V}has been(V) {C}a concern (of NASA — the National Aeronautics and Space Administration)(M:形容詞句)(C)"
+
+  - sentence_id: "ny-52-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 50年よりも前から，アメリカの宇宙飛行士の健康はNASAの懸念であった
+
+  - sentence_id: "ny-52-s2"
+    label: "overall"
+    value: "S V O C M"
+
+  - sentence_id: "ny-52-s2"
+    label: "details"
+    value: "{S}NASA(S) does not {V}let(V) {O}the risk (of cancer)(M:形容詞句) (for its astronauts)(M:形容詞句)(O) {C}rise(C:原形不定詞) (more than three percent)(M:副詞句) (during their lifetime)(M:副詞句)"
+
+  - sentence_id: "ny-52-s2"
+    label: "partial_translations"
+    value: |
+      ❷ NASAは宇宙飛行士にとってのがんの危険性が上昇するのを許さない
+      ❸ 3パーセントより増える
+
+  - sentence_id: "ny-52-s3"
+    label: "overall"
+    value: "there V S M"
+
+  - sentence_id: "ny-52-s3"
+    label: "details"
+    value: "But there {V}is(V) {S}more (to be worried about)(M:形容詞句)(S) (than a possible increased risk of cancer)(M:比較)"
+
+  - sentence_id: "ny-52-s3"
+    label: "partial_translations"
+    value: |
+      ❹ 心配することの量 ＞ がんになるリスクの増加
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-52-s1"
+    node_id: "nhk-003"
+
+  - sentence_id: "ny-52-s2"
+    node_id: "nhk-003"
+
+  - sentence_id: "ny-52-s3"
+    node_id: "nhk-003"

@@ -480,19 +480,24 @@ sections:
     title: "比較対象の把握②"
     pages: "p.126-127"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: 比較対象は文法的・意味的に同じもの
   - id: "Ny_51"
     book: "入門英文問題精講"
     title: "比較対象の把握③"
     pages: "p.128-129"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: thanは接続詞で本来はS+Vが続く
+      一言: 論語の中に「知之者不如好之者，好之者不如楽之者」（これを知る者はこれを好む者にしかず，これを好む者はこれを楽しむ者にしかず）とあり，知識を持っている者より好きな者が勝り，好きな者より楽しむ者が勝るという意味。
   - id: "Ny_52"
     book: "入門英文問題精講"
     title: "比較対象の把握④"
     pages: "p.130-131"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: 第3文のthere is moreの後ろには……
+      一言: 宇宙飛行士が受ける可能性のある苦難は想像できない。「未知への挑戦のために命がけでやっている」ということ。
   - id: "Ny_53"
     book: "入門英文問題精講"
     title: "the＋比較級，the＋比較級"
@@ -809,6 +814,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_49"
     node_id: "nhk-001"
+    seq: 1
+  - section_id: "Ny_50"
+    node_id: "nhk-002"
+    seq: 1
+  - section_id: "Ny_51"
+    node_id: "nhk-002"
+    seq: 1
+  - section_id: "Ny_52"
+    node_id: "nhk-003"
     seq: 1
 
 section_prerequisites: []

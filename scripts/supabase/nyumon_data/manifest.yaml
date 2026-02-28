@@ -638,32 +638,32 @@ sections:
     title: "比較対象の把握②"
     type: "exercise"
     pages: "p.126-127"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nhk-002(比較構文の共通要素省略と復元) Ny_51と共有"
   Ny_51:
     title: "比較対象の把握③"
     type: "exercise"
     pages: "p.128-129"
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nhk-002をNy_50と共有（比較構文の共通要素省略と復元）"
   Ny_52:
     title: "比較対象の把握④"
     type: "exercise"
     pages: "p.130-131"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "nhk-003(there is more...thanの構造)"
   Ny_53:
     title: "the＋比較級，the＋比較級"
     type: "exercise"
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 62
+  completed: 65
   in_progress: 0
-  not_started: 23
-  total_knowledge_nodes: 52
-  total_sentences: 167
+  not_started: 20
+  total_knowledge_nodes: 54
+  total_sentences: 174
