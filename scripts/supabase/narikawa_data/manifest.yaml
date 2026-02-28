@@ -11,7 +11,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 3
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "パイロット1/3"
   Nar_01_16:
@@ -21,7 +21,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 5
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "パイロット2/3"
   Nar_03_01:
@@ -31,7 +31,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 7
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "パイロット3/3。▶例文1件を v001 として登録"
 
