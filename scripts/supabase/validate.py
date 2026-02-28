@@ -8,9 +8,35 @@ Example: python scripts/supabase/validate.py scripts/supabase/kakushin_data
 
 import sys
 import os
+import re
 import yaml
 from pathlib import Path
 from collections import defaultdict
+
+
+# 参考書別のバリデーション設定
+BOOK_CONFIGS = {
+    "kakushin": {
+        "sentence_id_pattern": r"^kaku-\d{2}[a-c]?-[ecx]\d{2}$",
+        "node_section_ratio": (2.0, 4.0),
+    },
+    "narikawa": {
+        "sentence_id_pattern": r"^nar-\d{4}-[ev]\d{3}$",
+        "node_section_ratio": (1.0, 2.0),
+    },
+    "nyumon": {
+        "sentence_id_pattern": r"^ny-\d{2}-s\d+$",
+        "node_section_ratio": (2.0, 4.0),
+    },
+}
+
+
+def detect_book_slug(data_dir):
+    """ディレクトリ名から book_slug を検出する（xxx_data → xxx）"""
+    dir_name = Path(data_dir).name
+    if dir_name.endswith("_data"):
+        return dir_name[:-5]
+    return dir_name
 
 
 def load_yaml(path):
@@ -171,14 +197,16 @@ def validate(data_dir):
 
     # CHECK-09: ID命名規則の一貫性
     # ノードID: {prefix}-{3桁}
-    import re
+    book_slug = detect_book_slug(data_dir)
+    book_cfg = BOOK_CONFIGS.get(book_slug, {})
     for n in nodes:
         if not re.match(r"^[a-z]{3}-\d{3}$", n["id"]):
             errors.append(f"CHECK-09: ノードID '{n['id']}' が命名規則に合致しません (期待: xxx-NNN)")
-    # 英文ID: kaku-{テーマ番号}-{role短縮}{連番}
+    # 英文ID: 参考書別パターン
+    sent_id_pattern = book_cfg.get("sentence_id_pattern", r"^[a-z]+-\d+-[a-z]\d+$")
     for s in sents:
-        if not re.match(r"^kaku-\d{2}[a-c]?-[ecx]\d{2}$", s["id"]):
-            errors.append(f"CHECK-09: 英文ID '{s['id']}' が命名規則に合致しません (期待: kaku-XX-rNN)")
+        if not re.match(sent_id_pattern, s["id"]):
+            errors.append(f"CHECK-09: 英文ID '{s['id']}' が命名規則に合致しません (期待パターン: {sent_id_pattern})")
     if not any("CHECK-09" in e for e in errors):
         print("CHECK-09: ID命名規則 ... OK")
 
@@ -220,9 +248,10 @@ def validate(data_dir):
         completed_sections.add(sn["section_id"])
     if completed_sections:
         ratio = len(nodes) / len(completed_sections)
-        print(f"CHECK-13: ノード/セクション比率 = {ratio:.1f} (目安: 2.0〜4.0)")
-        if ratio < 2.0 or ratio > 4.0:
-            warnings.append(f"CHECK-13: ノード/セクション比率が {ratio:.1f} (目安範囲外)")
+        ratio_range = book_cfg.get("node_section_ratio", (2.0, 4.0))
+        print(f"CHECK-13: ノード/セクション比率 = {ratio:.1f} (目安: {ratio_range[0]}〜{ratio_range[1]})")
+        if ratio < ratio_range[0] or ratio > ratio_range[1]:
+            warnings.append(f"CHECK-13: ノード/セクション比率が {ratio:.1f} (目安範囲: {ratio_range[0]}〜{ratio_range[1]})")
 
     # === サマリ ===
     print("\n" + "=" * 60)
