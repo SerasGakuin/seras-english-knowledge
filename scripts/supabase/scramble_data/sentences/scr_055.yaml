@@ -1,0 +1,95 @@
+# Scr_055: Theme 55 倍数の表し方 → skh-008
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-055-p01"
+    section_id: "Scr_055"
+    drill: 1
+    number: 186
+    role: "exam"
+    english: "His farm is more than twice as large as mine and grows a wider variety of crops."
+    japanese: "彼の農場は私のところの2倍以上の大きさがあり、さまざまな作物を栽培している。"
+    notes: "難易度: 頻出; 出典: 成蹊大; 整序(1語不要); twice as + 原級 + as ...「...の2倍〜」; more than twice で「2倍以上」; timesが不要; 発展: X times + 比較級 + than も可だがtwice + 比較級 + than は不可"
+  - id: "scr-055-p02"
+    section_id: "Scr_055"
+    drill: 1
+    number: 187
+    role: "exam"
+    english: "He has three times as many books as I used to."
+    japanese: "彼は、私がかつて持っていたよりも3倍の本を持っている。"
+    notes: "難易度: 頻出; 出典: 近畿大; 整序; X times as + many 複数名詞 + as ...「...のX倍の数の名詞」; 語順注意: as many books as（×books as many as）"
+  - id: "scr-055-p03"
+    section_id: "Scr_055"
+    drill: 1
+    number: 188
+    role: "exam"
+    english: "The new stadium is about three times the size of the old one."
+    japanese: "新しい競技場は古いものよりも3倍くらい大きい。"
+    notes: "難易度: 発展; 出典: 立命館大; 整序; X times the size of ...「...のX倍の大きさ」; the + 名詞 + ofの形; = about three times as large as the old one"
+
+  # === 例文（example） ===
+  - id: "scr-055-e01"
+    section_id: "Scr_055"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "This plant needs five times as much water as that one."
+    japanese: "この植物はあの植物の5倍の水を必要とする。"
+    notes: "問187解説比較例文; X times as + much 不可算名詞 + as ...「...のX倍の量の名詞」"
+  - id: "scr-055-e02"
+    section_id: "Scr_055"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "This dog is about the size of a small cat."
+    japanese: "この犬は小さな猫とほぼ同じ大きさだ。"
+    notes: "PU!35例文; the + 名詞 + of は as + 形容詞 + as とほぼ同意; = about as large as a small cat"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-055-p01"
+    label: "overall"
+    value: "S V C and V O"
+  - sentence_id: "scr-055-p01"
+    label: "details"
+    value: "<His farm>(S) is(V) <more than twice as large as mine>(C:倍数比較) and grows(V) <a wider variety of crops>(O)."
+  # p02
+  - sentence_id: "scr-055-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-055-p02"
+    label: "details"
+    value: "He(S) has(V) <three times as many books as I used to>(O:倍数比較)."
+  # p03
+  - sentence_id: "scr-055-p03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-055-p03"
+    label: "details"
+    value: "<The new stadium>(S) is(V) <about three times the size of the old one>(C:the+名詞+of)."
+  # e01
+  - sentence_id: "scr-055-e01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-055-e01"
+    label: "details"
+    value: "<This plant>(S) needs(V) <five times as much water as that one>(O:倍数比較:不可算)."
+  # e02
+  - sentence_id: "scr-055-e02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-055-e02"
+    label: "details"
+    value: "<This dog>(S) is(V) <about the size of a small cat>(C:the+名詞+of)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-055-p01"
+    node_id: "skh-008"
+  - sentence_id: "scr-055-p02"
+    node_id: "skh-008"
+  - sentence_id: "scr-055-p03"
+    node_id: "skh-008"
+  - sentence_id: "scr-055-e01"
+    node_id: "skh-008"
+  - sentence_id: "scr-055-e02"
+    node_id: "skh-008"

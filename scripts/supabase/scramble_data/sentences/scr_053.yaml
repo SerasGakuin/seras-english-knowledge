@@ -1,0 +1,78 @@
+# Scr_053: Theme 53 if節の代用 → skh-007
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-053-p01"
+    section_id: "Scr_053"
+    drill: 1
+    number: 181
+    role: "exam"
+    english: "A secret agency would never let you know their names and real identities."
+    japanese: "諜報機関ならば、決して本当の名前や正体について明かさないだろう。"
+    notes: "出典: 成蹊大; 整序(1語不要); 主語がif節の代わりをする場合; A secret agencyに仮定の意味; ifが不要"
+  - id: "scr-053-p02"
+    section_id: "Scr_053"
+    drill: 1
+    number: 182
+    role: "exam"
+    english: "I ran to the station. Otherwise, I would have missed the train."
+    japanese: "私は駅まで走った。そうでなかったら、電車に乗りそこなっただろう。"
+    notes: "難易度: 頻出; 出典: 芝浦工大; 4択; otherwise「さもなければ」がif節の代わり; Otherwise = If I had not run to the station"
+  - id: "scr-053-p03"
+    section_id: "Scr_053"
+    drill: 1
+    number: 183
+    role: "exam"
+    english: "To hear him speak in French, you would think him a Frenchman."
+    japanese: "彼がフランス語で話すのを聞くと、フランス人と思うだろう。"
+    notes: "出典: 名城大; 穴埋め(To); to不定詞がif節の代わりをする; To hear = If you heard"
+
+  # === 例文（example） ===
+  - id: "scr-053-e01"
+    section_id: "Scr_053"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "The town has changed a lot — you wouldn't recognize it now."
+    japanese: "町はとても変わった。今では（もし来ても）あなたはわからないでしょう。"
+    notes: "PU!32(発展); if節も代用表現もない仮定法; 助動詞の過去形wouldが仮定法の目印; 主節だけで文を構成"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-053-p01"
+    label: "overall"
+    value: "S V O O"
+  - sentence_id: "scr-053-p01"
+    label: "details"
+    value: "<A secret agency>(S:仮定の意味を含む主語) would never let(V) <you>(O) [know their names and real identities](O:原形不定詞)."
+  # p02
+  - sentence_id: "scr-053-p02"
+    label: "overall"
+    value: "S V M. M S V O"
+  - sentence_id: "scr-053-p02"
+    label: "details"
+    value: "I(S) ran(V) [to the station](M). [Otherwise](M:if節代用), I(S) would have missed(V) <the train>(O)."
+  # p03
+  - sentence_id: "scr-053-p03"
+    label: "overall"
+    value: "M S V O C"
+  - sentence_id: "scr-053-p03"
+    label: "details"
+    value: "[To hear him speak in French](M:to不定詞:if節代用), you(S) would think(V) <him>(O) <a Frenchman>(C)."
+  # e01
+  - sentence_id: "scr-053-e01"
+    label: "overall"
+    value: "S V M — S V O M"
+  - sentence_id: "scr-053-e01"
+    label: "details"
+    value: "<The town>(S) has changed(V) [a lot](M) — you(S) wouldn't recognize(V) <it>(O) [now](M)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-053-p01"
+    node_id: "skh-007"
+  - sentence_id: "scr-053-p02"
+    node_id: "skh-007"
+  - sentence_id: "scr-053-p03"
+    node_id: "skh-007"
+  - sentence_id: "scr-053-e01"
+    node_id: "skh-007"

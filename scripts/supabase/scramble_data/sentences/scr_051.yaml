@@ -1,0 +1,112 @@
+# Scr_051: Theme 51 as if [as though] + 仮定法 → skh-006
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-051-p01"
+    section_id: "Scr_051"
+    drill: 1
+    number: 175
+    role: "exam"
+    english: "He talks as if he knew everything."
+    japanese: "彼は何でも知っているような口のきき方をする。"
+    notes: "難易度: 頻出; 出典: 東京理科大; 整序(2語不要); as if + 仮定法過去「まるで〜のように」; know/talkedが不要; 仮定法は時制の一致が行われない"
+  - id: "scr-051-p02"
+    section_id: "Scr_051"
+    drill: 1
+    number: 176
+    role: "exam"
+    english: "Judging from the look of the sky, it looks as if it is going to snow."
+    japanese: "空模様から判断すると、雪になりそうだ。"
+    notes: "出典: 早大; 整序; as if + 直説法「〜のようだ」; look/seem/appear + as if で直説法が来ることがある; 事実をそのまま述べる場合"
+
+  # === 例文（example） ===
+  - id: "scr-051-e01"
+    section_id: "Scr_051"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "He looks as if he had seen something horrible."
+    japanese: "彼は何か恐ろしい物を見たような顔つきをしている。"
+    notes: "問175解説比較例文; as if + 仮定法過去完了「まるで〜した[であった]かのように」"
+  - id: "scr-051-e02"
+    section_id: "Scr_051"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "You look as though you have been crying. Is everything okay?"
+    japanese: "泣いているように見えるけど。大丈夫？"
+    notes: "問176解説比較例文; as though + 直説法; look + as though で直説法が使われる例"
+  - id: "scr-051-e03"
+    section_id: "Scr_051"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "He looked at me as if to ask something."
+    japanese: "彼は何か聞きたそうな目で私を見た。"
+    notes: "PU!31(発展); as ifの後のS+Vが省略されて to不定詞が続くパターン; (he wanted) to ask"
+  - id: "scr-051-e04"
+    section_id: "Scr_051"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "There she sat as if paralyzed by his words."
+    japanese: "彼女は彼の言葉に金しばりにあったように座っていた。"
+    notes: "PU!31(発展); as ifの後のS+Vが省略されて分詞が続くパターン; (she had been) paralyzed"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-051-p01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-051-p01"
+    label: "details"
+    value: "He(S) talks(V) [as if he knew everything](M:as if+仮定法過去)."
+  # p02
+  - sentence_id: "scr-051-p02"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-051-p02"
+    label: "details"
+    value: "[Judging from the look of the sky](M:分詞構文), it(S) looks(V) [as if it is going to snow](M:as if+直説法)."
+  # e01
+  - sentence_id: "scr-051-e01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-051-e01"
+    label: "details"
+    value: "He(S) looks(V) [as if he had seen something horrible](M:as if+仮定法過去完了)."
+  # e02
+  - sentence_id: "scr-051-e02"
+    label: "overall"
+    value: "S V M. S V C"
+  - sentence_id: "scr-051-e02"
+    label: "details"
+    value: "You(S) look(V) [as though you have been crying](M:as though+直説法). Is(V) <everything>(S) <okay>(C)?"
+  # e03
+  - sentence_id: "scr-051-e03"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-051-e03"
+    label: "details"
+    value: "He(S) looked(V) [at me](M) [as if to ask something](M:as if+to不定詞:省略)."
+  # e04
+  - sentence_id: "scr-051-e04"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-051-e04"
+    label: "details"
+    value: "[There](M) she(S) sat(V) [as if paralyzed by his words](M:as if+分詞:省略)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-051-p01"
+    node_id: "skh-006"
+  - sentence_id: "scr-051-p02"
+    node_id: "skh-006"
+  - sentence_id: "scr-051-e01"
+    node_id: "skh-006"
+  - sentence_id: "scr-051-e02"
+    node_id: "skh-006"
+  - sentence_id: "scr-051-e03"
+    node_id: "skh-006"
+  - sentence_id: "scr-051-e04"
+    node_id: "skh-006"

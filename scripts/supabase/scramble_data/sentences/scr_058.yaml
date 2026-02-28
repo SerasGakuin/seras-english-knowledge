@@ -1,0 +1,61 @@
+# Scr_058: Theme 58 最上級に近い意味を表す原級表現 → skh-010
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-058-p01"
+    section_id: "Scr_058"
+    drill: 1
+    number: 200
+    role: "exam"
+    english: "His mom is as friendly as any person I've met in my life. She's so easy to talk to."
+    japanese: "彼のお母さんは、私が人生で出会ったどんな人にも劣らず優しい。彼女はとても話しやすい。"
+    notes: "出典: 宮崎大; 4択; as + 原級 + as any (+ 単数名詞)「どの...にも劣らず〜」; 実質的に最上級に近い意味; 注意: She is easy to talk to（主語がto不定詞の意味上の目的語）参照: 問96"
+  - id: "scr-058-p02"
+    section_id: "Scr_058"
+    drill: 1
+    number: 201
+    role: "exam"
+    english: "John is as excellent a composer as ever lived."
+    japanese: "ジョンは今までに例を見ないほど優れた作曲家である。"
+    notes: "出典: 群馬大; 4択; as + 原級 + as ever + 動詞「これまで...したどれにも劣らず〜」; ← as (any composer that) ever lived; 語順注意: as excellent a composer（as + 形容詞 + a[an] + 名詞）参照: PU!137"
+
+  # === 例文（example） ===
+  - id: "scr-058-e01"
+    section_id: "Scr_058"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "He is as kind as ever."
+    japanese: "彼は相変わらず親切だ。"
+    notes: "問201解説比較例文; as + 原級 + as ever「相変わらず〜」; as + 原級 + as ever lived との混同に注意"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-058-p01"
+    label: "overall"
+    value: "S V C. S V C"
+  - sentence_id: "scr-058-p01"
+    label: "details"
+    value: "<His mom>(S) is(V) <as friendly as any person I've met in my life>(C:最上級相当). She(S)'s(V) <so easy to talk to>(C)."
+  # p02
+  - sentence_id: "scr-058-p02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-058-p02"
+    label: "details"
+    value: "John(S) is(V) <as excellent a composer as ever lived>(C:最上級相当:as+形容詞+a+名詞)."
+  # e01
+  - sentence_id: "scr-058-e01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-058-e01"
+    label: "details"
+    value: "He(S) is(V) <as kind as ever>(C:相変わらず〜)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-058-p01"
+    node_id: "skh-010"
+  - sentence_id: "scr-058-p02"
+    node_id: "skh-010"
+  - sentence_id: "scr-058-e01"
+    node_id: "skh-010"

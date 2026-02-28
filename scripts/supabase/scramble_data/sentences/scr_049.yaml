@@ -1,0 +1,129 @@
+# Scr_049: Theme 49 願望を表す仮定法 → skh-004
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-049-p01"
+    section_id: "Scr_049"
+    drill: 1
+    number: 166
+    role: "exam"
+    english: "I wonder why he wishes he could have another one."
+    japanese: "どうして彼は、もう1匹飼えたらなんて思っているのかしら。"
+    notes: "難易度: 頻出; 出典: 青山学院大; 4択; wish + S + 仮定法過去; wish + S + could 〜「Sが〜できたらよいのに」; 対話問題Bの文のみ（A: The boy has three cats, doesn't he?）"
+  - id: "scr-049-p02"
+    section_id: "Scr_049"
+    drill: 1
+    number: 167
+    role: "exam"
+    english: "I can't hear him. I wish he would speak a little louder."
+    japanese: "彼の言うことが聞こえない。もう少し大きな声で話してくれたらよいのにと思う。"
+    notes: "難易度: 発展; 出典: 南山大; 4択; wish + S + would 〜「Sが〜してくれたらよいのに」; 未来のことに対する願望; 意志未来willが仮定法過去の形wouldに"
+  - id: "scr-049-p03"
+    section_id: "Scr_049"
+    drill: 1
+    number: 168
+    role: "exam"
+    english: "I wish we had reserved a table at the restaurant."
+    japanese: "そのレストランのテーブルを予約しておけばよかったと思う。"
+    notes: "出典: 佛教大; 4択; wish + S + 仮定法過去完了「Sが〜ならよかったのに」; 過去の事実と反対の願望; want/likeはthat節を目的語にとらない、hopeはthat節を取るが仮定法は不可"
+  - id: "scr-049-p04"
+    section_id: "Scr_049"
+    drill: 1
+    number: 169
+    role: "exam"
+    english: "If only I knew her telephone number."
+    japanese: "彼女の電話番号を知っていればなあ。"
+    notes: "出典: 摂南大; 4択; If only + S + 仮定法「Sが〜ならよいのに」; If only = I wish; if節だけで独立的に用いられる"
+  - id: "scr-049-p05"
+    section_id: "Scr_049"
+    drill: 1
+    number: 170
+    role: "exam"
+    english: "I'd rather you didn't help me. I can do it all by myself."
+    japanese: "私の手助けをしないでほしい。すべてひとりでできますから。"
+    notes: "難易度: 発展; 出典: 上智大; 4択; would rather + S + 仮定法「（むしろ）Sに〜してほしい」; I would rather you didn't 〜 の形での出題が多い; thatは通例省略; 参照: 問82, 83（would rather + 原形 / than）"
+
+  # === 例文（example） ===
+  - id: "scr-049-e01"
+    section_id: "Scr_049"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I hope I can help you."
+    japanese: "手伝えればいいのですが。"
+    notes: "問168解説例文; hopeはthat節を取るが仮定法は不可（直説法のみ）; wish/hopeの違いを示す例"
+  - id: "scr-049-e02"
+    section_id: "Scr_049"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "If only I had listened to your advice!"
+    japanese: "あなたのアドバイスを聞いていればよかったのに！"
+    notes: "問169解説比較例文; If only + 仮定法過去完了（過去の願望）"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-049-p01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-049-p01"
+    label: "details"
+    value: "I(S) wonder(V) [why he wishes he could have another one](O:間接疑問:wish+仮定法過去)."
+  # p02
+  - sentence_id: "scr-049-p02"
+    label: "overall"
+    value: "S V O. S V O"
+  - sentence_id: "scr-049-p02"
+    label: "details"
+    value: "I(S) can't hear(V) <him>(O). I(S) wish(V) [he would speak a little louder](O:wish+would)."
+  # p03
+  - sentence_id: "scr-049-p03"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-049-p03"
+    label: "details"
+    value: "I(S) wish(V) [we had reserved a table at the restaurant](O:wish+仮定法過去完了)."
+  # p04
+  - sentence_id: "scr-049-p04"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "scr-049-p04"
+    label: "details"
+    value: "[If only](M:願望) I(S) knew(V) <her telephone number>(O)."
+  # p05
+  - sentence_id: "scr-049-p05"
+    label: "overall"
+    value: "S V O. S V O M"
+  - sentence_id: "scr-049-p05"
+    label: "details"
+    value: "I(S)'d rather(V) [you didn't help me](O:would rather+仮定法). I(S) can do(V) <it>(O) [all by myself](M)."
+  # e01
+  - sentence_id: "scr-049-e01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-049-e01"
+    label: "details"
+    value: "I(S) hope(V) [I can help you](O:that節:直説法)."
+  # e02
+  - sentence_id: "scr-049-e02"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "scr-049-e02"
+    label: "details"
+    value: "[If only](M:願望) I(S) had listened(V) [to your advice](O:前置詞句)!"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-049-p01"
+    node_id: "skh-004"
+  - sentence_id: "scr-049-p02"
+    node_id: "skh-004"
+  - sentence_id: "scr-049-p03"
+    node_id: "skh-004"
+  - sentence_id: "scr-049-p04"
+    node_id: "skh-004"
+  - sentence_id: "scr-049-p05"
+    node_id: "skh-004"
+  - sentence_id: "scr-049-e01"
+    node_id: "skh-004"
+  - sentence_id: "scr-049-e02"
+    node_id: "skh-004"

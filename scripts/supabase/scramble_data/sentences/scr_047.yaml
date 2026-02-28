@@ -1,0 +1,78 @@
+# Scr_047: Theme 47 仮定法過去完了 → skh-002
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-047-p01"
+    section_id: "Scr_047"
+    drill: 1
+    number: 161
+    role: "exam"
+    english: "If I had arrived at the station five minutes earlier, I could have caught the train."
+    japanese: "5分早く駅に着いていたら、その電車に間に合っていただろう。"
+    notes: "難易度: 頻出; 出典: 南山大; 4択; 仮定法過去完了のif節の形; 主節could have caughtから仮定法過去完了と判断→if節はhad done"
+  - id: "scr-047-p02"
+    section_id: "Scr_047"
+    drill: 1
+    number: 162
+    role: "exam"
+    english: "If I had known you were already here waiting, I would have come earlier."
+    japanese: "あなたがもうここに来て待っているとわかっていたら、もっと早く来ただろうに。"
+    notes: "難易度: 超頻出; 出典: 慶應大; 4択; 仮定法過去完了の主節の形; if節がhad done→主節は助動詞の過去形+have done"
+  - id: "scr-047-p03"
+    section_id: "Scr_047"
+    drill: 1
+    number: 163
+    role: "exam"
+    english: "If I had attended the seminar last year, I would be able to speak English more fluently now."
+    japanese: "去年そのゼミに出席していたら、今ごろはもっと流暢に英語が話せているだろうに。"
+    notes: "難易度: 頻出; 出典: 立教大; 4択; ミックス型（仮定法過去完了+仮定法過去）; if節[last year(過去)]→仮定法過去完了、主節[now(現在)]→仮定法過去"
+
+  # === 例文（example） ===
+  - id: "scr-047-e01"
+    section_id: "Scr_047"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "If it stops raining soon, shall we go out for a walk?"
+    japanese: "もしもうすぐ雨がやんだら、散歩に行きましょうか。"
+    notes: "PU!29 直説法か仮定法かの識別; 出典: センター; 「ありそうなこと」は仮定法ではなく直説法で表す; stopsは条件の副詞節中で未来を表す現在形; 参照: Theme 7"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-047-p01"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "scr-047-p01"
+    label: "details"
+    value: "[If I had arrived at the station five minutes earlier](M:if節:仮定法過去完了), I(S) could have caught(V) <the train>(O)."
+  # p02
+  - sentence_id: "scr-047-p02"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-047-p02"
+    label: "details"
+    value: "[If I had known you were already here waiting](M:if節:仮定法過去完了), I(S) would have come(V) [earlier](M)."
+  # p03
+  - sentence_id: "scr-047-p03"
+    label: "overall"
+    value: "M S V C M"
+  - sentence_id: "scr-047-p03"
+    label: "details"
+    value: "[If I had attended the seminar last year](M:if節:仮定法過去完了), I(S) would be(V) <able to speak English more fluently>(C) [now](M)."
+  # e01
+  - sentence_id: "scr-047-e01"
+    label: "overall"
+    value: "M V S M"
+  - sentence_id: "scr-047-e01"
+    label: "details"
+    value: "[If it stops raining soon](M:if節:直説法), shall(V) we(S) go out [for a walk](M)?"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-047-p01"
+    node_id: "skh-002"
+  - sentence_id: "scr-047-p02"
+    node_id: "skh-002"
+  - sentence_id: "scr-047-p03"
+    node_id: "skh-002"
+  - sentence_id: "scr-047-e01"
+    node_id: "skh-002"

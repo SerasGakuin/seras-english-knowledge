@@ -1,0 +1,112 @@
+# Scr_059: Theme 59 比較級の基本と強調 → skh-011
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-059-p01"
+    section_id: "Scr_059"
+    drill: 1
+    number: 202
+    role: "exam"
+    english: "The Amazon is much longer than the Mississippi."
+    japanese: "アマゾン川はミシシッピ川よりずっと長い。"
+    notes: "難易度: 基本/頻出; 出典: 拓殖大; 4択; much + 比較級 + than ...「...よりもずっと〜」; 比較級を強める語はveryやmoreではなくmuch"
+  - id: "scr-059-p02"
+    section_id: "Scr_059"
+    drill: 1
+    number: 203
+    role: "exam"
+    english: "I think eating at home is often far more economical than eating at a restaurant."
+    japanese: "多くの場合、家で食べるほうがレストランで食べるよりもずっと経済的だと思う。"
+    notes: "難易度: 頻出; 出典: センター; 4択; far + 比較級 + than ...「...よりもはるかに〜」; farはmuchよりも強意的; 語句: economical「経済的な」cf. economic「経済の」(参照: PU!186)"
+  - id: "scr-059-p03"
+    section_id: "Scr_059"
+    drill: 1
+    number: 204
+    role: "exam"
+    english: "Many more women work outside the home today than 50 years ago."
+    japanese: "今日、50年前よりもずっと多くの女性が家から出て働いている。"
+    notes: "出典: 佛教大; 4択; many more + 複数名詞 + than ...「...よりずっと多くの〜」; 複数名詞にはmuch moreではなくmany moreを使う; manyの代わりにfar, a lotも可"
+  - id: "scr-059-p04"
+    section_id: "Scr_059"
+    drill: 1
+    number: 205
+    role: "exam"
+    english: "I found the latter half of the movie more exciting than the former half."
+    japanese: "その映画の後半のほうが前半よりも面白かった。"
+    notes: "出典: 佛教大; 4択; the latter「後半の/後者の」⇔ the former「前半の/前者の」; lateの2通りの比較変化（参照: PU!38）; 選択肢: ①late「故〜」, ②lately「最近」(= of late)"
+  - id: "scr-059-p05"
+    section_id: "Scr_059"
+    drill: 1
+    number: 206
+    role: "exam"
+    english: "She is less happy than she used to be."
+    japanese: "彼女は以前ほど幸せではない。"
+    notes: "出典: 中京大; 穴埋め(less); less + 原級 + than ...「...ほど〜ではない」; = not as [so] + 原級 + as ...; やや硬い表現; 参照: 問185"
+
+  # === 例文（example） ===
+  - id: "scr-059-e01"
+    section_id: "Scr_059"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "She is 5 centimeters taller than her mother."
+    japanese: "彼女は母親より5センチ背が高い。"
+    notes: "PU!37例文; 比較の差を具体的な数値で表す; = She is taller than her mother by 5 centimeters.（差を強調する言い方）"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-059-p01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-059-p01"
+    label: "details"
+    value: "<The Amazon>(S) is(V) <much longer than the Mississippi>(C:比較級+強調much)."
+  # p02
+  - sentence_id: "scr-059-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-059-p02"
+    label: "details"
+    value: "I(S) think(V) [eating at home is often far more economical than eating at a restaurant](O:that節:比較級+強調far)."
+  # p03
+  - sentence_id: "scr-059-p03"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-059-p03"
+    label: "details"
+    value: "<Many more women>(S:many more+複数名詞) work(V) [outside the home](M) [today than 50 years ago](M:比較)."
+  # p04
+  - sentence_id: "scr-059-p04"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "scr-059-p04"
+    label: "details"
+    value: "I(S) found(V) <the latter half of the movie>(O) <more exciting than the former half>(C:比較級)."
+  # p05
+  - sentence_id: "scr-059-p05"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-059-p05"
+    label: "details"
+    value: "She(S) is(V) <less happy than she used to be>(C:劣等比較)."
+  # e01
+  - sentence_id: "scr-059-e01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-059-e01"
+    label: "details"
+    value: "She(S) is(V) <5 centimeters taller than her mother>(C:比較級+差の数値)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-059-p01"
+    node_id: "skh-011"
+  - sentence_id: "scr-059-p02"
+    node_id: "skh-011"
+  - sentence_id: "scr-059-p03"
+    node_id: "skh-011"
+  - sentence_id: "scr-059-p04"
+    node_id: "skh-011"
+  - sentence_id: "scr-059-p05"
+    node_id: "skh-011"
+  - sentence_id: "scr-059-e01"
+    node_id: "skh-011"

@@ -1,0 +1,288 @@
+# Ch08 比較 前半（Theme 54-59）
+
+knowledge_nodes:
+  - id: "skh-008"
+    name: "原級比較の基本と倍数表現"
+    category: "仮定法・比較"
+    priority: "P1"
+    notes: |
+      Theme 54+55: 原級比較の基本（問題184-185）+ 倍数の表し方（問題186-188）
+      ■ as + 原級 + as ...「...と同じぐらい〜」:
+      比較では「何」と「何」が比較されているかを明確にする。比較の対象は必ず同種類のもの。
+      後ろのas[接続詞]以下の省略に注意。
+      ■ not as [so] + 原級 + as ...「...ほど〜ではない」:
+      = less + 原級 + than ...（参照: 問206）
+      soよりasのほうが口語的。
+      注意: 比較の対象に代名詞 that (= the + 既出名詞) を使う場合がある。
+      例: The climate of England vs that of Japan（参照: Theme 82, 問303）
+      ■ 倍数表現: X times as + 原級 + as ...「...のX倍〜」:
+      2倍: twice（×two times）, 半分: half, 4分の1: a quarter
+      3倍以上: three times, four times, ...
+      ■ more than twice as + 原級 + as ...「...の2倍以上〜」
+      ■ X times as + many 複数名詞 + as ...「...のX倍の（数の）名詞」:
+      語順注意: as many books as（×books as many as）
+      ■ X times as + much 不可算名詞 + as ...「...のX倍の（量の）名詞」
+      ■ X times the size [length/width/height/number] of ...「...のX倍の大きさ[長さ/幅/高さ/数]」:
+      the + 名詞 + of の形で倍数を表現。
+      例: This dog is about the size of a small cat. = This dog is about as large as a small cat.
+      発展: X times + 比較級 + than ... も同じ意味だが、twice [half] + 比較級 + than ... は不可。
+      ■ PU!34 倍数の表し方:
+      one-third [two-thirds] as + 原級 + as ...「...の3分の1[3分の2]〜」
+      half as + 原級 + as ...「...の半分〜」
+      one and a half times as + 原級 + as ...「...の1.5倍〜」
+      ■ PU!35 (倍数+) the + 名詞 + of 〜:
+      the + 名詞 + of は as + 形容詞 + as とほぼ同意。
+
+  - id: "skh-009"
+    name: "原級を用いた慣用表現"
+    category: "仮定法・比較"
+    priority: "P1"
+    notes: |
+      Theme 56: 原級を用いた慣用表現（問題189-196）
+      ■ as + 原級 + as possible「できるだけ〜」(= as + 原級 + as one can):
+      過去時制のときはcanがcouldになる。
+      ■ not so much A as B「AというよりはむしろB」(= B rather than A):
+      注意: rather thanで書き換えるとAとBが逆になる。
+      ■ not so much as do「〜さえしない」(= not even do):
+      not so much A as Bと混同しないこと。
+      ■ without so much as doing「〜さえないで」(= without even doing):
+      without doing + not so much as do の組み合わせ。
+      ■ A as well as B「Bと同様にAも」(= not only B but also A):
+      主語として用いる場合、動詞はAに一致させるのが原則。
+      ■ as good as 〜「（ほとんど）〜も同様[同然]」(= all but / almost):
+      通例、形容詞・副詞・動詞の前で用いる。
+      発展: be as good as one's word [promise]「必ず約束を守る」
+      ■ as many 〜「（先行する数詞を受けて）同数の〜」:
+      例: three movies in as many days「3日間で3つの映画」
+      比較: as much 〜「同量の〜」, like so many 〜「まるで同数の〜のように」
+
+  - id: "skh-010"
+    name: "強調のas~asと最上級に近い原級表現"
+    category: "仮定法・比較"
+    priority: "P2"
+    notes: |
+      Theme 57+58: 強調のas ~ as（問題197-199）+ 最上級に近い意味を表す原級表現（問題200-201）
+      ■ as many as 〜「（数を強調して）〜も（多くの）」
+      ■ as much as 〜「（量を強調して）〜も（多くの）」
+      ■ as early as 〜「（時期の早さを強調して）早くも〜には」
+      ■ as late as 〜「（時期の遅さを強調して）つい〜（ほど最近に）」
+      ■ as recently as 〜「（最近を強調して）つい〜（ほど最近に）」
+      ■ as often as 〜「（頻度を強調して）〜回も」
+      ■ as long as 〜「（時間の長さを強調して）〜も」
+      ■ PU!36 強調のas ~ as まとめ
+      ■ as + 原級 + as any (+ 単数名詞)「どの...にも劣らず〜」:
+      実質的に最上級に近い意味。
+      ■ as + 原級 + as ever + 動詞「これまで...したどれにも劣らず〜 / 今までに例を見ないほど〜」:
+      as + 原級 + as ever lived の形で用いられることが多い。
+      as + 原級 + as any の変種と考えると理解しやすい。
+      注意: as excellent a composer の語順（as + 形容詞 + a [an] + 名詞）参照: PU!137
+      比較: as + 原級 + as ever「相変わらず〜」と混同しないこと。
+      例: He is as kind as ever.（相変わらず親切だ）
+
+  - id: "skh-011"
+    name: "比較級の基本と強調"
+    category: "仮定法・比較"
+    priority: "P1"
+    notes: |
+      Theme 59: 比較級の基本と強調（問題202-206）
+      ■ 比較級の強調語:
+      much / (by) far / a lot + 比較級「ずっと〜 / はるかに〜」
+      even / still + 比較級「さらに〜 / いっそう〜」
+      a little / a bit + 比較級「少し〜」
+      注意: very, moreは比較級の強調には使えない。
+      ■ far + 比較級: muchよりも強意的。
+      ■ many more + 複数名詞 + than ...「...よりずっと多くの〜」:
+      「数がずっと多い」の意味ではmuch more 〜ではなくmany more 〜の形をとる。
+      manyの代わりにfar, a lotも可。
+      比較: 「量がずっと多い」→ much more + 不可算名詞。
+      ■ the latter「後半の / 後者の」⇔ the former「前半の / 前者の」:
+      lateの2通りの比較変化（参照: PU!38）
+      注意: ① late「故〜」, ② lately「最近」(= of late)
+      ■ less + 原級 + than ...「...ほど〜ではない」:
+      = not as [so] + 原級 + as ...（参照: 問185）
+      やや硬い表現。口語ではあまり使われない。
+      ■ PU!37 比較の差を表す形:
+      (1) 差をばく然と表す: much/far/a lot（ずっと）, even/still（さらに）, a little/a bit（少し）
+      (2) 差を明確に表す: 具体的な数値を比較級の前に置く。
+      例: She is 5 centimeters taller than her mother.
+      = She is taller than her mother by 5 centimeters.（差を強調する言い方）
+      ■ PU!38 不規則変化する形容詞・副詞:
+      good/well → better → best
+      bad/ill/badly → worse → worst
+      many/much → more → most
+      little → less → least
+      late → later/latter → latest/last
+      far → farther/further → farthest/furthest
+      old → older/elder → oldest/eldest
+
+understanding_goals:
+  # skh-008
+  - node_id: "skh-008"
+    seq: 1
+    goal: "as + 原級 + as ... の肯定形と否定形を正確に使い分けられる"
+  - node_id: "skh-008"
+    seq: 2
+    goal: "倍数表現（twice, X times, half, a quarter）を as + 原級 + as で正確に書ける"
+  - node_id: "skh-008"
+    seq: 3
+    goal: "X times as + many/much + 名詞 + as の語順を正確に書ける"
+  - node_id: "skh-008"
+    seq: 4
+    goal: "X times the size of ... の形で倍数を表現できる"
+  - node_id: "skh-008"
+    seq: 5
+    goal: "比較の対象が同種類のものでなければならないことを理解し、代名詞that/thoseを適切に使える"
+  # skh-009
+  - node_id: "skh-009"
+    seq: 1
+    goal: "as + 原級 + as possible / as one can を使い分けられる"
+  - node_id: "skh-009"
+    seq: 2
+    goal: "not so much A as B と not so much as do の意味の違いを区別できる"
+  - node_id: "skh-009"
+    seq: 3
+    goal: "A as well as B の主語と動詞の一致ルールを説明できる"
+  - node_id: "skh-009"
+    seq: 4
+    goal: "as good as 〜 の慣用的な意味（〜も同然）を理解している"
+  - node_id: "skh-009"
+    seq: 5
+    goal: "as many 〜 / as much 〜 が先行する数詞・量を受ける用法を説明できる"
+  # skh-010
+  - node_id: "skh-010"
+    seq: 1
+    goal: "as many as / as much as が数・量の多さを強調する用法を説明できる"
+  - node_id: "skh-010"
+    seq: 2
+    goal: "as early as / as late as / as recently as の意味を正確に区別できる"
+  - node_id: "skh-010"
+    seq: 3
+    goal: "as + 原級 + as any が最上級に近い意味を表すことを説明できる"
+  - node_id: "skh-010"
+    seq: 4
+    goal: "as + 原級 + as ever lived と as + 原級 + as ever の意味の違いを区別できる"
+  # skh-011
+  - node_id: "skh-011"
+    seq: 1
+    goal: "比較級を強調する語（much/far/even/still/a little）を正しく使い分けられる"
+  - node_id: "skh-011"
+    seq: 2
+    goal: "many more + 複数名詞と much more + 不可算名詞を使い分けられる"
+  - node_id: "skh-011"
+    seq: 3
+    goal: "less + 原級 + than と not as + 原級 + as の同意関係を説明できる"
+  - node_id: "skh-011"
+    seq: 4
+    goal: "不規則変化する形容詞・副詞の比較級・最上級を正確に書ける"
+
+check_points:
+  # skh-008
+  - node_id: "skh-008"
+    seq: 1
+    question: "「...と同じぐらい〜」と「...ほど〜ではない」を原級比較で書け。"
+    answer: "as + 原級 + as ... / not as [so] + 原級 + as ...。否定形はso/asどちらも可（soの方が文語的）。"
+  - node_id: "skh-008"
+    seq: 2
+    question: "「...の2倍〜」を as ~ as で表す場合、X times の代わりに何を使うか？"
+    answer: "twice。2倍はtwice、半分はhalf、4分の1はa quarterを使う。3倍以上はX times。"
+  - node_id: "skh-008"
+    seq: 3
+    question: "「彼は私の3倍の本を持っている」を英訳せよ。"
+    answer: "He has three times as many books as I (do). 語順注意: as many books as（×books as many as）。"
+  - node_id: "skh-008"
+    seq: 4
+    question: "X times the size of ... はどのような表現と同義か？"
+    answer: "X times as large as ...。「the + 名詞 + of」は「as + 形容詞 + as」とほぼ同義。"
+  - node_id: "skh-008"
+    seq: 5
+    question: "twice + 比較級 + than は正しいか？"
+    answer: "不可。X times + 比較級 + than は使えるが、twice [half] + 比較級 + than は不可。"
+  # skh-009
+  - node_id: "skh-009"
+    seq: 1
+    question: "as + 原級 + as possible を one can 型で書き換えた場合、過去時制ではどう変わるか？"
+    answer: "canがcouldになる。例: as carefully as she could（過去時制）。"
+  - node_id: "skh-009"
+    seq: 2
+    question: "not so much A as B と not so much as do の意味をそれぞれ答えよ。"
+    answer: "not so much A as B =「AというよりはむしろB」。not so much as do =「〜さえしない」(= not even do)。"
+  - node_id: "skh-009"
+    seq: 3
+    question: "She as well as I (am/is) tired. の動詞はどちらか？"
+    answer: "is。A as well as B の主語では動詞はAに一致。She(A) as well as I(B) → Sheに合わせてis。"
+  - node_id: "skh-009"
+    seq: 4
+    question: "as good as dead はどういう意味か？"
+    answer: "「死んだも同然」。as good as 〜 =「ほとんど〜も同然」(= almost)。"
+  - node_id: "skh-009"
+    seq: 5
+    question: "I saw three movies in as many days. の as many は何を意味するか？"
+    answer: "「同数の」= three (days)。先行する数詞 three を受けて「3日間で3つの映画」の意味。"
+  # skh-010
+  - node_id: "skh-010"
+    seq: 1
+    question: "as many as 20 flights の as many as はどのような意味か？"
+    answer: "「20便も」— 数の多さを強調する用法。「量」の場合はas much asを使う。"
+  - node_id: "skh-010"
+    seq: 2
+    question: "as early as と as late as の意味をそれぞれ答えよ。"
+    answer: "as early as 〜 =「早くも〜には」。as late as 〜 =「つい〜（ほど最近に）」。"
+  - node_id: "skh-010"
+    seq: 3
+    question: "as + 原級 + as any と as + 原級 + as ever lived の違いは何か？"
+    answer: "どちらも最上級に近い意味。anyは「どの...にも劣らず」、ever livedは「今までに例を見ないほど」。ever livedはany (+ 名詞 + that) ever livedの省略形と考えられる。"
+  - node_id: "skh-010"
+    seq: 4
+    question: "He is as kind as ever. と He is as kind a man as ever lived. の ever の意味の違いは？"
+    answer: "as ever =「相変わらず」。as ever lived =「これまで生きた誰にも劣らず」。混同しないこと。"
+  # skh-011
+  - node_id: "skh-011"
+    seq: 1
+    question: "比較級を強める語を3つ挙げよ。また、very は使えるか？"
+    answer: "much, far, a lot（ずっと/はるかに）。veryは比較級の強調には使えない。"
+  - node_id: "skh-011"
+    seq: 2
+    question: "「50年前よりずっと多くの女性」を英訳する場合、much more women は正しいか？"
+    answer: "不可。複数名詞にはmany more womenを使う。much more は不可算名詞（much more oil）に用いる。"
+  - node_id: "skh-011"
+    seq: 3
+    question: "late の比較級・最上級を2系列とも答えよ。"
+    answer: "[時間] later - latest。[順序] latter - last。the latter「後者」⇔ the former「前者」。"
+  - node_id: "skh-011"
+    seq: 4
+    question: "She is 5 centimeters taller than her mother. を by を使って書き換えよ。"
+    answer: "She is taller than her mother by 5 centimeters. 差を強調する言い方。"
+
+node_prerequisites:
+  - node_id: "skh-009"
+    prerequisite_id: "skh-008"
+  - node_id: "skh-010"
+    prerequisite_id: "skh-008"
+  - node_id: "skh-011"
+    prerequisite_id: "skh-008"
+
+knowledge_references:
+  - node_id: "skh-008"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_054"
+    pages: ""
+  - node_id: "skh-008"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_055"
+    pages: ""
+  - node_id: "skh-009"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_056"
+    pages: ""
+  - node_id: "skh-010"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_057"
+    pages: ""
+  - node_id: "skh-010"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_058"
+    pages: ""
+  - node_id: "skh-011"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_059"
+    pages: ""

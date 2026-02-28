@@ -467,6 +467,138 @@ sections:
     gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "パイロット。skh-001。PU!29はScr_047管轄(decision #4)"
+  # Part 1 > Ch07 仮定法（続き）
+  Scr_047:
+    title: "仮定法過去完了"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-002(単独)。問161-163=3exam, PU!29例文1件=1example(直説法識別)"
+  Scr_048:
+    title: "shouldとwere toを用いた仮定法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-003(単独)。問164-165=2exam"
+  Scr_049:
+    title: "願望を表す仮定法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-004(単独)。問166-170=5exam(問166対話Bのみ), 比較例文2件=2example(hope直説法, If only過去完了)"
+  Scr_050:
+    title: "If it were not forなどの表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-005(単独)。問171-174=4exam, PU!30例文2件=2example(sun/patience)"
+  Scr_051:
+    title: "as if [as though] + 仮定法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-006(単独)。問175-176=2exam, 解説例文2件+PU!31例文2件=4example(as if省略含む)"
+  Scr_052:
+    title: "ifを省略した仮定法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-007(Theme52+53統合)。問177-180=4exam"
+  Scr_053:
+    title: "if節の代用"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-007(Theme52+53統合)。問181-183=3exam, PU!32例文1件=1example; PU!33はnotes記録(decision #7)"
+  # Part 1 > Ch08 比較（前半）
+  Scr_054:
+    title: "原級比較の基本"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-008(Theme54+55統合)。問184-185=2exam"
+  Scr_055:
+    title: "倍数の表し方"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-008(Theme54+55統合)。問186-188=3exam, PU!35例文1件+解説例文1件=2example; PU!34はnotes記録"
+  Scr_056:
+    title: "原級を用いた慣用表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 11
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-009(単独)。問189-196=8exam(問189対話Bのみ), 解説例文3件=3example"
+  Scr_057:
+    title: "強調のas ~ as"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-010(Theme57+58統合)。問197-199=3exam(問199対話Bのみ), 解説例文2件+PU!36例文1件=3example"
+  Scr_058:
+    title: "最上級に近い意味を表す原級表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-010(Theme57+58統合)。問200-201=2exam, as ever比較例文1件=1example"
+  Scr_059:
+    title: "比較級の基本と強調"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-011(単独)。問202-206=5exam, PU!37例文1件=1example; PU!38(不規則変化表)はnotes記録"
   Scr_125:
     title: "自動詞と他動詞──前置詞の有無"
     type: "usage"
@@ -479,9 +611,9 @@ sections:
     notes: "パイロット。sgh-001。PU!92(他動詞14語)/PU!93(自動詞7語)はnotes記録"
 
 summary:
-  total_sections: 47
-  completed: 47
+  total_sections: 60
+  completed: 60
   in_progress: 0
   not_started: 0
-  total_knowledge_nodes: 37
-  total_sentences: 227
+  total_knowledge_nodes: 47
+  total_sentences: 293

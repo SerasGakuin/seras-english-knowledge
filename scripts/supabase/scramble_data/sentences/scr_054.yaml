@@ -1,0 +1,42 @@
+# Scr_054: Theme 54 原級比較の基本 → skh-008
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-054-p01"
+    section_id: "Scr_054"
+    drill: 1
+    number: 184
+    role: "exam"
+    english: "Her English is as good as his."
+    japanese: "彼女の英語は彼と同じくらいすばらしい。"
+    notes: "難易度: 基本; 出典: 京都産業大; 4択; as + 原級 + as ...「...と同じぐらい〜」; 比較の対象は同種類のもの; his = his English（所有代名詞）; 後ろのas以下の省略: his (is) ×good"
+  - id: "scr-054-p02"
+    section_id: "Scr_054"
+    drill: 1
+    number: 185
+    role: "exam"
+    english: "The climate of England is not so mild as that of Japan."
+    japanese: "英国の気候は日本ほど温暖ではない。"
+    notes: "難易度: 基本; 出典: 拓殖大; 整序; not as [so] + 原級 + as ...「...ほど〜ではない」; that = the climate（代名詞that）; 参照: Theme 82(問303); = less mild than that of Japan(参照: 問206)"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-054-p01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-054-p01"
+    label: "details"
+    value: "<Her English>(S) is(V) <as good as his>(C:原級比較)."
+  # p02
+  - sentence_id: "scr-054-p02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-054-p02"
+    label: "details"
+    value: "<The climate of England>(S) is(V) <not so mild as that of Japan>(C:原級比較否定)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-054-p01"
+    node_id: "skh-008"
+  - sentence_id: "scr-054-p02"
+    node_id: "skh-008"

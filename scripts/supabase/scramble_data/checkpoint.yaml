@@ -2,24 +2,40 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T22:00:00"
+updated_at: "2026-03-01T23:30:00"
 book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 2 — B03完了、B04着手前"
+  phase: "Phase 2 — B04完了、B05着手前"
   current_section: null
   current_step: null
-  last_completed_section: "Scr_045"
+  last_completed_section: "Scr_059"
   last_completed_gate: 5
 
 progress:
   total_sections: 271
-  completed: 47
+  completed: 60
   in_progress: 0
-  remaining: 224
-  total_nodes: 37
-  total_sentences: 227
+  remaining: 211
+  total_nodes: 47
+  total_sentences: 293
+
+b04_results:
+  ch07_sections: ["Scr_047", "Scr_048", "Scr_049", "Scr_050", "Scr_051", "Scr_052", "Scr_053"]
+  ch07_nodes: ["skh-002", "skh-003", "skh-004", "skh-005", "skh-006", "skh-007"]
+  ch07_sentences: 33
+  ch07_merges:
+    - "Theme 52+53 → skh-007（ifを省略した仮定法とif節の代用）"
+  ch08_half_sections: ["Scr_054", "Scr_055", "Scr_056", "Scr_057", "Scr_058", "Scr_059"]
+  ch08_half_nodes: ["skh-008", "skh-009", "skh-010", "skh-011"]
+  ch08_half_sentences: 33
+  ch08_half_merges:
+    - "Theme 54+55 → skh-008（原級比較の基本と倍数表現）"
+    - "Theme 57+58 → skh-010（強調のas~asと最上級に近い原級表現）"
+  metrics:
+    ch07_node_section_ratio: 0.875
+    ch08_half_node_section_ratio: 0.67
 
 b03_results:
   ch05_sections: ["Scr_032", "Scr_033", "Scr_034", "Scr_035", "Scr_036"]
@@ -79,13 +95,14 @@ recent_decisions:
   - "decision #4: PU!29はScr_047の管轄"
   - "decision #5: 解説中の書き換え文は登録しない"
   - "decision #6: 対話問題はBの文のみ登録"
+  - "decision #7: PU!内の用法例示文は登録しない（リスト表の一部）"
 
 active_concerns: []
 
 next_actions:
-  - "B04: Ch07 仮定法(Scr_046-054) → ノードID skh-001〜（パイロットScr_046完了済み）"
-  - "B04: Ch08 比較(Scr_055-064) → ノードID skb-001〜"
-  - "原本: Part1_Ch07_仮定法.md, Part1_Ch08_比較.md を読む"
+  - "B05: Ch08 比較後半(Scr_060-065) → ノードID skh-012〜"
+  - "B05: Ch09 疑問(Scr_066-071) → ノードID shs-001〜"
+  - "原本: Part1_Ch08_比較.md（後半）, Part1_Ch09_疑問.md を読む"
   - "章区切り → ワークフロー.md + 設計書.md 再読込"
 
 must_reread:

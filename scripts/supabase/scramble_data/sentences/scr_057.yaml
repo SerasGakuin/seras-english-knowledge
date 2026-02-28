@@ -1,0 +1,112 @@
+# Scr_057: Theme 57 強調のas ~ as → skh-010
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-057-p01"
+    section_id: "Scr_057"
+    drill: 1
+    number: 197
+    role: "exam"
+    english: "As many as 20 flights were cancelled due to the heavy storm."
+    japanese: "ひどい嵐のために、20便も欠航になった。"
+    notes: "難易度: 頻出; 出典: 関西学院大; 4択; as many as 〜「〜も（多くの）」; 数の多さを強調; 語句: due to 〜「〜のために/〜が原因で」(参照: 問1279)"
+  - id: "scr-057-p02"
+    section_id: "Scr_057"
+    drill: 1
+    number: 198
+    role: "exam"
+    english: "Research has found that COVID-19 was circulating in this region as early as September, 2019."
+    japanese: "COVID-19は早くも2019年9月にはこの地域に蔓延していたことが研究によりわかった。"
+    notes: "出典: 獨協大; 4択; as early as 〜「早くも〜には」; 時期の早さを強調"
+  - id: "scr-057-p03"
+    section_id: "Scr_057"
+    drill: 1
+    number: 199
+    role: "exam"
+    english: "No, it was as recently as last year."
+    japanese: "いや、つい去年のことだよ。"
+    notes: "出典: センター; 4択; as recently as 〜「つい〜（ほど最近に）」; 最近を強調; 対話問題Bの文のみ（A: That earthquake in Mexico happened a long time ago, didn't it?）"
+
+  # === 例文（example） ===
+  - id: "scr-057-e01"
+    section_id: "Scr_057"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "He was charged as much as $300 for parking."
+    japanese: "彼は駐車料金として300ドルも請求された。"
+    notes: "問197解説比較例文; as much as 〜「〜も（多くの）」; 量の多さを強調"
+  - id: "scr-057-e02"
+    section_id: "Scr_057"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "I saw him as late as last month."
+    japanese: "彼にはつい先月会ったばかりです。"
+    notes: "問198解説比較例文; as late as 〜「つい〜（ほど最近に）」; 時期の遅さを強調"
+  - id: "scr-057-e03"
+    section_id: "Scr_057"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "He has been ill in bed as long as three years."
+    japanese: "彼は3年もの間病気で寝ている。"
+    notes: "PU!36例文; as long as 〜「（時間の長さを強調して）〜も」"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-057-p01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-057-p01"
+    label: "details"
+    value: "<As many as 20 flights>(S:数の強調) were cancelled(V) [due to the heavy storm](M)."
+  # p02
+  - sentence_id: "scr-057-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-057-p02"
+    label: "details"
+    value: "Research(S) has found(V) [that COVID-19 was circulating in this region as early as September, 2019](O:that節)."
+  # p03
+  - sentence_id: "scr-057-p03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-057-p03"
+    label: "details"
+    value: "[No](M), it(S) was(V) <as recently as last year>(C:時期の強調)."
+  # e01
+  - sentence_id: "scr-057-e01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-057-e01"
+    label: "details"
+    value: "He(S) was charged(V) <as much as $300>(O:量の強調) [for parking](M)."
+  # e02
+  - sentence_id: "scr-057-e02"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-057-e02"
+    label: "details"
+    value: "I(S) saw(V) <him>(O) [as late as last month](M:時期の強調)."
+  # e03
+  - sentence_id: "scr-057-e03"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-057-e03"
+    label: "details"
+    value: "He(S) has been(V) <ill>(C) [in bed](M) [as long as three years](M:期間の強調)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-057-p01"
+    node_id: "skh-010"
+  - sentence_id: "scr-057-p02"
+    node_id: "skh-010"
+  - sentence_id: "scr-057-p03"
+    node_id: "skh-010"
+  - sentence_id: "scr-057-e01"
+    node_id: "skh-010"
+  - sentence_id: "scr-057-e02"
+    node_id: "skh-010"
+  - sentence_id: "scr-057-e03"
+    node_id: "skh-010"

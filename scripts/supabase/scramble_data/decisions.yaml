@@ -35,3 +35,9 @@ decisions:
     question: "対話形式問題の場合、AとBどちらの文を登録するか？"
     decision: "Bの文のみ登録し、Aの文はnotesに記録。文法ポイントを含む文を優先。"
     decided_by: "リード"
+  - id: 7
+    date: "2026-03-01"
+    section: "general"
+    question: "PU!内の用法例示文（He thinks otherwise. / This is ten times the size of that. 等）はsentencesに登録するか？"
+    decision: "登録しない。用法の例示としてPU!リスト表の一部であり、notesに記録すれば十分。decision #1（PU!リスト表は登録しない）の延長として統一。"
+    decided_by: "リード"

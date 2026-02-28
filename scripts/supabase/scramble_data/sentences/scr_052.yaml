@@ -1,0 +1,76 @@
+# Scr_052: Theme 52 ifを省略した仮定法 → skh-007
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-052-p01"
+    section_id: "Scr_052"
+    drill: 1
+    number: 177
+    role: "exam"
+    english: "I know you are angry with Chris. Were I you, I would break up with him."
+    japanese: "あなたがクリスに腹を立てるのはわかる。もし私があなたなら、彼とは絶交するだろうに。"
+    notes: "難易度: 頻出; 出典: 駒澤大; 4択; Were I you ← If I were you; ifを省略した条件節が主節の後に置かれ、コンマなしの場合は特に注意; 英文読解でも重要"
+  - id: "scr-052-p02"
+    section_id: "Scr_052"
+    drill: 1
+    number: 178
+    role: "exam"
+    english: "I could have written you had I known your address."
+    japanese: "あなたの住所を知っていたら、手紙を書くこともできたのですが。"
+    notes: "難易度: 頻出; 出典: 成蹊大; 整序; had I known ← if I had known; ifを省略した条件節が主節の後でコンマなし"
+  - id: "scr-052-p03"
+    section_id: "Scr_052"
+    drill: 1
+    number: 179
+    role: "exam"
+    english: "Of course, were it not for the sun, life on earth would be impossible."
+    japanese: "当然のことながら、もし太陽がなければ、地球上の生命は存在しえないだろう。"
+    notes: "難易度: 頻出; 出典: 西南学院大; 整序(1語不足); Were it not for 〜 ← If it were not for 〜; 参照: 問171; forが不足; 比較: Had it not been for 〜(参照: PU!30)"
+  - id: "scr-052-p04"
+    section_id: "Scr_052"
+    drill: 1
+    number: 180
+    role: "exam"
+    english: "Should anything happen, please let us know immediately."
+    japanese: "万一何かあったら、すぐに知らせてください。"
+    notes: "出典: 拓殖大; 4択; Should anything happen ← If anything should happen; 参照: 問164; ①Ifはhappenに3単現の-sがないので不可; Were S to do の倒置形もあり(参照: 問165)"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-052-p01"
+    label: "overall"
+    value: "S V O. M S V M"
+  - sentence_id: "scr-052-p01"
+    label: "details"
+    value: "I(S) know(V) [you are angry with Chris](O). [Were I you](M:倒置仮定法), I(S) would break up(V) [with him](M)."
+  # p02
+  - sentence_id: "scr-052-p02"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-052-p02"
+    label: "details"
+    value: "I(S) could have written(V) <you>(O) [had I known your address](M:倒置仮定法過去完了)."
+  # p03
+  - sentence_id: "scr-052-p03"
+    label: "overall"
+    value: "M M S V C"
+  - sentence_id: "scr-052-p03"
+    label: "details"
+    value: "[Of course](M), [were it not for the sun](M:倒置仮定法), <life on earth>(S) would be(V) <impossible>(C)."
+  # p04
+  - sentence_id: "scr-052-p04"
+    label: "overall"
+    value: "M V O M"
+  - sentence_id: "scr-052-p04"
+    label: "details"
+    value: "[Should anything happen](M:倒置仮定法), please let(V) <us>(O) [know immediately](M)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-052-p01"
+    node_id: "skh-007"
+  - sentence_id: "scr-052-p02"
+    node_id: "skh-007"
+  - sentence_id: "scr-052-p03"
+    node_id: "skh-007"
+  - sentence_id: "scr-052-p04"
+    node_id: "skh-007"

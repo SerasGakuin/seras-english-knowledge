@@ -1,0 +1,42 @@
+# Scr_048: Theme 48 shouldとwere toを用いた仮定法 → skh-003
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-048-p01"
+    section_id: "Scr_048"
+    drill: 1
+    number: 164
+    role: "exam"
+    english: "If you should have any questions, please let me know."
+    japanese: "万一ご質問があれば、お知らせください。"
+    notes: "出典: 県立広島大; 4択; If + S + should do「万一〜ならば」; 主節が命令文→shouldを用いた仮定法"
+  - id: "scr-048-p02"
+    section_id: "Scr_048"
+    drill: 1
+    number: 165
+    role: "exam"
+    english: "If you were to become a millionaire, what would you buy?"
+    japanese: "もしあなたが億万長者になったら、何を買いますか。"
+    notes: "出典: 日本女子大; 4択; If + S + were to do「仮に〜ならば」; were toの場合、主節は必ず助動詞の過去形+原形"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-048-p01"
+    label: "overall"
+    value: "M V O M"
+  - sentence_id: "scr-048-p01"
+    label: "details"
+    value: "[If you should have any questions](M:if節:should仮定法), please let(V) <me>(O) [know](M:原形不定詞)."
+  # p02
+  - sentence_id: "scr-048-p02"
+    label: "overall"
+    value: "M O V S"
+  - sentence_id: "scr-048-p02"
+    label: "details"
+    value: "[If you were to become a millionaire](M:if節:were to仮定法), what(O) would(V) you(S) buy?"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-048-p01"
+    node_id: "skh-003"
+  - sentence_id: "scr-048-p02"
+    node_id: "skh-003"

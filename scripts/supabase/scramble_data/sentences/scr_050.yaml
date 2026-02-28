@@ -1,0 +1,112 @@
+# Scr_050: Theme 50 If it were not forなどの表現 → skh-005
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-050-p01"
+    section_id: "Scr_050"
+    drill: 1
+    number: 171
+    role: "exam"
+    english: "If it were not for computers, our lives would be much more inconvenient."
+    japanese: "コンピューターがなければ私たちの暮らしはもっと不便でしょう。"
+    notes: "難易度: 頻出; 出典: 千葉工大; 整序(1語不要); If it were not for 〜「もし〜がなければ」（仮定法過去）; butが不要"
+  - id: "scr-050-p02"
+    section_id: "Scr_050"
+    drill: 1
+    number: 172
+    role: "exam"
+    english: "If it had not been for the ice age, dinosaurs might not have died out."
+    japanese: "氷河時代がなかったら、恐竜は絶滅しなかったかもしれない。"
+    notes: "難易度: 頻出; 出典: 佛教大; 整序; If it had not been for 〜「もし〜がなかったら」（仮定法過去完了）"
+  - id: "scr-050-p03"
+    section_id: "Scr_050"
+    drill: 1
+    number: 173
+    role: "exam"
+    english: "Without your help, I would not have passed the exam."
+    japanese: "もしあなたの助けがなかったら、私は試験に受からなかっただろう。"
+    notes: "難易度: 頻出; 出典: 中京大; 穴埋め(Without); Without 〜 / But for 〜「もし〜がなければ[なかったら]」; 仮定法過去・過去完了の両方に使える; 主節の動詞形で時制を判断"
+  - id: "scr-050-p04"
+    section_id: "Scr_050"
+    drill: 1
+    number: 174
+    role: "exam"
+    english: "With a little more effort, he would have been a member of our team."
+    japanese: "もう少し努力していたら、彼は私たちのチームのメンバーになっていただろう。"
+    notes: "難易度: 頻出; 出典: 成城大; 4択; With 〜「もし〜があれば[あったら]」; Withoutと対になる表現"
+
+  # === 例文（example） ===
+  - id: "scr-050-e01"
+    section_id: "Scr_050"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "If it were not for the sun, all living things would die."
+    japanese: "太陽がなければ、すべての生物は死んでしまうだろう。"
+    notes: "PU!30例文; 仮定法過去; = Were it not for the sun, = But for [Without] the sun,"
+  - id: "scr-050-e02"
+    section_id: "Scr_050"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "If it had not been for patience, he could not have succeeded."
+    japanese: "根気がなかったら、彼は成功できなかっただろう。"
+    notes: "PU!30例文; 仮定法過去完了; = Had it not been for patience, = But for [Without] patience,"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-050-p01"
+    label: "overall"
+    value: "M S V C"
+  - sentence_id: "scr-050-p01"
+    label: "details"
+    value: "[If it were not for computers](M:if節:仮定法過去), <our lives>(S) would be(V) <much more inconvenient>(C)."
+  # p02
+  - sentence_id: "scr-050-p02"
+    label: "overall"
+    value: "M S V"
+  - sentence_id: "scr-050-p02"
+    label: "details"
+    value: "[If it had not been for the ice age](M:if節:仮定法過去完了), <dinosaurs>(S) might not have died out(V)."
+  # p03
+  - sentence_id: "scr-050-p03"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "scr-050-p03"
+    label: "details"
+    value: "[Without your help](M:if節代用), I(S) would not have passed(V) <the exam>(O)."
+  # p04
+  - sentence_id: "scr-050-p04"
+    label: "overall"
+    value: "M S V C"
+  - sentence_id: "scr-050-p04"
+    label: "details"
+    value: "[With a little more effort](M:if節代用), he(S) would have been(V) <a member of our team>(C)."
+  # e01
+  - sentence_id: "scr-050-e01"
+    label: "overall"
+    value: "M S V"
+  - sentence_id: "scr-050-e01"
+    label: "details"
+    value: "[If it were not for the sun](M:if節:仮定法過去), <all living things>(S) would die(V)."
+  # e02
+  - sentence_id: "scr-050-e02"
+    label: "overall"
+    value: "M S V"
+  - sentence_id: "scr-050-e02"
+    label: "details"
+    value: "[If it had not been for patience](M:if節:仮定法過去完了), he(S) could not have succeeded(V)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-050-p01"
+    node_id: "skh-005"
+  - sentence_id: "scr-050-p02"
+    node_id: "skh-005"
+  - sentence_id: "scr-050-p03"
+    node_id: "skh-005"
+  - sentence_id: "scr-050-p04"
+    node_id: "skh-005"
+  - sentence_id: "scr-050-e01"
+    node_id: "skh-005"
+  - sentence_id: "scr-050-e02"
+    node_id: "skh-005"

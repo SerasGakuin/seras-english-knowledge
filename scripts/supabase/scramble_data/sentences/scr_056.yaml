@@ -1,0 +1,197 @@
+# Scr_056: Theme 56 原級を用いた慣用表現 → skh-009
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-056-p01"
+    section_id: "Scr_056"
+    drill: 1
+    number: 189
+    role: "exam"
+    english: "No, but I'll try to finish it as soon as possible."
+    japanese: "いいえ、でもできるだけ早く仕上げます。"
+    notes: "難易度: 基本/頻出; 出典: 愛知学院大; 穴埋め(possible); as + 原級 + as possible「できるだけ〜」(= as + 原級 + as one can); 対話問題Bの文のみ（A: Did you finish the report?）"
+  - id: "scr-056-p02"
+    section_id: "Scr_056"
+    drill: 1
+    number: 190
+    role: "exam"
+    english: "Susan read the book as carefully as she could."
+    japanese: "スーザンはその本をできるだけ注意して読んだ。"
+    notes: "難易度: 基本/頻出; 出典: 金城学院大; 4択; as + 原級 + as one can; 過去時制のときcanはcouldになる; = as carefully as possible"
+  - id: "scr-056-p03"
+    section_id: "Scr_056"
+    drill: 1
+    number: 191
+    role: "exam"
+    english: "He works hard not so much for his own success as for his employees' welfare."
+    japanese: "彼は自分の成功のためというよりはむしろ、従業員の幸福のために一生懸命に働いている。"
+    notes: "難易度: 頻出; 出典: 慶應大; 4択; not so much A as B「AというよりはむしろB」(= B rather than A); 注意: rather thanで書き換えるとAとBが逆; 語句: employee「従業員」⇔employer「雇い主」, welfare「幸福/福祉」"
+  - id: "scr-056-p04"
+    section_id: "Scr_056"
+    drill: 1
+    number: 192
+    role: "exam"
+    english: "He was so nervous that he couldn't so much as say hello."
+    japanese: "彼はとても緊張していたので、挨拶することさえもできなかった。"
+    notes: "出典: 愛知学院大; 4択; not so much as do「〜さえしない」(= not even do); not so much A as Bと混同しないこと"
+  - id: "scr-056-p05"
+    section_id: "Scr_056"
+    drill: 1
+    number: 193
+    role: "exam"
+    english: "Henry left the room without so much as saying good-bye to us."
+    japanese: "ヘンリーはさようならも言わずに部屋を出て行った。"
+    notes: "出典: 青山学院大; 整序; without so much as doing「〜さえないで」(= without even doing); without doing + not so much as do の組み合わせ"
+  - id: "scr-056-p06"
+    section_id: "Scr_056"
+    drill: 1
+    number: 194
+    role: "exam"
+    english: "She as well as I is tired of the work."
+    japanese: "私だけでなく彼女もその仕事にあきている。"
+    notes: "難易度: 頻出; 出典: 愛知工大; 4択; A as well as B「Bと同様にAも」(= not only B but also A); 主語として用いる場合、動詞はAに一致; = Not only I but (also) she is tired"
+  - id: "scr-056-p07"
+    section_id: "Scr_056"
+    drill: 1
+    number: 195
+    role: "exam"
+    english: "The man who stops learning is as good as dead."
+    japanese: "学ぶことをやめる人間は、死んだも同然だ。"
+    notes: "出典: センター; 4択; as good as 〜「（ほとんど）〜も同然」(= all but / almost); 通例、形容詞・副詞・動詞の前で用いる"
+  - id: "scr-056-p08"
+    section_id: "Scr_056"
+    drill: 1
+    number: 196
+    role: "exam"
+    english: "I saw three movies in as many days."
+    japanese: "私は3日間で3つの映画を見た。"
+    notes: "出典: 東京経済大; 4択; as many 〜「（先行する数詞を受けて）同数の〜」; as many = three（先行するthreeを受ける）"
+
+  # === 例文（example） ===
+  - id: "scr-056-e01"
+    section_id: "Scr_056"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "She's always as good as her word."
+    japanese: "彼女はいつも約束を守る。"
+    notes: "問195解説発展例文; be as good as one's word [promise]「必ず約束を守る」; = She always keeps her promise."
+  - id: "scr-056-e02"
+    section_id: "Scr_056"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "She mixed two cups of flour with as much water."
+    japanese: "彼女はカップ2杯の小麦粉を同量の水と混ぜた。"
+    notes: "問196解説比較例文; as much 〜「（先行する量を受けて）同量の〜」"
+  - id: "scr-056-e03"
+    section_id: "Scr_056"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "The stars sparkled in the sky, like so many tiny diamonds."
+    japanese: "まるで小さなダイヤモンドのように、星が空で輝いていた。"
+    notes: "問196解説比較例文; like so many 〜「まるで同数の〜のように」"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-056-p01"
+    label: "overall"
+    value: "M S V O M"
+  - sentence_id: "scr-056-p01"
+    label: "details"
+    value: "[No](M), but I(S)'ll try(V) [to finish it as soon as possible](O:to不定詞+原級比較)."
+  # p02
+  - sentence_id: "scr-056-p02"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-056-p02"
+    label: "details"
+    value: "Susan(S) read(V) <the book>(O) [as carefully as she could](M:原級比較)."
+  # p03
+  - sentence_id: "scr-056-p03"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-056-p03"
+    label: "details"
+    value: "He(S) works(V) [hard](M) [not so much for his own success as for his employees' welfare](M:not so much A as B)."
+  # p04
+  - sentence_id: "scr-056-p04"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-056-p04"
+    label: "details"
+    value: "He(S) was(V) <so nervous>(C) [that he couldn't so much as say hello](M:結果のthat節)."
+  # p05
+  - sentence_id: "scr-056-p05"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-056-p05"
+    label: "details"
+    value: "Henry(S) left(V) <the room>(O) [without so much as saying good-bye to us](M:without+動名詞)."
+  # p06
+  - sentence_id: "scr-056-p06"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-056-p06"
+    label: "details"
+    value: "<She as well as I>(S:Aに動詞一致) is(V) <tired of the work>(C)."
+  # p07
+  - sentence_id: "scr-056-p07"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-056-p07"
+    label: "details"
+    value: "<The man who stops learning>(S:関係詞節) is(V) <as good as dead>(C:慣用表現)."
+  # p08
+  - sentence_id: "scr-056-p08"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-056-p08"
+    label: "details"
+    value: "I(S) saw(V) <three movies>(O) [in as many days](M:as many=同数)."
+  # e01
+  - sentence_id: "scr-056-e01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-056-e01"
+    label: "details"
+    value: "She(S)'s always(V) <as good as her word>(C:慣用表現)."
+  # e02
+  - sentence_id: "scr-056-e02"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-056-e02"
+    label: "details"
+    value: "She(S) mixed(V) <two cups of flour>(O) [with as much water](M:as much=同量)."
+  # e03
+  - sentence_id: "scr-056-e03"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-056-e03"
+    label: "details"
+    value: "<The stars>(S) sparkled(V) [in the sky](M), [like so many tiny diamonds](M:like so many)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-056-p01"
+    node_id: "skh-009"
+  - sentence_id: "scr-056-p02"
+    node_id: "skh-009"
+  - sentence_id: "scr-056-p03"
+    node_id: "skh-009"
+  - sentence_id: "scr-056-p04"
+    node_id: "skh-009"
+  - sentence_id: "scr-056-p05"
+    node_id: "skh-009"
+  - sentence_id: "scr-056-p06"
+    node_id: "skh-009"
+  - sentence_id: "scr-056-p07"
+    node_id: "skh-009"
+  - sentence_id: "scr-056-p08"
+    node_id: "skh-009"
+  - sentence_id: "scr-056-e01"
+    node_id: "skh-009"
+  - sentence_id: "scr-056-e02"
+    node_id: "skh-009"
+  - sentence_id: "scr-056-e03"
+    node_id: "skh-009"
