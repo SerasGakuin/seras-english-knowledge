@@ -1,0 +1,103 @@
+# Nar_09_20: その他の前置詞の用法(3) about/into/onto/through (p.379-382)
+
+sentences:
+  - id: "nar-0920-e636"
+    section_id: "Nar_09_20"
+    drill: 0
+    number: 636
+    role: "example"
+    english: "There is a fence about the house."
+    japanese: "家の周りには囲いがある"
+    notes: "aboutの基本「周辺ぐるぐる」。about≒around"
+  - id: "nar-0920-e637"
+    section_id: "Nar_09_20"
+    drill: 0
+    number: 637
+    role: "example"
+    english: "We like to sit around a fire and relax in the evenings."
+    japanese: "私たちは、夜、火を囲んで座ってくつろぐことが好きだ"
+    notes: "aroundの用法。aboutと同義（周辺）。ただし「〜について」の意味ではaroundは不可"
+  - id: "nar-0920-e638"
+    section_id: "Nar_09_20"
+    drill: 0
+    number: 638
+    role: "example"
+    english: "There is something noble about the boy."
+    japanese: "その少年にはどこか高貴なところがある"
+    notes: "about→雰囲気。人の周辺にただようもの"
+  - id: "nar-0920-e639"
+    section_id: "Nar_09_20"
+    drill: 0
+    number: 639
+    role: "example"
+    english: "We're worried about his health."
+    japanese: "私たちは彼の健康を心配している"
+    notes: "about→心配。不安や心配が頭の中でぐるぐる回っている"
+  - id: "nar-0920-e640"
+    section_id: "Nar_09_20"
+    drill: 0
+    number: 640
+    role: "example"
+    english: "She came into the house."
+    japanese: "彼女は家の中へ入った"
+    notes: "intoの基本「ある空間の中へ」。into（中へ入る動き）、in（中にいる状態）、out of（外へ出る動き）の3段階"
+  - id: "nar-0920-e641"
+    section_id: "Nar_09_20"
+    drill: 0
+    number: 641
+    role: "example"
+    english: "The cat jumped onto my knee."
+    japanese: "ネコは私のひざの上に飛び乗った"
+    notes: "ontoの基本「ある表面の上へ」。到達to＋接触on。onto（上へ乗る動き）、on（上にいる状態）、off（離れる動き）の3段階"
+
+sentence_structures:
+  - sentence_id: "nar-0920-e636"
+    label: "overall"
+    value: "V S M"
+  - sentence_id: "nar-0920-e636"
+    label: "details"
+    value: "There is(V) <a fence>(S) [about the house](M:about/周辺)"
+  - sentence_id: "nar-0920-e637"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0920-e637"
+    label: "details"
+    value: "<We>(S) like(V) <to sit [around a fire](M:around/周辺) and relax>(O) [in the evenings](M)"
+  - sentence_id: "nar-0920-e638"
+    label: "overall"
+    value: "V S M"
+  - sentence_id: "nar-0920-e638"
+    label: "details"
+    value: "There is(V) <something noble>(S) [about the boy](M:about/雰囲気)"
+  - sentence_id: "nar-0920-e639"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0920-e639"
+    label: "details"
+    value: "<We>(S) are worried(V:受動/状態) [about his health](M:about/心配)"
+  - sentence_id: "nar-0920-e640"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0920-e640"
+    label: "details"
+    value: "<She>(S) came(V) [into the house](M:into/中へ)"
+  - sentence_id: "nar-0920-e641"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0920-e641"
+    label: "details"
+    value: "<The cat>(S) jumped(V) [onto my knee](M:onto/上へ)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0920-e636"
+    node_id: "nrp-020"
+  - sentence_id: "nar-0920-e637"
+    node_id: "nrp-020"
+  - sentence_id: "nar-0920-e638"
+    node_id: "nrp-020"
+  - sentence_id: "nar-0920-e639"
+    node_id: "nrp-020"
+  - sentence_id: "nar-0920-e640"
+    node_id: "nrp-020"
+  - sentence_id: "nar-0920-e641"
+    node_id: "nrp-020"

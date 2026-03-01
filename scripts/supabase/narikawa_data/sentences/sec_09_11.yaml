@@ -1,0 +1,103 @@
+# Nar_09_11: 前置詞 to の用法(2) (p.354-356)
+
+sentences:
+  - id: "nar-0911-e569"
+    section_id: "Nar_09_11"
+    drill: 0
+    number: 569
+    role: "example"
+    english: "They starved to death."
+    japanese: "彼らは飢えて死んだ"
+    notes: "結果のto。「彼らは飢えた→結果（to）→死んだ」。右向き矢印（→）のイメージ"
+  - id: "nar-0911-e570"
+    section_id: "Nar_09_11"
+    drill: 0
+    number: 570
+    role: "example"
+    english: "Harry came to my rescue."
+    japanese: "ハリーは私の救助に来た"
+    notes: "目的のto。to以下のmy rescueに対してHarryの意志が強く感じられるので「目的」"
+  - id: "nar-0911-e571"
+    section_id: "Nar_09_11"
+    drill: 0
+    number: 571
+    role: "example"
+    english: "It's difficult to confine a talk to ten minutes."
+    japanese: "話を10分に限るのは難しい"
+    notes: "限界・制限のto。confine + to。10分に到達→それ以上は入れない→限界"
+  - id: "nar-0911-e572"
+    section_id: "Nar_09_11"
+    drill: 0
+    number: 572
+    role: "example"
+    english: "We have to cut costs in order to limit spending to $80 million."
+    japanese: "支出を8,000万ドルに制限するために、私たちはコストカットしなければならない"
+    notes: "限界・制限のto。limit + to。restrict + toも同様"
+  - id: "nar-0911-e573"
+    section_id: "Nar_09_11"
+    drill: 0
+    number: 573
+    role: "example"
+    english: "To my regret, I can't accept your invitation."
+    japanese: "残念ですが、あなたのご招待に応じることはできません"
+    notes: "〈to one's＋感情名〉。「結果」の仲間。感情の高ぶりで文頭に置かれることが多い"
+  - id: "nar-0911-v001"
+    section_id: "Nar_09_11"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "She failed, to her dismay."
+    japanese: "彼女は失敗して、ひどくろうばいした"
+    notes: "to one's感情が文末に置かれる例。プラスαから"
+
+sentence_structures:
+  - sentence_id: "nar-0911-e569"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0911-e569"
+    label: "details"
+    value: "<They>(S) starved(V) [to death](M:to/結果)"
+  - sentence_id: "nar-0911-e570"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0911-e570"
+    label: "details"
+    value: "<Harry>(S) came(V) [to my rescue](M:to/目的)"
+  - sentence_id: "nar-0911-e571"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0911-e571"
+    label: "details"
+    value: "<It>(S:形式主語) is(V) <difficult>(C) [to confine <a talk>(O) [to ten minutes](M:to/制限)](真主語)"
+  - sentence_id: "nar-0911-e572"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0911-e572"
+    label: "details"
+    value: "<We>(S) have to cut(V) <costs>(O) [in order to limit <spending>(O) [to $80 million](M:to/制限)](M:目的)"
+  - sentence_id: "nar-0911-e573"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "nar-0911-e573"
+    label: "details"
+    value: "[To my regret](M:to/結果→感情) <I>(S) can't accept(V) <your invitation>(O)"
+  - sentence_id: "nar-0911-v001"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0911-v001"
+    label: "details"
+    value: "<She>(S) failed(V) [to her dismay](M:to/結果→感情)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0911-e569"
+    node_id: "nrp-011"
+  - sentence_id: "nar-0911-e570"
+    node_id: "nrp-011"
+  - sentence_id: "nar-0911-e571"
+    node_id: "nrp-011"
+  - sentence_id: "nar-0911-e572"
+    node_id: "nrp-011"
+  - sentence_id: "nar-0911-e573"
+    node_id: "nrp-011"
+  - sentence_id: "nar-0911-v001"
+    node_id: "nrp-011"

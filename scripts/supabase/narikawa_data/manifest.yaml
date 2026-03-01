@@ -1125,10 +1125,112 @@ sections:
     reviewed_at: "2026-03-03"
     notes: ""
 
+  # === Phase 2 B-11: Part 09 後半 前置詞（Nar_09_11〜09_20） ===
+  Nar_09_11:
+    title: "前置詞 to の用法(2)"
+    type: "pattern"
+    pages: "p.354-356"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: "e569-573 + v001(She failed, to her dismay.)"
+  Nar_09_12:
+    title: "前置詞 for の用法(1)"
+    type: "pattern"
+    pages: "p.357-359"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 10
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_09_13:
+    title: "前置詞 for の用法(2)"
+    type: "pattern"
+    pages: "p.360-362"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_09_14:
+    title: "前置詞 of の用法(1)"
+    type: "pattern"
+    pages: "p.363-364"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_09_15:
+    title: "前置詞 of の用法(2)"
+    type: "pattern"
+    pages: "p.365-366"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_09_16:
+    title: "前置詞 of の用法(3)"
+    type: "pattern"
+    pages: "p.367-369"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_09_17:
+    title: "前置詞 with の用法"
+    type: "pattern"
+    pages: "p.370-372"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_09_18:
+    title: "その他の前置詞の用法(1)"
+    type: "pattern"
+    pages: "p.373-375"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 12
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_09_19:
+    title: "その他の前置詞の用法(2)"
+    type: "pattern"
+    pages: "p.376-378"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_09_20:
+    title: "その他の前置詞の用法(3)"
+    type: "pattern"
+    pages: "p.379-382"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+
 summary:
   total_sections: 162
-  completed: 110
+  completed: 120
   in_progress: 0
-  not_started: 52
-  total_knowledge_nodes: 110
-  total_sentences: 626
+  not_started: 42
+  total_knowledge_nodes: 120
+  total_sentences: 700

@@ -150,6 +150,188 @@ knowledge_nodes:
       参考書内参照: →PART01-15（V+A+to+B型の動詞）
       別冊ポイント217参照
 
+  - id: "nrp-011"
+    name: "前置詞toの展開（結果/目的→限界/制限→to one's感情）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      toの「到達」イメージの続き。結果・目的・限界・制限・感情表現への展開。
+      ❶ 結果: starve to death（飢えて→結果→死）。右向き矢印（→）のイメージ
+      ❷ 目的: came to my rescue（救助に来た）。結果と目的はコインの表裏
+      ❸ 結果 vs 目的の判断基準: to以下に主語の意志が強く働いていれば→「目的」、そうでなければ→「結果」
+      ❹ 限界・制限: confine/limit/restrict + to。到達→限界（それ以上は入れない）
+      ❺ 〈to one's＋感情名〉: to my regret「残念なことに」。「結果」の仲間。文頭に置かれることが多い
+      to one's delight/joy/disappointment/dismay なども同様
+      プラスα: to one's感情は文末に置くこともできる（She failed, to her dismay.）
+      参考書内参照: →PART01-15（V+A+to+B型の動詞/制限系）
+      別冊ポイント217参照
+  - id: "nrp-012"
+    name: "前置詞forの核心（意識の向かう先→目的地→目的/用途/利益/賛成→理由）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      forの基本イメージは「意識の向かう先」。到達のtoとの対比が重要。
+      ❶ 意識の向かう先: searched for Tommy's ring。みんなの意識が指輪に向いている
+      ❷ 目的地: left Tokyo for New York。意識はNYに向いているが、まだ到達していない
+      ❸ toとforの違い: sent a letter to Jane（到達済み）vs bought a ring for Jane（意識は向いているが届いていない）
+      ❹ 第4文型の書き換え: S+V+O₂+to+O₁（到達）vs S+V+O₂+for+O₁（意識の向かう先）
+      ❺ 目的: work for a living（生活のために）
+      ❻ 用途: a knife for cutting bread（パン切り用）
+      ❼ 利益: act for a client（依頼人のために）
+      ❽ 要求: call for more information（詳細を求めて）
+      ❾ 賛成: I'm for your plan.（君の計画に賛成）
+      ❿ 理由: hospitalized for chest pains。明確な理由にはbecause ofが無難
+      プラスα: 理由のforはthank A for B等の定型動詞と使われることが多い
+      参考書内参照: →別p.3-4 ポイント007,008、→別p.15 ポイント032,033
+      別冊ポイント218参照
+  - id: "nrp-013"
+    name: "前置詞forの展開（期間→forとduringの違い→代用/交換→判断基準）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      forの「意識の向かう先」の続き。期間・代用・交換・判断基準への展開。
+      ❶ 期間: for three hours。全期間に意識→ずっと継続
+      ❷ forとduringの違い: for a week＝単に1週間の長さ。during the week＝特定の期間（theが付く）
+      ❸ forは全期間継続。duringは特定期間内で行われれば良く、常に継続の意味があるとは限らない
+      ❹ 代用: substituted honey for sugar。本来使いたいのはfor以下
+      ❺ 相当・同等: P.M. stands for Prime Minister。代用できる→相当
+      ❻ 交換: exchange yen for dollars。相当→交換可能
+      ❼ 判断の基準: looks young for his age。実年齢に意識を向けつつ判断
+      別冊ポイント218参照
+  - id: "nrp-014"
+    name: "前置詞ofの核心（分離→3本柱→材料/構成要素）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      ofの基本イメージは「分離」。offと親戚関係。ケーキのイラストで3本柱を理解。
+      ❶ 分離: ホールケーキからピースをカット→分離がofの原点
+      ❷ 3本柱: ❶分離 ❷部分 of 全体 ❸所有
+      ❸ 分離→独立: independent of her parents
+      ❹ 分離→起源: 独立しても性格や容姿の起源は親にある
+      ❺ 起源→材料: bars of steel（鉄格子）、made of wood（木造）
+      ❻ 起源→構成要素: consists of eight chapters（8章からなる）
+      [図表: イラスト — ホールケーキからピースをカット→分離→部分of全体→所有の3本柱の説明（p.363）]
+      別冊ポイント219参照
+  - id: "nrp-015"
+    name: "前置詞ofの展開1（原因→行為者/動作主→部分of全体→同格）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      ofの3本柱の続き。原因・行為者・部分of全体・同格への展開。
+      ❶ 出来事の起源→原因: died of cancer。直接的原因→of。間接的原因→from
+      ❷ 行為の起源→行為者・動作主: the arrival of a visitor（客の到着）。「主格のof」
+      ❸ 性質の起源→行為者: kind of him（彼が親切）。kindの起源がhim
+      ❹ 部分 of 全体: one of the books, some of the books, most of the books
+      ❺ 数量表現＋of: A（部分）of B（全体）の関係。ofは仕切り役
+      ❻ 同格: A（部分）が100%→all of the books→A＝B→同格
+      ❼ 同格の例: the name of Bill（ビルという名前）、the fact of her having seen Bill
+      プラスα: all of the booksのofは省略可能（all the books）。A＝Bなので仕切り不要
+      プラスα: die of（直接原因）vs die from（間接原因）。現在では区別があいまい
+      参考書内参照: →p.348-349（fromの原因）
+      別冊ポイント219参照
+  - id: "nrp-016"
+    name: "前置詞ofの展開2（関連/対象→所有→of+抽象名詞→使用上の注意）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      ofの3本柱の最終展開。関連・対象・所有・of+抽象名詞・使用上の注意。
+      ❶ 関連: speaks of his family（家族について語る）。同格ofから「関連」へ
+      ❷ 感情や行為の対象: suspicious of his words（「目的格のof」）、the love of nature
+      ❸ 所有: the role of chairperson（議長がもつ役割）、that car of hers（彼女のあの車）
+      ❹ of+抽象名詞: of great use＝very useful。「有用さをもった」と理解
+      ❺ 強弱の調整: of great use / of some use / of little use / of no use
+      ❻ 具体名詞でも可: of the same age（同年齢）、of the same mind（同意見）
+      ❼ 使用上の注意: A of B＝「B（全体/親）の中のA（部分/子）」で基本OK
+      ❽ 定型表現: a lot of / a cup of / a kind of 等はofを含む定型句として扱う
+      別冊ポイント219参照
+  - id: "nrp-017"
+    name: "前置詞withの核心と展開（もって→付随/道具/原因/比例→一緒/相手/関係）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      withの基本イメージは「もって、もっている」。手にもてるものだけでなく、気分や原因まで幅広くカバー。
+      ❶ 付随: a book with a black cover。黒い表紙をもった本
+      ❷ 道具: cut meat with a knife。ナイフをもって→ナイフで
+      ❸ 原因: trembled with fear。恐怖でもって→恐怖で
+      ❹ 比例: vary with time。時間でもって→時間と共に
+      ❺ 一緒（同伴）: played with his child。共に存在→一緒に
+      ❻ 相手: argued with my father。一緒にいる→相手
+      ❼ 関係: What's the matter with you?。一緒にいれば関係が生まれる
+      ❽ with+抽象名詞＝副詞: with care＝carefully。「注意をもって→注意して」
+      [図表: イラスト — フォークを持って食べる男性（p.370）]
+      [図表: イラスト — 親子がボール遊び（p.371）]
+      プラスα: 原因のof（直接的）、from（間接的）、with（状況をともなって）の使い分け
+      プラスα: fight with〜はドイツと一緒に戦う/ドイツと戦うの2解釈。fight againstは対抗のみ
+      プラスα: What's the matter with you?は不信感。with youなしなら気遣い
+      別冊ポイント220参照
+  - id: "nrp-018"
+    name: "その他の前置詞(1)（over/above/under/below）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      主要前置詞以外の重要前置詞。上下関係を表す4つの前置詞。
+      ❶ over: 「覆いかぶさって、越えて（向こうに）」
+      ❷ over→期間: over the years（数年にわたって）
+      ❸ over→従事: chatted over coffee（コーヒーを飲みながら）。入試頻出
+      ❹ over→支配: rules over the country。権力が国を覆っている
+      ❺ above: 「ある基準よりも上（の方）」。above the speed limit
+      ❻ overとaboveの違い: overは曲線的な広がり。aboveは点としての上。aboveには「越えて向こうに」の動き用法なし
+      ❼ under: overのおおよそ反対。物理的な下＋条件・状態の下
+      ❽ under重要表現: under construction（建設中）、under the law（法の下で）、under discussion（議論中）、under way（進行中）、under any circumstances（いかなる状況下でも）
+      ❾ below: 「ある基準よりも下（の方）」。aboveの正反対
+      ❿ belowは位置だけでなく能力・上下関係も表す: below a president in rank
+      [図表: イラスト — テーブルクロスを広げる様子/overの矢印（p.373）]
+      [図表: イラスト — コーヒーをまたいで会話/overの矢印（p.373）]
+      [図表: イラスト — 椅子の下のネコ/under（p.374）]
+      [図表: イラスト — 社長と副社長のピラミッド/below（p.375）]
+      別冊ポイント221・222・224参照
+  - id: "nrp-019"
+    name: "その他の前置詞(2)（beyond/across/between/among/against）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      その他の重要前置詞の続き。距離・方向・関係・対立を表す5つの前置詞。
+      ❶ beyond: 「はるかに超えて（→手が届かない）」。beyond description（言葉では言い尽くせない）
+      ❷ across: 「横切る」。crossが含まれている→交差の感覚
+      ❸ between: 「AとBとの間」。be(=by)+tween(=two)が語源→原則2者間
+      ❹ betweenが3者以上: 各2者間の関係（ペア）が意識されている場合。Switzerland lies between France, Italy, Austria and Germany.
+      ❺ among: 通例3者以上。グループ・集合体をイメージ
+      ❻ betweenとamongの違い: 数でなく、個々の関係焦点(between) vs 集合体イメージ(among)
+      ❼ against: 基本イメージは「⇔」。対立・反対・対照・準備（防御）
+      ❽ against→対照: stood out against the blue sky（青空を背景に）
+      ❾ against→準備: store food against the winter（冬に備えて）
+      [図表: イラスト — acrossで道を横切る（p.376）]
+      [図表: イラスト — betweenでNYとボストン間（p.376）]
+      [図表: イラスト — amongで木々の間のコテージ（p.377）]
+      [図表: イラスト — againstの矢印が向かい合う（p.377）]
+      プラスα: fight against〜は対抗の意味が色濃い。fight with〜は相手/一緒の2解釈
+      別冊ポイント223参照
+  - id: "nrp-020"
+    name: "その他の前置詞(3)（about/into/onto/through）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      その他の重要前置詞の最終回。方向・移動・通過を表す4つの前置詞。
+      ❶ about: 「周辺ぐるぐる」。about≒aroundだが「〜について」ではaroundは不可
+      ❷ about→周辺→「〜について」: 周辺情報を漠然と。専門的にはon
+      ❸ about→雰囲気: something noble about the boy（少年にはどこか高貴なところ）
+      ❹ about→不安・心配: worried about his health。頭の中でぐるぐる
+      ❺ into: 「ある空間の中へ」。came into the house（家の中へ入った）
+      ❻ in/into/out ofの関係: into（中へ入る動き）、in（中にいる状態）、out of（外へ出る動き）
+      ❼ into→変化: translate Latin into English
+      ❽ onto: 「ある表面の上へ」。到達のto＋接触のon。jumped onto my knee
+      ❾ on/onto/offの関係: onto（上へ乗る動き）、on（上にいる状態）、off（離れる動き）
+      ❿ through: 「〜を通り抜けて」。pass through a tunnel
+      ⓫ through→期間: through the night（夜通し）
+      ⓬ through→手段: through the Internet（インターネットを通じて）
+      ⓭ acrossとthroughの違い: across＝平面を横切る。through＝立体を通り抜ける
+      [図表: イラスト — 家の周りのフェンス/about（p.379）]
+      [図表: イラスト — into/in/out ofの3段階（p.380）]
+      [図表: イラスト — onto/on/offの3段階（p.380）]
+      [図表: イラスト — トンネルを通り抜ける電車/through（p.381）]
+      プラスα: about 100 pounds＝100ポンドの周辺→およそ100ポンド
+      プラスα: on toと2語にすることもある
+
 understanding_goals:
   - node_id: "nrp-001"
     seq: 1
@@ -250,6 +432,114 @@ understanding_goals:
   - node_id: "nrp-010"
     seq: 3
     goal: "toが適合・付加を表す用法を理解できる"
+  - node_id: "nrp-011"
+    seq: 1
+    goal: "toの「到達」から結果・目的への展開を説明できる"
+  - node_id: "nrp-011"
+    seq: 2
+    goal: "結果と目的の判断基準（主語の意志）を理解し適用できる"
+  - node_id: "nrp-011"
+    seq: 3
+    goal: "限界・制限のtoを理解し、confine/limit/restrict + toを使える"
+  - node_id: "nrp-011"
+    seq: 4
+    goal: "〈to one's＋感情名〉の構造と意味を理解し使える"
+  - node_id: "nrp-012"
+    seq: 1
+    goal: "forの基本イメージ「意識の向かう先」を説明できる"
+  - node_id: "nrp-012"
+    seq: 2
+    goal: "toとforの違いを「到達」vs「意識の向かう先」で説明できる"
+  - node_id: "nrp-012"
+    seq: 3
+    goal: "forが目的・用途・利益・賛成を表す用法を理解できる"
+  - node_id: "nrp-012"
+    seq: 4
+    goal: "forが理由を表す用法の注意点を説明できる"
+  - node_id: "nrp-013"
+    seq: 1
+    goal: "forが期間を表す用法を理解し、duringとの違いを説明できる"
+  - node_id: "nrp-013"
+    seq: 2
+    goal: "forが代用・交換を表す用法を理解できる"
+  - node_id: "nrp-013"
+    seq: 3
+    goal: "判断基準のfor（looks young for his age等）を理解できる"
+  - node_id: "nrp-014"
+    seq: 1
+    goal: "ofの基本イメージ「分離」を説明できる"
+  - node_id: "nrp-014"
+    seq: 2
+    goal: "ofの3本柱（分離・部分of全体・所有）を理解できる"
+  - node_id: "nrp-014"
+    seq: 3
+    goal: "ofが材料・構成要素を表す用法をfromと比較して説明できる"
+  - node_id: "nrp-015"
+    seq: 1
+    goal: "ofが原因を表す用法をfromと比較して理解できる"
+  - node_id: "nrp-015"
+    seq: 2
+    goal: "主格のof（行為者・動作主）と性質のofを理解できる"
+  - node_id: "nrp-015"
+    seq: 3
+    goal: "部分of全体・数量表現＋ofの構造を理解できる"
+  - node_id: "nrp-015"
+    seq: 4
+    goal: "同格のofを理解し、部分of全体との関係を説明できる"
+  - node_id: "nrp-016"
+    seq: 1
+    goal: "ofが関連・対象を表す用法を理解できる"
+  - node_id: "nrp-016"
+    seq: 2
+    goal: "所有のofを理解できる"
+  - node_id: "nrp-016"
+    seq: 3
+    goal: "of+抽象名詞＝形容詞の構造を理解し、強弱の調整ができる"
+  - node_id: "nrp-017"
+    seq: 1
+    goal: "withの基本イメージ「もって、もっている」を説明できる"
+  - node_id: "nrp-017"
+    seq: 2
+    goal: "withが付随・道具・原因・比例を表す用法を理解できる"
+  - node_id: "nrp-017"
+    seq: 3
+    goal: "withが一緒・相手・関係を表す用法を理解できる"
+  - node_id: "nrp-017"
+    seq: 4
+    goal: "with+抽象名詞＝副詞の構造を理解できる"
+  - node_id: "nrp-018"
+    seq: 1
+    goal: "overの基本イメージ「覆いかぶさって、越えて」を理解し、期間・従事・支配への展開を説明できる"
+  - node_id: "nrp-018"
+    seq: 2
+    goal: "overとaboveの違いを説明できる"
+  - node_id: "nrp-018"
+    seq: 3
+    goal: "underの物理的・抽象的用法を理解し、重要表現を覚えている"
+  - node_id: "nrp-018"
+    seq: 4
+    goal: "belowの用法を理解し、aboveとの対比を説明できる"
+  - node_id: "nrp-019"
+    seq: 1
+    goal: "beyondの「はるかに超えて→手が届かない」を理解できる"
+  - node_id: "nrp-019"
+    seq: 2
+    goal: "betweenとamongの違いを数ではなく焦点の違いで説明できる"
+  - node_id: "nrp-019"
+    seq: 3
+    goal: "againstの複数の用法（対立・対照・準備）を理解できる"
+  - node_id: "nrp-020"
+    seq: 1
+    goal: "aboutの「周辺ぐるぐる」からの展開を理解できる"
+  - node_id: "nrp-020"
+    seq: 2
+    goal: "into/in/out ofとonto/on/offの3段階を理解できる"
+  - node_id: "nrp-020"
+    seq: 3
+    goal: "throughの基本イメージと用法の展開（期間・手段）を理解できる"
+  - node_id: "nrp-020"
+    seq: 4
+    goal: "acrossとthroughの違い（平面vs立体）を説明できる"
 
 check_points:
   - node_id: "nrp-001"
@@ -372,6 +662,150 @@ check_points:
     seq: 3
     question: "attach a tag to a garmentとthe label on a bottleで前置詞が異なる理由は？"
     answer: "to＝貼り付けるまでの到達動作。on＝すでに貼られている接触状態"
+  - node_id: "nrp-011"
+    seq: 1
+    question: "starve to deathのtoは何を表すか？"
+    answer: "結果。飢えて→到達した結果→死。右向き矢印（→）のイメージ"
+  - node_id: "nrp-011"
+    seq: 2
+    question: "結果のtoと目的のtoを判断する基準は何か？"
+    answer: "to以下に主語の意志が強く働いていれば「目的」、そうでなければ「結果」"
+  - node_id: "nrp-011"
+    seq: 3
+    question: "限界・制限のtoと一緒に使われる動詞は？"
+    answer: "confine/limit/restrict + to。到達→限界（それ以上は入れない）"
+  - node_id: "nrp-011"
+    seq: 4
+    question: "to my regretはtoのどの用法の仲間か？"
+    answer: "「結果」の仲間。感情に到達した結果→残念なことに。to one's delight/joy/disappointment/dismayなども同様"
+  - node_id: "nrp-012"
+    seq: 1
+    question: "forの基本イメージは何か？"
+    answer: "「意識の向かう先」。到達のtoとの対比が重要"
+  - node_id: "nrp-012"
+    seq: 2
+    question: "sent a letter to Janeとbought a ring for Janeの違いは？"
+    answer: "to＝手紙は到達済み。for＝意識は指輪に向いているが、まだJaneに届いていない"
+  - node_id: "nrp-012"
+    seq: 3
+    question: "I'm for your plan.のforは何を表すか？"
+    answer: "賛成。意識の向かう先→支持。反意はagainst"
+  - node_id: "nrp-012"
+    seq: 4
+    question: "理由のforを使う際の注意点は？"
+    answer: "明確な理由にはbecause ofが無難。forはthank A for B等の定型動詞との組み合わせで使われることが多い"
+  - node_id: "nrp-013"
+    seq: 1
+    question: "forとduringの違いは何か？"
+    answer: "for a week＝単に1週間の長さ。during the week＝特定の期間（theが付く）。forは全期間継続、duringは特定期間内に行われればよい"
+  - node_id: "nrp-013"
+    seq: 2
+    question: "substituted honey for sugarのforは何を表すか？"
+    answer: "代用。本来使いたいのはfor以下（砂糖）。蜂蜜で代用した"
+  - node_id: "nrp-013"
+    seq: 3
+    question: "looks young for his ageのforは何を表すか？"
+    answer: "判断基準。実年齢に意識を向けつつ→その年齢にしては若く見える"
+  - node_id: "nrp-014"
+    seq: 1
+    question: "ofの基本イメージは何か？"
+    answer: "「分離」。offと親戚関係。ホールケーキからピースをカットするイメージ"
+  - node_id: "nrp-014"
+    seq: 2
+    question: "ofの3本柱は何か？"
+    answer: "❶分離 ❷部分 of 全体 ❸所有"
+  - node_id: "nrp-014"
+    seq: 3
+    question: "made of woodとmade from milkの違いは何か？"
+    answer: "of＝目で見て材料がわかる（木→テーブル）。from＝原形をとどめない（牛乳→バター）"
+  - node_id: "nrp-015"
+    seq: 1
+    question: "die of cancerとdie from overworkの違いは？"
+    answer: "of＝直接的原因（癌）。from＝間接的原因（過労）。現在では区別があいまいになりつつある"
+  - node_id: "nrp-015"
+    seq: 2
+    question: "the arrival of a visitorのofは何を表すか？"
+    answer: "行為者・動作主。「主格のof」。到着の行為の起源＝客"
+  - node_id: "nrp-015"
+    seq: 3
+    question: "all of the booksのofが省略可能な理由は？"
+    answer: "A（部分）が100%→A＝B（同格）なので仕切り役のofが不要。all the booksと書ける"
+  - node_id: "nrp-016"
+    seq: 1
+    question: "of great use = ?（of+抽象名詞の構造）"
+    answer: "very useful。「有用さをもった」と理解。of some use / of little use / of no useと強弱調整も可能"
+  - node_id: "nrp-016"
+    seq: 2
+    question: "speaks of his familyのofは何を表すか？"
+    answer: "関連。同格のofから「関連」へ展開。suspicious of his wordsのofは感情の「対象」（目的格のof）"
+  - node_id: "nrp-016"
+    seq: 3
+    question: "A of Bの基本公式は？"
+    answer: "B（全体/親）の中のA（部分/子）。ただしa lot of / a cup of等はofを含む定型句として扱う"
+  - node_id: "nrp-017"
+    seq: 1
+    question: "withの基本イメージは何か？"
+    answer: "「もって、もっている」。手にもてるものだけでなく、気分や原因まで幅広くカバー"
+  - node_id: "nrp-017"
+    seq: 2
+    question: "trembled with fearのwithは何を表すか？"
+    answer: "原因。恐怖をもって→恐怖で。原因のof（直接的）、from（間接的）、with（状況をともなって）と使い分ける"
+  - node_id: "nrp-017"
+    seq: 3
+    question: "with care = ?（with+抽象名詞の構造）"
+    answer: "carefully。「注意をもって→注意して」。with+抽象名詞＝副詞"
+  - node_id: "nrp-017"
+    seq: 4
+    question: "fight withとfight againstの違いは？"
+    answer: "fight with〜は「一緒に戦う/〜と戦う」の2解釈。fight against〜は対抗の意味のみ"
+  - node_id: "nrp-018"
+    seq: 1
+    question: "overとaboveの違いは何か？"
+    answer: "over＝曲線的な広がり・「越えて向こうに」の動き用法あり。above＝点としての上・基準より上"
+  - node_id: "nrp-018"
+    seq: 2
+    question: "chatted over coffeeのoverは何を表すか？"
+    answer: "従事。コーヒーを飲みながらおしゃべりした。入試頻出"
+  - node_id: "nrp-018"
+    seq: 3
+    question: "under construction, under discussion, under wayのunderは何を表すか？"
+    answer: "条件・状態の下。建設中・議論中・進行中。underの「〜の下で」が抽象的な状態に拡張"
+  - node_id: "nrp-018"
+    seq: 4
+    question: "belowは位置以外に何を表すか？"
+    answer: "能力・上下関係。below a president in rank（地位で社長の下）"
+  - node_id: "nrp-019"
+    seq: 1
+    question: "beyond descriptionの意味は？"
+    answer: "言葉では言い尽くせない。「はるかに超えて→手が届かない」"
+  - node_id: "nrp-019"
+    seq: 2
+    question: "betweenが3者以上で使われるのはどんな場合？"
+    answer: "各2者間の関係（ペア）が意識されている場合。Switzerland lies between France, Italy, Austria and Germany."
+  - node_id: "nrp-019"
+    seq: 3
+    question: "stood out against the blue skyのagainstは何を表すか？"
+    answer: "対照。青空を背景に目立った。againstの基本「⇔」から対照へ"
+  - node_id: "nrp-019"
+    seq: 4
+    question: "store food against the winterのagainstは何を表すか？"
+    answer: "準備（防御）。冬に備えて食料を蓄えた。「⇔」→迎え撃つ→備える"
+  - node_id: "nrp-020"
+    seq: 1
+    question: "aboutの基本イメージは何か？"
+    answer: "「周辺ぐるぐる」。about≒aroundだが「〜について」ではaroundは不可"
+  - node_id: "nrp-020"
+    seq: 2
+    question: "in/into/out ofの3段階を説明せよ"
+    answer: "into＝中へ入る動き、in＝中にいる状態、out of＝外へ出る動き"
+  - node_id: "nrp-020"
+    seq: 3
+    question: "on/onto/offの3段階を説明せよ"
+    answer: "onto＝上へ乗る動き（到達to＋接触on）、on＝上にいる状態、off＝離れる動き"
+  - node_id: "nrp-020"
+    seq: 4
+    question: "acrossとthroughの違いは？"
+    answer: "across＝平面を横切る（crossが含まれている）。through＝立体を通り抜ける"
 
 node_prerequisites:
   - node_id: "nrp-002"
@@ -382,6 +816,18 @@ node_prerequisites:
     prerequisite_id: "nrp-005"
   - node_id: "nrp-009"
     prerequisite_id: "nrp-008"
+  - node_id: "nrp-011"
+    prerequisite_id: "nrp-010"
+  - node_id: "nrp-013"
+    prerequisite_id: "nrp-012"
+  - node_id: "nrp-015"
+    prerequisite_id: "nrp-014"
+  - node_id: "nrp-016"
+    prerequisite_id: "nrp-015"
+  - node_id: "nrp-019"
+    prerequisite_id: "nrp-018"
+  - node_id: "nrp-020"
+    prerequisite_id: "nrp-019"
 
 knowledge_references:
   - node_id: "nrp-001"
@@ -424,3 +870,43 @@ knowledge_references:
     book: "成川の深めて解ける！英文法 INPUT"
     section_id: "Nar_09_10"
     pages: "p.352-353"
+  - node_id: "nrp-011"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_11"
+    pages: "p.354-356"
+  - node_id: "nrp-012"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_12"
+    pages: "p.357-359"
+  - node_id: "nrp-013"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_13"
+    pages: "p.360-362"
+  - node_id: "nrp-014"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_14"
+    pages: "p.363-364"
+  - node_id: "nrp-015"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_15"
+    pages: "p.365-366"
+  - node_id: "nrp-016"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_16"
+    pages: "p.367-369"
+  - node_id: "nrp-017"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_17"
+    pages: "p.370-372"
+  - node_id: "nrp-018"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_18"
+    pages: "p.373-375"
+  - node_id: "nrp-019"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_19"
+    pages: "p.376-378"
+  - node_id: "nrp-020"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_20"
+    pages: "p.379-382"

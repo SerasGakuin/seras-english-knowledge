@@ -1,0 +1,55 @@
+# Nar_09_15: 前置詞 of の用法(2) (p.365-366)
+
+sentences:
+  - id: "nar-0915-e595"
+    section_id: "Nar_09_15"
+    drill: 0
+    number: 595
+    role: "example"
+    english: "The man died of cancer."
+    japanese: "その男性はガンで死んだ"
+    notes: "起源→原因のof。直接的原因→of。間接的原因→from。現在では区別があいまい"
+  - id: "nar-0915-e596"
+    section_id: "Nar_09_15"
+    drill: 0
+    number: 596
+    role: "example"
+    english: "The doorbell signaled the arrival of a visitor."
+    japanese: "玄関のベルが客の到着を告げた"
+    notes: "行為者・動作主のof（主格のof）。到着という行為の起源が客"
+  - id: "nar-0915-e597"
+    section_id: "Nar_09_15"
+    drill: 0
+    number: 597
+    role: "example"
+    english: "It was kind of him to do so."
+    japanese: "彼がそうしたのは親切だった"
+    notes: "性質の起源→行為者のof。kindという性質の起源がhim。親切な行為をしたのはofのあとのhim"
+
+sentence_structures:
+  - sentence_id: "nar-0915-e595"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0915-e595"
+    label: "details"
+    value: "<The man>(S) died(V) [of cancer](M:of/原因)"
+  - sentence_id: "nar-0915-e596"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0915-e596"
+    label: "details"
+    value: "<The doorbell>(S) signaled(V) <the arrival [of a visitor]>(O:of/行為者)"
+  - sentence_id: "nar-0915-e597"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0915-e597"
+    label: "details"
+    value: "<It>(S:形式) was(V) <kind>(C) [of him](M:of/性質の起源) [to do so](真主語)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0915-e595"
+    node_id: "nrp-015"
+  - sentence_id: "nar-0915-e596"
+    node_id: "nrp-015"
+  - sentence_id: "nar-0915-e597"
+    node_id: "nrp-015"

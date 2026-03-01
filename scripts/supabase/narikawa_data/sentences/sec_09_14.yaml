@@ -1,0 +1,71 @@
+# Nar_09_14: 前置詞 of の用法(1) (p.363-364)
+
+sentences:
+  - id: "nar-0914-e591"
+    section_id: "Nar_09_14"
+    drill: 0
+    number: 591
+    role: "example"
+    english: "She is independent of her parents."
+    japanese: "彼女は親から独立している"
+    notes: "分離のof。independentと相性が良い。分離→独立"
+  - id: "nar-0914-e592"
+    section_id: "Nar_09_14"
+    drill: 0
+    number: 592
+    role: "example"
+    english: "The prisoner was confined behind bars of steel."
+    japanese: "その囚人は鉄格子の中に閉じ込められていた"
+    notes: "起源→材料のof。steelがbarsの材料"
+  - id: "nar-0914-e593"
+    section_id: "Nar_09_14"
+    drill: 0
+    number: 593
+    role: "example"
+    english: "He wants to buy a house made of wood."
+    japanese: "彼は木造の家を買いたいと思っている"
+    notes: "起源→材料のof。made of＝原形をとどめた材料（目で見てわかる）。made fromは原形をとどめない"
+  - id: "nar-0914-e594"
+    section_id: "Nar_09_14"
+    drill: 0
+    number: 594
+    role: "example"
+    english: "This book consists of eight chapters."
+    japanese: "この本は8章からなっている"
+    notes: "構成要素のof。eight chaptersがThis bookの構成要素"
+
+sentence_structures:
+  - sentence_id: "nar-0914-e591"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0914-e591"
+    label: "details"
+    value: "<She>(S) is(V) <independent>(C) [of her parents](M:of/分離)"
+  - sentence_id: "nar-0914-e592"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0914-e592"
+    label: "details"
+    value: "<The prisoner>(S) was confined(V:受動) [behind bars [of steel](of/材料)](M)"
+  - sentence_id: "nar-0914-e593"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0914-e593"
+    label: "details"
+    value: "<He>(S) wants to buy(V) <a house [made [of wood](of/材料)]>(O)"
+  - sentence_id: "nar-0914-e594"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0914-e594"
+    label: "details"
+    value: "<This book>(S) consists(V) [of eight chapters](M:of/構成要素)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0914-e591"
+    node_id: "nrp-014"
+  - sentence_id: "nar-0914-e592"
+    node_id: "nrp-014"
+  - sentence_id: "nar-0914-e593"
+    node_id: "nrp-014"
+  - sentence_id: "nar-0914-e594"
+    node_id: "nrp-014"
