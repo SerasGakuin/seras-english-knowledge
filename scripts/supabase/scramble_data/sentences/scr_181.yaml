@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-181-p01"
+    section_id: "Scr_181"
+    drill: 1
+    number: 710
+    role: "exam"
+    english: "The task is of much importance to them."
+    japanese: "その仕事は彼らにとって非常に重要です。"
+    notes: "出典: 近畿大。〈頻出〉4択問題。of+抽象名詞=形容詞（of much importance = very important）。ofは「〜の性質を持つ」の意味。抽象名詞の前にgreat/much/no/littleなどの程度を表す形容詞がつくことが多い。PU!163: of importance = important, of interest = interesting, of help = helpful, of value = valuable。"
+  - id: "scr-181-p02"
+    section_id: "Scr_181"
+    drill: 1
+    number: 711
+    role: "exam"
+    english: "Cats have a great sense of balance, so they can walk with ease on narrow fences."
+    japanese: "猫はバランス感覚に優れているので、狭い塀の上を容易に歩くことができる。"
+    notes: "4択問題。with+抽象名詞=副詞（with ease = easily）。with easeは動詞walkを修飾。PU!163: with ease = easily, with difficulty = barely, with patience = patiently, with care = carefully, with accuracy = accurately。"
+  - id: "scr-181-e01"
+    section_id: "Scr_181"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "The book is of great historical value for its insights into Edo period life."
+    japanese: "その本は江戸時代の生活についての洞察があるため、大きな歴史的価値がある。"
+    notes: "問710解説例文。of+抽象名詞=形容詞の用法。of great historical value「大きな歴史的価値がある」。"
+
+sentence_structures:
+  - sentence_id: "scr-181-p01"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-181-p01"
+    label: "details"
+    value: "<The task>(S) is(V) <of much importance>(C) [to them](M:対象)"
+  - sentence_id: "scr-181-p02"
+    label: "overall"
+    value: "S V O, M S V M M"
+  - sentence_id: "scr-181-p02"
+    label: "details"
+    value: "<Cats>(S) have(V) <a great sense of balance>(O), so <they>(S) can walk(V) [with ease](M:様態) [on narrow fences](M:場所)"
+  - sentence_id: "scr-181-e01"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-181-e01"
+    label: "details"
+    value: "<The book>(S) is(V) <of great historical value>(C) [for its insights into Edo period life](M:理由)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-181-p01"
+    node_id: "sgh-039"
+  - sentence_id: "scr-181-p02"
+    node_id: "sgh-039"
+  - sentence_id: "scr-181-e01"
+    node_id: "sgh-039"

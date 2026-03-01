@@ -47,6 +47,22 @@ sentences:
     english: "A great number of people suffered from serious water shortages in various parts of the world last year."
     japanese: "昨年は世界のさまざまな所で、非常に多くの人々が深刻な水不足に苦しんだ。"
     notes: "出典: 名城大。〈頻出〉整序問題。a great number of〜「多くの〜」。〈比較〉a large [great] quantity of〜「大量の〜/多量の〜」。"
+  - id: "scr-163-e01"
+    section_id: "Scr_163"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "He has a lot of coats."
+    japanese: "彼はコートをたくさん持っている。"
+    notes: "PU!144例文。a lot of / lots of / plenty ofは「数」にも「量」にも用いられる。可算名詞coats（複数形）とともに使用。"
+  - id: "scr-163-e02"
+    section_id: "Scr_163"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "He has a lot of money."
+    japanese: "彼は金をたくさん持っている。"
+    notes: "PU!144例文。a lot of / lots of / plenty ofは「数」にも「量」にも用いられる。不可算名詞moneyとともに使用。"
 
 sentence_structures:
   - sentence_id: "scr-163-p01"
@@ -86,6 +102,19 @@ sentence_structures:
     label: "details"
     value: "<A great number of people>(S) suffered(V) [from serious water shortages](M:原因) [in various parts of the world](M:場所) [last year](M:時)"
 
+  - sentence_id: "scr-163-e01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-163-e01"
+    label: "details"
+    value: "<He>(S) has(V) <a lot of coats>(O)"
+  - sentence_id: "scr-163-e02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-163-e02"
+    label: "details"
+    value: "<He>(S) has(V) <a lot of money>(O)"
+
 sentence_knowledge_tags:
   - sentence_id: "scr-163-p01"
     node_id: "sgh-027"
@@ -98,4 +127,8 @@ sentence_knowledge_tags:
   - sentence_id: "scr-163-p05"
     node_id: "sgh-027"
   - sentence_id: "scr-163-p06"
+    node_id: "sgh-027"
+  - sentence_id: "scr-163-e01"
+    node_id: "sgh-027"
+  - sentence_id: "scr-163-e02"
     node_id: "sgh-027"

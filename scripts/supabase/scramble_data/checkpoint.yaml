@@ -2,54 +2,52 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T19:00:00"
+updated_at: "2026-03-01T22:30:00"
 book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 2 — B12完了、B13着手前"
+  phase: "Phase 2 — B13完了、Part 2完了マイルストーン"
   current_section: null
   current_step: null
-  last_completed_section: "Scr_168"
-  last_completed_gate: 5
+  last_completed_section: "Scr_183"
+  last_completed_gate: 2
 
 progress:
   total_sections: 271
-  completed: 168
+  completed: 183
   in_progress: 0
-  remaining: 103
-  total_nodes: 120
-  total_sentences: 832
+  remaining: 88
+  total_nodes: 131
+  total_sentences: 910
+
+b13_results:
+  ch18_sections: ["Scr_169", "Scr_170", "Scr_171", "Scr_172", "Scr_173", "Scr_174", "Scr_175"]
+  ch18_nodes: ["sgh-031", "sgh-032", "sgh-033", "sgh-034"]
+  ch18_sentences: 25
+  ch18_merges:
+    - "Theme 169+170 → sgh-031（-lyの有無と名詞と間違えやすい副詞）"
+    - "Theme 171+172 → sgh-032（接続詞の働きをする副詞と文修飾の副詞）"
+    - "Theme 173+174 → sgh-033（already/yet/stillとago/before）"
+  ch18_notes:
+    - "sgh-031: 問661-666は書き起こしに問題文なし→例文3件のみ登録"
+  ch19_sections: ["Scr_176", "Scr_177", "Scr_178", "Scr_179", "Scr_180", "Scr_181", "Scr_182", "Scr_183"]
+  ch19_nodes: ["sgh-035", "sgh-036", "sgh-037", "sgh-038", "sgh-039", "sgh-040", "sgh-041"]
+  ch19_sentences: 48
+  ch19_merges:
+    - "Theme 180+181 → sgh-039（to one's+感情名詞とof/with+抽象名詞）"
+  metrics:
+    ch18_node_section_ratio: 0.571
+    ch19_node_section_ratio: 0.875
+    b13_node_section_ratio: 0.733
 
 b12_results:
   ch16_sections: ["Scr_151", "Scr_152", "Scr_153", "Scr_154", "Scr_155", "Scr_156", "Scr_157", "Scr_158", "Scr_159", "Scr_160", "Scr_161"]
   ch16_nodes: ["sgh-019", "sgh-020", "sgh-021", "sgh-022", "sgh-023", "sgh-024", "sgh-025"]
   ch16_sentences: 45
-  ch16_merges:
-    - "Theme 153+154 → sgh-021（「客」「料金・お金」を表す名詞の使い分け）"
-    - "Theme 155+156 → sgh-022（「仕事・職業」「予約・約束」を表す名詞の使い分け）"
-    - "Theme 158+159 → sgh-024（注意すべき冠詞の位置とa friend of mineの形）"
-    - "Theme 160+161 → sgh-025（by the+単位名詞とby+交通・通信手段）"
   ch17_sections: ["Scr_162", "Scr_163", "Scr_164", "Scr_165", "Scr_166", "Scr_167", "Scr_168"]
   ch17_nodes: ["sgh-026", "sgh-027", "sgh-028", "sgh-029", "sgh-030"]
-  ch17_sentences: 26
-  ch17_merges:
-    - "Theme 165+166 → sgh-029（人を主語にしない形容詞とable/capable/possibleの使い分け）"
-    - "Theme 167+168 → sgh-030（large/smallとhigh/lowの用法）"
-  ch17_notes:
-    - "sgh-026: 問633-637は書き起こしに問題文・和訳なし→英文0件（警告レベル）"
-  metrics:
-    ch16_node_section_ratio: 0.636
-    ch17_node_section_ratio: 0.714
-
-b11_results:
-  ch15_back_sections: ["Scr_139", "Scr_140", "Scr_141", "Scr_142", "Scr_143", "Scr_144", "Scr_145", "Scr_146", "Scr_147", "Scr_148", "Scr_149", "Scr_150"]
-  ch15_back_nodes: ["sgh-009", "sgh-010", "sgh-011", "sgh-012", "sgh-013", "sgh-014", "sgh-015", "sgh-016", "sgh-017", "sgh-018"]
-  ch15_back_sentences: 65
-  ch15_back_merges:
-    - "Theme 141+142+143 → sgh-011（SVO do/SVO+分詞 知覚動詞・使役動詞）"
-  metrics:
-    ch15_back_node_section_ratio: 0.833
+  ch17_sentences: 31
 
 recent_decisions:
   - "decision #1: PU!1の12時制表はsentences登録しない（スケルトン）"
@@ -63,9 +61,10 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
-  - "B13: Ch18 副詞(Scr_169-175) + Ch19 前置詞(Scr_176-183) → ノードID sgh-031〜"
-  - "原本: Part2_Ch18_副詞の語法.md + Part2_Ch19_前置詞の語法.md を読む"
-  - "B12完了 = 章区切り → ワークフロー.md + 設計書.md 再読込"
+  - "Gate 3-4 レビュー: Ch18+Ch19 まとめてエージェント実施"
+  - "Part 2 完了マイルストーン: 大規模レビュー"
+  - "B14: Special Edition (Scr_S01-S10) → ノードID sdr-001〜"
+  - "原本: Special_読解作文のための文法問題.md を読む"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

@@ -1,0 +1,21 @@
+sentences:
+  - id: "scr-169-e01"
+    section_id: "Scr_169"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "He nearly lost the chance."
+    japanese: "彼は危うく好機を逃すところだった。"
+    notes: "問663解説例文。nearly = almost。nearは「近くに」、nearlyは「ほとんど/危うく〜するところで」。選択肢情報: closely「綿密に」、scarcely「ほとんど〜ない」（⇨ 266）。"
+
+sentence_structures:
+  - sentence_id: "scr-169-e01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-169-e01"
+    label: "details"
+    value: "<He>(S) nearly lost(V) <the chance>(O)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-169-e01"
+    node_id: "sgh-031"

@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-174-p01"
+    section_id: "Scr_174"
+    drill: 1
+    number: 678
+    role: "exam"
+    english: "I visited the country ten years ago."
+    japanese: "私は10年前にその国を訪れた。"
+    notes: "出典: 白百合女子大。〈基本〉4択問題。ago「（今から）〜前に」は過去形とともに用いる。×現在完了形。×過去完了形。"
+  - id: "scr-174-p02"
+    section_id: "Scr_174"
+    drill: 1
+    number: 679
+    role: "exam"
+    english: "I knew the gentleman well, for I had seen him two years before."
+    japanese: "私はその紳士をよく知っていた。というのはその2年前に会ったことがあったからだ。"
+    notes: "出典: 金沢大。正誤問題。④ago→beforeに訂正。before「（過去のある時点から）〜前に」は過去完了形とともに用いる。×ago + 過去完了。"
+  - id: "scr-174-e01"
+    section_id: "Scr_174"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "I have seen the picture before."
+    japanese: "その絵は以前見たことがある。"
+    notes: "問679解説プラスα例文。before単独「以前に」は現在完了形でも過去形でも使える。= I saw the picture before."
+
+sentence_structures:
+  - sentence_id: "scr-174-p01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-174-p01"
+    label: "details"
+    value: "<I>(S) visited(V:過去形) <the country>(O) [ten years ago](M:時)"
+  - sentence_id: "scr-174-p02"
+    label: "overall"
+    value: "S V O M, for S V O M"
+  - sentence_id: "scr-174-p02"
+    label: "details"
+    value: "<I>(S) knew(V) <the gentleman>(O) [well](M:様態), for(接続詞:理由) <I>(S) had seen(V:過去完了) <him>(O) [two years before](M:時)"
+  - sentence_id: "scr-174-e01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-174-e01"
+    label: "details"
+    value: "<I>(S) have seen(V:現在完了) <the picture>(O) [before](M:時)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-174-p01"
+    node_id: "sgh-033"
+  - sentence_id: "scr-174-p02"
+    node_id: "sgh-033"
+  - sentence_id: "scr-174-e01"
+    node_id: "sgh-033"

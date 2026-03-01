@@ -1,0 +1,377 @@
+knowledge_nodes:
+  - id: "sgh-035"
+    name: "注意すべき「時」を表す前置詞"
+    category: "語法"
+    priority: "P1"
+    notes: |
+      Theme 176。at/on/inの基本用法と、by/until、for/during、inの時の経過用法を扱う。
+
+      【at/on/inの基本（PU!159）】
+      □ at — 時の1点（時刻/正午/真夜中）: at seven, at noon, at midnight
+      □ on — 特定の日（日付/曜日）: on Sunday, on my birthday, on May 5th, 2017
+      □ in — 比較的長い期間（月/季節/年/午前/午後）: in August, in winter, in 2020, in the morning
+      注意: morning/afternoon等が修飾語を伴うとonになる: on the morning of April 6, on Sunday evening, on a dark night
+
+      注意: begin/startの後は×fromではなくat/on/inを使う。
+      例: Our school begins at nine. / begins on April 6. / begins in September.
+
+      【by vs until [till]】
+      by「〜までに（は）」— 動作の完了の期限
+      until [till]「〜まで（ずっと）」— 継続の終了時
+
+      【for vs during】
+      for — 不特定の期間（数詞やmany, a fewなどのついた語句）
+      during — 特定の期間（theやone'sなどのついた語句）
+      注意: while + S + V = during + 名詞（句）[×動名詞（句）]
+
+      【in「〜で/〜の後に」— 時の経過】
+      明確な時間経過ではinは未来に、afterは過去に用いることが多い。
+      「〜以内に」を強調したい場合はwithinを用いる。
+      参照: ⇨問685
+
+  - id: "sgh-036"
+    name: "注意すべき「場所」を表す前置詞"
+    category: "語法"
+    priority: "P1"
+    notes: |
+      Theme 177。at/in/onの場所での使い分け、above/over、between/amongなどを扱う。
+
+      【at/in/onの基本（PU!160）】
+      □ at — 場所の1点（地点）: at the center, at the corner
+      □ in — 広い場所の中/囲まれた内部: in Japan, in the room [building]
+      □ on — 面との接触 ⇔ off「〜から離れて」: on the table, on the ceiling, on the wall
+      注意: at the corner of a street「通りの角」 vs in the corner of a room「部屋の隅」
+      注意: on the coast「海岸沿いの」、on the Mississippi River「川沿い」— 線上の接触もon
+
+      【above/over vs below/under】
+      above「〜より上（のほう）に」⇔ below「〜より下に」— 接触せず上方/下方
+      over「〜の真上に」⇔ under「〜の真下に」— 離れて真上/真下
+      頻出: A above sea level「海抜A」⇔ A below sea level「海面下A」
+
+      【to/on/in the north of A】
+      to the north of A「Aの北方に」（離れている）
+      on the north of A「Aの北側に」（Aに接する）
+      in the north of A「Aの北部に」（Aの中の北部）
+
+      【between vs among】
+      between: 原則2者（個々に焦点）。3者以上でも個々を念頭に置く場合はbetween可。
+      among: 3者以上（集合体として）。among the + 最上級「〜の中の1つ[1人]で」の意味も重要。
+
+  - id: "sgh-037"
+    name: "日本語に惑わされやすい前置詞"
+    category: "語法"
+    priority: "P1"
+    notes: |
+      Theme 178。日本語の感覚で誤った前置詞を選びやすい表現を扱う。
+
+      〈頻出〉in the direction of〜「〜の方向へ」— ×for
+      in all directions = in every direction「四方八方に」
+
+      〈頻出〉The sun rises in the east.「太陽は東から昇る」— ×from the east
+      go doing in [at / on] A「A（場所）に〜しに行く」— ×to（PU!161）
+      PU!161: go fishing [swimming] in the river / go skating on the pond / go shopping at a department store
+      doingに用いられるのはfishing/swimming/skating/skiing/jogging/camping/shoppingなどスポーツ・娯楽の語に限定
+
+      within A of B「B（場所）からA（距離）以内に」— ×from（ofは分離を表す）
+      begin with〜「〜から始める」— ×begin from。to begin with「まず第一に」（⇨ PU!24）
+      begin by doing「〜することから始める」
+      order A from B「A（品物）をB（店・人）に注文する」— ×order A to B
+      a [the] key to〜「〜の秘訣/手がかり」— ×the key of〜（toは付属・付着）
+
+  - id: "sgh-038"
+    name: "付帯状況のwith"
+    category: "語法"
+    priority: "P1"
+    notes: |
+      Theme 179。「with + 名詞 + 補語」で付帯状況を表す構文。
+
+      【パターン】
+      ① with + 名詞 + 形容詞: with your mouth full「口に食べ物をほおばって」
+      ② with + 名詞 + 副詞: with her socks on「靴下をはいて」（onは着用）
+      ③ with + 名詞 + 場所を示す句: with tears in her eyes「目に涙を浮かべながら」
+
+      〈発展〉withを省略すると、冠詞や所有格も一緒に省略されることがある。
+      He was reading, (with a) pipe in (his) mouth.
+
+      参照: ⇨Theme 45（分詞を用いた付帯状況の構文）
+
+  - id: "sgh-039"
+    name: "to one's+感情名詞とof/with+抽象名詞"
+    category: "語法"
+    priority: "P1"
+    notes: |
+      Theme 180+181 統合。感情を表す前置詞句と、of/with+抽象名詞の形容詞的・副詞的用法を扱う。
+
+      【to one's + 感情名詞（Theme 180, PU!162）】
+      「〜が…したことには」の意味。
+      強調: to one's great + 名詞 / much to one's + 名詞
+      □ to one's surprise「〜が驚いたことには」
+      □ to one's disappointment「〜ががっかりしたことには」
+      □ to one's delight [joy]「〜がうれしかったことには」
+      □ to one's relief「〜が安心したことには」
+      □ to one's regret「〜が残念だったことには」
+
+      【of + 抽象名詞 = 形容詞（Theme 181, PU!163(1)）】
+      ofは「〜の性質を持つ（having）」の意味。great/much/no/littleなど程度を表す語がつくことが多い。
+      □ of importance = important「重要な」
+      □ of interest = interesting「面白い」
+      □ of help [service] = helpful「役立つ」
+      □ of value = valuable「価値のある」
+
+      【with + 抽象名詞 = 副詞（PU!163(2)）】
+      □ with ease = easily「容易に」
+      □ with difficulty = barely「やっと」
+      □ with patience = patiently「辛抱強く」
+      □ with care = carefully「慎重に」
+      □ with accuracy = accurately「正確に」
+
+  - id: "sgh-040"
+    name: "重要前置詞の用法（1）besides/beside/on/with/for-against/by/except for"
+    category: "語法"
+    priority: "P1"
+    notes: |
+      Theme 182。多様な前置詞の重要用法（前半）。
+
+      〈付加〉besides「〜に加えて/〜の他に」(= in addition to) — besides being [doing]
+      注意: besidesには副詞用法「その上」(= in addition)もある（⇨ 668）
+      〈場所・位置〉beside「〜のそばに」— besidesとの違いに注意
+      〈関連〉on「〜に関して」— aboutやofより詳細・専門的
+      〈道具・手段〉with「〜で/〜を使って」— 可算名詞には冠詞がつく(with a pencil)
+      cf. by「交通・通信の手段」→無冠詞 / in「〜で」→無冠詞(in pencil = with a pencil)
+      〈賛成〉for「〜に賛成して」⇔〈反対〉against「〜に反対して」— for = in favor of（⇨ 1300）
+      〈差〉by「〜の差で/〜だけ」— 比較級の後に差を表す語句を置く場合
+      〈除外〉except for「〜を除けば」（PU!164）:
+        (1) 全体語(all/every等)が前にある場合→except/butもexcept forも可（直後はexcept/butのみ）
+        (2) 文頭や全体語がない場合→except forのみ可
+        (3) 前置詞・接続詞の前→exceptのみ可
+
+  - id: "sgh-041"
+    name: "重要前置詞の用法（2）for/over/to/despite/like/in/as"
+    category: "語法"
+    priority: "P1"
+    notes: |
+      Theme 183。多様な前置詞の重要用法（後半）。
+
+      〈観点・基準〉for「〜にしては/〜のわりには」— for one's age「年のわりには」が頻出
+      〈飲食・従事〉over「〜しながら」— 飲食物・本などの上に覆いかぶさる姿勢から
+      fall asleep over one's work [book]「仕事[読書]の最中に寝入る」
+      〈適合・一致〉to「〜に合わせて」— dance to music, tap to the rhythm
+      a job to one's liking [taste]「好みに合った職」
+      〈譲歩〉despite「〜にもかかわらず」(= in spite of) — 前置詞なので後ろは名詞/動名詞
+      cf. although/thoughは接続詞で後ろに節[S+V]（⇨ 436）
+      〈類似〉like「〜に似た/〜のような」⇔ unlike「〜と違って」
+      〈着用〉in「〜を身につけて/〜を着て」(= wearing) — in white, in the red dress
+      〈役割・機能〉as「〜として（の）」— 1人しかいない役職名は無冠詞: He acted as [×a] chairman.
+
+understanding_goals:
+  - node_id: "sgh-035"
+    seq: 1
+    goal: "at/on/inを時刻・日付・月/季節/年で正しく使い分けられる"
+  - node_id: "sgh-035"
+    seq: 2
+    goal: "by（完了の期限）とuntil/till（継続の終了時）を区別できる"
+  - node_id: "sgh-035"
+    seq: 3
+    goal: "for（不特定の期間）とduring（特定の期間）を区別できる"
+  - node_id: "sgh-035"
+    seq: 4
+    goal: "in（時の経過）とafter/withinの使い分けを理解できる"
+
+  - node_id: "sgh-036"
+    seq: 1
+    goal: "at/in/onを場所の表現で正しく使い分けられる"
+  - node_id: "sgh-036"
+    seq: 2
+    goal: "above/over/below/underの意味の違いを説明できる"
+  - node_id: "sgh-036"
+    seq: 3
+    goal: "to/on/in the north of Aの3パターンを区別できる"
+  - node_id: "sgh-036"
+    seq: 4
+    goal: "betweenとamongの使い分け（2者 vs 3者以上）を理解できる"
+
+  - node_id: "sgh-037"
+    seq: 1
+    goal: "in the direction of / in the eastなど日本語の「〜から/〜へ」に惑わされない前置詞を正しく選べる"
+  - node_id: "sgh-037"
+    seq: 2
+    goal: "go doing in/at/on A（×to）の形を理解し使える"
+  - node_id: "sgh-037"
+    seq: 3
+    goal: "within A of B / begin with / order A from Bなど日本語の感覚と異なる前置詞を正しく使える"
+
+  - node_id: "sgh-038"
+    seq: 1
+    goal: "with + 名詞 + 形容詞/副詞/場所句の3パターンで付帯状況を表せる"
+  - node_id: "sgh-038"
+    seq: 2
+    goal: "with your mouth full / with her socks onなどの頻出表現を理解できる"
+  - node_id: "sgh-038"
+    seq: 3
+    goal: "withの省略に伴い冠詞・所有格も省略されることを理解できる"
+
+  - node_id: "sgh-039"
+    seq: 1
+    goal: "to one's surprise/disappointmentなど感情名詞の前置詞句を正しく使える"
+  - node_id: "sgh-039"
+    seq: 2
+    goal: "of + 抽象名詞 = 形容詞（of importance = important）の書き換えができる"
+  - node_id: "sgh-039"
+    seq: 3
+    goal: "with + 抽象名詞 = 副詞（with ease = easily）の書き換えができる"
+
+  - node_id: "sgh-040"
+    seq: 1
+    goal: "besides（〜に加えて）とbeside（〜のそばに）を区別できる"
+  - node_id: "sgh-040"
+    seq: 2
+    goal: "with（道具・手段）の場合の冠詞のルールとby/inとの違いを理解できる"
+  - node_id: "sgh-040"
+    seq: 3
+    goal: "except/but/except forの使い分け条件を説明できる"
+
+  - node_id: "sgh-041"
+    seq: 1
+    goal: "for one's age（〜のわりには）やover（〜しながら）など多義前置詞の用法を理解できる"
+  - node_id: "sgh-041"
+    seq: 2
+    goal: "despite（前置詞）とalthough/though（接続詞）の構文上の違いを区別できる"
+  - node_id: "sgh-041"
+    seq: 3
+    goal: "as（〜として）の前置詞用法で役職名が無冠詞になるルールを理解できる"
+
+check_points:
+  - node_id: "sgh-035"
+    seq: 1
+    question: "begin/startの後で「9時から始まる」と言う場合の前置詞は？ fromは使えるか？"
+    answer: "at nineが正しい。×begin fromは不可。「日付」ならon、「月/季節」ならinを使う。"
+  - node_id: "sgh-035"
+    seq: 2
+    question: "byとuntil [till]の違いは？"
+    answer: "by「〜までに（は）」は動作の完了の期限、until [till]「〜まで（ずっと）」は継続の終了時を表す。"
+  - node_id: "sgh-035"
+    seq: 3
+    question: "forとduringの違いは？ duringの後に動名詞は使えるか？"
+    answer: "for: 不特定の期間（for five years）、during: 特定の期間（during my stay）。×during my stayingは不可。while + S + V = during + 名詞。"
+  - node_id: "sgh-035"
+    seq: 4
+    question: "「2週間でそのレポートを完成して」の前置詞は？"
+    answer: "in two weeks（時の経過）。inは未来に、afterは過去に用いることが多い。「〜以内に」を強調するにはwithinを使う。"
+
+  - node_id: "sgh-036"
+    seq: 1
+    question: "at the cornerとin the cornerの違いは？"
+    answer: "at the corner of a street「通りの角に」、in the corner of a room「部屋の隅に」。atは地点、inは内部。"
+  - node_id: "sgh-036"
+    seq: 2
+    question: "A above sea levelの意味は？ 反意語はどう表す？"
+    answer: "「海抜A」の意味。反意語はA below sea level「海面下A」。aboveは接触せず上方、overは真上。"
+  - node_id: "sgh-036"
+    seq: 3
+    question: "betweenとamongの使い分けは？ 3者以上でbetweenは使えるか？"
+    answer: "between: 原則2者。among: 3者以上（集合体）。ただし3者以上でも個々を念頭に置く場合はbetween可（between Japan, America and China）。"
+
+  - node_id: "sgh-037"
+    seq: 1
+    question: "「〜の方向へ」はin the direction of〜か、for the direction of〜か？"
+    answer: "in the direction of〜が正しい。directionに惑わされてforを使わない。"
+  - node_id: "sgh-037"
+    seq: 2
+    question: "「川に釣りに行く」はgo fishing to the riverか？"
+    answer: "×go fishing to the river。go fishing in the riverが正しい。go doing in/at/onの形で、toは使わない。"
+  - node_id: "sgh-037"
+    seq: 3
+    question: "within A of Bの意味は？ なぜfromではなくofか？"
+    answer: "「B（場所）からA（距離）以内に」。ofは分離を表す前置詞（ofを強調したのがoff）。×within A from Bは不可。"
+  - node_id: "sgh-037"
+    seq: 4
+    question: "a key to〜とorder A from Bの前置詞で注意すべき点は？"
+    answer: "a key to〜「〜の秘訣/手がかり」は×key of〜。order A from B「AをBに注文する」は×order A to B。日本語の「〜の」「〜に」に惑わされない。"
+
+  - node_id: "sgh-038"
+    seq: 1
+    question: "「口に食べ物をほおばって話すな」を英語で言うと？"
+    answer: "Don't talk with your mouth full.（with + 名詞 + 形容詞で付帯状況）"
+  - node_id: "sgh-038"
+    seq: 2
+    question: "with A on / with tears in her eyesはそれぞれどんな構造か？"
+    answer: "with A on: with + 名詞 + 副詞（onは着用）。with tears in her eyes: with + 名詞 + 場所を示す句。"
+  - node_id: "sgh-038"
+    seq: 3
+    question: "withが省略されると何が一緒に省略されることがあるか？"
+    answer: "冠詞や所有格。例: (with a) pipe in (his) mouth。"
+
+  - node_id: "sgh-039"
+    seq: 1
+    question: "to my great surpriseとmuch to my disappointmentの構造は？"
+    answer: "to one's great + 感情名詞 / much to one's + 感情名詞で「〜が…したことには」を強調。"
+  - node_id: "sgh-039"
+    seq: 2
+    question: "of importanceとwith easeはそれぞれ何に相当するか？"
+    answer: "of importance = important（形容詞）、with ease = easily（副詞）。of + 抽象名詞 = 形容詞、with + 抽象名詞 = 副詞。"
+  - node_id: "sgh-039"
+    seq: 3
+    question: "of little importanceの意味は？ of + 抽象名詞にはどんな修飾語がつくか？"
+    answer: "「ほとんど重要でない」。great/much/no/littleなど程度を表す語がつく。"
+
+  - node_id: "sgh-040"
+    seq: 1
+    question: "besidesとbesideの違いは？"
+    answer: "besides「〜に加えて/〜の他に」（前置詞）+ 「その上」（副詞）。beside「〜のそばに」（場所のみ）。"
+  - node_id: "sgh-040"
+    seq: 2
+    question: "with a pencilとin pencilの違いは？ byは使えるか？"
+    answer: "with a pencil（道具・手段、冠詞あり）= in pencil（無冠詞）。by pencilは不可（byは交通・通信の手段で使い、無冠詞）。"
+  - node_id: "sgh-040"
+    seq: 3
+    question: "except forとexceptの使い分けは？"
+    answer: "文頭や全体語(all/every等)がない場合→except forのみ。全体語の直後→except/butのみ。前置詞・接続詞の前→exceptのみ。"
+
+  - node_id: "sgh-041"
+    seq: 1
+    question: "for one's ageの意味は？ at his ageとの違いは？"
+    answer: "for one's age「年のわりには」（観点・基準）。at his age「彼の年齢で」。意味が全く異なる。"
+  - node_id: "sgh-041"
+    seq: 2
+    question: "despiteの後ろにはS+Vが来るか？"
+    answer: "来ない。despiteは前置詞なので後ろには名詞/動名詞。S+Vが来るのはalthough/though（接続詞）。"
+  - node_id: "sgh-041"
+    seq: 3
+    question: "as + 役職名のときの冠詞のルールは？"
+    answer: "1人しかいない役職名の場合はふつう無冠詞。例: He acted as [×a] chairman."
+
+node_prerequisites: []
+
+knowledge_references:
+  - node_id: "sgh-035"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_176"
+    pages: ""
+  - node_id: "sgh-036"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_177"
+    pages: ""
+  - node_id: "sgh-037"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_178"
+    pages: ""
+  - node_id: "sgh-038"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_179"
+    pages: ""
+  - node_id: "sgh-039"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_180"
+    pages: ""
+  - node_id: "sgh-039"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_181"
+    pages: ""
+  - node_id: "sgh-040"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_182"
+    pages: ""
+  - node_id: "sgh-041"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_183"
+    pages: ""

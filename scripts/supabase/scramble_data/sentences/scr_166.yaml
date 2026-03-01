@@ -23,6 +23,30 @@ sentences:
     english: "Is it possible for you to help me with this homework?"
     japanese: "あなたは私のこの宿題を手伝うことができますか。"
     notes: "出典: 名城大。4択問題。It is possible for A to do「Aは〜できる」。possibleは人を主語にしない→②Are you possibleは不可。capableはbe capable of doingの形→①Are you capable / ③Is it capableは不可。"
+  - id: "scr-166-e01"
+    section_id: "Scr_166"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "She is able to teach French."
+    japanese: "彼女はフランス語を教えることができる。"
+    notes: "PU!149例文。A is able [unable] to do — A（主語）は「人」。able/capable/possibleの3パターン書き換え。"
+  - id: "scr-166-e02"
+    section_id: "Scr_166"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "She is capable of teaching French."
+    japanese: "彼女はフランス語を教えることができる。"
+    notes: "PU!149例文。A is capable [incapable] of doing — A（主語）は「人」「物」。able/capable/possibleの3パターン書き換え。"
+  - id: "scr-166-e03"
+    section_id: "Scr_166"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "It is possible for her to teach French."
+    japanese: "彼女はフランス語を教えることができる。"
+    notes: "PU!149例文。It is possible [impossible] for A to do — 「人」を主語にしない。able/capable/possibleの3パターン書き換え。"
 
 sentence_structures:
   - sentence_id: "scr-166-p01"
@@ -44,10 +68,35 @@ sentence_structures:
     label: "details"
     value: "Is(V) it(形式S) <possible>(C) [for you to help me with this homework](M:真主語)"
 
+  - sentence_id: "scr-166-e01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-166-e01"
+    label: "details"
+    value: "<She>(S) is(V) <able to teach French>(C:be able to do)"
+  - sentence_id: "scr-166-e02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-166-e02"
+    label: "details"
+    value: "<She>(S) is(V) <capable of teaching French>(C:be capable of doing)"
+  - sentence_id: "scr-166-e03"
+    label: "overall"
+    value: "V It C M"
+  - sentence_id: "scr-166-e03"
+    label: "details"
+    value: "It(形式S) is(V) <possible>(C) [for her to teach French](M:真主語)"
+
 sentence_knowledge_tags:
   - sentence_id: "scr-166-p01"
     node_id: "sgh-029"
   - sentence_id: "scr-166-p02"
     node_id: "sgh-029"
   - sentence_id: "scr-166-p03"
+    node_id: "sgh-029"
+  - sentence_id: "scr-166-e01"
+    node_id: "sgh-029"
+  - sentence_id: "scr-166-e02"
+    node_id: "sgh-029"
+  - sentence_id: "scr-166-e03"
     node_id: "sgh-029"

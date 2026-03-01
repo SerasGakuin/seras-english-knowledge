@@ -1,0 +1,37 @@
+sentences:
+  - id: "scr-172-p01"
+    section_id: "Scr_172"
+    drill: 1
+    number: 673
+    role: "exam"
+    english: "Luckily we got home before it started to rain."
+    japanese: "幸運にも、私たちは雨が降り出す前に家に帰り着いた。"
+    notes: "出典: 中央大。4択問題。文修飾の副詞luckily「幸運にも」。= It was lucky that we got home before it started to rain. Nearly「ほとんど」（⇨ 663）、Timely「時を得た」は形容詞。"
+  - id: "scr-172-p02"
+    section_id: "Scr_172"
+    drill: 1
+    number: 674
+    role: "exam"
+    english: "Evidently it was his mistake."
+    japanese: "明らかにそれは彼の間違いだった。"
+    notes: "出典: 慶應大。不適当選択問題。③Greatly「大いに」が不適当（文修飾の副詞ではない）。Evidently「明らかに」/Surely「確かに」/Unfortunately「不運にも」はいずれも文修飾の副詞。正しい選択肢①を登録。"
+
+sentence_structures:
+  - sentence_id: "scr-172-p01"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-172-p01"
+    label: "details"
+    value: "[Luckily](M:文修飾) <we>(S) got home(V) [before it started to rain](M:時)"
+  - sentence_id: "scr-172-p02"
+    label: "overall"
+    value: "M S V C"
+  - sentence_id: "scr-172-p02"
+    label: "details"
+    value: "[Evidently](M:文修飾) <it>(S) was(V) <his mistake>(C)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-172-p01"
+    node_id: "sgh-032"
+  - sentence_id: "scr-172-p02"
+    node_id: "sgh-032"

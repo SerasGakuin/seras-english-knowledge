@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-179-p01"
+    section_id: "Scr_179"
+    drill: 1
+    number: 705
+    role: "exam"
+    english: "Don't talk with your mouth full."
+    japanese: "口に食べ物をほおばって話をしてはいけない。"
+    notes: "出典: 愛媛大。〈頻出〉記述問題。with+名詞+形容詞で付帯状況を表す。with your mouth full「口をいっぱいにして」。"
+  - id: "scr-179-p02"
+    section_id: "Scr_179"
+    drill: 1
+    number: 706
+    role: "exam"
+    english: "She was so tired that she fell asleep with her socks on."
+    japanese: "彼女はとても疲れていたので靴下をはいたまま寝入った。"
+    notes: "出典: 九州産業大。〈頻出〉4択問題。with+名詞+副詞で付帯状況を表す。副詞onは着用を表し、with A on「Aを身につけて」。"
+  - id: "scr-179-p03"
+    section_id: "Scr_179"
+    drill: 1
+    number: 707
+    role: "exam"
+    english: "The novel was so moving that she read it with tears in her eyes."
+    japanese: "その小説はとても感動的だったので、彼女は目に涙を浮かべながらそれを読んだ。"
+    notes: "出典: 中央大。〈頻出〉4択問題。with+名詞+場所を示す句で付帯状況を表す。〈発展〉withを省略すると冠詞や所有格も一緒に省略されることがある。"
+  - id: "scr-179-e01"
+    section_id: "Scr_179"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "He was reading, with a pipe in his mouth."
+    japanese: "彼はパイプを口にくわえて本を読んでいた。"
+    notes: "問707解説〈発展〉例文。with+名詞+場所句の付帯状況。withを省略すると(with a) pipe in (his) mouthの形になることがある。"
+
+sentence_structures:
+  - sentence_id: "scr-179-p01"
+    label: "overall"
+    value: "V M"
+  - sentence_id: "scr-179-p01"
+    label: "details"
+    value: "Don't talk(V:否定命令文) [with your mouth full](M:付帯状況)"
+  - sentence_id: "scr-179-p02"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-179-p02"
+    label: "details"
+    value: "<She>(S) was(V) <so tired>(C) [that she fell asleep with her socks on](M:結果)"
+  - sentence_id: "scr-179-p03"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-179-p03"
+    label: "details"
+    value: "<The novel>(S) was(V) <so moving>(C) [that she read it with tears in her eyes](M:結果)"
+  - sentence_id: "scr-179-e01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-179-e01"
+    label: "details"
+    value: "<He>(S) was reading(V:過去進行形), [with a pipe in his mouth](M:付帯状況)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-179-p01"
+    node_id: "sgh-038"
+  - sentence_id: "scr-179-p02"
+    node_id: "sgh-038"
+  - sentence_id: "scr-179-p03"
+    node_id: "sgh-038"
+  - sentence_id: "scr-179-e01"
+    node_id: "sgh-038"

@@ -1,0 +1,37 @@
+sentences:
+  - id: "scr-170-e01"
+    section_id: "Scr_170"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "He went home to his family."
+    japanese: "彼は家族のもとに帰って行った。"
+    notes: "問665解説比較例文。go homeは「家に帰る行為」に焦点。homeは副詞なので前置詞to不要。get home「帰着に焦点」/ come home「家にいる人の視点」との対比。"
+  - id: "scr-170-e02"
+    section_id: "Scr_170"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "My husband came home drunk."
+    japanese: "夫が酔って帰って来た。"
+    notes: "問665解説比較例文。come homeは家にいる人が帰宅について話す場合に用いる。drunkは補語（SVOC構造）。"
+
+sentence_structures:
+  - sentence_id: "scr-170-e01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-170-e01"
+    label: "details"
+    value: "<He>(S) went(V) [home](M:副詞) [to his family](M:方向)"
+  - sentence_id: "scr-170-e02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-170-e02"
+    label: "details"
+    value: "<My husband>(S) came home(V:副詞home) <drunk>(C:補語)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-170-e01"
+    node_id: "sgh-031"
+  - sentence_id: "scr-170-e02"
+    node_id: "sgh-031"

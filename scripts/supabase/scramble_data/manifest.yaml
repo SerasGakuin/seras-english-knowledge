@@ -1644,7 +1644,7 @@ sections:
     pages: ""
     status: "completed"
     knowledge_nodes_created: 1
-    sentences_created: 6
+    sentences_created: 8
     gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-027(単独)。問638-643=6exam。PU!144(many/much代用表現)/PU!145(few/little用法表)はnotes記録"
@@ -1674,7 +1674,7 @@ sections:
     pages: ""
     status: "completed"
     knowledge_nodes_created: 1
-    sentences_created: 3
+    sentences_created: 6
     gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-029(Theme165+166統合)。問652-654=3exam。PU!149(3表現まとめ)はnotes記録"
@@ -1698,11 +1698,163 @@ sections:
     gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-030(Theme167+168統合)。問659-660=2exam(問660正誤→訂正文登録)。"
+  # Ch18 副詞の語法（B13）
+  Scr_169:
+    title: "-lyの有無によって意味が異なる副詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 1
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-031(Theme169+170統合)。問661-664は解説のみで出題文なし。例文1件登録(nearly)。"
+  Scr_170:
+    title: "名詞と間違えやすい副詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 2
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-031(Theme169+170統合)。問665-666は解説のみで出題文なし。例文2件登録(home副詞用法)。"
+  Scr_171:
+    title: "接続詞の働きをする副詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-032(Theme171+172統合)。問667-672=6exam。however/besides/therefore/nevertheless/consequently/still。"
+  Scr_172:
+    title: "文修飾の副詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 2
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-032(Theme171+172統合)。問673-674=2exam。luckily文修飾、evidently不適当選択。"
+  Scr_173:
+    title: "already / yet / still"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-033(Theme173+174統合)。問675-677=3exam、例文2件(yet疑問文/still否定)。"
+  Scr_174:
+    title: "ago / before"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 3
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-033(Theme173+174統合)。問678-679=2exam、例文1件(before単独)。"
+  Scr_175:
+    title: "almost / mostの使い分け"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-034。問680-684=5exam、例文1件。almost all/most/most of the使い分け。"
+  # Ch19 前置詞の語法（B13）
+  Scr_176:
+    title: "注意すべき「時」を表す前置詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-035。問685-690=6exam。at/on/in時、by/until、for/during、in時の経過。PU!159記録。"
+  Scr_177:
+    title: "注意すべき「場所」を表す前置詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 8
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-036。問691-697=7exam、例文1件(among最上級)。at/in/on場所、above/over、between/among。PU!160記録。"
+  Scr_178:
+    title: "日本語に惑わされやすい前置詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-037。問698-704=7exam、例文2件。in the direction of、go doing in/at/on、within A of B、begin with、order A from B、a key to。PU!161記録。"
+  Scr_179:
+    title: "付帯状況のwith"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-038。問705-707=3exam、例文1件。with+名詞+形容詞/副詞/場所句の3パターン。"
+  Scr_180:
+    title: "to one's＋感情を表す名詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-039(Theme180+181統合)。問708-709=2exam。to one's great+感情名詞、much to one's+感情名詞。PU!162記録。"
+  Scr_181:
+    title: "of＋抽象名詞とwith＋抽象名詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 3
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-039(Theme180+181統合)。問710-711=2exam、例文1件(of great historical value)。of+抽象名詞=形容詞、with+抽象名詞=副詞。PU!163記録。"
+  Scr_182:
+    title: "重要前置詞の用法（1）"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-040。問712-718=7exam。besides/beside、on関連、with道具、for/against、by差、except for。PU!164記録。"
+  Scr_183:
+    title: "重要前置詞の用法（2）"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-041。問719-725=7exam、例文2件(unlike/as無冠詞)。for基準、over飲食、to適合、despite譲歩、like類似、in着用、as役割。"
 
 summary:
-  total_sections: 168
-  completed: 168
+  total_sections: 183
+  completed: 183
   in_progress: 0
   not_started: 0
-  total_knowledge_nodes: 120
-  total_sentences: 832
+  total_knowledge_nodes: 131
+  total_sentences: 910

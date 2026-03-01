@@ -1,0 +1,37 @@
+sentences:
+  - id: "scr-180-p01"
+    section_id: "Scr_180"
+    drill: 1
+    number: 708
+    role: "exam"
+    english: "To my great surprise, she finished the task in an hour."
+    japanese: "とても驚いたことに、彼女は1時間でその仕事を終えた。"
+    notes: "出典: 日本女子大。〈頻出〉4択問題。to one's great+感情名詞「〜がとても…したことには」。much to one's+感情名詞でも強調可能。PU!162: to one's surprise/disappointment/delight [joy]/relief/regret。"
+  - id: "scr-180-p02"
+    section_id: "Scr_180"
+    drill: 1
+    number: 709
+    role: "exam"
+    english: "Much to her disappointment, the fireworks were canceled due to rain."
+    japanese: "彼女がとてもがっかりしたことには、雨のために花火が中止になった。"
+    notes: "出典: 東洋英和女学院大。〈頻出〉4択問題。much to one's+感情名詞「〜がとても…したことには」の強調形。disappointmentは名詞形が必要（×disappointed/×disappointing）。"
+
+sentence_structures:
+  - sentence_id: "scr-180-p01"
+    label: "overall"
+    value: "M S V O M"
+  - sentence_id: "scr-180-p01"
+    label: "details"
+    value: "[To my great surprise](M:感情), <she>(S) finished(V) <the task>(O) [in an hour](M:時の経過)"
+  - sentence_id: "scr-180-p02"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-180-p02"
+    label: "details"
+    value: "[Much to her disappointment](M:感情), <the fireworks>(S) were canceled(V:受動態) [due to rain](M:原因)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-180-p01"
+    node_id: "sgh-039"
+  - sentence_id: "scr-180-p02"
+    node_id: "sgh-039"
