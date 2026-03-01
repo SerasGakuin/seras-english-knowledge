@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-093-e01"
+    section_id: "Scr_093"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "He is not interested in what he is doing now."
+    japanese: "彼は今していることに興味がない。"
+    notes: "Theme 93解説例文。what節内で他動詞doの目的語、what節全体は前置詞inの目的語"
+  - id: "scr-093-p01"
+    section_id: "Scr_093"
+    drill: 1
+    number: 353
+    role: "exam"
+    english: "What irritated me the most was the way he was talking to me."
+    japanese: "私を最もいらいらさせたのは、彼の私に対する口のきき方だった。"
+    notes: "難易度: 頻出。出典: 近畿大。what節全体が主語、what節内でwhatは主語"
+  - id: "scr-093-p02"
+    section_id: "Scr_093"
+    drill: 1
+    number: 354
+    role: "exam"
+    english: "Let her do what she likes."
+    japanese: "彼女に好きなことをさせてあげて。"
+    notes: "難易度: 頻出。出典: 大阪経済大。what節内でwhatは目的語、what節全体はdoの目的語。参照: 問551（let A do）"
+  - id: "scr-093-p03"
+    section_id: "Scr_093"
+    drill: 1
+    number: 355
+    role: "exam"
+    english: "Thank you, Hiromi. This book is exactly what I wanted."
+    japanese: "ヒロミ、ありがとう。この本はまさに私が欲しかったものです。"
+    notes: "難易度: 頻出。出典: センター。what節内でwhatは目的語、what節全体は補語"
+
+sentence_structures:
+  - sentence_id: "scr-093-e01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-093-e01"
+    label: "details"
+    value: "<He>(S) is(V) <not interested [in what he is doing now]>(C:形容詞+前置詞+what節)"
+  - sentence_id: "scr-093-p01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-093-p01"
+    label: "details"
+    value: "<What irritated me the most>(S:what節) was(V) <the way he was talking to me>(C)"
+  - sentence_id: "scr-093-p02"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "scr-093-p02"
+    label: "details"
+    value: "Let(V) <her>(O) do(C:原形不定詞) <what she likes>(doのO:what節)"
+  - sentence_id: "scr-093-p03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-093-p03"
+    label: "details"
+    value: "<This book>(S) is(V) [exactly] <what I wanted>(C:what節)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-093-e01"
+    node_id: "shs-022"
+  - sentence_id: "scr-093-p01"
+    node_id: "shs-022"
+  - sentence_id: "scr-093-p02"
+    node_id: "shs-022"
+  - sentence_id: "scr-093-p03"
+    node_id: "shs-022"

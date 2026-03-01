@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-098-p01"
+    section_id: "Scr_098"
+    drill: 1
+    number: 374
+    role: "exam"
+    english: "The typhoon suddenly became weaker, which was good news for the village."
+    japanese: "台風の勢力は急に弱まったが、そのことは村にとって良い知らせだった。"
+    notes: "難易度: 頻出。出典: センター。前の節全体を先行詞とするwhich（非制限用法）。thatとwhatは非制限用法不可"
+  - id: "scr-098-p02"
+    section_id: "Scr_098"
+    drill: 1
+    number: 375
+    role: "exam"
+    english: "I am trying to save up money for travel, which I find to be difficult."
+    japanese: "私は旅行のために貯金をしようとしているが、難しいと思う。"
+    notes: "難易度: 頻出。出典: 追手門学院大。前の節の一部（to save up money for travel）を先行詞とするwhich"
+  - id: "scr-098-p03"
+    section_id: "Scr_098"
+    drill: 1
+    number: 376
+    role: "exam"
+    english: "We were told to go not by bus but by subway, which advice we followed."
+    japanese: "私たちはバスではなく地下鉄で行くように言われたので、その忠告に従った。"
+    notes: "難易度: 発展。出典: 東京芸術大。非制限用法で用いる関係形容詞which + 名詞《文語》。「前置詞 + which + 名詞」の形もある"
+
+sentence_structures:
+  - sentence_id: "scr-098-p01"
+    label: "overall"
+    value: "S V C, 非制限用法"
+  - sentence_id: "scr-098-p01"
+    label: "details"
+    value: "<The typhoon>(S) [suddenly] became(V) <weaker>(C), [which was good news for the village](非制限用法:前の節全体が先行詞)"
+  - sentence_id: "scr-098-p02"
+    label: "overall"
+    value: "S V O, 非制限用法"
+  - sentence_id: "scr-098-p02"
+    label: "details"
+    value: "<I>(S) am trying to save up(V) <money for travel>(O), [which I find to be difficult](非制限用法:前の節の一部が先行詞)"
+  - sentence_id: "scr-098-p03"
+    label: "overall"
+    value: "S V M, 非制限用法"
+  - sentence_id: "scr-098-p03"
+    label: "details"
+    value: "<We>(S) were told(V) [to go not by bus but by subway](M), [which advice we followed](非制限用法:関係形容詞which+名詞《文語》)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-098-p01"
+    node_id: "shs-024"
+  - sentence_id: "scr-098-p02"
+    node_id: "shs-024"
+  - sentence_id: "scr-098-p03"
+    node_id: "shs-024"

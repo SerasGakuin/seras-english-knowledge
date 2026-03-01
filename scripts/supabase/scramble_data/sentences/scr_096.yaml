@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-096-p01"
+    section_id: "Scr_096"
+    drill: 1
+    number: 368
+    role: "exam"
+    english: "There are numerous cases where Japanese modesty causes misunderstanding."
+    japanese: "日本人の謙虚さが誤解を生じさせる場合が多い。"
+    notes: "出典: 城西大。whereの先行詞が「場所」以外の場合（case「場合/事例」/ situation / point）"
+  - id: "scr-096-p02"
+    section_id: "Scr_096"
+    drill: 1
+    number: 369
+    role: "exam"
+    english: "Put the book back to where it was when you're through with it."
+    japanese: "その本を読んでしまったら元の場所へ返しておいてください。"
+    notes: "難易度: 発展。出典: 東京経済大（整序問題）。関係副詞whereの先行詞省略（the placeが省略）。be through with ～「～をし終わっている」"
+  - id: "scr-096-p03"
+    section_id: "Scr_096"
+    drill: 1
+    number: 370
+    role: "exam"
+    english: "Michael works very hard. That's why I respect him."
+    japanese: "マイケルはとても一生懸命働く。だから私は彼を尊敬している。"
+    notes: "難易度: 頻出。出典: センター。That's why節「そういうわけで～」⇔ That's because節「それは～だからだ」。関係副詞whyの先行詞省略"
+
+sentence_structures:
+  - sentence_id: "scr-096-p01"
+    label: "overall"
+    value: "There V S"
+  - sentence_id: "scr-096-p01"
+    label: "details"
+    value: "There are(V) <numerous cases where Japanese modesty causes misunderstanding>(S:先行詞cases+関係副詞where/場所以外)"
+  - sentence_id: "scr-096-p02"
+    label: "overall"
+    value: "V O M"
+  - sentence_id: "scr-096-p02"
+    label: "details"
+    value: "Put(V) <the book>(O) [back to where it was when you're through with it](M:関係副詞where/先行詞省略)"
+  - sentence_id: "scr-096-p03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-096-p03"
+    label: "details"
+    value: "<That>(S) 's(V) <why I respect him>(C:関係副詞why/先行詞省略)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-096-p01"
+    node_id: "shs-023"
+  - sentence_id: "scr-096-p02"
+    node_id: "shs-023"
+  - sentence_id: "scr-096-p03"
+    node_id: "shs-023"

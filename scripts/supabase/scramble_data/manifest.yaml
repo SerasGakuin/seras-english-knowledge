@@ -913,6 +913,117 @@ sections:
     gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-02"
     notes: "shs-019(Theme89+90統合)。問337-343=7exam, PU!65例文2件=2example"
+  # Part 1 > Ch12 関係詞
+  Scr_091:
+    title: "関係代名詞who/which/thatの用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-020(単独)。問344-349=6exam。PU!66(格変化表)はnotes記録"
+  Scr_092:
+    title: "前置詞＋関係代名詞"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-021(単独)。問350-352=3exam。PU!67(3パターン)はnotes記録"
+  Scr_093:
+    title: "関係代名詞whatの基本用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-022(Theme93+94統合)。問353-355=3exam, 解説例文1件=1example。PU!68はnotes記録"
+  Scr_094:
+    title: "関係代名詞whatを用いた慣用表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-022(Theme93+94統合)。問356-362=7exam, プラスα例文1件+PU!69例文1件=2example"
+  Scr_095:
+    title: "関係副詞の基本用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-023(Theme95+96統合)。問363-367=5exam, PU!71例文2件=2example。PU!70(対応表)はnotes記録"
+  Scr_096:
+    title: "関係副詞の注意すべき用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-023(Theme95+96統合)。問368-370=3exam。whereの先行詞省略・非場所先行詞"
+  Scr_097:
+    title: "非制限用法の関係詞"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-024(Theme97+98統合)。問371-373=3exam, PU!72例文2件=2example"
+  Scr_098:
+    title: "whichの特別な非制限用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-024(Theme97+98統合)。問374-376=3exam。節全体/一部先行詞・関係形容詞which"
+  Scr_099:
+    title: "関係代名詞としてのas/but/thanの用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-025(単独P2)。問377-380=4exam, the same...as例文1件=1example"
+  Scr_100:
+    title: "whoever/whichever/whateverの用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-026(Theme100+101統合)。問381-385=5exam, PU!73例文2件=2example"
+  Scr_101:
+    title: "whenever/wherever/howeverの用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-026(Theme100+101統合)。問386-389=4exam, PU!74例文2件=2example"
   Scr_125:
     title: "自動詞と他動詞──前置詞の有無"
     type: "usage"
@@ -925,9 +1036,9 @@ sections:
     notes: "パイロット。sgh-001。PU!92(他動詞14語)/PU!93(自動詞7語)はnotes記録"
 
 summary:
-  total_sections: 91
-  completed: 91
+  total_sections: 102
+  completed: 102
   in_progress: 0
   not_started: 0
-  total_knowledge_nodes: 70
-  total_sentences: 460
+  total_knowledge_nodes: 77
+  total_sentences: 518

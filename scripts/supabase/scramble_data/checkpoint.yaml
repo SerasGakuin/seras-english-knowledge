@@ -2,24 +2,36 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T01:00:00"
+updated_at: "2026-03-02T03:00:00"
 book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 2 — B06完了、B07着手前"
+  phase: "Phase 2 — B07完了、B08着手前"
   current_section: null
   current_step: null
-  last_completed_section: "Scr_090"
+  last_completed_section: "Scr_101"
   last_completed_gate: 5
 
 progress:
   total_sections: 271
-  completed: 91
+  completed: 102
   in_progress: 0
-  remaining: 180
-  total_nodes: 70
-  total_sentences: 460
+  remaining: 169
+  total_nodes: 77
+  total_sentences: 518
+
+b07_results:
+  ch12_sections: ["Scr_091", "Scr_092", "Scr_093", "Scr_094", "Scr_095", "Scr_096", "Scr_097", "Scr_098", "Scr_099", "Scr_100", "Scr_101"]
+  ch12_nodes: ["shs-020", "shs-021", "shs-022", "shs-023", "shs-024", "shs-025", "shs-026"]
+  ch12_sentences: 58
+  ch12_merges:
+    - "Theme 93+94 → shs-022（関係代名詞whatの用法と慣用表現）"
+    - "Theme 95+96 → shs-023（関係副詞の用法）"
+    - "Theme 97+98 → shs-024（非制限用法の関係詞）"
+    - "Theme 100+101 → shs-026（複合関係詞の用法）"
+  metrics:
+    ch12_node_section_ratio: 0.64
 
 b06_results:
   ch10_sections: ["Scr_072", "Scr_073", "Scr_074", "Scr_075", "Scr_076", "Scr_077"]
@@ -133,9 +145,9 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
-  - "B07: Ch12 関係詞(Scr_091-101) → ノードID shs-020〜"
-  - "原本: Part1_Ch12_関係詞.md を読む"
-  - "章区切りではないが、B06→B07でワークフロー再読込推奨"
+  - "B08: Ch13 接続詞(Scr_102-117) → ノードID shs-027〜"
+  - "原本: Part1_Ch13_接続詞.md を読む"
+  - "章区切り → ワークフロー.md + 設計書.md 再読込"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

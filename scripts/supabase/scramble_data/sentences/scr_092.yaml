@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-092-p01"
+    section_id: "Scr_092"
+    drill: 1
+    number: 350
+    role: "exam"
+    english: "Soseki Natsume is a man for whom I have the greatest respect."
+    japanese: "夏目漱石は私が最も尊敬している人物です。"
+    notes: "難易度: 頻出。出典: 神奈川大。前置詞＋関係代名詞 for whom（have respect for ～の for が前に移動）"
+  - id: "scr-092-p02"
+    section_id: "Scr_092"
+    drill: 1
+    number: 351
+    role: "exam"
+    english: "The bed I slept in last night wasn't very comfortable."
+    japanese: "私が昨晩寝たベッドはあまり心地よくなかった。"
+    notes: "難易度: 頻出。出典: 慶應大。前置詞の後置＋目的格関係代名詞の省略。参照: PU!51（not very「あまり～でない」）"
+  - id: "scr-092-p03"
+    section_id: "Scr_092"
+    drill: 1
+    number: 352
+    role: "exam"
+    english: "Are there any good tools with which to fix the broken desk?"
+    japanese: "壊れた机を直したいのですが、何かよい道具はありますか。"
+    notes: "難易度: 発展。出典: 成蹊大。整序問題（1語不要: what）。前置詞＋関係代名詞＋to不定詞"
+
+sentence_structures:
+  - sentence_id: "scr-092-p01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-092-p01"
+    label: "details"
+    value: "<Soseki Natsume>(S) is(V) <a man for whom I have the greatest respect>(C:先行詞+前置詞+関係詞節)"
+  - sentence_id: "scr-092-p02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-092-p02"
+    label: "details"
+    value: "<The bed (which) I slept in last night>(S:先行詞+関係詞節/目的格省略) wasn't(V) [very comfortable](C)"
+  - sentence_id: "scr-092-p03"
+    label: "overall"
+    value: "There V S"
+  - sentence_id: "scr-092-p03"
+    label: "details"
+    value: "Are there(V) <any good tools with which to fix the broken desk>(S:先行詞+前置詞+関係代名詞+to do)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-092-p01"
+    node_id: "shs-021"
+  - sentence_id: "scr-092-p02"
+    node_id: "shs-021"
+  - sentence_id: "scr-092-p03"
+    node_id: "shs-021"
