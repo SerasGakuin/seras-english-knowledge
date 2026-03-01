@@ -850,27 +850,27 @@ sections:
     title: "倒置①"
     type: "exercise"
     pages: "p.168-169"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
     notes: ""
   Ny_72:
     title: "倒置②"
     type: "exercise"
     pages: "p.170-171"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
     notes: ""
 
 summary:
   total_sections: 85
-  completed: 83
+  completed: 85
   in_progress: 0
-  not_started: 2
-  total_knowledge_nodes: 68
-  total_sentences: 205
+  not_started: 0
+  total_knowledge_nodes: 70
+  total_sentences: 210

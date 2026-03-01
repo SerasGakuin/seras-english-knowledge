@@ -373,6 +373,71 @@ knowledge_nodes:
         疑問文の形でなければ接続詞「～するとき」で副詞節を形成。
         when節が and で結ばれた2つの主節を同時に修飾している。
 
+  - id: "nta-013"
+    name: "not only ... but also の倒置と英語のリズム"
+    category: "その他"
+    priority: "P1"
+    notes: |
+      Point分類: ❹〔倒置〕（問71）
+      not only ~ but also の文頭倒置と、英語の「強→弱→強」のリズムを理解する。
+      ■ not only ~ but also の倒置（問71 ❹）:
+        英語には〈否定的な副詞(句・節)+疑問文の形式の倒置形〉という形がある。
+        強く発音する副詞を文頭に置いて、強→弱→強のリズムを作るための倒置形。
+        not onlyで1つの副詞。〈not only ~, but also ...〉「～のみならず…までも」。
+        not onlyが文頭に出ると、後ろの文が倒置される。
+        一般動詞の場合: 〈do[does/did]+S+V〉という疑問文の語順。
+        本文: Not only do such pictures remind us ...
+        （such picturesは名詞で強く発音、doは弱く発音 → 強→弱→強）
+      ■ 強→弱→強のリズム（問71 一言）:
+        英語ではあちこちに見られる。
+        〈他動詞+副詞〉の熟語で目的語が代名詞なら「他動詞+代名詞+副詞」の語順。
+        pick him up（○）≠ pick up him（×）。これも強・弱・強のリズム。
+      ❶（問71）dish we had — 関係代名詞の省略:
+        名詞の後にS+Vが連続 → まず関係代名詞の省略を考える。
+        先行詞の前のthat: (1)先行詞を示す(訳さない)、(2)「例の」という気持ち。
+      ❷（問71）that = 代名詞:
+        thatは具体的なものを指す「その」、または文(の一部)を指す。
+        itがif/when節と一緒の場合はif/when節の内容を指す。
+      ❸（問71）as = 接続詞:
+        asの基本は「だいたい等しい」のゆるいつなぎ語。
+        「意味がほとんどない」語ほど辞書的には意味が多様化する。
+      ❺（問71）that = 主格の関係代名詞:
+        make upの主語がない → 主格の関代。
+
+  - id: "nta-014"
+    name: "否定的副詞(句・節)の前置による倒置"
+    category: "その他"
+    priority: "P1"
+    notes: |
+      Point分類: ❸〔倒置〕（問72）
+      否定的な副詞(句・節)が文頭に出ると主節に倒置が起こるルールを理解する。
+      ■ 否定的副詞の倒置の一般則（問72 ❸）:
+        否定的な副詞(句・節)が文頭に出ると主節が倒置される。
+        〈only+副詞節〉も否定的な副詞節を作る（onlyが「～しかない」という否定的意味）。
+        倒置後は〈do[does/did]+S+V〉の疑問文の形になる。
+        本文の倒置前: consumers came to feel ... only after it had been in use ...
+        倒置後: Only after it had been in use ... did consumers come to feel ...
+      ■ 倒置の4パターン（問72 ❸）:
+        1. 副詞+倒置形: Little did I dream of his marrying Mary.
+           「彼がメアリーと結婚するなんて夢にも思わなかった」
+        2. 副詞句+倒置形: Under no circumstances must you accept the offer.
+           「どんな状況であれその申し出を受け入れるべきではない」
+        3. 副詞節+倒置形: Not until you ruin your health do you realize its value.
+           「健康を損ねてはじめてその価値がわかる」
+        4. nor+倒置形: I do not like cats, nor does my wife.
+           「私はネコが好きではない。また私の妻もそうだ」（norは接続詞）
+      ❶（問72）Once = 接続詞「いったん～すれば」:
+        副詞「かつて」だと前後をつなぐ接続詞がなくなるため接続詞と判断。
+        接続詞に見えない接続詞: as soon as ~, now that ~,
+        every time ~, the first time ~, the moment ~。
+        過去完了 had been invented は「完了」（過去のある時点までに発明が完了した）。
+      ❷（問72）application = 動詞の名詞形は2義:
+        動詞の名詞形は「～すること」と「～したもの」の2義を持つ。
+        invention =「発明すること」/「発明品」、knowledge =「知っていること」/「知識」。
+        findの目的語なので具体的な「応用したもの」→「用途」。
+      引用符の"needed":
+        発明前は必要かどうかわからないのに「必要だった」と発言 → 筆者の疑い。
+
   - id: "nta-012"
     name: "部分否定"
     category: "その他"
@@ -523,6 +588,26 @@ understanding_goals:
   - node_id: "nta-012"
     seq: 3
     goal: "部分否定を含む文を正確に訳出できる"
+
+  - node_id: "nta-013"
+    seq: 1
+    goal: "not only ~ but also の倒置パターン（Not only+do/does/did+S+V）を識別できる"
+  - node_id: "nta-013"
+    seq: 2
+    goal: "倒置文を元の語順に復元できる"
+  - node_id: "nta-013"
+    seq: 3
+    goal: "英語の「強→弱→強」のリズム原理を倒置と結びつけて説明できる"
+
+  - node_id: "nta-014"
+    seq: 1
+    goal: "否定的な副詞(句・節)が文頭に出ると主節に倒置が起こるルールを説明できる"
+  - node_id: "nta-014"
+    seq: 2
+    goal: "倒置の4パターン（副詞/副詞句/副詞節/nor）を列挙し、それぞれ例を挙げられる"
+  - node_id: "nta-014"
+    seq: 3
+    goal: "〈only+副詞節〉が否定的副詞節を作る理由を説明できる"
 
 check_points:
   - node_id: "nta-001"
@@ -681,6 +766,32 @@ check_points:
     question: "I don't always use this PC. を訳し、部分否定を指摘せよ。"
     answer: "「いつもこのパソコンを使うわけではない」。not + always（「いつも」）で部分否定。「いつも使わない」（全否定）ではなく「使うときもあるが使わないときもある」という意味。"
 
+  - node_id: "nta-013"
+    seq: 1
+    question: "not onlyが文頭に出たときの倒置の形を述べよ。"
+    answer: "〈Not only+do[does/did]+S+V ~, but (S) also V ...〉。一般動詞の場合、not onlyが文頭に出ると後ろの文が疑問文の語順に倒置される。例: Not only do such pictures remind us ..., but they also teach us ...。"
+  - node_id: "nta-013"
+    seq: 2
+    question: "Not only do such pictures remind us of the common activities ..., but they also teach us to appreciate ... を倒置前の語順に復元せよ。"
+    answer: "Such pictures not only remind us of the common activities that make up our actual lives, but also teach us to appreciate these everyday experiences. not onlyを文中の元の位置（動詞の前）に戻し、do+S+VをS+Vに戻す。"
+  - node_id: "nta-013"
+    seq: 3
+    question: "英語の「強→弱→強」のリズムとは何か？ 倒置以外の例も挙げよ。"
+    answer: "英語では強く発音する語を目立つ位置（文頭・文末）に置き、弱い語を間に挟むリズムを好む。倒置では否定的副詞（強）を文頭に置き、do（弱）を挟み、主語（強）が続く。他の例: pick him up（強・弱・強）で、pick up him（×）とならない。〈他動詞+副詞〉の熟語で目的語が代名詞なら「他動詞+代名詞+副詞」の語順になる。"
+
+  - node_id: "nta-014"
+    seq: 1
+    question: "否定的副詞が文頭に出ると倒置が起こる条件を述べよ。"
+    answer: "否定的な副詞（句・節）が文頭に出ると、主節が〈do[does/did]+S+V〉の疑問文の形に倒置される。〈only+副詞節〉も否定的な副詞節を作る（onlyが「～しかない」という否定的意味を持つため）。"
+  - node_id: "nta-014"
+    seq: 2
+    question: "Only after it had been in use for a considerable time did consumers come to feel that they \"needed\" it. を倒置前の語順に復元せよ。"
+    answer: "Consumers came to feel that they \"needed\" it only after it had been in use for a considerable time. only after以下の副詞節を文末に戻し、did+S+VをS+V（過去形came）に戻す。"
+  - node_id: "nta-014"
+    seq: 3
+    question: "否定的副詞による倒置の4パターンを例文付きで挙げよ。"
+    answer: "1. 副詞+倒置: Little did I dream of his marrying Mary.「夢にも思わなかった」。2. 副詞句+倒置: Under no circumstances must you accept the offer.「どんな状況でも受け入れるべきでない」。3. 副詞節+倒置: Not until you ruin your health do you realize its value.「健康を損ねて初めてわかる」。4. nor+倒置: I do not like cats, nor does my wife.「私も妻も好きでない」。"
+
 node_prerequisites:
   - node_id: "nta-001"
     prerequisite_id: "nbk-002"
@@ -707,6 +818,10 @@ node_prerequisites:
     prerequisite_id: "nta-010"
   - node_id: "nta-012"
     prerequisite_id: "nta-010"
+  - node_id: "nta-013"
+    prerequisite_id: "nta-010"
+  - node_id: "nta-014"
+    prerequisite_id: "nta-013"
 
 knowledge_references:
   - node_id: "nta-001"
@@ -765,3 +880,11 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_70"
     pages: "p.166-167"
+  - node_id: "nta-013"
+    book: "入門英文問題精講"
+    section_id: "Ny_71"
+    pages: "p.168-169"
+  - node_id: "nta-014"
+    book: "入門英文問題精講"
+    section_id: "Ny_72"
+    pages: "p.170-171"

@@ -1,39 +1,37 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-03T04:00:00"
+updated_at: "2026-03-03T05:00:00"
 book: "入門英文問題精講"
 book_slug: "nyumon"
 
 current_state:
-  phase: "Phase 2G"
-  current_section: "Ny_71"
-  current_step: "Step 1"
-  last_completed_section: "Ny_70"
+  phase: "Phase 2 完了"
+  current_section: "完了"
+  current_step: "完了"
+  last_completed_section: "Ny_72"
   last_completed_gate: 5
 
 progress:
   total_sections: 85
-  completed: 83
+  completed: 85
   in_progress: 0
-  remaining: 2
-  total_nodes: 68
-  total_sentences: 205
+  remaining: 0
+  total_nodes: 70
+  total_sentences: 210
 
 recent_decisions:
-  - "Ny_68: nta-010（否定の仕組み: anyとno、否定語の影響範囲）— ny-68-s2にnta-007もタグ付け（文と名詞の同格）"
-  - "Ny_69: nta-011（準否定語 hardly と-ly副詞の意味変化）— 出典なし"
-  - "Ny_70: nta-012（部分否定）— 6語の部分否定パターン"
-  - "Batch 28: 3ノード/3セクション = 1.0"
+  - "Ny_71: nta-013（not only...but alsoの倒置と英語のリズム）— 英文3文"
+  - "Ny_72: nta-014（否定的副詞の前置による倒置）— 英文2文、出典: 熊本大学"
+  - "Batch 29: 2ノード/2セクション = 1.0（最終バッチ）"
+  - "Phase 2G: 14ノード(nta-001〜014)/16セクション = 0.88"
 
 active_concerns:
   - "nbk-001, nbk-002 は tagged sentences なし（基本講義ノードでは想定内）"
-  - "CHECK-09 の ny-G** 命名規則エラーは既知の既存問題（基本講義ID体系）"
 
 next_actions:
-  - "Phase 2G Batch 29: Ny_71（倒置①）→ Ny_72（倒置②）— 最終2セクション"
-  - "3セクションプロトコル: Batch 28 完了 → ワークフロー再読込が必要"
-  - "Batch 29完了後: Phase 2G完了 → 章区切り全指示書再読込 → Phase 3（全体整合性チェック）"
+  - "Phase 2 全85セクション完了 → Phase 3（全体整合性チェック）へ進む"
+  - "Phase 3: prerequisites一括見直し、validate.py全体実行、粒度定量チェック、参考書間リンク候補抽出、importスクリプト作成"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

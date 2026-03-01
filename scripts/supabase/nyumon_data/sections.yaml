@@ -651,13 +651,17 @@ sections:
     title: "倒置①"
     pages: "p.168-169"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: Not only の後ろの語順は？
+      一言: 写真はいままでの思い出を呼び起こしてくれる。自分が写った写真でなくてもよい。ぜひ写真を撮ってほしい。
   - id: "Ny_72"
     book: "入門英文問題精講"
     title: "倒置②"
     pages: "p.170-171"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: Only afterの後ろで倒置が起きている
+      一言: 「必要は発明の母」は本当ではなく「発明は必要の母」が正しいかもしれない。需要が供給を生み出すのではなく、供給が需要を創りだす。
 
 section_knowledge_nodes:
   - section_id: "Ny_G01"
@@ -915,6 +919,12 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_70"
     node_id: "nta-012"
+    seq: 1
+  - section_id: "Ny_71"
+    node_id: "nta-013"
+    seq: 1
+  - section_id: "Ny_72"
+    node_id: "nta-014"
     seq: 1
 
 section_prerequisites: []

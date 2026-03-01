@@ -1,0 +1,64 @@
+sentences:
+  - id: "ny-71-s1"
+    section_id: "Ny_71"
+    drill: 71
+    number: 1
+    role: "exercise"
+    english: "\"Oh, here's that delicious chicken dish we had in that little town in Louisiana.\""
+    japanese: "「ああ，ここにあるのはルイジアナの小さな町で私達が食べたあの美味しい鶏肉料理よ。」"
+    notes: ""
+  - id: "ny-71-s2"
+    section_id: "Ny_71"
+    drill: 71
+    number: 2
+    role: "exercise"
+    english: "\"Remember that?\" my sister says as we look through some of the pictures."
+    japanese: "「そのことを覚えている？」と，妹はその写真の一部をざっと見ているときに言う。"
+    notes: ""
+  - id: "ny-71-s3"
+    section_id: "Ny_71"
+    drill: 71
+    number: 3
+    role: "exercise"
+    english: "Not only do such pictures remind us of the common activities that make up our actual lives, but they also teach us to appreciate these everyday experiences."
+    japanese: "そのような写真は私達に私達の実生活を構成するありふれた活動を思い出させるだけでなく，こうした日常の体験のよさをありがたく感謝するということも教えてくれるのだ。"
+    notes: ""
+
+sentence_structures:
+  - sentence_id: "ny-71-s1"
+    label: "overall"
+    value: "V S(関代省略)"
+
+  - sentence_id: "ny-71-s1"
+    label: "details"
+    value: "Oh, here(M:副詞) {V}'s {S}that(「例の」) delicious chicken dish [{S}we {V}had (in that little town (in Louisiana)(M:形容詞句))(M:副詞句)](関代省略、目的格which/that省略)"
+
+  - sentence_id: "ny-71-s2"
+    label: "overall"
+    value: "V O? S V 従属節(as)"
+
+  - sentence_id: "ny-71-s2"
+    label: "details"
+    value: "{V}Remember {O}that(代名詞=鶏肉料理)? {S}my sister {V}says [as(従接「～するときに」、時間がだいたい同じ) {S}we {V}look through {O}some (of the pictures)(M:形容詞句)](M:副詞節)"
+
+  - sentence_id: "ny-71-s3"
+    label: "overall"
+    value: "Not only 倒置(do S V), but S also V"
+
+  - sentence_id: "ny-71-s3"
+    label: "details"
+    value: "Not only(否定的副詞、文頭→倒置) do(助動詞:倒置形) {S}such pictures {V}remind {O}us (of the common activities [that(関代:主格) {V}make up {O}our actual lives](関代節))(M:前置詞句), but {S}they also(副詞) {V}teach {O1}us {O2}(to appreciate(to不定詞) these everyday experiences)(O2)"
+
+  - sentence_id: "ny-71-s3"
+    label: "partial_translations"
+    value: |
+      ❹ そのような写真は～を思い出させるだけでなく…も教えてくれる（not only ~ but also ... の倒置形、Not onlyが文頭→do+S+Vの疑問文語順、強→弱→強のリズム）
+      ❺ 私達の実生活を構成するありふれた活動（that=主格の関代、make upの主語がない）
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-71-s1"
+    node_id: "nta-013"
+  - sentence_id: "ny-71-s2"
+    node_id: "nta-013"
+  - sentence_id: "ny-71-s3"
+    node_id: "nta-013"
