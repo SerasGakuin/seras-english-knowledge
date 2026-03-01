@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-132-p01"
+    section_id: "Scr_132"
+    drill: 1
+    number: 516
+    role: "exam"
+    english: "I regarded him as a friend but he betrayed me."
+    japanese: "私は彼を友達だと思っていたが、彼は私を裏切った。"
+    notes: "出典: 駒澤大。〈頻出〉4択問題。regard A as B「AをBとみなす」(= consider A (to be) B)。as は「〜（である）と/〜として」の意味。A = B（him = a friend）の補語的関係。"
+  - id: "scr-132-p02"
+    section_id: "Scr_132"
+    drill: 1
+    number: 517
+    role: "exam"
+    english: "Strange to say, some people look on books as furniture."
+    japanese: "奇妙なことに、本を家具とみなす人がいる。"
+    notes: "出典: 関西外語大。4択問題。look on [upon] A as B「AをBとみなす」。① look into〜「〜を調査する」、③ look out (for〜)「（〜に）気をつける」、④ look through〜「〜にざっと目を通す」。"
+  - id: "scr-132-p03"
+    section_id: "Scr_132"
+    drill: 1
+    number: 518
+    role: "exam"
+    english: "Wasabi is a plant native to Japan. It's mainly grown for its roots, which are used to add flavor to food. It's sometimes referred to as Japanese horseradish."
+    japanese: "ワサビは日本が原産の植物だ。主に根茎を目的として栽培され、根茎は食事に風味を添えるために用いられる。ときにワサビはジャパニーズ・ホースラディッシュと呼ばれる。"
+    notes: "出典: 南山大。誤り指摘問題。refer to A as B「AをBと呼ぶ/言う」の受動態 A is referred to as B「AはBと呼ばれている」。④ referred → referred to（to を忘れない）。〈プラスα〉refer to〜「〜を参照する/〜に言及する」（⇨ 1009）。"
+
+sentence_structures:
+  - sentence_id: "scr-132-p01"
+    label: "overall"
+    value: "S V O M S V O"
+  - sentence_id: "scr-132-p01"
+    label: "details"
+    value: "<I>(S) regarded(V) <him>(O) [as a friend](M) but <he>(S) betrayed(V) <me>(O)"
+  - sentence_id: "scr-132-p02"
+    label: "overall"
+    value: "M, S V O M"
+  - sentence_id: "scr-132-p02"
+    label: "details"
+    value: "[Strange to say](M:独立不定詞), <some people>(S) look on(V) <books>(O) [as furniture](M)"
+  - sentence_id: "scr-132-p03"
+    label: "overall"
+    value: "S V C. S V M. S V M"
+  - sentence_id: "scr-132-p03"
+    label: "details"
+    value: "<Wasabi>(S) is(V) <a plant native to Japan>(C). <It>(S) 's mainly grown(V:受動態) [for its roots, which are used to add flavor to food](M). <It>(S) 's sometimes referred to(V:受動態) [as Japanese horseradish](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-132-p01"
+    node_id: "sgh-005"
+  - sentence_id: "scr-132-p02"
+    node_id: "sgh-005"
+  - sentence_id: "scr-132-p03"
+    node_id: "sgh-005"

@@ -1,0 +1,37 @@
+sentences:
+  - id: "scr-134-p01"
+    section_id: "Scr_134"
+    drill: 1
+    number: 521
+    role: "exam"
+    english: "Can you distinguish sugar from salt without tasting it?"
+    japanese: "味見をせずに、砂糖と塩を区別できますか。"
+    notes: "出典: 畿央大。〈頻出〉4択問題。distinguish A from B「AとBを見分ける/区別する」。〈プラスα〉distinguish between A and B / tell A from B / know A from B も同意。Do [×Can] you know A from B の形に注意。"
+  - id: "scr-134-p02"
+    section_id: "Scr_134"
+    drill: 1
+    number: 522
+    role: "exam"
+    english: "Most experts can tell a real pearl from an imitation one."
+    japanese: "たいていの専門家は本物の真珠と模造真珠の区別がつく。"
+    notes: "出典: 学習院大。4択問題。tell A from B「AとBを見分ける/区別する」。A from B の形をとり文意が成立するのは ③ tell のみ。"
+
+sentence_structures:
+  - sentence_id: "scr-134-p01"
+    label: "overall"
+    value: "V S V O M M"
+  - sentence_id: "scr-134-p01"
+    label: "details"
+    value: "Can <you>(S) distinguish(V) <sugar>(O) [from salt](M) [without tasting it](M:前置詞+動名詞)"
+  - sentence_id: "scr-134-p02"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-134-p02"
+    label: "details"
+    value: "<Most experts>(S) can tell(V) <a real pearl>(O) [from an imitation one](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-134-p01"
+    node_id: "sgh-006"
+  - sentence_id: "scr-134-p02"
+    node_id: "sgh-006"

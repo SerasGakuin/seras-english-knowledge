@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-131-p01"
+    section_id: "Scr_131"
+    drill: 1
+    number: 513
+    role: "exam"
+    english: "That photo reminds him of his hometown."
+    japanese: "あの写真を見ると、彼は故郷を思い出します。"
+    notes: "出典: 愛知学院大。〈頻出〉記述問題。remind A of B「AにBを思い出させる」。無生物主語の文で頻出。「（主語）を見ると/聞くとAはBを思い出す」と訳す。〈発展〉remind A to do / remind A that〜 の用法も重要。"
+  - id: "scr-131-p02"
+    section_id: "Scr_131"
+    drill: 1
+    number: 514
+    role: "exam"
+    english: "Please inform us of any change of address as soon as possible."
+    japanese: "住所変更がありましたら、できるだけ早くお知らせください。"
+    notes: "出典: 中央大。〈頻出〉5択問題。inform A of B「AにBを知らせる」。inform の目的語Aは通例「人」。〈暗記〉as soon as possible「できるだけ早く」(= as soon as one can)（⇨ 189）。"
+  - id: "scr-131-p03"
+    section_id: "Scr_131"
+    drill: 1
+    number: 515
+    role: "exam"
+    english: "I am convinced of your innocence."
+    japanese: "私はあなたの無実を確信しています。"
+    notes: "出典: 亜細亜大。4択問題。convince A of B「AにBを確信させる」の受動態 A is convinced of B「AはBを確信している」(= A is sure of B ⇨ 1161)。"
+  - id: "scr-131-e01"
+    section_id: "Scr_131"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "Remind him to come home early."
+    japanese: "（彼が忘れていたら）早く帰宅するように彼に注意しなさい。"
+    notes: "問513解説〈発展〉例文。remind A to do「Aに〜するよう注意する」の用法例。= Remind him that he must come home early."
+
+sentence_structures:
+  - sentence_id: "scr-131-p01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-131-p01"
+    label: "details"
+    value: "<That photo>(S:無生物主語) reminds(V) <him>(O) [of his hometown](M:関連のof)"
+  - sentence_id: "scr-131-p02"
+    label: "overall"
+    value: "V O M M"
+  - sentence_id: "scr-131-p02"
+    label: "details"
+    value: "Please inform(V:命令文) <us>(O) [of any change of address](M:関連のof) [as soon as possible](M)"
+  - sentence_id: "scr-131-p03"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-131-p03"
+    label: "details"
+    value: "<I>(S) am convinced(V:受動態) [of your innocence](M:関連のof)"
+  - sentence_id: "scr-131-e01"
+    label: "overall"
+    value: "V O V M"
+  - sentence_id: "scr-131-e01"
+    label: "details"
+    value: "Remind(V:命令文) <him>(O) to come(V:不定詞) [home early](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-131-p01"
+    node_id: "sgh-004"
+  - sentence_id: "scr-131-p02"
+    node_id: "sgh-004"
+  - sentence_id: "scr-131-p03"
+    node_id: "sgh-004"
+  - sentence_id: "scr-131-e01"
+    node_id: "sgh-004"

@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-137-p01"
+    section_id: "Scr_137"
+    drill: 1
+    number: 527
+    role: "exam"
+    english: "I talked my wife into seeing a doctor."
+    japanese: "私は、医者の診察を受けるように妻を説得した。"
+    notes: "出典: 東北学大。〈頻出〉並べ替え問題。talk A into B [doing]「Aを説得してBさせる」(= persuade A into B [doing] / persuade A to do)。⇔ talk [persuade] A out of B [doing]「Aを説得してBするのをやめさせる」。"
+  - id: "scr-137-p02"
+    section_id: "Scr_137"
+    drill: 1
+    number: 528
+    role: "exam"
+    english: "This milk is going to be made into cheese."
+    japanese: "この牛乳はチーズに加工される予定です。"
+    notes: "出典: 大阪電通大。4択問題。make A into B「A（材料）をB（製品）にする」。受動態 A is made into B「Aは加工されてBになる」。"
+  - id: "scr-137-e01"
+    section_id: "Scr_137"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "I talked him out of buying the car."
+    japanese: "私は彼を説得して、その車を買うのをやめさせた。"
+    notes: "問527解説例文。talk A out of doing「Aを説得して〜するのをやめさせる」の用法例。talk A into doing の反意表現。persuade A out of doing も同義。"
+
+sentence_structures:
+  - sentence_id: "scr-137-p01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-137-p01"
+    label: "details"
+    value: "<I>(S) talked(V) <my wife>(O) [into seeing a doctor](M:into doing)"
+  - sentence_id: "scr-137-p02"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-137-p02"
+    label: "details"
+    value: "<This milk>(S) is going to be made(V:受動態/未来) [into cheese](M:into B)"
+  - sentence_id: "scr-137-e01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-137-e01"
+    label: "details"
+    value: "<I>(S) talked(V) <him>(O) [out of buying the car](M:out of doing)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-137-p01"
+    node_id: "sgh-007"
+  - sentence_id: "scr-137-p02"
+    node_id: "sgh-007"
+  - sentence_id: "scr-137-e01"
+    node_id: "sgh-007"

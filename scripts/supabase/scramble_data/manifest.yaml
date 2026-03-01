@@ -1265,11 +1265,141 @@ sections:
     gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "パイロット。sgh-001。PU!92(他動詞14語)/PU!93(自動詞7語)はnotes記録"
+  Scr_126:
+    title: "自・他で活用と意味がまぎらわしい動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-002。問481-487=7exam, プラスα例文1件=1example。PU!94(lie/lay活用表)/PU!95(rise/raise活用表)はnotes記録"
+  Scr_127:
+    title: "動名詞だけを目的語にとる動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-003(Theme127+128+129統合)。問488-495=8exam。PU!96(メガフェップス16動詞)はnotes記録"
+  Scr_128:
+    title: "不定詞だけを目的語にとる動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-003(Theme127+128+129統合)。問496-502=7exam, PU!98例文2件=2example。PU!97(不定詞のみ14動詞)/PU!98(not/never fail to do)はnotes記録"
+  Scr_129:
+    title: "目的語が動名詞と不定詞で意味が異なる動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-003(Theme127+128+129統合)。問503-509=7exam, 解説比較例文2件=2example。PU!99(rememberタイプ+needタイプ)/PU!100(try/mean/go on)はnotes記録"
+  Scr_130:
+    title: "rob A of Bタイプの動詞──分離・剥奪のof"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-004(Theme130+131統合)。問510-512=3exam, 解説比較例文2件(rob/steal)=2example。PU!101(分離のof 5動詞)はnotes記録"
+  Scr_131:
+    title: "remind A of Bタイプの動詞──関連のof"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-004(Theme130+131統合)。問513-515=3exam, 解説発展例文1件(remind to do)=1example。PU!102(関連のof 6動詞)はnotes記録"
+  Scr_132:
+    title: "regard A as Bタイプの動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-005。問516-518=3exam。PU!103(5動詞パターン)はnotes記録"
+  Scr_133:
+    title: "prevent A from doingタイプの動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-006(Theme133+134統合)。問519-520=2exam。PU!104(2動詞パターン)はnotes記録"
+  Scr_134:
+    title: "distinguish A from Bタイプの動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-006(Theme133+134統合)。問521-522=2exam。PU!105(3動詞パターン)はnotes記録"
+  Scr_135:
+    title: "provide A with Bタイプの動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-007(Theme135+136+137統合)。問523-524=2exam。PU!106(4動詞パターン)はnotes記録"
+  Scr_136:
+    title: "blame A for Bタイプの動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-007(Theme135+136+137統合)。問525-526=2exam。PU!107(6動詞パターン)はnotes記録"
+  Scr_137:
+    title: "talk A into Bタイプの動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-007(Theme135+136+137統合)。問527-528=2exam, 解説例文1件(out of)=1example。PU!108(4動詞パターン)はnotes記録"
+  Scr_138:
+    title: "SVOOの形をとる動詞・とらない動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-008。問529-535=7exam, 解説例文2件(spare/explain)=2example。PU!109(SVOO 9動詞)/PU!110(SVOO不可 6動詞)はnotes記録"
 
 summary:
-  total_sections: 125
-  completed: 125
+  total_sections: 138
+  completed: 138
   in_progress: 0
   not_started: 0
-  total_knowledge_nodes: 91
-  total_sentences: 630
+  total_knowledge_nodes: 98
+  total_sentences: 696

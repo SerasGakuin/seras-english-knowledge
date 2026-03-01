@@ -1,0 +1,37 @@
+sentences:
+  - id: "scr-136-p01"
+    section_id: "Scr_136"
+    drill: 1
+    number: 525
+    role: "exam"
+    english: "I don't blame you for doing that."
+    japanese: "私は君がそれをしたからといって責めはしない。"
+    notes: "出典: 関西外語大。〈頻出〉4択問題。blame A for B「AをB（のこと）で責める」。賞罰を表す動詞は前置詞 for と結びつきやすい。例: praise him for his courage「彼の勇気をほめたたえる」。"
+  - id: "scr-136-p02"
+    section_id: "Scr_136"
+    drill: 1
+    number: 526
+    role: "exam"
+    english: "She accused me of spreading rumors about her father."
+    japanese: "彼女は自分の父親についてのうわさを広めたと、私を非難した。"
+    notes: "出典: 立教大。〈頻出〉4択問題。accuse A of B「AをB（のこと）で非難する/責める」。blame とほぼ同意だが前置詞が for ではなく of — 入試で狙われやすい。"
+
+sentence_structures:
+  - sentence_id: "scr-136-p01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-136-p01"
+    label: "details"
+    value: "<I>(S) don't blame(V) <you>(O) [for doing that](M:for B)"
+  - sentence_id: "scr-136-p02"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-136-p02"
+    label: "details"
+    value: "<She>(S) accused(V) <me>(O) [of spreading rumors about her father](M:of B)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-136-p01"
+    node_id: "sgh-007"
+  - sentence_id: "scr-136-p02"
+    node_id: "sgh-007"

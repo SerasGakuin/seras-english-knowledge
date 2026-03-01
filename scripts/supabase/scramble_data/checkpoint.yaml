@@ -2,24 +2,36 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T12:00:00"
+updated_at: "2026-03-01T14:00:00"
 book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 2 — B09完了（Part 1完了）、B10着手前"
+  phase: "Phase 2 — B10完了、B11着手前"
   current_section: null
   current_step: null
-  last_completed_section: "Scr_124"
+  last_completed_section: "Scr_138"
   last_completed_gate: 5
 
 progress:
   total_sections: 271
-  completed: 125
+  completed: 138
   in_progress: 0
-  remaining: 146
-  total_nodes: 91
-  total_sentences: 630
+  remaining: 133
+  total_nodes: 98
+  total_sentences: 696
+
+b10_results:
+  ch15_front_sections: ["Scr_126", "Scr_127", "Scr_128", "Scr_129", "Scr_130", "Scr_131", "Scr_132", "Scr_133", "Scr_134", "Scr_135", "Scr_136", "Scr_137", "Scr_138"]
+  ch15_front_nodes: ["sgh-002", "sgh-003", "sgh-004", "sgh-005", "sgh-006", "sgh-007", "sgh-008"]
+  ch15_front_sentences: 66
+  ch15_front_merges:
+    - "Theme 127+128+129 → sgh-003（動名詞・不定詞を目的語にとる動詞の区別）"
+    - "Theme 130+131 → sgh-004（A of Bパターンの動詞）"
+    - "Theme 133+134 → sgh-006（A from Bパターンの動詞）"
+    - "Theme 135+136+137 → sgh-007（A with/for/into Bパターンの動詞）"
+  metrics:
+    ch15_front_node_section_ratio: 0.538
 
 b09_results:
   ch14_sections: ["Scr_118", "Scr_119", "Scr_120", "Scr_121", "Scr_122", "Scr_123", "Scr_124"]
@@ -169,10 +181,9 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
-  - "★ Part 1 完了マイルストーン: 定量レビュー実施"
-  - "B10: Ch15 動詞の語法 前半(Scr_126-138) → ノードID sgh-002〜"
-  - "原本: Part2_Ch15_動詞の語法.md を読む（103KB最大ファイル）"
-  - "Part 2開始 → ワークフロー.md + 設計書.md 再読込"
+  - "B11: Ch15 動詞の語法 後半(Scr_139-150) → ノードID sgh-009〜"
+  - "原本: Part2_Ch15_動詞の語法.md 後半を読む"
+  - "Ch15完了 = 章区切り → ワークフロー.md + 設計書.md 再読込"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

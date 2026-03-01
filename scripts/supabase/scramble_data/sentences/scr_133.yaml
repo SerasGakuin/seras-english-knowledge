@@ -1,0 +1,37 @@
+sentences:
+  - id: "scr-133-p01"
+    section_id: "Scr_133"
+    drill: 1
+    number: 519
+    role: "exam"
+    english: "The traffic jam prevented us from arriving on time."
+    japanese: "交通渋滞のために私たちは時間通りに到着できなかった。"
+    notes: "出典: 東北学院大。〈頻出〉4択問題。prevent A from doing「Aが〜するのを妨げる/Aに〜させない」。「抑制・防止」の from。本問 = We could not arrive on time because of the traffic jam. 〈プラスα〉keep/stop/hinder も同パターン。keep/stop のほうが口語的。"
+  - id: "scr-133-p02"
+    section_id: "Scr_133"
+    drill: 1
+    number: 520
+    role: "exam"
+    english: "Eddie's parents tried to discourage him from going abroad alone."
+    japanese: "エディーの両親は彼がひとりで海外に行くのを思いとどまらせた。"
+    notes: "出典: 日本大。4択問題。discourage A from doing「Aが〜するのを思いとどまらせる」⇔ encourage A to do「Aが〜するよう励ます/促す」。① disappoint「〜を失望させる」、② dislike「〜が嫌い」、③ dispute「〜を議論する」はいずれも A from doing の形をとらない。"
+
+sentence_structures:
+  - sentence_id: "scr-133-p01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-133-p01"
+    label: "details"
+    value: "<The traffic jam>(S:無生物主語) prevented(V) <us>(O) [from arriving on time](M:from doing)"
+  - sentence_id: "scr-133-p02"
+    label: "overall"
+    value: "S V V O M"
+  - sentence_id: "scr-133-p02"
+    label: "details"
+    value: "<Eddie's parents>(S) tried(V) to discourage(V:不定詞) <him>(O) [from going abroad alone](M:from doing)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-133-p01"
+    node_id: "sgh-006"
+  - sentence_id: "scr-133-p02"
+    node_id: "sgh-006"

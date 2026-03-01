@@ -1,0 +1,37 @@
+sentences:
+  - id: "scr-135-p01"
+    section_id: "Scr_135"
+    drill: 1
+    number: 523
+    role: "exam"
+    english: "Kelly provided me with all the information I needed."
+    japanese: "ケリーは私が必要とする情報をすべて与えてくれた。"
+    notes: "出典: 亜細亜大。〈頻出〉4択問題。provide A with B「A（人）にB（物）を供給する/与える」(= provide B for [to] A)。書き換え元: I got all the information I needed from Kelly. 〈プラスα〉supply もほぼ同じ意味・用法。"
+  - id: "scr-135-p02"
+    section_id: "Scr_135"
+    drill: 1
+    number: 524
+    role: "exam"
+    english: "The girl who saved the child from drowning has been presented with an award for courage."
+    japanese: "子どもがおぼれているところを助けた少女はその勇気に対して賞を贈られた。"
+    notes: "出典: センター。4択問題。present A with B「AにBを贈る」(= present B to A)。受動態 A is presented with B「AはBを贈られる」。A with B の形をとるのは ③ presented のみ。"
+
+sentence_structures:
+  - sentence_id: "scr-135-p01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-135-p01"
+    label: "details"
+    value: "<Kelly>(S) provided(V) <me>(O) [with all the information I needed](M:with B)"
+  - sentence_id: "scr-135-p02"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-135-p02"
+    label: "details"
+    value: "<The girl [who saved the child from drowning]>(S:関係代名詞修飾) has been presented(V:受動態/現在完了) [with an award for courage](M:with B)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-135-p01"
+    node_id: "sgh-007"
+  - sentence_id: "scr-135-p02"
+    node_id: "sgh-007"
