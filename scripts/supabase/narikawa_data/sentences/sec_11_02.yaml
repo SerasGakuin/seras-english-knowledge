@@ -1,0 +1,55 @@
+# Nar_11_02: 定冠詞theの使い方 (p.424-426)
+
+sentences:
+  - id: "nar-1102-e703"
+    section_id: "Nar_11_02"
+    drill: 0
+    number: 703
+    role: "example"
+    english: "He bought a shirt, but he soon returned the shirt."
+    japanese: "彼はシャツを買ったが、すぐに返品した"
+    notes: "a shirt(不特定)→the shirt(前出の特定シャツ、他と区別)。theの「区別」用法"
+  - id: "nar-1102-e704"
+    section_id: "Nar_11_02"
+    drill: 0
+    number: 704
+    role: "example"
+    english: "Look at the clock!"
+    japanese: "時計を見て！"
+    notes: "the clock=部屋に唯一の時計。みんなが同じものをイメージできる→the"
+  - id: "nar-1102-e705"
+    section_id: "Nar_11_02"
+    drill: 0
+    number: 705
+    role: "example"
+    english: "Look at a clock!"
+    japanese: "時計を見て！"
+    notes: "a clock=部屋に複数の時計があり、どれか1つ。言われた側は戸惑う"
+
+sentence_structures:
+  - sentence_id: "nar-1102-e703"
+    label: "overall"
+    value: "S V O S V O"
+  - sentence_id: "nar-1102-e703"
+    label: "details"
+    value: "<He>(S) bought(V) <a shirt>(O:不特定), but <he>(S) soon returned(V) <the shirt>(O:特定/区別)"
+  - sentence_id: "nar-1102-e704"
+    label: "overall"
+    value: "V M"
+  - sentence_id: "nar-1102-e704"
+    label: "details"
+    value: "Look(V:命令文) [at the clock](M:唯一の時計)"
+  - sentence_id: "nar-1102-e705"
+    label: "overall"
+    value: "V M"
+  - sentence_id: "nar-1102-e705"
+    label: "details"
+    value: "Look(V:命令文) [at a clock](M:複数のうち不特定の1つ)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1102-e703"
+    node_id: "nrh-002"
+  - sentence_id: "nar-1102-e704"
+    node_id: "nrh-002"
+  - sentence_id: "nar-1102-e705"
+    node_id: "nrh-002"

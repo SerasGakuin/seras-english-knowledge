@@ -1,0 +1,103 @@
+# Nar_11_04: 「お客」の意味を表すさまざまな名詞 (p.430-431)
+
+sentences:
+  - id: "nar-1104-e706"
+    section_id: "Nar_11_04"
+    drill: 0
+    number: 706
+    role: "example"
+    english: "The theme park attracts over 3 million visitors a year."
+    japanese: "そのテーマパークには年間300万人以上の来場者が訪れる"
+    notes: "visitor=訪問客・来場者"
+  - id: "nar-1104-e707"
+    section_id: "Nar_11_04"
+    drill: 0
+    number: 707
+    role: "example"
+    english: "Being a guest at a party make me nervous."
+    japanese: "パーティーの招待客というのは緊張する"
+    notes: "guest=招待された客"
+  - id: "nar-1104-e708"
+    section_id: "Nar_11_04"
+    drill: 0
+    number: 708
+    role: "example"
+    english: "The audience stood up."
+    japanese: "聴衆は立ち上がった"
+    notes: "audience=コンサートや劇場の観客・聴衆"
+  - id: "nar-1104-e709"
+    section_id: "Nar_11_04"
+    drill: 0
+    number: 709
+    role: "example"
+    english: "There were thousands of spectators at the baseball game."
+    japanese: "その野球の試合には何千人もの観客がいた"
+    notes: "spectator=スポーツの観戦客"
+  - id: "nar-1104-e710"
+    section_id: "Nar_11_04"
+    drill: 0
+    number: 710
+    role: "example"
+    english: "A TV viewer might see fifteen or more commercials per hour."
+    japanese: "テレビ視聴者は1時間に15本以上のコマーシャルを見るかもしれない"
+    notes: "viewer=テレビの視聴者"
+  - id: "nar-1104-e711"
+    section_id: "Nar_11_04"
+    drill: 0
+    number: 711
+    role: "example"
+    english: "Today, I have a meeting with an important client."
+    japanese: "今日、私は大事な依頼人との打ち合わせがある"
+    notes: "client=知識・技術を求めてくる客（弁護士の依頼人等）"
+
+sentence_structures:
+  - sentence_id: "nar-1104-e706"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-1104-e706"
+    label: "details"
+    value: "<The theme park>(S) attracts(V) <over 3 million visitors>(O:visitor) [a year](M)"
+  - sentence_id: "nar-1104-e707"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-1104-e707"
+    label: "details"
+    value: "<Being a guest at a party>(S:動名詞句) make(V) <me>(O) <nervous>(C)"
+  - sentence_id: "nar-1104-e708"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "nar-1104-e708"
+    label: "details"
+    value: "<The audience>(S:集合名詞) stood up(V)"
+  - sentence_id: "nar-1104-e709"
+    label: "overall"
+    value: "There V S M"
+  - sentence_id: "nar-1104-e709"
+    label: "details"
+    value: "There were(V) <thousands of spectators>(S:spectator) [at the baseball game](M)"
+  - sentence_id: "nar-1104-e710"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-1104-e710"
+    label: "details"
+    value: "<A TV viewer>(S:viewer) might see(V) <fifteen or more commercials>(O) [per hour](M)"
+  - sentence_id: "nar-1104-e711"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "nar-1104-e711"
+    label: "details"
+    value: "[Today](M), <I>(S) have(V) <a meeting with an important client>(O:client)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1104-e706"
+    node_id: "nrh-004"
+  - sentence_id: "nar-1104-e707"
+    node_id: "nrh-004"
+  - sentence_id: "nar-1104-e708"
+    node_id: "nrh-004"
+  - sentence_id: "nar-1104-e709"
+    node_id: "nrh-004"
+  - sentence_id: "nar-1104-e710"
+    node_id: "nrh-004"
+  - sentence_id: "nar-1104-e711"
+    node_id: "nrh-004"

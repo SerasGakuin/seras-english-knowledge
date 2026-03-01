@@ -1,0 +1,103 @@
+# Nar_11_05: 「料金」の意味を表すさまざまな名詞 (p.432-433)
+
+sentences:
+  - id: "nar-1105-e712"
+    section_id: "Nar_11_05"
+    drill: 0
+    number: 712
+    role: "example"
+    english: "What is the price of this bag?"
+    japanese: "このかばんはいくらですか"
+    notes: "price=個々の商品の値段・価格"
+  - id: "nar-1105-e713"
+    section_id: "Nar_11_05"
+    drill: 0
+    number: 713
+    role: "example"
+    english: "Prices are going up."
+    japanese: "物価は上がりつつある"
+    notes: "prices(複数形)=物価"
+  - id: "nar-1105-e714"
+    section_id: "Nar_11_05"
+    drill: 0
+    number: 714
+    role: "example"
+    english: "The charges for electricity and gas are not included in the rent."
+    japanese: "電気代とガス代は家賃に含まれません"
+    notes: "charge=電気・ガス等の公共料金。rent=家賃"
+  - id: "nar-1105-e715"
+    section_id: "Nar_11_05"
+    drill: 0
+    number: 715
+    role: "example"
+    english: "We can iron your shirts for a small charge."
+    japanese: "低料金でシャツにアイロンがけをいたします"
+    notes: "charge=サービスに対して支払う料金"
+  - id: "nar-1105-e716"
+    section_id: "Nar_11_05"
+    drill: 0
+    number: 716
+    role: "example"
+    english: "There is an annual fee to join this fan club."
+    japanese: "このファンクラブに入会するには年会費がかかります"
+    notes: "fee=何かに入るための費用全般"
+  - id: "nar-1105-e717"
+    section_id: "Nar_11_05"
+    drill: 0
+    number: 717
+    role: "example"
+    english: "Some of the medical fees were not covered by insurance."
+    japanese: "医療費の中には保険でカバーされないものもある"
+    notes: "fee=医者等の専門職に支払う報酬・謝礼"
+
+sentence_structures:
+  - sentence_id: "nar-1105-e712"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-1105-e712"
+    label: "details"
+    value: "<What>(S) is(V) <the price of this bag>(C:price)"
+  - sentence_id: "nar-1105-e713"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "nar-1105-e713"
+    label: "details"
+    value: "<Prices>(S:物価) are going up(V:進行形)"
+  - sentence_id: "nar-1105-e714"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-1105-e714"
+    label: "details"
+    value: "<The charges for electricity and gas>(S:charge) are not included(V:受動態) [in the rent](M)"
+  - sentence_id: "nar-1105-e715"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-1105-e715"
+    label: "details"
+    value: "<We>(S) can iron(V) <your shirts>(O) [for a small charge](M:charge)"
+  - sentence_id: "nar-1105-e716"
+    label: "overall"
+    value: "There V S M"
+  - sentence_id: "nar-1105-e716"
+    label: "details"
+    value: "There is(V) <an annual fee>(S:fee) [to join this fan club](M:不定詞)"
+  - sentence_id: "nar-1105-e717"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-1105-e717"
+    label: "details"
+    value: "<Some of the medical fees>(S:fee) were not covered(V:受動態) [by insurance](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1105-e712"
+    node_id: "nrh-005"
+  - sentence_id: "nar-1105-e713"
+    node_id: "nrh-005"
+  - sentence_id: "nar-1105-e714"
+    node_id: "nrh-005"
+  - sentence_id: "nar-1105-e715"
+    node_id: "nrh-005"
+  - sentence_id: "nar-1105-e716"
+    node_id: "nrh-005"
+  - sentence_id: "nar-1105-e717"
+    node_id: "nrh-005"

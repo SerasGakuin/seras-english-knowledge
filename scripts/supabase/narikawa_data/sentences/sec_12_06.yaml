@@ -1,0 +1,87 @@
+# Nar_12_06: itとthat, thisとthatはどう違う？ (p.450-454)
+
+sentences:
+  - id: "nar-1206-e748"
+    section_id: "Nar_12_06"
+    drill: 0
+    number: 748
+    role: "example"
+    english: "\"Whose house is that?\" \"That's mine.\""
+    japanese: "「あれは誰の家ですか」「あれは私の家です」"
+    notes: "that=離れた対象を直接指す指示語。代名詞というより指示語の要素が強い"
+  - id: "nar-1206-e749"
+    section_id: "Nar_12_06"
+    drill: 0
+    number: 749
+    role: "example"
+    english: "\"Whose house is that?\" \"It's mine.\""
+    japanese: "「あれは誰の家ですか」「それは私の家です」"
+    notes: "it=話題に出てきたものを受ける代名詞（受け専門）。直接指す働きはない"
+  - id: "nar-1206-e750"
+    section_id: "Nar_12_06"
+    drill: 0
+    number: 750
+    role: "example"
+    english: "It is true that he's ill."
+    japanese: "彼が病気だというのは本当だ"
+    notes: "it=形式主語。後ろのthat節を受ける。消極的で自ら指し示す感じがない"
+  - id: "nar-1206-e751"
+    section_id: "Nar_12_06"
+    drill: 0
+    number: 751
+    role: "example"
+    english: "\"Who is it?\" \"It's me.\""
+    japanese: "「誰？」「俺だよ」"
+    notes: "it=不明の相手に対して使用。具体的に誰か不明→you/he不可、直接指せない→this/that不可→消極的なitを使う"
+  - id: "nar-1206-e752"
+    section_id: "Nar_12_06"
+    drill: 0
+    number: 752
+    role: "example"
+    english: "To be or not to be, that is the question."
+    japanese: "生きるべきか死ぬべきか、それが問題だ"
+    notes: "that=直前の内容を積極的に直接指す（シェイクスピア『ハムレット』）。the question=唯一の問題（theの「唯一」イメージ）"
+
+sentence_structures:
+  - sentence_id: "nar-1206-e748"
+    label: "overall"
+    value: "S V C / S V C"
+  - sentence_id: "nar-1206-e748"
+    label: "details"
+    value: "<Whose house>(S) is(V) <that>(C:指示語)? / <That>(S:直接指す) 's(V) <mine>(C)"
+  - sentence_id: "nar-1206-e749"
+    label: "overall"
+    value: "S V C / S V C"
+  - sentence_id: "nar-1206-e749"
+    label: "details"
+    value: "<Whose house>(S) is(V) <that>(C)? / <It>(S:受け専門) 's(V) <mine>(C)"
+  - sentence_id: "nar-1206-e750"
+    label: "overall"
+    value: "It V C that節"
+  - sentence_id: "nar-1206-e750"
+    label: "details"
+    value: "<It>(S:形式主語) is(V) <true>(C) <that he's ill>(真主語:that節)"
+  - sentence_id: "nar-1206-e751"
+    label: "overall"
+    value: "S V C / S V C"
+  - sentence_id: "nar-1206-e751"
+    label: "details"
+    value: "<Who>(S) is(V) <it>(C:不明の相手)? / <It>(S) 's(V) <me>(C)"
+  - sentence_id: "nar-1206-e752"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-1206-e752"
+    label: "details"
+    value: "[To be or not to be](前出内容), <that>(S:直接指す) is(V) <the question>(C:唯一の問題)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1206-e748"
+    node_id: "nrh-013"
+  - sentence_id: "nar-1206-e749"
+    node_id: "nrh-013"
+  - sentence_id: "nar-1206-e750"
+    node_id: "nrh-013"
+  - sentence_id: "nar-1206-e751"
+    node_id: "nrh-013"
+  - sentence_id: "nar-1206-e752"
+    node_id: "nrh-013"

@@ -1,0 +1,510 @@
+# ch11.yaml — Part 11〜15: 品詞・特殊構文 (nrh)
+
+knowledge_nodes:
+  - id: "nrh-001"
+    name: "不定冠詞a[an]の感覚（具体的カタチのイメージ）"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      a[an]は「1つの具体的なカタチがイメージできるもの」につける。
+      a salmon(丸ごと1匹) vs salmon(切り身等、カタチ不定)。
+      by train(単数無冠詞、交通手段一般) vs by a train(具体的な電車)。
+      目的語の〈a+名詞〉はoneに置き換え可能な場合に限る。
+      I like an apple.(△) → I like apples.(○) リンゴ全般が好きなら複数形。
+      I like a girl.(ある1人の女の子) vs I like girls.(女の子全般)。
+      プラスα: 特定できる電車なら by the train(定冠詞)。
+      別冊ポイント244(名詞の捉え方による冠詞の違い)・245(a/anがつく固有名詞)・248(無冠詞の用法)参照
+  - id: "nrh-002"
+    name: "定冠詞theの使い方（紐でくくる→区別→唯一）"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      theの3段階イメージ:
+      (1) 紐でくくる: the Himalayas(山々をまとめる), the Johnsons(一家), The Beatles
+      (2) 他のものと区別: catch her by the arm(他部位と区別)
+      (3) すべて→それだけ・唯一→みんなが同じものをイメージ: the earth, the sun, the moon
+      a shirt(不特定) → the shirt(前出の特定シャツ)。
+      the clock(部屋に唯一→みんな同じ時計をイメージ) vs a clock(複数のうちどれか1つ)。
+      三日月や満月はさまざまな形のうちの1つ→ a full moon。
+      [図表: イラスト — the Himalayas/the Johnsonsの紐でくくるイメージ（p.424）]
+      [図表: イラスト — 5人の少年から眼鏡の2人をくくる→すべて=唯一（p.425）]
+      [図表: イラスト — 部屋の時計 the clock vs a clock の対比（p.425-426）]
+      プラスα: ＊1→別p.89ポイント247(V+A+前+the身体), ＊2→Mars/Jupiter等は固有名詞でtheなし
+      別冊ポイント246(theをイメージごとに整理)・247(V+A+前置詞+the身体の部分)参照
+  - id: "nrh-003"
+    name: "可算名詞と不可算名詞の見極め方"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      不可算名詞の3パターン:
+      (1) 一部分を取り出しても基本的性質が変わらない: chalk, bread, paper, water, sugar
+      (2) 個々の具体的名詞をひっくるめる: furniture(家具類), baggage(手荷物)
+      (3) 目に見えず具体的カタチが描けない: progress, information
+      ペンは折ると機能喪失→可算。paper(紙)は不可算、paper(論文)は可算。
+      可算/不可算で意味が変わる名詞: work(仕事/不可算)→a work(作品/可算)。
+      仕事の結果生み出されたもの→可算に変化。
+      [図表: 図解 — chalkを折っても書ける/breadを切ってもパン（p.427）]
+      [図表: 図解 — furniture(家具類をひとまとめ)/baggage(手荷物をひとまとめ)（p.427-428）]
+      [図表: 図解 — work(仕事)→works(作品)の意味変化（p.428-429）]
+      プラスα: 具体的な仕事の種類はjob(可算)。
+      別冊ポイント249(不可算名詞リスト)・251(可算・不可算両用名詞)参照
+  - id: "nrh-004"
+    name: "「お客」の名詞の使い分け"
+    category: "nrh"
+    priority: "P2"
+    notes: |
+      場面ごとの「客」の使い分け:
+      customer(店の客/最も一般的), consumer(消費者), shopper(買物客)。
+      visitor(訪問客) vs guest(招待客/宿泊客)。
+      audience(聴衆/コンサート・劇場), spectator(観戦客/スポーツ), viewer(視聴者/TV)。
+      client(知識・技術を求める依頼人/弁護士等), patient(患者), passenger(乗客)。
+      プラスα: clientはwelfare client(福祉サービス利用者)の用法もある。
+      別冊ポイント267(さまざまな「客」)参照
+  - id: "nrh-005"
+    name: "「料金」の名詞の使い分け"
+    category: "nrh"
+    priority: "P2"
+    notes: |
+      場面ごとの「料金」の使い分け:
+      price(個々の商品の値段) vs prices(物価)。
+      charge(サービスに対する料金/電気・ガス等の公共料金)。
+      fee(入会金等の費用全般/医者・弁護士への謝礼・報酬)。
+      fare(電車・バス等の運賃), toll(道路・橋の通行料)。
+      rent(家賃), fine/penalty(罰金)。
+      プラスα: fineの"fin"=「終わり」。犯した罪を終わりにしてくれるもの→罰金。
+      別冊ポイント266(さまざまな「料金、お金」)参照
+  - id: "nrh-006"
+    name: "意味の紛らわしい名詞（単複変化・約束・習慣）"
+    category: "nrh"
+    priority: "P2"
+    notes: |
+      単複で意味が変わる名詞:
+      manner(方法) vs manners(礼儀・行儀)。日本語の「マナー」=manners。
+      air(空気) → airs(気取った態度)。arm(腕) → arms(武器)。
+      「約束」の使い分け:
+      promise(約束全般/「見込み」の意味も。promising=前途有望な)。
+      appointment(人と会う約束/診察の予約)。reservation(座席・ホテルの予約)。
+      「習慣」の使い分け:
+      habit(個人的習慣/癖) vs custom(社会的習慣/風習)。customs(税関/関税)。
+      mind=思考をつかさどる「アタマ」(精神・こころ・頭脳・気質)。
+      別冊ポイント257(複数形で意味変化する名詞)・258(意味が紛らわしい名詞)参照
+  - id: "nrh-007"
+    name: "注意すべき名詞の使い方（単複同形・相互複数・集合名詞）"
+    category: "nrh"
+    priority: "P2"
+    notes: |
+      -sで終わるのに単数もある: means(手段), species(種)は単複同形。
+      学問名: mathematics, physics, statisticsは-sでも単数扱い。
+      chance(可能性) vs opportunity(好機/チャンス)。chance≠日本語の「チャンス」。
+      相互複数: 最低2者が必要→常に複数形。
+      make friends(友達になる), change trains(乗り換え), shake hands(握手)。
+      見た目単数でも複数扱い: police(中に警察官が複数), cattle(牧場の牛)。
+      (✕) The police is ... → The police are ...(○)
+      別冊ポイント271(-sだが単数扱い)・253(相互複数)・270(複数扱い集合名詞)参照
+  - id: "nrh-008"
+    name: "one, it, thatの用法（代名詞の使い分け）"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      one: 前出名詞と同種・同類を受ける。可算名詞のみ。前後から修飾可能。
+      it: 前出名詞そのものを受ける。可算・不可算の両方OK。修飾不可。
+      that: 後ろからのみ修飾可能。可算・不可算の両方OK。
+      (✕) one of France → that of France。one of~は「~のうちの1つ」と解釈されるため。
+      代名詞(he, she, they等)に修飾語はかけられない。(✕) beautiful she
+      oneとthatだけが例外的に修飾可能。
+      プラスα: ones(複数形), those(複数形)でも同じルールが適用。
+  - id: "nrh-009"
+    name: "代名詞の相関的用法: the other / the others"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      「残りすべて」→ theがつく:
+      2者のうちone引くと残り1つ → the other。
+      複数のうちsome引くと残りすべて → the others。
+      引き算して「残りが確実に特定できる」からtheがつく。
+      otherは単独使用不可。(✕) Show me other.
+      the other, other people, each other, others(=other people)の形で使う。
+      each other = 代名詞(副詞ではない)。目的語として機能できる。
+      [図表: イラスト — トランプ2枚でone→the otherの関係を図示（p.443）]
+      [図表: イラスト — トランプ7枚でsome→the othersの関係を図示（p.443）]
+  - id: "nrh-010"
+    name: "代名詞の相関的用法: another / others"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      「残りの一部」→ theはつかない:
+      複数のうちone引いて残りの一部(1つ) → another(=an+other)。不確定だからa。
+      複数のうち引いて残りの一部(複数) → others。まだ余っている。
+      one thing ... another = 別物(雲泥の差がある)。
+      プラスα: someは実数をぼかしたい場合に使う。10人程度→「何人か」、100人→「〜なものもある」。
+      [図表: イラスト — Tシャツ選びでanother/othersの関係を図示（p.445-446）]
+  - id: "nrh-011"
+    name: "2者に対して使う代名詞（both, either, neither）"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      both: 2者のうち両方。both A and B(AもBも両方)。both hands(両手)。
+      either: 2者のうちどちらか一方。either A or B(AかBのどちらか)。
+      either side(両側, 単数名詞) = both sides(複数名詞)。sideなど対になる語では「両方」の意味も。
+      neither: 2者のうちゼロ。neither A nor B(AもBもどちらも〜ない)。
+      neither = not + either(nはnotのn)。
+      プラスα: both A and B等のboth/either/neitherは代名詞ではなく副詞。
+  - id: "nrh-012"
+    name: "3者以上に対して使う代名詞（all, any, none, some）"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      all: 3者以上のすべて。all of~が一般的。
+      none: allの反対。no(形容詞/名詞を伴う) vs none(代名詞/単独使用可)。
+      any: どれでもOK(3者以上版のeither)。
+      some: ぼかし。all(全部)でもnone(ゼロ)でもない中間。
+      2者/3者以上の対応表: both↔all(すべて), either↔any(どれでも), neither↔none(ゼロ)。
+  - id: "nrh-013"
+    name: "it, this, thatの違い（代名詞vs指示語）"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      it: 受け専門の代名詞(消極的)。話し手と聞き手で共有する情報を受ける。
+      this: 近い対象を「これ」と直接指す(指示語)。
+      that: 遠い対象を「それ/あれ」と積極的に指す(指示語)。
+      itの用法: 前出を受ける / 形式主語(It is true that...) / 非人称(It's cold.) / Who is it?
+      thatの力強さ: To be or not to be, that is the question.(ハムレット)
+      this time(今回/近い) vs that time(あのころ/遠い)。
+      別冊ポイント287(再帰代名詞の強調用法)・288(再帰代名詞を用いた定型表現)参照
+
+understanding_goals:
+  - node_id: "nrh-001"
+    seq: 1
+    goal: "a[an]が「1つの具体的なカタチがイメージできるもの」につく感覚を説明できる"
+  - node_id: "nrh-001"
+    seq: 2
+    goal: "by train(無冠詞)とby a train(冠詞あり)の違いを理解している"
+  - node_id: "nrh-001"
+    seq: 3
+    goal: "目的語のa+名詞と複数形の使い分けができる"
+  - node_id: "nrh-002"
+    seq: 1
+    goal: "theの3段階イメージ（紐でくくる→区別→唯一）を説明できる"
+  - node_id: "nrh-002"
+    seq: 2
+    goal: "the Himalayas, the Johnsons等にtheがつく理由を説明できる"
+  - node_id: "nrh-002"
+    seq: 3
+    goal: "the clock vs a clockのような文脈による冠詞の選択ができる"
+  - node_id: "nrh-003"
+    seq: 1
+    goal: "不可算名詞の3パターン（性質不変/ひっくるめ/カタチなし）を説明できる"
+  - node_id: "nrh-003"
+    seq: 2
+    goal: "chalk, paper, furniture等が不可算である理由を説明できる"
+  - node_id: "nrh-003"
+    seq: 3
+    goal: "可算/不可算で意味が変わる名詞(work等)を使い分けられる"
+  - node_id: "nrh-004"
+    seq: 1
+    goal: "場面に応じた「客」の名詞を正しく選択できる"
+  - node_id: "nrh-004"
+    seq: 2
+    goal: "visitor/guest, audience/spectator/viewerの違いを説明できる"
+  - node_id: "nrh-004"
+    seq: 3
+    goal: "client/customer/passengerの使い分けを理解している"
+  - node_id: "nrh-005"
+    seq: 1
+    goal: "場面に応じた「料金」の名詞を正しく選択できる"
+  - node_id: "nrh-005"
+    seq: 2
+    goal: "price/charge/fee/fare/tollの違いを説明できる"
+  - node_id: "nrh-005"
+    seq: 3
+    goal: "rent/fine/penaltyの意味を正しく理解している"
+  - node_id: "nrh-006"
+    seq: 1
+    goal: "manner/manners, air/airs等の単複による意味変化を理解している"
+  - node_id: "nrh-006"
+    seq: 2
+    goal: "promise/appointment/reservationの使い分けができる"
+  - node_id: "nrh-006"
+    seq: 3
+    goal: "habit/custom/customsの意味の違いを説明できる"
+  - node_id: "nrh-007"
+    seq: 1
+    goal: "means/speciesが単複同形であることを知っている"
+  - node_id: "nrh-007"
+    seq: 2
+    goal: "相互複数(make friends, change trains等)の仕組みを説明できる"
+  - node_id: "nrh-007"
+    seq: 3
+    goal: "police/cattleが複数扱いになる理由を理解している"
+  - node_id: "nrh-008"
+    seq: 1
+    goal: "one/it/thatの3つの代名詞の違いを説明できる"
+  - node_id: "nrh-008"
+    seq: 2
+    goal: "oneは可算のみ、thatは後ろからのみ修飾可能という制約を理解している"
+  - node_id: "nrh-008"
+    seq: 3
+    goal: "(✕) one of Franceがなぜ不可かを説明できる"
+  - node_id: "nrh-009"
+    seq: 1
+    goal: "the other / the othersが「残りすべて」を意味することを理解している"
+  - node_id: "nrh-009"
+    seq: 2
+    goal: "2者でone→the other、複数でsome→the othersのパターンを使える"
+  - node_id: "nrh-009"
+    seq: 3
+    goal: "otherが単独使用不可であることを知っている"
+  - node_id: "nrh-010"
+    seq: 1
+    goal: "another / othersが「残りの一部」を意味することを理解している"
+  - node_id: "nrh-010"
+    seq: 2
+    goal: "the other(s)とanother/othersをtheの有無で使い分けられる"
+  - node_id: "nrh-010"
+    seq: 3
+    goal: "one thing ... anotherで「別物」を表す表現を使える"
+  - node_id: "nrh-011"
+    seq: 1
+    goal: "both/either/neitherの意味と使い方の違いを説明できる"
+  - node_id: "nrh-011"
+    seq: 2
+    goal: "both A and B / either A or B / neither A nor Bの形を正しく使える"
+  - node_id: "nrh-011"
+    seq: 3
+    goal: "either sideとboth sidesの違いを理解している"
+  - node_id: "nrh-012"
+    seq: 1
+    goal: "all/any/none/someの意味と使い方を説明できる"
+  - node_id: "nrh-012"
+    seq: 2
+    goal: "2者(both/either/neither)と3者以上(all/any/none)の対応を理解している"
+  - node_id: "nrh-012"
+    seq: 3
+    goal: "no(形容詞)とnone(代名詞)の違いを理解している"
+  - node_id: "nrh-013"
+    seq: 1
+    goal: "it(代名詞/受け専門)とthis/that(指示語/直接指す)の違いを説明できる"
+  - node_id: "nrh-013"
+    seq: 2
+    goal: "itの各用法（前出受け/形式主語/非人称/Who is it?）を理解している"
+  - node_id: "nrh-013"
+    seq: 3
+    goal: "this time(今回)とthat time(あのころ)の近い/遠いの感覚を理解している"
+
+check_points:
+  - node_id: "nrh-001"
+    seq: 1
+    question: "a salmonとsalmonの違いは？"
+    answer: "a salmon=丸ごと1匹の具体的なカタチ。salmon=切り身等カタチ不定"
+  - node_id: "nrh-001"
+    seq: 2
+    question: "by trainとby a trainの違いは？"
+    answer: "by train=交通手段一般(具体的電車をイメージせず)。by a train=具体的な電車(例:ひかれた電車)"
+  - node_id: "nrh-001"
+    seq: 3
+    question: "I like an apple.はなぜ不適切か？"
+    answer: "a+名詞の目的語はoneに置換可能な場合に限る。リンゴ1個だけ好きはありえない。I like apples."
+  - node_id: "nrh-002"
+    seq: 1
+    question: "the Himalayas, the Johnsons, The Beatlesになぜtheがつく？"
+    answer: "複数のものを紐でくくって1つにまとめるイメージ。山々→山脈、家族→一家"
+  - node_id: "nrh-002"
+    seq: 2
+    question: "the clockとa clockの違いは？"
+    answer: "the clock=部屋に唯一の時計(みんな同じものをイメージ)。a clock=複数あるうちの不特定の1つ"
+  - node_id: "nrh-002"
+    seq: 3
+    question: "the moonとa full moonでなぜ冠詞が違う？"
+    answer: "the moon=太陽系に唯一の月。a full moon=月が見せるさまざまな形のうちの1つ"
+  - node_id: "nrh-003"
+    seq: 1
+    question: "chalk(チョーク)やbread(パン)が不可算名詞である理由は？"
+    answer: "一部分を取り出しても基本的性質は変わらない(折っても書ける/切ってもパン)"
+  - node_id: "nrh-003"
+    seq: 2
+    question: "furniture, baggageが不可算名詞である理由は？"
+    answer: "個々の家具/手荷物をひっくるめる総称語だから"
+  - node_id: "nrh-003"
+    seq: 3
+    question: "work(仕事)が不可算で、a work(作品)が可算になるのはなぜ？"
+    answer: "仕事は行為全般で不可算。結果として生み出された作品は具体的カタチがあるので可算"
+  - node_id: "nrh-004"
+    seq: 1
+    question: "店の客、招待客、訪問客をそれぞれ英語で？"
+    answer: "customer(店の客)、guest(招待客/宿泊客)、visitor(訪問客)"
+  - node_id: "nrh-004"
+    seq: 2
+    question: "audience, spectator, viewerの違いは？"
+    answer: "audience(コンサート・劇場の聴衆)、spectator(スポーツの観戦客)、viewer(TV視聴者)"
+  - node_id: "nrh-004"
+    seq: 3
+    question: "知識・技術を求めてくる客(弁護士の依頼人等)は？"
+    answer: "client"
+  - node_id: "nrh-005"
+    seq: 1
+    question: "priceとpricesの違いは？"
+    answer: "price=個々の商品の値段・価格。prices=物価"
+  - node_id: "nrh-005"
+    seq: 2
+    question: "charge, fee, fareの使い分けは？"
+    answer: "charge=サービス料金/公共料金。fee=入会金等/専門職への報酬。fare=乗り物の運賃"
+  - node_id: "nrh-005"
+    seq: 3
+    question: "toll, rent, fine/penaltyの意味は？"
+    answer: "toll=通行料。rent=家賃。fine/penalty=罰金"
+  - node_id: "nrh-006"
+    seq: 1
+    question: "mannerとmannersの意味の違いは？"
+    answer: "manner=方法・やり方。manners=礼儀・行儀(日本語の「マナー」)"
+  - node_id: "nrh-006"
+    seq: 2
+    question: "promise, appointment, reservationの使い分けは？"
+    answer: "promise=約束全般。appointment=人と会う約束。reservation=座席・ホテル等の予約"
+  - node_id: "nrh-006"
+    seq: 3
+    question: "habitとcustom(s)の違いは？"
+    answer: "habit=個人的習慣・癖。custom=社会的習慣・風習。customs=税関・関税"
+  - node_id: "nrh-007"
+    seq: 1
+    question: "means(手段)やspecies(種)の複数形は？"
+    answer: "単複同形。a meansでもtwo meansでも同じ形"
+  - node_id: "nrh-007"
+    seq: 2
+    question: "make friends, change trainsはなぜ複数形？"
+    answer: "相互複数。友達関係は最低2人、乗り換えは最低2種類の電車が必要だから"
+  - node_id: "nrh-007"
+    seq: 3
+    question: "The police (is / are) ...？"
+    answer: "are。policeは中に複数の警察官がいるイメージ→複数扱い"
+  - node_id: "nrh-008"
+    seq: 1
+    question: "one, it, thatの修飾可否の違いは？"
+    answer: "one=前後から修飾可。it=修飾不可。that=後ろからのみ修飾可"
+  - node_id: "nrh-008"
+    seq: 2
+    question: "one of FranceではなくthatOfFranceを使う理由は？"
+    answer: "one of ~は「~のうちの1つ」(数詞)と解釈されるため"
+  - node_id: "nrh-008"
+    seq: 3
+    question: "oneが受けられない名詞の種類は？"
+    answer: "不可算名詞。oneはone, two, threeのoneだから数えられる名詞のみ"
+  - node_id: "nrh-009"
+    seq: 1
+    question: "the otherとthe othersの使い分けは？"
+    answer: "the other=残りが1つ(2者のうちone引く)。the others=残りが複数(全体からsome引く)"
+  - node_id: "nrh-009"
+    seq: 2
+    question: "なぜthe other/the othersにtheがつく？"
+    answer: "引き算して残りすべてが確実に特定できるから"
+  - node_id: "nrh-009"
+    seq: 3
+    question: "(✕) Show me other.がなぜ不可？"
+    answer: "otherは単独使用不可。the other/others/another等の形で使う"
+  - node_id: "nrh-010"
+    seq: 1
+    question: "anotherとthe otherの違いは？"
+    answer: "another=残りの一部(不確定/theなし)。the other=残りすべて(特定/theあり)"
+  - node_id: "nrh-010"
+    seq: 2
+    question: "othersとthe othersの違いは？"
+    answer: "others=残りの一部(まだ余っている)。the others=残りすべて(全部引き取る)"
+  - node_id: "nrh-010"
+    seq: 3
+    question: "one thing ... anotherの意味は？"
+    answer: "「〜と…は別物だ(雲泥の差がある)」"
+  - node_id: "nrh-011"
+    seq: 1
+    question: "both A and B / either A or B / neither A nor Bの意味は？"
+    answer: "both...and=AもBも両方。either...or=AかBのどちらか。neither...nor=AもBもどちらも〜ない"
+  - node_id: "nrh-011"
+    seq: 2
+    question: "either sideとboth sidesの違いは？"
+    answer: "同じ「両側」の意味だが、either side(単数名詞)、both sides(複数名詞)"
+  - node_id: "nrh-011"
+    seq: 3
+    question: "neither = ?+?を分解すると？"
+    answer: "not + either。neitherのnはnotのn"
+  - node_id: "nrh-012"
+    seq: 1
+    question: "2者と3者以上の対応表（すべて/どれでも/ゼロ）は？"
+    answer: "2者: both/either/neither。3者以上: all/any/none"
+  - node_id: "nrh-012"
+    seq: 2
+    question: "no(形容詞)とnone(代名詞)の使い方の違いは？"
+    answer: "no=後ろに名詞を伴う(No music)。none=単独使用可/none of~の形(代名詞)"
+  - node_id: "nrh-012"
+    seq: 3
+    question: "someはどんな場面で使う？"
+    answer: "allでもnoneでもない、あいまいにぼかしたい場面。人数が多いと「〜なものもある」の意味に"
+  - node_id: "nrh-013"
+    seq: 1
+    question: "itとthatの根本的な違いは？"
+    answer: "it=受け専門の代名詞(消極的)。that=直接指し示す指示語(積極的)"
+  - node_id: "nrh-013"
+    seq: 2
+    question: "Who is it?でなぜitを使う？"
+    answer: "誰かわからない相手を直接指す(this/that)のは不自然。消極的なitで漠然と受ける"
+  - node_id: "nrh-013"
+    seq: 3
+    question: "this timeとthat timeの違いは？"
+    answer: "this time=今回(近い感覚)。that time=あのころ(遠い感覚)"
+
+node_prerequisites:
+  - node_id: "nrh-010"
+    prerequisite_id: "nrh-009"
+  - node_id: "nrh-012"
+    prerequisite_id: "nrh-011"
+
+knowledge_references:
+  - node_id: "nrh-001"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_11_01"
+    pages: "p.422-423"
+  - node_id: "nrh-002"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_11_02"
+    pages: "p.424-426"
+  - node_id: "nrh-003"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_11_03"
+    pages: "p.427-429"
+  - node_id: "nrh-004"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_11_04"
+    pages: "p.430-431"
+  - node_id: "nrh-005"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_11_05"
+    pages: "p.432-433"
+  - node_id: "nrh-006"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_11_06"
+    pages: "p.434-436"
+  - node_id: "nrh-007"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_11_07"
+    pages: "p.437-438"
+  - node_id: "nrh-008"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_12_01"
+    pages: "p.440-442"
+  - node_id: "nrh-009"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_12_02"
+    pages: "p.443-444"
+  - node_id: "nrh-010"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_12_03"
+    pages: "p.445-446"
+  - node_id: "nrh-011"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_12_04"
+    pages: "p.447-448"
+  - node_id: "nrh-012"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_12_05"
+    pages: "p.449-450"
+  - node_id: "nrh-013"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_12_06"
+    pages: "p.451-454"

@@ -1,0 +1,71 @@
+# Nar_11_01: 不定冠詞a[an]の使い方 (p.422-423)
+
+sentences:
+  - id: "nar-1101-e699"
+    section_id: "Nar_11_01"
+    drill: 0
+    number: 699
+    role: "example"
+    english: "She ate a salmon last night."
+    japanese: "彼女は昨夜サケを食べた"
+    notes: "a salmon=丸ごと1匹のサケ。具体的なカタチがイメージできる"
+  - id: "nar-1101-e700"
+    section_id: "Nar_11_01"
+    drill: 0
+    number: 700
+    role: "example"
+    english: "She ate salmon last night."
+    japanese: "彼女は昨夜サケを食べた"
+    notes: "salmon(無冠詞)=切り身等のサケ。具体的なカタチが不定"
+  - id: "nar-1101-e701"
+    section_id: "Nar_11_01"
+    drill: 0
+    number: 701
+    role: "example"
+    english: "I go to school by train."
+    japanese: "私は電車通学だ"
+    notes: "by train=単数無冠詞。交通手段一般を表し具体的な電車をイメージしていない"
+  - id: "nar-1101-e702"
+    section_id: "Nar_11_01"
+    drill: 0
+    number: 702
+    role: "example"
+    english: "He was run over by a train."
+    japanese: "彼は電車にひかれた"
+    notes: "by a train=具体的な電車がイメージされている（彼をひいた電車）"
+
+sentence_structures:
+  - sentence_id: "nar-1101-e699"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-1101-e699"
+    label: "details"
+    value: "<She>(S) ate(V) <a salmon>(O:a+具体的カタチ) [last night](M)"
+  - sentence_id: "nar-1101-e700"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-1101-e700"
+    label: "details"
+    value: "<She>(S) ate(V) <salmon>(O:無冠詞/カタチ不定) [last night](M)"
+  - sentence_id: "nar-1101-e701"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "nar-1101-e701"
+    label: "details"
+    value: "<I>(S) go(V) [to school](M) [by train](M:単数無冠詞/交通手段)"
+  - sentence_id: "nar-1101-e702"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-1101-e702"
+    label: "details"
+    value: "<He>(S) was run over(V:受動態) [by a train](M:a+具体的電車)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1101-e699"
+    node_id: "nrh-001"
+  - sentence_id: "nar-1101-e700"
+    node_id: "nrh-001"
+  - sentence_id: "nar-1101-e701"
+    node_id: "nrh-001"
+  - sentence_id: "nar-1101-e702"
+    node_id: "nrh-001"

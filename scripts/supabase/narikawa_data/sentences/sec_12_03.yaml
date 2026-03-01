@@ -1,0 +1,55 @@
+# Nar_12_03: 代名詞の相関的用法 — anotherとothers (p.445-446)
+
+sentences:
+  - id: "nar-1203-e736"
+    section_id: "Nar_12_03"
+    drill: 0
+    number: 736
+    role: "example"
+    english: "This T-shirt doesn't suit me. Please show me another."
+    japanese: "このTシャツは私に似合わない。他のTシャツを見せてください"
+    notes: "another=an+other。不特定の別の1つ。どれを選ぶかわからない→theなし"
+  - id: "nar-1203-e737"
+    section_id: "Nar_12_03"
+    drill: 0
+    number: 737
+    role: "example"
+    english: "To say is one thing, and to do is another."
+    japanese: "言うのと行動するのは別物だ"
+    notes: "one thing...another=別物である（雲泥の差がある）。重要表現"
+  - id: "nar-1203-e738"
+    section_id: "Nar_12_03"
+    drill: 0
+    number: 738
+    role: "example"
+    english: "This T-shirt is small. Can you show me some others?"
+    japanese: "このTシャツは小さい。他のをいくつか見せてくれますか"
+    notes: "others=不特定の複数。残りすべてではない→theなし。a/anもつけられない（複数）"
+
+sentence_structures:
+  - sentence_id: "nar-1203-e736"
+    label: "overall"
+    value: "S V O / V O O"
+  - sentence_id: "nar-1203-e736"
+    label: "details"
+    value: "<This T-shirt>(S) doesn't suit(V) <me>(O). Please show(V:命令文) <me>(O) <another>(O:不特定の別の1つ)"
+  - sentence_id: "nar-1203-e737"
+    label: "overall"
+    value: "S V C, S V C"
+  - sentence_id: "nar-1203-e737"
+    label: "details"
+    value: "<To say>(S:不定詞) is(V) <one thing>(C), and <to do>(S:不定詞) is(V) <another>(C:別物)"
+  - sentence_id: "nar-1203-e738"
+    label: "overall"
+    value: "S V C / V S V O O"
+  - sentence_id: "nar-1203-e738"
+    label: "details"
+    value: "<This T-shirt>(S) is(V) <small>(C). Can(V) <you>(S) show(V) <me>(O) <some others>(O:不特定の複数)?"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1203-e736"
+    node_id: "nrh-010"
+  - sentence_id: "nar-1203-e737"
+    node_id: "nrh-010"
+  - sentence_id: "nar-1203-e738"
+    node_id: "nrh-010"

@@ -1348,10 +1348,142 @@ sections:
     reviewed_at: "2026-03-03"
     notes: ""
 
+  # B-13: Part 11 冠詞・名詞 + Part 12 代名詞
+  Nar_11_01:
+    title: "不定冠詞a[an]の使い方"
+    type: "concept"
+    pages: "p.422-423"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_11_02:
+    title: "定冠詞theの使い方"
+    type: "concept"
+    pages: "p.424-426"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_11_03:
+    title: "可算名詞 or 不可算名詞"
+    type: "concept"
+    pages: "p.427-429"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 0
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: "原本に番号付き例文なし（概念説明のみ）"
+  Nar_11_04:
+    title: "「お客」の意味を表すさまざまな名詞"
+    type: "pattern"
+    pages: "p.430-431"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_11_05:
+    title: "「料金」の意味を表すさまざまな名詞"
+    type: "pattern"
+    pages: "p.432-433"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_11_06:
+    title: "意味の紛らわしい名詞"
+    type: "pattern"
+    pages: "p.434-436"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_11_07:
+    title: "注意すべき名詞の使い方"
+    type: "pattern"
+    pages: "p.437-438"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 0
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: "原本に番号付き例文なし（概念説明のみ）"
+  Nar_12_01:
+    title: "one, it, thatの用法"
+    type: "concept"
+    pages: "p.440-442"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_12_02:
+    title: "代名詞の相関的用法 — the otherとthe others"
+    type: "concept"
+    pages: "p.443-444"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_12_03:
+    title: "代名詞の相関的用法 — anotherとothers"
+    type: "concept"
+    pages: "p.445-446"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_12_04:
+    title: "2者に対して使う代名詞 — both, either, neither"
+    type: "concept"
+    pages: "p.447-448"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_12_05:
+    title: "3者以上に対して使う代名詞 — all, any, noneなど"
+    type: "concept"
+    pages: "p.449-450"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_12_06:
+    title: "itとthat, thisとthatはどう違う？"
+    type: "concept"
+    pages: "p.451-454"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+
 summary:
   total_sections: 162
-  completed: 132
+  completed: 145
   in_progress: 0
-  not_started: 30
-  total_knowledge_nodes: 132
-  total_sentences: 758
+  not_started: 17
+  total_knowledge_nodes: 145
+  total_sentences: 812

@@ -1,0 +1,87 @@
+# Nar_12_04: 2者に対して使う代名詞 — both, either, neither (p.446-448)
+
+sentences:
+  - id: "nar-1204-e739"
+    section_id: "Nar_12_04"
+    drill: 0
+    number: 739
+    role: "example"
+    english: "Akihito and Haruichi are from Hiroshima. Both of them play the guitar very well."
+    japanese: "アキヒトとハルイチは広島出身だ。2人ともギターがとても上手である"
+    notes: "both of~=2者のうち両方"
+  - id: "nar-1204-e740"
+    section_id: "Nar_12_04"
+    drill: 0
+    number: 740
+    role: "example"
+    english: "Both Akihito and Haruichi play the guitar very well."
+    japanese: "アキヒトとハルイチのどちらもギターがとても上手である"
+    notes: "both A and B=AもBも両方。この用法のbothは副詞"
+  - id: "nar-1204-e741"
+    section_id: "Nar_12_04"
+    drill: 0
+    number: 741
+    role: "example"
+    english: "You can do it both ways."
+    japanese: "それには2つのやり方がある"
+    notes: "both=形容詞用法（both hands=両手など）"
+  - id: "nar-1204-e742"
+    section_id: "Nar_12_04"
+    drill: 0
+    number: 742
+    role: "example"
+    english: "I think he is either a baseball player or a soccer player."
+    japanese: "彼は野球選手かサッカー選手のどちらかだと思う"
+    notes: "either A or B=AかBのどちらか一方。形容詞用法ではeither side=両側（単数名詞）⇔both sides（複数名詞）"
+  - id: "nar-1204-e743"
+    section_id: "Nar_12_04"
+    drill: 0
+    number: 743
+    role: "example"
+    english: "The suspect neither admits nor denies that he told a lie."
+    japanese: "その容疑者はうそをついたことを認めてもないし、否定もしてない"
+    notes: "neither A nor B=AもBもどちらも〜ない。neither=not+either"
+
+sentence_structures:
+  - sentence_id: "nar-1204-e739"
+    label: "overall"
+    value: "S V M / S V O M"
+  - sentence_id: "nar-1204-e739"
+    label: "details"
+    value: "<Akihito and Haruichi>(S) are(V) [from Hiroshima](M). <Both of them>(S:both) play(V) <the guitar>(O) [very well](M)"
+  - sentence_id: "nar-1204-e740"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-1204-e740"
+    label: "details"
+    value: "<Both Akihito and Haruichi>(S:both A and B) play(V) <the guitar>(O) [very well](M)"
+  - sentence_id: "nar-1204-e741"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-1204-e741"
+    label: "details"
+    value: "<You>(S) can do(V) <it>(O) [both ways](M:both+名詞)"
+  - sentence_id: "nar-1204-e742"
+    label: "overall"
+    value: "S V S V C"
+  - sentence_id: "nar-1204-e742"
+    label: "details"
+    value: "<I>(S) think(V) <he>(S) is(V) <either a baseball player or a soccer player>(C:either A or B)"
+  - sentence_id: "nar-1204-e743"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-1204-e743"
+    label: "details"
+    value: "<The suspect>(S) neither admits nor denies(V:neither A nor B) <that he told a lie>(O:that節)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1204-e739"
+    node_id: "nrh-011"
+  - sentence_id: "nar-1204-e740"
+    node_id: "nrh-011"
+  - sentence_id: "nar-1204-e741"
+    node_id: "nrh-011"
+  - sentence_id: "nar-1204-e742"
+    node_id: "nrh-011"
+  - sentence_id: "nar-1204-e743"
+    node_id: "nrh-011"

@@ -1,0 +1,87 @@
+# Nar_12_02: 代名詞の相関的用法 — the otherとthe others (p.442-444)
+
+sentences:
+  - id: "nar-1202-e731"
+    section_id: "Nar_12_02"
+    drill: 0
+    number: 731
+    role: "example"
+    english: "\"There are two cards: an ACE and a JOKER.\" \"I can't tell one from the other.\""
+    japanese: "「ここにエースとジョーカーの2枚のカードがあります」「私には2枚を区別できないわ」"
+    notes: "one...the other=2者のうち一方...他方。2-1=1で残りが確定→the"
+  - id: "nar-1202-e732"
+    section_id: "Nar_12_02"
+    drill: 0
+    number: 732
+    role: "example"
+    english: "There are seven cards; I drew two cards, so the others are still on the table."
+    japanese: "7枚のカードがある。私が2枚引いたので、残りはまだテーブルにある"
+    notes: "the others=残りすべて（複数）。7-2=5で残り特定→the + 複数→others"
+  - id: "nar-1202-e733"
+    section_id: "Nar_12_02"
+    drill: 0
+    number: 733
+    role: "example"
+    english: "I have three daughters; one lives in Tokyo and the others live in Osaka."
+    japanese: "私には3人の娘がいて、1人は東京に住んでいて、あとは大阪に住んでいる"
+    notes: "one...the others=1つを引いた残り全部。3-1=2で残り特定→the others"
+  - id: "nar-1202-e734"
+    section_id: "Nar_12_02"
+    drill: 0
+    number: 734
+    role: "example"
+    english: "I don't like this car. Show me another."
+    japanese: "この車は気に入らない。別のを見せてくれ"
+    notes: "another=単独使用可。(✕) Show me other.は不可。otherは単独使用不可（the other, other people, each other等と組み合わせる）"
+  - id: "nar-1202-e735"
+    section_id: "Nar_12_02"
+    drill: 0
+    number: 735
+    role: "example"
+    english: "We have known each other for ten years."
+    japanese: "私たちは10年来の知り合いだ"
+    notes: "each other(=one another)=お互い。代名詞であり副詞ではない→他動詞の目的語として機能可能"
+
+sentence_structures:
+  - sentence_id: "nar-1202-e731"
+    label: "overall"
+    value: "There V S / S V O M"
+  - sentence_id: "nar-1202-e731"
+    label: "details"
+    value: "There are(V) <two cards>(S) / <I>(S) can't tell(V) <one>(O) [from the other](M:2者の他方)"
+  - sentence_id: "nar-1202-e732"
+    label: "overall"
+    value: "There V S; S V O, S V M"
+  - sentence_id: "nar-1202-e732"
+    label: "details"
+    value: "There are(V) <seven cards>(S); <I>(S) drew(V) <two cards>(O), so <the others>(S:残り全部) are still(V) [on the table](M)"
+  - sentence_id: "nar-1202-e733"
+    label: "overall"
+    value: "S V O; S V M S V M"
+  - sentence_id: "nar-1202-e733"
+    label: "details"
+    value: "<I>(S) have(V) <three daughters>(O); <one>(S) lives(V) [in Tokyo](M) and <the others>(S:残り全部) live(V) [in Osaka](M)"
+  - sentence_id: "nar-1202-e734"
+    label: "overall"
+    value: "S V O / V O O"
+  - sentence_id: "nar-1202-e734"
+    label: "details"
+    value: "<I>(S) don't like(V) <this car>(O). Show(V:命令文) <me>(O) <another>(O:別の1つ)"
+  - sentence_id: "nar-1202-e735"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-1202-e735"
+    label: "details"
+    value: "<We>(S) have known(V:現在完了) <each other>(O:代名詞) [for ten years](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1202-e731"
+    node_id: "nrh-009"
+  - sentence_id: "nar-1202-e732"
+    node_id: "nrh-009"
+  - sentence_id: "nar-1202-e733"
+    node_id: "nrh-009"
+  - sentence_id: "nar-1202-e734"
+    node_id: "nrh-009"
+  - sentence_id: "nar-1202-e735"
+    node_id: "nrh-009"

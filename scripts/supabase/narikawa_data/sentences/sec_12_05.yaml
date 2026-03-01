@@ -1,0 +1,71 @@
+# Nar_12_05: 3者以上に対して使う代名詞 — all, any, noneなど (p.448-450)
+
+sentences:
+  - id: "nar-1205-e744"
+    section_id: "Nar_12_05"
+    drill: 0
+    number: 744
+    role: "example"
+    english: "All of them are from Kanagawa."
+    japanese: "彼らのうちの全員が神奈川出身である"
+    notes: "all of~=3者以上の全部。all単独も可だがall of~が一般的"
+  - id: "nar-1205-e745"
+    section_id: "Nar_12_05"
+    drill: 0
+    number: 745
+    role: "example"
+    english: "Kiyoe looked for her friends at the party, but found none."
+    japanese: "キヨエはパーティーで友人を探したが、1人も見つからなかった"
+    notes: "none=allの反対（ゼロ）。none of~も可。no(形容詞)とnone(代名詞)を区別"
+  - id: "nar-1205-e746"
+    section_id: "Nar_12_05"
+    drill: 0
+    number: 746
+    role: "example"
+    english: "I wanted that comic book, but there were none left."
+    japanese: "私はその漫画が欲しかったが、1冊も残っていなかった"
+    notes: "none=単独使用。no(形容詞)はNo music, no life!のように名詞を伴う"
+  - id: "nar-1205-e747"
+    section_id: "Nar_12_05"
+    drill: 0
+    number: 747
+    role: "example"
+    english: "Choose any you like."
+    japanese: "どれでも好きなものを選びなさい"
+    notes: "any=3者以上でどれでもOK（⇔either=2者でどちらでも）"
+
+sentence_structures:
+  - sentence_id: "nar-1205-e744"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-1205-e744"
+    label: "details"
+    value: "<All of them>(S:all) are(V) [from Kanagawa](M)"
+  - sentence_id: "nar-1205-e745"
+    label: "overall"
+    value: "S V O M, S V O"
+  - sentence_id: "nar-1205-e745"
+    label: "details"
+    value: "<Kiyoe>(S) looked for(V) <her friends>(O) [at the party](M), but found(V) <none>(O:ゼロ)"
+  - sentence_id: "nar-1205-e746"
+    label: "overall"
+    value: "S V O, There V S"
+  - sentence_id: "nar-1205-e746"
+    label: "details"
+    value: "<I>(S) wanted(V) <that comic book>(O), but there were(V) <none left>(S:none=1冊もない)"
+  - sentence_id: "nar-1205-e747"
+    label: "overall"
+    value: "V O"
+  - sentence_id: "nar-1205-e747"
+    label: "details"
+    value: "Choose(V:命令文) <any you like>(O:any=どれでも)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1205-e744"
+    node_id: "nrh-012"
+  - sentence_id: "nar-1205-e745"
+    node_id: "nrh-012"
+  - sentence_id: "nar-1205-e746"
+    node_id: "nrh-012"
+  - sentence_id: "nar-1205-e747"
+    node_id: "nrh-012"

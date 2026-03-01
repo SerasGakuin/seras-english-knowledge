@@ -1,35 +1,35 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-03T19:00:00"
+updated_at: "2026-03-03T22:00:00"
 book: "成川の深めて解ける！英文法 INPUT"
 book_slug: "narikawa"
 
 current_state:
-  phase: "Phase 2 - B-13 開始"
-  current_section: "Nar_11_01"
-  current_step: "B-13 準備開始"
-  last_completed_section: "Nar_10_12"
+  phase: "Phase 2 - B-14 開始"
+  current_section: "Nar_13_01"
+  current_step: "B-14 準備開始"
+  last_completed_section: "Nar_12_06"
   last_completed_gate: 5
 
 progress:
   total_sections: 162
-  completed: 132
+  completed: 145
   in_progress: 0
-  remaining: 30
-  total_nodes: 132
-  total_sentences: 758
+  remaining: 17
+  total_nodes: 145
+  total_sentences: 812
 
 recent_decisions:
-  - "nrp-011〜020: B-11完了。10セクション・10ノード・英文74件。Gate3-4全PASS、minor指摘2件(e601の(a)省略・nrp-016のa man of courage未記載)は許容範囲"
-  - "nrp-021〜032: B-12完了。12セクション・12ノード・英文58件。全5ゲートPASS。別冊ポイント240(ラテン比較)はnrp-021のnotesに記録。nrp-031に[図表]2件追記"
+  - "nrh-001〜013: B-13完了。13セクション・13ノード・54英文。全5ゲートPASS。Nar_11_03/11_07は原本に番号付き例文なし"
+  - "nrp-021〜032: B-12完了。12セクション・12ノード・英文58件。全5ゲートPASS"
 
 active_concerns: []
 
 next_actions:
-  - "B-13 開始: Part 11+12 (Nar_11_01〜11_07, 12_01〜12_06, 13セクション)"
-  - "ch11.yaml を新規作成（nrh カテゴリ）"
-  - "構造化共通ワークフロー.md + 参考書別設計書_成川.md を全文再読込（Part境界）"
+  - "B-14 開始: Part 13+14+15 (Nar_13_01〜13_09, 14_01〜14_04, 15_01〜15_04, 17セクション)"
+  - "ch11.yamlにnrh-014〜追加"
+  - "Part境界: 指示書再読込"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

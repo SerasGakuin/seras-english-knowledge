@@ -1,0 +1,103 @@
+# Nar_12_01: one, it, thatの用法 (p.439-442)
+
+sentences:
+  - id: "nar-1201-e725"
+    section_id: "Nar_12_01"
+    drill: 0
+    number: 725
+    role: "example"
+    english: "I have lost my smartphone, and I have to buy one."
+    japanese: "私はスマートフォンをなくしたので買わなくてはいけない"
+    notes: "one=前出名詞と同種の別物。なくしたのとは別のスマートフォン"
+  - id: "nar-1201-e726"
+    section_id: "Nar_12_01"
+    drill: 0
+    number: 726
+    role: "example"
+    english: "I lost my smartphone, but my friend found it."
+    japanese: "私はスマートフォンをなくしたが、友達がそれを見つけた"
+    notes: "it=前出と全く同じもの（なくしたスマートフォンそのもの）"
+  - id: "nar-1201-e727"
+    section_id: "Nar_12_01"
+    drill: 0
+    number: 727
+    role: "example"
+    english: "Could I have a smaller one, please?"
+    japanese: "もっと小さいのをいただけますか"
+    notes: "one=前から修飾可能（a smaller one）。代名詞は通常修飾不可だがoneは例外"
+  - id: "nar-1201-e728"
+    section_id: "Nar_12_01"
+    drill: 0
+    number: 728
+    role: "example"
+    english: "\"Which bag is yours?\" \"The one with a zipper.\""
+    japanese: "「どっちが君のかばん？」「チャックがついている方だよ」"
+    notes: "one=後ろから修飾可能（the one with~）。ただしone of~は不可（数詞と解釈される）"
+  - id: "nar-1201-e729"
+    section_id: "Nar_12_01"
+    drill: 0
+    number: 729
+    role: "example"
+    english: "My experience is different from that of my friends."
+    japanese: "私の経験は友人たちのものと違っている"
+    notes: "that=後ろからのみ修飾可能（that of~）。one of~が不可な場合にthatを使う"
+  - id: "nar-1201-e730"
+    section_id: "Nar_12_01"
+    drill: 0
+    number: 730
+    role: "example"
+    english: "The coins are rare ones."
+    japanese: "そのコインはどれも珍しいものだ"
+    notes: "ones=oneの複数形。複数形でも修飾ルールは同様（thoseも同様）"
+
+sentence_structures:
+  - sentence_id: "nar-1201-e725"
+    label: "overall"
+    value: "S V O, S V O"
+  - sentence_id: "nar-1201-e725"
+    label: "details"
+    value: "<I>(S) have lost(V:現在完了) <my smartphone>(O), and <I>(S) have to buy(V) <one>(O:同種の別物)"
+  - sentence_id: "nar-1201-e726"
+    label: "overall"
+    value: "S V O, S V O"
+  - sentence_id: "nar-1201-e726"
+    label: "details"
+    value: "<I>(S) lost(V) <my smartphone>(O), but <my friend>(S) found(V) <it>(O:同一物)"
+  - sentence_id: "nar-1201-e727"
+    label: "overall"
+    value: "V S V O"
+  - sentence_id: "nar-1201-e727"
+    label: "details"
+    value: "Could(V) <I>(S) have(V) <a smaller one>(O:前から修飾), please?"
+  - sentence_id: "nar-1201-e728"
+    label: "overall"
+    value: "S V C / S"
+  - sentence_id: "nar-1201-e728"
+    label: "details"
+    value: "<Which bag>(S) is(V) <yours>(C)? / <The one with a zipper>(S:後ろから修飾/省略文)"
+  - sentence_id: "nar-1201-e729"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-1201-e729"
+    label: "details"
+    value: "<My experience>(S) is(V) <different>(C) [from that of my friends](M:that=後ろ修飾)"
+  - sentence_id: "nar-1201-e730"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-1201-e730"
+    label: "details"
+    value: "<The coins>(S) are(V) <rare ones>(C:ones=複数形)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1201-e725"
+    node_id: "nrh-008"
+  - sentence_id: "nar-1201-e726"
+    node_id: "nrh-008"
+  - sentence_id: "nar-1201-e727"
+    node_id: "nrh-008"
+  - sentence_id: "nar-1201-e728"
+    node_id: "nrh-008"
+  - sentence_id: "nar-1201-e729"
+    node_id: "nrh-008"
+  - sentence_id: "nar-1201-e730"
+    node_id: "nrh-008"
