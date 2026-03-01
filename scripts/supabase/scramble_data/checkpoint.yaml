@@ -2,30 +2,30 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T12:00:00"
+updated_at: "2026-03-02T14:00:00"
 book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 2 — B18完了、B19開始"
-  current_section: "Scr_232"
+  phase: "Phase 2 — B19完了、B20開始"
+  current_section: "Scr_245"
   current_step: "Step 1 原本確認"
-  last_completed_section: "Scr_231"
+  last_completed_section: "Scr_244"
   last_completed_gate: 5
 
 progress:
   total_sections: 271
-  completed: 241
+  completed: 254
   in_progress: 0
-  remaining: 30
-  total_nodes: 165
-  total_sentences: 1425
+  remaining: 17
+  total_nodes: 172
+  total_sentences: 1597
 
 batch_plan:
   - "B17: Ch24前半 (Scr_210-220) = 11セクション ← 完了"
   - "B18: Ch24後半 (Scr_221-231) = 11セクション ← 完了"
-  - "B19: Ch25+Ch26 (Scr_232-244) = 13セクション ← 次"
-  - "B20: Ch27+Ch28+Ch29 (Scr_245-261) = 17セクション (sid for Ch27, skw for Ch28-29)"
+  - "B19: Ch25+Ch26 (Scr_232-244) = 13セクション ← 完了"
+  - "B20: Ch27+Ch28+Ch29 (Scr_245-261) = 17セクション (sid for Ch27, skw for Ch28-29) ← 次"
 
 recent_decisions:
   - "decision #1: PU!の語句リストはsentences登録しない"
@@ -39,9 +39,11 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
-  - "B19: Ch25(Scr_232-237) + Ch26(Scr_238-244) = 13セクション"
-  - "Ch25 形容詞・副詞中心のイディオム: sid接頭辞"
-  - "Ch26 名詞中心のイディオム: sid接頭辞"
+  - "B20: Ch27(Scr_245-250) + Ch28(Scr_251-255) + Ch29(Scr_256-261) = 17セクション"
+  - "Ch27 群前置詞: sid接頭辞(sid-019〜)"
+  - "Ch28 会話の基本: skw接頭辞(skw-001〜)"
+  - "Ch29 会話の実際: skw接頭辞"
+  - "会話セクション注意: パターンC(対話形式), decision #6適用"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

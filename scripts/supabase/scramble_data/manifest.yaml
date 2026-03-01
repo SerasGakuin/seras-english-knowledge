@@ -2445,133 +2445,133 @@ sections:
     title: "be+形容詞[過去分詞]+前置詞①"
     type: "idiom"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-012(Theme232+233統合)。Q1122-1131=10exam, familiar to/with・afraid to do・ashamed to say例文3件=3example"
   Scr_233:
     title: "be+形容詞[過去分詞]+前置詞②"
     type: "idiom"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 14
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-012(統合)。Q1132-1143=12exam, concerned with・subject to colds例文2件=2example"
   Scr_234:
     title: "be+形容詞[過去分詞]+前置詞③"
     type: "idiom"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-013(Theme234+235統合+PU!196)。Q1144-1154=11exam, conscious of・satisfied with例文2件=2example"
   Scr_235:
     title: "be+形容詞[過去分詞]+前置詞④"
     type: "idiom"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-013(統合)。Q1155-1165=11exam, opposite to・keen on going例文2件=2example"
   Scr_236:
     title: "be+形容詞[過去分詞]+to do"
     type: "idiom"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 15
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-014(単独)。Q1166-1176=11exam, bound for・not supposed to・liable to・eager to例文4件=4example"
   Scr_237:
     title: "その他の形容詞・副詞中心のイディオム"
     type: "idiom"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 15
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-015(単独)。Q1177-1188=12exam, better off・on and on・next to her例文3件=3example"
   # Part 4 > Ch26 名詞中心のイディオム
   Scr_238:
     title: "前置詞+名詞①"
     type: "idiom"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-016(Theme238+239+240統合+PU!197-199)。Q1189-1200=12exam, as a whole例文1件=1example"
   Scr_239:
     title: "前置詞+名詞②"
     type: "idiom"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 12
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-016(統合)。Q1201-1210=10exam, for nothing=free・in turn=by turns例文2件=2example"
   Scr_240:
     title: "前置詞+名詞③"
     type: "idiom"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 11
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-016(統合)。Q1211-1221=11exam。PU!199(out of+名詞)はnotes記録"
   Scr_241:
     title: "前置詞+名詞④"
     type: "idiom"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-017(Theme241+242統合+PU!200)。Q1222-1231=10exam, beyond recognition・for one thing/another・ill at ease例文3件=3example"
   Scr_242:
     title: "前置詞+名詞⑤"
     type: "idiom"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-017(統合)。Q1232-1243=12exam, first of all例文1件=1example"
   Scr_243:
     title: "前置詞+名詞⑥"
     type: "idiom"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 14
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-018(Theme243+244統合+PU!201-203)。Q1244-1254=11exam, of my own・heal in time・close at hand例文3件=3example"
   Scr_244:
     title: "前置詞+名詞⑦"
     type: "idiom"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-018(統合)。Q1255-1266=12exam, out of reach例文1件=1example。PU!203(on+名詞)はnotes記録"
   # Part 4 > Ch27 群前置詞
   Scr_245:
     title: "関連を表す群前置詞"

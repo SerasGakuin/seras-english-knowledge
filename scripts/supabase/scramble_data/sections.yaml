@@ -2141,6 +2141,47 @@ section_knowledge_nodes:
   - section_id: "Scr_231"
     node_id: "sid-011"
     seq: 1
+  # Ch25 形容詞・副詞中心のイディオム
+  - section_id: "Scr_232"
+    node_id: "sid-012"
+    seq: 1
+  - section_id: "Scr_233"
+    node_id: "sid-012"
+    seq: 2
+  - section_id: "Scr_234"
+    node_id: "sid-013"
+    seq: 1
+  - section_id: "Scr_235"
+    node_id: "sid-013"
+    seq: 2
+  - section_id: "Scr_236"
+    node_id: "sid-014"
+    seq: 1
+  - section_id: "Scr_237"
+    node_id: "sid-015"
+    seq: 1
+  # Ch26 名詞中心のイディオム
+  - section_id: "Scr_238"
+    node_id: "sid-016"
+    seq: 1
+  - section_id: "Scr_239"
+    node_id: "sid-016"
+    seq: 2
+  - section_id: "Scr_240"
+    node_id: "sid-016"
+    seq: 3
+  - section_id: "Scr_241"
+    node_id: "sid-017"
+    seq: 1
+  - section_id: "Scr_242"
+    node_id: "sid-017"
+    seq: 2
+  - section_id: "Scr_243"
+    node_id: "sid-018"
+    seq: 1
+  - section_id: "Scr_244"
+    node_id: "sid-018"
+    seq: 2
 
 section_prerequisites:
   # Ch03 助動詞
