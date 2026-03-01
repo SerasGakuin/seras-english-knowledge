@@ -171,6 +171,232 @@ knowledge_nodes:
       thatの力強さ: To be or not to be, that is the question.(ハムレット)
       this time(今回/近い) vs that time(あのころ/遠い)。
       別冊ポイント287(再帰代名詞の強調用法)・288(再帰代名詞を用いた定型表現)参照
+  # B-14: Part 13 形容詞
+  - id: "nrh-014"
+    name: "形容詞の働き（限定用法と叙述用法）"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      形容詞=名詞を修飾する語。副詞=名詞以外を修飾する語。
+      限定用法(左から直接修飾): a wonderful opportunity。
+      叙述用法(右から修飾/補語): This idea is wonderful.
+      左からのみ修飾可(限定用法のみ): main, chief, only, mere, sole / wooden, golden / elder, inner, latter。
+      右からのみ修飾可(叙述用法のみ): alive, alike, asleep, aware, awake, afraid, alone — aで始まるものが多い。
+      (✕) alive animals → live animals, living animals を使う。
+      aliveのaはもともと前置詞on(on life → alive)。
+      「生きている」の使い分け: live[laiv]=限定用法のみ、alive=叙述用法のみ、living=両方可、lively=「活発な」。
+      別冊ポイント292(形容詞の働きとその位置)・293(限定用法のみの形容詞リスト)・294(叙述用法のみの形容詞リスト)・295(「生きている」の用法)参照
+  - id: "nrh-015"
+    name: "置かれる位置で意味の異なる形容詞"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      前から修飾=永続的な性質 or 他と区別。後ろから修飾=一時的な状態。
+      available: 前から=いつでも利用できる、後ろから=いま一時的に利用できる。
+      present: 前から=現在の(present job)、後ろから=出席している(people present)。
+      presentの語源: pre-+sent=目の前にある。
+      2語以上でも前から修飾する場合あり: ハイフン使用(ten-year-old girl)。
+      1語でも後ろから修飾する場合あり(一時的状態)。
+      別冊ポイント296(前後で意味の異なる形容詞一覧: present/certain/ill/late/able/fond/ready/due)・297(名詞+1語の分詞)参照
+  - id: "nrh-016"
+    name: "紛らわしい形容詞(1) — 接尾辞による判別"
+    category: "nrh"
+    priority: "P2"
+    notes: |
+      接尾辞(単語のおしり)で意味を判別する方法:
+      -ive(形容詞化): respective=それぞれの。
+      -ful(いっぱい): respectful=敬意を払う。
+      -able(受動/可能): respectable=立派な。
+      forgettable(忘れられやすい) vs forgetful(忘れっぽい)。
+      regrettable(残念な/人以外が主語) vs regretful(後悔している/人が主語)。
+      別冊ポイント300(紛らわしい形容詞の包括リスト: sensible/sensitive, imaginary/imaginative/imaginable, economic/economical等)参照
+  - id: "nrh-017"
+    name: "紛らわしい形容詞(2) — 名詞とセットで覚える"
+    category: "nrh"
+    priority: "P2"
+    notes: |
+      形容詞は名詞とセットで覚えるべき(自立心の弱い品詞)。
+      imaginary number(架空の数/虚数)、imaginative artist(想像力豊かな芸術家)、
+      the worst crime imaginable(想像しうる最も凶悪な犯罪)。
+      -ic vs -ical: historic(歴史的に有名な) vs historical(歴史に関する)、
+      economic(経済の) vs economical(経済的な/節約の)。
+      -yがつくと名詞→形容詞: health→healthy, ease→easy。
+      -likeの接尾辞: jellylike, childlike(子どもっぽい)。
+      別冊ポイント300参照
+  - id: "nrh-018"
+    name: "紛らわしい形容詞(3) — free from/far from, able/capable, sure/certain"
+    category: "nrh"
+    priority: "P2"
+    notes: |
+      free from[of] A: Aにはマイナス要素(偏見、ストレス等)。
+      far from A: Aにはプラス要素(幸せ等)。「Aからほど遠い」→否定。
+      able(人のみが主語) vs capable(人+モノが主語。capable of Ving)。
+      sure/certain to V: 話し手の確信(John is sure to say no.)。
+      sure/certain of ~/that節: 文のSの確信(I'm sure of your innocence.)。
+      convenient は人を主語にしない。(✕) I am convenient.
+      別冊ポイント298(人を主語にとらない形容詞: convenient/necessary/possible等)・299(人を主語にとる形容詞)・301(far from vs free from)参照
+  - id: "nrh-019"
+    name: "mostとalmostの攻略"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      most=形容詞(名詞を修飾: Most students)+代名詞(主語: Most of the students)。
+      almost=副詞のみ(「一歩手前」の意味)。名詞は修飾できない。
+      almost everybody: almostはeveryの部分だけを修飾。
+      some of / most of / all of のパターン: ofの後のBには必ずthe/these/所有格等の限定詞がつく。
+      A=部分、B=全体、of=仕切り役。
+      別冊ポイント302(most=形容詞・代名詞、almost=副詞)参照
+  - id: "nrh-020"
+    name: "数量表現（few/a few, little/a little, many a等）"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      few(否定的=ほとんどない) vs a few(肯定的=少しはある) — 可算名詞。
+      little(否定的) vs a little(肯定的) — 不可算名詞。
+      aがつく方が肯定的(存在がイメージできる)。
+      not a few / not a little = かなり多い(二重否定)。
+      quite a few / quite a little = かなり多い(控えめ表現の逆転)。
+      many a + 単数名詞 = 多くの(動詞は単数一致)。
+      a great[good] many + 複数名詞 = かなり多くの。
+      more than one + 単数名詞(直前のoneに引っ張られ単数扱い)。
+      別冊ポイント303(名詞の数量を表す表現の完全一覧)参照
+  - id: "nrh-021"
+    name: "特定の名詞と数量表現（high/low, large/small, heavy/light）"
+    category: "nrh"
+    priority: "P2"
+    notes: |
+      high/lowを用いる名詞: price, fee, wage, salary, income(お金関係)。
+      large/smallを用いる名詞: population, number, quantity(=amount)(漠然とした数・量)。
+      heavy/lightを用いる名詞: traffic, snow, drinker, losses, responsibility / meal, smoker, punishment。
+      「薄い」の使い分け: weak(味: コーヒー等)、thin(濃度・密度: 霧・髪/厚さ)、light(色)。
+      [図表: 表 — 「薄い」の使い分け表(p.475)]
+      別冊ポイント304(特定名詞の「多い/少ない」)・305(「濃い/薄い」の表現)参照
+  - id: "nrh-022"
+    name: "形容詞の語順（冠詞→数量→性質→名詞）"
+    category: "nrh"
+    priority: "P2"
+    notes: |
+      大前提: 【冠詞相当語】+【数量】+【性質】+【名詞】。
+      「変わりやすいもの」から「変わりにくいもの」へ並べる原則。
+      性質の中: 評価→大小→新旧→色→材料・出所の順。
+      (✕) these old two cars → these two old cars。
+      実際は2〜3語の判別ができればOK。
+      [図表: 表 — 形容詞の語順公式(p.477)]
+      参考書内参照: →p.481(副詞の立ち位置)
+      別冊ポイント306(意外な意味の形容詞)・307(each/every)・308(「…ごとに」)・309(some/any)・310(冠詞の前に出る形容詞)・311(the+形)・312(「価値のある」)参照
+  # B-14: Part 14 副詞
+  - id: "nrh-023"
+    name: "副詞の働きと立ち位置"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      副詞=名詞以外(動詞・形容詞・副詞など)の意味を膨らます修飾語。
+      副詞の立ち位置: 「場所」→「時」の順。
+      強調の副詞(very, considerably, really, extremely)は修飾対象の直前。
+      not/neverとalways/sometimesは同じ位置(一般動詞の前、be動詞・助動詞の後)。
+      別冊ポイント320(副詞を置く位置: 場所→様子→時、強弱副詞は直前、頻度・程度副詞はnotの位置と同じ)参照
+  - id: "nrh-024"
+    name: "頻度・程度を表す副詞（veryとmuchの使い分け）"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      副詞の5種類: ❶強弱(very/too/a little) ❷様子(fast/quietly) ❸場所や時(here/now) ❹頻度(never/always) ❺程度(hardly/scarcely)。
+      頻度副詞: always(100%)→usually→often→sometimes→rarely/seldom→never(0%)。
+      程度副詞: completely→very→quite→slightly→hardly/scarcely→not。
+      not=副詞、no=形容詞。
+      very=原級の強調可(比較級は不可)。(✕) very older。
+      much=比較級の強調可(原級は不可)。(✕) much beautiful。
+      much too heavy は可(tooは原級ではない)。
+      [図表: 表 — 頻度副詞のパーセント表(p.482)]
+      [図表: 表 — 程度副詞の強さ順(p.483)]
+      別冊ポイント321(頻度副詞)・329(much/veryが修飾するもの)・330(many more/much more)・331(much too/too much)参照
+  - id: "nrh-025"
+    name: "-lyの有無で意味が変わる副詞（hard/hardly, ago/before等）"
+    category: "nrh"
+    priority: "P2"
+    notes: |
+      -lyがつくと意味が変わる副詞:
+      hard(一生懸命)→hardly(ほとんど〜ない/否定語=scarcely)。
+      high(高い位置に)→highly(程度の高さ「かなり、大いに」)。
+      late(遅れて)→lately(最近)。
+      「最近」の使い分け:
+      nowadays/these days=現在形と相性。
+      recently=過去の一点(過去形が多い)。lately=現在までの継続(現在完了形が多い)。
+      ago vs before:
+      ago=現在から遡って(過去形)。before=過去の一時点から遡って(過去完了形)。
+      before単独=「以前に」(現在完了形・過去形)。
+      [図表: 図 — recently/lately vs nowadays/these daysの時間軸(p.485)]
+      [図表: 図 — ago vs beforeの基準点の違い(p.486)]
+      別冊ポイント322(-lyの有無で意味が異なる副詞: late/lately, hard/hardly, high/highly等)・323(「最近」の区別)・324(ago vs before)・328(紛らわしい副詞)参照
+  - id: "nrh-026"
+    name: "副詞so/too/howの語順と文修飾の副詞"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      so/too/how/as + 形容詞 + a[an] + 名詞 の語順。
+      成り立ち: 副詞が形容詞を前に引っ張り出す。
+      文修飾の副詞: 文全体に判断を下す(fortunately, naturally, certainly, probably等)。
+      文修飾の副詞→形容詞に置き換え可能(Naturally = It is natural that...)。
+      名詞に見えそうな副詞: home, abroad, downstairs, downtown(前置詞不要)。
+      (✕) go to abroad → go abroad。ただしfrom abroadのように出所は前置詞が必要。
+      参考書内参照: →p.388(asの用法)、→p.422(aの用法)
+      別冊ポイント325(文修飾の副詞リスト)・326(名詞と間違いやすい副詞)・327(形式的に注意が必要な副詞)参照
+  # B-14: Part 15 特殊構文
+  - id: "nrh-027"
+    name: "否定表現（全体否定・部分否定・潜在否定）"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      not(副詞) vs no(形容詞): notは名詞以外を否定、noは名詞を否定(ゼロの意味)。
+      全体否定(100%否定): not...any, no+名詞。
+      部分否定: not + 100%を表す語(always, necessarily, all, every, both, completely, entirely)。
+      部分否定の訳し方: 「ぼかす」(〜とは限らない、〜というわけではない)。
+      潜在否定(否定語を含まない否定):
+      the last person to V = 可能性が最も低い→否定。
+      anything but = 〜以外なら何でもOK→〜は絶対ダメ→否定。
+      別冊ポイント335(not/no)・336(部分否定/全体否定)・337(部分否定)・338(noと強い否定)・339(弱めの否定)・340(not...anyの語順)・341(二重否定)・342(潜在否定リスト)参照
+  - id: "nrh-028"
+    name: "倒置(1) — 任意倒置（文末焦点の原則）"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      倒置=語順の入れ替え(意味なく起きない)。
+      任意倒置の2つの効果:
+      ❶文末焦点(end-focus)の原則: 強調したい新情報はなるべく後ろに配置。
+      ❷予想を裏切り目立たせる効果。
+      旧情報=前へ、新情報=後ろへ。
+      Here comes the car.(carが新情報→文末に)。
+      Impossible is Nothing.(語順を裏切り注意を引く)。
+      別冊ポイント344(倒置の種類: 強制倒置と任意倒置、代名詞主語は倒置不可)参照
+  - id: "nrh-029"
+    name: "倒置(2) — 強制倒置（否定語文頭の倒置）"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      強制倒置: 否定語句が文頭→主節が疑問文型の倒置。
+      倒置の理由: 否定語が直後の語を否定しているように見えるのを防ぐため。
+      前に移動する要素: be動詞/can/will/do/have等(動詞そのものは出さない)。
+      (✕) Never I have seen... → Never have I seen...(○)。
+      否定語文頭でも倒置しない場合: 主語中に否定語がある(Not everyone speaks French. = 部分否定)。
+      only=否定的(1つのみ→他を全否定)→only句が文頭で倒置。
+      So is Sam.(倒置あり=Sam新情報) vs So he is.(倒置なし=he旧情報)。
+      [図表: 図 — onlyの否定的性質(p.497)]
+      別冊ポイント344(倒置の種類)・347(So+V+S/Nor+V+S)・348(さまざまな強調表現)・349(省略を用いた慣用表現)参照
+  - id: "nrh-030"
+    name: "there be構文（end-focusの応用）"
+    category: "nrh"
+    priority: "P1"
+    notes: |
+      there be構文=end-focusの原則の応用。
+      thereから始めて新情報(S)を後ろに配置。
+      Aには新情報(a+名詞等)が来る。the/my等の旧情報は不自然。
+      be動詞を第1文型動詞(exist/live/stand等)に書き換え可能。
+      助動詞(must be等)で意味をプラスできる。
+      姿を変えたthere be構文:
+      ❶ want+there+to be(Oにthere副詞): I want there to be no trouble.
+      ❷ It...for there to be(forの後にthere副詞): It is desirable for there to be no trouble.
+      参考書内参照: →p.494(桃太郎の書き出し)
+      別冊ポイント345(There be A構文: 新情報をAに)・346(beの書き換え動詞リスト)参照
 
 understanding_goals:
   - node_id: "nrh-001"
@@ -290,6 +516,177 @@ understanding_goals:
   - node_id: "nrh-013"
     seq: 3
     goal: "this time(今回)とthat time(あのころ)の近い/遠いの感覚を理解している"
+  # B-14: Part 13 形容詞
+  - node_id: "nrh-014"
+    seq: 1
+    goal: "限定用法(前から修飾)と叙述用法(後ろから修飾/補語)の違いを説明できる"
+  - node_id: "nrh-014"
+    seq: 2
+    goal: "限定用法のみ・叙述用法のみの形容詞を区別できる"
+  - node_id: "nrh-014"
+    seq: 3
+    goal: "(✕) alive animalsが不可な理由と正しい表現を答えられる"
+  - node_id: "nrh-014"
+    seq: 4
+    goal: "「生きている」の4つの形容詞(live/alive/living/lively)を使い分けられる"
+  - node_id: "nrh-015"
+    seq: 1
+    goal: "前から修飾(永続的性質)と後ろから修飾(一時的状態)の意味の違いを説明できる"
+  - node_id: "nrh-015"
+    seq: 2
+    goal: "present/available等が前後で意味が変わることを理解している"
+  - node_id: "nrh-015"
+    seq: 3
+    goal: "ハイフンを使った2語以上の前からの修飾の作り方を知っている"
+  - node_id: "nrh-016"
+    seq: 1
+    goal: "-ive/-ful/-ableの接尾辞の意味の違いを説明できる"
+  - node_id: "nrh-016"
+    seq: 2
+    goal: "respective/respectful/respectableの意味を区別できる"
+  - node_id: "nrh-016"
+    seq: 3
+    goal: "-able(受動/可能)と-ful(いっぱい)の違いでforgettable/forgetfulを判別できる"
+  - node_id: "nrh-017"
+    seq: 1
+    goal: "形容詞を名詞とセットで覚える重要性を理解している"
+  - node_id: "nrh-017"
+    seq: 2
+    goal: "imaginary/imaginative/imaginableの違いを名詞とセットで説明できる"
+  - node_id: "nrh-017"
+    seq: 3
+    goal: "-ic vs -icalの意味の違い(historic/historical, economic/economical)を理解している"
+  - node_id: "nrh-018"
+    seq: 1
+    goal: "free from AのAとfar from AのAの性質の違いを説明できる"
+  - node_id: "nrh-018"
+    seq: 2
+    goal: "able(人のみ)とcapable(人+モノ)の主語制約を理解している"
+  - node_id: "nrh-018"
+    seq: 3
+    goal: "sure/certain to V(話し手の確信)とsure/certain of(主語の確信)を区別できる"
+  - node_id: "nrh-018"
+    seq: 4
+    goal: "convenientが人を主語にできないことを知っている"
+  - node_id: "nrh-019"
+    seq: 1
+    goal: "most(形容詞/代名詞)とalmost(副詞のみ)の品詞の違いを説明できる"
+  - node_id: "nrh-019"
+    seq: 2
+    goal: "almost everybodyのalmostが修飾する対象を正しく説明できる"
+  - node_id: "nrh-019"
+    seq: 3
+    goal: "some of / most of / all of のBに限定詞が必要な理由を理解している"
+  - node_id: "nrh-020"
+    seq: 1
+    goal: "few/a fewとlittle/a littleの肯定・否定の違いを説明できる"
+  - node_id: "nrh-020"
+    seq: 2
+    goal: "not a few / quite a fewが「かなり多い」になる理由を理解している"
+  - node_id: "nrh-020"
+    seq: 3
+    goal: "many a + 単数名詞の用法と動詞の数一致を理解している"
+  - node_id: "nrh-021"
+    seq: 1
+    goal: "high/low, large/small, heavy/lightがそれぞれどの名詞と使われるか答えられる"
+  - node_id: "nrh-021"
+    seq: 2
+    goal: "「薄い」の使い分け(weak/thin/light)ができる"
+  - node_id: "nrh-021"
+    seq: 3
+    goal: "population, numberにlarge/smallを使う理由を理解している"
+  - node_id: "nrh-022"
+    seq: 1
+    goal: "冠詞相当語→数量→性質→名詞の基本語順を説明できる"
+  - node_id: "nrh-022"
+    seq: 2
+    goal: "性質の中の語順(評価→大小→新旧→色→材料)を理解している"
+  - node_id: "nrh-022"
+    seq: 3
+    goal: "(✕) these old two carsが不可な理由を説明できる"
+  # B-14: Part 14 副詞
+  - node_id: "nrh-023"
+    seq: 1
+    goal: "副詞が名詞以外を修飾する語であることを説明できる"
+  - node_id: "nrh-023"
+    seq: 2
+    goal: "副詞の立ち位置(場所→時)を理解している"
+  - node_id: "nrh-023"
+    seq: 3
+    goal: "頻度・程度副詞の位置(一般動詞の前/be動詞・助動詞の後)を正しく使える"
+  - node_id: "nrh-024"
+    seq: 1
+    goal: "頻度副詞(always~never)の順序を理解している"
+  - node_id: "nrh-024"
+    seq: 2
+    goal: "very(原級強調)とmuch(比較級強調)の使い分けができる"
+  - node_id: "nrh-024"
+    seq: 3
+    goal: "(✕) very olderや(✕) much beautifulがなぜ不可かを説明できる"
+  - node_id: "nrh-025"
+    seq: 1
+    goal: "hard/hardly, high/highly, late/latelyの意味の違いを説明できる"
+  - node_id: "nrh-025"
+    seq: 2
+    goal: "「最近」の副詞(recently/lately/nowadays/these days)を時制と対応させて使い分けられる"
+  - node_id: "nrh-025"
+    seq: 3
+    goal: "ago(現在から遡る/過去形)とbefore(過去の一時点から遡る/過去完了形)の違いを理解している"
+  - node_id: "nrh-026"
+    seq: 1
+    goal: "so/too/how/as + 形容詞 + a[an] + 名詞 の語順を正しく使える"
+  - node_id: "nrh-026"
+    seq: 2
+    goal: "文修飾の副詞(fortunately等)の機能と形容詞への置き換えを理解している"
+  - node_id: "nrh-026"
+    seq: 3
+    goal: "home/abroad/downstairsが名詞に見えるが副詞であることを知っている"
+  - node_id: "nrh-026"
+    seq: 4
+    goal: "(✕) go to abroadがなぜ不可かを説明できる"
+  # B-14: Part 15 特殊構文
+  - node_id: "nrh-027"
+    seq: 1
+    goal: "not(副詞)とno(形容詞)の違いを説明できる"
+  - node_id: "nrh-027"
+    seq: 2
+    goal: "部分否定(not+100%語)と全体否定の区別ができる"
+  - node_id: "nrh-027"
+    seq: 3
+    goal: "潜在否定(the last person to V, anything but等)の意味を理解している"
+  - node_id: "nrh-028"
+    seq: 1
+    goal: "文末焦点(end-focus)の原則を説明できる"
+  - node_id: "nrh-028"
+    seq: 2
+    goal: "任意倒置の2つの効果(文末焦点/裏切り効果)を理解している"
+  - node_id: "nrh-028"
+    seq: 3
+    goal: "Here comes the car.の語順変更の理由を説明できる"
+  - node_id: "nrh-029"
+    seq: 1
+    goal: "否定語句が文頭に出た場合に強制倒置が起こることを理解している"
+  - node_id: "nrh-029"
+    seq: 2
+    goal: "倒置で前に出る要素(be動詞/助動詞/do)を正しく使える"
+  - node_id: "nrh-029"
+    seq: 3
+    goal: "否定語文頭でも倒置しない場合(主語中の否定語/部分否定)を理解している"
+  - node_id: "nrh-029"
+    seq: 4
+    goal: "So is Sam.(倒置)とSo he is.(非倒置)の違いを説明できる"
+  - node_id: "nrh-030"
+    seq: 1
+    goal: "there be構文がend-focusの原則の応用であることを説明できる"
+  - node_id: "nrh-030"
+    seq: 2
+    goal: "Aに新情報(a+名詞等)が来る理由を理解している"
+  - node_id: "nrh-030"
+    seq: 3
+    goal: "be動詞を第1文型動詞に書き換えられることを知っている"
+  - node_id: "nrh-030"
+    seq: 4
+    goal: "姿を変えたthere be構文(want/It...for構文)を理解している"
 
 check_points:
   - node_id: "nrh-001"
@@ -448,12 +845,250 @@ check_points:
     seq: 3
     question: "this timeとthat timeの違いは？"
     answer: "this time=今回(近い感覚)。that time=あのころ(遠い感覚)"
+  # B-14: Part 13 形容詞
+  - node_id: "nrh-014"
+    seq: 1
+    question: "限定用法のみの形容詞の例を3つ挙げよ"
+    answer: "main, chief, only, mere, sole, wooden, golden, elder, inner, latter等"
+  - node_id: "nrh-014"
+    seq: 2
+    question: "叙述用法のみの形容詞の共通点は？"
+    answer: "aで始まるものが多い(alive, alike, asleep, aware, awake, afraid, alone)"
+  - node_id: "nrh-014"
+    seq: 3
+    question: "(✕) alive animalsの正しい表現は？"
+    answer: "live animals, living animals。aliveは叙述用法のみで前から修飾不可"
+  - node_id: "nrh-014"
+    seq: 4
+    question: "live/alive/living/livelyの違いは？"
+    answer: "live[laiv]=限定用法のみ、alive=叙述用法のみ、living=両方可、lively=「活発な」"
+  - node_id: "nrh-015"
+    seq: 1
+    question: "present jobとpeople presentの意味の違いは？"
+    answer: "present job=現在の仕事(永続的性質)。people present=出席している人々(一時的状態)"
+  - node_id: "nrh-015"
+    seq: 2
+    question: "available(前)とavailable(後)の意味の違いは？"
+    answer: "前=いつでも利用できる(永続)。後=いま一時的に利用できる"
+  - node_id: "nrh-015"
+    seq: 3
+    question: "2語以上で前から修飾する方法は？"
+    answer: "ハイフンで結ぶ(ten-year-old girl)"
+  - node_id: "nrh-016"
+    seq: 1
+    question: "respective/respectful/respectableの意味は？"
+    answer: "respective(-ive)=それぞれの、respectful(-ful)=敬意を払う、respectable(-able)=立派な"
+  - node_id: "nrh-016"
+    seq: 2
+    question: "forgettableとforgetfulの違いは？"
+    answer: "forgettable(-able/受動)=忘れられやすい、forgetful(-ful/いっぱい)=忘れっぽい"
+  - node_id: "nrh-016"
+    seq: 3
+    question: "regrettableとregretfulの主語の違いは？"
+    answer: "regrettable=人以外が主語(残念な事態)、regretful=人が主語(後悔している)"
+  - node_id: "nrh-017"
+    seq: 1
+    question: "imaginary, imaginative, imaginableの違いは？"
+    answer: "imaginary=架空の、imaginative=想像力豊かな、imaginable=想像しうる"
+  - node_id: "nrh-017"
+    seq: 2
+    question: "historicとhistoricalの違いは？"
+    answer: "historic=歴史的に有名な、historical=歴史に関する"
+  - node_id: "nrh-017"
+    seq: 3
+    question: "economicとeconomicalの違いは？"
+    answer: "economic=経済の、economical=経済的な(節約の)"
+  - node_id: "nrh-018"
+    seq: 1
+    question: "free from AのAにはどんな要素が入る？far from Aは？"
+    answer: "free from A=マイナス要素(偏見、ストレス等)。far from A=プラス要素(幸せ等、Aからほど遠い→否定)"
+  - node_id: "nrh-018"
+    seq: 2
+    question: "ableとcapableの主語の違いは？"
+    answer: "able=人のみが主語。capable=人+モノが主語(capable of Ving)"
+  - node_id: "nrh-018"
+    seq: 3
+    question: "He is sure to win.とHe is sure of winning.の違いは？"
+    answer: "sure to V=話し手がそう確信。sure of=主語(He)自身が確信"
+  - node_id: "nrh-018"
+    seq: 4
+    question: "(✕) I am convenient.がなぜ不可？"
+    answer: "convenientは人を主語にとらない。It is convenient for me.が正しい"
+  - node_id: "nrh-019"
+    seq: 1
+    question: "Most students passed.のmostは何詞？"
+    answer: "形容詞(studentsという名詞を修飾)"
+  - node_id: "nrh-019"
+    seq: 2
+    question: "(✕) Almost students passed.がなぜ不可？"
+    answer: "almost=副詞。名詞は修飾できない。Almost all studentsなら可"
+  - node_id: "nrh-019"
+    seq: 3
+    question: "most of the studentsのtheはなぜ必要？"
+    answer: "ofの後のBは全体を表すため、the/these/所有格等の限定詞で特定する必要がある"
+  - node_id: "nrh-020"
+    seq: 1
+    question: "fewとa fewの違いは？"
+    answer: "few=ほとんどない(否定的)。a few=少しはある(肯定的)。aがつく方が肯定的"
+  - node_id: "nrh-020"
+    seq: 2
+    question: "not a few, quite a fewの意味は？"
+    answer: "どちらも「かなり多い」。not a few=二重否定、quite a few=控えめ表現の逆転"
+  - node_id: "nrh-020"
+    seq: 3
+    question: "many a+名詞の動詞は単数/複数？"
+    answer: "単数。many a student has(直前がa studentで単数一致)"
+  - node_id: "nrh-020"
+    seq: 4
+    question: "more than one+名詞の動詞は？"
+    answer: "単数(直前のoneに引っ張られる)"
+  - node_id: "nrh-021"
+    seq: 1
+    question: "price/salaryの「高い/低い」は何を使う？"
+    answer: "high/low"
+  - node_id: "nrh-021"
+    seq: 2
+    question: "population/numberの「多い/少ない」は何を使う？"
+    answer: "large/small"
+  - node_id: "nrh-021"
+    seq: 3
+    question: "「薄いコーヒー」「薄い霧」「薄い色」はそれぞれ？"
+    answer: "weak coffee、thin fog、light color"
+  - node_id: "nrh-022"
+    seq: 1
+    question: "形容詞の基本語順は？"
+    answer: "冠詞相当語→数量→性質→名詞"
+  - node_id: "nrh-022"
+    seq: 2
+    question: "(✕) these old two carsのどこが間違い？"
+    answer: "数量が性質より前。these two old carsが正しい"
+  - node_id: "nrh-022"
+    seq: 3
+    question: "性質の中の並び順は？"
+    answer: "評価→大小→新旧→色→材料・出所"
+  # B-14: Part 14 副詞
+  - node_id: "nrh-023"
+    seq: 1
+    question: "副詞の立ち位置で「場所」と「時」はどちらが先？"
+    answer: "場所→時の順"
+  - node_id: "nrh-023"
+    seq: 2
+    question: "強調の副詞(very等)はどこに置く？"
+    answer: "修飾対象の直前"
+  - node_id: "nrh-023"
+    seq: 3
+    question: "頻度副詞(always等)の位置は？"
+    answer: "一般動詞の前、be動詞・助動詞の後(notと同じ位置)"
+  - node_id: "nrh-024"
+    seq: 1
+    question: "(✕) very olderと(✕) much beautifulがなぜ不可？"
+    answer: "very=原級のみ強調(比較級不可)。much=比較級のみ強調(原級不可)"
+  - node_id: "nrh-024"
+    seq: 2
+    question: "much too heavyは可能か？"
+    answer: "可能。tooは原級ではないのでmuchで強調できる"
+  - node_id: "nrh-024"
+    seq: 3
+    question: "頻度副詞をalways→neverの順に並べよ"
+    answer: "always→usually→often→sometimes→rarely/seldom→never"
+  - node_id: "nrh-024"
+    seq: 4
+    question: "not(副詞)とno(形容詞)の品詞の違いは？"
+    answer: "not=副詞(動詞等を否定)。no=形容詞(名詞を否定/ゼロの意味)"
+  - node_id: "nrh-025"
+    seq: 1
+    question: "hard(一生懸命)に-lyがつくとどうなる？"
+    answer: "hardly=ほとんど〜ない(否定語=scarcely)"
+  - node_id: "nrh-025"
+    seq: 2
+    question: "lately, recently, nowadays/these daysの時制との対応は？"
+    answer: "lately=現在完了形、recently=過去形が多い、nowadays/these days=現在形"
+  - node_id: "nrh-025"
+    seq: 3
+    question: "ago(過去形)とbefore(過去完了形)の基準点の違いは？"
+    answer: "ago=現在から遡る。before=過去の一時点から遡る"
+  - node_id: "nrh-026"
+    seq: 1
+    question: "so beautiful a flowerの語順ルールは？"
+    answer: "so/too/how/as + 形容詞 + a[an] + 名詞"
+  - node_id: "nrh-026"
+    seq: 2
+    question: "Fortunately, no one was hurt.のfortunatelyは何を修飾？"
+    answer: "文全体を修飾する文修飾の副詞(= It is fortunate that...)"
+  - node_id: "nrh-026"
+    seq: 3
+    question: "(✕) go to abroadはなぜ不可？"
+    answer: "abroadは副詞(名詞に見えるが)。前置詞不要。ただしfrom abroadは可"
+  # B-14: Part 15 特殊構文
+  - node_id: "nrh-027"
+    seq: 1
+    question: "Not all students passed.は全体否定？部分否定？"
+    answer: "部分否定(not+all=「すべてが〜わけではない」)"
+  - node_id: "nrh-027"
+    seq: 2
+    question: "the last person to Vの意味は？"
+    answer: "Vする可能性が最も低い人(潜在否定)"
+  - node_id: "nrh-027"
+    seq: 3
+    question: "anything butの意味は？"
+    answer: "「決して〜ではない」。〜以外なら何でもOK→〜は絶対ダメ"
+  - node_id: "nrh-027"
+    seq: 4
+    question: "部分否定の訳し方は？"
+    answer: "「〜とは限らない」「〜というわけではない」(ぼかす)"
+  - node_id: "nrh-028"
+    seq: 1
+    question: "end-focusの原則とは？"
+    answer: "強調したい新情報はなるべく文末に配置する原則"
+  - node_id: "nrh-028"
+    seq: 2
+    question: "Here comes the car.で倒置が起きる理由は？"
+    answer: "car(新情報)を文末に配置するend-focusの原則"
+  - node_id: "nrh-028"
+    seq: 3
+    question: "任意倒置の2つの効果は？"
+    answer: "❶文末焦点(新情報を後ろに) ❷予想を裏切り目立たせる"
+  - node_id: "nrh-029"
+    seq: 1
+    question: "Never have I seen such a thing.の倒置の理由は？"
+    answer: "否定語(Never)が文頭→主節が疑問文型に倒置(強制倒置)"
+  - node_id: "nrh-029"
+    seq: 2
+    question: "Not everyone speaks French.はなぜ倒置しない？"
+    answer: "否定語が主語中にある(部分否定)→倒置不要"
+  - node_id: "nrh-029"
+    seq: 3
+    question: "onlyが文頭で倒置を起こす理由は？"
+    answer: "only=1つのみ→他を全否定→否定的な語→強制倒置"
+  - node_id: "nrh-029"
+    seq: 4
+    question: "So is Sam.とSo he is.の違いは？"
+    answer: "So is Sam.(倒置あり)=Sam新情報「サムもそうだ」。So he is.(倒置なし)=he旧情報「たしかにそうだ」"
+  - node_id: "nrh-030"
+    seq: 1
+    question: "there be構文のAにthe/my等がこないのはなぜ？"
+    answer: "Aの位置は新情報を配置する場所。the/myは旧情報のマーカーだから"
+  - node_id: "nrh-030"
+    seq: 2
+    question: "There is a book on the desk.のbe動詞を書き換えると？"
+    answer: "exist/lie/stand等の第1文型動詞(There lies a book...)"
+  - node_id: "nrh-030"
+    seq: 3
+    question: "I want there to be no trouble.のthereの役割は？"
+    answer: "want+O+to beのOの位置にthere(副詞)が入る形"
 
 node_prerequisites:
   - node_id: "nrh-010"
     prerequisite_id: "nrh-009"
   - node_id: "nrh-012"
     prerequisite_id: "nrh-011"
+  # B-14
+  - node_id: "nrh-017"
+    prerequisite_id: "nrh-016"
+  - node_id: "nrh-018"
+    prerequisite_id: "nrh-017"
+  - node_id: "nrh-029"
+    prerequisite_id: "nrh-028"
 
 knowledge_references:
   - node_id: "nrh-001"
@@ -508,3 +1143,74 @@ knowledge_references:
     book: "成川の深めて解ける！英文法 INPUT"
     section_id: "Nar_12_06"
     pages: "p.451-454"
+  # B-14: Part 13 形容詞
+  - node_id: "nrh-014"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_13_01"
+    pages: "p.456-458"
+  - node_id: "nrh-015"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_13_02"
+    pages: "p.459-461"
+  - node_id: "nrh-016"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_13_03"
+    pages: "p.462-464"
+  - node_id: "nrh-017"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_13_04"
+    pages: "p.465-466"
+  - node_id: "nrh-018"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_13_05"
+    pages: "p.467-468"
+  - node_id: "nrh-019"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_13_06"
+    pages: "p.469-470"
+  - node_id: "nrh-020"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_13_07"
+    pages: "p.471-473"
+  - node_id: "nrh-021"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_13_08"
+    pages: "p.474-475"
+  - node_id: "nrh-022"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_13_09"
+    pages: "p.476-478"
+  # B-14: Part 14 副詞
+  - node_id: "nrh-023"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_14_01"
+    pages: "p.480-481"
+  - node_id: "nrh-024"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_14_02"
+    pages: "p.482-483"
+  - node_id: "nrh-025"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_14_03"
+    pages: "p.484-486"
+  - node_id: "nrh-026"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_14_04"
+    pages: "p.487-488"
+  # B-14: Part 15 特殊構文
+  - node_id: "nrh-027"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_15_01"
+    pages: "p.490-492"
+  - node_id: "nrh-028"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_15_02"
+    pages: "p.493-495"
+  - node_id: "nrh-029"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_15_03"
+    pages: "p.496-498"
+  - node_id: "nrh-030"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_15_04"
+    pages: "p.499-500"

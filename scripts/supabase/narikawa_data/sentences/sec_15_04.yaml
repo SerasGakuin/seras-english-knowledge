@@ -1,0 +1,87 @@
+# Nar_15_04: there be構文について (p.499-500)
+
+sentences:
+  - id: "nar-1504-e829"
+    section_id: "Nar_15_04"
+    drill: 0
+    number: 829
+    role: "example"
+    english: "There is a computer on the desk."
+    japanese: "机の上にコンピューターがある"
+    notes: "there be構文=end-focusの応用。a computer(新情報)を後ろに配置"
+  - id: "nar-1504-e830"
+    section_id: "Nar_15_04"
+    drill: 0
+    number: 830
+    role: "example"
+    english: "There lived a king."
+    japanese: "ある王様が住んでいた"
+    notes: "be動詞を第1文型動詞(live)に書き換え。元はThere was a king."
+  - id: "nar-1504-e831"
+    section_id: "Nar_15_04"
+    drill: 0
+    number: 831
+    role: "example"
+    english: "There must be some mistakes in my translation."
+    japanese: "私の翻訳にはいくつかの間違いがあるに違いない"
+    notes: "助動詞(must)でbe動詞に意味をプラス。元はThere are some mistakes..."
+  - id: "nar-1504-e832"
+    section_id: "Nar_15_04"
+    drill: 0
+    number: 832
+    role: "example"
+    english: "I want there to be no trouble."
+    japanese: "何の面倒も起こらないでほしい"
+    notes: "姿を変えたthere be構文❶: want+O+to beのOにthere(副詞)が入る"
+  - id: "nar-1504-e833"
+    section_id: "Nar_15_04"
+    drill: 0
+    number: 833
+    role: "example"
+    english: "It is desirable for there to be no trouble."
+    japanese: "何の面倒も起こらないのが望ましい"
+    notes: "姿を変えたthere be構文❷: It...for+there+to beの形"
+
+sentence_structures:
+  - sentence_id: "nar-1504-e829"
+    label: "overall"
+    value: "There V S M"
+  - sentence_id: "nar-1504-e829"
+    label: "details"
+    value: "There is(V) <a computer>(S:新情報) [on the desk](M)"
+  - sentence_id: "nar-1504-e830"
+    label: "overall"
+    value: "There V S"
+  - sentence_id: "nar-1504-e830"
+    label: "details"
+    value: "There lived(V:第1文型動詞) <a king>(S:新情報)"
+  - sentence_id: "nar-1504-e831"
+    label: "overall"
+    value: "There V S M"
+  - sentence_id: "nar-1504-e831"
+    label: "details"
+    value: "There must be(V:助動詞+be) <some mistakes>(S) [in my translation](M)"
+  - sentence_id: "nar-1504-e832"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-1504-e832"
+    label: "details"
+    value: "<I>(S) want(V) <there>(O:副詞) to be <no trouble>(C)"
+  - sentence_id: "nar-1504-e833"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-1504-e833"
+    label: "details"
+    value: "<It>(S:形式主語) is(V) <desirable>(C) [for there to be no trouble](M:真主語)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1504-e829"
+    node_id: "nrh-030"
+  - sentence_id: "nar-1504-e830"
+    node_id: "nrh-030"
+  - sentence_id: "nar-1504-e831"
+    node_id: "nrh-030"
+  - sentence_id: "nar-1504-e832"
+    node_id: "nrh-030"
+  - sentence_id: "nar-1504-e833"
+    node_id: "nrh-030"

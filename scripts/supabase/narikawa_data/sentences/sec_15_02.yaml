@@ -1,0 +1,39 @@
+# Nar_15_02: 倒置が起こるシステム(1) — 任意倒置 (p.493-495)
+
+sentences:
+  - id: "nar-1502-e822"
+    section_id: "Nar_15_02"
+    drill: 0
+    number: 822
+    role: "example"
+    english: "Here comes the car."
+    japanese: "ほら、車が来るよ"
+    notes: "任意倒置: end-focusの原則。car(新情報)を文末に配置"
+  - id: "nar-1502-e823"
+    section_id: "Nar_15_02"
+    drill: 0
+    number: 823
+    role: "example"
+    english: "Impossible is Nothing."
+    japanese: "不可能なことなんて……何もない！"
+    notes: "任意倒置: 予想を裏切り目立たせる効果。通常語順=Nothing is impossible."
+
+sentence_structures:
+  - sentence_id: "nar-1502-e822"
+    label: "overall"
+    value: "M V S"
+  - sentence_id: "nar-1502-e822"
+    label: "details"
+    value: "[Here](M) comes(V) <the car>(S:新情報→文末)"
+  - sentence_id: "nar-1502-e823"
+    label: "overall"
+    value: "C V S"
+  - sentence_id: "nar-1502-e823"
+    label: "details"
+    value: "<Impossible>(C:倒置) is(V) <Nothing>(S:倒置で文末強調)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1502-e822"
+    node_id: "nrh-028"
+  - sentence_id: "nar-1502-e823"
+    node_id: "nrh-028"

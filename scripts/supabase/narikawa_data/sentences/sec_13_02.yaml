@@ -1,0 +1,71 @@
+# Nar_13_02: 置かれる位置で意味の異なる形容詞 (p.459-461)
+
+sentences:
+  - id: "nar-1302-e757"
+    section_id: "Nar_13_02"
+    drill: 0
+    number: 757
+    role: "example"
+    english: "Our publisher will use every available means to promote our book."
+    japanese: "私たちの出版社は、書籍の販売促進をするために利用できるすべての手段を用いるだろう"
+    notes: "available(前)=いつでも利用できる(永続的/他と区別)"
+  - id: "nar-1302-e758"
+    section_id: "Nar_13_02"
+    drill: 0
+    number: 758
+    role: "example"
+    english: "His lawyer used every means available to prove his innocence."
+    japanese: "彼の弁護士は、彼の無実を証明するために利用できるすべての手段を用いた"
+    notes: "available(後)=いま一時的に利用できる"
+  - id: "nar-1302-e759"
+    section_id: "Nar_13_02"
+    drill: 0
+    number: 759
+    role: "example"
+    english: "The only people present at the funeral were the immediate family members."
+    japanese: "葬儀への参列者は肉親だけだった"
+    notes: "present(後)=出席している(一時的状態)"
+  - id: "nar-1302-e760"
+    section_id: "Nar_13_02"
+    drill: 0
+    number: 760
+    role: "example"
+    english: "My present job is challenging but rewarding."
+    japanese: "私の現在の仕事は大変だがやりがいがある"
+    notes: "present(前)=現在の(他の時間区分と区別)"
+
+sentence_structures:
+  - sentence_id: "nar-1302-e757"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-1302-e757"
+    label: "details"
+    value: "<Our publisher>(S) will use(V) <every available means>(O:前から修飾) [to promote our book](M:目的)"
+  - sentence_id: "nar-1302-e758"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-1302-e758"
+    label: "details"
+    value: "<His lawyer>(S) used(V) <every means available>(O:後ろから修飾) [to prove his innocence](M:目的)"
+  - sentence_id: "nar-1302-e759"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-1302-e759"
+    label: "details"
+    value: "<The only people present at the funeral>(S:後ろから修飾) were(V) <the immediate family members>(C)"
+  - sentence_id: "nar-1302-e760"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-1302-e760"
+    label: "details"
+    value: "<My present job>(S:前から修飾) is(V) <challenging but rewarding>(C)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1302-e757"
+    node_id: "nrh-015"
+  - sentence_id: "nar-1302-e758"
+    node_id: "nrh-015"
+  - sentence_id: "nar-1302-e759"
+    node_id: "nrh-015"
+  - sentence_id: "nar-1302-e760"
+    node_id: "nrh-015"

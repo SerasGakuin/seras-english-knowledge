@@ -1,0 +1,87 @@
+# Nar_15_03: 倒置が起こるシステム(2) — 強制倒置 (p.496-498)
+
+sentences:
+  - id: "nar-1503-e824"
+    section_id: "Nar_15_03"
+    drill: 0
+    number: 824
+    role: "example"
+    english: "Never have I seen such a beautiful thing."
+    japanese: "そんなに美しいものを私は今まで見たことがない"
+    notes: "強制倒置: 否定語(Never)が文頭→疑問文型の倒置。通常=I have never seen..."
+  - id: "nar-1503-e825"
+    section_id: "Nar_15_03"
+    drill: 0
+    number: 825
+    role: "example"
+    english: "Not everyone speaks French."
+    japanese: "みんながフランス語を話すわけではない"
+    notes: "否定語文頭だが倒置しない例: notが主語中のeveryにかかり部分否定"
+  - id: "nar-1503-e826"
+    section_id: "Nar_15_03"
+    drill: 0
+    number: 826
+    role: "example"
+    english: "Only after a long argument did they agree to our plan."
+    japanese: "長い議論の後でやっと、彼らは我々の計画に賛成した"
+    notes: "only句が文頭→倒置。only=1つのみ→他を全否定→否定的"
+  - id: "nar-1503-e827"
+    section_id: "Nar_15_03"
+    drill: 0
+    number: 827
+    role: "example"
+    english: "\"She is a great swimmer.\" \"So is Sam.\""
+    japanese: "「彼女はとても泳ぎがうまい」「サムもうまいんだ」"
+    notes: "So is Sam.(倒置あり)=Sam(新情報)を文末に配置→end-focus"
+  - id: "nar-1503-e828"
+    section_id: "Nar_15_03"
+    drill: 0
+    number: 828
+    role: "example"
+    english: "\"Sam is a great swimmer.\" \"So he is.\""
+    japanese: "「サムはとても泳ぎがうまい」「彼ってホントにうまいよね」"
+    notes: "So he is.(倒置なし)=he(旧情報)→倒置不要、S+Vの語順維持"
+
+sentence_structures:
+  - sentence_id: "nar-1503-e824"
+    label: "overall"
+    value: "M V S O"
+  - sentence_id: "nar-1503-e824"
+    label: "details"
+    value: "[Never](M:否定語文頭) have(V:倒置) <I>(S) seen <such a beautiful thing>(O)"
+  - sentence_id: "nar-1503-e825"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-1503-e825"
+    label: "details"
+    value: "<Not everyone>(S:部分否定/倒置なし) speaks(V) <French>(O)"
+  - sentence_id: "nar-1503-e826"
+    label: "overall"
+    value: "M V S O"
+  - sentence_id: "nar-1503-e826"
+    label: "details"
+    value: "[Only after a long argument](M:only文頭) did(V:倒置) <they>(S) agree [to our plan](M)"
+  - sentence_id: "nar-1503-e827"
+    label: "overall"
+    value: "M V S"
+  - sentence_id: "nar-1503-e827"
+    label: "details"
+    value: "[So](M) is(V:倒置) <Sam>(S:新情報→文末)"
+  - sentence_id: "nar-1503-e828"
+    label: "overall"
+    value: "M S V"
+  - sentence_id: "nar-1503-e828"
+    label: "details"
+    value: "[So](M) <he>(S:旧情報) is(V:倒置なし)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1503-e824"
+    node_id: "nrh-029"
+  - sentence_id: "nar-1503-e825"
+    node_id: "nrh-029"
+  - sentence_id: "nar-1503-e826"
+    node_id: "nrh-029"
+  - sentence_id: "nar-1503-e827"
+    node_id: "nrh-029"
+  - sentence_id: "nar-1503-e828"
+    node_id: "nrh-029"

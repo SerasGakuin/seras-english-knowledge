@@ -1,0 +1,71 @@
+# Nar_13_03: 類似品にはご注意(1) — 接尾辞による判別 (p.462-464)
+
+sentences:
+  - id: "nar-1303-e761"
+    section_id: "Nar_13_03"
+    drill: 0
+    number: 761
+    role: "example"
+    english: "The students have their respective dreams."
+    japanese: "生徒たちはそれぞれの夢をもっている"
+    notes: "respective(-ive=形容詞化)=それぞれの。respectの「点」から派生"
+  - id: "nar-1303-e762"
+    section_id: "Nar_13_03"
+    drill: 0
+    number: 762
+    role: "example"
+    english: "You should be respectful to your superiors."
+    japanese: "目上の人に対しては敬意を払うべきだ"
+    notes: "respectful(-ful=いっぱい)=敬意を払う。respectの「尊敬」から派生"
+  - id: "nar-1303-e763"
+    section_id: "Nar_13_03"
+    drill: 0
+    number: 763
+    role: "example"
+    english: "I'm afraid I have a forgettable name and a forgettable face."
+    japanese: "私は忘れられやすい名前と忘れられやすい顔なんじゃないかと"
+    notes: "forgettable(-able=受動)=忘れられやすい"
+  - id: "nar-1303-e764"
+    section_id: "Nar_13_03"
+    drill: 0
+    number: 764
+    role: "example"
+    english: "My boss is forgetful of names."
+    japanese: "私の上司は人の名前をよく忘れる"
+    notes: "forgetful(-ful=いっぱい)=忘れっぽい"
+
+sentence_structures:
+  - sentence_id: "nar-1303-e761"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-1303-e761"
+    label: "details"
+    value: "<The students>(S) have(V) <their respective dreams>(O:respective)"
+  - sentence_id: "nar-1303-e762"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-1303-e762"
+    label: "details"
+    value: "<You>(S) should be(V) <respectful>(C:respectful) [to your superiors](M)"
+  - sentence_id: "nar-1303-e763"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-1303-e763"
+    label: "details"
+    value: "<I>(S) 'm afraid(V) <I have a forgettable name and a forgettable face>(C:that節)"
+  - sentence_id: "nar-1303-e764"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-1303-e764"
+    label: "details"
+    value: "<My boss>(S) is(V) <forgetful>(C:forgetful) [of names](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1303-e761"
+    node_id: "nrh-016"
+  - sentence_id: "nar-1303-e762"
+    node_id: "nrh-016"
+  - sentence_id: "nar-1303-e763"
+    node_id: "nrh-016"
+  - sentence_id: "nar-1303-e764"
+    node_id: "nrh-016"

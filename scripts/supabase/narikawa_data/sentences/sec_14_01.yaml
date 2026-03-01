@@ -1,0 +1,87 @@
+# Nar_14_01: 副詞の働き (p.480-481)
+
+sentences:
+  - id: "nar-1401-e796"
+    section_id: "Nar_14_01"
+    drill: 0
+    number: 796
+    role: "example"
+    english: "We went there yesterday."
+    japanese: "私たちは昨日そこへ行った"
+    notes: "副詞の立ち位置: 場所(there)→時(yesterday)の順"
+  - id: "nar-1401-e797"
+    section_id: "Nar_14_01"
+    drill: 0
+    number: 797
+    role: "example"
+    english: "She is a very good student."
+    japanese: "彼女は非常に優秀な生徒だ"
+    notes: "強調の副詞(very)は修飾対象(good)の直前"
+  - id: "nar-1401-e798"
+    section_id: "Nar_14_01"
+    drill: 0
+    number: 798
+    role: "example"
+    english: "He is an extremely careful driver."
+    japanese: "彼は非常に注意深く運転する"
+    notes: "強調の副詞(extremely)もveryと同じ位置(修飾対象の直前)"
+  - id: "nar-1401-e799"
+    section_id: "Nar_14_01"
+    drill: 0
+    number: 799
+    role: "example"
+    english: "He did not go there."
+    japanese: "彼はそこに行かなかった"
+    notes: "notは一般動詞(go)の前に置かれる"
+  - id: "nar-1401-e800"
+    section_id: "Nar_14_01"
+    drill: 0
+    number: 800
+    role: "example"
+    english: "He always goes there."
+    japanese: "彼はいつもそこに行く"
+    notes: "頻度副詞(always)はnotと同じ位置=一般動詞の前"
+
+sentence_structures:
+  - sentence_id: "nar-1401-e796"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "nar-1401-e796"
+    label: "details"
+    value: "<We>(S) went(V) [there](M:場所) [yesterday](M:時)"
+  - sentence_id: "nar-1401-e797"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-1401-e797"
+    label: "details"
+    value: "<She>(S) is(V) <a very good student>(C:very=強調副詞)"
+  - sentence_id: "nar-1401-e798"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-1401-e798"
+    label: "details"
+    value: "<He>(S) is(V) <an extremely careful driver>(C:extremely=強調副詞)"
+  - sentence_id: "nar-1401-e799"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-1401-e799"
+    label: "details"
+    value: "<He>(S) did [not](M:否定) go(V) [there](M:場所)"
+  - sentence_id: "nar-1401-e800"
+    label: "overall"
+    value: "S M V M"
+  - sentence_id: "nar-1401-e800"
+    label: "details"
+    value: "<He>(S) [always](M:頻度副詞) goes(V) [there](M:場所)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1401-e796"
+    node_id: "nrh-023"
+  - sentence_id: "nar-1401-e797"
+    node_id: "nrh-023"
+  - sentence_id: "nar-1401-e798"
+    node_id: "nrh-023"
+  - sentence_id: "nar-1401-e799"
+    node_id: "nrh-023"
+  - sentence_id: "nar-1401-e800"
+    node_id: "nrh-023"

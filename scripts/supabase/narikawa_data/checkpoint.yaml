@@ -1,36 +1,34 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-03T22:00:00"
+updated_at: "2026-03-01T23:00:00"
 book: "成川の深めて解ける！英文法 INPUT"
 book_slug: "narikawa"
 
 current_state:
-  phase: "Phase 2 - B-14 開始"
-  current_section: "Nar_13_01"
-  current_step: "B-14 準備開始"
-  last_completed_section: "Nar_12_06"
+  phase: "Phase 2 完了"
+  current_section: null
+  current_step: "全162セクション構造化完了"
+  last_completed_section: "Nar_15_04"
   last_completed_gate: 5
 
 progress:
   total_sections: 162
-  completed: 145
+  completed: 162
   in_progress: 0
-  remaining: 17
-  total_nodes: 145
-  total_sentences: 812
+  remaining: 0
+  total_nodes: 162
+  total_sentences: 893
 
 recent_decisions:
+  - "nrh-014〜030: B-14完了。17セクション・17ノード・81英文。全5ゲートPASS。Nar_13_04/13_09/14_02は原本に番号付き例文なし"
   - "nrh-001〜013: B-13完了。13セクション・13ノード・54英文。全5ゲートPASS。Nar_11_03/11_07は原本に番号付き例文なし"
   - "nrp-021〜032: B-12完了。12セクション・12ノード・英文58件。全5ゲートPASS"
 
 active_concerns: []
 
 next_actions:
-  - "B-14 開始: Part 13+14+15 (Nar_13_01〜13_09, 14_01〜14_04, 15_01〜15_04, 17セクション)"
-  - "ch11.yamlにnrh-014〜追加"
-  - "Part境界: 指示書再読込"
+  - "成川 Phase 2 構造化完了。全14バッチ・162セクション・162ノード・893英文"
+  - "Supabase DBインポートの検討"
 
-must_reread:
-  - "docs/design/構造化共通ワークフロー.md"
-  - "docs/design/参考書別設計書_成川.md"
+must_reread: []

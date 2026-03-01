@@ -1480,10 +1480,182 @@ sections:
     reviewed_at: "2026-03-03"
     notes: ""
 
+  # B-14: Part 13 形容詞 + Part 14 副詞 + Part 15 特殊構文
+  Nar_13_01:
+    title: "形容詞の働き"
+    type: "concept"
+    pages: "p.456-458"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: ""
+  Nar_13_02:
+    title: "置かれる位置で意味の異なる形容詞"
+    type: "concept"
+    pages: "p.459-461"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: ""
+  Nar_13_03:
+    title: "類似品にはご注意(1)"
+    type: "pattern"
+    pages: "p.462-464"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: ""
+  Nar_13_04:
+    title: "類似品にはご注意(2)"
+    type: "pattern"
+    pages: "p.465-466"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 0
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "原本に番号付き例文なし（名詞とセットで覚える形容詞の一覧表）"
+  Nar_13_05:
+    title: "類似品にはご注意(3)"
+    type: "pattern"
+    pages: "p.467-468"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: ""
+  Nar_13_06:
+    title: "mostやalmostを攻略しよう"
+    type: "concept"
+    pages: "p.469-470"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: ""
+  Nar_13_07:
+    title: "数量表現"
+    type: "concept"
+    pages: "p.471-473"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: ""
+  Nar_13_08:
+    title: "特定の名詞と数量表現"
+    type: "concept"
+    pages: "p.474-475"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: ""
+  Nar_13_09:
+    title: "形容詞の語順"
+    type: "concept"
+    pages: "p.476-478"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 0
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "原本に番号付き例文なし（語順ルールの概念説明のみ）"
+  Nar_14_01:
+    title: "副詞の働き"
+    type: "concept"
+    pages: "p.480-481"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: ""
+  Nar_14_02:
+    title: "「頻度」や「程度」を表す副詞"
+    type: "concept"
+    pages: "p.482-483"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 0
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "原本に番号付き例文なし（頻度副詞の位置ルール・veryとmuchの使い分け表）"
+  Nar_14_03:
+    title: "類似品にはご注意"
+    type: "pattern"
+    pages: "p.484-486"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: ""
+  Nar_14_04:
+    title: "副詞so, too, howとその語順、文修飾の副詞、その他"
+    type: "concept"
+    pages: "p.487-488"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: ""
+  Nar_15_01:
+    title: "否定について"
+    type: "concept"
+    pages: "p.490-492"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: ""
+  Nar_15_02:
+    title: "倒置が起こるシステム(1) — 任意倒置"
+    type: "concept"
+    pages: "p.493-495"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: ""
+  Nar_15_03:
+    title: "倒置が起こるシステム(2) — 強制倒置"
+    type: "concept"
+    pages: "p.496-498"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: ""
+  Nar_15_04:
+    title: "〈there be構文〉について"
+    type: "concept"
+    pages: "p.499-500"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: ""
+
 summary:
   total_sections: 162
-  completed: 145
+  completed: 162
   in_progress: 0
-  not_started: 17
-  total_knowledge_nodes: 145
-  total_sentences: 812
+  not_started: 0
+  total_knowledge_nodes: 162
+  total_sentences: 893

@@ -1,0 +1,71 @@
+# Nar_13_01: 形容詞の働き (p.456-458)
+
+sentences:
+  - id: "nar-1301-e753"
+    section_id: "Nar_13_01"
+    drill: 0
+    number: 753
+    role: "example"
+    english: "Mao has a creditable record."
+    japanese: "マオは立派な記録をもっている"
+    notes: "creditableは名詞recordを修飾→形容詞"
+  - id: "nar-1301-e754"
+    section_id: "Nar_13_01"
+    drill: 0
+    number: 754
+    role: "example"
+    english: "Eri seldom watches television."
+    japanese: "エリはめったにテレビを見ない"
+    notes: "seldomは名詞以外(watches)を修飾→副詞"
+  - id: "nar-1301-e755"
+    section_id: "Nar_13_01"
+    drill: 0
+    number: 755
+    role: "example"
+    english: "He lost a wonderful opportunity."
+    japanese: "彼は絶好の機会を失った"
+    notes: "限定用法(左から修飾): wonderful→opportunity"
+  - id: "nar-1301-e756"
+    section_id: "Nar_13_01"
+    drill: 0
+    number: 756
+    role: "example"
+    english: "This idea is wonderful."
+    japanese: "その考えはすばらしい"
+    notes: "叙述用法(右から修飾/補語): wonderful=Cの位置"
+
+sentence_structures:
+  - sentence_id: "nar-1301-e753"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-1301-e753"
+    label: "details"
+    value: "<Mao>(S) has(V) <a creditable record>(O)"
+  - sentence_id: "nar-1301-e754"
+    label: "overall"
+    value: "S M V O"
+  - sentence_id: "nar-1301-e754"
+    label: "details"
+    value: "<Eri>(S) [seldom](M:頻度副詞) watches(V) <television>(O)"
+  - sentence_id: "nar-1301-e755"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-1301-e755"
+    label: "details"
+    value: "<He>(S) lost(V) <a wonderful opportunity>(O:限定用法)"
+  - sentence_id: "nar-1301-e756"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-1301-e756"
+    label: "details"
+    value: "<This idea>(S) is(V) <wonderful>(C:叙述用法)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1301-e753"
+    node_id: "nrh-014"
+  - sentence_id: "nar-1301-e754"
+    node_id: "nrh-014"
+  - sentence_id: "nar-1301-e755"
+    node_id: "nrh-014"
+  - sentence_id: "nar-1301-e756"
+    node_id: "nrh-014"
