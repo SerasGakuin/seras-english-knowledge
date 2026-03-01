@@ -315,6 +315,94 @@ knowledge_nodes:
         more than ～と同様に等号は入らないので厳密には「～以上」ではないが、
         訳す場合には「～以上」でも許容される。
 
+  - id: "nta-010"
+    name: "否定の仕組み: anyとno、否定語の影響範囲"
+    category: "その他"
+    priority: "P1"
+    notes: |
+      Point分類: ❷〔否定〕（問68）
+      否定文のanyとnoの関係、否定語の影響範囲、文否定と語否定の区別を理解する。
+      ■ 否定文のanyとno（問68 ❷）:
+        否定文のanyは「（少しも）～ない」の意味。
+        強意なのがnoで、You get nowhere = You don't get anywhere。
+        get nowhere / not get anywhere は直訳「どこにも到着しない」から
+        抽象化して「成功しない」「いい結果が何も得られない」の意味にもなる。
+      ■ 否定語の影響範囲（問68 ❷）:
+        否定語の影響範囲は否定語の右側全体に及ぶ。
+        You don't get anywhere by ~ing のdon'tは文の最後まで支配し
+        「～によって何かの成功を得る」全体を否定している。
+      ■ 語否定のnot（問68 ❷）:
+        前置詞byの後のnot "wasting"のnotは語否定で
+        "wasting"だけを否定している（文否定ではない）。
+      ■ 引用符の意味（問68 ❷）:
+        引用符は筆者がその発言に疑念や特別な意味を抱いている場合に使う。
+        筆者は「ぶらぶらすることは時間の浪費ではない」と考えている。
+        訳す場合には「　」をつける。
+      ❶（問68）文頭の〈前置詞＋名詞〉は副詞句:
+        名詞直後の〈前置詞＋名詞〉は形容詞句。
+        両側にコンマが打たれた〈前置詞＋名詞〉は副詞句。
+        代名詞(his)がそれが指す名詞(Albert Einstein)より先に置かれることもある。
+      ❸（問68）文と名詞の同格:
+        somethingが直前の「時間を浪費しなければ何も得られない」全体を受ける。
+        問65と同じ文と名詞の同格パターン。
+
+  - id: "nta-011"
+    name: "準否定語 hardly と-ly副詞の意味変化"
+    category: "その他"
+    priority: "P1"
+    notes: |
+      Point分類: ❹〔否定〕（問69）
+      hardlyの意味と、-lyが付くと意味が変わる副詞を理解する。
+      ■ hardly =「ほとんど～ない」（問69 ❹）:
+        形容詞と副詞が同形の語がある:
+        late（遅い/遅く）、fast（速い/速く）、hard（かたい・困難な/熱心に）、
+        early（早い/早く）、high（高い/高く）。
+        注意すべきはhard, late, highに-lyが付くと違う意味になること:
+        hardly「ほとんど～ない」、lately「近頃」、highly「おおいに」。
+        hardlyは否定語なので、notと同じ位置に置かれる。
+        本文: we're hardly aware of = we're not aware of とほぼ同じ位置。
+      ❶（問69）形式主語it + to不定詞:
+        it's not easy ... to define sleep precisely。
+        itは形式主語、to define以降が真主語。
+        頭でっかちの文を避け「一番言いたいことを文末に置く」end focus（文末焦点）の法則。
+        ダッシュに挟まれた even for scientists は不定詞の意味上の主語。
+      ❷（問69）文修飾の副詞 basically:
+        語修飾「基本的に」、文修飾「基本的に言えば、実のところ」。
+        文修飾の副詞は文頭に置くのが基本で、後ろにコンマを伴う。
+      ❸（問69）when接続詞:
+        疑問文の形でなければ接続詞「～するとき」で副詞節を形成。
+        when節が and で結ばれた2つの主節を同時に修飾している。
+
+  - id: "nta-012"
+    name: "部分否定"
+    category: "その他"
+    priority: "P1"
+    notes: |
+      Point分類: ❸〔否定〕（問70）
+      部分否定の概念と6つのパターンを理解する。
+      ■ 部分否定（問70 ❸）:
+        以下の語がnotのあとに置かれている場合は部分否定となる。
+        all「すべて」 → not all ~「すべてが～なわけではない」
+        always「いつも」 → not always ~「いつも～なわけではない」
+        both「両方の」 → not both ~「両方とも～なわけではない」
+        completely「完全に」 → not completely ~「完全に～なわけではない」
+        every「皆」 → not every ~「皆が～なわけではない」
+        necessarily「必ず」 → not necessarily ~「必ずしも～なわけではない」
+        例: I don't always use this PC.「いつもこのパソコンを使うわけではない」
+        He doesn't completely agree with the plan.「完全に同意しているわけではない」
+        You don't necessarily have to do the work.「必ずしもしなくてもよい」
+      ■ 文脈からの意味推測（問70 ❸）:
+        butの前後で対比を読み取る。前が「アメリカ人はsorryを本気で言う」なら、
+        後ろは「イギリス人にはそう聞こえない」と予想できる。
+      ❶（問70）mean it:
+        itがsorryを指し「sorryが表す文字どおりのことを意味する」。
+        mean it =「本気で言っている」（日常でもよく使う表現）。
+      ❷（問70）代名詞の指示対象の探し方:
+        「その前にある一番近い名詞」をまず考える。
+        だめならその前の名詞を探す。
+        本文: 2番目のtheyの最も近い複数形名詞はBritish earsだが、
+        文脈が合わないのでAmericansを指すと判断。
+
 understanding_goals:
   - node_id: "nta-001"
     seq: 1
@@ -405,6 +493,36 @@ understanding_goals:
   - node_id: "nta-009"
     seq: 3
     goal: "S+V that 副詞句, S'+V' のパターンで、副詞句がthat直後に前置される理由を説明できる"
+
+  - node_id: "nta-010"
+    seq: 1
+    goal: "否定文のanyが「少しも～ない」を意味し、noが強意形であることを区別できる"
+  - node_id: "nta-010"
+    seq: 2
+    goal: "否定語の影響範囲が右側全体に及ぶことを説明できる"
+  - node_id: "nta-010"
+    seq: 3
+    goal: "語否定（notが特定の語だけを否定する）と文否定の違いを区別できる"
+
+  - node_id: "nta-011"
+    seq: 1
+    goal: "hardlyが「ほとんど～ない」という否定語であることを識別できる"
+  - node_id: "nta-011"
+    seq: 2
+    goal: "-lyが付くと意味が変わる副詞（hard→hardly, late→lately, high→highly）を区別できる"
+  - node_id: "nta-011"
+    seq: 3
+    goal: "準否定語hardlyの文中での位置がnotと同じであることを説明できる"
+
+  - node_id: "nta-012"
+    seq: 1
+    goal: "部分否定の概念を説明し、全否定との違いを区別できる"
+  - node_id: "nta-012"
+    seq: 2
+    goal: "not + all/always/both/completely/every/necessarily の6パターンを列挙できる"
+  - node_id: "nta-012"
+    seq: 3
+    goal: "部分否定を含む文を正確に訳出できる"
 
 check_points:
   - node_id: "nta-001"
@@ -524,6 +642,45 @@ check_points:
     question: "S+V that 副詞句, S'+V' のパターンで、副詞句がthat直後に置かれる理由を説明せよ。"
     answer: "副詞句がV'を修飾していることを明確にするため。もし S+V that S'+V' 副詞句 と書くと、副詞句がVとV'のどちらを修飾するか曖昧になる。that直後に副詞句を置くことで修飾先を明確にし、情報の焦点（S'+V'）を後ろに置く効果もある。"
 
+  - node_id: "nta-010"
+    seq: 1
+    question: "否定文のanyとnoの関係を説明せよ。"
+    answer: "否定文のanyは「（少しも）～ない」の意味。noはanyの強意形。You don't get anywhere = You get nowhere。get nowhere / not get anywhere は直訳「どこにも到着しない」から抽象化して「成功しない」「何も得られない」の意味にもなる。"
+  - node_id: "nta-010"
+    seq: 2
+    question: "You don't get anywhere by not \"wasting\" time. の否定の構造を分析せよ。"
+    answer: "don'tは文否定で、影響範囲は右側全体（「～によって成功を得る」全体を否定）。by not \"wasting\" のnotは語否定で\"wasting\"だけを否定している。全体で「時間を浪費することをしなければ何も得られない」。引用符はぶらぶらすることが浪費ではないという筆者の考えを示す。"
+  - node_id: "nta-010"
+    seq: 3
+    question: "引用符（\" \"）が英文中で使われる場合、どのような意味を持つか？"
+    answer: "筆者がその語に疑念や特別な意味を抱いている場合に使う。本文の\"wasting\"は、一般に「浪費」とされるがアインシュタインのぶらぶらは浪費ではないという筆者の考えを示す。訳す場合には「　」をつける。"
+
+  - node_id: "nta-011"
+    seq: 1
+    question: "hard, late, highに-lyが付くとそれぞれどんな意味になるか？"
+    answer: "hardly =「ほとんど～ない」（hardの「熱心に」とは全く違う意味の否定語）。lately =「近頃」（lateの「遅く」とは違う意味）。highly =「おおいに」（highの「高く」とは違う意味）。"
+  - node_id: "nta-011"
+    seq: 2
+    question: "we're hardly aware of the things around us を訳し、hardlyの働きを説明せよ。"
+    answer: "「私達の周りのものをほとんど意識しない」。hardlyは準否定語で「ほとんど～ない」の意味。notと同じ位置に置かれる（we're hardly = we're not とほぼ同じ構造）。"
+  - node_id: "nta-011"
+    seq: 3
+    question: "形容詞と副詞が同形の語を3つ挙げよ。"
+    answer: "late（遅い/遅く）、fast（速い/速く）、hard（かたい・困難な/熱心に）、early（早い/早く）、high（高い/高く）など。これらは形容詞と副詞で同じ形。ただしhard→hardly, late→lately, high→highlyのように-lyを付けると別の意味になるものがあるので注意。"
+
+  - node_id: "nta-012"
+    seq: 1
+    question: "部分否定とは何か？ 全否定との違いを例を挙げて説明せよ。"
+    answer: "not + all/always/both/completely/every/necessarily 等の語が続く場合の否定で、「すべてが～なわけではない」のように一部を否定する。全否定（none/never/neither等）は全体を否定する。例: not all =「すべてが～なわけではない」（部分否定）、none =「1つも～ない」（全否定）。"
+  - node_id: "nta-012"
+    seq: 2
+    question: "not necessarily の意味を述べよ。"
+    answer: "「必ずしも～なわけではない」という部分否定。necessarily =「必ず」にnotが付いて部分否定になる。例: You don't necessarily have to do the work.「あなたは必ずしもその仕事をしなくてもよい」。"
+  - node_id: "nta-012"
+    seq: 3
+    question: "I don't always use this PC. を訳し、部分否定を指摘せよ。"
+    answer: "「いつもこのパソコンを使うわけではない」。not + always（「いつも」）で部分否定。「いつも使わない」（全否定）ではなく「使うときもあるが使わないときもある」という意味。"
+
 node_prerequisites:
   - node_id: "nta-001"
     prerequisite_id: "nbk-002"
@@ -544,6 +701,12 @@ node_prerequisites:
     prerequisite_id: "nbk-004"
   - node_id: "nta-009"
     prerequisite_id: "nbk-010"
+  - node_id: "nta-010"
+    prerequisite_id: "nbk-004"
+  - node_id: "nta-011"
+    prerequisite_id: "nta-010"
+  - node_id: "nta-012"
+    prerequisite_id: "nta-010"
 
 knowledge_references:
   - node_id: "nta-001"
@@ -590,3 +753,15 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_67"
     pages: "p.160-161"
+  - node_id: "nta-010"
+    book: "入門英文問題精講"
+    section_id: "Ny_68"
+    pages: "p.162-163"
+  - node_id: "nta-011"
+    book: "入門英文問題精講"
+    section_id: "Ny_69"
+    pages: "p.164-165"
+  - node_id: "nta-012"
+    book: "入門英文問題精講"
+    section_id: "Ny_70"
+    pages: "p.166-167"

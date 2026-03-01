@@ -1,0 +1,51 @@
+sentences:
+  - id: "ny-70-s1"
+    section_id: "Ny_70"
+    drill: 70
+    number: 1
+    role: "exercise"
+    english: "When Americans say sorry, they mostly mean it."
+    japanese: "アメリカ人が\"sorry\"と言うときには，たいていの場合そのままのことを意味する。"
+    notes: "出典: 筑波大学"
+  - id: "ny-70-s2"
+    section_id: "Ny_70"
+    drill: 70
+    number: 2
+    role: "exercise"
+    english: "But, at least to British ears, they don't necessarily mean anything else they say."
+    japanese: "しかし少なくともイギリス人の耳には，アメリカ人が言うほかのどんなことでも，必ずしも彼らはそれを本気で言っているわけではないように聞こえる。"
+    notes: "出典: 筑波大学"
+
+sentence_structures:
+  - sentence_id: "ny-70-s1"
+    label: "overall"
+    value: "従属節(when) S V O"
+
+  - sentence_id: "ny-70-s1"
+    label: "details"
+    value: "[When(従接) {S}Americans {V}say {O}sorry](M:副詞節), {S}they(=Americans) mostly(副詞「たいていの場合」) {V}mean {O}it(=sorry「そのままのことを意味する」)"
+
+  - sentence_id: "ny-70-s1"
+    label: "partial_translations"
+    value: |
+      ❶ アメリカ人がsorryと言うときはたいていの場合本気で言っている（mean it=「本気で言っている」「そのままのことを意味する」）
+
+  - sentence_id: "ny-70-s2"
+    label: "overall"
+    value: "S V O(関代省略)"
+
+  - sentence_id: "ny-70-s2"
+    label: "details"
+    value: "But(等接), (at least(副詞句) to British ears)(M:副詞句), {S}they(=Americans) {V}don't necessarily(部分否定「必ずしも～ない」) mean {O}anything else [{S}they(=Americans) {V}say](関代省略、先行詞anything→thatが好まれるが本文では省略)"
+
+  - sentence_id: "ny-70-s2"
+    label: "partial_translations"
+    value: |
+      ❸ 必ずしも本気で言っているわけではない（not necessarily = 部分否定「必ずしも～ない」）
+      ❷ 2番目のtheyもAmericans（直前のBritish earsではなく、文脈から判断）
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-70-s1"
+    node_id: "nta-012"
+  - sentence_id: "ny-70-s2"
+    node_id: "nta-012"

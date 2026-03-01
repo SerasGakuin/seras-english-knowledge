@@ -626,19 +626,26 @@ sections:
     title: "否定①"
     pages: "p.162-163"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: somethingの文中での働きは？
+      一言: 「無為な時間」を過ごすことも重要。想定外の新たな発想が浮かんでくることが科学的にも証明されている。
+      参考書内参照: →問65（❸の文と名詞の同格パターンが問65と同じ）
   - id: "Ny_69"
     book: "入門英文問題精講"
     title: "否定②"
     pages: "p.164-165"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: hardlyの一語で文の意味が変わる
+      一言: 英語では否定語は文の先頭近くに置くことが好まれる（立場の明確化）。それ以外では一番言いたいことを文末に置く（end focus「文末焦点」）。
   - id: "Ny_70"
     book: "入門英文問題精講"
     title: "否定③"
     pages: "p.166-167"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: 2番目のtheyは「アメリカ人」を指す
+      一言: イギリス人とアメリカ人は英語を使う点では同じだが、文化・気候・風土は異なる。同じだというのは間違い。
   - id: "Ny_71"
     book: "入門英文問題精講"
     title: "倒置①"
@@ -899,6 +906,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_67"
     node_id: "nta-009"
+    seq: 1
+  - section_id: "Ny_68"
+    node_id: "nta-010"
+    seq: 1
+  - section_id: "Ny_69"
+    node_id: "nta-011"
+    seq: 1
+  - section_id: "Ny_70"
+    node_id: "nta-012"
     seq: 1
 
 section_prerequisites: []

@@ -1,0 +1,48 @@
+sentences:
+  - id: "ny-68-s1"
+    section_id: "Ny_68"
+    drill: 68
+    number: 1
+    role: "exercise"
+    english: "In his youth, Albert Einstein spent a year idling aimlessly."
+    japanese: "アルベルト・アインシュタインは，若い頃，一年を目的もなくぶらぶら過ごしたことがある。"
+    notes: "出典: 信州大学"
+  - id: "ny-68-s2"
+    section_id: "Ny_68"
+    drill: 68
+    number: 2
+    role: "exercise"
+    english: "You don't get anywhere by not \"wasting\" time ― something, unfortunately, which the parents of teenagers tend frequently to forget."
+    japanese: "時間を「浪費する」ことをしなければ何も得られない。これは，残念ながら，ティーンエイジャーの子を持つ親がしばしば忘れがちなことである。"
+    notes: "出典: 信州大学"
+
+sentence_structures:
+  - sentence_id: "ny-68-s1"
+    label: "overall"
+    value: "M S V O"
+
+  - sentence_id: "ny-68-s1"
+    label: "details"
+    value: "(In his youth)(M:副詞句、文頭の前置詞+名詞), {S}Albert Einstein {V}spent {O}a year (idling(現在分詞) aimlessly(副詞))(M:付帯状況)"
+
+  - sentence_id: "ny-68-s2"
+    label: "overall"
+    value: "S V M — 文と名詞の同格(関係詞節付き)"
+
+  - sentence_id: "ny-68-s2"
+    label: "details"
+    value: "{S}You {V}don't get(否定:文否定、右側全体に及ぶ) anywhere(副詞:否定文のany=「少しも～ない」) (by not(語否定:wastingだけを否定) \"wasting\"(動名詞、引用符=筆者の疑念) time)(M:副詞句) — something(M:文と名詞の同格), unfortunately(M:副詞、挿入), [which(関代:目的格) {S}the parents (of teenagers)(M:形容詞句) {V}tend frequently(副詞:tendを修飾) to forget(to不定詞)](関代節)"
+
+  - sentence_id: "ny-68-s2"
+    label: "partial_translations"
+    value: |
+      ❷ 時間を「浪費する」ことをしなければ何も得られない（don'tの影響範囲は右側全体、by not "wasting"のnotは語否定でwastingだけを否定、引用符=筆者は浪費ではないと考えている）
+      ❸ これは10代の子を持つ親達がしばしば忘れがちなことである（文と名詞の同格、somethingが前文を要約）
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-68-s1"
+    node_id: "nta-010"
+  - sentence_id: "ny-68-s2"
+    node_id: "nta-010"
+  - sentence_id: "ny-68-s2"
+    node_id: "nta-007"

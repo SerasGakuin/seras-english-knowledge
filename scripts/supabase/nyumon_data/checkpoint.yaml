@@ -1,38 +1,39 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-03T03:00:00"
+updated_at: "2026-03-03T04:00:00"
 book: "入門英文問題精講"
 book_slug: "nyumon"
 
 current_state:
   phase: "Phase 2G"
-  current_section: "Ny_68"
+  current_section: "Ny_71"
   current_step: "Step 1"
-  last_completed_section: "Ny_67"
+  last_completed_section: "Ny_70"
   last_completed_gate: 5
 
 progress:
   total_sections: 85
-  completed: 80
+  completed: 83
   in_progress: 0
-  remaining: 5
-  total_nodes: 65
-  total_sentences: 199
+  remaining: 2
+  total_nodes: 68
+  total_sentences: 205
 
 recent_decisions:
-  - "Ny_65: nta-007（同格の応用: コンマによる同格と文の同格）— nta-006の拡張"
-  - "Ny_66: nta-008（副詞 otherwise の働き）— 新概念"
-  - "Ny_67: nta-009（that節直後の副詞句の前置）— 新概念"
-  - "Batch 27: 3ノード/3セクション = 1.0"
+  - "Ny_68: nta-010（否定の仕組み: anyとno、否定語の影響範囲）— ny-68-s2にnta-007もタグ付け（文と名詞の同格）"
+  - "Ny_69: nta-011（準否定語 hardly と-ly副詞の意味変化）— 出典なし"
+  - "Ny_70: nta-012（部分否定）— 6語の部分否定パターン"
+  - "Batch 28: 3ノード/3セクション = 1.0"
 
 active_concerns:
   - "nbk-001, nbk-002 は tagged sentences なし（基本講義ノードでは想定内）"
   - "CHECK-09 の ny-G** 命名規則エラーは既知の既存問題（基本講義ID体系）"
 
 next_actions:
-  - "Phase 2G Batch 28: Ny_68（否定①）→ Ny_69（否定②）→ Ny_70（否定③）"
-  - "3セクションプロトコル: Batch 27 完了 → ワークフロー再読込が必要"
+  - "Phase 2G Batch 29: Ny_71（倒置①）→ Ny_72（倒置②）— 最終2セクション"
+  - "3セクションプロトコル: Batch 28 完了 → ワークフロー再読込が必要"
+  - "Batch 29完了後: Phase 2G完了 → 章区切り全指示書再読込 → Phase 3（全体整合性チェック）"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

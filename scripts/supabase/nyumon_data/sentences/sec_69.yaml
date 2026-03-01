@@ -1,0 +1,51 @@
+sentences:
+  - id: "ny-69-s1"
+    section_id: "Ny_69"
+    drill: 69
+    number: 1
+    role: "exercise"
+    english: "According to Dr. Carter, it's not easy ― even for scientists ― to define sleep precisely."
+    japanese: "カーター博士によれば，睡眠を厳密に定義することは，科学者にとってさえ簡単ではない。"
+    notes: ""
+  - id: "ny-69-s2"
+    section_id: "Ny_69"
+    drill: 69
+    number: 2
+    role: "exercise"
+    english: "Basically, when we're asleep we're hardly aware of the things around us and we don't move much."
+    japanese: "基本的に，眠っているときには，周りのものをほとんど意識しないしあまり動かない。"
+    notes: ""
+
+sentence_structures:
+  - sentence_id: "ny-69-s1"
+    label: "overall"
+    value: "M, S V C — to不定詞(真主語)"
+
+  - sentence_id: "ny-69-s1"
+    label: "details"
+    value: "(According to Dr. Carter)(M:副詞句), {S}it(形式主語) {V}'s {C}not easy — (even for scientists)(M:副詞句、不定詞の意味上の主語) — (to define(to不定詞:真主語) sleep(O) precisely(副詞))(真主語)"
+
+  - sentence_id: "ny-69-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 睡眠を厳密に定義することは科学者にとってさえ簡単ではない（it=形式主語、to define sleep precisely=真主語、end focus「文末焦点」の法則）
+
+  - sentence_id: "ny-69-s2"
+    label: "overall"
+    value: "M, 従属節(when) S V C and S V M"
+
+  - sentence_id: "ny-69-s2"
+    label: "details"
+    value: "Basically(M:文修飾の副詞「基本的に言えば」), [when(従接) {S}we {V}'re {C}asleep(形容詞)](M:副詞節) {S}we {V}'re hardly(準否定語「ほとんど～ない」、notと同じ位置) {C}aware (of the things (around us)(M:形容詞句))(M:前置詞句) and {S}we {V}don't move much(副詞)(M)"
+
+  - sentence_id: "ny-69-s2"
+    label: "partial_translations"
+    value: |
+      ❹ 周りのものをほとんど意識しない（hardly=「ほとんど～ない」、否定語でnotと同じ位置に置かれる）
+      ❷ 基本的に言えば（basically=文修飾の副詞、文頭に置き後ろにコンマを伴うのが基本）
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-69-s1"
+    node_id: "nta-011"
+  - sentence_id: "ny-69-s2"
+    node_id: "nta-011"
