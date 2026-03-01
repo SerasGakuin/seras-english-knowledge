@@ -1,0 +1,103 @@
+# Nar_10_04: 原級を使った重要表現(1) (p.393-395)
+
+sentences:
+  - id: "nar-1004-e657"
+    section_id: "Nar_10_04"
+    drill: 0
+    number: 657
+    role: "example"
+    english: "He has seen as many Japanese movies as anybody in his class."
+    japanese: "彼はクラスの誰にも劣らず多くの日本映画を見ている"
+    notes: "as...as any+単数名。最上級に近い主観的表現。「誰にも劣らないくらいスゴイ」"
+  - id: "nar-1004-e658"
+    section_id: "Nar_10_04"
+    drill: 0
+    number: 658
+    role: "example"
+    english: "Haruichi is as great a guitarist as ever lived."
+    japanese: "ハルイチはきわめて偉大なギタリストだ"
+    notes: "as...as ever+過去形。今まで生きてきたどの人と比べても同じくらい偉大"
+  - id: "nar-1004-e659"
+    section_id: "Nar_10_04"
+    drill: 0
+    number: 659
+    role: "example"
+    english: "She is as pretty as ever."
+    japanese: "彼女は相変わらずかわいらしい"
+    notes: "as...as ever（過去形なし）=「相変わらず〜」。今までと同じように"
+  - id: "nar-1004-e660"
+    section_id: "Nar_10_04"
+    drill: 0
+    number: 660
+    role: "example"
+    english: "As many as 100 people were killed in the crash."
+    japanese: "その衝突で100人もの人々が死亡した"
+    notes: "強調のas many as。100 peopleの数の多さを強調"
+  - id: "nar-1004-e661"
+    section_id: "Nar_10_04"
+    drill: 0
+    number: 661
+    role: "example"
+    english: "He sometimes asks me to be at work as early as 6 o'clock."
+    japanese: "彼は、6時という早い時間に出勤するよう私に言うことがある"
+    notes: "強調のas early as。6時という早さを強調"
+  - id: "nar-1004-e662"
+    section_id: "Nar_10_04"
+    drill: 0
+    number: 662
+    role: "example"
+    english: "As recently as five years ago, I believed this myth, too."
+    japanese: "つい5年ほど前には私もこの神話を信じていた"
+    notes: "強調のas recently as。5年前がいかに最近かを強調"
+
+sentence_structures:
+  - sentence_id: "nar-1004-e657"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-1004-e657"
+    label: "details"
+    value: "<He>(S) has seen(V) <as many Japanese movies as anybody in his class>(O:as...as any)"
+  - sentence_id: "nar-1004-e658"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-1004-e658"
+    label: "details"
+    value: "<Haruichi>(S) is(V) <as great a guitarist as ever lived>(C:as...as ever+過去形)"
+  - sentence_id: "nar-1004-e659"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-1004-e659"
+    label: "details"
+    value: "<She>(S) is(V) <as pretty as ever>(C:as...as ever/相変わらず)"
+  - sentence_id: "nar-1004-e660"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-1004-e660"
+    label: "details"
+    value: "<As many as 100 people>(S:強調) were killed(V:受動) [in the crash](M)"
+  - sentence_id: "nar-1004-e661"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-1004-e661"
+    label: "details"
+    value: "<He>(S) sometimes asks(V) <me>(O) <to be at work [as early as 6 o'clock](M:強調)>(C)"
+  - sentence_id: "nar-1004-e662"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "nar-1004-e662"
+    label: "details"
+    value: "[As recently as five years ago](M:強調) <I>(S) believed(V) <this myth>(O) too"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1004-e657"
+    node_id: "nrp-024"
+  - sentence_id: "nar-1004-e658"
+    node_id: "nrp-024"
+  - sentence_id: "nar-1004-e659"
+    node_id: "nrp-024"
+  - sentence_id: "nar-1004-e660"
+    node_id: "nrp-024"
+  - sentence_id: "nar-1004-e661"
+    node_id: "nrp-024"
+  - sentence_id: "nar-1004-e662"
+    node_id: "nrp-024"

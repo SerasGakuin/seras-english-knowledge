@@ -331,6 +331,184 @@ knowledge_nodes:
       [図表: イラスト — トンネルを通り抜ける電車/through（p.381）]
       プラスα: about 100 pounds＝100ポンドの周辺→およそ100ポンド
       プラスα: on toと2語にすることもある
+  # B-12: Part 10 比較
+  - id: "nrp-021"
+    name: "比較の基本原則（3形式・対等原則・thanの格）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      比較の3形式: ❶原級(2者が同じ) ❷比較級(2者に差) ❸最上級(3者以上の順番づけ)。
+      最上級＝「一番」は短絡的。3者以上の順番づけが基本（1番でも88番でも最下位でも使える）。
+      比較の大原則: 比較対象は意味上・文法上対等でなければならない。
+      (✕) The population of Tokyo is six times as large as Miyagi. → that of Miyagiが必要。
+      thanの後の格で比較対象が変わる: than she (does)→主語比較、than her→目的語比較。
+      現在は多くのネイティブがthanを前置詞と捉えるため、主語比較でもmeを使うことがある。
+      [図表: 比較の3つの形 — 原級(同じ)・比較級(差)・最上級(順番)（p.384）]
+      [図表: 比較の基本原則 — 比較対象は意味上・文法上対等（p.385）]
+      [図表: thanの後はIかmeか問題 — 接続詞I vs 前置詞me（p.386）]
+      プラスα: 意味上対等とは人間と動物に限らず「見た目と中身」「過去と現在」なども含む
+      [別冊ポイント228: 最上級にはtheがつくことが多いが、同一物内の比較（This lake is deepest at that point.）ではtheなし]
+      [別冊ポイント240: ラテン比較 — superior/inferior/senior/junior to、prefer A to B、prior to。比較対象にthanではなくtoを用いる]
+  - id: "nrp-022"
+    name: "原級を用いた表現〈as...as〜〉（品詞・役割・語順・否定）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      2つのasの品詞: 1つ目＝副詞（veryと同位置）、2つ目＝接続詞（または前置詞）。
+      2つのasの役割: 1つ目の後＝比較の基準（何について比べるか）、2つ目の後＝比較の対象（誰/何と比べるか）。
+      語順: as good a voice — 副詞asと形容詞goodが相性よくくっつくため、goodがasの直後に移動。
+      否定文でも〈as...as〜〉が主流。肯定文で〈so...as〜〉は不可。
+      [図表: 2つのasの品詞 — 1つ目=副詞、2つ目=接続詞/前置詞（p.387）]
+      [図表: 2つのasの役割 — 1つ目の後=基準、2つ目の後=対象（p.388）]
+      [図表: She is as old as Mary.の構造図（p.388）]
+      別冊ポイント230参照
+  - id: "nrp-023"
+    name: "倍数表現と〈as...as〜〉の注意点（倍数・意味希薄化・A≧B）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      倍数表現: 最初のasの直前に倍数を追加。❶倍数+❷基準+❸対象の語順。
+      2倍=twice、3倍以降=~times、半分=half、4分の1=a quarter。
+      名詞倍数表現: twice the size of Japan（size/weight/age/height/length/number/amount限定）。
+      倍数+比較級+than: four times heavier than（ただしtwiceはas...asが通例）。
+      比較表現中の形容詞の意味希薄化: oldは「年老いた」ではなく「年齢」の基準を示すに過ぎない。
+      as...asの意味: 厳密にはA≧B。A=Bを正確に示すにはjust/exactlyを添える。
+      プラスα: twice the size of — 英語の弱・強交互のリズム（twice強 the弱 size強 of弱）
+      プラスα: youngを使うと「幼い」含みが出る。話者の主観による
+      別冊ポイント231参照
+  - id: "nrp-024"
+    name: "原級を使った重要表現(1)（as any・as ever・強調のas...as）"
+    category: "nrp"
+    priority: "P2"
+    notes: |
+      as...as any+単数名: 「どんな◎にも劣らず〜」。最上級に近い主観的表現。
+      as...as ever+過去形: 「きわめて〜、並はずれて〜」。今まで生きてきたどの人と比べても。
+      as...as ever（過去形なし）: 「相変わらず〜」。
+      強調のas...as: as many as（数）、as much as（量）、as early as（時間）、as recently as（最近）。
+      使われる語によって様々な強調表現が可能。
+      別冊ポイント232❶❷❸参照
+  - id: "nrp-025"
+    name: "原級を使った重要表現(2)（not so much A as B・not so much as V・as many・as...as can）"
+    category: "nrp"
+    priority: "P2"
+    notes: |
+      not so much A as B: 「AというよりむしろB」。notに近いA側を否定、B側にスポットライト。
+      =B rather than A（AとBの位置が逆転する点に注意）。和訳問題頻出。
+      not so much as V: 「Vさえしない」。
+      without so much as Ving: 「Vさえしないで」（withoutは前置詞→後ろは動名詞）。
+      as many+複数名: 前出の数と同数。He read ten books in as many days.＝10日で10冊。
+      as...as S can = as...as possible: 「できるだけ〜」。過去時制ではcouldになる。
+      別冊ポイント232❹❺❻参照
+  - id: "nrp-026"
+    name: "比較級・最上級の強調（3分類強調・差の表現・no比較級・最上級強調）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      比較級の強調3分類:
+      ❶量的: much, a good[great] deal, a lot, lots
+      ❷距離的: far, by far（by farは比較級の後ろに置くのが通例）
+      ❸さらに: even, still
+      差の表現バリエーション: two years older / much older / a little older / no older
+      no+比較級: 差ゼロ＝同じ。no richer than you → as poor as you（反意語で書き換え）。
+      最上級の強調:
+      ❶ (by) far / much + the + 最上級
+      ❷ the very + 最上級
+      置かれる位置がtheの左右で異なる点に注意。
+      プラスα: no richerは「リッチではない＝貧乏」の含み→書き換えではpoorを使う
+      プラスα: by farはthe best store by farのように後置も可能
+      別冊ポイント233・234・235参照
+  - id: "nrp-027"
+    name: "比較級を使った重要表現(1)（the比較級 of the two・all[none]+the+比較級）"
+    category: "nrp"
+    priority: "P2"
+    notes: |
+      the+比較級+of the two: 「2者のうちより〜な方」。2者中の片方は自動的に決まる→theが付く。
+      指示副詞the: 「その分だけ」の意味。冠詞のtheとは別の品詞。
+      all[none]+the+比較級+理由表現:
+      ❶ theは指示副詞「その分だけ」
+      ❷ allは強調、noneは否定（正反対の意味になる）
+      ❸ for〜, because〜, if節, when節, 分詞構文, 前文の内容などの理由表現がセット
+      プラスα: the+最上級+of the twoを使うネイティブもいるが入試では比較級を選ぶのが無難
+      プラスα: of the twoが文頭にあったり、なくても2者前提なら使える
+      別冊ポイント236参照
+  - id: "nrp-028"
+    name: "比較級を使った重要表現(2)（The比較級構文・比例関係・省略・書き換え）"
+    category: "nrp"
+    priority: "P2"
+    notes: |
+      The+比較級..., the+比較級〜構文の特徴:
+      ❶ 各the+比較級は後ろのS+V中に戻して考えられる
+      ❷ S+Vが2つでもandなどの等位接続詞は不要
+      ❸ 後半のthe＝指示副詞「その分だけ」
+      ❹ 比例関係を意識して「…すればするほど、その分だけより〜」と訳す
+      前半＝従属節、後半＝主節。
+      more famous / less privacyはセットで文頭に移動（分離不可）。
+      省略: The sooner, the better.（主語・動詞の省略）
+      書き換え: As you grow older, you will become wiser. / You will become wiser with age.
+      プラスα(ハイレベル): 前半のthe＝関係副詞（by how much）。これが文と文をつなぐ機能を果たす
+      別冊ポイント237参照
+  - id: "nrp-029"
+    name: "比較級を使った重要表現(3)（still less/let alone・more原級than原級・less...than）"
+    category: "nrp"
+    priority: "P2"
+    notes: |
+      否定的内容..., still less/much less/even less/let alone〜: 「まして〜ない」。
+      先行文はnotの否定文でなくてもよい（否定的内容と解釈できれば可）。
+      (✕) still more/much moreは英語に存在しないと考える。
+      肯定的表現にはand...even betterやto say nothing of〜を使う。
+      more原級(A) than原級(B): 同一人物/モノの2性質比較。「BというよりむしろA」。
+      thanにつられてstingierとしない（原級を使う）。2者比較なら通常の比較級。
+      less...than〜: 使用頻度は低い。not as[so]...asの方が普通。
+      別冊ポイント238・239参照
+  - id: "nrp-030"
+    name: "比較級を使った重要表現(4)（no more than・no less than・not more than・not less than）"
+    category: "nrp"
+    priority: "P2"
+    notes: |
+      no more than / no less than:
+      共通点: 金額ぴったり。noが比較級の差を打ち消す→差ゼロ＝ぴったり。
+      相違点: 感覚の違い。
+      no more than＝「多くないなあ（少ない!）」→only
+      no less than＝「少なくないなあ（多い!）」→as many[much] as
+      not more than / not less than:
+      not more than＝「〜より多くない→多くとも〜」→at most
+      not less than＝「〜より少なくない→少なくとも〜」→at least
+      プラスα: 比較級は差を表す。noがその差を打ち消すので差ゼロ＝ぴったり
+      別冊ポイント241参照
+  - id: "nrp-031"
+    name: "〈no more...than〜〉の構文（クジラ構文・ホップステップジャンプ）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      no more...than〜（クジラの構文）:
+      ホップ: thanを中心に左右を[A][B]に分ける
+      ステップ: than以下の省略を補う（[A]の文を参考に）
+      ジャンプ: no more...than→左右どちらも否定
+      than右側[B]には「事実ではないこと」「積極的に評価したくないこと」が置かれる。
+      主張は常にthanの左側[A]。訳出は[B]→[A]の流れがビシッと決まる。
+      not...any more than〜への書き換え可能（noをnotとanyに分ける）。
+      no less...than〜: 左右どちらも肯定。than右側には「誰もが納得する明白な例」。
+      使用頻度はno more...thanに比べてぐっと低い。as...asの方が一般的。
+      プラスα: 符号計算の非常手段 — no(-)×more(+)=マイナス(否定)、no(-)×less(-)=プラス(肯定)
+      [図表: イラスト — 泳ぐ人の絵でクジラ構文の意味を視覚化（p.415）]
+      [図表: イラスト — 兄弟の絵でno less...thanの「どちらも肯定」を視覚化（p.416-417）]
+      別冊ポイント242参照
+  - id: "nrp-032"
+    name: "最上級相当表現（比較級/原級を使った最上級表現）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      最上級相当表現の主要パターン:
+      ❶ 比較級+any other+単数名（トーナメント戦で1対1→単数）
+      ❷ No (other)+名+as[so]+原級+as〜（同じくらいの存在がゼロ→実質一番）
+      ❸ Nothing+as[so]+原級+as〜（モノの場合）
+      ❹ more+原級+than anything else
+      ❺ the most+最上級+(that)+S have ever+過去分詞
+      ❻ S have never seen such+a+原級+名+as〜
+      (△) No other+比較級+than〜は最上級相当に不適切（同程度の存在を排除しない）。
+      (△) Nothing is more precious than time.も同様の理由で避けたい。
+      [図表: 国の広さGPトーナメント表 — 比較は1対1（p.418）]
+      別冊ポイント243参照
 
 understanding_goals:
   - node_id: "nrp-001"
@@ -540,6 +718,133 @@ understanding_goals:
   - node_id: "nrp-020"
     seq: 4
     goal: "acrossとthroughの違い（平面vs立体）を説明できる"
+  # B-12: Part 10 比較
+  - node_id: "nrp-021"
+    seq: 1
+    goal: "比較の3形式（原級・比較級・最上級）を説明できる"
+  - node_id: "nrp-021"
+    seq: 2
+    goal: "比較対象の対等原則を理解して正しい比較文を作れる"
+  - node_id: "nrp-021"
+    seq: 3
+    goal: "thanの後の格（主格vs目的格）の違いを判別できる"
+  - node_id: "nrp-022"
+    seq: 1
+    goal: "2つのasの品詞の違い（副詞/接続詞）を説明できる"
+  - node_id: "nrp-022"
+    seq: 2
+    goal: "2つのasの役割の違い（基準/対象）を説明できる"
+  - node_id: "nrp-022"
+    seq: 3
+    goal: "as+形容詞+a+名詞の語順を正しく作れる"
+  - node_id: "nrp-022"
+    seq: 4
+    goal: "否定文での〈as [so]...as〜〉の使い分けを理解している"
+  - node_id: "nrp-023"
+    seq: 1
+    goal: "倍数表現の基本構造（倍数+as...as）を使いこなせる"
+  - node_id: "nrp-023"
+    seq: 2
+    goal: "名詞を使った倍数表現（twice the size of）を理解している"
+  - node_id: "nrp-023"
+    seq: 3
+    goal: "比較表現中の形容詞の意味が希薄化することを理解している"
+  - node_id: "nrp-023"
+    seq: 4
+    goal: "as...asが厳密にはA≧Bであることを知っている"
+  - node_id: "nrp-024"
+    seq: 1
+    goal: "as...as any+単数名の意味と用法を説明できる"
+  - node_id: "nrp-024"
+    seq: 2
+    goal: "as...as ever+過去形の意味を説明できる"
+  - node_id: "nrp-024"
+    seq: 3
+    goal: "強調のas...as（as many as等）の仕組みを理解している"
+  - node_id: "nrp-025"
+    seq: 1
+    goal: "not so much A as Bの意味と構造を正しく把握できる"
+  - node_id: "nrp-025"
+    seq: 2
+    goal: "not so much as Vの意味を理解し、without so much as Vingとの書き換えができる"
+  - node_id: "nrp-025"
+    seq: 3
+    goal: "as many+複数名の用法を理解している"
+  - node_id: "nrp-025"
+    seq: 4
+    goal: "as...as S canの意味と書き換え(as...as possible)を説明できる"
+  - node_id: "nrp-026"
+    seq: 1
+    goal: "比較級の3種類の強調表現を使い分けられる"
+  - node_id: "nrp-026"
+    seq: 2
+    goal: "比較級の「差」の表現バリエーションを理解している"
+  - node_id: "nrp-026"
+    seq: 3
+    goal: "no+比較級=差ゼロの展開を理解し書き換えができる"
+  - node_id: "nrp-026"
+    seq: 4
+    goal: "最上級の2種類の強調表現の語順を正しく使える"
+  - node_id: "nrp-027"
+    seq: 1
+    goal: "the+比較級+of the twoの意味とtheの理由を説明できる"
+  - node_id: "nrp-027"
+    seq: 2
+    goal: "all[none]+the+比較級+理由表現の構造を分析できる"
+  - node_id: "nrp-027"
+    seq: 3
+    goal: "指示副詞theの「その分だけ」の用法を理解している"
+  - node_id: "nrp-028"
+    seq: 1
+    goal: "The+比較級..., the+比較級〜構文の構造を分析できる"
+  - node_id: "nrp-028"
+    seq: 2
+    goal: "比例関係を意識した訳出ができる"
+  - node_id: "nrp-028"
+    seq: 3
+    goal: "S+V2つでも等位接続詞不要な理由を理解している"
+  - node_id: "nrp-028"
+    seq: 4
+    goal: "as/withを使った書き換えができる"
+  - node_id: "nrp-029"
+    seq: 1
+    goal: "still less/much less/let aloneの用法を理解し使い分けられる"
+  - node_id: "nrp-029"
+    seq: 2
+    goal: "1者2性質比較（more原級than原級）の構造を理解している"
+  - node_id: "nrp-029"
+    seq: 3
+    goal: "less...than〜の意味を把握しnot as...asとの書き換えができる"
+  - node_id: "nrp-030"
+    seq: 1
+    goal: "no more thanとno less thanの共通点・相違点を説明できる"
+  - node_id: "nrp-030"
+    seq: 2
+    goal: "not more thanとnot less thanの意味を直訳で導出できる"
+  - node_id: "nrp-030"
+    seq: 3
+    goal: "4つの表現の書き換えを正確に行える"
+  - node_id: "nrp-031"
+    seq: 1
+    goal: "no more...than〜（クジラ構文）のホップ・ステップ・ジャンプ解法を使える"
+  - node_id: "nrp-031"
+    seq: 2
+    goal: "no less...than〜との対比を理解している"
+  - node_id: "nrp-031"
+    seq: 3
+    goal: "not...any more thanへの書き換えができる"
+  - node_id: "nrp-032"
+    seq: 1
+    goal: "比較級+any other+単数名による最上級相当表現を使える"
+  - node_id: "nrp-032"
+    seq: 2
+    goal: "No other+as...as/Nothing+as...asによる最上級相当表現を使える"
+  - node_id: "nrp-032"
+    seq: 3
+    goal: "ever/neverを使った最上級相当表現の構造を理解している"
+  - node_id: "nrp-032"
+    seq: 4
+    goal: "最上級と相当表現の微妙な違いを理解している"
 
 check_points:
   - node_id: "nrp-001"
@@ -806,6 +1111,159 @@ check_points:
     seq: 4
     question: "acrossとthroughの違いは？"
     answer: "across＝平面を横切る（crossが含まれている）。through＝立体を通り抜ける"
+  # B-12: Part 10 比較
+  - node_id: "nrp-021"
+    seq: 1
+    question: "比較の3形式はそれぞれどのような場面で使うか？"
+    answer: "原級＝2者を比べて同じ、比較級＝2者を比べて差がある、最上級＝3者以上の順番づけ"
+  - node_id: "nrp-021"
+    seq: 2
+    question: "(✕) The population of Tokyo is six times as large as Miyagi. の誤りは何か？"
+    answer: "人口と地名は意味上対等ではない。that of Miyagi（thatはthe populationの代名詞）とすべき"
+  - node_id: "nrp-021"
+    seq: 3
+    question: "I love my son more than she. と more than her. の意味の違いは？"
+    answer: "than she (does)＝主語同士の比較（私vs彼女が息子を愛する度合い）。than her＝目的語同士の比較（息子vs彼女への愛情）"
+  - node_id: "nrp-021"
+    seq: 4
+    question: "thanの後にIではなくmeが来ることがあるのはなぜか？"
+    answer: "現在は多くのネイティブがthanを前置詞として捉えるため、meも使われる"
+  - node_id: "nrp-022"
+    seq: 1
+    question: "〈as...as〜〉の1つ目のasと2つ目のasの品詞の違いは？"
+    answer: "1つ目＝副詞（veryと同位置）、2つ目＝接続詞（または前置詞）"
+  - node_id: "nrp-022"
+    seq: 2
+    question: "〈as...as〜〉の1つ目のasと2つ目のasの役割の違いは？"
+    answer: "1つ目の後＝比較の基準（何について比べるか）、2つ目の後＝比較の対象（誰/何と比べるか）"
+  - node_id: "nrp-022"
+    seq: 3
+    question: "as good a voiceの語順になる理由は？"
+    answer: "副詞asと形容詞goodが相性よくくっつくため、goodがasの直後に移動する"
+  - node_id: "nrp-022"
+    seq: 4
+    question: "否定文でのas...asとso...asの使い分けは？"
+    answer: "否定文でもasが主流。肯定文でso...asは不可"
+  - node_id: "nrp-023"
+    seq: 1
+    question: "倍数表現の語順は？"
+    answer: "❶倍数+❷比較の基準(as...)+❸比較対象(as〜)。倍数は最初のasの直前に追加"
+  - node_id: "nrp-023"
+    seq: 2
+    question: "twice the size ofのような倍数表現はどんな名詞で使えるか？"
+    answer: "size, weight, age, height, length, number, amountなどの名詞限定"
+  - node_id: "nrp-023"
+    seq: 3
+    question: "as...asの意味は厳密にはA=Bではなく何か？"
+    answer: "A≧B。「少なくとも同じくらい」の含みがあり、Aの方が上の可能性もある。A=Bを正確に示すにはjust/exactlyを添える"
+  - node_id: "nrp-024"
+    seq: 1
+    question: "as...as any+単数名はどのような意味か？"
+    answer: "「どんな◎にも劣らず〜」。最上級に近い主観的表現"
+  - node_id: "nrp-024"
+    seq: 2
+    question: "as...as ever+過去形とas...as ever（過去形なし）の意味の違いは？"
+    answer: "as...as ever+過去形＝「きわめて〜、並はずれて〜」。as...as ever＝「相変わらず〜」"
+  - node_id: "nrp-024"
+    seq: 3
+    question: "As many as 100 people were killed. のas many asは何を強調しているか？"
+    answer: "100 peopleの数の多さを強調。「100人もの」。as much asなら量、as early asなら時間の早さを強調"
+  - node_id: "nrp-025"
+    seq: 1
+    question: "not so much A as Bの意味と書き換えは？"
+    answer: "「AというよりむしろB」。=B rather than A（A,Bの位置が逆転する点に注意）"
+  - node_id: "nrp-025"
+    seq: 2
+    question: "not so much as Vとwithout so much as Vingの違いは？"
+    answer: "意味は同じ「Vさえしない/しないで」。withoutは前置詞なので後ろは動名詞(Ving)"
+  - node_id: "nrp-025"
+    seq: 3
+    question: "He read ten books in as many days. の意味は？"
+    answer: "10日間で10冊読んだ。as manyは前出の数(ten)と同数を表す"
+  - node_id: "nrp-026"
+    seq: 1
+    question: "比較級の強調表現の3分類は？"
+    answer: "❶量的: much, a good[great] deal, a lot, lots ❷距離的: far, by far ❸さらに: even, still"
+  - node_id: "nrp-026"
+    seq: 2
+    question: "no+比較級はどのような意味になるか？"
+    answer: "差がゼロ＝同じ。no richer than you→as poor as you（反意語に書き換え）"
+  - node_id: "nrp-026"
+    seq: 3
+    question: "最上級の強調表現の2パターンは？"
+    answer: "❶(by) far/much+the+最上級 ❷the very+最上級。置かれる位置がtheの左右で異なる"
+  - node_id: "nrp-027"
+    seq: 1
+    question: "the+比較級+of the twoのtheはなぜ付くか？"
+    answer: "2者のうち〜な方と言えば1つに自動的に決まるため。theは特定を表す"
+  - node_id: "nrp-027"
+    seq: 2
+    question: "all the betterのtheは何の品詞で何の意味か？"
+    answer: "指示副詞で「その分だけ」の意味。allは強調、noneは否定"
+  - node_id: "nrp-027"
+    seq: 3
+    question: "all[none]+the+比較級の後にどのような表現が続くか？"
+    answer: "理由表現（for〜, because〜, if節, when節, 分詞構文, 前文の内容など）"
+  - node_id: "nrp-028"
+    seq: 1
+    question: "The+比較級..., the+比較級〜構文の4つの特徴は？"
+    answer: "❶各the+比較級はS+V中に戻せる ❷and不要 ❸後半のthe＝指示副詞「その分だけ」 ❹比例関係で訳す"
+  - node_id: "nrp-028"
+    seq: 2
+    question: "The more famous you become, the less privacy you have. でmore famousやless privacyを分離してはいけない理由は？"
+    answer: "more famousは1つの比較級、less privacyはlittle privacyの比較級。セットで文頭に移動する"
+  - node_id: "nrp-028"
+    seq: 3
+    question: "The+比較級構文のas/withを使った書き換えは？"
+    answer: "As you grow older, you will become wiser. / You will become wiser with age."
+  - node_id: "nrp-029"
+    seq: 1
+    question: "「まして〜ない」を表す表現を4つ挙げよ"
+    answer: "still less, much less, even less, let alone。先行する文は否定的内容（notの否定文でなくてもよい）"
+  - node_id: "nrp-029"
+    seq: 2
+    question: "more原級(A) than原級(B)はどのような場面で使うか？"
+    answer: "同一人物/モノの中にある2つの性質を比較。「BよりむしろA」。2者比較ならstingierのような通常の比較級"
+  - node_id: "nrp-029"
+    seq: 3
+    question: "less...than〜の使用頻度と代替表現は？"
+    answer: "使用頻度は低い。not as[so]...as〜の方が普通"
+  - node_id: "nrp-030"
+    seq: 1
+    question: "no more thanとno less thanの共通点は何か？"
+    answer: "どちらも金額ぴったり。noが比較級の差を打ち消すので差ゼロ＝ぴったり"
+  - node_id: "nrp-030"
+    seq: 2
+    question: "no more thanとno less thanの相違点は何か？"
+    answer: "感覚の違い。no more than＝多くないなあ（少ない!）→only。no less than＝少なくないなあ（多い!）→as many/much as"
+  - node_id: "nrp-030"
+    seq: 3
+    question: "not more thanとnot less thanの意味は？"
+    answer: "not more than＝「多くとも〜」(at most)。not less than＝「少なくとも〜」(at least)"
+  - node_id: "nrp-031"
+    seq: 1
+    question: "〈no more...than〜〉のホップ・ステップ・ジャンプ解法とは？"
+    answer: "ホップ: thanで左右に分割。ステップ: than以下の省略を補う。ジャンプ: no moreなら左右どちらも否定"
+  - node_id: "nrp-031"
+    seq: 2
+    question: "no more...thanとno less...thanでthan右側に置かれるものの違いは？"
+    answer: "no more: 事実でないこと/評価したくないこと。no less: 誰もが納得する明白な例"
+  - node_id: "nrp-031"
+    seq: 3
+    question: "no more...thanの別の表現形式は？"
+    answer: "not...any more than〜（noをnotとanyに分ける）"
+  - node_id: "nrp-032"
+    seq: 1
+    question: "比較級+any other+単数名で最上級を表す際、なぜ単数名か？"
+    answer: "実際の比較はトーナメント戦のように1対1でしかできないから"
+  - node_id: "nrp-032"
+    seq: 2
+    question: "No (other)+名+as large asで最上級を表す仕組みは？"
+    answer: "同じくらい広い国がゼロ＝実質一番。No other+比較級+thanは不適切（同程度の存在を排除しない）"
+  - node_id: "nrp-032"
+    seq: 3
+    question: "最上級+(that)+S have ever+過去分詞の表現とnever+such構文の関係は？"
+    answer: "同義。ever→今まで〜した中で最上。neverはnot+ever。such an exciting movie as thisの形"
 
 node_prerequisites:
   - node_id: "nrp-002"
@@ -828,6 +1286,15 @@ node_prerequisites:
     prerequisite_id: "nrp-018"
   - node_id: "nrp-020"
     prerequisite_id: "nrp-019"
+  # B-12: Part 10 比較
+  - node_id: "nrp-025"
+    prerequisite_id: "nrp-024"
+  - node_id: "nrp-028"
+    prerequisite_id: "nrp-027"
+  - node_id: "nrp-029"
+    prerequisite_id: "nrp-028"
+  - node_id: "nrp-030"
+    prerequisite_id: "nrp-029"
 
 knowledge_references:
   - node_id: "nrp-001"
@@ -910,3 +1377,52 @@ knowledge_references:
     book: "成川の深めて解ける！英文法 INPUT"
     section_id: "Nar_09_20"
     pages: "p.379-382"
+  # B-12: Part 10 比較
+  - node_id: "nrp-021"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_10_01"
+    pages: "p.384-386"
+  - node_id: "nrp-022"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_10_02"
+    pages: "p.387-389"
+  - node_id: "nrp-023"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_10_03"
+    pages: "p.390-392"
+  - node_id: "nrp-024"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_10_04"
+    pages: "p.393-395"
+  - node_id: "nrp-025"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_10_05"
+    pages: "p.396-398"
+  - node_id: "nrp-026"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_10_06"
+    pages: "p.399-401"
+  - node_id: "nrp-027"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_10_07"
+    pages: "p.402-404"
+  - node_id: "nrp-028"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_10_08"
+    pages: "p.405-408"
+  - node_id: "nrp-029"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_10_09"
+    pages: "p.409-411"
+  - node_id: "nrp-030"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_10_10"
+    pages: "p.412-414"
+  - node_id: "nrp-031"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_10_11"
+    pages: "p.415-417"
+  - node_id: "nrp-032"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_10_12"
+    pages: "p.418-420"

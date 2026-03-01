@@ -1,0 +1,71 @@
+# Nar_10_07: 比較級を使った重要表現(1) (p.402-404)
+
+sentences:
+  - id: "nar-1007-e673"
+    section_id: "Nar_10_07"
+    drill: 0
+    number: 673
+    role: "example"
+    english: "The student I met the other day is the taller of the two."
+    japanese: "私が先日会った生徒は2人のうち背が高い方の子だ"
+    notes: "the+比較級+of the two。2者のうち一方に決まるのでtheが付く"
+  - id: "nar-1007-e674"
+    section_id: "Nar_10_07"
+    drill: 0
+    number: 674
+    role: "example"
+    english: "I like her all the better for her faults."
+    japanese: "欠点があるせいで、私はなおさら彼女が好きだ"
+    notes: "all the better for〜。the=指示副詞「その分だけ」、all=強調、for=理由"
+  - id: "nar-1007-e675"
+    section_id: "Nar_10_07"
+    drill: 0
+    number: 675
+    role: "example"
+    english: "If you take a vacation, you will feel all the better."
+    japanese: "休暇をとれば、それだけ気分も一新するだろう"
+    notes: "all the better。理由表現がif節で表されるパターン"
+  - id: "nar-1007-e676"
+    section_id: "Nar_10_07"
+    drill: 0
+    number: 676
+    role: "example"
+    english: "She was none the wiser because of the seminar."
+    japanese: "彼女はそのセミナーを受けたが、それでもわかるようにはならなかった"
+    notes: "none the wiser。noneは否定で「少しも〜ない」。allの正反対"
+
+sentence_structures:
+  - sentence_id: "nar-1007-e673"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-1007-e673"
+    label: "details"
+    value: "<The student [I met the other day]>(S:関係代名詞省略) is(V) <the taller of the two>(C:the+比較級+of the two)"
+  - sentence_id: "nar-1007-e674"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-1007-e674"
+    label: "details"
+    value: "<I>(S) like(V) <her>(O) [all the better](M:指示副詞the/強調all) [for her faults](M:理由)"
+  - sentence_id: "nar-1007-e675"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "nar-1007-e675"
+    label: "details"
+    value: "[If you take a vacation](M:条件/理由) <you>(S) will feel(V) [all the better](M:指示副詞the/強調all)"
+  - sentence_id: "nar-1007-e676"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "nar-1007-e676"
+    label: "details"
+    value: "<She>(S) was(V) [none the wiser](M:指示副詞the/否定none) [because of the seminar](M:理由)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1007-e673"
+    node_id: "nrp-027"
+  - sentence_id: "nar-1007-e674"
+    node_id: "nrp-027"
+  - sentence_id: "nar-1007-e675"
+    node_id: "nrp-027"
+  - sentence_id: "nar-1007-e676"
+    node_id: "nrp-027"

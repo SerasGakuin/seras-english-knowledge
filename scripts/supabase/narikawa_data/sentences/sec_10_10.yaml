@@ -1,0 +1,39 @@
+# Nar_10_10: 比較級を使った重要表現(4) (p.412-414)
+
+sentences:
+  - id: "nar-1010-e687"
+    section_id: "Nar_10_10"
+    drill: 0
+    number: 687
+    role: "example"
+    english: "She paid no more than $100 for the handbag."
+    japanese: "彼女はそのハンドバッグに100ドルしか払っていなかった"
+    notes: "no more than=「多くないなあ（少ない!）→〜しか」。100ドルぴったり。=only $100"
+  - id: "nar-1010-e688"
+    section_id: "Nar_10_10"
+    drill: 0
+    number: 688
+    role: "example"
+    english: "She paid no less than $100 for the handbag."
+    japanese: "彼女はそのハンドバッグに100ドルも払った"
+    notes: "no less than=「少なくないなあ（多い!）→〜もの」。100ドルぴったり。=as much as $100"
+
+sentence_structures:
+  - sentence_id: "nar-1010-e687"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-1010-e687"
+    label: "details"
+    value: "<She>(S) paid(V) <no more than $100>(O:no more than/少ない感覚) [for the handbag](M)"
+  - sentence_id: "nar-1010-e688"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-1010-e688"
+    label: "details"
+    value: "<She>(S) paid(V) <no less than $100>(O:no less than/多い感覚) [for the handbag](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1010-e687"
+    node_id: "nrp-030"
+  - sentence_id: "nar-1010-e688"
+    node_id: "nrp-030"

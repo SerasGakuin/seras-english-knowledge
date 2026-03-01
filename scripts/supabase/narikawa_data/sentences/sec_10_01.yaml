@@ -1,0 +1,71 @@
+# Nar_10_01: 比較の基本原則 (p.384-386)
+
+sentences:
+  - id: "nar-1001-e642"
+    section_id: "Nar_10_01"
+    drill: 0
+    number: 642
+    role: "example"
+    english: "The population of Tokyo is six times as large as that of Miyagi."
+    japanese: "東京の人口は宮城の人口の6倍だ"
+    notes: "thatはthe populationの繰り返しを避ける代名詞。比較対象の対等原則"
+  - id: "nar-1001-e643"
+    section_id: "Nar_10_01"
+    drill: 0
+    number: 643
+    role: "example"
+    english: "I love my son more than she (does)."
+    japanese: "私の方が彼女よりも自分の息子を愛している"
+    notes: "thanの後がshe does（S+V）→主語同士の比較。代動詞does使用"
+  - id: "nar-1001-e644"
+    section_id: "Nar_10_01"
+    drill: 0
+    number: 644
+    role: "example"
+    english: "I love my son more than her."
+    japanese: "私は彼女よりも自分の息子の方を愛している"
+    notes: "thanの後がher（目的格）→目的語my sonとの比較"
+  - id: "nar-1001-e645"
+    section_id: "Nar_10_01"
+    drill: 0
+    number: 645
+    role: "example"
+    english: "They can't go faster than me."
+    japanese: "彼らは私より速く行くことはできない"
+    notes: "thanを前置詞と捉えるとme。接続詞と捉えるとIも可。現在は多くのネイティブがmeを使用"
+
+sentence_structures:
+  - sentence_id: "nar-1001-e642"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-1001-e642"
+    label: "details"
+    value: "<The population of Tokyo>(S) is(V) <six times as large as that of Miyagi>(C:原級/倍数)"
+  - sentence_id: "nar-1001-e643"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-1001-e643"
+    label: "details"
+    value: "<I>(S) love(V) <my son>(O) [more than she (does)](M:比較級/主語比較)"
+  - sentence_id: "nar-1001-e644"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-1001-e644"
+    label: "details"
+    value: "<I>(S) love(V) <my son>(O) [more than her](M:比較級/目的語比較)"
+  - sentence_id: "nar-1001-e645"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "nar-1001-e645"
+    label: "details"
+    value: "<They>(S) can't go(V) [faster](M:比較級) [than me](M:比較対象)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1001-e642"
+    node_id: "nrp-021"
+  - sentence_id: "nar-1001-e643"
+    node_id: "nrp-021"
+  - sentence_id: "nar-1001-e644"
+    node_id: "nrp-021"
+  - sentence_id: "nar-1001-e645"
+    node_id: "nrp-021"

@@ -1,0 +1,39 @@
+# Nar_10_11: 〈no more...than〜〉の構文 (p.415-417)
+
+sentences:
+  - id: "nar-1011-e689"
+    section_id: "Nar_10_11"
+    drill: 0
+    number: 689
+    role: "example"
+    english: "Alex can no more swim than a hammer can."
+    japanese: "金づちが泳げないのと同様にアレックスは泳げない"
+    notes: "no more...than〜（クジラ構文）。than左右どちらも否定。than右側=事実でないこと（金づちが泳ぐ）"
+  - id: "nar-1011-e690"
+    section_id: "Nar_10_11"
+    drill: 0
+    number: 690
+    role: "example"
+    english: "He is no less good-looking than his brother."
+    japanese: "彼は兄と同様にかっこいい"
+    notes: "no less...than〜。than左右どちらも肯定。than右側=明白な例（兄は美男子）。使用頻度はno more...thanより低い"
+
+sentence_structures:
+  - sentence_id: "nar-1011-e689"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-1011-e689"
+    label: "details"
+    value: "<Alex>(S) can no more swim(V:no more...than/両方否定) [than a hammer can (swim)](M:事実でないこと)"
+  - sentence_id: "nar-1011-e690"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-1011-e690"
+    label: "details"
+    value: "<He>(S) is(V) <no less good-looking>(C:no less...than/両方肯定) [than his brother (is good-looking)](M:明白な例)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1011-e689"
+    node_id: "nrp-031"
+  - sentence_id: "nar-1011-e690"
+    node_id: "nrp-031"

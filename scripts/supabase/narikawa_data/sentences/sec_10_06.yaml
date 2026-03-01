@@ -1,0 +1,87 @@
+# Nar_10_06: 比較級・最上級の強調 (p.399-401)
+
+sentences:
+  - id: "nar-1006-e668"
+    section_id: "Nar_10_06"
+    drill: 0
+    number: 668
+    role: "example"
+    english: "John's room is much bigger than mine."
+    japanese: "ジョンの部屋は私の部屋よりもずっと大きい"
+    notes: "比較級の強調much。量的に差を捉える"
+  - id: "nar-1006-e669"
+    section_id: "Nar_10_06"
+    drill: 0
+    number: 669
+    role: "example"
+    english: "Mike is much older than Kei."
+    japanese: "マイクはケイよりずっと年上です"
+    notes: "much=量的な差の強調。55歳vs20歳のような大きな差"
+  - id: "nar-1006-e670"
+    section_id: "Nar_10_06"
+    drill: 0
+    number: 670
+    role: "example"
+    english: "That live performance was great but this one will be even better."
+    japanese: "あのときのライブ演奏はすばらしかったが、今回のはさらによさそうだ"
+    notes: "even=「さらに」の強調。あるものに加えてさらに、のニュアンス"
+  - id: "nar-1006-e671"
+    section_id: "Nar_10_06"
+    drill: 0
+    number: 671
+    role: "example"
+    english: "She is no richer than you."
+    japanese: "彼女はあなたと同様に金持ちではない"
+    notes: "no+比較級=差ゼロ=同じ。=She is as poor as you. no richer→貧乏の含み→poorで書き換え"
+  - id: "nar-1006-e672"
+    section_id: "Nar_10_06"
+    drill: 0
+    number: 672
+    role: "example"
+    english: "His speech was by far the best of all the ones I heard."
+    japanese: "私が聞いた中では彼のスピーチが最高だった"
+    notes: "最上級の強調by far。=the very best。by farは前置・後置どちらも可"
+
+sentence_structures:
+  - sentence_id: "nar-1006-e668"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-1006-e668"
+    label: "details"
+    value: "<John's room>(S) is(V) <much bigger>(C:比較級強調/量的) [than mine](M)"
+  - sentence_id: "nar-1006-e669"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-1006-e669"
+    label: "details"
+    value: "<Mike>(S) is(V) <much older>(C:比較級強調/量的) [than Kei](M)"
+  - sentence_id: "nar-1006-e670"
+    label: "overall"
+    value: "S V C but S V C"
+  - sentence_id: "nar-1006-e670"
+    label: "details"
+    value: "<That live performance>(S) was(V) <great>(C) but <this one>(S) will be(V) <even better>(C:比較級強調/さらに)"
+  - sentence_id: "nar-1006-e671"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-1006-e671"
+    label: "details"
+    value: "<She>(S) is(V) <no richer>(C:no+比較級/差ゼロ) [than you](M)"
+  - sentence_id: "nar-1006-e672"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-1006-e672"
+    label: "details"
+    value: "<His speech>(S) was(V) <by far the best>(C:最上級強調) [of all the ones I heard](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1006-e668"
+    node_id: "nrp-026"
+  - sentence_id: "nar-1006-e669"
+    node_id: "nrp-026"
+  - sentence_id: "nar-1006-e670"
+    node_id: "nrp-026"
+  - sentence_id: "nar-1006-e671"
+    node_id: "nrp-026"
+  - sentence_id: "nar-1006-e672"
+    node_id: "nrp-026"

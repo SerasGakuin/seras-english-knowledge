@@ -1226,11 +1226,132 @@ sections:
     gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-03"
     notes: ""
+  # B-12: Part 10 比較
+  Nar_10_01:
+    title: "比較の基本原則"
+    type: "concept"
+    pages: "p.384-386"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_10_02:
+    title: "原級を用いた表現〈as...as〜〉"
+    type: "concept"
+    pages: "p.387-389"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_10_03:
+    title: "倍数表現、〈as...as〜〉の注意点"
+    type: "concept"
+    pages: "p.390-392"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_10_04:
+    title: "原級を使った重要表現(1)"
+    type: "pattern"
+    pages: "p.393-395"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_10_05:
+    title: "原級を使った重要表現(2)"
+    type: "pattern"
+    pages: "p.396-398"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_10_06:
+    title: "比較級・最上級の強調"
+    type: "concept"
+    pages: "p.399-401"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_10_07:
+    title: "比較級を使った重要表現(1)"
+    type: "pattern"
+    pages: "p.402-404"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_10_08:
+    title: "比較級を使った重要表現(2)"
+    type: "pattern"
+    pages: "p.405-408"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_10_09:
+    title: "比較級を使った重要表現(3)"
+    type: "pattern"
+    pages: "p.409-411"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: "▶例文1件を v001 として登録"
+  Nar_10_10:
+    title: "比較級を使った重要表現(4)"
+    type: "pattern"
+    pages: "p.412-414"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_10_11:
+    title: "〈no more...than〜〉の構文"
+    type: "concept"
+    pages: "p.415-417"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_10_12:
+    title: "最上級相当表現"
+    type: "pattern"
+    pages: "p.418-420"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
 
 summary:
   total_sections: 162
-  completed: 120
+  completed: 132
   in_progress: 0
-  not_started: 42
-  total_knowledge_nodes: 120
-  total_sentences: 700
+  not_started: 30
+  total_knowledge_nodes: 132
+  total_sentences: 758

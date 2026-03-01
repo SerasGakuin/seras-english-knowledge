@@ -1,0 +1,87 @@
+# Nar_10_05: 原級を使った重要表現(2) (p.396-398)
+
+sentences:
+  - id: "nar-1005-e663"
+    section_id: "Nar_10_05"
+    drill: 0
+    number: 663
+    role: "example"
+    english: "She is not so much tired as sleepy."
+    japanese: "彼女は疲れているというよりむしろ眠いのだ"
+    notes: "not so much A as B=「AというよりむしろB」。=She is sleepy rather than tired."
+  - id: "nar-1005-e664"
+    section_id: "Nar_10_05"
+    drill: 0
+    number: 664
+    role: "example"
+    english: "I couldn't so much as write my own name."
+    japanese: "私は自分の名前すら書けなかった"
+    notes: "not so much as V=「Vさえしない」。couldn'tの助動詞が作用してwrite（原形）"
+  - id: "nar-1005-e665"
+    section_id: "Nar_10_05"
+    drill: 0
+    number: 665
+    role: "example"
+    english: "He left without so much as saying \"Thank you.\""
+    japanese: "彼は「ありがとう」も言わないで去った"
+    notes: "without so much as Ving=「Vさえしないで」。withoutは前置詞→後ろは動名詞"
+  - id: "nar-1005-e666"
+    section_id: "Nar_10_05"
+    drill: 0
+    number: 666
+    role: "example"
+    english: "He read ten books in as many days."
+    japanese: "彼は10日間で10冊の本を読んだ"
+    notes: "as many+複数名=前出の数(ten)と同数。同じ数の繰り返しを避ける表現"
+  - id: "nar-1005-e667"
+    section_id: "Nar_10_05"
+    drill: 0
+    number: 667
+    role: "example"
+    english: "He is trying to hit as many homeruns as he can."
+    japanese: "彼はできるだけ多くのホームランを打とうとしている"
+    notes: "as...as S can=as...as possible=「できるだけ〜」。過去時制ではcould"
+
+sentence_structures:
+  - sentence_id: "nar-1005-e663"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-1005-e663"
+    label: "details"
+    value: "<She>(S) is(V) <not so much tired as sleepy>(C:not so much A as B)"
+  - sentence_id: "nar-1005-e664"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-1005-e664"
+    label: "details"
+    value: "<I>(S) couldn't so much as write(V:not so much as V) <my own name>(O)"
+  - sentence_id: "nar-1005-e665"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-1005-e665"
+    label: "details"
+    value: "<He>(S) left(V) [without so much as saying \"Thank you.\"](M:without so much as Ving)"
+  - sentence_id: "nar-1005-e666"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-1005-e666"
+    label: "details"
+    value: "<He>(S) read(V) <ten books>(O) [in as many days](M:as many+複数名/同数)"
+  - sentence_id: "nar-1005-e667"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-1005-e667"
+    label: "details"
+    value: "<He>(S) is trying to hit(V) <as many homeruns as he can>(O:as...as S can)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1005-e663"
+    node_id: "nrp-025"
+  - sentence_id: "nar-1005-e664"
+    node_id: "nrp-025"
+  - sentence_id: "nar-1005-e665"
+    node_id: "nrp-025"
+  - sentence_id: "nar-1005-e666"
+    node_id: "nrp-025"
+  - sentence_id: "nar-1005-e667"
+    node_id: "nrp-025"

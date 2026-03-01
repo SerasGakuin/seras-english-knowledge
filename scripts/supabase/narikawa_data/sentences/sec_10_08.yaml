@@ -1,0 +1,71 @@
+# Nar_10_08: 比較級を使った重要表現(2) (p.405-408)
+
+sentences:
+  - id: "nar-1008-e677"
+    section_id: "Nar_10_08"
+    drill: 0
+    number: 677
+    role: "example"
+    english: "The harder you work, the more you earn."
+    japanese: "懸命に働けば、それだけ収入が多くなる"
+    notes: "The+比較級..., the+比較級〜構文。前半=従属節、後半=主節。比例関係"
+  - id: "nar-1008-e678"
+    section_id: "Nar_10_08"
+    drill: 0
+    number: 678
+    role: "example"
+    english: "The more famous you become, the less privacy you have."
+    japanese: "有名になればなるほどプライバシーはなくなる"
+    notes: "more famousはセットで移動（分離不可）。less privacyもセット（little privacyの比較級）"
+  - id: "nar-1008-e679"
+    section_id: "Nar_10_08"
+    drill: 0
+    number: 679
+    role: "example"
+    english: "The sooner, the better."
+    japanese: "早ければ早いほどよい"
+    notes: "主語・動詞の省略パターン。ハイレベル"
+  - id: "nar-1008-e680"
+    section_id: "Nar_10_08"
+    drill: 0
+    number: 680
+    role: "example"
+    english: "The older you grow, the wiser you will become."
+    japanese: "年を取るにつれて賢くなるものだ"
+    notes: "書き換え: As you grow older, you will become wiser. / You will become wiser with age."
+
+sentence_structures:
+  - sentence_id: "nar-1008-e677"
+    label: "overall"
+    value: "M S V, M S V"
+  - sentence_id: "nar-1008-e677"
+    label: "details"
+    value: "[The harder](M:the比較級/従属) <you>(S) work(V), [the more](M:指示副詞the/主節) <you>(S) earn(V)"
+  - sentence_id: "nar-1008-e678"
+    label: "overall"
+    value: "C S V, O S V"
+  - sentence_id: "nar-1008-e678"
+    label: "details"
+    value: "<The more famous>(C:the比較級/従属) <you>(S) become(V), <the less privacy>(O:the比較級/主節) <you>(S) have(V)"
+  - sentence_id: "nar-1008-e679"
+    label: "overall"
+    value: "C, C"
+  - sentence_id: "nar-1008-e679"
+    label: "details"
+    value: "<The sooner>(C:the比較級/省略), <the better>(C:the比較級/省略)"
+  - sentence_id: "nar-1008-e680"
+    label: "overall"
+    value: "C S V, C S V"
+  - sentence_id: "nar-1008-e680"
+    label: "details"
+    value: "<The older>(C:the比較級/従属) <you>(S) grow(V), <the wiser>(C:the比較級/主節) <you>(S) will become(V)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-1008-e677"
+    node_id: "nrp-028"
+  - sentence_id: "nar-1008-e678"
+    node_id: "nrp-028"
+  - sentence_id: "nar-1008-e679"
+    node_id: "nrp-028"
+  - sentence_id: "nar-1008-e680"
+    node_id: "nrp-028"
