@@ -1,0 +1,103 @@
+# Nar_06_05: 不定詞の名詞用法vs動名詞(1) (p.193-196)
+
+sentences:
+  - id: "nar-0605-e286"
+    section_id: "Nar_06_05"
+    drill: 0
+    number: 286
+    role: "example"
+    english: "He decided to postpone his departure."
+    japanese: "彼は出発を延期することに決めた"
+    notes: "不定詞を目的語にとる動詞。decide=「これから実行する（決定）」→to Vと相性良い"
+  - id: "nar-0605-e287"
+    section_id: "Nar_06_05"
+    drill: 0
+    number: 287
+    role: "example"
+    english: "He gave a nice present to her."
+    japanese: "彼は彼女にすてきなプレゼントを贈った"
+    notes: "前置詞toのイメージ説明用。toは「ある対象に向かって到達」。不定詞のtoとの親戚関係"
+  - id: "nar-0605-e288"
+    section_id: "Nar_06_05"
+    drill: 0
+    number: 288
+    role: "example"
+    english: "I am considering going with her."
+    japanese: "彼女と行くかどうか考え中だ"
+    notes: "動名詞を目的語にとる動詞。consider=「実際にやっているところを想像」→Vingと相性良い"
+  - id: "nar-0605-e289"
+    section_id: "Nar_06_05"
+    drill: 0
+    number: 289
+    role: "example"
+    english: "She postponed answering."
+    japanese: "彼女は回答を先延ばしにした"
+    notes: "動名詞を目的語にとる動詞。postpone=「実際にすることになっていることを延期」→Ving"
+  - id: "nar-0605-e290"
+    section_id: "Nar_06_05"
+    drill: 0
+    number: 290
+    role: "example"
+    english: "My dream is to be a pro baseball player."
+    japanese: "私の夢はプロ野球選手になることだ"
+    notes: "夢=まだ実現していない→to V（不定詞）が適切。補語としての名詞用法"
+  - id: "nar-0605-e291"
+    section_id: "Nar_06_05"
+    drill: 0
+    number: 291
+    role: "example"
+    english: "My hobby is looking at pictures."
+    japanese: "私の趣味は絵画鑑賞だ"
+    notes: "趣味=実際にやっていること→Ving（動名詞）が適切。補語としての動名詞"
+
+sentence_structures:
+  - sentence_id: "nar-0605-e286"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0605-e286"
+    label: "details"
+    value: "<He>(S) decided(V) <to postpone his departure>(O:不定詞名詞用法/「これから」のイメージ)"
+  - sentence_id: "nar-0605-e287"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0605-e287"
+    label: "details"
+    value: "<He>(S) gave(V) <a nice present>(O) [to her](M:前置詞句/到達のイメージ)"
+  - sentence_id: "nar-0605-e288"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0605-e288"
+    label: "details"
+    value: "<I>(S) am considering(V) <going with her>(O:動名詞/「実際にやっている想像」)"
+  - sentence_id: "nar-0605-e289"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0605-e289"
+    label: "details"
+    value: "<She>(S) postponed(V) <answering>(O:動名詞/「実際にすることを延期」)"
+  - sentence_id: "nar-0605-e290"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0605-e290"
+    label: "details"
+    value: "<My dream>(S) is(V) <to be a pro baseball player>(C:不定詞名詞用法/未実現→to V)"
+  - sentence_id: "nar-0605-e291"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0605-e291"
+    label: "details"
+    value: "<My hobby>(S) is(V) <looking at pictures>(C:動名詞/実際にやっていること→Ving)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0605-e286"
+    node_id: "nrj-005"
+  - sentence_id: "nar-0605-e287"
+    node_id: "nrj-005"
+  - sentence_id: "nar-0605-e288"
+    node_id: "nrj-005"
+  - sentence_id: "nar-0605-e289"
+    node_id: "nrj-005"
+  - sentence_id: "nar-0605-e290"
+    node_id: "nrj-005"
+  - sentence_id: "nar-0605-e291"
+    node_id: "nrj-005"

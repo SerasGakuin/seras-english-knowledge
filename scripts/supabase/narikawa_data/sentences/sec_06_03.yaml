@@ -1,0 +1,87 @@
+# Nar_06_03: Vingの3用法 (p.188-189)
+
+sentences:
+  - id: "nar-0603-e277"
+    section_id: "Nar_06_03"
+    drill: 0
+    number: 277
+    role: "example"
+    english: "I like singing that song."
+    japanese: "私はその歌を歌うのが好きだ"
+    notes: "動名詞の例。singing以下はlikeの目的語（O）→文の要素→名詞＝動名詞"
+  - id: "nar-0603-e278"
+    section_id: "Nar_06_03"
+    drill: 0
+    number: 278
+    role: "example"
+    english: "Our boss insisted on paying the bill."
+    japanese: "うちの上司は勘定を払うと言い張った"
+    notes: "動名詞の例。payingは前置詞onの後ろ→前置詞の目的語＝名詞→動名詞"
+  - id: "nar-0603-e279"
+    section_id: "Nar_06_03"
+    drill: 0
+    number: 279
+    role: "example"
+    english: "The road joining the two villages is very narrow."
+    japanese: "2つの村を結んでいる道路はとても狭い"
+    notes: "現在分詞の形容詞用法。joining...villagesは修飾語（M）で前のThe roadを修飾"
+  - id: "nar-0603-e280"
+    section_id: "Nar_06_03"
+    drill: 0
+    number: 280
+    role: "example"
+    english: "The lady remained standing in front of the building."
+    japanese: "その女性はビルの前で立ったままでいた"
+    notes: "現在分詞の形容詞用法（補語）。The lady=standing→SVC第2文型のC"
+  - id: "nar-0603-e281"
+    section_id: "Nar_06_03"
+    drill: 0
+    number: 281
+    role: "example"
+    english: "Turning to the right, you will see the library."
+    japanese: "右に曲がると、図書館が見えます"
+    notes: "分詞構文（副詞用法）。主節SVO成立、Turning...は修飾語で前に修飾する名詞なし→副詞"
+
+sentence_structures:
+  - sentence_id: "nar-0603-e277"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0603-e277"
+    label: "details"
+    value: "<I>(S) like(V) <singing that song>(O:動名詞/名詞用法)"
+  - sentence_id: "nar-0603-e278"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0603-e278"
+    label: "details"
+    value: "<Our boss>(S) insisted(V) [on paying the bill](M:前置詞句/paying=動名詞=前置詞の目的語)"
+  - sentence_id: "nar-0603-e279"
+    label: "overall"
+    value: "S M V C"
+  - sentence_id: "nar-0603-e279"
+    label: "details"
+    value: "<The road>(S) [joining the two villages](M:現在分詞形容詞用法/Roadを修飾) is(V) <very narrow>(C)"
+  - sentence_id: "nar-0603-e280"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0603-e280"
+    label: "details"
+    value: "<The lady>(S) remained(V) <standing>(C:現在分詞形容詞用法/S=C) [in front of the building](M:前置詞句)"
+  - sentence_id: "nar-0603-e281"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "nar-0603-e281"
+    label: "details"
+    value: "[Turning to the right](M:分詞構文/副詞用法) <you>(S) will see(V) <the library>(O)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0603-e277"
+    node_id: "nrj-003"
+  - sentence_id: "nar-0603-e278"
+    node_id: "nrj-003"
+  - sentence_id: "nar-0603-e279"
+    node_id: "nrj-003"
+  - sentence_id: "nar-0603-e280"
+    node_id: "nrj-003"
+  - sentence_id: "nar-0603-e281"
+    node_id: "nrj-003"

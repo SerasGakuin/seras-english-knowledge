@@ -1,36 +1,36 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T14:00:00"
+updated_at: "2026-03-02T17:00:00"
 book: "成川の深めて解ける！英文法 INPUT"
 book_slug: "narikawa"
 
 current_state:
-  phase: "Phase 2 - B-05 完了 → B-06 開始"
-  current_section: "Nar_06_01"
+  phase: "Phase 2 - B-06 完了 → B-07 開始"
+  current_section: "Nar_06_10"
   current_step: "Step 0 (バッチ準備)"
-  last_completed_section: "Nar_05_09"
+  last_completed_section: "Nar_06_09"
   last_completed_gate: 5
 
 progress:
   total_sections: 162
-  completed: 56
+  completed: 65
   in_progress: 0
-  remaining: 106
-  total_nodes: 56
-  total_sentences: 300
+  remaining: 97
+  total_nodes: 65
+  total_sentences: 348
 
 recent_decisions:
-  - "nrt-029: If it were not for Aの4バリエーション+Without A/With Aを1ノード。前提: nrt-025, nrt-027"
-  - "nrt-030: as if+SVの仮定法過去/過去完了/直説法/応用を1ノード。前提: nrt-024, nrt-025"
-  - "nrt-031: I wish/If only/I'd rather/It is timeの4表現を1ノード。前提: nrt-024, nrt-025"
+  - "nrj-007: to V/Ving/Vp.p.の形容詞用法の意味的違い+Vp.p.完了用法。前提: nrj-004, nrj-005"
+  - "nrj-008: 不定詞副詞用法5つの意味。▶例文2件(v001-v002)登録。前提: nrj-002"
+  - "nrj-009: 分詞構文の基本（あいまいに訳す）。前提: nrj-003, nrj-008"
 
 active_concerns: []
 
 next_actions:
-  - "B-06 準備: manifest/sections に 06_01-09 追加、ch06.yaml 新規作成"
-  - "B-06: Part 06 前半（Nar_06_01〜06_09, 9セクション, nrj, ch06.yaml新規）"
+  - "B-07 準備: manifest/sections に 06_10-17 追加"
   - "B-07: Part 06 後半（Nar_06_10〜06_17, 8セクション, nrj, ch06.yaml）"
+  - "B-08: Part 07（Nar_07_01〜07_14, 14セクション, nrs, ch07.yaml新規）"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

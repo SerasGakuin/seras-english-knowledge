@@ -1,0 +1,71 @@
+# Nar_06_04: Vp.p.の2用法 (p.190-192)
+
+sentences:
+  - id: "nar-0604-e282"
+    section_id: "Nar_06_04"
+    drill: 0
+    number: 282
+    role: "example"
+    english: "This is a song composed by Mr. Okano."
+    japanese: "これは、岡野氏によって作曲された歌である"
+    notes: "Vp.p.形容詞用法の例。composed以下はM、前のa songを修飾"
+  - id: "nar-0604-e283"
+    section_id: "Nar_06_04"
+    drill: 0
+    number: 283
+    role: "example"
+    english: "The man sat surrounded by everyone."
+    japanese: "その人はみんなに囲まれて座っていた"
+    notes: "Vp.p.形容詞用法（補語C）。satの後でSの状態を補う"
+  - id: "nar-0604-e284"
+    section_id: "Nar_06_04"
+    drill: 0
+    number: 284
+    role: "example"
+    english: "The businessman kept his car parked here without permission."
+    japanese: "そのビジネスマンは許可なく車をここに駐車しておいた"
+    notes: "Vp.p.形容詞用法（SVOC型のC）。his car=parkedの関係"
+  - id: "nar-0604-e285"
+    section_id: "Nar_06_04"
+    drill: 0
+    number: 285
+    role: "example"
+    english: "Written in simple English, the book is suitable for beginners."
+    japanese: "簡単な英語で書かれていて、その本は初学者向きだ"
+    notes: "Vp.p.副詞用法（分詞構文）。Written...はMで前に修飾する名詞なし→副詞。beingが省略された形"
+
+sentence_structures:
+  - sentence_id: "nar-0604-e282"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0604-e282"
+    label: "details"
+    value: "<This>(S) is(V) <a song>(C) [composed by Mr. Okano](M:Vp.p.形容詞用法/songを修飾)"
+  - sentence_id: "nar-0604-e283"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0604-e283"
+    label: "details"
+    value: "<The man>(S) sat(V) <surrounded>(C:Vp.p.形容詞用法) [by everyone](M:前置詞句)"
+  - sentence_id: "nar-0604-e284"
+    label: "overall"
+    value: "S V O C M M"
+  - sentence_id: "nar-0604-e284"
+    label: "details"
+    value: "<The businessman>(S) kept(V) <his car>(O) <parked>(C:Vp.p.形容詞用法) [here](M:副詞) [without permission](M:前置詞句)"
+  - sentence_id: "nar-0604-e285"
+    label: "overall"
+    value: "M S V C M"
+  - sentence_id: "nar-0604-e285"
+    label: "details"
+    value: "[Written in simple English](M:分詞構文/Vp.p.副詞用法/being省略) <the book>(S) is(V) <suitable>(C) [for beginners](M:前置詞句)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0604-e282"
+    node_id: "nrj-004"
+  - sentence_id: "nar-0604-e283"
+    node_id: "nrj-004"
+  - sentence_id: "nar-0604-e284"
+    node_id: "nrj-004"
+  - sentence_id: "nar-0604-e285"
+    node_id: "nrj-004"

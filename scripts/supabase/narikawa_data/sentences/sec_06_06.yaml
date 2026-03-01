@@ -1,0 +1,103 @@
+# Nar_06_06: 不定詞の名詞用法vs動名詞(2) (p.197-199)
+
+sentences:
+  - id: "nar-0606-e292"
+    section_id: "Nar_06_06"
+    drill: 0
+    number: 292
+    role: "example"
+    english: "Please remember to call me at six tomorrow morning."
+    japanese: "明日の朝6時に私に電話するのを忘れないでください"
+    notes: "remember to V「これからVすることを覚えておく」。to call=これから→まだ実行していない"
+  - id: "nar-0606-e293"
+    section_id: "Nar_06_06"
+    drill: 0
+    number: 293
+    role: "example"
+    english: "I remember meeting the man somewhere before."
+    japanese: "私はその人に以前どこかで会ったのを覚えている"
+    notes: "remember Ving「実際にVしたことを覚えている」。meeting=実際に会った記憶"
+  - id: "nar-0606-e294"
+    section_id: "Nar_06_06"
+    drill: 0
+    number: 294
+    role: "example"
+    english: "He tried to give her presents."
+    japanese: "彼は彼女にプレゼントを贈ろうとした"
+    notes: "try to V「Vしようとする（実際にはVしていない）」。to give=これから→まだ贈っていない"
+  - id: "nar-0606-e295"
+    section_id: "Nar_06_06"
+    drill: 0
+    number: 295
+    role: "example"
+    english: "He tried giving her presents."
+    japanese: "彼は彼女にプレゼントを贈ってみた"
+    notes: "try Ving「試しにVしてみる（実際にVしている）」。giving=実際に贈った"
+  - id: "nar-0606-e296"
+    section_id: "Nar_06_06"
+    drill: 0
+    number: 296
+    role: "example"
+    english: "Lily stopped to eat a hamburger."
+    japanese: "リリーはハンバーガーを食べようと立ち止まった"
+    notes: "stop to V: stopは自動詞「立ち止まる」、to Vは副詞用法（目的）。まだ食べていない"
+  - id: "nar-0606-e297"
+    section_id: "Nar_06_06"
+    drill: 0
+    number: 297
+    role: "example"
+    english: "Lily stopped eating her hamburger."
+    japanese: "リリーはハンバーガーを食べるのをやめた"
+    notes: "stop Ving: stopは他動詞、Vingは目的語（動名詞）。実際に食べていたのをやめた"
+
+sentence_structures:
+  - sentence_id: "nar-0606-e292"
+    label: "overall"
+    value: "V O M"
+  - sentence_id: "nar-0606-e292"
+    label: "details"
+    value: "remember(V:命令文) <to call me>(O:不定詞名詞用法/「これから」) [at six tomorrow morning](M:前置詞句)"
+  - sentence_id: "nar-0606-e293"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0606-e293"
+    label: "details"
+    value: "<I>(S) remember(V) <meeting the man>(O:動名詞/「実際に会った」) [somewhere before](M:副詞句)"
+  - sentence_id: "nar-0606-e294"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0606-e294"
+    label: "details"
+    value: "<He>(S) tried(V) <to give her presents>(O:不定詞名詞用法/「まだ贈っていない」)"
+  - sentence_id: "nar-0606-e295"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0606-e295"
+    label: "details"
+    value: "<He>(S) tried(V) <giving her presents>(O:動名詞/「実際に贈った」)"
+  - sentence_id: "nar-0606-e296"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0606-e296"
+    label: "details"
+    value: "<Lily>(S) stopped(V:自動詞/立ち止まった) [to eat a hamburger](M:不定詞副詞用法/目的)"
+  - sentence_id: "nar-0606-e297"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0606-e297"
+    label: "details"
+    value: "<Lily>(S) stopped(V:他動詞) <eating her hamburger>(O:動名詞/実際に食べている)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0606-e292"
+    node_id: "nrj-006"
+  - sentence_id: "nar-0606-e293"
+    node_id: "nrj-006"
+  - sentence_id: "nar-0606-e294"
+    node_id: "nrj-006"
+  - sentence_id: "nar-0606-e295"
+    node_id: "nrj-006"
+  - sentence_id: "nar-0606-e296"
+    node_id: "nrj-006"
+  - sentence_id: "nar-0606-e297"
+    node_id: "nrj-006"

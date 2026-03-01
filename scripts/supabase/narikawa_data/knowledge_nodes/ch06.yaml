@@ -1,0 +1,449 @@
+# Part 06: 準動詞（nrj カテゴリ）
+
+knowledge_nodes:
+  - id: "nrj-001"
+    name: "準動詞の3つの不確定要素（品詞・時制・主語）"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      準動詞（to V / Ving / Vp.p.）は単独では述語動詞になれず、3つの不確定要素を持つ:
+      ❶ 品詞が見た目で決まらない（to studyは名詞？副詞？）
+      ❷ 時制が不明（to studyはいつのこと？）
+      ❸ 意味上の主語が不明（to talk withの主語は誰？）
+      動詞との共通点を押さえつつ、準動詞特有の不確定さを確定する方法を学ぶことが攻略の基礎。
+      [図表: 図解 — to studyの品詞不確定性。名詞か副詞か見た目では判断不可（p.182）]
+      [図表: 図解 — to studyの時制不確定性。現在か過去か不明（p.183）]
+      [図表: 図解 — to talk withの主語不確定性。friendsかSueか不明（p.183）]
+      参考書内参照: →06_02（品詞の決定方法）、→06_13（時制）、→06_10（意味上の主語）
+      別冊ポイント119参照（準動詞の全体像）
+      *1: want+O+to Vのto Vの用法分析は不要。動詞語法として吸収すべきもの
+      *2: 不定詞の名の由来 — 人称・数・時制によって定まった形が存在しないから
+
+  - id: "nrj-002"
+    name: "不定詞(toV)の3用法の判別"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      不定詞の用法を訳し方から確定するのは危険。文の構造から判別する。
+      ❶ 名詞用法: 文の要素（S・O・C）になる → 文から取り去ると成立しなくなる
+      ❷ 形容詞用法: 文の要素にならず（M）、前の名詞を修飾する
+      ❸ 副詞用法: 文の要素にならず（M）、名詞以外（主に動詞）を修飾する
+      判別手順: まず名詞用法を確認 → 残りは前の名詞を修飾なら形容詞 → どちらでもなければ副詞
+      [図表: Ⓠ — 不定詞の3用法判別フロー（p.187）]
+
+  - id: "nrj-003"
+    name: "Vingの3用法（動名詞・現在分詞・分詞構文）"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Vingも不定詞と同様に3つの用法を持ち、判別方法も基本的に同じ。
+      ❶ 名詞用法（動名詞）: 文の要素（S・O・C）または前置詞の目的語になる
+      ❷ 形容詞用法（現在分詞）: 前の名詞を修飾。C（補語）にもなれる
+      ❸ 副詞用法（分詞構文）: 名詞以外を修飾。主節の前に置かれると副詞として機能
+      *1: standing→S=Cの関係からSVC第2文型のCと判断可能
+      *2: 便利テクニック「主節の前は全体で副詞」→主節の述語動詞を修飾
+
+  - id: "nrj-004"
+    name: "Vp.p.の2用法と準動詞の全体像"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      Vp.p.（過去分詞）は原則として名詞用法を持たず、形容詞と副詞の2用法のみ。
+      ❶ 形容詞用法: 名詞を修飾する、またはC（補語）になる（SVC/SVOCいずれも）
+      ❷ 副詞用法（分詞構文）: beingが省略されVp.p.から始まる分詞構文
+      [図表: Ⓠ表 — 準動詞の全体像。to V(3用法)/Ving(3用法)/Vp.p.(2用法)の対応表（p.191）]
+      別冊ポイント119参照（準動詞の全体像）
+      *1: 主節前テクニック（06_03と同じ）
+      著者コメント: Ving/Vp.p.は用法とネーミングの統一感がない（分詞構文=副詞なのに「副詞」の用語なし）
+
+  - id: "nrj-005"
+    name: "不定詞と動名詞の意味の違い（動詞との相性）"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      to VとVingはどちらも名詞として機能できるが、意味的なイメージが異なる。
+      ■ to V: 「これから向かっていく、ある行為と向き合う」イメージ。前置詞toの→と親戚関係。
+      ■ Ving: 「実際にやっている（ところを想像する）」イメージ。
+      不定詞を目的語にとる動詞（3グループ）:
+        ❶ これから実行する（hope, want, decide, determine等）
+        ❷ 積極的に向き合う（manage, pretend, promise, agree等）
+        ❸ 向き合うが実行しない（refuse, hesitate, fail等）
+      動名詞を目的語にとる動詞（3グループ）:
+        ❶ 実際にやっている（enjoy, finish, admit, practice等）
+        ❷ 実際にやっているところを想像（consider, imagine, suggest, mind等）
+        ❸ 実際にやることを回避・延期（avoid, escape, postpone等）
+      主語補語の違い: dream→to V（未実現）、hobby→Ving（実際にやっている）
+      [図表: イラスト — 野球選手を夢見る少年（p.196）]
+      [図表: イラスト — 絵画鑑賞する女性（p.196）]
+      別冊ポイント139-140参照（動名詞/不定詞を目的語にとる動詞リスト）
+      *1: 1（これから実行）と2（積極的に向き合う）は厳密に分ける必要なし
+
+  - id: "nrj-006"
+    name: "不定詞と動名詞で意味が変わる動詞"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      to VとVingで意味に大きく差が出る動詞を理解する。to V/Vingのイメージがそのまま影響。
+      remember to V「これからVすることを覚えておく」/ remember Ving「実際にVしたことを覚えている」
+      forget to V「これからVすることを忘れる」/ forget Ving「実際にVしたことを忘れる」
+      try to V「Vしようとする（未実行）」/ try Ving「試しにVしてみる（実行済み）」
+      regret to V「これからVするのが残念だ」/ regret Ving「実際にVしたことを残念に思う」
+      stop to V: stopは自動詞「立ち止まる」+副詞用法（目的）→「Vするために立ち止まった」
+      stop Ving: stopは他動詞+動名詞（O）→「実際にVしているのをやめる」
+      別冊ポイント140参照
+
+  - id: "nrj-007"
+    name: "不定詞と分詞の形容詞用法の意味的違い"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      to V / Ving / Vp.p. はすべて名詞を修飾（形容詞用法）できるが、伝える意味が異なる。
+      ■ to Vで修飾: 「これからVする（まだVしていない）」
+      ■ Vingで修飾: 「実際にVしている」
+      受動の場合も同様:
+        to be Vp.p. = 「これから〜される（まだされていない）」
+        Vp.p. = 「実際に〜されている」
+      Vp.p.の〈完了〉用法: 自動詞がVp.p.になると受動ではなく「〜してしまった」（完了）の意味。
+        例: fallen leaves（落ちてしまった葉）、withered flower（しおれてしまった花）
+        この用法は多くないので出てくるたびにインプット。
+      [図表: Ⓠ表 — 形容詞の働きをする準動詞（to V/Ving/Vp.p.）の抜粋（p.200）]
+      [図表: Ⓠ表 — to VとVingの形容詞用法の意味的な違い。to V=これから/Ving=実際に（p.200）]
+      別冊ポイント129参照（不定詞の形容詞用法の3パターン: 主格関係/目的格関係/同格関係）
+      別冊ポイント130参照（不定詞の形容詞用法 vs 分詞の形容詞用法）
+      *1: 名詞を修飾する不定詞すべてを形容詞用法と判断するのはやや乱暴。大まかに3パターン（→別冊129）
+      *2: 動名詞と現在分詞の分類は重要だが、Vingは基本イメージ（実際にやっている）が変わらないという視点も重要
+
+  - id: "nrj-008"
+    name: "不定詞の副詞用法の5つの意味"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      不定詞が副詞用法で用いられる場合、ある程度の訳し分けが必要。toの矢印(→)イメージで理解する。
+      ❶ 目的: 文頭のときはほぼ目的。in order to V / so as to Vで明確化可能
+      ❷ 感情の原因: 前に感情表現（surprised等）あり。矢印(→)の先に原因
+      ❸ 判断の根拠: 前に判断表現（crazy等）あり。矢印(→)の先に根拠
+      ❹ 結果: grow up to be等の定型表現が多い。toの→で「成長して→小説家に」
+      ❺ 程度: enough to V / too〜to V / so〜as to V等の定型表現が多い
+      〈目的〉vs〈結果〉の判別: to以下に対して主語の意志が強ければ目的、弱ければ結果
+      too〜to V: to Vの「これから→まだやっていない」を否定的に訳す。= so〜that S can't V
+      [図表: イラスト — 女の子が成長して小説家になる様子（p.204）]
+      [図表: Ⓠ表 — 不定詞の副詞用法の5つの意味。目的/感情の原因/判断の根拠/結果/程度（p.205）]
+      別冊ポイント131参照（不定詞の副詞用法と定型表現）
+      *1: 条件の用法もあるが主節が仮定法のときのみ有効。避けるネイティブも多い
+      *2: 否定の目的: in order not to V / so as not to V。so as to Vは文頭不可
+      *3: 結果用法の定型表現（→別冊ポイント131）
+
+  - id: "nrj-009"
+    name: "分詞構文の基本（あいまいに訳す）"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      分詞構文は接続詞を使わず、あいまいに表現したもの。
+      訳し方: 「主節に対する追加情報」として、あいまいに訳すのが基本。
+      〈時〉〈理由〉〈付帯状況〉等の分類は便宜的なものに過ぎない。
+      ■ 接続詞+分詞構文: when/while/after/before/if/unless/though+Vingで意味を明確化できる
+      ■ 否定の分詞構文: Not+Ving
+      ■ 受動の分詞構文: being省略→Vp.p.から始まる（少数だが重要）
+      分詞構文と〈接続詞+SV〉は意味的に完全に同じではない（分詞構文の持ち味がある）。
+      Vingの「実際にやっている」イメージは分詞構文でも生きている:
+        waving a flag（実際に振っている）、Shopping at the store（実際に買い物をしている）
+      [図表: Ⓠ — 分詞構文の訳し方。主節に対する追加情報、あいまいに訳す（p.207）]
+      別冊ポイント127参照（分詞構文の訳し方）
+      *1: 分詞構文はおもに書き言葉。話し言葉では公的スピーチやニュースで使用
+      *2: 分詞構文は同時性(e311: greeted+waving)や連続性(e312: Shopping→ran into)を表せる
+      *3: Vp.p.から始まる分詞構文はVingからの分詞構文に比べて少数
+
+understanding_goals:
+  - node_id: "nrj-001"
+    seq: 1
+    goal: "準動詞（to V / Ving / Vp.p.）が述語動詞と異なる3つの不確定要素を説明できる"
+  - node_id: "nrj-001"
+    seq: 2
+    goal: "具体的な英文中の準動詞について、品詞・時制・主語の不確定性を指摘できる"
+  - node_id: "nrj-001"
+    seq: 3
+    goal: "準動詞の不確定要素を確定する方法がPart06の各セクションで扱われることを理解している"
+  - node_id: "nrj-002"
+    seq: 1
+    goal: "不定詞が文の要素（S・O・C）になっているかどうかで名詞用法を判別できる"
+  - node_id: "nrj-002"
+    seq: 2
+    goal: "名詞用法でない場合、前の名詞を修飾していれば形容詞用法、そうでなければ副詞用法と判別できる"
+  - node_id: "nrj-002"
+    seq: 3
+    goal: "訳し方からではなく文の構造から不定詞の用法を判別する重要性を説明できる"
+  - node_id: "nrj-002"
+    seq: 4
+    goal: "具体的な英文で不定詞の3用法の判別手順を適用できる"
+  - node_id: "nrj-003"
+    seq: 1
+    goal: "Vingが動名詞・現在分詞の形容詞用法・分詞構文のいずれかであることを判別できる"
+  - node_id: "nrj-003"
+    seq: 2
+    goal: "前置詞の目的語としてのVingを動名詞と判別できる"
+  - node_id: "nrj-003"
+    seq: 3
+    goal: "Vingが補語（C）として機能する場合を形容詞用法と判別できる"
+  - node_id: "nrj-003"
+    seq: 4
+    goal: "主節の前に置かれたVingを分詞構文（副詞用法）と判別できる"
+  - node_id: "nrj-004"
+    seq: 1
+    goal: "Vp.p.が原則として名詞用法を持たず、形容詞と副詞の2用法のみであることを説明できる"
+  - node_id: "nrj-004"
+    seq: 2
+    goal: "Vp.p.が名詞を修飾する場合と補語（C）になる場合を判別できる"
+  - node_id: "nrj-004"
+    seq: 3
+    goal: "beingが省略されたVp.p.始まりの分詞構文を識別できる"
+  - node_id: "nrj-004"
+    seq: 4
+    goal: "to V/Ving/Vp.p.の全体像（名詞・形容詞・副詞の対応表）を説明できる"
+  - node_id: "nrj-005"
+    seq: 1
+    goal: "to Vの「これから向かっていく」イメージとVingの「実際にやっている」イメージの違いを説明できる"
+  - node_id: "nrj-005"
+    seq: 2
+    goal: "不定詞を目的語にとる動詞の3グループを例を挙げて説明できる"
+  - node_id: "nrj-005"
+    seq: 3
+    goal: "動名詞を目的語にとる動詞の3グループを例を挙げて説明できる"
+  - node_id: "nrj-005"
+    seq: 4
+    goal: "dream→to V、hobby→Vingのように主語補語でもイメージの違いが適用されることを説明できる"
+  - node_id: "nrj-006"
+    seq: 1
+    goal: "remember/forget/try/regret + to V と Ving の意味の違いを説明できる"
+  - node_id: "nrj-006"
+    seq: 2
+    goal: "stop to Vとstop Vingの構造的な違い（自動詞+副詞用法 vs 他動詞+動名詞）を説明できる"
+  - node_id: "nrj-006"
+    seq: 3
+    goal: "具体的な英文で、to VかVingかによって意味がどう変わるかを判断できる"
+  - node_id: "nrj-007"
+    seq: 1
+    goal: "to Vの形容詞用法が「これからVする（まだVしていない）」というイメージを持つことを説明できる"
+  - node_id: "nrj-007"
+    seq: 2
+    goal: "Vingの形容詞用法が「実際にVしている」というイメージを持つことを説明できる"
+  - node_id: "nrj-007"
+    seq: 3
+    goal: "受動の場合（to be Vp.p. vs Vp.p.）でも基本イメージが変わらないことを説明できる"
+  - node_id: "nrj-007"
+    seq: 4
+    goal: "自動詞のVp.p.が〈完了（〜してしまった）〉の意味になることを理解している"
+  - node_id: "nrj-008"
+    seq: 1
+    goal: "不定詞の副詞用法の5つの意味（目的・感情の原因・判断の根拠・結果・程度）を列挙できる"
+  - node_id: "nrj-008"
+    seq: 2
+    goal: "文頭の不定詞副詞用法が〈目的〉であることを判別できる"
+  - node_id: "nrj-008"
+    seq: 3
+    goal: "感情表現・判断表現の直後の不定詞をそれぞれ〈感情の原因〉〈判断の根拠〉と判別できる"
+  - node_id: "nrj-008"
+    seq: 4
+    goal: "enough to V / too〜to V / so〜as to Vの形で〈程度〉を表すことを理解している"
+  - node_id: "nrj-008"
+    seq: 5
+    goal: "〈目的〉と〈結果〉を主語の意志の強さで判別できる"
+  - node_id: "nrj-009"
+    seq: 1
+    goal: "分詞構文が「主節に対する追加情報」であり、あいまいに訳すのが基本姿勢であることを説明できる"
+  - node_id: "nrj-009"
+    seq: 2
+    goal: "〈時〉〈理由〉等の分類が便宜的なものであり、無理に1つに分類しないことの重要性を理解している"
+  - node_id: "nrj-009"
+    seq: 3
+    goal: "接続詞+分詞構文（though/when等+Ving）で意味を明確化できることを説明できる"
+  - node_id: "nrj-009"
+    seq: 4
+    goal: "否定(Not+Ving)と受動(being省略→Vp.p.)の分詞構文の形を識別できる"
+
+check_points:
+  - node_id: "nrj-001"
+    seq: 1
+    question: "準動詞の3つの不確定要素とは何か？"
+    answer: "❶品詞（名詞・形容詞・副詞のどれか不明）、❷時制（いつの出来事か不明）、❸意味上の主語（誰がVするか不明）"
+  - node_id: "nrj-001"
+    seq: 2
+    question: "「不定詞」はなぜそう呼ばれるか？"
+    answer: "人称・数・時制によって定まった形が存在しないため。述語動詞のように過去形などの定まった形を持たない"
+  - node_id: "nrj-001"
+    seq: 3
+    question: "準動詞の品詞を訳し方から判断する方法の問題点は何か？"
+    answer: "大学入試レベルの難文では構造を理解するだけでも困難で、最初から「〜こと」「〜ために」と訳語を決められるとは限らない"
+  - node_id: "nrj-002"
+    seq: 1
+    question: "不定詞の名詞用法をどう見分けるか？"
+    answer: "文の要素（S・O・C）になっている場合。文中から取り去ると文が成立しなくなることが目印"
+  - node_id: "nrj-002"
+    seq: 2
+    question: "不定詞の形容詞用法と副詞用法の違いは？"
+    answer: "どちらも修飾語（M）だが、形容詞用法は前の名詞を修飾し、副詞用法は名詞以外（主に動詞）を修飾する"
+  - node_id: "nrj-002"
+    seq: 3
+    question: "不定詞の3用法を判別する手順は？"
+    answer: "❶文の要素（S・O・C）→名詞用法 ❷文の要素にならず前の名詞を修飾→形容詞用法 ❸どちらでもない→副詞用法"
+  - node_id: "nrj-003"
+    seq: 1
+    question: "Vingが名詞として機能する場合を何と呼ぶか？また判別のポイントは？"
+    answer: "動名詞。文の要素（S・O・C）になっている、または前置詞の目的語になっている場合"
+  - node_id: "nrj-003"
+    seq: 2
+    question: "Vingが副詞として機能する場合を何と呼ぶか？"
+    answer: "分詞構文。Vingが文の要素にならず、前に修飾する名詞もないので副詞と判断する"
+  - node_id: "nrj-003"
+    seq: 3
+    question: "Vingが補語（C）になるのは形容詞用法か動名詞か？"
+    answer: "形容詞用法（現在分詞）。S=Cの関係が成立する場合、Vingは形容詞として補語になっている"
+  - node_id: "nrj-004"
+    seq: 1
+    question: "Vp.p.（過去分詞）にはいくつの用法があるか？名詞用法はあるか？"
+    answer: "形容詞用法と副詞用法の2つのみ。the accused等の一部例外を除き、原則として名詞用法はない"
+  - node_id: "nrj-004"
+    seq: 2
+    question: "Vp.p.の副詞用法（分詞構文）でbeingが省略される場合、何から文が始まるか？"
+    answer: "Vp.p.（過去分詞）から始まる。例: Written in simple English, the book is..."
+  - node_id: "nrj-004"
+    seq: 3
+    question: "準動詞（to V / Ving / Vp.p.）の用法数はそれぞれいくつか？"
+    answer: "to V = 3用法（名詞・形容詞・副詞）、Ving = 3用法（動名詞・現在分詞・分詞構文）、Vp.p. = 2用法（形容詞・副詞/分詞構文）"
+  - node_id: "nrj-005"
+    seq: 1
+    question: "不定詞（to V）の基本イメージは？"
+    answer: "「これから向かっていく、ある行為と向き合う」イメージ。前置詞toの→（到達）と親戚関係"
+  - node_id: "nrj-005"
+    seq: 2
+    question: "動名詞（Ving）の基本イメージは？"
+    answer: "「実際にやっている（ところを想像する）」イメージ"
+  - node_id: "nrj-005"
+    seq: 3
+    question: "refuse, hesitate, failが不定詞を目的語にとるのはなぜか？"
+    answer: "to Vの「これから→まだやっていない」イメージと合致する。向き合ってみたが実行できない。結果的に実行不可能でもtoの向き合うイメージは生きている"
+  - node_id: "nrj-005"
+    seq: 4
+    question: "My dream is to be ... と My hobby is looking ... で準動詞が異なる理由は？"
+    answer: "夢=まだ実現していない→to V、趣味=実際にやっていること→Ving。to V/Vingの基本イメージがそのまま適用される"
+  - node_id: "nrj-006"
+    seq: 1
+    question: "remember to Vとremember Vingの意味の違いは？"
+    answer: "remember to V「これからVすることを覚えておく（未実行）」、remember Ving「実際にVしたことを覚えている（実行済み）」"
+  - node_id: "nrj-006"
+    seq: 2
+    question: "stop to Vとstop Vingの構造上の違いは何か？"
+    answer: "stop to V: stopは自動詞（立ち止まる）+to Vは副詞用法（目的）。stop Ving: stopは他動詞+Vingは目的語（動名詞）"
+  - node_id: "nrj-006"
+    seq: 3
+    question: "try to Vとtry Vingの違いは？"
+    answer: "try to V「Vしようとする（まだVしていない）」、try Ving「試しにVしてみる（実際にVしている）」"
+  - node_id: "nrj-006"
+    seq: 4
+    question: "不定詞と動名詞で意味に差が出る代表的な動詞を4つ挙げよ"
+    answer: "remember, forget, try, regret。いずれもto V=これから（未実行）、Ving=実際に（実行済み）の対比"
+  - node_id: "nrj-007"
+    seq: 1
+    question: "to Vで名詞を修飾する場合とVingで名詞を修飾する場合の意味の違いは？"
+    answer: "to Vは「これからVする（まだVしていない）」、Vingは「実際にVしている」"
+  - node_id: "nrj-007"
+    seq: 2
+    question: "受動の場合、to be Vp.p.とVp.p.の意味の違いは？"
+    answer: "to be Vp.p.は「これから〜される（まだされていない）」、Vp.p.は「実際に〜されている」"
+  - node_id: "nrj-007"
+    seq: 3
+    question: "fallen leavesのfallenはどんな用法か？"
+    answer: "自動詞fallのVp.p.形容詞用法。受動ではなく〈完了〉の意味（落ちてしまった）"
+  - node_id: "nrj-008"
+    seq: 1
+    question: "不定詞の副詞用法の5つの意味は？"
+    answer: "❶目的 ❷感情の原因 ❸判断の根拠 ❹結果 ❺程度"
+  - node_id: "nrj-008"
+    seq: 2
+    question: "too〜to Vの不定詞が否定的に訳せる理由は？"
+    answer: "to Vの「これから→まだやっていない」を否定的に読むため。tooは否定的ニュアンスを予感させる副詞"
+  - node_id: "nrj-008"
+    seq: 3
+    question: "〈目的〉と〈結果〉はどう見分けるか？"
+    answer: "to以下の行為に対して主語の意志が強く働いていれば〈目的〉、そうでなければ〈結果〉"
+  - node_id: "nrj-008"
+    seq: 4
+    question: "否定の目的「Vしないように」はどう表すか？"
+    answer: "in order not to V / so as not to V。単にnot to Vとは通例しない。so as to Vは文頭不可"
+  - node_id: "nrj-009"
+    seq: 1
+    question: "分詞構文の基本的な訳し方は？"
+    answer: "主節に対する追加情報としてあいまいに訳す。接続関係を無理に1つに分類しない"
+  - node_id: "nrj-009"
+    seq: 2
+    question: "分詞構文の意味を明確にしたい場合はどうするか？"
+    answer: "分詞の前にwhen/while/though等の接続詞を置く（例: Though admitting her guilt）"
+  - node_id: "nrj-009"
+    seq: 3
+    question: "受動の分詞構文でbeingが省略されると何から文が始まるか？"
+    answer: "Vp.p.から始まる（例: Seen from a distance, the lake looked beautiful.）"
+  - node_id: "nrj-009"
+    seq: 4
+    question: "分詞構文と接続詞+SVの文は意味が完全に同じか？"
+    answer: "同じではない。分詞構文には同時性や連続性を表せる独自の持ち味がある"
+
+node_prerequisites:
+  - node_id: "nrj-002"
+    prerequisite_id: "nrj-001"
+  - node_id: "nrj-003"
+    prerequisite_id: "nrj-001"
+  - node_id: "nrj-004"
+    prerequisite_id: "nrj-001"
+  - node_id: "nrj-005"
+    prerequisite_id: "nrj-002"
+  - node_id: "nrj-005"
+    prerequisite_id: "nrj-003"
+  - node_id: "nrj-006"
+    prerequisite_id: "nrj-005"
+  - node_id: "nrj-007"
+    prerequisite_id: "nrj-004"
+  - node_id: "nrj-007"
+    prerequisite_id: "nrj-005"
+  - node_id: "nrj-008"
+    prerequisite_id: "nrj-002"
+  - node_id: "nrj-009"
+    prerequisite_id: "nrj-003"
+  - node_id: "nrj-009"
+    prerequisite_id: "nrj-008"
+
+knowledge_references:
+  - node_id: "nrj-001"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_06_01"
+    pages: "p.182-184"
+  - node_id: "nrj-002"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_06_02"
+    pages: "p.185-187"
+  - node_id: "nrj-003"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_06_03"
+    pages: "p.188-189"
+  - node_id: "nrj-004"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_06_04"
+    pages: "p.190-192"
+  - node_id: "nrj-005"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_06_05"
+    pages: "p.193-196"
+  - node_id: "nrj-006"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_06_06"
+    pages: "p.197-199"
+  - node_id: "nrj-007"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_06_07"
+    pages: "p.200-202"
+  - node_id: "nrj-008"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_06_08"
+    pages: "p.203-206"
+  - node_id: "nrj-009"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_06_09"
+    pages: "p.207-209"

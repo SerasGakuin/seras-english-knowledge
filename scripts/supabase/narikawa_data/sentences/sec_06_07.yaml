@@ -1,0 +1,103 @@
+# Nar_06_07: 不定詞と分詞の形容詞用法 (p.200-202)
+
+sentences:
+  - id: "nar-0607-e298"
+    section_id: "Nar_06_07"
+    drill: 0
+    number: 298
+    role: "example"
+    english: "The best way to learn English is to read this book."
+    japanese: "英語を身につける最善の方法はこの本を読むことだ"
+    notes: "to learn English=不定詞形容詞用法（wayを修飾）。「これから身につける→まだ身につけていない」のイメージ"
+  - id: "nar-0607-e299"
+    section_id: "Nar_06_07"
+    drill: 0
+    number: 299
+    role: "example"
+    english: "The man crossing the street is a famous singer."
+    japanese: "その道を渡っている人は有名な歌手である"
+    notes: "crossing=現在分詞形容詞用法（manを修飾）。「実際に道を渡っている」のイメージ。to Vとの意味的対比"
+  - id: "nar-0607-e300"
+    section_id: "Nar_06_07"
+    drill: 0
+    number: 300
+    role: "example"
+    english: "There are a lot of books to be read in Japan."
+    japanese: "日本には読むべき（まだ読まれていない）多くの本がある"
+    notes: "to be read=不定詞形容詞用法の受動形（booksを修飾）。「これから→まだ読まれていない」"
+  - id: "nar-0607-e301"
+    section_id: "Nar_06_07"
+    drill: 0
+    number: 301
+    role: "example"
+    english: "Japan is a country surrounded by the sea."
+    japanese: "日本は海で囲まれた国である"
+    notes: "surrounded=Vp.p.形容詞用法（countryを修飾）。「実際に囲まれている」。e300のto be readとの対比"
+  - id: "nar-0607-e302"
+    section_id: "Nar_06_07"
+    drill: 0
+    number: 302
+    role: "example"
+    english: "My dog loves to play in the fallen leaves."
+    japanese: "私の犬は落ちてしまった葉（落ち葉）の所で遊ぶのが好きだ"
+    notes: "fallen=自動詞fallのVp.p.形容詞用法。受動ではなく〈完了〉の意味（落ちてしまった）"
+  - id: "nar-0607-e303"
+    section_id: "Nar_06_07"
+    drill: 0
+    number: 303
+    role: "example"
+    english: "There was a withered flower in the vase on the table."
+    japanese: "テーブルの上の花瓶にしおれてしまった花が入っていた"
+    notes: "withered=自動詞witherのVp.p.形容詞用法。〈完了〉の意味（しおれてしまった）。出てくるたびにインプット"
+
+sentence_structures:
+  - sentence_id: "nar-0607-e298"
+    label: "overall"
+    value: "S M V C"
+  - sentence_id: "nar-0607-e298"
+    label: "details"
+    value: "<The best way>(S) [to learn English](M:不定詞形容詞用法/wayを修飾/「これから」) is(V) <to read this book>(C:不定詞名詞用法)"
+  - sentence_id: "nar-0607-e299"
+    label: "overall"
+    value: "S M V C"
+  - sentence_id: "nar-0607-e299"
+    label: "details"
+    value: "<The man>(S) [crossing the street](M:現在分詞形容詞用法/manを修飾/「実際に渡っている」) is(V) <a famous singer>(C)"
+  - sentence_id: "nar-0607-e300"
+    label: "overall"
+    value: "V S M M"
+  - sentence_id: "nar-0607-e300"
+    label: "details"
+    value: "There are(V:there構文) <a lot of books>(S) [to be read](M:不定詞形容詞用法/受動/booksを修飾/「これから→まだ」) [in Japan](M:前置詞句)"
+  - sentence_id: "nar-0607-e301"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0607-e301"
+    label: "details"
+    value: "<Japan>(S) is(V) <a country>(C) [surrounded by the sea](M:Vp.p.形容詞用法/countryを修飾/「実際に囲まれている」)"
+  - sentence_id: "nar-0607-e302"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0607-e302"
+    label: "details"
+    value: "<My dog>(S) loves(V) <to play>(O:不定詞名詞用法) [in the fallen leaves](M:前置詞句/fallenはVp.p.完了用法)"
+  - sentence_id: "nar-0607-e303"
+    label: "overall"
+    value: "V S M"
+  - sentence_id: "nar-0607-e303"
+    label: "details"
+    value: "There was(V:there構文) <a withered flower>(S:witheredはVp.p.完了用法) [in the vase on the table](M:前置詞句)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0607-e298"
+    node_id: "nrj-007"
+  - sentence_id: "nar-0607-e299"
+    node_id: "nrj-007"
+  - sentence_id: "nar-0607-e300"
+    node_id: "nrj-007"
+  - sentence_id: "nar-0607-e301"
+    node_id: "nrj-007"
+  - sentence_id: "nar-0607-e302"
+    node_id: "nrj-007"
+  - sentence_id: "nar-0607-e303"
+    node_id: "nrj-007"

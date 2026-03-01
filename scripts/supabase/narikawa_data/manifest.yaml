@@ -575,10 +575,102 @@ sections:
     reviewed_at: "2026-03-02"
     notes: "▶例文3件(v001-v003)含む"
 
+  # === Phase 2 B-06: Part 06 前半（Nar_06_01〜06_09） ===
+  Nar_06_01:
+    title: "準動詞について"
+    type: "concept"
+    pages: "p.182-184"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+  Nar_06_02:
+    title: "不定詞(toV)の3用法"
+    type: "concept"
+    pages: "p.185-187"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文1件(v001)含む"
+  Nar_06_03:
+    title: "Vingの3用法"
+    type: "concept"
+    pages: "p.188-189"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+  Nar_06_04:
+    title: "Vp.p.の2用法"
+    type: "concept"
+    pages: "p.190-192"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+  Nar_06_05:
+    title: "不定詞の名詞用法vs動名詞(1)"
+    type: "concept"
+    pages: "p.193-196"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+  Nar_06_06:
+    title: "不定詞の名詞用法vs動名詞(2)"
+    type: "concept"
+    pages: "p.197-199"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+  Nar_06_07:
+    title: "不定詞と分詞の形容詞用法"
+    type: "concept"
+    pages: "p.200-202"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+  Nar_06_08:
+    title: "不定詞と分詞の副詞用法(1)"
+    type: "concept"
+    pages: "p.203-206"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文2件(v001-v002)含む"
+  Nar_06_09:
+    title: "不定詞と分詞の副詞用法(2)"
+    type: "concept"
+    pages: "p.207-209"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+
 summary:
   total_sections: 162
-  completed: 56
+  completed: 65
   in_progress: 0
-  not_started: 106
-  total_knowledge_nodes: 56
-  total_sentences: 300
+  not_started: 97
+  total_knowledge_nodes: 65
+  total_sentences: 348

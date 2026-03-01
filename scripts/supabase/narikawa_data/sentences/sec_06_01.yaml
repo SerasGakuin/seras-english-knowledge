@@ -1,0 +1,39 @@
+# Nar_06_01: 準動詞について (p.182-184)
+
+sentences:
+  - id: "nar-0601-e271"
+    section_id: "Nar_06_01"
+    drill: 0
+    number: 271
+    role: "example"
+    english: "Mary entered the university to study English."
+    japanese: "メアリーは英語を勉強するために大学に入学した"
+    notes: "to studyの時制が不確定（いつの出来事か不明）。述語entered=過去形で時制は明確だがto studyには時制なし"
+  - id: "nar-0601-e272"
+    section_id: "Nar_06_01"
+    drill: 0
+    number: 272
+    role: "example"
+    english: "Sue has no friends to talk with."
+    japanese: "スーにはおしゃべりする友達がいない"
+    notes: "to talk withの主語が不確定（friends? Sue?）。不定詞の意味上の主語の問題を提起"
+
+sentence_structures:
+  - sentence_id: "nar-0601-e271"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0601-e271"
+    label: "details"
+    value: "<Mary>(S) entered(V:過去形/時制明確) <the university>(O) [to study English](M:不定詞/副詞用法/時制不確定)"
+  - sentence_id: "nar-0601-e272"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0601-e272"
+    label: "details"
+    value: "<Sue>(S) has(V) <no friends>(O) [to talk with](M:不定詞/形容詞用法/主語不確定)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0601-e271"
+    node_id: "nrj-001"
+  - sentence_id: "nar-0601-e272"
+    node_id: "nrj-001"

@@ -1,0 +1,87 @@
+# Nar_06_02: 不定詞(toV)の3用法 (p.185-187)
+
+sentences:
+  - id: "nar-0602-e273"
+    section_id: "Nar_06_02"
+    drill: 0
+    number: 273
+    role: "example"
+    english: "I want to go abroad."
+    japanese: "私は海外に行きたい"
+    notes: "名詞用法の例。to go abroadはwantの目的語（O）→文の要素→名詞用法"
+  - id: "nar-0602-e274"
+    section_id: "Nar_06_02"
+    drill: 0
+    number: 274
+    role: "example"
+    english: "It isn't difficult to master English."
+    japanese: "英語を習得することは難しくない"
+    notes: "名詞用法の例。to master Englishは形式主語Itに代入→主語として機能"
+  - id: "nar-0602-v001"
+    section_id: "Nar_06_02"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "To master English isn't difficult."
+    japanese: "英語を習得することは難しくない"
+    notes: "e274の書き換え。to master EnglishがSの位置に来た形。名詞用法"
+  - id: "nar-0602-e275"
+    section_id: "Nar_06_02"
+    drill: 0
+    number: 275
+    role: "example"
+    english: "This is the best way to master English."
+    japanese: "これが英語を習得する最良の方法だ"
+    notes: "形容詞用法の例。to master Englishは修飾語（M）で前の名詞wayを修飾"
+  - id: "nar-0602-e276"
+    section_id: "Nar_06_02"
+    drill: 0
+    number: 276
+    role: "example"
+    english: "Bob worked hard to support his family."
+    japanese: "ボブは家族を養うために懸命に働いた"
+    notes: "副詞用法の例。workは自動詞でSV第1文型。to support以下はworkedを修飾"
+
+sentence_structures:
+  - sentence_id: "nar-0602-e273"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0602-e273"
+    label: "details"
+    value: "<I>(S) want(V) <to go abroad>(O:不定詞名詞用法)"
+  - sentence_id: "nar-0602-e274"
+    label: "overall"
+    value: "S V C S'"
+  - sentence_id: "nar-0602-e274"
+    label: "details"
+    value: "<It>(S:形式主語) isn't(V) <difficult>(C) <to master English>(S':真主語/不定詞名詞用法)"
+  - sentence_id: "nar-0602-v001"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0602-v001"
+    label: "details"
+    value: "<To master English>(S:不定詞名詞用法) isn't(V) <difficult>(C)"
+  - sentence_id: "nar-0602-e275"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0602-e275"
+    label: "details"
+    value: "<This>(S) is(V) <the best way>(C) [to master English](M:不定詞形容詞用法/wayを修飾)"
+  - sentence_id: "nar-0602-e276"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "nar-0602-e276"
+    label: "details"
+    value: "<Bob>(S) worked(V) [hard](M:副詞) [to support his family](M:不定詞副詞用法/目的)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0602-e273"
+    node_id: "nrj-002"
+  - sentence_id: "nar-0602-e274"
+    node_id: "nrj-002"
+  - sentence_id: "nar-0602-v001"
+    node_id: "nrj-002"
+  - sentence_id: "nar-0602-e275"
+    node_id: "nrj-002"
+  - sentence_id: "nar-0602-e276"
+    node_id: "nrj-002"
