@@ -760,32 +760,32 @@ sections:
     title: "強調構文②"
     type: "exercise"
     pages: "p.150-151"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: "nta-005(強調構文の応用) Ny_63と共有"
   Ny_63:
     title: "強調構文③"
     type: "exercise"
     pages: "p.152-153"
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: "nta-005をNy_62と共有（強調構文の応用）"
   Ny_64:
     title: "説明要素の後置①"
     type: "exercise"
     pages: "p.154-155"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: "nta-006(説明要素の後置: ダッシュによる同格)"
   Ny_65:
     title: "説明要素の後置②"
     type: "exercise"
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 74
+  completed: 77
   in_progress: 0
-  not_started: 11
-  total_knowledge_nodes: 60
-  total_sentences: 192
+  not_started: 8
+  total_knowledge_nodes: 62
+  total_sentences: 195

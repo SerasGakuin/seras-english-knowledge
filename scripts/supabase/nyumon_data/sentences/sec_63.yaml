@@ -1,0 +1,28 @@
+sentences:
+  - id: "ny-63-s1"
+    section_id: "Ny_63"
+    drill: 63
+    number: 1
+    role: "exercise"
+    english: "It is precisely because society considers young people old enough to perform other more critical roles as citizens that the drinking issue has arisen."
+    japanese: "飲酒の問題が生じたのは，若者が市民としての他のもっと重要な役割を果たすくらいの年齢に達していると社会が考えているからにほかならない。"
+    notes: "出典: 慶應義塾大学"
+
+sentence_structures:
+  - sentence_id: "ny-63-s1"
+    label: "overall"
+    value: "It is M that S V (強調構文)"
+
+  - sentence_id: "ny-63-s1"
+    label: "details"
+    value: "{S}It(S:強調構文) {V}is(V) [precisely (because(従接) society(S) considers(V) young people(O) old enough(C) (to perform(to不定詞:副詞) other more critical roles (as citizens)(M:副詞句)))(M:副詞句)](M:強調要素=副詞節) [that(強調構文) {S}the drinking issue(S) {V}has arisen(V)]"
+
+  - sentence_id: "ny-63-s1"
+    label: "partial_translations"
+    value: |
+      ❸ 若者が市民としてのもっと重要な役割を果たすくらいの年齢に達している（consider O C + enough to V）
+      ❹ 飲酒の問題が生じたのは〜からにほかならない（precisely because の副詞節を強調する強調構文）
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-63-s1"
+    node_id: "nta-005"

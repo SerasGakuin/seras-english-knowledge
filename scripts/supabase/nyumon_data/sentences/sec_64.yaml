@@ -1,0 +1,28 @@
+sentences:
+  - id: "ny-64-s1"
+    section_id: "Ny_64"
+    drill: 64
+    number: 1
+    role: "exercise"
+    english: "... hungry customers are welcomed not by a cashier waiting to take their order, but by a \"Create Your Taste\" kiosk ― an automated touch-screen system that allows customers to create their own burgers without interacting with another human being."
+    japanese: "空腹の客を出迎えるのは注文を取るために待っているレジ係ではなく，「クリエイト・ユア・テイスト・キオスク」だ。それは，別の人間とやり取りすることなしに客が自分自身のハンバーガーを作り出すことを可能にする自動化されたタッチスクリーンのシステムだ。"
+    notes: "出典: 岩手大学"
+
+sentence_structures:
+  - sentence_id: "ny-64-s1"
+    label: "overall"
+    value: "S V M — 同格名詞句"
+
+  - sentence_id: "ny-64-s1"
+    label: "details"
+    value: "{S}hungry customers(S) {V}are welcomed(V:受動態) (not (by a cashier (waiting(現在分詞:形容詞) (to take their order)(to不定詞:副詞=目的)))(M:副詞句), but (by a \"Create Your Taste\" kiosk)(M:副詞句))(M:not A but B) — an automated touch-screen system [that(関代:主格) allows(V) customers(O) (to create(to不定詞) their own burgers (without interacting(前置詞+動名詞) (with another human being)(M:副詞句)))(C)](M:同格)"
+
+  - sentence_id: "ny-64-s1"
+    label: "partial_translations"
+    value: |
+      ❺ 空腹の客を出迎えるのはレジ係ではなくキオスクだ（not A but B、be動詞の直後でないnotに注意）
+      ❻ ダッシュ以降が同格でkioskの内容を説明（自動化されたタッチスクリーンのシステム）
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-64-s1"
+    node_id: "nta-006"

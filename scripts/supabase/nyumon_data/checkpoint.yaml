@@ -1,37 +1,37 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-03T01:00:00"
+updated_at: "2026-03-03T02:00:00"
 book: "入門英文問題精講"
 book_slug: "nyumon"
 
 current_state:
   phase: "Phase 2G"
-  current_section: "Ny_62"
+  current_section: "Ny_65"
   current_step: "Step 1"
-  last_completed_section: "Ny_61"
+  last_completed_section: "Ny_64"
   last_completed_gate: 5
 
 progress:
   total_sections: 85
-  completed: 74
+  completed: 77
   in_progress: 0
-  remaining: 11
-  total_nodes: 60
-  total_sentences: 192
+  remaining: 8
+  total_nodes: 62
+  total_sentences: 195
 
 recent_decisions:
-  - "Ny_59+60: nta-003統合（were to V 同一概念を異なる英文で適用）"
-  - "Ny_61: nta-004（強調構文の基本）— 新概念"
-  - "Batch 25: 2ノード/3セクション = 0.67（統合により下限近くだが妥当）"
+  - "Ny_62+63: nta-005統合（強調構文の応用: 副詞の強調と人の強調）"
+  - "Ny_64: nta-006（説明要素の後置: ダッシュによる同格）— 新概念"
+  - "Batch 26: 2ノード/3セクション = 0.67（統合により下限近くだが妥当）"
 
 active_concerns:
   - "nbk-001, nbk-002 は tagged sentences なし（基本講義ノードでは想定内）"
   - "CHECK-09 の ny-G** 命名規則エラーは既知の既存問題（基本講義ID体系）"
 
 next_actions:
-  - "Phase 2G Batch 26: Ny_62（強調構文②）→ Ny_63（強調構文③）→ Ny_64（説明要素の後置①）"
-  - "3セクションプロトコル: Batch 25 完了 → ワークフロー再読込が必要"
+  - "Phase 2G Batch 27: Ny_65（説明要素の後置②）→ Ny_66（注意すべき副詞の位置）→ Ny_67（注意すべき副詞句の位置）"
+  - "3セクションプロトコル: Batch 26 完了 → ワークフロー再読込が必要"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

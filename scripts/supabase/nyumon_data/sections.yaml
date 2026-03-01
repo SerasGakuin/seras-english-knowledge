@@ -576,19 +576,26 @@ sections:
     title: "強調構文②"
     pages: "p.150-151"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: 問題36に続く文です。
+      一言: 何かを「意識的にする」というのは精神にとっては不自然な状況。煮詰まったときはぼーっとするのが最善。
+      参考書内参照: →問36
   - id: "Ny_63"
     book: "入門英文問題精講"
     title: "強調構文③"
     pages: "p.152-153"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: 後半のthatはどこにつながる？
+      一言: アメリカの飲酒年齢引き下げに賛成する人の文。「兵役を果たす」「車の運転をしてもよい」「銃を持ってもよい」年齢なのに「なぜ飲酒はいけないのか」ということを筆者は問題にしている。
   - id: "Ny_64"
     book: "入門英文問題精講"
     title: "説明要素の後置①"
     pages: "p.154-155"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: "Create Your Taste" kioskって何？
+      一言: 英文を読んでいて「わからない所」が出てきた場合には「そのうちわかるよ」と楽に構えておこう。これは本当に大事なこと。
   - id: "Ny_65"
     book: "入門英文問題精講"
     title: "説明要素の後置②"
@@ -867,6 +874,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_61"
     node_id: "nta-004"
+    seq: 1
+  - section_id: "Ny_62"
+    node_id: "nta-005"
+    seq: 1
+  - section_id: "Ny_63"
+    node_id: "nta-005"
+    seq: 1
+  - section_id: "Ny_64"
+    node_id: "nta-006"
     seq: 1
 
 section_prerequisites: []

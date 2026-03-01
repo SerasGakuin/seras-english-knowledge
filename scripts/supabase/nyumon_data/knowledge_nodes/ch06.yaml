@@ -146,6 +146,80 @@ knowledge_nodes:
         those who〜「〜する人達」の who+be動詞が省略。
         in need =「何かを必要としている状態の」→「困っている」。
 
+  - id: "nta-005"
+    name: "強調構文の応用: 副詞の強調と人の強調"
+    category: "その他"
+    priority: "P1"
+    notes: |
+      Point分類: ❶〔強調構文〕（問62）、❶〔強調構文〕（問63）
+      強調構文で副詞（句・節）や人を強調するパターンの識別と訳出を学ぶ。
+      ■ 副詞を強調する強調構文（問62 ❶、問63 ❶）:
+        〈It is＋副詞＋that＋1つの完全な文〉は強調構文。
+        It is[It's]で始まる文を見たら強調構文の可能性を考え、後ろにthat[who]を探す。
+        副詞の3種類:
+        (1) 1語の副詞: yesterday「昨日」
+        (2) 〈前置詞＋名詞〉からなる副詞句: during this period「この期間中に」
+        (3) 〈接続詞＋SV〉からなる副詞節: when I was young「私が若かった頃」
+        名詞の強調(nta-004)との違い: 副詞の強調ではthat以降が「完全な文」になる。
+      ■ 人を強調する場合（問63 ❶）:
+        〈It is＋人＋who＋主語または目的語の欠けた文〉。
+        例: I takes Jim to school. → ①主語強調: It is Bob who takes Jim to school.
+        ②目的語強調: It is Jim who Bob takes to school.
+      ■ 強調された副詞の訳出:
+        強調された副詞(句・節)Aを最後に置き「〜なのはAだ」とするのが一般的。
+      ❷（問62）only when = 「～して初めて」:
+        〈only＋時を示す副詞(語/句/節)〉=「～して初めて」。
+        例: only yesterday「昨日になって初めて」。
+        He buys things only after his wife agrees to.
+        「彼は奥さんが同意して初めて物を買う」。
+      ❸（問62）fade into the background:
+        「意識が背景(意識できないところ)の中に消えていく」。
+        好きな歌を口ずさむ時「歌が独りでに口から出てくる」ような現象。
+      ❹（問62）take over:
+        「義務や責任などを引き受ける」「取って代わる」。
+        overは弧を描くイメージ。
+      参考書内参照: →問36（問62は問36に続く文）
+      ❷（問63）enough to V:
+        〜enough to V「…するくらいの～」。enoughは形容詞の後ろに置く。
+        old enough = 「…するくらいの年齢だ」（×「十分に年寄り」ではない）。
+        consider O C「OをCとみなす」。
+      ❸（問63）other more critical roles as citizens:
+        市民としての他のもっと重要な役割（兵役、投票、納税など）。
+      ❹（問63）drinking = 名詞「飲酒」:
+        名詞が2つ並ぶ形: 前の名詞が形容詞のように後ろの名詞を説明。
+        the drinking issue「飲酒問題」。theは「読み手も知っている例の問題」を特定。
+
+  - id: "nta-006"
+    name: "説明要素の後置: ダッシュによる同格"
+    category: "その他"
+    priority: "P1"
+    notes: |
+      Point分類: ❹❼〔その他〕（問64）
+      ダッシュ(―)以降で名詞を同格で説明する構造を学ぶ。
+      ■ ダッシュによる同格（問64 ❹）:
+        英語では「発信者に説明責任」がある（日本語は受信者が推測する）。
+        わからない名詞が出てきたら、後で必ず説明がなされるので焦らず読み進める。
+        最初の名詞を後の名詞で説明している場合「名詞と名詞が同格の関係にある」と言う。
+      ■ 同格の構造把握（問64 ❼）:
+        a "Create Your Taste" kiosk — an automated touch-screen system [that ... human being]
+        ダッシュ以降の名詞句全体が直前の名詞と同格。
+        関係代名詞節 that ... human being は system を修飾。
+      ❶（問64）not A but B:
+        be動詞の否定がbe動詞の直後でない場合 → not A but B「AではなくてBだ」を予想。
+        本文: are welcomed not by a cashier ..., but by a kiosk。
+      ❷（問64）waiting to take:
+        cashierを修飾する現在分詞（形容詞句）。
+        to take their order = to不定詞の副詞用法（目的）。
+        「注文を取るために待っているレジ係」。
+      ❸（問64）a "Create Your Taste" kiosk:
+        わからない名詞は後で説明される → 焦らず読み進める。
+      ❺（問64）that = 主格の関係代名詞:
+        that節中にallowsの主語がない → thatは主格の関係代名詞でsystemを説明。
+        allow O to V「OがVするのを可能にする」。own は所有格の強調（対比で使用）。
+      ❻（問64）without + 動名詞:
+        前置詞withoutの後ろに動詞を置く場合は動名詞にする。
+        interact with〜「〜と交流する、やり取りする」。
+
 understanding_goals:
   - node_id: "nta-001"
     seq: 1
@@ -186,6 +260,26 @@ understanding_goals:
   - node_id: "nta-004"
     seq: 3
     goal: "強調構文を「〜なのはAだ」の形で正確に訳出できる"
+
+  - node_id: "nta-005"
+    seq: 1
+    goal: "〈It is＋副詞＋that＋完全な文〉を副詞の強調構文と識別できる"
+  - node_id: "nta-005"
+    seq: 2
+    goal: "〈It is＋人＋who＋欠けのある文〉を人の強調構文と識別できる"
+  - node_id: "nta-005"
+    seq: 3
+    goal: "副詞の強調構文と名詞の強調構文を区別できる（that以降が完全文か不完全文か）"
+
+  - node_id: "nta-006"
+    seq: 1
+    goal: "ダッシュ(―)以降の名詞句が直前の名詞と同格であることを識別できる"
+  - node_id: "nta-006"
+    seq: 2
+    goal: "同格の名詞句内の関係代名詞節の構造を正確に把握できる"
+  - node_id: "nta-006"
+    seq: 3
+    goal: "ダッシュによる同格を含む文を正確に訳出できる"
 
 check_points:
   - node_id: "nta-001"
@@ -240,6 +334,32 @@ check_points:
     question: "強調構文の訳出法を述べよ。"
     answer: "強調された名詞Aを最後に置き「〜なのはAだ」とするのが一般的。例: It was the Church that helped the poor. →「貧しい者を助けたのは教会だった」。"
 
+  - node_id: "nta-005"
+    seq: 1
+    question: "副詞を強調する強調構文の形を述べよ。名詞の強調との違いは何か？"
+    answer: "〈It is＋副詞＋that＋1つの完全な文〉。名詞の強調ではthat以降に主語または目的語が欠けるが、副詞の強調ではthat以降が完全な文になる。副詞は1語・副詞句・副詞節の3種類がある。"
+  - node_id: "nta-005"
+    seq: 2
+    question: "人を強調する強調構文はどのような形になるか？ 例を挙げよ。"
+    answer: "〈It is＋人＋who＋主語または目的語の欠けた文〉。例: Bob takes Jim to school. の主語Bobを強調 → It is Bob who takes Jim to school. 目的語Jimを強調 → It is Jim who Bob takes to school."
+  - node_id: "nta-005"
+    seq: 3
+    question: "It's only when we stop trying that our conscious mind fades into the background. を強調構文として元の文に復元し、only when の訳し方を述べよ。"
+    answer: "Only when we stop trying, our conscious mind fades into the background. only when〜 =「〜して初めて」。〈only＋時を示す副詞(語/句/節)〉は「～して初めて」と訳す。"
+
+  - node_id: "nta-006"
+    seq: 1
+    question: "ダッシュ(―)による同格とは何か？"
+    answer: "英語では発信者に説明責任があるため、わからない名詞の後にダッシュを置き、後の名詞（句）で内容を説明する。最初の名詞と後の名詞が「同格の関係」にある。"
+  - node_id: "nta-006"
+    seq: 2
+    question: "a 'Create Your Taste' kiosk ― an automated touch-screen system that allows ... の構造を説明せよ。"
+    answer: "ダッシュ以降の an automated touch-screen system [that allows customers to create their own burgers without interacting with another human being] という名詞句全体が、直前の a 'Create Your Taste' kiosk と同格。that は主格の関係代名詞で system を修飾。"
+  - node_id: "nta-006"
+    seq: 3
+    question: "英文を読んでいて「わからない名詞」が出てきた場合、どう対処すべきか？"
+    answer: "焦らずに読み進める。英語では発信者に説明責任があるため、後で必ず説明がなされる（ダッシュ、同格、関係代名詞節など）。"
+
 node_prerequisites:
   - node_id: "nta-001"
     prerequisite_id: "nbk-002"
@@ -249,6 +369,10 @@ node_prerequisites:
   - node_id: "nta-003"
     prerequisite_id: "nta-001"
   - node_id: "nta-004"
+    prerequisite_id: "nbk-010"
+  - node_id: "nta-005"
+    prerequisite_id: "nta-004"
+  - node_id: "nta-006"
     prerequisite_id: "nbk-010"
 
 knowledge_references:
@@ -272,3 +396,15 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_61"
     pages: "p.148-149"
+  - node_id: "nta-005"
+    book: "入門英文問題精講"
+    section_id: "Ny_62"
+    pages: "p.150-151"
+  - node_id: "nta-005"
+    book: "入門英文問題精講"
+    section_id: "Ny_63"
+    pages: "p.152-153"
+  - node_id: "nta-006"
+    book: "入門英文問題精講"
+    section_id: "Ny_64"
+    pages: "p.154-155"

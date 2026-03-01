@@ -1,0 +1,28 @@
+sentences:
+  - id: "ny-62-s1"
+    section_id: "Ny_62"
+    drill: 62
+    number: 1
+    role: "exercise"
+    english: "It's only when we stop trying that our conscious mind fades into the background and our subconscious mind takes over."
+    japanese: "努力することを止めて初めて，意識が背景の中へと消え，無意識が取って代わる。"
+    notes: "出典: 埼玉大学"
+
+sentence_structures:
+  - sentence_id: "ny-62-s1"
+    label: "overall"
+    value: "It is M that S V M and S V (強調構文)"
+
+  - sentence_id: "ny-62-s1"
+    label: "details"
+    value: "{S}It(S:強調構文) {V}'s(V) [only (when(従接) we(S) stop(V) trying(O))](M:強調要素=副詞節) [that(強調構文) {S}our conscious mind(S) {V}fades(V) (into the background)(M:副詞句) and {S}our subconscious mind(S) {V}takes over(V)]"
+
+  - sentence_id: "ny-62-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 努力することを止めて初めて（only when〜 =「〜して初めて」、副詞節の強調構文）
+      ❷ 意識が背景の中へと消え無意識が取って代わる（that以降が完全文 = 副詞を強調する強調構文の証拠）
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-62-s1"
+    node_id: "nta-005"
