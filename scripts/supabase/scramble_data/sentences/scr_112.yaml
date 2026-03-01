@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-112-p01"
+    section_id: "Scr_112"
+    drill: 1
+    number: 433
+    role: "exam"
+    english: "A book is not always good just because it was written by a famous writer."
+    japanese: "有名な著者によって書かれたからといって、ある本が必ずしも良いわけではない。"
+    notes: "出典: 名城大。not...because 〜「〜だからといって…ではない」。notはbecause以下全体を否定。not...simply [merely / just] because 〜の形が多い"
+  - id: "scr-112-p02"
+    section_id: "Scr_112"
+    drill: 1
+    number: 434
+    role: "exam"
+    english: "Since my train was delayed, I was late for school."
+    japanese: "私の乗った電車が遅れたので、学校に遅刻してしまった。"
+    notes: "出典: 南山大。since「〜なので」— 理由。forは文頭で使えない、soはコンマ後で使う"
+  - id: "scr-112-p03"
+    section_id: "Scr_112"
+    drill: 1
+    number: 435
+    role: "exam"
+    english: "Now that I've finished my homework, I can go out and play baseball with my friends."
+    japanese: "宿題を終えたので、友人と出かけて野球ができる。"
+    notes: "出典: 高知大。now (that)「（今や）〜なので/〜である以上」— 時＋理由。口語ではthatはしばしば省略"
+
+sentence_structures:
+  - sentence_id: "scr-112-p01"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-112-p01"
+    label: "details"
+    value: "<A book>(S) is not always(V) <good>(C) [just because it was written by a famous writer](M:not...because/全体否定)"
+  - sentence_id: "scr-112-p02"
+    label: "overall"
+    value: "M, S V C M"
+  - sentence_id: "scr-112-p02"
+    label: "details"
+    value: "[Since my train was delayed](M:since/理由), <I>(S) was(V) <late>(C) [for school](M)"
+  - sentence_id: "scr-112-p03"
+    label: "overall"
+    value: "M, S V O"
+  - sentence_id: "scr-112-p03"
+    label: "details"
+    value: "[Now that I've finished my homework](M:now that/時+理由), <I>(S) can go out and play(V) <baseball>(O) [with my friends](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-112-p01"
+    node_id: "shs-032"
+  - sentence_id: "scr-112-p02"
+    node_id: "shs-032"
+  - sentence_id: "scr-112-p03"
+    node_id: "shs-032"

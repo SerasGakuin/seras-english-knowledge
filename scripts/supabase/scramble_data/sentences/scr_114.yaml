@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-114-p01"
+    section_id: "Scr_114"
+    drill: 1
+    number: 440
+    role: "exam"
+    english: "I'll help you clean the room unless I have too much homework to do."
+    japanese: "もし宿題が多くなければ、あなたが部屋を掃除するのを手伝うよ。"
+    notes: "難易度: 頻出。unless「〜でない限り/もし〜でなければ」(= if...not)。否定の条件を表し、節内で仮定法は用いない"
+  - id: "scr-114-p02"
+    section_id: "Scr_114"
+    drill: 1
+    number: 441
+    role: "exam"
+    english: "You can get a good seat for the concert, provided you reserve it in advance."
+    japanese: "前もって予約しておけばコンサートのいい席が取れます。"
+    notes: "出典: 南山大。provided [providing] (that)「もし〜ならば」(= if)。語句: in advance「前もって/あらかじめ」（→ 1210）"
+  - id: "scr-114-p03"
+    section_id: "Scr_114"
+    drill: 1
+    number: 442
+    role: "exam"
+    english: "Suppose you lost your wallet, what would you do first?"
+    japanese: "もし財布をなくしたら、あなたはまず何をしますか。"
+    notes: "難易度: 発展。suppose [supposing] (that)「もし〜ならば」(= if)。仮定法の文で使えるifの代用語はsuppose/supposingのみ"
+
+sentence_structures:
+  - sentence_id: "scr-114-p01"
+    label: "overall"
+    value: "S V O V O M"
+  - sentence_id: "scr-114-p01"
+    label: "details"
+    value: "<I>(S) 'll help(V) <you>(O) clean(V) <the room>(O) [unless I have too much homework to do](M:unless/否定条件)"
+  - sentence_id: "scr-114-p02"
+    label: "overall"
+    value: "S V O M, M"
+  - sentence_id: "scr-114-p02"
+    label: "details"
+    value: "<You>(S) can get(V) <a good seat for the concert>(O), [provided you reserve it in advance](M:provided=if)"
+  - sentence_id: "scr-114-p03"
+    label: "overall"
+    value: "M, O V S V M"
+  - sentence_id: "scr-114-p03"
+    label: "details"
+    value: "[Suppose you lost your wallet](M:suppose=if/仮定法), <what>(O) would(V) <you>(S) do(V) [first](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-114-p01"
+    node_id: "shs-034"
+  - sentence_id: "scr-114-p02"
+    node_id: "shs-034"
+  - sentence_id: "scr-114-p03"
+    node_id: "shs-034"

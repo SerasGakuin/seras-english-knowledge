@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-102-p01"
+    section_id: "Scr_102"
+    drill: 1
+    number: 390
+    role: "exam"
+    english: "On birthdays, some people throw parties, receive gifts, and eat cake."
+    japanese: "誕生日には、パーティーを開いたり、プレゼントを受け取ったり、ケーキを食べたりする人がいる。"
+    notes: "難易度: 基本。出典: センター。正誤問題（③ receiving → receive）。andが3つの述語動詞（現在形）を結んでいる"
+  - id: "scr-102-p02"
+    section_id: "Scr_102"
+    drill: 1
+    number: 391
+    role: "exam"
+    english: "I think he is a very intelligent person, but many people don't agree with me."
+    japanese: "私は彼のことをとても聡明な人だと思うが、私に同意しない人が多い。"
+    notes: "難易度: 基本。出典: センター。前後の2文が対立する関係 → but。forでは文意が通らない。whichやwhoは後ろが完全な文なので不可"
+  - id: "scr-102-p03"
+    section_id: "Scr_102"
+    drill: 1
+    number: 392
+    role: "exam"
+    english: "It started snowing, so they had to stop playing tennis."
+    japanese: "雪が降り始めた。それで彼らはテニスをやめなければならなかった。"
+    notes: "難易度: 頻出。出典: 東京経済大。...(,) so (that) 〜「それで〜/だから〜」。soは本来副詞だが接続詞として結果を表す。参照: in spite of（→ 1282）"
+
+sentence_structures:
+  - sentence_id: "scr-102-p01"
+    label: "overall"
+    value: "M, S V O, V O, and V O"
+  - sentence_id: "scr-102-p01"
+    label: "details"
+    value: "[On birthdays](M), <some people>(S) throw(V) <parties>(O), receive(V) <gifts>(O), and eat(V) <cake>(O)"
+  - sentence_id: "scr-102-p02"
+    label: "overall"
+    value: "S V O, but S V M"
+  - sentence_id: "scr-102-p02"
+    label: "details"
+    value: "<I>(S) think(V) <he is a very intelligent person>(O:that節), but <many people>(S) don't agree(V) [with me](M)"
+  - sentence_id: "scr-102-p03"
+    label: "overall"
+    value: "S V, so S V O"
+  - sentence_id: "scr-102-p03"
+    label: "details"
+    value: "<It>(S) started snowing(V), so <they>(S) had to stop(V) <playing tennis>(O)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-102-p01"
+    node_id: "shs-027"
+  - sentence_id: "scr-102-p02"
+    node_id: "shs-027"
+  - sentence_id: "scr-102-p03"
+    node_id: "shs-027"

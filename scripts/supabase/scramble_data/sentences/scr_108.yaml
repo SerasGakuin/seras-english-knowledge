@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-108-p01"
+    section_id: "Scr_108"
+    drill: 1
+    number: 413
+    role: "exam"
+    english: "John came to see you while you were out."
+    japanese: "あなたが外出している間にジョンがあなたを訪ねて来ました。"
+    notes: "難易度: 基本。出典: 城西大。「時」のwhile「〜する間」。duringは前置詞（後ろに名詞）、whileは接続詞（後ろにS+V）"
+  - id: "scr-108-p02"
+    section_id: "Scr_108"
+    drill: 1
+    number: 414
+    role: "exam"
+    english: "My friends prefer to study in groups, while I prefer to study alone."
+    japanese: "私の友人たちはみんなで勉強するほうが好きだが、一方で私は1人で勉強するほうが好きだ。"
+    notes: "難易度: 頻出。出典: 東京理科大。「対比」のwhile「〜なのに対して」(= whereas)。some〜others...の表現と共に用いることも多い（→ 314）"
+  - id: "scr-108-p03"
+    section_id: "Scr_108"
+    drill: 1
+    number: 415
+    role: "exam"
+    english: "While I'm enjoying my stay in France, I still miss my home country."
+    japanese: "フランスでの滞在を楽しんでいますが、それでも自分の国を恋しく思います。"
+    notes: "出典: 南山大。「譲歩」のwhile「〜だけれども」(= although/though)。譲歩の場合while節は主節の前に置かれるのが一般的"
+  - id: "scr-108-e01"
+    section_id: "Scr_108"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "Some like spicy food, while others can't tolerate it."
+    japanese: "辛い食べ物が好きな人もいれば、まったく食べられない人もいる。"
+    notes: "問414解説例文。「対比」のwhileとsome〜others...の組み合わせ"
+
+sentence_structures:
+  - sentence_id: "scr-108-p01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-108-p01"
+    label: "details"
+    value: "<John>(S) came to see(V) <you>(O) [while you were out](M:時のwhile)"
+  - sentence_id: "scr-108-p02"
+    label: "overall"
+    value: "S V O, while S V O"
+  - sentence_id: "scr-108-p02"
+    label: "details"
+    value: "<My friends>(S) prefer(V) <to study in groups>(O), while <I>(S) prefer(V) <to study alone>(O:対比のwhile)"
+  - sentence_id: "scr-108-p03"
+    label: "overall"
+    value: "M, S M V O"
+  - sentence_id: "scr-108-p03"
+    label: "details"
+    value: "[While I'm enjoying my stay in France](M:譲歩のwhile), <I>(S) [still](M) miss(V) <my home country>(O)"
+  - sentence_id: "scr-108-e01"
+    label: "overall"
+    value: "S V O, while S V O"
+  - sentence_id: "scr-108-e01"
+    label: "details"
+    value: "<Some>(S) like(V) <spicy food>(O), while <others>(S) can't tolerate(V) <it>(O:対比のwhile+some〜others)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-108-p01"
+    node_id: "shs-030"
+  - sentence_id: "scr-108-p02"
+    node_id: "shs-030"
+  - sentence_id: "scr-108-p03"
+    node_id: "shs-030"
+  - sentence_id: "scr-108-e01"
+    node_id: "shs-030"

@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-106-p01"
+    section_id: "Scr_106"
+    drill: 1
+    number: 407
+    role: "exam"
+    english: "His mother asked him if he had been to the bank."
+    japanese: "彼の母親は彼に銀行に行ってきたかどうか尋ねた。"
+    notes: "難易度: 頻出。出典: 拓殖大。動詞の目的語になるif節「〜かどうか」。口語ではwhetherよりifが好まれる"
+  - id: "scr-106-p02"
+    section_id: "Scr_106"
+    drill: 1
+    number: 408
+    role: "exam"
+    english: "Whether the news is true is questionable."
+    japanese: "その知らせが本当かどうかは疑わしい。"
+    notes: "難易度: 頻出。出典: 金城学院大。主語になるwhether節。if節は文頭で主語になれない。形式主語構文: It is questionable whether [if] the news is true."
+  - id: "scr-106-p03"
+    section_id: "Scr_106"
+    drill: 1
+    number: 409
+    role: "exam"
+    english: "I'm worried about whether she is happy."
+    japanese: "私は彼女が幸せかどうか心配している。"
+    notes: "出典: 立命館大。前置詞の目的語になるwhether節。if節は前置詞の目的語になれないのでabout ifは不可"
+
+sentence_structures:
+  - sentence_id: "scr-106-p01"
+    label: "overall"
+    value: "S V O O"
+  - sentence_id: "scr-106-p01"
+    label: "details"
+    value: "<His mother>(S) asked(V) <him>(O) <if he had been to the bank>(O:if名詞節/目的語)"
+  - sentence_id: "scr-106-p02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-106-p02"
+    label: "details"
+    value: "<Whether the news is true>(S:whether名詞節/主語) is(V) <questionable>(C)"
+  - sentence_id: "scr-106-p03"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-106-p03"
+    label: "details"
+    value: "<I>(S) 'm worried(V) [about whether she is happy](M:前置詞+whether節)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-106-p01"
+    node_id: "shs-029"
+  - sentence_id: "scr-106-p02"
+    node_id: "shs-029"
+  - sentence_id: "scr-106-p03"
+    node_id: "shs-029"

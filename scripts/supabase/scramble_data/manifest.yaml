@@ -1024,6 +1024,167 @@ sections:
     gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-02"
     notes: "shs-026(Theme100+101統合)。問386-389=4exam, PU!74例文2件=2example"
+  # Part 1 > Ch13 接続詞
+  Scr_102:
+    title: "等位接続詞"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-027(Theme102+103統合)。問390-392=3exam(問390正誤問題→訂正文登録)"
+  Scr_103:
+    title: "命令文 + and/or"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-027(Theme102+103統合)。問393-396=4exam, 解説例文(otherwise)1件=1example"
+  Scr_104:
+    title: "等位接続詞を用いた相関的表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-028(単独)。問397-402=6exam(問399対話Bのみ, 問402整序)"
+  Scr_105:
+    title: "名詞節を導くthat"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-029(Theme105+106統合)。問403-406=4exam, 解説例文(except that)1件=1example"
+  Scr_106:
+    title: "名詞節を導くwhether/if"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-029(Theme105+106統合)。問407-409=3exam"
+  Scr_107:
+    title: "接続詞asの用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-030(Theme107+108統合)。問410-412=3exam, 解説例文(the way/as they are)2件=2example"
+  Scr_108:
+    title: "whileの用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-030(Theme107+108統合)。問413-415=3exam, 解説例文(some...while others)1件=1example"
+  Scr_109:
+    title: "時を表す接続詞"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-031(Theme109+110+111統合)。問416-421=6exam, 解説例文(until「ついに」)1件=1example; PU!78(接続詞vs前置詞)・PU!79(4種整理)はnotes記録"
+  Scr_110:
+    title: "時の接続詞を用いた重要表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-031(Theme109+110+111統合)。問422-426=5exam(問423対話+整序Bのみ), 解説例文(It was+時間+before)1件=1example; PU!80(byとuntil)はnotes記録"
+  Scr_111:
+    title: "「〜するとすぐに」の表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-031(Theme109+110+111統合)。問427-432=6exam, 解説例文(the minute)1件=1example; PU!81(6表現)はnotes記録"
+  Scr_112:
+    title: "理由を表す接続詞"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-032(単独)。問433-435=3exam"
+  Scr_113:
+    title: "譲歩を表す接続詞"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-033(単独)。問436-439=4exam, 解説例文(if=even if/Rich as)2件=2example; PU!82(even if vs even though)はnotes記録"
+  Scr_114:
+    title: "条件を表す接続詞"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-034(単独)。問440-442=3exam; PU!83(unless注意点)・PU!84(条件接続詞リスト)はnotes記録"
+  Scr_115:
+    title: "目的を表す接続詞"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-035(Theme115+116統合)。問443-445=3exam, 解説例文(so thatのthat省略/in case=if)2件=2example; PU!85はnotes記録"
+  Scr_116:
+    title: "程度・結果を表す接続詞"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-035(Theme115+116統合)。問446-448=3exam, 解説例文(否定+so...that)1件=1example"
+  Scr_117:
+    title: "as [so] long asとas [so] far as"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-036(単独)。問449-451=3exam, 解説例文(as long as条件)1件=1example; PU!86(判別法)はnotes記録"
   Scr_125:
     title: "自動詞と他動詞──前置詞の有無"
     type: "usage"
@@ -1036,9 +1197,9 @@ sections:
     notes: "パイロット。sgh-001。PU!92(他動詞14語)/PU!93(自動詞7語)はnotes記録"
 
 summary:
-  total_sections: 102
-  completed: 102
+  total_sections: 118
+  completed: 118
   in_progress: 0
   not_started: 0
-  total_knowledge_nodes: 77
-  total_sentences: 518
+  total_knowledge_nodes: 87
+  total_sentences: 594

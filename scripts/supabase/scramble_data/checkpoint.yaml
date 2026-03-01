@@ -2,24 +2,37 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T03:00:00"
+updated_at: "2026-03-01T12:00:00"
 book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 2 — B07完了、B08着手前"
+  phase: "Phase 2 — B08完了、B09着手前"
   current_section: null
   current_step: null
-  last_completed_section: "Scr_101"
+  last_completed_section: "Scr_117"
   last_completed_gate: 5
 
 progress:
   total_sections: 271
-  completed: 102
+  completed: 118
   in_progress: 0
-  remaining: 169
-  total_nodes: 77
-  total_sentences: 518
+  remaining: 153
+  total_nodes: 87
+  total_sentences: 594
+
+b08_results:
+  ch13_sections: ["Scr_102", "Scr_103", "Scr_104", "Scr_105", "Scr_106", "Scr_107", "Scr_108", "Scr_109", "Scr_110", "Scr_111", "Scr_112", "Scr_113", "Scr_114", "Scr_115", "Scr_116", "Scr_117"]
+  ch13_nodes: ["shs-027", "shs-028", "shs-029", "shs-030", "shs-031", "shs-032", "shs-033", "shs-034", "shs-035", "shs-036"]
+  ch13_sentences: 76
+  ch13_merges:
+    - "Theme 102+103 → shs-027（等位接続詞の基本と命令文+and/or）"
+    - "Theme 105+106 → shs-029（名詞節を導くthatとwhether/if）"
+    - "Theme 107+108 → shs-030（接続詞asとwhileの用法）"
+    - "Theme 109+110+111 → shs-031（時を表す接続詞と重要表現）"
+    - "Theme 115+116 → shs-035（目的・程度・結果を表す接続詞）"
+  metrics:
+    ch13_node_section_ratio: 0.625
 
 b07_results:
   ch12_sections: ["Scr_091", "Scr_092", "Scr_093", "Scr_094", "Scr_095", "Scr_096", "Scr_097", "Scr_098", "Scr_099", "Scr_100", "Scr_101"]
@@ -145,9 +158,10 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
-  - "B08: Ch13 接続詞(Scr_102-117) → ノードID shs-027〜"
-  - "原本: Part1_Ch13_接続詞.md を読む"
+  - "B09: Ch14 強調・倒置・省略(Scr_118-124) → ノードID shs-037〜"
+  - "原本: Part1_Ch14_強調・倒置・省略・代用.md を読む"
   - "章区切り → ワークフロー.md + 設計書.md 再読込"
+  - "B09完了 = Part 1完了マイルストーン → 大規模レビュー"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

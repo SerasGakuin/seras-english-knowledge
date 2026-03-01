@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-117-p01"
+    section_id: "Scr_117"
+    drill: 1
+    number: 449
+    role: "exam"
+    english: "As long as I live, I will not let you do such a thing."
+    japanese: "私が生きている限りは、あなたにそんなことはさせない。"
+    notes: "難易度: 頻出。出典: 立命館大。as [so] long as「〜する限りは/〜する間は」(= while) — 時間の制限"
+  - id: "scr-117-p02"
+    section_id: "Scr_117"
+    drill: 1
+    number: 450
+    role: "exam"
+    english: "As long as you come back home by ten, you may go out."
+    japanese: "10時までに帰ってくれば、出かけてもよい。"
+    notes: "難易度: 頻出。出典: 亜細亜大。as [so] long as「〜しさえすれば/〜ならば」(= only if) — 条件"
+  - id: "scr-117-p03"
+    section_id: "Scr_117"
+    drill: 1
+    number: 451
+    role: "exam"
+    english: "As far as I am concerned, the performance tonight was perfect."
+    japanese: "私に関する限り、今夜の演奏は完璧でした。"
+    notes: "難易度: 頻出。出典: 青山学院大。as [so] far as「〜する限りでは/〜の範囲内では」— 範囲の制限。as far as I'm concerned「私に関する限りでは」"
+  - id: "scr-117-e01"
+    section_id: "Scr_117"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "You won't get into trouble as long as you follow the rules."
+    japanese: "ルールを守りさえすれば、トラブルにはならないだろう。"
+    notes: "問450解説例文。as long asの「条件」の意味が時間の制限から派生する例。「守る間は→守りさえすれば」"
+
+sentence_structures:
+  - sentence_id: "scr-117-p01"
+    label: "overall"
+    value: "M, S V O V O"
+  - sentence_id: "scr-117-p01"
+    label: "details"
+    value: "[As long as I live](M:as long as/時間の制限), <I>(S) will not let(V) <you>(O) do(V) <such a thing>(O)"
+  - sentence_id: "scr-117-p02"
+    label: "overall"
+    value: "M, S V"
+  - sentence_id: "scr-117-p02"
+    label: "details"
+    value: "[As long as you come back home by ten](M:as long as/条件), <you>(S) may go out(V)"
+  - sentence_id: "scr-117-p03"
+    label: "overall"
+    value: "M, S V C"
+  - sentence_id: "scr-117-p03"
+    label: "details"
+    value: "[As far as I am concerned](M:as far as/範囲の制限), <the performance tonight>(S) was(V) <perfect>(C)"
+  - sentence_id: "scr-117-e01"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-117-e01"
+    label: "details"
+    value: "<You>(S) won't get into trouble(V) [as long as you follow the rules](M:as long as/条件)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-117-p01"
+    node_id: "shs-036"
+  - sentence_id: "scr-117-p02"
+    node_id: "shs-036"
+  - sentence_id: "scr-117-p03"
+    node_id: "shs-036"
+  - sentence_id: "scr-117-e01"
+    node_id: "shs-036"

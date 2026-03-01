@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-116-p01"
+    section_id: "Scr_116"
+    drill: 1
+    number: 446
+    role: "exam"
+    english: "I was so absorbed in reading the novel that I forgot to call her."
+    japanese: "その小説に夢中になってしまって、彼女に電話をするのを忘れてしまった。"
+    notes: "難易度: 基本、頻出。出典: 久留米大。整序問題。so...(that) 〜「とても…なので〜」。soは程度・強意の副詞で形容詞・副詞を伴う"
+  - id: "scr-116-p02"
+    section_id: "Scr_116"
+    drill: 1
+    number: 447
+    role: "exam"
+    english: "Yesterday was such a fine day that many children were playing outdoors."
+    japanese: "昨日は天気がよかったので、多くの子供たちが屋外で遊んでいました。"
+    notes: "難易度: 頻出。出典: 名古屋学院大。整序問題。such...(that) 〜「とても…なので〜」。suchの後ろにa [an]+形容詞+名詞"
+  - id: "scr-116-p03"
+    section_id: "Scr_116"
+    drill: 1
+    number: 448
+    role: "exam"
+    english: "Her courage was such that everyone could not help admiring her."
+    japanese: "彼女の勇気は大変なものだったので、誰もが彼女を賞賛せざるを得なかった。"
+    notes: "難易度: 発展。出典: 中央大。整序問題。S is such that 〜「Sはたいへんなものなので〜」。such = so great。倒置形: Such was her courage that ...。参照: cannot help doing（→ 74）"
+  - id: "scr-116-e01"
+    section_id: "Scr_116"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "He is not so old that he cannot work."
+    japanese: "彼は働けないほど年寄りではない。"
+    notes: "問446プラスα例文。否定+so...that「〜するほど…（でない）」— 後ろから前に訳し上げる"
+
+sentence_structures:
+  - sentence_id: "scr-116-p01"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-116-p01"
+    label: "details"
+    value: "<I>(S) was(V) <so absorbed in reading the novel>(C:so+形容詞) [that I forgot to call her](M:結果のthat節)"
+  - sentence_id: "scr-116-p02"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-116-p02"
+    label: "details"
+    value: "<Yesterday>(S) was(V) <such a fine day>(C:such+a+形容詞+名詞) [that many children were playing outdoors](M:結果のthat節)"
+  - sentence_id: "scr-116-p03"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-116-p03"
+    label: "details"
+    value: "<Her courage>(S) was(V) <such>(C:such=so great) [that everyone could not help admiring her](M:結果のthat節)"
+  - sentence_id: "scr-116-e01"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-116-e01"
+    label: "details"
+    value: "<He>(S) is(V) <not so old>(C:否定+so+形容詞) [that he cannot work](M:程度のthat節)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-116-p01"
+    node_id: "shs-035"
+  - sentence_id: "scr-116-p02"
+    node_id: "shs-035"
+  - sentence_id: "scr-116-p03"
+    node_id: "shs-035"
+  - sentence_id: "scr-116-e01"
+    node_id: "shs-035"
