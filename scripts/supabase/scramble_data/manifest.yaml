@@ -1706,7 +1706,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 1
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-031(Theme169+170統合)。問661-664は解説のみで出題文なし。例文1件登録(nearly)。"
   Scr_170:
@@ -1716,7 +1716,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 0
     sentences_created: 2
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-031(Theme169+170統合)。問665-666は解説のみで出題文なし。例文2件登録(home副詞用法)。"
   Scr_171:
@@ -1726,7 +1726,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 6
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-032(Theme171+172統合)。問667-672=6exam。however/besides/therefore/nevertheless/consequently/still。"
   Scr_172:
@@ -1736,7 +1736,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 0
     sentences_created: 2
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-032(Theme171+172統合)。問673-674=2exam。luckily文修飾、evidently不適当選択。"
   Scr_173:
@@ -1746,7 +1746,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 5
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-033(Theme173+174統合)。問675-677=3exam、例文2件(yet疑問文/still否定)。"
   Scr_174:
@@ -1756,7 +1756,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 0
     sentences_created: 3
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-033(Theme173+174統合)。問678-679=2exam、例文1件(before単独)。"
   Scr_175:
@@ -1766,7 +1766,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 6
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-034。問680-684=5exam、例文1件。almost all/most/most of the使い分け。"
   # Ch19 前置詞の語法（B13）
@@ -1777,7 +1777,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 8
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-035。問685-690=6exam、例文2件(by vs till対比)=2example。at/on/in時、by/until、for/during、in時の経過。PU!159記録。"
   Scr_177:
@@ -1787,7 +1787,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 8
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-036。問691-697=7exam、例文1件(among最上級)。at/in/on場所、above/over、between/among。PU!160記録。"
   Scr_178:
@@ -1797,7 +1797,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 10
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-037。問698-704=7exam、例文3件(begin by doing追加)。in the direction of、go doing in/at/on、within A of B、begin with/by、order A from B、a key to。PU!161記録。"
   Scr_179:
@@ -1807,7 +1807,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 4
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-038。問705-707=3exam、例文1件。with+名詞+形容詞/副詞/場所句の3パターン。"
   Scr_180:
@@ -1817,7 +1817,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 2
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-039(Theme180+181統合)。問708-709=2exam。to one's great+感情名詞、much to one's+感情名詞。PU!162記録。"
   Scr_181:
@@ -1827,7 +1827,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 0
     sentences_created: 3
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-039(Theme180+181統合)。問710-711=2exam、例文1件(of great historical value)。of+抽象名詞=形容詞、with+抽象名詞=副詞。PU!163記録。"
   Scr_182:
@@ -1837,7 +1837,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 8
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-040。問712-718=7exam、例文1件(through仲介)。besides/beside、on関連、with道具、for/against、by差、except for、through仲介。PU!164記録。"
   Scr_183:
@@ -1847,7 +1847,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 10
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-041。問719-725=7exam、例文3件(unlike/as無冠詞/in着用追加)。for基準、over飲食、to適合、despite譲歩、like類似、in着用、as役割。"
   # Special Edition（B14）
@@ -1858,7 +1858,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 0
     sentences_created: 10
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-02"
     notes: "sdr-001(S01+S02統合)。問1-5=5exam(文型一致)、選択肢①-⑤=5example。CHECK!1(文型・品詞判断法)はnotes記録"
   Scr_S02:
@@ -1868,7 +1868,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 4
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-02"
     notes: "sdr-001(S01+S02統合)。問6-9=4exam(正誤訂正→訂正文登録)。主語動詞の一致4問。CHECK!2(SV一致ルール)はnotes記録"
   Scr_S03:
@@ -1878,7 +1878,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 3
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-02"
     notes: "sdr-002(単独)。問10-12=3exam(用法一致)。should万一の仮定・could推量・need助動詞。CHECK!3-5記録"
   Scr_S04:
@@ -1888,7 +1888,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 3
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-02"
     notes: "sdr-003(単独)。問13-15=3exam(用法一致)。do強調・would過去の習慣・used to過去の状態。CHECK!6-8記録"
   Scr_S05:
@@ -1898,7 +1898,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 0
     sentences_created: 3
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-02"
     notes: "sdr-004(S05+S06統合)。問16-18=3exam(用法一致)。to不定詞の副詞的用法(感情原因)・名詞的用法(主語)・名詞的用法(補語)"
   Scr_S06:
@@ -1908,7 +1908,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 3
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-02"
     notes: "sdr-004(S05+S06統合)。問19-21=3exam(用法一致)。分詞構文・動名詞(補語)・動名詞(前置詞の目的語)"
   Scr_S07:
@@ -1918,7 +1918,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 0
     sentences_created: 3
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-02"
     notes: "sdr-005(S07+S08統合)。問22-24=3exam(用法一致)。同格接続詞・代名詞・関係代名詞"
   Scr_S08:
@@ -1928,7 +1928,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 3
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-02"
     notes: "sdr-005(S07+S08統合)。問25-27=3exam(用法一致)。形式主語構文・前置詞as・副詞節whatever"
   Scr_S09:
@@ -1938,7 +1938,7 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 3
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-02"
     notes: "sdr-006(単独)。問28-30=3exam(用法一致+正誤訂正混合)。選択or・and並列・or並列(動名詞形一致)"
   Scr_S10:
@@ -1948,14 +1948,808 @@ sections:
     status: "completed"
     knowledge_nodes_created: 1
     sentences_created: 4
-    gates_passed: [1, 2]
+    gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-02"
     notes: "sdr-007(単独)。問31-34=4exam(正誤訂正→訂正文登録)。most of the+N, such a+adj+N, 不可算名詞homework, talk with each other"
 
+  # Part 3 > Ch20 意外な意味を持つ単語（B15）
+  Scr_184:
+    title: "意外な意味を持つ自動詞"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 10
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-001(単独)。問726-732=7exam, PU!165例文3件=3example。do/pay/sell/cheat/come/agree/read。PU!165(能動態で受動意味7動詞)はnotes記録+3例文登録。"
+  Scr_185:
+    title: "意外な意味を持つ他動詞①"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 12
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-002(Theme185+186統合)。問733-740=8exam, プラスα例文4件=4example。fail/meet/survive/gain/hold/observe/realize/invent。"
+  Scr_186:
+    title: "意外な意味を持つ他動詞②"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-002(Theme185+186統合)。問741-749=9exam, プラスα例文4件=4example。drive/command/answer/strike/put/recognize/move/see/follow。"
+  Scr_187:
+    title: "意外な意味を持つ名詞①"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-003(Theme187+188統合)。問750-756=7exam, プラスα例文1件+PU!166例文1件=2example。interest/subject/issue/room/stranger/respect/command。PU!166(名詞6語)はnotes記録。"
+  Scr_188:
+    title: "意外な意味を持つ名詞②"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 11
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-003(Theme187+188統合)。問757-762=6exam, 解説例文1件+PU!167例文4件=5example。turn/end/must/safe/shame/change。PU!167(名詞5語)はnotes+例文登録。"
+  Scr_189:
+    title: "意外な意味を持つ形容詞"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-004(Theme189+190統合)。問763-768=6exam, 解説例文2件=2example。heavy/busy/latest/narrow/flat/strong。PU!168(濃い薄い形容詞)はnotes記録。"
+  Scr_190:
+    title: "意外な意味を持つ形容詞・副詞"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 11
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-004(Theme189+190統合)。問769-776=8exam, プラスα+解説例文3件=3example。available/reasonable/tough/smart/sharp/fast/either。"
+
+  Scr_191:
+    title: "重要同意語 — 動詞①"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-005(Theme191+192統合)。問777-783=7exam。acquire=obtain, anticipate=expect, identify=determine, convince=persuade, vanish=disappear, ban=prohibit, affect=influence。PU!169。"
+  Scr_192:
+    title: "重要同意語 — 動詞②"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-005(Theme191と統合)。問784-792=9exam。dismiss=fire, overcome=conquer, predict=forecast, emphasize=stress, fix=repair, found=establish, exhibit=display, refuse=decline, overlook=miss。PU!170。"
+  Scr_193:
+    title: "重要同意語 — 動詞③"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-006。問793-799=7exam。mention=remark, bother=trouble, rear=raise, interrupt=disturb, ensure=guarantee, see=tell, conceal=hide。PU!171。"
+  Scr_194:
+    title: "重要同意語 — 名詞①"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-007(Theme194+195統合)。問800-807=8exam。approval=consent, menace=threat, disease=illness, barrier=obstacle, characteristic=feature, phase=stage, perspective=viewpoint, scarcity=shortage。PU!172。"
+  Scr_195:
+    title: "重要同意語 — 名詞②"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-007(Theme194と統合)。問808-813=6exam+プラスα1件+語句例文1件=8文。consequence=significance, site=location, accomplishment=achievement, evidence=proof, benefit=advantage, scheme=plan。PU!173。"
+  Scr_196:
+    title: "重要同意語 — 形容詞①"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-008(Theme196+197統合)。問814-820=7exam。accurate=precise, indispensable=essential, obvious=clear, decent=respectable, enormous=immense, elaborate=complicated, sufficient=enough。PU!174。"
+  Scr_197:
+    title: "重要同意語 — 形容詞②"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-008(Theme196と統合)。問821-829=9exam。potential=possible, abundant=plentiful, urgent=pressing, sacred=holy, crucial=vital, major=principal, suitable=appropriate, fundamental=basic, fragile=breakable。PU!175。"
+  Scr_198:
+    title: "重要同意語 — 形容詞③"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-009。問830-832=3exam。awful=terrible, courageous=brave, rare=uncommon。terrible⇔terrific（反対の意味）。PU!176。"
+  Scr_199:
+    title: "重要同意語 — 副詞"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-010。問833-836=4exam。deliberately=intentionally, practically=virtually, eventually=finally, initially=originally。PU!177。"
+
+  # Ch22 重要多義語
+  Scr_200:
+    title: "重要多義語 — bear/figure/miss"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-011(Theme200+201統合)。問837(bear)〈頻出〉・問838(figure)〈発展〉・問839(miss)〈頻出〉=3exam + bear fruitプラスα=1example。共通語補充形式。"
+  Scr_201:
+    title: "重要多義語 — company/due/run"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-011(Theme200+201統合)。問840(company)〈頻出〉・問841(due)〈頻出〉・問842(run)〈頻出〉=3exam + due到着・run上映プラスα=2example。PU!178(fine/right)・PU!179(leave)はnotes記録。"
+  Scr_202:
+    title: "重要多義語 — line/mean/cover"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-012(Theme202+203統合)。問843(line)・問844(mean)・問845(cover)=3exam。共通語補充形式。"
+  Scr_203:
+    title: "重要多義語 — face/effect/case"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-012(Theme202+203統合)。問846(face)〈頻出〉・問847(effect)・問848(case)〈頻出〉=3exam + be faced withプラスα=1example。PU!180(work)・PU!181(sense/point)はnotes記録。"
+  Scr_204:
+    title: "重要多義語 — count/term/last"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-013。問849(count)・問850(terms)〈頻出〉・問851(last)〈頻出〉=3exam + last続くプラスα=1example。"
+
+  # Ch23 まぎらわしい語
+  Scr_205:
+    title: "同語根のまぎらわしい動詞① — spire/sume/volve/fect"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-014(Theme205+206統合)。問852(inspire)〈発展〉・問853(resume)〈発展〉・問854(evolve)・問855(affect)〈頻出〉=4exam。PU!182(語源概説+接頭辞)はnotes記録。"
+  Scr_206:
+    title: "同語根のまぎらわしい動詞② — tend/ject/serve/scribe/tribute"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-014(Theme205+206統合)。問856(extend)・問857(reject)・問858(deserve)・問859(describe)〈頻出〉・問860(contribute)=5exam。PU!183はnotes記録。"
+  Scr_207:
+    title: "同語根のまぎらわしい動詞③ — mit/cede/ceive/fer/tract"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-015(Theme207+208統合)。問861(admit)・問862(succeed)〈発展〉対話問題B文のみ・問863(deceive)・問864(infer)〈発展〉・問865(distract)〈発展〉=5exam。PU!184はnotes記録。"
+  Scr_208:
+    title: "同語根のまぎらわしい動詞④ — press/pose/sure/duce/form"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-015(Theme207+208統合)。問866(depress)・問867(impose)〈発展〉・問868(assure)・問869(reduce)〈頻出〉・問870(inform)=5exam。PU!185はnotes記録。"
+  Scr_209:
+    title: "つづりと意味がまぎらわしい形容詞"
+    type: "vocabulary"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sgi-016。問871(considerate)〈頻出〉〈発展〉・問872(imaginative)〈発展〉・問873(industrious)〈頻出〉〈発展〉・問874(respectable)〈頻出〉・問875(literate)・問876(sensible)〈頻出〉・問877(favorite)=7exam。PU!186はnotes記録。"
+
+  # Part 4 > Ch24 動詞中心のイディオム
+  Scr_210:
+    title: "動詞+副詞──自動詞①"
+    type: "idiom"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-001(T210+211統合)。Q878-887=10exam, PU!例文3件=3example"
+  Scr_211:
+    title: "動詞+副詞──自動詞②"
+    type: "idiom"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 15
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-001(T210+211統合)。Q888-898=11exam, PU!例文4件=4example"
+  Scr_212:
+    title: "動詞+副詞──他動詞①"
+    type: "idiom"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 14
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-002(T212+213統合)。Q899-907=9exam, PU!例文5件=5example"
+  Scr_213:
+    title: "動詞+副詞──他動詞②"
+    type: "idiom"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 14
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-002(T212+213統合)。Q908-918=11exam, PU!例文3件=3example"
+  Scr_214:
+    title: "動詞+副詞──他動詞③"
+    type: "idiom"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 12
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-003(T214+215統合)。Q919-929=11exam, PU!例文1件=1example"
+  Scr_215:
+    title: "動詞+副詞──他動詞④"
+    type: "idiom"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 15
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-003(T214+215統合)。Q930-941=12exam, PU!例文3件=3example"
+  Scr_216:
+    title: "動詞+前置詞①"
+    type: "idiom"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-004(T216+217統合)。Q942-953=12exam, account for「占める」用法例文1件=1example"
+  Scr_217:
+    title: "動詞+前置詞②"
+    type: "idiom"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 12
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-004(T216+217統合)。Q954-965=12exam"
+  Scr_218:
+    title: "動詞+前置詞③"
+    type: "idiom"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-005(T218+219統合)。Q966-978=13exam"
+  Scr_219:
+    title: "動詞+前置詞④"
+    type: "idiom"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 10
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-005(T218+219統合)。Q979-988=10exam"
+  Scr_220:
+    title: "動詞+前置詞⑤"
+    type: "idiom"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 12
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-006(T220+221統合)。Q989-1000=12exam"
+  Scr_221:
+    title: "動詞+前置詞⑥"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_222:
+    title: "動詞+副詞+前置詞①"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_223:
+    title: "動詞+副詞+前置詞②"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_224:
+    title: "動詞+A+前置詞+B"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_225:
+    title: "特定の名詞を用いる群動詞①"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_226:
+    title: "特定の名詞を用いる群動詞②"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_227:
+    title: "特定の名詞を用いる群動詞③"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_228:
+    title: "特定の名詞を用いる群動詞④"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_229:
+    title: "特定の名詞を用いる群動詞⑤"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_230:
+    title: "特定の名詞を用いる群動詞⑥"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_231:
+    title: "その他の動詞中心の重要イディオム"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  # Part 4 > Ch25 形容詞・副詞中心のイディオム
+  Scr_232:
+    title: "be+形容詞[過去分詞]+前置詞①"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_233:
+    title: "be+形容詞[過去分詞]+前置詞②"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_234:
+    title: "be+形容詞[過去分詞]+前置詞③"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_235:
+    title: "be+形容詞[過去分詞]+前置詞④"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_236:
+    title: "be+形容詞[過去分詞]+to do"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_237:
+    title: "その他の形容詞・副詞中心のイディオム"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  # Part 4 > Ch26 名詞中心のイディオム
+  Scr_238:
+    title: "前置詞+名詞①"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_239:
+    title: "前置詞+名詞②"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_240:
+    title: "前置詞+名詞③"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_241:
+    title: "前置詞+名詞④"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_242:
+    title: "前置詞+名詞⑤"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_243:
+    title: "前置詞+名詞⑥"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_244:
+    title: "前置詞+名詞⑦"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  # Part 4 > Ch27 群前置詞
+  Scr_245:
+    title: "関連を表す群前置詞"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_246:
+    title: "目的を表す群前置詞"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_247:
+    title: "原因・理由を表す群前置詞"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_248:
+    title: "譲歩を表す群前置詞"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_249:
+    title: "その他の重要群前置詞①"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_250:
+    title: "その他の重要群前置詞②"
+    type: "idiom"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  # Part 5 > Ch28 会話の基本
+  Scr_251:
+    title: "出会いのあいさつ"
+    type: "conversation"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_252:
+    title: "別れのあいさつ"
+    type: "conversation"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_253:
+    title: "お礼・お詫びとその応答"
+    type: "conversation"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_254:
+    title: "勧誘・提案とその応答"
+    type: "conversation"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_255:
+    title: "依頼・許可とその応答"
+    type: "conversation"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  # Part 5 > Ch29 会話の実際
+  Scr_256:
+    title: "電話"
+    type: "conversation"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_257:
+    title: "道案内・乗り物"
+    type: "conversation"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_258:
+    title: "健康・病気"
+    type: "conversation"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_259:
+    title: "食事・レストラン"
+    type: "conversation"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_260:
+    title: "買い物"
+    type: "conversation"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Scr_261:
+    title: "その他の重要会話表現"
+    type: "conversation"
+    pages: ""
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+
 summary:
-  total_sections: 193
-  completed: 193
+  total_sections: 271
+  completed: 230
   in_progress: 0
-  not_started: 0
-  total_knowledge_nodes: 138
-  total_sentences: 954
+  not_started: 41
+  total_knowledge_nodes: 160
+  total_sentences: 1279

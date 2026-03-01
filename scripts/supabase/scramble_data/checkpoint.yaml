@@ -2,59 +2,46 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T01:00:00"
+updated_at: "2026-03-02T09:00:00"
 book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 2 — B14完了、設計書Phase 1完了マイルストーン"
-  current_section: null
-  current_step: null
-  last_completed_section: "Scr_S10"
-  last_completed_gate: 2
+  phase: "Phase 2 — B17完了、B18開始"
+  current_section: "Scr_221"
+  current_step: "Step 1 原本確認"
+  last_completed_section: "Scr_220"
+  last_completed_gate: 5
 
 progress:
   total_sections: 271
-  completed: 193
+  completed: 230
   in_progress: 0
-  remaining: 78
-  total_nodes: 138
-  total_sentences: 954
+  remaining: 41
+  total_nodes: 160
+  total_sentences: 1279
 
-b14_results:
-  special_sections: ["Scr_S01", "Scr_S02", "Scr_S03", "Scr_S04", "Scr_S05", "Scr_S06", "Scr_S07", "Scr_S08", "Scr_S09", "Scr_S10"]
-  special_nodes: ["sdr-001", "sdr-002", "sdr-003", "sdr-004", "sdr-005", "sdr-006", "sdr-007"]
-  special_sentences: 39
-  special_merges:
-    - "S01+S02 → sdr-001（文構造の識別: 基本5文型+SVの把握）"
-    - "S05+S06 → sdr-004（準動詞の区別: to不定詞+doing）"
-    - "S07+S08 → sdr-005（多機能語の区別: that+It is...that~/as/whatever）"
-  ch19_gate4_fixes:
-    - "scr_176: +2 example (by vs till)"
-    - "scr_178: +1 example (begin by doing)"
-    - "scr_182: +1 example (through仲介)"
-    - "scr_183: +1 example (in着用)"
-  metrics:
-    special_node_section_ratio: 0.7
-    overall_node_section_ratio: 0.715
+batch_plan:
+  - "B17: Ch24前半 (Scr_210-220) = 11セクション ← 完了"
+  - "B18: Ch24後半 (Scr_221-231) = 11セクション ← 次"
+  - "B19: Ch25+Ch26 (Scr_232-244) = 13セクション"
+  - "B20: Ch27+Ch28+Ch29 (Scr_245-261) = 17セクション (sid for Ch27, skw for Ch28-29)"
 
 recent_decisions:
-  - "decision #1: PU!1の12時制表はsentences登録しない（スケルトン）"
-  - "decision #2: PU!2中の例文はsentences登録する（完全文＋和訳）"
+  - "decision #1: PU!の語句リストはsentences登録しない"
+  - "decision #2: PU!中の例文はsentences登録する"
   - "decision #3: drill: exam=1, example=0"
-  - "decision #4: PU!29はScr_047の管轄"
+  - "decision #4: PU!は位置的に最も近いThemeの管轄"
   - "decision #5: 解説中の書き換え文は登録しない"
   - "decision #6: 対話問題はBの文のみ登録"
-  - "decision #7: PU!内の用法例示文は登録しない（リスト表の一部）"
+  - "decision #7: PU!内の用法例示文は登録しない"
 
 active_concerns: []
 
 next_actions:
-  - "Gate 3-4 レビュー: Special Edition まとめてエージェント実施"
-  - "設計書Phase 1完了マイルストーン: Part 1 + Part 2 + Special 全完了確認"
-  - "B15: Ch20 意外な意味を持つ単語 (Scr_184-190) + Ch21 重要同意語 (Scr_191-199)"
-  - "原本: Part3_Ch20_意外な意味を持つ単語.md, Part3_Ch21_重要同意語.md"
-  - "ノードID範囲: sgi-001〜"
+  - "B18: Scr_221-231の英文ファイル作成"
+  - "ch24.yamlのsid-007〜011はノード作成済み"
+  - "section_knowledge_nodesマッピング追加"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"
