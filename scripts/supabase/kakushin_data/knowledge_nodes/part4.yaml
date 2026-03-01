@@ -47,6 +47,201 @@ knowledge_nodes:
       ・anything but〜「決して〜ではない」: 「〜以外(but)なら何でもアリ(anything)」。butは前置詞なので直後に名詞が来るのが本来だが、この表現では形容詞もOK。
       by no means〜 = anything but〜（同義で入試に出題される）。
 
+  # === Kaku_17: 受動態 ===
+  - id: "kta-004"
+    name: "受動態の核心（形のバリエーションと使う理由）"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      核心: 受動態は「訳し方」より「形」を意識する
+      前提知識との差分: 中学まではbe+p.p.を「〜される」と訳すだけ。大学入試では不自然な訳になることが多く、形のバリエーションも増える。
+      ■ 受動態の書き換え3ステップ
+      [図表: 表 — 受動態に書き換える3ステップ（①Oを前に出す ②Vをbe+p.p.に ③能動態のSをby〜に）（p.238）]
+      ■ 受動態の後に名詞はこない
+      be+p.p.の後に名詞がくっつくことはミス（一部例外あり）。
+      ×）I was stolen my bag. → ◎）My bag was stolen.
+      stealは「steal 物」が基本→受動態は「物 is stolen」。人 is stolen はありえない。
+      ■ 受動態のバリエーション3つ
+      [図表: 表 — 受動態のバリエーション（助動詞be p.p. / have been p.p. / be being p.p.）（p.239-240）]
+      ・助動詞+受動態: 助動詞 be p.p.（My phone must be broken.）
+      ・完了形+受動態: have been p.p.（has been canceled）
+      ・進行形+受動態: be being p.p.（is being repaired）
+      　beがbe -ingになり、p.p.はそのまま。英語では「左にある要素」で時制を示す。
+      ■ 受動態を使う2大理由
+      [図表: 表 — 受動態を使う2大理由（①Sを言いたくない→byなし ②S⇔Oの位置を変えたい→byあり）（p.240）]
+      ①Sを言いたくない: 「わかりきっている」「わからない」「隠したい」→ by〜を省略。受動態は「byを伴わない」文のほうが圧倒的に多い。
+      ②S⇔Oの位置を変えたい: 代表例はfollow。「後の出来事 follow 先の出来事」→受動態で「先の出来事 is followed by 後の出来事」と時系列順に。
+      ■ 受動態は「〜される」と訳す必要はない
+      受動態が使われる理由は「〜される」の意味を強調したいわけではないため、日本語訳で「〜する」と訳してOK。下線部和訳問題で自信を持って能動訳で答案に書いてよい。
+
+  - id: "kta-005"
+    name: "熟語動詞の受動態（前置詞を残す）"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      ■ 熟語動詞の受動態
+      speak to〜のような熟語は「1つの動詞」として扱い、受動態にできる。
+      前置詞を残すのがポイント: speak to → be spoken to（×be spokenにしない）。
+      「toを消す」のは「動詞の綴りを勝手に変えてしまう」くらいのミス。
+      ■ 入試に出る受動態の熟語リスト
+      [図表: 表 — 受動態の形でよく出題される熟語（2語9個+3語以上5個）（p.242-243）]
+      (1) 2語の熟語: speak to〜「話しかける」/ laugh at〜「笑う」/ run over〜「（車が）ひく」/ hear from〜「便りがある」/ put off〜「延期する」/ call off〜「中止する」/ throw away〜「捨てる」/ bring up〜「育てる」/ bring about〜「生じさせる」
+      (2) 3語以上の熟語: look up to〜「尊敬する」/ look down on〜「軽蔑する」/ do away with〜「廃止する」/ take care of〜「世話する(=look after〜)」/ make fun[a fool] of〜「からかう」
+      ■ 疑問詞+受動態: Who〜by? の形
+      Who was Emma spoken to by?「エマはだれに話しかけられたのですか？」
+      byの後は本来目的格whom。現代英語ではWhoで代用。
+
+  - id: "kta-006"
+    name: "SVOC受動態（Cの形の判別）"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      ■ SVOCの受動態: Cの形は2パターン
+      [図表: 表 — SVOC受動態のCの形（①原形以外→そのまま残す ②原形→to不定詞に変える）（p.244）]
+      ① そのまま残す（Cに原形以外: 名詞・to不定詞・分詞など）
+      　call OC → S is called C / tell 人 to〜 → S is told to〜 / see O -ing → S is seen -ing
+      ② 形を変える（Cに原形: 使役・知覚動詞）
+      　原形→to不定詞に変える特別ルール。
+      　make 人 原形 → 人 is made to 原形
+      　理由: 受動態でOが前に出ると、SとVの新ペアが成立し、原形(v')が「ひとりぼっち」に。動詞が2つ連続するのは英語でありえない。→ 準動詞(to不定詞)に成り下がる。
+      参考書内参照: →p.89「SVOCの構造」（テーマ07b）
+      ■ What is S called? の形
+      call OC「OをCと呼ぶ」→ S is called C → CがwhatになってWhat is S called?
+      ■ 補足: 原形がきたときだけ注意
+      Cに原形以外のto不定詞や分詞(-ing/p.p.)がきたときは「そのまま残す」だけ。
+
+  - id: "kta-007"
+    name: "byを使わない受動態（4分類の前置詞）"
+    category: "その他の重要単元"
+    priority: "P2"
+    notes: |
+      受動態の動作主にはbyが基本だが、他の前置詞を使った表現が熟語化している。
+      ■ 4分類の熟語
+      (1) 感情系:
+      be interested in〜「〜に興味を持っている」/ be surprised at〜「〜に驚く」/ be excited at〜「〜にワクワクする」/ be pleased with〜「〜を気に入っている」/ be satisfied with〜「〜に満足している」
+      ※感情表現が受動態になっていることを意識する。
+      参考書内参照: →p.217「感情動詞」（テーマ15 分詞）
+      (2) 覆う系（道具のwith「〜を使って」）:
+      be covered with〜「〜で覆われている」/ be filled with〜「〜でいっぱいである」/ be crowded with〜「〜で混んでいる」
+      (3) 材料・原料系:
+      be made of 材料「〜でつくられている」※材料=目で見てわかるもの
+      be made from 原料「〜でつくられている」※原料=目ではわからない/状態変化を伴うもの
+      be made into〜「〜になる」※intoは状態変化「〜の状態に入る」
+      ※ofとfromの違いを問う出題は減少傾向。
+      (4) be knownの3パターン:
+      be known to〜「〜に知られている」/ be known for〜「〜で知られている」※理由のfor / be known as〜「〜として知られている」
+
+  # === Kaku_18a: 比較（原級・比較級・最上級・重要表現）===
+  - id: "kta-008"
+    name: "比較の3段階の形とルール（原級・比較級・最上級）"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      核心: 重要表現を「暗記する」のではなく「理屈から考える」
+      前提知識との差分: 中学ではas~as/比較級-er/最上級-estの基本。高校では細かいルールや精密さが求められるが、他の単元ほど深くなく確実に得点できる。
+      ■ 原級（as~as）
+      (1) as~asで「まとめて」挟む: 形容詞・副詞を挟む。many[much]+名詞のときはまとめて挟む（as many pages as）。×as many as pagesとしない。
+      (2) not as~asは「…ほど〜じゃない」（差を出す訳）。×「同じじゃない」とは訳さない。
+      [図表: 表 — not as~as: ×「≠」ではなく◎「<」で訳す（p.253）]
+      (3) 慣用表現: as~as possible / as~as人can「できるだけ〜」/ not so much A as B「AというよりむしろB」
+      (4) 倍数表現: X times as~as A「AのX倍〜だ」。twice「2倍」/ half「半分」。as~asの直前に置くだけ。
+      [図表: 表 — 倍数表現の形（p.254）]
+      ■ 比較級（-er・more~）
+      (1) 規則変化: 「綴り6字以上」→more/mostをつける。例外: pretty, strong（6字以上だが-er）。
+      (2) 不規則変化: good/well→better→best, many/much→more→most, little→less→least, bad/badly→worse→worst
+      [図表: 表 — 不規則変化4組（p.255）]
+      (3) more/mostの2種類: ☑長い単語を比較級にする(more famous)と☑many/muchの比較級(more books)を混同しない。
+      (4) lessの2つの意味: ①「より少ない」(less money) ②「より〜でなく」= 否定のイメージ(less A than B「AというよりB」= not as~as)
+      [図表: 表 — more A than B vs less A than B の対比（p.256）]
+      ■ 最上級（-est・most~）
+      (1) 最上級にはtheをつける（共通認識できるから）。序数: the second fastest, the third most popular。
+      (2) 範囲のof/in使い分け: of＝複数を示す語句（数字・all・代名詞・the year）、in＝場所・集団（the world, family等）。
+      [図表: 表 — 最上級の範囲 of/in の使い分け（p.257）]
+      (3) the最上級 名詞 that I have ever p.p.「今まで〜した中で一番の名詞だ」
+
+  - id: "kta-009"
+    name: "比較の重要表現（書き換え・実質最上級・強調）"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      ■ likeとセットの比較: like A better[more] than B「BよりAが好き」/ like A best「Aが一番好き」/ Which do you like better, A or B?。元はI like~very much.のmuchが比較級になったもの。
+      [図表: 表 — like+比較級/最上級の3パターン（p.258）]
+      ■ 単数形・複数形の紛らわしい表現
+      比較級 than any other 単数形「他のどの名詞より〜だ」: 主語と「1対1」で比べるから単数。
+      one of the 最上級 複数形「最も〜なうちの1つ」: 先頭集団に入っている→「すごく〜（な1つ）」と訳してもOK。
+      [図表: 表 — any other 単数 vs one of the 最上級 複数（p.258-259）]
+      ■ "実質"最上級（遠回しの最上級表現）
+      [図表: 表 — Nothingが主語: Nothing is more~than A / Nothing is as~as A（p.259）]
+      [図表: 表 — No other 名詞: No other 単数 is 比較級 than ... / No other 単数 is as~as ...（p.260）]
+      ■ 比較級の強調
+      veryとmuchは「仲がワルい」: very good（◎） ↔ much good（×）。much better（◎） ↔ very better（×）。最上級: the very best / much the best（theの位置注意）。
+      [図表: 表 — veryとmuchの整理（原級/比較級/最上級）（p.260）]
+      比較級の前にstill/even/by far/far「はるかに・さらに」を置いて強調。
+      ■ much less「ましてや」
+      "否定文, much less~"は直訳「…じゃない。はるかにもっと少ない〜だ」→「ましてや〜はなおさらだ」。lessの前にstill/evenも可。
+      ※much more（肯定文で「言うまでもなく」）は現代英語で使わない。代わりにto say nothing of / not to mentionを使う。
+
+  - id: "kta-010"
+    name: "the+比較級の表現とラテン比較級・自者比較"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      ■ 比較級なのにtheがつく表現3パターン
+      [図表: 表 — the+比較級3パターン（p.262）]
+      (1) the 比較級 of the two「2つのうちで〜なほう」: 「どっちかわかる→共通認識→the」。2つ→the比較級of the two、3つ→the最上級of the three。
+      (2) all the 比較級 for~「〜なので、その分だけますます比較級だ」: all=強調（省略OK）、the=「その分だけ」（指示副詞）、for=理由（becauseでもOK）。
+      (3) The 比較級, the 比較級「〜すればするほど、…だ」: 2文から比較対象がthe比較級になり文頭に出る。SV省略や倒置が起きることも多い。The sooner, the better.「早ければ早いほどよい」（SV省略の決まり文句）。
+      ■ ラテン比較級（thanではなくtoを使う）
+      [図表: 表 — ラテン比較級の重要語（p.264）]
+      優劣: be superior to~「〜より優れた」/ be inferior to~「〜より劣った」
+      好み: prefer A to B「BよりAが好き」/ be preferable to~「〜より好ましい」
+      その他: prior to~「〜より前に」
+      注意: 単語自体に「より〜」が含まれるのでmore不要（×more preferable）。-orで終わるものが多い。
+      ■ 自者比較（1つの中で2つの性質を比べる）
+      more 原級 than 原級「〜というより…だ」。普通の比較と違い、more+原級の形をとる。
+      ■ その他の慣用表現
+      比較級 and 比較級「ますます」/ more or less「多かれ少なかれ」/ sooner or later「遅かれ早かれ」/ no longer「もはや〜じゃない」(= not~any longer) / 比較級 than expected「予想より」/ know better than to~「〜しないだけの分別がある」(→p.193)
+
+  # === Kaku_18b: 比較（no比較級than・熟語・入試問題）===
+  - id: "kta-011"
+    name: "no比較級than~の攻略法（矢印2つテクニック）"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      ■ no 比較級 than~「矢印2つ」の必殺技
+      noから2つの矢印を向ける: ①比較級に→「逆の意味」、②than~に→「〜と同じくらい」。
+      [図表: 図 — no→①比較級（逆の意味）、no→②than~（同じくらい）（p.266-267）]
+      ■ no more ... than~
+      ①no more = 「まったく…でない（むしろその逆）」、②no~than A = 「Aと同じくらい」。
+      構造: ①が主張（感情入り）、②が誰にでもわかる具体例。
+      例: The test was no more difficult than the homework assignment.
+      →①「超簡単」②「課題と同じくらい」→「課題と同じくらい楽勝」
+      ■ 「クジラの構文」
+      A whale is no more a fish than a horse is.
+      →①no more a fish「まったく魚じゃない」②than a horse is「馬と同じくらい」
+      ※名詞fishには「逆」がないので「まったく魚じゃない」と訳すしかない。
+      ■ no less ... than~
+      ①no less =「超」（二重否定で「すごく」）。②no~than A=「Aと同じくらい」。
+      例: Money is no less important than one's life.→「お金は超大切。命と同じくらい」
+
+  - id: "kta-012"
+    name: "no/not+比較級の数量熟語（4パターン整理）"
+    category: "その他の重要単元"
+    priority: "P2"
+    notes: |
+      ■ noを使った熟語（矢印2つで解決）
+      [図表: 表 — no more than~ = only~ / no less than~ = as many[much] as~（p.269）]
+      no more than~: ①no more「超少ない」②than~「〜と同じ」→「〜だけ（=only）」
+      no less than~: ①no less「超多い」②than~「〜と同じ」→「〜も（=as many/much as）」
+      ■ notを使った熟語（直訳でOK）
+      [図表: 表 — not more than~ = at most / not less than~ = at least（p.270）]
+      notは「除外」: He is not a teacher. = 教師を除外するだけ。
+      not more than 1000 yen: 1000円より多い部分をnotで除外→「多くても1000円（=at most）」
+      not less than 1000 yen: 1000円より少ない部分をnotで除外→「少なくとも1000円（=at least）」
+      ■ noとnotの違いまとめ
+      no = 「矢印2つ」（①逆+②同じ）→ 感情・主張が入る
+      not = 「除外」→ 普通に直訳するだけ
+
 understanding_goals:
   # kta-001
   - node_id: "kta-001"
@@ -84,6 +279,114 @@ understanding_goals:
   - node_id: "kta-003"
     seq: 3
     goal: "notを使わない否定表現を識別し、正しく和訳できる"
+  # kta-008
+  - node_id: "kta-008"
+    seq: 1
+    goal: "as~asでmany[much]+名詞をまとめて挟む形を正しく作れる"
+  - node_id: "kta-008"
+    seq: 2
+    goal: "not as~asを「…ほど〜じゃない」と差を出す訳ができる"
+  - node_id: "kta-008"
+    seq: 3
+    goal: "倍数表現（X times as~as）を正しく組み立てられる"
+  - node_id: "kta-008"
+    seq: 4
+    goal: "比較級の規則変化（6字ルール）と不規則変化を正しく判断できる"
+  - node_id: "kta-008"
+    seq: 5
+    goal: "最上級の範囲を示すof/inを正しく使い分けられる"
+  # kta-009
+  - node_id: "kta-009"
+    seq: 1
+    goal: "any other+単数形・one of the最上級+複数形の形を正しく選べる"
+  - node_id: "kta-009"
+    seq: 2
+    goal: "Nothing is more~than / No other~is 比較級 than で最上級と同じ意味を表せる"
+  - node_id: "kta-009"
+    seq: 3
+    goal: "veryとmuchの使い分け（仲がワルい）を即座に判断できる"
+  - node_id: "kta-009"
+    seq: 4
+    goal: "much less~（ましてや）の意味を比較級lessの強調から導出できる"
+  # kta-010
+  - node_id: "kta-010"
+    seq: 1
+    goal: "the+比較級の3パターン（of the two / all the比較級for~ / The比較級, the比較級）を区別できる"
+  - node_id: "kta-010"
+    seq: 2
+    goal: "ラテン比較級（superior/inferior to, prefer A to B）でthanではなくtoを使うことを判断できる"
+  - node_id: "kta-010"
+    seq: 3
+    goal: "自者比較（more 原級 than 原級）の構造を理解し正しく訳せる"
+  # kta-011
+  - node_id: "kta-011"
+    seq: 1
+    goal: "no比較級than~を見たら「矢印2つ」（①逆の意味②同じくらい）を即座に適用できる"
+  - node_id: "kta-011"
+    seq: 2
+    goal: "クジラの構文を矢印2つで正しく解釈できる"
+  - node_id: "kta-011"
+    seq: 3
+    goal: "no less...than~の意味をno less=「超」から導出できる"
+  # kta-012
+  - node_id: "kta-012"
+    seq: 1
+    goal: "no more than / no less than の意味を矢印2つから導出できる"
+  - node_id: "kta-012"
+    seq: 2
+    goal: "not more than / not less than の意味をnotの除外から導出できる"
+  - node_id: "kta-012"
+    seq: 3
+    goal: "noとnotの違い（矢印2つ vs 除外）を説明できる"
+  # kta-004
+  - node_id: "kta-004"
+    seq: 1
+    goal: "受動態の3つのバリエーション（助動詞/完了形/進行形）の形を正しく作れる"
+  - node_id: "kta-004"
+    seq: 2
+    goal: "受動態が使われる2大理由を説明できる"
+  - node_id: "kta-004"
+    seq: 3
+    goal: "受動態の後に名詞がこない原則を理解し、誤文を見抜ける"
+  - node_id: "kta-004"
+    seq: 4
+    goal: "受動態の英文を「〜される」にこだわらず自然な日本語に訳せる"
+  # kta-005
+  - node_id: "kta-005"
+    seq: 1
+    goal: "熟語動詞の受動態で前置詞を残す原則を説明できる"
+  - node_id: "kta-005"
+    seq: 2
+    goal: "2語・3語の熟語動詞を受動態にした形を正しく書ける"
+  - node_id: "kta-005"
+    seq: 3
+    goal: "Who〜by?の疑問文の構造を理解できる"
+  # kta-006
+  - node_id: "kta-006"
+    seq: 1
+    goal: "SVOC受動態でCの形が変わるパターン（原形→to不定詞）を正しく適用できる"
+  - node_id: "kta-006"
+    seq: 2
+    goal: "Cに原形以外（名詞・to不定詞・分詞）がくる場合は「そのまま残す」ことを判断できる"
+  - node_id: "kta-006"
+    seq: 3
+    goal: "What is S called?の構造をcall OCから導出できる"
+  - node_id: "kta-006"
+    seq: 4
+    goal: "原形→to不定詞になる理由（動詞2つ連続の回避）を説明できる"
+  # kta-007
+  - node_id: "kta-007"
+    seq: 1
+    goal: "by以外の前置詞を使う受動態熟語を4分類で整理できる"
+  - node_id: "kta-007"
+    seq: 2
+    goal: "感情系・覆う系の代表的な表現と前置詞を正しく使える"
+  - node_id: "kta-007"
+    seq: 3
+    goal: "be made of/from/intoの使い分けを説明できる"
+  - node_id: "kta-007"
+    seq: 4
+    goal: "be known to/for/asの使い分けを説明できる"
 
 check_points:
   # kta-001
@@ -137,8 +440,167 @@ check_points:
     seq: 3
     question: "anything but pleasant はどういう意味か？"
     answer: "「決して感じがよくない」。「pleasant以外(but)なら何でもアリ(anything)」→「pleasant以外の全部」→「決してpleasantではない」。"
+  # kta-008
+  - node_id: "kta-008"
+    seq: 1
+    question: "This book has as many pages as that one. でmany pagesをまとめて挟む理由は？"
+    answer: "元の文はThis book has many pages.で、many pagesを丸ごとas~asで挟む。×as many as pagesとするとpagesが宙ぶらりんになる。"
+  - node_id: "kta-008"
+    seq: 2
+    question: "not as~asの正しい訳し方は？"
+    answer: "「…ほど〜じゃない」（差を出す訳）。×「同じじゃない」では大小関係がわからない。"
+  - node_id: "kta-008"
+    seq: 3
+    question: "比較級で「長い単語」の目安は？例外は？"
+    answer: "「綴り6字以上」→more/mostをつける。例外: pretty→prettier, strong→stronger（6字以上だが-er）。"
+  - node_id: "kta-008"
+    seq: 4
+    question: "最上級の範囲を示すof/inはどう使い分ける？"
+    answer: "of=数字・all・代名詞・the year（複数を示す語句）、in=場所・集団（the world, family等）。"
+  - node_id: "kta-008"
+    seq: 5
+    question: "lessの2つの意味は？"
+    answer: "①「より少ない」（less money）②「より〜でなく」=否定のイメージ（less A than B「AというよりB」）。"
+  # kta-009
+  - node_id: "kta-009"
+    seq: 1
+    question: "比較級 than any other の後は単数形？複数形？理由は？"
+    answer: "単数形。主語と「1対1で比べる」から。any other mountain「他のどの山でもいいので1つずつ比べる」。"
+  - node_id: "kta-009"
+    seq: 2
+    question: "Nothing is more important than love. はどういう意味か？"
+    answer: "「愛より大切なものはない」。Nothingを主語にして遠回しに「愛が一番大切」と伝える実質最上級の表現。"
+  - node_id: "kta-009"
+    seq: 3
+    question: "veryとmuchの関係は？比較級にはどっちを使う？"
+    answer: "「仲がワルい」（片方だけ覚えればOK）。比較級にはmuch（much better）。veryは不可（×very better）。最上級: the very best / much the best。"
+  - node_id: "kta-009"
+    seq: 4
+    question: "I cannot read German, much less speak it. の意味は？"
+    answer: "「ドイツ語が読めないし、ましてや話すことなどなおさら無理」。much lessは比較級lessの強調（もっと少ない→なおさらだめ）。"
+  # kta-010
+  - node_id: "kta-010"
+    seq: 1
+    question: "the 比較級 of the two にtheがつく理由は？"
+    answer: "「2つのうち〜なほう」といえば誰のことかわかる（共通認識できる）からthe。"
+  - node_id: "kta-010"
+    seq: 2
+    question: "all the more charming for his faults の各要素の役割は？"
+    answer: "all=強調（省略可）、the=「その分だけ」（指示副詞）、for=理由。「欠点があるからなおさら魅力的」。"
+  - node_id: "kta-010"
+    seq: 3
+    question: "be superior toのtoはなぜthanではないのか？"
+    answer: "ラテン語起源の単語で、単語自体に「より〜」が含まれる。thanではなくto（前置詞）を使う。×more superiorとしない。"
+  - node_id: "kta-010"
+    seq: 4
+    question: "His jokes are more silly than funny. のmore原級の構造は何か？"
+    answer: "自者比較。1つのものの中で2つの性質を比べる「〜というより…だ」。通常の他者比較と違う変則的な形。"
+  # kta-011
+  - node_id: "kta-011"
+    seq: 1
+    question: "no more difficult than the homework の矢印2つの結果は？"
+    answer: "①no more difficult→「まったく難しくない（逆の意味）」。②no~than the homework→「課題と同じくらい」。→「課題と同じくらい楽勝」。"
+  - node_id: "kta-011"
+    seq: 2
+    question: "A whale is no more a fish than a horse is. を矢印2つで解くと？"
+    answer: "①no more a fish→「まったく魚じゃない」（名詞に逆はないので否定のみ）。②than a horse is→「馬と同じくらい」。→「クジラが魚じゃないのは馬と同じ」。"
+  - node_id: "kta-011"
+    seq: 3
+    question: "no less important than one's life の意味は？"
+    answer: "no less=「超」（二重否定で打ち消しあい）→「超大切。命と同じくらい」。"
+  # kta-012
+  - node_id: "kta-012"
+    seq: 1
+    question: "I have no more than 1000 yen. の意味は？"
+    answer: "「1000円しか持っていない」。①no more「超少ない」②than 1000 yen「1000円と同じ」→only 1000 yen。"
+  - node_id: "kta-012"
+    seq: 2
+    question: "I have no less than 1000 yen. の意味は？"
+    answer: "「1000円も持っている」。①no less「超多い」②than 1000 yen「1000円と同じ」→as much as 1000 yen。"
+  - node_id: "kta-012"
+    seq: 3
+    question: "not more than 1000 yen の意味は？noとの違いは？"
+    answer: "「多くても1000円」（= at most）。notは「除外」するだけ（1000円より多い部分を除外）。noのような感情・主張は入らない。"
+  - node_id: "kta-012"
+    seq: 4
+    question: "not less than 1000 yen の意味は？"
+    answer: "「少なくとも1000円」（= at least）。1000円より少ない部分をnotで除外。"
+  # kta-004
+  - node_id: "kta-004"
+    seq: 1
+    question: "受動態の進行形（be being p.p.）の語順はなぜbe beingが先にくるのか？"
+    answer: "英語では「左にある要素」で時制を示す。進行形(be -ing)で時制を示すため、be beingが先（左）にくる。"
+  - node_id: "kta-004"
+    seq: 2
+    question: "受動態を使う2大理由は何か？"
+    answer: "①Sを言いたくない（by〜を省略）②S⇔Oの位置を変えたい（by〜を使う）。"
+  - node_id: "kta-004"
+    seq: 3
+    question: "受動態はbyを伴う文と伴わない文、どちらが多いか？"
+    answer: "byを伴わない文のほうが圧倒的に多い。主語を言いたくないから受動態を使い、by〜を省略する。"
+  - node_id: "kta-004"
+    seq: 4
+    question: "×）I was stolen my bag. はなぜ間違いか？"
+    answer: "stealは「steal 物」が基本。受動態は「物 is stolen」。人 is stolenはありえない。またbe+p.p.の後に名詞がくっつくのもミス。"
+  # kta-005
+  - node_id: "kta-005"
+    seq: 1
+    question: "speak to〜の受動態はbe spoken? それともbe spoken to?"
+    answer: "be spoken to。speak to〜で1つの動詞扱いなので、toを残す。toを消すのは「動詞の綴りを変えてしまう」レベルのミス。"
+  - node_id: "kta-005"
+    seq: 2
+    question: "look up to〜の受動態はどうなるか？"
+    answer: "be looked up to。3語で1つの動詞扱い。toを省略してis looked upにしない。"
+  - node_id: "kta-005"
+    seq: 3
+    question: "bring about〜はどういう意味で、受動態はどうなるか？"
+    answer: "「〜を生じさせる」。受動態はbe brought about。"
+  # kta-006
+  - node_id: "kta-006"
+    seq: 1
+    question: "make 人 原形 の受動態はどうなるか？"
+    answer: "人 is made to 原形。Cが原形のとき、受動態ではto不定詞に変える。"
+  - node_id: "kta-006"
+    seq: 2
+    question: "see O -ing の受動態で -ing はどうなるか？"
+    answer: "そのまま残す。S is seen -ing。原形以外（-ing/p.p./to不定詞/名詞）はそのまま。"
+  - node_id: "kta-006"
+    seq: 3
+    question: "What is this fruit called in English? の元の能動態は？"
+    answer: "call this fruit X → This fruit is called X → XがwhatになりWhat is this fruit called in English?"
+  # kta-007
+  - node_id: "kta-007"
+    seq: 1
+    question: "be pleased with〜のwithは何系の前置詞か？"
+    answer: "感情系。「〜を気に入っている」。感情表現が受動態になっていることを意識する。"
+  - node_id: "kta-007"
+    seq: 2
+    question: "be covered with〜のwithは何の意味か？"
+    answer: "道具のwith「〜を使って」。覆う系: be covered with「〜で覆われている」/ be filled with / be crowded with。"
+  - node_id: "kta-007"
+    seq: 3
+    question: "be made ofとbe made fromの違いは？"
+    answer: "ofは材料（目で見てわかるもの）、fromは原料（目ではわからない/状態変化を伴うもの）。ただし出題は減少傾向。"
+  - node_id: "kta-007"
+    seq: 4
+    question: "be known to/for/asの使い分けは？"
+    answer: "to〜「〜に知られている」/ for〜「〜で知られている」（理由のfor）/ as〜「〜として知られている」。"
 
-node_prerequisites: []
+node_prerequisites:
+  - node_id: "kta-009"
+    prerequisite_id: "kta-008"
+  - node_id: "kta-010"
+    prerequisite_id: "kta-008"
+  - node_id: "kta-011"
+    prerequisite_id: "kta-008"
+  - node_id: "kta-012"
+    prerequisite_id: "kta-011"
+  - node_id: "kta-005"
+    prerequisite_id: "kta-004"
+  - node_id: "kta-006"
+    prerequisite_id: "kta-004"
+  - node_id: "kta-007"
+    prerequisite_id: "kta-004"
 
 knowledge_references:
   - node_id: "kta-001"
@@ -153,3 +615,42 @@ knowledge_references:
     book: "英文法の核心"
     section_id: "Kaku_20"
     pages: "p.295-296"
+  # Kaku_17
+  - node_id: "kta-004"
+    book: "英文法の核心"
+    section_id: "Kaku_17"
+    pages: "p.238-242"
+  - node_id: "kta-005"
+    book: "英文法の核心"
+    section_id: "Kaku_17"
+    pages: "p.242-243"
+  - node_id: "kta-006"
+    book: "英文法の核心"
+    section_id: "Kaku_17"
+    pages: "p.243-246"
+  - node_id: "kta-007"
+    book: "英文法の核心"
+    section_id: "Kaku_17"
+    pages: "p.246-248"
+  # Kaku_18a
+  - node_id: "kta-008"
+    book: "英文法の核心"
+    section_id: "Kaku_18a"
+    pages: "p.252-258"
+  - node_id: "kta-009"
+    book: "英文法の核心"
+    section_id: "Kaku_18a"
+    pages: "p.258-262"
+  - node_id: "kta-010"
+    book: "英文法の核心"
+    section_id: "Kaku_18a"
+    pages: "p.262-265"
+  # Kaku_18b
+  - node_id: "kta-011"
+    book: "英文法の核心"
+    section_id: "Kaku_18b"
+    pages: "p.266-269"
+  - node_id: "kta-012"
+    book: "英文法の核心"
+    section_id: "Kaku_18b"
+    pages: "p.269-271"

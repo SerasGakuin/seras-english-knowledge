@@ -2,24 +2,40 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T23:00:00"
+updated_at: "2026-03-02T02:00:00"
 book: "英文法の核心"
 book_slug: "kakushin"
 
 current_state:
-  phase: "Phase 2 — Batch 6 完了 / Part 3 完了"
+  phase: "Phase 2 — Batch 7 完了"
   current_section: null
   current_step: null
-  last_completed_section: "Kaku_16"
+  last_completed_section: "Kaku_18b"
   last_completed_gate: 5
 
 progress:
   total_sections: 26
-  completed: 18
+  completed: 21
   in_progress: 0
-  remaining: 8
-  total_nodes: 58
-  total_sentences: 351
+  remaining: 5
+  total_nodes: 67
+  total_sentences: 417
+
+batch7_results:
+  sections_completed:
+    - section: "Kaku_17"
+      nodes: ["kta-004", "kta-005", "kta-006", "kta-007"]
+      sentences: 25
+    - section: "Kaku_18a"
+      nodes: ["kta-008", "kta-009", "kta-010"]
+      sentences: 28
+    - section: "Kaku_18b"
+      nodes: ["kta-011", "kta-012"]
+      sentences: 13
+  metrics:
+    batch_node_section_ratio: 3.0
+    batch_sentences: 66
+    cumulative_node_section_ratio: 3.19
 
 batch6_results:
   sections_completed:
@@ -126,10 +142,11 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
-  - "Batch 7: Kaku_17（受動態, p.238-251）— Part 4 その他の重要単元の開始"
-  - "Part 4 → kta-004から続番。カテゴリ: その他"
-  - "Part 3完了につき全指示書再読込が必要"
-  - "残り8セクション: Kaku_17, 18a, 18b, 19, 21a, 21b, 21c（+ Kaku_20は完了済み）"
+  - "Batch 8: Kaku_19（疑問詞, p.276-291）"
+  - "Kaku_21a（関係詞・純粋関係詞, p.300-315）"
+  - "Kaku_21b（関係副詞・判別・制限/非制限, p.316-322）"
+  - "Part 4 → kta-013から続番。カテゴリ: その他の重要単元"
+  - "残り5セクション: Kaku_19, 21a, 21b, 21c（+ Kaku_17, 18a, 18b, 20は完了済み）"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"
