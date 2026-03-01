@@ -2,30 +2,31 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T14:00:00"
+updated_at: "2026-03-01T20:00:00"
 book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 2 — B19完了、B20開始"
-  current_section: "Scr_245"
+  phase: "Phase 2 — B20完了、Part 4+5完了。Special(Scr_S01-S10)のみ残り"
+  current_section: "Scr_S01"
   current_step: "Step 1 原本確認"
-  last_completed_section: "Scr_244"
+  last_completed_section: "Scr_261"
   last_completed_gate: 5
 
 progress:
   total_sections: 271
-  completed: 254
+  completed: 247
   in_progress: 0
-  remaining: 17
-  total_nodes: 172
-  total_sentences: 1597
+  remaining: 24
+  total_nodes: 183
+  total_sentences: 1746
 
 batch_plan:
   - "B17: Ch24前半 (Scr_210-220) = 11セクション ← 完了"
   - "B18: Ch24後半 (Scr_221-231) = 11セクション ← 完了"
   - "B19: Ch25+Ch26 (Scr_232-244) = 13セクション ← 完了"
-  - "B20: Ch27+Ch28+Ch29 (Scr_245-261) = 17セクション (sid for Ch27, skw for Ch28-29) ← 次"
+  - "B20: Ch27+Ch28+Ch29 (Scr_245-261) = 17セクション ← 完了"
+  - "B14: Special Edition (Scr_S01-S10) = 10セクション ← 次"
 
 recent_decisions:
   - "decision #1: PU!の語句リストはsentences登録しない"
@@ -35,15 +36,17 @@ recent_decisions:
   - "decision #5: 解説中の書き換え文は登録しない"
   - "decision #6: 対話問題はBの文のみ登録"
   - "decision #7: PU!内の用法例示文は登録しない"
+  - "decision #8: Part 5会話: A/B問わず主要表現登録, 2-3語定型応答はnotes"
 
-active_concerns: []
+active_concerns:
+  - "sgh-026(限定用法と叙述用法)に紐づく英文が0件 — 既知の警告"
 
 next_actions:
-  - "B20: Ch27(Scr_245-250) + Ch28(Scr_251-255) + Ch29(Scr_256-261) = 17セクション"
-  - "Ch27 群前置詞: sid接頭辞(sid-019〜)"
-  - "Ch28 会話の基本: skw接頭辞(skw-001〜)"
-  - "Ch29 会話の実際: skw接頭辞"
-  - "会話セクション注意: パターンC(対話形式), decision #6適用"
+  - "B14: Special Edition (Scr_S01-S10) = 10セクション"
+  - "Special: sdr接頭辞(sdr-001〜)"
+  - "特別編はパターンD: 下線部選択+CHECK!あり"
+  - "原本: Special_読解作文のための文法問題.md"
+  - "残り24セクション = Special 10 + その他14(?)"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

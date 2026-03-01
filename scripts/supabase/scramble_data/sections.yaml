@@ -2182,6 +2182,60 @@ section_knowledge_nodes:
   - section_id: "Scr_244"
     node_id: "sid-018"
     seq: 2
+  # Part 4 > Ch27 群前置詞
+  - section_id: "Scr_245"
+    node_id: "sid-019"
+    seq: 1
+  - section_id: "Scr_246"
+    node_id: "sid-019"
+    seq: 2
+  - section_id: "Scr_247"
+    node_id: "sid-020"
+    seq: 1
+  - section_id: "Scr_248"
+    node_id: "sid-020"
+    seq: 2
+  - section_id: "Scr_249"
+    node_id: "sid-021"
+    seq: 1
+  - section_id: "Scr_250"
+    node_id: "sid-021"
+    seq: 2
+  # Part 5 > Ch28 会話の基本
+  - section_id: "Scr_251"
+    node_id: "skw-001"
+    seq: 1
+  - section_id: "Scr_252"
+    node_id: "skw-001"
+    seq: 2
+  - section_id: "Scr_253"
+    node_id: "skw-002"
+    seq: 1
+  - section_id: "Scr_254"
+    node_id: "skw-003"
+    seq: 1
+  - section_id: "Scr_255"
+    node_id: "skw-003"
+    seq: 2
+  # Part 5 > Ch29 会話の実際
+  - section_id: "Scr_256"
+    node_id: "skw-004"
+    seq: 1
+  - section_id: "Scr_257"
+    node_id: "skw-005"
+    seq: 1
+  - section_id: "Scr_258"
+    node_id: "skw-006"
+    seq: 1
+  - section_id: "Scr_259"
+    node_id: "skw-007"
+    seq: 1
+  - section_id: "Scr_260"
+    node_id: "skw-007"
+    seq: 2
+  - section_id: "Scr_261"
+    node_id: "skw-008"
+    seq: 1
 
 section_prerequisites:
   # Ch03 助動詞

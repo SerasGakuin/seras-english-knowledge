@@ -2577,179 +2577,179 @@ sections:
     title: "関連を表す群前置詞"
     type: "idiom"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-019(Theme245+246統合)。Q1267-1272=5exam, PU!197例文1件=1example"
   Scr_246:
     title: "目的を表す群前置詞"
     type: "idiom"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-019共有。Q1273-1276=4exam, PU!198例文1件=1example"
   Scr_247:
     title: "原因・理由を表す群前置詞"
     type: "idiom"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-020(Theme247+248統合)。Q1277-1282=6exam, 解説例文2件=2example"
   Scr_248:
     title: "譲歩を表す群前置詞"
     type: "idiom"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-020共有。Q1283-1285=3exam, 解説例文2件=2example"
   Scr_249:
     title: "その他の重要群前置詞①"
     type: "idiom"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 15
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-021(Theme249+250統合)。Q1286-1297=12exam, 解説例文3件=3example"
   Scr_250:
     title: "その他の重要群前置詞②"
     type: "idiom"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 15
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sid-021共有。Q1298-1306=10exam(問題文9+COLUMN1), 解説例文5件=5example"
   # Part 5 > Ch28 会話の基本
   Scr_251:
     title: "出会いのあいさつ"
     type: "conversation"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skw-001(Theme251+252統合)。Q1307-1312のうちQ1308省略(2語定型応答)=5exam"
   Scr_252:
     title: "別れのあいさつ"
     type: "conversation"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skw-001共有。Q1313-1318=8exam(Q1313,1315はA,B両方登録)"
   Scr_253:
     title: "お礼・お詫びとその応答"
     type: "conversation"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skw-002(単独)。Q1319-1323=5exam, appreciate例文1件=1example"
   Scr_254:
     title: "勧誘・提案とその応答"
     type: "conversation"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skw-003(Theme254+255統合)。Q1324-1328=5exam"
   Scr_255:
     title: "依頼・許可とその応答"
     type: "conversation"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skw-003共有。Q1329-1335=7exam"
   # Part 5 > Ch29 会話の実際
   Scr_256:
     title: "電話"
     type: "conversation"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 10
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skw-004(単独)。Q1336-1342=10exam(A,B両方登録多数)"
   Scr_257:
     title: "道案内・乗り物"
     type: "conversation"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skw-005(単独)。Q1343-1346=9exam(A,B両方登録多数)"
   Scr_258:
     title: "健康・病気"
     type: "conversation"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skw-006(単独)。Q1347-1350=8exam, come down with例文1件=1example"
   Scr_259:
     title: "食事・レストラン"
     type: "conversation"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skw-007(Theme259+260統合)。Q1351-1356=12exam, enough of例文1件=1example"
   Scr_260:
     title: "買い物"
     type: "conversation"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 10
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skw-007共有。Q1357-1359=9exam, being served例文1件=1example"
   Scr_261:
     title: "その他の重要会話表現"
     type: "conversation"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skw-008(単独)。Q1360-1365=12exam, right now例文1件=1example"
 
 summary:
   total_sections: 271
-  completed: 230
+  completed: 247
   in_progress: 0
-  not_started: 41
-  total_knowledge_nodes: 160
-  total_sentences: 1279
+  not_started: 24
+  total_knowledge_nodes: 183
+  total_sentences: 1746

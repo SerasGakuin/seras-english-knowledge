@@ -1,0 +1,146 @@
+knowledge_nodes:
+  - id: "skw-001"
+    name: "出会い・別れのあいさつ"
+    category: "会話表現"
+    priority: "P1"
+    notes: |
+      Theme 251+252統合。出会いと別れの場面での会話表現。
+      【Theme 251 — 出会いのあいさつ】How are things (going) (with you)?「調子はどう？」(How's everything (going)?/How's it going?/How're things?も。How are you (doing)?よりくだけた問い方)、What's up?/What's new?「どう，調子は？/変わりはない？」(How's everything?よりさらにくだけた表現)、Long time no see.=It's been a long time (since I saw you last).「久しぶり」、How have you been?「その後どうだった？」(久しぶりの再会に使用)、This is A.「こちらがAです」(紹介時)、Nice to meet you.=Glad to meet you.「はじめまして」(How do you do?は硬い表現)、Where are you from?=Where do you come from?「出身はどちら？」(現在時制を使う)、Who do you work for?「どちらにお勤め？」(=Where do you work?。文頭のwhoはforの目的語だが主格whoを用いることが多い⇨180)。
+      応答表現: Not (so[too]) bad.「なかなかいいよ」、Pretty good[well].「とてもいいよ」、(I'm) OK.「いいよ」、Couldn't be better.「最高だよ」、Nothing special.「相変わらずだよ」、How about you?=And you?「あなたは？」。
+      比較: Where do you work?にはin/atで答える("Where does he work?" "In a bank.")。
+      【Theme 252 — 別れのあいさつ】I must be going[leaving] now.=I've got to go now.=I'd better be going.=I'm afraid I must be going.「もう行かなくては」(別れを切り出す表現)、I am glad to have met you.=Nice meeting you.「お会いできてよかった」(〈比較〉Nice meeting you.は別れの表現。Nice to meet you.は初対面のあいさつ)、See you (later).=I'll be seeing you (later).「また」、Good luck.「幸運を祈る/頑張って」、I'll miss you.「寂しくなるね」(しばらく会えない人への表現⇨839(c))、Take care of yourself.「お体を大切に」(Take care!「気をつけて」より実際に健康面を気遣う表現)、Say hello to A.「Aによろしく」、Give my (best) regards to A.「Aによろしくお伝えください」(Say hello to A.より礼儀正しい。regardsの前にbest/kind(est)がつくことが多い)、Remember me to A.「Aによろしくお伝えください」(Say hello to A./Give my regards to A.のほうが一般的)。
+      〈重要〉別れのあいさつ: Take it easy.「元気で」、Take care!「気をつけて」、So long!「それじゃ，また」。
+      Say hello to A.に対する応答: I sure will./Yes, I will./OK, I will.など。
+
+  - id: "skw-002"
+    name: "お礼・お詫びとその応答"
+    category: "会話表現"
+    priority: "P1"
+    notes: |
+      Theme 253単独。お礼・お詫びの表現とその応答パターン + PU!204。
+      【お礼の表現】Thank you[Thanks] for〜.「〜をありがとう」、It is kind[nice] of you to do「〜してくれてありがとう」(⇨208)、I would appreciate it if you could[would]〜.「〜していただけるとありがたいのですが」(〈重要〉appreciateは「人」を目的語にとらない。if節の内容を受けるitが目的語)、Thank you[Thanks] anyway.=Thanks just[all] the same.「（とにかく）ありがとう」(相手の好意を断るとき・要望に応えられなかった場合に使用)。
+      〈重要〉appreciate+人は不可: I would appreciate hearing from you soon.=I'd appreciate it if you'd write (to) me soon.
+      【お詫びの表現】I am very sorry to have kept you waiting.=I am very sorry (that) I have kept you waiting.=I am very sorry for having kept you waiting.「お待たせして申し訳ありません」。
+      【応答パターン PU!204】Don't mention it.〈英〉/You're welcome.〈米〉/That's all right./Not at all./No problem./Don't worry (about it)./Never mind.(ˣDon't mind.)。
+      注意: Don't mention it.とThat's all right.は「お礼」「お詫び」両方に使える。You're welcome.は「お礼」に対する返事のみ。
+      プラスα: It's my pleasure.(お役に立ててうれしいです)、Not at all.(何でもありませんよ)。
+
+  - id: "skw-003"
+    name: "勧誘・提案・依頼・許可とその応答"
+    category: "会話表現"
+    priority: "P1"
+    notes: |
+      Theme 254+255統合。勧誘・提案と依頼・許可の表現 + PU!205,206。
+      【Theme 254 — 勧誘・提案】Will[Won't] you〜?「〜しませんか」(Won'tのほうが親しみのこもった言い方)、Let's〜(, shall we?)「〜しようよ」(shall we?で口調がやわらかくなる⇨253)、How[What] about doing?=What do you say to doing?「〜しませんか」(⇨263。名詞も続く: How about some pizza?)、Why don't we do?=Why not do?「〜しませんか」(自分を含めての提案。Why don't you do?は相手への提案・勧誘⇨261)、Would you like to do?「〜しませんか」(〈重要〉Would you like[care for]+名詞?「〜はいかがですか」⇨1352)。
+      応答 PU!205: With pleasure.「喜んで」/Certainly./Sure.「いいとも」/That sounds good[great].「いいですね」/That's a good idea.「いいですね」/Yes, let's.「そうしましょう」/(Yes,) sure.「いいとも」。
+      【Theme 255 — 依頼・許可】May I〜?「〜してもよろしいですか」(Can I〜?より丁寧)、Is it all right if I〜?「〜してもいいですか」(May I〜?のくだけた言い方)、Do[Would] you mind if I do?=Do[Would] you mind my[me] doing?「〜してもいいですか」(Would youの場合はif節は仮定法過去が正しいが現在形も使われる)、Do[Would] you mind doing?「〜していただけませんか」(「依頼」。「許可」のmind my doing?と混同注意)、I wonder if[whether]〜「〜してもいいでしょうか/〜してくれますか」、Could you〜?「〜していただけないでしょうか」(Can you/Would youより丁寧)。
+      mind応答 PU!206: 了承=(No,) Not at all./Certainly not./Not at all. Go ahead./Of course not. 断り=Well, I'd rather you didn't./I am sorry I would.。
+      〈重要〉mindは「いやだと思う/気にする」なので「はい，どうぞ」は否定語で応答(Not at all.等)。
+      応答表現: Why not?「いいですとも」(Why not do?と混同注意⇨261,1327)、Go ahead.「さあ，どうぞ」、By all means.「ぜひどうぞ」、Yes, I'd be glad[happy] to.「ええ，喜んで」。
+      語句: ask A a favor「Aに頼みごとをする」(=ask a favor of A⇨1072)、spare A B「AにBをさく」(⇨530)。
+
+understanding_goals:
+  - node_id: "skw-001"
+    seq: 1
+    goal: "出会いのあいさつ表現（How are things going? / What's up? / Long time no see.等）を場面に応じて使い分けられる"
+  - node_id: "skw-001"
+    seq: 2
+    goal: "Nice to meet you.（初対面）と Nice meeting you.（別れ）の違いを説明できる"
+  - node_id: "skw-001"
+    seq: 3
+    goal: "別れのあいさつの切り出し方（I must be going. / I've got to go.等）と応答（See you. / Take care.等）を適切に使える"
+  - node_id: "skw-001"
+    seq: 4
+    goal: "「よろしく伝えて」の3パターン（Say hello to A. / Give my regards to A. / Remember me to A.）の丁寧さの違いを説明できる"
+  - node_id: "skw-002"
+    seq: 1
+    goal: "お礼への応答表現（Don't mention it. / You're welcome. / That's all right.等）を適切に使い分けられる"
+  - node_id: "skw-002"
+    seq: 2
+    goal: "You're welcome.はお礼への応答のみ、Don't mention it.とThat's all right.はお礼・お詫び両方に使えることを理解している"
+  - node_id: "skw-002"
+    seq: 3
+    goal: "I would appreciate it if you could〜の構文でappreciateが人を目的語にとれないことを説明できる"
+  - node_id: "skw-002"
+    seq: 4
+    goal: "Thank you anyway / Thanks just the same が使われる場面を説明できる"
+  - node_id: "skw-003"
+    seq: 1
+    goal: "勧誘・提案の各表現（Will you〜? / Let's〜 / How about〜? / Why don't we〜? / Would you like to〜?）を使い分けられる"
+  - node_id: "skw-003"
+    seq: 2
+    goal: "Do you mind doing?（依頼）と Do you mind my doing?（許可）の違いを説明できる"
+  - node_id: "skw-003"
+    seq: 3
+    goal: "mindを使った質問に対し、了承する場合は否定語（Not at all.等）で答える理由を説明できる"
+  - node_id: "skw-003"
+    seq: 4
+    goal: "Why not?（いいですとも）とWhy not do?（〜しませんか）を区別できる"
+
+check_points:
+  - node_id: "skw-001"
+    seq: 1
+    question: "Nice to meet you. と Nice meeting you. はそれぞれどの場面で使うか？"
+    answer: "Nice to meet you. は初対面のあいさつ（出会い）。Nice meeting you. は別れのあいさつ。"
+  - node_id: "skw-001"
+    seq: 2
+    question: "「久しぶり」を表す英語表現を2つ答え、その後に続けて「どうしてました？」と聞く表現は？"
+    answer: "Long time no see. / It's been a long time. 続けて How have you been? と聞く。"
+  - node_id: "skw-001"
+    seq: 3
+    question: "「Aによろしくお伝えください」の3つの表現を丁寧さの順に答えよ。"
+    answer: "Give my (best) regards to A.（最も丁寧） > Say hello to A. > Remember me to A.（最も一般的なのはSay hello / Give my regards）。"
+  - node_id: "skw-002"
+    seq: 1
+    question: "You're welcome. と That's all right. の使い方の違いは何か？"
+    answer: "You're welcome. は「お礼」に対する返事のみ。That's all right. は「お礼」と「お詫び」の両方に使える。"
+  - node_id: "skw-002"
+    seq: 2
+    question: "I would appreciate it if you could show me〜の文で、itは何を指すか？またappreciateの目的語に人は使えるか？"
+    answer: "itはif節の内容を受ける形式目的語。appreciateは人を目的語にとれない（ˣI appreciate youとは言わない）。"
+  - node_id: "skw-002"
+    seq: 3
+    question: "Thank you anyway. / Thanks just the same. はどんな場面で使うか？"
+    answer: "相手の好意や申し出を断るとき、または相手が自分の要望に応えられなかった場合に、それでも感謝を表す表現。"
+  - node_id: "skw-003"
+    seq: 1
+    question: "Would you mind opening the window? に「はい，いいですよ」と答えるとき、どう応答するか？理由も述べよ。"
+    answer: "Not at all. / Of course not. / Certainly not. など否定語で答える。mindは「いやだと思う」なので「いやではない」=「いいですよ」。"
+  - node_id: "skw-003"
+    seq: 2
+    question: "Do you mind doing? と Do you mind my doing? の違いは何か？"
+    answer: "Do you mind doing? は「〜していただけませんか」（依頼）。Do you mind my[me] doing? は「〜してもいいですか」（許可を求める）。"
+  - node_id: "skw-003"
+    seq: 3
+    question: "Why don't we do? と Why don't you do? の違いは何か？"
+    answer: "Why don't we do? は自分を含めた提案「〜しませんか」。Why don't you do? は相手だけに向けた提案・勧誘「〜してはどうですか」。"
+
+node_prerequisites:
+  - node_id: "skw-001"
+    prerequisite_id: "sid-021"
+  - node_id: "skw-002"
+    prerequisite_id: "skw-001"
+  - node_id: "skw-003"
+    prerequisite_id: "skw-002"
+
+knowledge_references:
+  - node_id: "skw-001"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_251"
+    pages: ""
+  - node_id: "skw-001"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_252"
+    pages: ""
+  - node_id: "skw-002"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_253"
+    pages: ""
+  - node_id: "skw-003"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_254"
+    pages: ""
+  - node_id: "skw-003"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_255"
+    pages: ""

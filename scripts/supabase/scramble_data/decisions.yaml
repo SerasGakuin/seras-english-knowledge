@@ -41,3 +41,9 @@ decisions:
     question: "PU!内の用法例示文（He thinks otherwise. / This is ten times the size of that. 等）はsentencesに登録するか？"
     decision: "登録しない。用法の例示としてPU!リスト表の一部であり、notesに記録すれば十分。decision #1（PU!リスト表は登録しない）の延長として統一。"
     decided_by: "リード"
+  - id: 8
+    date: "2026-03-02"
+    section: "general (Part 5)"
+    question: "会話セクション（Part 5, Ch28-29）では、A/B対話のどちらの文を登録するか？"
+    decision: "主要な対象表現を含む行を登録する（AでもBでも）。1問につき原則1文だが、AとBが独立した会話パターンを問う場合は両方登録可。2-3語の定型応答（Sure. / Not at all. / Thanks.等）はsentences登録せず、notesに記録。decision #6はPart 1-4の文法セクションに適用し、Part 5の会話セクションでは本decisionを適用。"
+    decided_by: "リード"
