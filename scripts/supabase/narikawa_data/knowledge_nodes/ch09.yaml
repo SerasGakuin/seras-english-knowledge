@@ -1,0 +1,426 @@
+# Part 09-10: 前置詞・比較 (nrp)
+
+knowledge_nodes:
+  - id: "nrp-001"
+    name: "前置詞byの核心（そば→手段→経由）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      byの基本イメージは「そば」。ここから手段・基準・経由へと展開する。
+      ❶ そば: by the window（窓のそば）
+      ❷ 手段: 「そば」にあるものを使って→交通手段(by bike)、通信手段(by fax)、単位(by the basket)
+      ❸ 基準・尺度: 「そば」にある時計で時間を知る→by my watch
+      ❹ 経由: 地点間の「手段」から→by Honolulu（ホノルル経由で）
+      [図表: イラスト — 自転車に乗る女性・ファックスを使う女性・かご売りのイラスト（p.330）]
+      [図表: イラスト — 日本からホノルル経由でメキシコへの地図（p.331）]
+      プラスα: 「経由」はby way of, via, throughでも表せる
+      別冊ポイント211参照
+  - id: "nrp-002"
+    name: "前置詞byの展開（期限・差・受動態）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      byの「そば」イメージの続き。期限・差・受動態への展開。
+      ❶ 期限: by 5:00＝5時の「そば」→5時までに。瞬間的な動詞(pay back等)と共起
+      ❷ until[till]との区別: until＝「〜までずっと」（継続）。継続性の動詞(work, wait)と共起。入試頻出
+      ❸ 差・隔たり: 「そば」→対象との間に差がある。by a head（頭1つ分）、by a minute（1分差で）
+      ❹ day by day/one by one/step by step/by degrees: 「差」のbyから生まれた表現
+      ❺ 受動態のby: 殺した人が「そば」にいた→by Cain。受動態だからbyではなく、「そば」だからby
+      ✕ 受動態＝必ずby ではない: He was killed in the accident.（事故の「ワクの中」→in）
+      プラスα: day after day「来る日も来る日も」は変化なき継続。day by day「日ごとに」は変化あり
+      参考書内参照: →PART09-3（inの詳細）
+      別冊ポイント211・212参照
+  - id: "nrp-003"
+    name: "前置詞inの核心（ワクの中→場所→時間→着用→手段）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      inの基本イメージは「ワクの中」。場所でも時間でもすっぽり収まっている感覚。
+      ❶ 場所: in the cage（かごの中）
+      ❷ 時間: in three weeks（3週間で）→時間のワクの中で完了
+      ❸ 未来時のin: in two hours＝今から2時間後。afterは過去/未来の一点基準、inは「今」基準
+      ❹ 着用: 服の「ワクの中」に体が収まる。in his new shirt、in his red shoes
+      ❺ inとonの着用の違い: in＋着用する服(モノ) vs on＋着用する体の部位・場所
+      ❻ 伝達の枠組み: in Spanish（スペイン語という枠組みで）
+      ❼ 材料: in ink（インクで）、in bronze（青銅で）
+      ❽ 形態・配置: in alphabetical order（アルファベット順に）
+      プラスα: with a pencil（実際に鉛筆を持って/aつき）vs in pencil（材料としての鉛筆/aなし）
+      別冊ポイント213参照
+  - id: "nrp-004"
+    name: "前置詞inの展開（方向→分野→状態→活動）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      inの「ワクの中」イメージの続き。方向・分野・状態・活動への展開。
+      ❶ 方向・方角: in the east/west。東西南北は360度を4分割した枠組み
+      ❷ inとtoの方角の違い: in the east（東に位置）vs to the east of China（中国から東に到達→日本）
+      ❸ 分野・範囲の限定: major in law（法学を専攻）、in my opinion（私の考えでは）
+      ❹ 〈in+Ving〉＝「〜する際に」: be careful in crossing→どの分野で注意かをinで限定
+      ❺ 状態・環境: in heavy rain（土砂降りの中）、in despair（絶望して）。目に見えるものも抽象的なものも可
+      ❻ 活動・従事: in politics（政治に携わっている）、in business（仕事に従事）
+      プラスα: in business（日常的に仕事に従事）vs on business（観光でなく仕事で→He went to NY on business.）
+      別冊ポイント213参照
+  - id: "nrp-005"
+    name: "前置詞onの核心（接触/べったり→影響→連続・継続）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      onの基本イメージは「接触 or べったり」。上面だけでなく、下でも側面でもOK。
+      ❶ 接触: on the ceiling（天井のハエ）、on the main street（大通り沿い）
+      ❷ べったり: put butter on the bread（パンにバターを塗る）
+      ❸ 影響・印象: 何かに触れることで影響を受ける→influence/effect/impact on〜、impression on〜
+      ❹ 連続・同時: on arriving＝到着と電話が時間的に接触→「すぐに」。= as soon as
+      ❺ on+名詞でも可: on my return（帰るとすぐ）
+      ❻ 継続: 点と点がつながれば線→on duty（勤務中）、on leave（休暇中）、on strike（ストライキ中）
+      別冊ポイント214参照
+  - id: "nrp-006"
+    name: "前置詞onの展開（依存→日付→について→通信→不利益）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      onの「べったり」イメージの続き。依存・日付・専門性・通信・不利益への展開。
+      ❶ 依存・基礎・根拠: depend on（〜に依存）、act on the instructions（指示に従って行動）
+      ❷ 特定の日・曜日: on Monday。暦に「依る(=by=寄り添う)」感覚→on
+      ❸ 「〜について」: a book on Shakespeare。べったり→特化・専門性。aboutより専門性が高い
+      ❹ 通信手段: on the Internet。情報が電波/電線にのっかって届く感覚
+      ❺ 不利益・災難: My wife died on me.（妻に先立たれた）。不利益がのしかかる。Dinner's on me.（私のおごり）
+      プラスα: in the morning（朝に）vs on the morning of the last day（最後の日の朝→日付特定→on）
+      プラスα: in the newspaper（紙媒体→ワクの中）vs on the map（1枚の紙の上→接触）
+      参考書内参照: →PART09-20（aboutの詳細）
+      別冊ポイント214参照
+  - id: "nrp-007"
+    name: "前置詞atの核心（一点集中→時点→地点→目盛り→従事→感情原因）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      atの基本イメージは「一点集中」。ピンポイントに「点」を指す。
+      ❶ 目標: aim at the mark（的をねらう）
+      ❷ 時点: at 10:00。inは幅のある時間帯(in July)
+      ❸ 地点: at 2415 Kuhio Avenue。地図上でホテルの位置を指さす感じ
+      ❹ atとinの場所の使い分け: at the hotel（立ち寄り地点）vs in the hotel（ホテル空間内）。話し手の主観で決まる
+      ❺ 目盛りの一点: at 100℃（温度）、at 60 miles an hour（スピード）、at 200 yen（価格）
+      ❻ 従事・状態: at play/at work（一点集中）、at table/at night/at peace/at ease/at one's best
+      ❼ 瞬間的な感情の原因: surprised/amazed/astonished/shocked at 〜。瞬間的感情はat
+      ❽ 継続的感情はwith: satisfied/pleased/bored with 〜。ただしdisappointed at/with/in等、複数使える場合も
+      プラスα: in the evening（日没〜就寝の活動時間）、in the night（就寝〜起床）、at night（闇の状態/theなし）
+      別冊ポイント215参照
+  - id: "nrp-008"
+    name: "前置詞fromの核心（出所→出身→起点→原因→原料→判断根拠）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      fromの基本イメージは「出所（でどころ）」。「〜から」の丸暗記では対応できない多様な展開。
+      ❶ 出所: draw information from（情報の出所）
+      ❷ 出身: I'm from Japan.
+      ❸ 出発点・起点: from A to B。from Rome to Paris
+      ❹ 間接的な原因: result from carelessness。fromは「間接的」原因が多い
+      ❺ 原料: made from milk（バター←牛乳/原形をとどめない）vs made of wood（テーブル←木/目で見てわかる）
+      ❻ 判断の根拠: judging from the evidence（証拠から判断すれば）
+      ❼ 観点: from another point of view（別の観点から）
+      ✕ begin from 8:00は不可→begin at 8:00（時の一点はat）
+      プラスα: die of cholera（直接的原因→of）vs die from overwork（間接的原因→from）。→p.365参照
+      参考書内参照: →p.364（ofの原料の詳細）
+      別冊ポイント216参照
+  - id: "nrp-009"
+    name: "前置詞fromの展開（分離→妨害/禁止→区別→保護）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      fromの「出所」から「離れて（分離）」への展開。動詞パターンとの組み合わせが重要。
+      ❶ 分離: start from Kyoto（京都から出発=京都から離れる）、two miles from shore（海岸から2マイル離れて）
+      ❷ 妨害・禁止: prevent/prohibit A from Ving。AとVingを切り離す→妨害
+      ❸ 区別・相違: distinguish A from B。AとBを切り離す→区別する
+      ❹ 保護: protect/rescue/save A from B。AとBを切り離す→保護
+      プラスα: distinguish（五感で広く区別）vs tell/know（見分ける）。どれもA from Bパターン
+      参考書内参照: →PART01-12（V+A+from+B型の動詞）
+      別冊ポイント216参照
+  - id: "nrp-010"
+    name: "前置詞toの核心（到達→所属/帰属→適合→付加/付着）"
+    category: "nrp"
+    priority: "P1"
+    notes: |
+      toの基本イメージは「到達」。fromと対で考えるとよい。右向き矢印（→）のイメージ。
+      ❶ 到達: drive to the city。ある地点への到達
+      ❷ 所属先・帰属先: belong to the club（所属）、keys to my apartment（鍵の帰属先がアパート）
+      ❸ 到達対象→所有者: gave a present to his girlfriend。到達先=所有者とも見なせる
+      ❹ 適合・一致: sing to the music（音楽に合わせて歌う）。歌声が音階に「到達」→合っている
+      ❺ 付加・追加: add two to seven。2が7に到達→足す
+      ❻ 付着: attach a price tag to a garment。toは貼り付けるまでの動作。すでに貼られた状態はon
+      プラスα: in/at/toの「方向」の違い: in（枠の中）、at（一点めがけて/攻撃的）、to（到達）。→p.337参照
+      参考書内参照: →PART01-15（V+A+to+B型の動詞）
+      別冊ポイント217参照
+
+understanding_goals:
+  - node_id: "nrp-001"
+    seq: 1
+    goal: "byの基本イメージ「そば」を説明できる"
+  - node_id: "nrp-001"
+    seq: 2
+    goal: "byが手段（交通・通信・単位）を表す理由を「そば」から説明できる"
+  - node_id: "nrp-001"
+    seq: 3
+    goal: "byが「経由」を表す用法を理解し、by way of/via/throughとの関係を説明できる"
+  - node_id: "nrp-002"
+    seq: 1
+    goal: "byとuntil[till]の使い分けを動詞の種類と関連づけて説明できる"
+  - node_id: "nrp-002"
+    seq: 2
+    goal: "byが「差・隔たり」を表す用法を理解し、day by day等の表現に応用できる"
+  - node_id: "nrp-002"
+    seq: 3
+    goal: "受動態でbyが使われる理由と使われない場合を「そば」のイメージから説明できる"
+  - node_id: "nrp-003"
+    seq: 1
+    goal: "inの基本イメージ「ワクの中」を場所・時間の両面で説明できる"
+  - node_id: "nrp-003"
+    seq: 2
+    goal: "inが着用を表す用法とonとの違い（in＋服 vs on＋部位）を区別できる"
+  - node_id: "nrp-003"
+    seq: 3
+    goal: "inが伝達手段・材料・形態を表す用法を「ワクの中」から説明できる"
+  - node_id: "nrp-004"
+    seq: 1
+    goal: "inが方向・方角を表す用法とtoとの違いを説明できる"
+  - node_id: "nrp-004"
+    seq: 2
+    goal: "inが分野限定・状態・活動を表す用法を「ワクの中」から説明できる"
+  - node_id: "nrp-004"
+    seq: 3
+    goal: "〈in+Ving〉の意味を公式暗記でなくイメージから理解できる"
+  - node_id: "nrp-005"
+    seq: 1
+    goal: "onの基本イメージ「接触/べったり」を説明できる"
+  - node_id: "nrp-005"
+    seq: 2
+    goal: "onが影響・印象を表す理由を「接触」から説明できる"
+  - node_id: "nrp-005"
+    seq: 3
+    goal: "on Vingが「〜するとすぐ」を表す理由を理解し、as soon asと書き換えできる"
+  - node_id: "nrp-005"
+    seq: 4
+    goal: "onが継続を表す用法（on duty/on leave/on strike）を理解できる"
+  - node_id: "nrp-006"
+    seq: 1
+    goal: "onが依存・根拠を表す理由を「べったり」から説明できる"
+  - node_id: "nrp-006"
+    seq: 2
+    goal: "特定の日・曜日にonを使う理由を説明できる"
+  - node_id: "nrp-006"
+    seq: 3
+    goal: "onとaboutの「〜について」の違い（専門性の差）を説明できる"
+  - node_id: "nrp-006"
+    seq: 4
+    goal: "onが通信手段・不利益を表す用法を理解できる"
+  - node_id: "nrp-007"
+    seq: 1
+    goal: "atの基本イメージ「一点集中」を説明できる"
+  - node_id: "nrp-007"
+    seq: 2
+    goal: "atとinの場所・時間の使い分けを説明できる"
+  - node_id: "nrp-007"
+    seq: 3
+    goal: "atが目盛り（スピード・温度・価格）を表す用法を理解できる"
+  - node_id: "nrp-007"
+    seq: 4
+    goal: "瞬間的感情（at）と継続的感情（with）の前置詞の使い分けを説明できる"
+  - node_id: "nrp-008"
+    seq: 1
+    goal: "fromの基本イメージ「出所」を説明できる"
+  - node_id: "nrp-008"
+    seq: 2
+    goal: "fromが原因・原料を表す用法を理解し、of（直接原因/材料可視）との違いを説明できる"
+  - node_id: "nrp-008"
+    seq: 3
+    goal: "fromが判断の根拠・観点を表す用法を「出所」から説明できる"
+  - node_id: "nrp-009"
+    seq: 1
+    goal: "fromの「分離」感覚を理解し、出所との関係を説明できる"
+  - node_id: "nrp-009"
+    seq: 2
+    goal: "妨害・禁止(prevent from)、区別(distinguish from)、保護(protect from)の動詞パターンを使える"
+  - node_id: "nrp-009"
+    seq: 3
+    goal: "分離のfromと動詞パターンの関係を論理的に説明できる"
+  - node_id: "nrp-010"
+    seq: 1
+    goal: "toの基本イメージ「到達」を説明し、fromとの対比を述べられる"
+  - node_id: "nrp-010"
+    seq: 2
+    goal: "toが所属・帰属を表す用法を「到達」から説明できる"
+  - node_id: "nrp-010"
+    seq: 3
+    goal: "toが適合・付加を表す用法を理解できる"
+
+check_points:
+  - node_id: "nrp-001"
+    seq: 1
+    question: "byの基本イメージは何か？"
+    answer: "「そば」。手段・基準・経由はすべて「そば」から派生する"
+  - node_id: "nrp-001"
+    seq: 2
+    question: "by the basket, by the barrelのbyは何を表すか？"
+    answer: "単位を表す手段。「そば」にあるかご・バレルを使って売る感覚"
+  - node_id: "nrp-001"
+    seq: 3
+    question: "byで「経由」を表す場合、同義の表現は何か？"
+    answer: "by way of, via, throughなどで書き換え可能"
+  - node_id: "nrp-002"
+    seq: 1
+    question: "byとuntil[till]の違いは何か？"
+    answer: "by＝期限「〜までに」（瞬間的動詞と共起）。until[till]＝継続「〜までずっと」（継続動詞と共起）"
+  - node_id: "nrp-002"
+    seq: 2
+    question: "day by dayとday after dayの違いは何か？"
+    answer: "day by day＝「日ごとに」変化あり(=gradually)。day after day＝「来る日も来る日も」変化なし継続"
+  - node_id: "nrp-002"
+    seq: 3
+    question: "受動態で常にbyが使われるわけではない。He was killed __ the accident. の空所に入る前置詞は？"
+    answer: "in。事故の「ワクの中」で死んだのでin。「そば」に事故があったわけではないのでbyは不適切"
+  - node_id: "nrp-003"
+    seq: 1
+    question: "inの基本イメージは何か？"
+    answer: "「ワクの中」。場所でも時間でもすっぽり収まっている感覚"
+  - node_id: "nrp-003"
+    seq: 2
+    question: "着用を表すinとonの後ろに置くものの違いは何か？"
+    answer: "in＋着用する服（モノ）。on＋着用する体の部位・場所"
+  - node_id: "nrp-003"
+    seq: 3
+    question: "「今から2時間後に」はin two hoursとafter two hoursのどちらが正しいか？"
+    answer: "in two hours。「今」を基準にした「〜後」はin。afterは過去/未来の一点を基準にする"
+  - node_id: "nrp-004"
+    seq: 1
+    question: "方角でinとtoを使い分ける基準は何か？"
+    answer: "in the east＝東西南北の枠組み。to the east of China＝中国から東に到達するので到達のto"
+  - node_id: "nrp-004"
+    seq: 2
+    question: "in businessとon businessの違いは何か？"
+    answer: "in business＝日常的に仕事に従事している。on business＝（観光でなく）仕事の目的で"
+  - node_id: "nrp-004"
+    seq: 3
+    question: "in despairのinは何を表すか？"
+    answer: "状態・環境。絶望という「ワクの中」にいる感覚"
+  - node_id: "nrp-005"
+    seq: 1
+    question: "onの基本イメージは何か？"
+    answer: "「接触」または「べったり」。上面だけでなく下でも側面でもOK"
+  - node_id: "nrp-005"
+    seq: 2
+    question: "influence/effect/impact/impression + on のonは何に由来するか？"
+    answer: "「接触」のon。何かに触れることで影響を受けたり印象を抱いたりする"
+  - node_id: "nrp-005"
+    seq: 3
+    question: "On arriving there, he called his father. のon Vingは何を表すか？"
+    answer: "「〜するとすぐ」。到着と電話が時間的に接触(on)→すぐに。= As soon as he arrived there"
+  - node_id: "nrp-006"
+    seq: 1
+    question: "depend onのonは何に由来するか？"
+    answer: "「べったり」のon。親にべったり→親に依存"
+  - node_id: "nrp-006"
+    seq: 2
+    question: "a book on Shakespeareとa book about Shakespeareの違いは何か？"
+    answer: "on＝べったり→専門的。about＝周辺→一般的。onの方がaboutより専門性が高い"
+  - node_id: "nrp-006"
+    seq: 3
+    question: "Dinner's on me.のonは何を表すか？"
+    answer: "不利益・災難。夕食代が私にのしかかっている→私のおごり"
+  - node_id: "nrp-007"
+    seq: 1
+    question: "atの基本イメージは何か？"
+    answer: "「一点集中」。広い範囲ではなくピンポイントに「点」を指す"
+  - node_id: "nrp-007"
+    seq: 2
+    question: "at the hotelとin the hotelの違いは何か？"
+    answer: "at＝地図上の地点・立ち寄り地点。in＝ホテルの空間内（ディナー・宿泊等）。話し手の主観で決まる"
+  - node_id: "nrp-007"
+    seq: 3
+    question: "瞬間的感情と継続的感情で使い分ける前置詞は何か？"
+    answer: "瞬間的(surprised/shocked等)→at。継続的(satisfied/pleased/bored等)→with。ただし複数使える場合もある"
+  - node_id: "nrp-008"
+    seq: 1
+    question: "fromの基本イメージは何か？"
+    answer: "「出所（でどころ）」。「〜から」の丸暗記では対応できない"
+  - node_id: "nrp-008"
+    seq: 2
+    question: "made from milkとmade of woodの違いは何か？"
+    answer: "from＝原形をとどめない原料（牛乳→バター）。of＝目で見て材料がわかる（木→テーブル）"
+  - node_id: "nrp-008"
+    seq: 3
+    question: "✕ begin from 8:00 の正しい形は？"
+    answer: "begin at 8:00。8時は時の一点なのでat。fromの出所感覚は時の一点には合わない"
+  - node_id: "nrp-009"
+    seq: 1
+    question: "fromの「出所」からもう1つの表情は何か？"
+    answer: "「離れて（分離）」。出発した＝そこから離れた、と考える"
+  - node_id: "nrp-009"
+    seq: 2
+    question: "prevent A from Vingの構造を「分離」の観点で説明せよ"
+    answer: "妨げることでAとVingを切り離す(from)→AがVingできなくなる"
+  - node_id: "nrp-009"
+    seq: 3
+    question: "distinguish, tell, knowの使い分けは？"
+    answer: "distinguish＝五感で広く区別。tell/know＝見分ける。いずれもA from Bパターン"
+  - node_id: "nrp-010"
+    seq: 1
+    question: "toの基本イメージは何か？"
+    answer: "「到達」。右向き矢印（→）のイメージ。fromと対で考える"
+  - node_id: "nrp-010"
+    seq: 2
+    question: "belong to the clubのtoは何に由来するか？"
+    answer: "到達の対象に注目→所属先。到達した先に留まっている感覚"
+  - node_id: "nrp-010"
+    seq: 3
+    question: "attach a tag to a garmentとthe label on a bottleで前置詞が異なる理由は？"
+    answer: "to＝貼り付けるまでの到達動作。on＝すでに貼られている接触状態"
+
+node_prerequisites:
+  - node_id: "nrp-002"
+    prerequisite_id: "nrp-001"
+  - node_id: "nrp-004"
+    prerequisite_id: "nrp-003"
+  - node_id: "nrp-006"
+    prerequisite_id: "nrp-005"
+  - node_id: "nrp-009"
+    prerequisite_id: "nrp-008"
+
+knowledge_references:
+  - node_id: "nrp-001"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_01"
+    pages: "p.330-331"
+  - node_id: "nrp-002"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_02"
+    pages: "p.332-333"
+  - node_id: "nrp-003"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_03"
+    pages: "p.334-336"
+  - node_id: "nrp-004"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_04"
+    pages: "p.337-339"
+  - node_id: "nrp-005"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_05"
+    pages: "p.340-341"
+  - node_id: "nrp-006"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_06"
+    pages: "p.342-344"
+  - node_id: "nrp-007"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_07"
+    pages: "p.345-347"
+  - node_id: "nrp-008"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_08"
+    pages: "p.348-349"
+  - node_id: "nrp-009"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_09"
+    pages: "p.350-351"
+  - node_id: "nrp-010"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_09_10"
+    pages: "p.352-353"

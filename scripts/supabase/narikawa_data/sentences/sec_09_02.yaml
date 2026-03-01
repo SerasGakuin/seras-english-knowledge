@@ -1,0 +1,103 @@
+# Nar_09_02: 前置詞 by の用法(2) (p.332-333)
+
+sentences:
+  - id: "nar-0902-e498"
+    section_id: "Nar_09_02"
+    drill: 0
+    number: 498
+    role: "example"
+    english: "I'll pay back by 5:00."
+    japanese: "5時までにお金を返します"
+    notes: "期限のby。5時の「そば」→5時までに。瞬間的動詞pay backと共起"
+  - id: "nar-0902-e499"
+    section_id: "Nar_09_02"
+    drill: 0
+    number: 499
+    role: "example"
+    english: "I'll be working here until 5:00."
+    japanese: "5時までここで働くつもりだ"
+    notes: "untilは「〜までずっと」（継続）。継続動詞workと共起。byとの対比"
+  - id: "nar-0902-e500"
+    section_id: "Nar_09_02"
+    drill: 0
+    number: 500
+    role: "example"
+    english: "Mike is taller than me by a head."
+    japanese: "マイクは私より頭1つ分大きい"
+    notes: "差・隔たりのby。マイクと私の間に頭1つ分の差がある"
+  - id: "nar-0902-e501"
+    section_id: "Nar_09_02"
+    drill: 0
+    number: 501
+    role: "example"
+    english: "Bill missed the last bus by a minute."
+    japanese: "ビルは1分差で終バスに乗り遅れた"
+    notes: "差・隔たりのby。1分差でバスに乗り遅れた"
+  - id: "nar-0902-e502"
+    section_id: "Nar_09_02"
+    drill: 0
+    number: 502
+    role: "example"
+    english: "He was killed by Cain."
+    japanese: "彼はカインに殺された"
+    notes: "受動態のby。カインが「そば」にいた→by。受動態だからではなく「そば」だからbyを使う"
+  - id: "nar-0902-e503"
+    section_id: "Nar_09_02"
+    drill: 0
+    number: 503
+    role: "example"
+    english: "He was killed in the accident."
+    japanese: "その事故で彼は死んだ"
+    notes: "受動態だがbyではなくin。事故の「ワクの中」で死んだ→in。受動態≠必ずby"
+
+sentence_structures:
+  - sentence_id: "nar-0902-e498"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0902-e498"
+    label: "details"
+    value: "<I>(S) 'll pay back(V) [by 5:00](M:by/期限)"
+  - sentence_id: "nar-0902-e499"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "nar-0902-e499"
+    label: "details"
+    value: "<I>(S) 'll be working(V) [here](M) [until 5:00](M:until/継続)"
+  - sentence_id: "nar-0902-e500"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0902-e500"
+    label: "details"
+    value: "<Mike>(S) is(V) <taller than me>(C) [by a head](M:by/差)"
+  - sentence_id: "nar-0902-e501"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0902-e501"
+    label: "details"
+    value: "<Bill>(S) missed(V) <the last bus>(O) [by a minute](M:by/差)"
+  - sentence_id: "nar-0902-e502"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0902-e502"
+    label: "details"
+    value: "<He>(S) was killed(V) [by Cain](M:by/動作主)"
+  - sentence_id: "nar-0902-e503"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0902-e503"
+    label: "details"
+    value: "<He>(S) was killed(V) [in the accident](M:in/ワクの中)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0902-e498"
+    node_id: "nrp-002"
+  - sentence_id: "nar-0902-e499"
+    node_id: "nrp-002"
+  - sentence_id: "nar-0902-e500"
+    node_id: "nrp-002"
+  - sentence_id: "nar-0902-e501"
+    node_id: "nrp-002"
+  - sentence_id: "nar-0902-e502"
+    node_id: "nrp-002"
+  - sentence_id: "nar-0902-e503"
+    node_id: "nrp-002"

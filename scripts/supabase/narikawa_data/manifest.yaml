@@ -1023,10 +1023,112 @@ sections:
     reviewed_at: "2026-03-03"
     notes: ""
 
+  # === Phase 2 B-10: Part 09 前半 前置詞（Nar_09_01〜09_10） ===
+  Nar_09_01:
+    title: "前置詞 by の用法(1)"
+    type: "pattern"
+    pages: "p.330-331"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_09_02:
+    title: "前置詞 by の用法(2)"
+    type: "pattern"
+    pages: "p.332-333"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_09_03:
+    title: "前置詞 in の用法(1)"
+    type: "pattern"
+    pages: "p.334-336"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 10
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_09_04:
+    title: "前置詞 in の用法(2)"
+    type: "pattern"
+    pages: "p.337-339"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_09_05:
+    title: "前置詞 on の用法(1)"
+    type: "pattern"
+    pages: "p.340-341"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_09_06:
+    title: "前置詞 on の用法(2)"
+    type: "pattern"
+    pages: "p.342-344"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_09_07:
+    title: "前置詞 at の用法"
+    type: "pattern"
+    pages: "p.345-347"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_09_08:
+    title: "前置詞 from の用法(1)"
+    type: "pattern"
+    pages: "p.348-349"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_09_09:
+    title: "前置詞 from の用法(2)"
+    type: "pattern"
+    pages: "p.350-351"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: "v001(▶プラスα tell A from B)含む"
+  Nar_09_10:
+    title: "前置詞 to の用法(1)"
+    type: "pattern"
+    pages: "p.352-353"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+
 summary:
   total_sections: 162
-  completed: 100
+  completed: 110
   in_progress: 0
-  not_started: 62
-  total_knowledge_nodes: 100
-  total_sentences: 546
+  not_started: 52
+  total_knowledge_nodes: 110
+  total_sentences: 626

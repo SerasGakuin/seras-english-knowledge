@@ -1,0 +1,103 @@
+# Nar_09_06: 前置詞 on の用法(2) (p.342-344)
+
+sentences:
+  - id: "nar-0906-e530"
+    section_id: "Nar_09_06"
+    drill: 0
+    number: 530
+    role: "example"
+    english: "He still depends on his parents for financial support."
+    japanese: "彼はまだ親に金銭的な援助を頼っている"
+    notes: "依存のon。「べったり」→親に依存。depend on"
+  - id: "nar-0906-e531"
+    section_id: "Nar_09_06"
+    drill: 0
+    number: 531
+    role: "example"
+    english: "We act on the instructions of our superior."
+    japanese: "上司の指示に従って行動する"
+    notes: "根拠のon。行動の拠り所(=依存先)が上司の指示→act on"
+  - id: "nar-0906-e532"
+    section_id: "Nar_09_06"
+    drill: 0
+    number: 532
+    role: "example"
+    english: "The meeting was on Monday."
+    japanese: "会議は月曜日にあった"
+    notes: "特定の日・曜日のon。暦に「依る（寄り添う）」感覚→on"
+  - id: "nar-0906-e533"
+    section_id: "Nar_09_06"
+    drill: 0
+    number: 533
+    role: "example"
+    english: "I borrowed a book on Shakespeare from the library."
+    japanese: "私は図書館からシェークスピアに関する本を借りた"
+    notes: "「〜について」のon。べったり→特化・専門性。aboutより専門性が高い"
+  - id: "nar-0906-e534"
+    section_id: "Nar_09_06"
+    drill: 0
+    number: 534
+    role: "example"
+    english: "I watch a soccer game on the Internet."
+    japanese: "私はインターネットでサッカーの試合を見る"
+    notes: "通信手段のon。情報が電波/電線にのっかって届く感覚"
+  - id: "nar-0906-e535"
+    section_id: "Nar_09_06"
+    drill: 0
+    number: 535
+    role: "example"
+    english: "My wife died on me."
+    japanese: "妻に先立たれて困った"
+    notes: "不利益・災難のon。不利益なことがのしかかっている。Dinner's on me.（おごり）も同類"
+
+sentence_structures:
+  - sentence_id: "nar-0906-e530"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "nar-0906-e530"
+    label: "details"
+    value: "<He>(S) still depends(V) [on his parents](M:on/依存) [for financial support](M)"
+  - sentence_id: "nar-0906-e531"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0906-e531"
+    label: "details"
+    value: "<We>(S) act(V) [on the instructions of our superior](M:on/根拠)"
+  - sentence_id: "nar-0906-e532"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0906-e532"
+    label: "details"
+    value: "<The meeting>(S) was(V) [on Monday](M:on/日付)"
+  - sentence_id: "nar-0906-e533"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0906-e533"
+    label: "details"
+    value: "<I>(S) borrowed(V) <a book [on Shakespeare]>(O) [from the library](M)"
+  - sentence_id: "nar-0906-e534"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0906-e534"
+    label: "details"
+    value: "<I>(S) watch(V) <a soccer game>(O) [on the Internet](M:on/通信手段)"
+  - sentence_id: "nar-0906-e535"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0906-e535"
+    label: "details"
+    value: "<My wife>(S) died(V) [on me](M:on/不利益)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0906-e530"
+    node_id: "nrp-006"
+  - sentence_id: "nar-0906-e531"
+    node_id: "nrp-006"
+  - sentence_id: "nar-0906-e532"
+    node_id: "nrp-006"
+  - sentence_id: "nar-0906-e533"
+    node_id: "nrp-006"
+  - sentence_id: "nar-0906-e534"
+    node_id: "nrp-006"
+  - sentence_id: "nar-0906-e535"
+    node_id: "nrp-006"

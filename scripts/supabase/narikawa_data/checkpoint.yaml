@@ -1,35 +1,35 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-03T12:00:00"
+updated_at: "2026-03-03T14:00:00"
 book: "成川の深めて解ける！英文法 INPUT"
 book_slug: "narikawa"
 
 current_state:
-  phase: "Phase 2 - B-09 完了 / B-10 開始"
-  current_section: "Nar_09_01"
+  phase: "Phase 2 - B-10 完了 / B-11 開始"
+  current_section: "Nar_09_11"
   current_step: "バッチ準備"
-  last_completed_section: "Nar_08_13"
+  last_completed_section: "Nar_09_10"
   last_completed_gate: 5
 
 progress:
   total_sections: 162
-  completed: 100
+  completed: 110
   in_progress: 0
-  remaining: 62
-  total_nodes: 100
-  total_sentences: 546
+  remaining: 52
+  total_nodes: 110
+  total_sentences: 626
 
 recent_decisions:
-  - "nrs-015〜027: B-09完了。13セクション・13ノード・英文64件。Gate4でページ範囲修正4件"
+  - "nrp-001〜010: B-10完了。10セクション・10ノード・英文80件。Gate3でoverall修正3件(e521,e523,e568)"
 
 active_concerns: []
 
 next_actions:
-  - "B-10 開始: Part 09 前半 前置詞 (Nar_09_01〜09_10, 10セクション)"
-  - "ch09.yaml を新規作成（nrp カテゴリ）"
+  - "B-11 開始: Part 09 後半 前置詞 (Nar_09_11〜09_20, 10セクション)"
+  - "ch09.yaml にnrp-011〜020を追加"
   - "manifest.yamlに10セクション追加→sections.yamlに定義追加"
-  - "Nar_09_01から構造化開始"
+  - "Nar_09_11から構造化開始"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"
