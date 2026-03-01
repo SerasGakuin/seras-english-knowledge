@@ -1,0 +1,1086 @@
+# Part 3: 準動詞（テーマ12〜16）
+
+knowledge_nodes:
+  - id: "kjd-001"
+    name: "不定詞の3用法判別と名詞的・形容詞的用法"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      核心: 品詞（名詞・形容詞・副詞）の役割を意識する
+      ■ to不定詞の正体
+      ・動詞にtoをつけることで品詞を変える（名詞・形容詞・副詞の3つに）
+      ・名詞的用法: S/O/Cになる（「〜すること」）
+      ・形容詞的用法: 名詞を修飾する（「〜するための/〜すべき」など）
+      ・副詞的用法: 名詞以外を修飾する（「〜するために/〜して」など）
+      ■ 判別法: 日本語訳からではなく「形」から判別する
+      ・日本語訳ありきで判別 → 難単語で訳せないと判別不能＋処理時間がかかる
+      ・正しい思考: 英文中での役割・品詞から → 各用法の意味を考える
+      ■ 文頭To〜の判別
+      ・主語になる → 名詞的用法（「〜すること」）
+      ・主語にならない → 副詞的用法（原則「〜するために」）
+      ※実際の英文（入試等）では副詞的用法が圧倒的に多い
+      ■ to不定詞と前置詞toの判別
+      ・to＋動詞の原形 → to不定詞
+      ・to＋名詞（代名詞・動名詞）→ 前置詞to
+      ■ 名詞的用法: S/O/Cになる
+      ・Sになる: [To sing songs] is fun for her. ※動詞はisに一致（直前のsongsではない）
+      ・Oになる: He wants [to go shopping].
+      ・Cになる: My dream is [to travel to Mars].
+      ■ 仮主語（形式主語）構文
+      ・英語は主語が長くなることを嫌う → to〜を後ろに回し、主語をItで埋める
+      ・It = 仮主語（日本語訳なし、「それ」と訳さない）、to〜 = 真主語
+      ■ 形容詞的用法: 後ろから名詞を修飾
+      ・日本語は「前から修飾」、不定詞は「後ろから修飾」
+      ・訳は「ゆるく」考えてよい（「〜するための」に固執しない）
+      ■ -thingの修飾パターン
+      ・something to drink「何か飲み物」/ nothing to do「することが何もない」
+      ・-thing＋形容詞＋to do: something cold to drink「何か冷たい飲み物」
+      ■ 特定の抽象名詞＋to
+      ・toを伴いやすい抽象名詞: plan/need/decision/ability/attempt/time/chance/way
+      前提知識との差分: 中学では日本語訳から判別するが、高校では形（文中での役割）から判別する。3用法・仮主語は中学範囲だが入試でもよく出る
+
+  - id: "kjd-002"
+    name: "副詞的用法の4つの意味（目的・結果・感情の理由・限定）"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      副詞的用法 = 名詞以外を修飾するto〜
+      ■ ①目的「〜するために」
+      ・基本の意味。動詞を修飾する
+      ■ ②結果「〜してその結果」(2パターン)
+      ・パターン1: 無意志動詞＋to → 自分の意志でコントロールできない動作
+        live to〜「〜するまで生きる」/ grow up to〜「成長して〜になる」/ wake[awake] to〜「目が覚めて〜する」
+      ・パターン2: 熟語
+        SV, only to〜「SVだが、結局〜しただけ」/ SV, never to〜「SVして、二度と〜しない」
+        ※only to・never toの直前にコンマをつけることが多いが、なくてもOK
+      ■ ③感情の理由「〜して」
+      ・感情表現（happy/glad/sad/sorry/surprised等）の後ろのto不定詞 → その感情の理由
+      ・「まず感情を示す → その理由をtoで付け足す」という流れ
+      ■ ④限定「〜する点において」
+      ・形容詞・副詞の後のto〜が範囲を限定
+      ・too ... to〜「あまりに…なので〜できない」 ※本来は「〜するという点において…すぎる」
+      ・... enough to〜「〜するのに十分…」 ※本来は「〜するという点において十分…」
+
+  - id: "kjd-003"
+    name: "不定詞の意味上の主語・否定形・完了不定詞"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      ■ 意味上の主語: for[人] to〜
+      ・to不定詞の動作を「誰がするのか」を示す
+      ・「[人]にとって」ではなく「[人]が」と訳す（中学では「にとって」と教わるが高校では不適切）
+      ■ forとofの区別
+      ・原則: for[人]
+      ・例外: 「人の性質を示す形容詞」の場合 → of[人]
+      ・of形容詞: kind/nice/honest/smart/clever/wise/careless/foolish/absurd/stupid/rude
+      ・判別法: 「君って○○だよね」と自然に言えればof
+      ・It is kind of you to〜 = 「〜してくれてありがとう」（慣用的意訳）
+      ■ 否定形: not to〜
+      ・notをtoの直前に置く
+      ・notは不定詞だけを否定する（主節の動詞は否定しない）
+      ■ in order to〜/so as to〜
+      ・副詞的用法の「目的」をハッキリさせる表現
+      ・in order for[人] to〜: 意味上の主語を組み込む形
+      ・否定形: in order not to〜/so as not to〜（notはtoの直前）
+      ※so as to〜はfor[人]を置けない
+      ■ so〜as to... vs so as to〜の区別
+      ・soが離れる（so〜as to...）= so〜that...（結果/程度）
+        ①結果「とても〜なので…だ」 ②程度「…なくらい〜だ」 → まず結果で考え、不自然なら程度に
+      ・soがくっつく（so as to〜）= so that〜（目的）「〜するために」
+      [図表: 表 — so〜as to vs so as to の整理（p.181）]
+      ■ 完了不定詞: to have p.p.
+      ・普通の不定詞（to＋原形）: 主節と「同時」または「先（未来）」の時制
+      ・完了不定詞（to have p.p.）: 主節の動詞より「1つ前の時制」
+      [図表: 図 — 普通の不定詞（同時）vs 完了不定詞（1つ前）の時制関係を矢印で図示（p.183）]
+      ・seem to be〜（同時）vs seem to have been〜（1つ前）
+      ・be said to have p.p.「〜したと言われている」
+      ・be believed to have p.p.「〜したと信じられている」
+      前提知識との差分: 中学ではfor[人]を「[人]にとって」と教わるが、高校・入試では「[人]が」と考える
+
+  - id: "kjd-004"
+    name: "to不定詞の「未来志向」とtoをとる動詞3分類"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      核心: 不定詞は「未来志向」
+      ■ toの矢印イメージ
+      ・toには矢印（⇒）のイメージがある。「気持ちが向かう方向」を表す
+      ・to不定詞は単に「〜すること」ではなく「これから〜すること」のニュアンスを持つ
+      ■ toをとる動詞3分類
+      (1) プラスイメージ: 前向き未来志向。ポジティブな動詞が多い
+        want/hope/would like/plan/mean/decide/agree/offer/try/manage/afford/come/get/learn
+        ※manage to〜「何とか〜やり遂げる」: succeed（成功する）のニュアンス。前向きな語
+      (2) 単発のイメージ: 「これから（とりあえず1回）起こる」→ 単発
+        happen to〜「たまたま〜する」/ pretend to〜「〜のふりをする」
+        seem to〜・appear to〜「〜のようだ」/ prove to〜・turn out to〜「〜だと判明する」
+        ※「（普段は違うけど）今回だけは〜」の発想
+      (3) 拒否のイメージ: 「前向き」ではないが「未来志向」（これから〜するのを断る）
+        refuse to〜「〜を拒む」/ hesitate to〜「〜をためらう」
+        fail to〜「〜しない・できない」 ※fail in〜「〜に失敗する」と区別
+        never fail to〜「必ず〜する」
+      ■ 裏ワザ: 未知の動詞＋to〜の推測法
+      ・知らない動詞でも"動詞＋to〜"の形なら「これから〜する」で意味を推測できる
+      ・このルールで例外は(3)拒否だけ → 拒否をチェックしておけばフル活用可能
+      前提知識との差分: 中学ではwant/plan/try/decideなど少数を暗記。高校では数が増え暗記に限界→「未来志向」で体系的に理解
+
+  - id: "kjd-005"
+    name: "be to構文（「これから〜することになっている」）"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      ■ be toの真の意味
+      ・直訳: 「これから〜する（to）状態だ（be）」→「これから〜することになっている」
+      ・従来教えられる5つの意味（予定/意図/義務/可能/運命）はすべてこの中に集約される
+      ・5つの意味は互いに重なり合っている。無理に1つを選ぶ必要はない
+      ■ 和訳問題への対応
+      ・基本は「〜することになっている」で十分
+      ・入試の和訳問題で自然な日本語が求められたときだけ、5つの訳し方からベストを選べばよい
+      ■ 名詞的用法（SVC）との区別
+      ・be to構文: are toが「1つの助動詞」として機能。S≠to以下
+        例: They are to be married.（They≠to be married）
+      ・名詞的用法: S＝Cが成立
+        例: My dream is to live in Madrid.（My dream＝to live in Madrid）
+      ・ニュース英語やセンター試験リスニングでも出る実用的な表現
+      参考書内参照: →p.236「受動態」（be to blameについて）
+
+  - id: "kjd-006"
+    name: "不定詞の慣用表現（3分類）"
+    category: "準動詞"
+    priority: "P2"
+    notes: |
+      不定詞を使った慣用表現を3つに分けて整理
+      ■ (1) 文構造・動詞がポイントとなるもの
+      ・All S have to do is {to}[原形]〜「Sは〜しさえすればよい」
+        ※関係代名詞thatが省略。全体はSVC構造。toは省略可能
+        [図表: 表 — All you have to do is to 〜 のSVC構造（p.192）]
+      ・know better than to〜「〜しないだけの分別がある（〜するほどバカではない）」
+      ・be to blame「責められるべきである」
+        参考書内参照: →p.236「受動態」
+      ・feel free to〜「自由に〜してよい」
+      ■ (2) 副詞句として使われるもの
+      ・to be honest「正直に言って」/ to be frank「率直に言って」/ to be sure「確かに」
+      ・to tell the truth「実を言うと」/ to begin[start] with「まず最初に」
+      ・to make matters worse「さらに悪いことには」※make OCの形
+      ・so to speak「いわば」
+      ・come to think of it「考えてみれば」※本来When I come to think of itなので副詞句扱い
+      ■ (3) be 形容詞 to〜 の形になるもの
+      ※どれも"be 形容詞 to"を「1つの助動詞」と考える
+      ・be able to〜「〜できる」/ be unable to〜「〜できない」
+      ・be about to〜「まさに〜するところだ」
+        ※aboutは本来「周りに」→「これから〜する周りにいる」→「まさに〜するところ」
+      ・be anxious to〜「〜したがる」
+      ・be sure to〜「きっと〜する」/ be due to〜「〜する予定だ」
+      ・be likely to〜「〜しそうだ」/ be unlikely to〜「〜しそうにない」
+      ・be ready to〜「〜する準備ができている」
+      ・be willing to〜「進んで〜する・〜するのをいとわない」
+        ※積極的なイメージだという誤解が多いが、消極的なニュアンスの場合もある
+      ・be unwilling[reluctant] to〜「〜したがらない」
+
+  - id: "kjd-007"
+    name: "動名詞の基本（名詞としての働き・バリエーション）"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      核心: 動名詞は「反復／中断／逃避」のイメージ
+      ■ 動名詞の正体
+      ・動名詞 = 動詞が名詞になったもの（「カレーパン」は結局「パン」）
+      ・意味: 動詞（〜する）＋名詞（〜こと）＝「〜すること」
+      ・動詞の性質も残す（目的語をとれる）: playing the piano「ピアノを弾くこと」
+      ■ 動名詞の働き（＝名詞の働きと同じ）
+      ・Sになる / Oになる / Cになる / 前置詞のOになる
+      ■ be動詞の後の-ingの区別
+      ・S＝-ingが成立 → 動名詞（My hobby is collecting old coins.）
+      ・S≠-ing → 進行形（He is collecting rocks.）
+      ■ 前置詞＋-ingの熟語
+      ・be interested in -ing / be fond of -ing / be afraid of -ing
+      ・be good at -ing / be poor at -ing / Thank you for -ing
+      ・How about -ing? / look forward to -ing（このtoは前置詞）
+      ■ 意味上の主語: 所有格か目的格を-ingの前に置く
+      ・文の主語と同じ → 示さない（暗黙の了解）
+      ・異なる → 所有格/目的格を-ingの前に（「〜が」と訳す）
+      ■ 否定形: not -ing
+      ・notを-ingの前に置くだけ
+      ■ 受動態: being p.p.
+      ・受動態be＋p.p.が動名詞化 → being p.p.「〜されること」
+
+  - id: "kjd-008"
+    name: "-ingをとる動詞の3イメージ（反復/中断/逃避）"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      「メガフェプス（megafeps）」のゴロ合わせでは対応できない動詞が多い → イメージで理解
+      ■ ①反復イメージ
+      (1) 実際に動作を反復する動詞
+        practice「練習する」/ enjoy「楽しむ」（繰り返して楽しむ・趣味）
+        be used to -ing「〜に慣れている」（反復して慣れる）※toは前置詞
+        get used to -ing「〜に慣れる」（beが動作を表すgetになった形）
+      (2) 頭の中で反復する思考系の動詞
+        mind「気にする」（イヤなことが頭の中でグルグル反復）
+        consider「考える」（あれこれグルグル考える）
+        imagine「想像する」（頭の中でグルグル想像）
+        look forward to -ing「〜を楽しみに待つ」（imagineの楽しいバージョン）
+      ■ ②中断イメージ（反復していたものが中断する）
+        stop・quit「やめる」/ give up「あきらめる」
+        finish「終える」（中断の延長で「終える」も-ingをとる）
+      ■ ③逃避イメージ（動名詞の本性。中断→投げ捨てて逃避する流れ）
+        miss「逃す」/ avoid・escape・help「避ける」
+        ※helpはcannot helpの形で使われる
+        参考書内参照: →p.209「cannot help -ingの詳細」
+        put off・postpone「延期する」（「明日でいいや」の現実逃避）
+        object to -ing・be opposed to -ing「反対する」（逃避→反対）
+      ■ Do[Would] you mind -ing?
+      ・「〜するのは嫌ですか」→「〜してくれませんか？」
+      前提知識との差分: 中学ではfinish/stop/enjoyくらいだが、高校では数が増える→イメージで体系的に理解
+
+  - id: "kjd-009"
+    name: "toと-ingで意味が変わる動詞（remember/forget/regret/mean/stop）"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      不定詞は「未来志向」、動名詞は「過去（もしくは過去〜現在）」
+      ■ (1) -ingが「過去」を表すパターン
+      ・remember to〜「（これから）〜するのを覚えている（忘れずにする）」
+        remember -ing「（過去に）〜したのを覚えている」
+      ・forget to〜「（これから）〜するのを忘れる」
+        forget -ing「（過去に）〜したのを忘れる」
+      ・regret to〜「残念ながら〜する」※直訳「これから〜したら後悔する」
+        regret -ing「（過去に）〜したのを後悔する」
+      ■ (2) -ingが「過去〜現在」を表すパターン
+      ・mean to〜「〜するつもり」※meanは「意図する」
+        mean -ing「〜という意味だ」
+      ・stop to〜「立ち止まって〜する」※stopは自動詞、toは副詞的用法
+        stop -ing「〜するのをやめる」
+        ※stop to〜の直訳「〜するために立ち止まる」→「ちょっと〜する」と意訳可能
+      [図表: 表 — to不定詞と動名詞の対照まとめ。動名詞（後ろ向き: 過去/消極的/反復）vs to不定詞（前向き: 未来/積極的/単発）（p.206）]
+
+  - id: "kjd-010"
+    name: "動名詞の慣用表現（3分類）"
+    category: "準動詞"
+    priority: "P2"
+    notes: |
+      ■ (1) 前置詞がポイントになるもの
+      ① 前置詞toを使ったもの
+        when it comes to -ing「〜することになると」※itは状況のit
+        in addition to〜「〜することに加えて」
+        What do you say to -ing?「〜するのはどうですか？」
+        ※前置詞toの本来の意味「方向・到達/対比」から理解する
+      ② to以外の前置詞を使ったもの
+        feel like -ing「〜したい」※前置詞like「〜のように」
+        It goes without saying that〜「言うまでもなく〜」
+        cannot〜without -ing「〜すれば必ず…する」
+        参考書内参照: →p.295
+        in -ing「〜するときに」※直訳「〜する範囲内において」
+        on[upon] -ing「〜するとすぐに」※接触のon
+      ■ (2) 文法的に注意を要するもの
+      ・cannot help -ing「つい（思わず）〜してしまう」
+        ※helpは「助ける」→「防ぐ」→「避ける」。avoid -ingと同じ感覚
+        ※「〜せざるをえない」より「反射的に思わず〜してしまう」が実用的
+      ・It is no good[use] -ing「〜しても無駄だ」※Itは仮主語、-ingが真主語
+      ・There is no -ing「〜できない」※本来There is no {way of} -ingなのでnoになる（notではない）
+      ・be worth -ing「〜する価値がある」※worthは前置詞
+      ■ (3) 前置詞が省略できるもの
+      ・be busy {in} -ing「〜するのに忙しい」
+      ・spend 時間・お金 {in・on} -ing「〜することに時間・お金を費やす」※前置詞は省略がほとんど
+      ・have difficulty[trouble・a hard time] {in} -ing「〜するのに苦労する」
+      ・lose no time {in} -ing「すぐに〜する」
+      ・be careful {in} -ing「注意して〜する」
+      ・take turns {in・at} -ing「交代で〜する」
+      ※前置詞省略は分詞構文との混同が原因（「〜しながら」の意味の類似）
+      参考書内参照: →テーマ16「分詞構文」
+      ※入試では省略された形が圧倒的に多い
+
+  - id: "kjd-011"
+    name: "分詞の形容詞的用法（名詞修飾と-ing/p.p.判別）"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      核心: 分詞は「形容詞」の働き／-ingは能動（〜する）、p.p.は受動（〜される）
+      ■ 分詞の2種類の意味（対になるのがポイント）
+      [図表: 表 — -ingとp.p.の意味対照（進行/完了、能動/受動）（p.215）]
+      ・-ing: 進行途中「〜している（途中）」/ 能動「〜する」
+      ・p.p.: 完了「〜してしまった」/ 受動「〜される」
+      ※意識すべきは「能動・受動」の視点
+      ■ 名詞を修飾するルール
+      ・1語なら前から修飾: the smiling boy
+      ・2語以上なら後ろから修飾: That dog running over there
+      ■ -ingとp.p.の判別法
+      ・名詞と分詞の間に「SVの関係」が成立する
+      ・能動関係「名詞が〜する」→ -ing
+      ・受動関係「名詞が〜される」→ p.p.
+      ■ 日本語訳につられない注意
+      ・the language spoken in Canada「カナダで話されている言語」
+      ・「話している」→ speakingというミスが多いが、英語の能動・受動関係で考える
+      前提知識との差分: 中学では分詞構文が出ないが、高校では-ingやp.p.を見たら分詞構文との区別が必要（分詞構文はテーマ16で扱う）
+
+  - id: "kjd-012"
+    name: "感情動詞の-ing/p.p.使い分け"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      ■ 感情動詞の正しい意味
+      ・感情動詞はほぼすべて「〜させる」という意味（他動詞）
+      ・surprise＝「驚く」ではなく「驚かせる」、interest＝「興味を持たせる」
+      ■ -ingとp.p.の判別
+      ・-ing → その気持ちにさせる（する側）/ その感情を他人に「与える」
+      ・p.p. → 気持ちにさせられる（される側）/ その感情を「与えられる」
+      ・p.p.は「〜させられる」→「〜した」（日本語の「〜した」に相当）
+      ■ 具体例
+      ・The film is exciting.「その映画は人をワクワクさせるようなものだ」
+      ・He is excited.「彼はワクワクさせられている→ワクワクしている」
+      ■ よくあるウソ（重要）
+      ・「主語が"人"ならp.p.、"物"なら-ing」→ やめるべき
+      ・反例: He is exciting.「彼は周りの人をワクワクさせるような人間だ」
+      ・正しい判別: 「させる」なら-ing、「させられる」ならp.p.
+
+  - id: "kjd-013"
+    name: "感情動詞チェックリスト（3分類＋例外）"
+    category: "準動詞"
+    priority: "P2"
+    notes: |
+      感情動詞は入試最重要項目。3分類＋例外で整理
+      ■ ☑ ワクワクさせる・感動させる・夢中にさせる（12語）
+      amuse「楽しませる」/ interest「興味を持たせる」/ excite「ワクワクさせる」
+      delight「喜ばせる」/ please「喜ばせる」/ satisfy「満足させる」
+      move「感動させる」※心を「動かす」/ touch「感動させる」※心に「触れる」
+      impress「感心させる・印象を与える」/ strike「印象を与える」※プラスイメージとは限らない
+      attract「興味を引く」/ fascinate「魅了する」
+      ※be pleased with〜「〜に喜んでいる・満足している」（withは「関連」）
+      ■ ☑ 驚かせる・疲れさせる・失望させる（12語）
+      surprise「驚かせる」/ amaze「驚かせる」※プラスイメージ/ astonish「驚かせる」
+      bore「退屈させる」/ tire「疲れさせる」/ exhaust「疲れさせる」
+      ※exhaustは「外に(ex)エネルギーを出す」→「どっと疲れさせる」
+      embarrass「恥ずかしい思いをさせる」※顔が赤くなるイメージ/ confuse「混乱させる」
+      depress「がっかりさせる」/ disappoint「がっかりさせる」/ discourage「がっかりさせる」
+      disgust「うんざりさせる」
+      ■ ☑ 怒らせる・狼狽させる・怖がらせる（8語）
+      annoy「イライラさせる」/ irritate「イライラさせる」※「イライラ」と音が似ている
+      upset「狼狽させる・むしゃくしゃさせる」※「ひっくり返す」→「心をひっくり返す」
+      ※upsetは無変化(upset-upset-upset)。「焦り」と「苛立ち」の2つの意味（文脈判断）
+      shock「ショックを与える」
+      scare「怖がらせる」/ frighten「怖がらせる」/ terrify「怖がらせる」/ alarm「心配させる」
+      ■ ☑ 例外（自動詞）（3語）※marvel以外は他動詞用法でもよく使われる
+      marvel「すごく驚く」/ fear「怖がる」/ relax「リラックスする」
+      ※marvelは自動詞で「〜させる」ではなく「〜する」
+
+  - id: "kjd-014"
+    name: "分詞構文の正体と見抜き方（-ingの副詞的用法）"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      核心: 分詞構文は副詞の働きをする-ingのこと／意味は「位置」によって決まる
+      ■ -ingの3用法
+      [図表: 表 — -ingの3用法（名詞→動名詞、形容詞→分詞、副詞→分詞構文）（p.225）]
+      ・-ingが名詞の働き → 動名詞
+      ・-ingが形容詞の働き → 分詞
+      ・-ingが副詞の働き → 分詞構文（「動副詞」）
+      ■ 分詞構文の見抜き方
+      ・主節（SV）がちゃんと存在して、その前後や間に割り込む-ingのカタマリ
+      ・副詞は「余分な要素」なので、-ingを取り除いても主節は成立する
+      ■ 分詞構文の成り立ち3ステップ
+      [図表: 表 — 分詞構文の成り立ち3ステップ（p.226）]
+      ①接続詞を消す ②主語も消す（主節の主語と同じ場合）③動詞を分詞（-ing）に変える
+      ※主語が違うなら「そのまま残す」（意味上の主語）
+      ※Beingの場合は省略可能
+      ■ -ingで始まる分詞構文
+      ・When she saw me, she ran away. → Seeing me, she ran away.
+      ■ p.p.で始まる分詞構文
+      ・受動態の場合、be動詞をbeingに変えるが、beingはほぼ100%省略される
+      ・Because it is written in~ → {Being} Written in simple English, this book is~
+      ■ 分詞構文と感情動詞のセット出題
+      ・分詞構文は感情動詞とセットで狙われることがよくある
+      参考書内参照: →p.217「感情動詞」（テーマ15）
+      ■ 従来の教え方への反論
+      ・「元の接続詞を考えよう」は不要。入試で「元の接続詞に戻しなさい」は出ない
+      ・「書き言葉でしか使われない」は誤り。ニュース番組でも頻繁に使われる
+      前提知識との差分: 分詞構文は完全に高校範囲。中学では出てこない
+
+  - id: "kjd-015"
+    name: "分詞構文の意味（位置で決まる）"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      ■ 分詞構文は「適当」に訳す
+      ・「あえて接続詞を使わない」のが分詞構文のポリシー
+      ・意味も「軽く・適当につなげる」感覚で十分
+      ・ネイティブがあえて接続詞を消した → 接続詞にこだわらなくてOK
+      ■ 意味は「位置」で決まる
+      [図表: 表 — 分詞構文の位置と意味の対照（文頭/文中/文末）（p.228）]
+      ①文頭: -ing〜, SV. → 適当な意味
+      ②文中: S, -ing〜, V. → 適当な意味 ※主語の説明になることが多い
+      ③文末: SV(,) -ing〜. → 「そして〜・〜しながら」
+      ■ 前・真ん中の場合: 「て」か「で」で訳す
+      ・「…して、SVだ」「…で、SVだ」と考えると大半の意味がとれる
+      ・「目が覚めて、病室にいると気づいた」→ 時? 理由? こだわらない
+      ■ 後ろの場合: 「そして〜」「〜しながら」
+      ・まず「そして」で考え、不自然なら「しながら」に切り替える
+      ■ 従来教えられる訳し方は丸暗記不要
+      ・時/原因・理由/条件/譲歩/付帯状況 → 覚えなくてOK
+      ・文法書の例文をチェック: 前にある例は時・原因、後ろにある例は付帯状況になっている
+
+  - id: "kjd-016"
+    name: "分詞構文のバリエーション（否定形・完了形・意味上の主語）"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      ■ 否定形: not -ing
+      ・notは-ingの前に置く（be動詞の場合もnot beingになる）
+      ■ 完了形: having p.p.
+      ・分詞構文そのものに時制はない（-ingでは「いつ」かわからない）
+      ・主節と同じ時制 → -ingのまま
+      ・主節より1つ前の時制 → having p.p.
+      ・ただし時制のズレが文脈から明らかな場合、-ingやp.p.のまま使うこともよくある
+      ■ 意味上の主語
+      ・分詞構文の主語と主節の主語が違うとき → 名詞を-ingの前にくっつける
+      ・There beingの形もある（There is構文の分詞構文化）
+      ※There isの場合の3準動詞対比: for there to be(不定詞) / there being(動名詞) / There being〜, SV(分詞構文)
+      ■ 準動詞バリエーションまとめ
+      [図表: 表 — 不定詞/動名詞/分詞構文の比較（意味上の主語/否定形/完了形/受動態）（p.231）]
+      ・意味上の主語: for人to〜(for there to be) / 所有格-ing(there being) / S-ing(There being〜, SV)
+      ・否定形: not to〜 / not -ing / not -ing
+      ・完了形: to have p.p. / having p.p. / having p.p.
+      ・受動態: to be p.p. / being p.p. / {being} p.p. ※beingは省略が普通
+
+  - id: "kjd-017"
+    name: "分詞構文の慣用表現（3分類）"
+    category: "準動詞"
+    priority: "P2"
+    notes: |
+      分詞構文の決まり文句。会話でも頻繁に使われる
+      ■ (1) 判断・発言系統
+      frankly speaking「率直に言えば」/ generally speaking「一般的に言えば」
+      strictly speaking「厳密に言えば」/ speaking of〜「〜と言えば」
+      talking of〜「〜と言えば」/ judging from〜「〜から判断すると」
+      taking〜into consideration「〜を考慮すると」
+      compared with[to]〜「〜と比べると」
+      ■ (2) 前置詞・接続詞の働きをするもの
+      ※辞書では「前置詞」と分類されるが、本来はすべて分詞構文
+      according to〜「〜によれば」/ during〜「〜の間」/ including〜「〜を含めて」
+      concerning〜・regarding〜「〜に関して」/ owing to〜「〜が原因で」
+      given〜「〜を考慮すると」
+      ■ (3) 意味上の主語がくっついたもの
+      ※分詞構文の主語と主節の主語が違うとき、名詞がそのまま残る
+      weather permitting「天気が良ければ」※「天気が許可(permit)すれば」
+      {all} other things being equal「他の条件が同じならば」
+      such being the case「そういうわけで」※「such＝そういうこと」が「真実(the case)で」
+      all things considered「すべてを考慮すると」
+      ※considering all thingsでもOK。All things {being} considered（beingは省略）
+      ※ほとんどの慣用表現は「意味上の主語ナシ」。(3)だけが意味上の主語を残したまま決まり文句化
+
+understanding_goals:
+  # kjd-001
+  - node_id: "kjd-001"
+    seq: 1
+    goal: "to不定詞が動詞の品詞を変える仕組み（名詞・形容詞・副詞の3つ）を理解する"
+  - node_id: "kjd-001"
+    seq: 2
+    goal: "3用法を日本語訳からではなく文中での形・役割から判別する方法を身につける"
+  - node_id: "kjd-001"
+    seq: 3
+    goal: "名詞的用法のS/O/Cの3パターンと仮主語構文（It...to〜）を理解する"
+  - node_id: "kjd-001"
+    seq: 4
+    goal: "形容詞的用法の「後ろから修飾」パターン（-thing修飾・抽象名詞＋to）を理解する"
+  # kjd-002
+  - node_id: "kjd-002"
+    seq: 1
+    goal: "副詞的用法の4つの意味（目的/結果/感情の理由/限定）を判別できる"
+  - node_id: "kjd-002"
+    seq: 2
+    goal: "無意志動詞（live/grow up/wake）＋toが「結果」を表すことを理解する"
+  - node_id: "kjd-002"
+    seq: 3
+    goal: "only to〜/never to〜の意味と使い方を理解する"
+  - node_id: "kjd-002"
+    seq: 4
+    goal: "感情形容詞の後のto不定詞が「理由」を表すことを理解する"
+  - node_id: "kjd-002"
+    seq: 5
+    goal: "too...to〜/enough to〜の構造と意味を正しく使える"
+  # kjd-003
+  - node_id: "kjd-003"
+    seq: 1
+    goal: "for[人]/of[人]の使い分け基準（人の性質を示す形容詞かどうか）を理解する"
+  - node_id: "kjd-003"
+    seq: 2
+    goal: "不定詞の否定形（not to〜）の位置と意味範囲を理解する"
+  - node_id: "kjd-003"
+    seq: 3
+    goal: "in order to〜/so as to〜の使い方と否定形・意味上の主語の置き方を理解する"
+  - node_id: "kjd-003"
+    seq: 4
+    goal: "so〜as to...（離れる=結果/程度）vs so as to〜（くっつく=目的）を区別できる"
+  - node_id: "kjd-003"
+    seq: 5
+    goal: "完了不定詞（to have p.p.）が「1つ前の時制」を表すことを理解する"
+  # kjd-004
+  - node_id: "kjd-004"
+    seq: 1
+    goal: "to不定詞の「未来志向」イメージ（矢印⇒）を理解し、toをとる動詞の理由を説明できる"
+  - node_id: "kjd-004"
+    seq: 2
+    goal: "toをとる動詞を3分類（プラス/単発/拒否）に整理し、各カテゴリの代表的な動詞を挙げられる"
+  - node_id: "kjd-004"
+    seq: 3
+    goal: "manage to/fail to/never fail toなど注意すべき表現の意味を正確に使い分けられる"
+  - node_id: "kjd-004"
+    seq: 4
+    goal: "未知の動詞＋to〜を見たとき「これから〜する」と推測する裏ワザを活用できる"
+  # kjd-005
+  - node_id: "kjd-005"
+    seq: 1
+    goal: "be to構文の核心「これから〜することになっている」を理解し、従来の5つの訳がこの意味に集約されることを説明できる"
+  - node_id: "kjd-005"
+    seq: 2
+    goal: "be to構文と名詞的用法（SVC: S＝C）を区別できる"
+  - node_id: "kjd-005"
+    seq: 3
+    goal: "be to構文を含む英文を正しく解釈できる"
+  # kjd-006
+  - node_id: "kjd-006"
+    seq: 1
+    goal: "不定詞の慣用表現を3分類（文構造/副詞句/be形容詞to）に整理できる"
+  - node_id: "kjd-006"
+    seq: 2
+    goal: "All S have to do is (to) 〜の構造（SVC）と意味を理解できる"
+  - node_id: "kjd-006"
+    seq: 3
+    goal: "副詞句として使われる慣用表現（to be honest等）の意味と用法を理解できる"
+  - node_id: "kjd-006"
+    seq: 4
+    goal: "be形容詞to〜の主要な表現（be likely to/be willing to等）の意味を正しく使い分けられる"
+  # kjd-007
+  - node_id: "kjd-007"
+    seq: 1
+    goal: "動名詞が「動詞が名詞になったもの」であることを理解し、S/O/C/前置詞のOの4つの働きを説明できる"
+  - node_id: "kjd-007"
+    seq: 2
+    goal: "be動詞の後の-ingが動名詞か進行形かを「S＝-ing」の成立で判別できる"
+  - node_id: "kjd-007"
+    seq: 3
+    goal: "前置詞＋-ingの代表的な熟語（look forward to -ing等）を知っている"
+  - node_id: "kjd-007"
+    seq: 4
+    goal: "動名詞の意味上の主語（所有格/目的格）・否定形（not -ing）・受動態（being p.p.）を理解する"
+  # kjd-008
+  - node_id: "kjd-008"
+    seq: 1
+    goal: "-ingをとる動詞を「反復/中断/逃避」の3イメージで体系的に理解できる"
+  - node_id: "kjd-008"
+    seq: 2
+    goal: "反復イメージの動詞（practice/enjoy/mind/consider/imagine等）を挙げ、なぜ-ingをとるか説明できる"
+  - node_id: "kjd-008"
+    seq: 3
+    goal: "中断イメージ（stop/quit/give up/finish）から逃避イメージ（miss/avoid/put off等）への流れを理解する"
+  - node_id: "kjd-008"
+    seq: 4
+    goal: "Do[Would] you mind -ing?の意味と使い方を理解する"
+  # kjd-009
+  - node_id: "kjd-009"
+    seq: 1
+    goal: "不定詞は「未来志向」、動名詞は「過去（〜現在）」という対比を理解する"
+  - node_id: "kjd-009"
+    seq: 2
+    goal: "remember/forget/regretでtoと-ingの意味差を正確に使い分けられる"
+  - node_id: "kjd-009"
+    seq: 3
+    goal: "stop to〜（副詞的用法/目的）とstop -ing（〜をやめる）の構造上の違いを説明できる"
+  # kjd-010
+  - node_id: "kjd-010"
+    seq: 1
+    goal: "動名詞の慣用表現を3分類（前置詞ポイント/文法注意/前置詞省略）で整理できる"
+  - node_id: "kjd-010"
+    seq: 2
+    goal: "前置詞toを使った慣用表現（when it comes to -ing等）で、toが前置詞であることを理解する"
+  - node_id: "kjd-010"
+    seq: 3
+    goal: "cannot help -ing / There is no -ing / be worth -ingの構造と意味を理解する"
+  - node_id: "kjd-010"
+    seq: 4
+    goal: "前置詞省略パターン（be busy -ing / spend 時間 -ing / have difficulty -ing等）を知り、省略の理由を説明できる"
+
+  # kjd-011
+  - node_id: "kjd-011"
+    seq: 1
+    goal: "分詞が「形容詞」の働きをすることを理解し、-ingとp.p.の2種類の意味（進行/完了、能動/受動）を説明できる"
+  - node_id: "kjd-011"
+    seq: 2
+    goal: "名詞修飾のルール（1語→前から、2語以上→後ろから）を理解し正しく使える"
+  - node_id: "kjd-011"
+    seq: 3
+    goal: "名詞と分詞の「SVの関係」から-ing（能動）とp.p.（受動）を判別できる"
+  - node_id: "kjd-011"
+    seq: 4
+    goal: "日本語訳につられず英語の能動・受動関係で判別する必要性を理解する"
+  # kjd-012
+  - node_id: "kjd-012"
+    seq: 1
+    goal: "感情動詞がほぼすべて「〜させる」という他動詞であることを理解する"
+  - node_id: "kjd-012"
+    seq: 2
+    goal: "感情動詞の-ing（させる側）とp.p.（させられる側）を正しく判別できる"
+  - node_id: "kjd-012"
+    seq: 3
+    goal: "「人→p.p.、物→-ing」というルールが不十分である理由と反例を説明できる"
+  # kjd-013
+  - node_id: "kjd-013"
+    seq: 1
+    goal: "感情動詞を3分類（ワクワク系/驚き系/怒り系）＋例外で整理できる"
+  - node_id: "kjd-013"
+    seq: 2
+    goal: "各分類の代表的な動詞を挙げ、「〜させる」の意味を正確に言える"
+  - node_id: "kjd-013"
+    seq: 3
+    goal: "例外の自動詞（marvel/fear/relax）が他の感情動詞と異なる点を説明できる"
+  - node_id: "kjd-013"
+    seq: 4
+    goal: "感情動詞のp.p.を使った頻出熟語（be pleased with/be satisfied with等）を知っている"
+
+  # kjd-014
+  - node_id: "kjd-014"
+    seq: 1
+    goal: "-ingが名詞・形容詞・副詞の3用法を持ち、副詞の働きをするものが分詞構文であることを理解する"
+  - node_id: "kjd-014"
+    seq: 2
+    goal: "分詞構文の成り立ち（接続詞消去→主語消去→動詞を-ingに）を説明できる"
+  - node_id: "kjd-014"
+    seq: 3
+    goal: "-ingで始まる分詞構文とp.p.で始まる分詞構文（being省略）を見抜ける"
+  - node_id: "kjd-014"
+    seq: 4
+    goal: "主節の主語と分詞構文の能動/受動関係から-ingとp.p.を正しく選べる"
+  # kjd-015
+  - node_id: "kjd-015"
+    seq: 1
+    goal: "分詞構文の意味が「位置」で決まることを理解する"
+  - node_id: "kjd-015"
+    seq: 2
+    goal: "文頭・文中の分詞構文を「て」「で」で適切に訳せる"
+  - node_id: "kjd-015"
+    seq: 3
+    goal: "文末の分詞構文を「そして〜」「〜しながら」で訳せる"
+  # kjd-016
+  - node_id: "kjd-016"
+    seq: 1
+    goal: "分詞構文の否定形（not -ing）の位置を正しく使える"
+  - node_id: "kjd-016"
+    seq: 2
+    goal: "分詞構文の完了形（having p.p.）が主節より1つ前の時制を表すことを理解する"
+  - node_id: "kjd-016"
+    seq: 3
+    goal: "分詞構文の意味上の主語が必要になる場面（主節と主語が異なる場合）を判断できる"
+  - node_id: "kjd-016"
+    seq: 4
+    goal: "不定詞・動名詞・分詞構文のバリエーション（意味上の主語/否定形/完了形/受動態）を対比的に整理できる"
+  # kjd-017
+  - node_id: "kjd-017"
+    seq: 1
+    goal: "分詞構文の慣用表現を3分類（判断・発言/前置詞化/意味上の主語付き）で整理できる"
+  - node_id: "kjd-017"
+    seq: 2
+    goal: "frankly speaking/judging from/compared with等の判断・発言系表現を使える"
+  - node_id: "kjd-017"
+    seq: 3
+    goal: "according to/concerning/regarding等が本来分詞構文であることを理解する"
+  - node_id: "kjd-017"
+    seq: 4
+    goal: "weather permitting/all things considered等の意味上の主語付き表現を使える"
+
+check_points:
+  # kjd-001
+  - node_id: "kjd-001"
+    seq: 1
+    question: "to不定詞と前置詞toをどう判別するか？"
+    answer: "後ろの形で判別する。to＋動詞の原形ならto不定詞、to＋名詞（代名詞・動名詞）なら前置詞to。"
+  - node_id: "kjd-001"
+    seq: 2
+    question: "文頭To〜が名詞的用法か副詞的用法かをどう判別するか？"
+    answer: "To〜が主語になるかどうかで判別。主語になる→名詞的用法、主語にならない（後ろにS+Vがある）→副詞的用法。"
+  - node_id: "kjd-001"
+    seq: 3
+    question: "It's difficult to wake up early. のItは何と訳すか？"
+    answer: "訳さない。Itは仮主語で日本語訳はない（「それ」とは訳さない）。真主語はto wake up early。"
+  - node_id: "kjd-001"
+    seq: 4
+    question: "「何か冷たい飲み物」を英語の語順で書くとどうなるか？"
+    answer: "something cold to drink（-thing＋形容詞＋to do の語順）。"
+  - node_id: "kjd-001"
+    seq: 5
+    question: "toを伴いやすい抽象名詞を3つ以上挙げよ。"
+    answer: "time/chance/way/plan/need/decision/ability/attempt の中から3つ以上。"
+  # kjd-002
+  - node_id: "kjd-002"
+    seq: 1
+    question: "He grew up to become a manga artist. のtoは「目的」か「結果」か？"
+    answer: "「結果」。grow upは無意志動詞（自分の意志でコントロールできない）なので、to以下は結果を表す。"
+  - node_id: "kjd-002"
+    seq: 2
+    question: "only to〜はどういう意味を表すか？"
+    answer: "「SVだが、結局〜しただけ」という結果（期待はずれ）の意味。"
+  - node_id: "kjd-002"
+    seq: 3
+    question: "I was happy to see him. のto seeは何用法のどの意味か？"
+    answer: "副詞的用法の「感情の理由」。感情表現happyの後のto不定詞は感情の理由（〜して）を表す。"
+  - node_id: "kjd-002"
+    seq: 4
+    question: "too...to〜はどういう意味を表すか？"
+    answer: "「あまりに…なので〜できない」。否定語がないのに否定の意味になる。本来は「〜する点において…すぎる」。"
+  # kjd-003
+  - node_id: "kjd-003"
+    seq: 1
+    question: "It is easy to do this. と It is kind of you to do this. でfor/ofが変わる理由は？"
+    answer: "easyは物事の性質→for、kindは人の性質→of。「君ってkindだよね」は自然、「君ってeasyだよね」は不自然。"
+  - node_id: "kjd-003"
+    seq: 2
+    question: "不定詞の否定形でnotはどこに置くか？"
+    answer: "toの直前。not to〜の形。notは不定詞だけを否定し、主節の動詞は否定しない。"
+  - node_id: "kjd-003"
+    seq: 3
+    question: "so〜as to...とso as to〜の意味の違いは？"
+    answer: "soが離れる（so〜as to...）=結果/程度「とても〜なので…」。soがくっつく（so as to〜）=目的「〜するために」。"
+  - node_id: "kjd-003"
+    seq: 4
+    question: "He is said to have been rich. はなぜ「以前は金持ちだった」の意味になるか？"
+    answer: "完了不定詞（to have p.p.）は主節の動詞より「1つ前の時制」を表す。is said（現在）の1つ前→過去。"
+  - node_id: "kjd-003"
+    seq: 5
+    question: "「忘れないように」をin order toを使って書くと？"
+    answer: "in order not to forget。否定のnotはtoの直前に置く。"
+  # kjd-004
+  - node_id: "kjd-004"
+    seq: 1
+    question: "to不定詞が「未来志向」とはどういう意味か？"
+    answer: "toは矢印（⇒）のイメージで「これから〜する」という方向性を表す。後ろにtoをとる動詞はどれも「これから〜する」ニュアンスを持つ。"
+  - node_id: "kjd-004"
+    seq: 2
+    question: "happen to/seem to/pretend toはなぜtoをとるのか？"
+    answer: "「単発のイメージ」。「（普段は違うけど）今回だけ〜する」というニュアンスがto不定詞の未来志向と合致する。"
+  - node_id: "kjd-004"
+    seq: 3
+    question: "fail to〜とfail in〜の違いは？"
+    answer: "fail to〜「〜しない・できない」、fail in〜「〜に失敗する」。意味が異なるので区別が必要。"
+  - node_id: "kjd-004"
+    seq: 4
+    question: "never fail to〜はどういう意味か？"
+    answer: "「必ず〜する」。直訳は「〜しないことは決してない」。"
+  - node_id: "kjd-004"
+    seq: 5
+    question: "知らない動詞＋to〜の形が出たらどう推測するか？"
+    answer: "「これから〜する」と考えれば意味がとれることが多い。ただし拒否のイメージ（refuse/hesitate/fail）のみ例外なので、そこだけチェックする。"
+  # kjd-005
+  - node_id: "kjd-005"
+    seq: 1
+    question: "be to構文の核心の意味は？"
+    answer: "「これから〜することになっている」。従来教えられる5つの意味（予定・意図・義務・可能・運命）はすべてこの中に集約される。"
+  - node_id: "kjd-005"
+    seq: 2
+    question: "They are to be married.のbe toは名詞的用法（SVC）か、be to構文か？"
+    answer: "be to構文。are toが1つの助動詞として機能し、They≠to be marriedなのでSVC（S＝C）は不成立。"
+  - node_id: "kjd-005"
+    seq: 3
+    question: "My dream is to live in Madrid.はbe to構文か？"
+    answer: "いいえ、名詞的用法（SVC）。My dream＝to live in Madrid（S＝C）が成立するため。"
+  - node_id: "kjd-005"
+    seq: 4
+    question: "The children are to be in bed by nine.はどう訳すか？"
+    answer: "「子どもたちは9時までに寝ることになっている」。文脈によっては「義務」（〜しなければならない）のニュアンスも可能。"
+  # kjd-006
+  - node_id: "kjd-006"
+    seq: 1
+    question: "All you have to do is (to) send the letter.の文構造は？"
+    answer: "SVC。All (that) you have to doがS、isがV、(to) send the letterがC。関係代名詞thatが省略されている。toは省略可能。"
+  - node_id: "kjd-006"
+    seq: 2
+    question: "to tell the truthやto be honestは何用法か？"
+    answer: "副詞句として文全体を修飾する慣用表現。「実を言うと」「正直に言って」。"
+  - node_id: "kjd-006"
+    seq: 3
+    question: "be willing to〜はどういう意味か？"
+    answer: "「進んで〜する・〜するのをいとわない」。積極的なイメージだという誤解が多いが、消極的なニュアンスの場合もある。"
+  - node_id: "kjd-006"
+    seq: 4
+    question: "to make matters worseはどういう意味で、make OCの何にあたるか？"
+    answer: "「さらに悪いことには」。makeはOCの使役動詞で、matters＝O、worse＝C。"
+  - node_id: "kjd-006"
+    seq: 5
+    question: "be about to〜のaboutはどういう意味か？"
+    answer: "aboutは本来「周りに」を表す。「これから〜する周りにいる」→「まさに〜するところだ」。"
+  # kjd-007
+  - node_id: "kjd-007"
+    seq: 1
+    question: "My hobby is collecting old coins. の-ingは動名詞か進行形か？"
+    answer: "動名詞。S(My hobby)＝-ing(collecting old coins)が成立するので動名詞。S≠-ingなら進行形。"
+  - node_id: "kjd-007"
+    seq: 2
+    question: "look forward to -ingのtoはなぜ前置詞か？"
+    answer: "toの後に-ing（名詞相当）が来ているので前置詞。to不定詞ならto＋動詞の原形になるはず。"
+  - node_id: "kjd-007"
+    seq: 3
+    question: "動名詞の意味上の主語はどこに、どんな形で置くか？"
+    answer: "-ingの前に所有格または目的格を置く。文の主語と同じ場合は示さない（暗黙の了解）。"
+  - node_id: "kjd-007"
+    seq: 4
+    question: "動名詞の否定形と受動態の形は？"
+    answer: "否定形: not -ing（notを-ingの前に置く）。受動態: being p.p.（be＋p.p.が動名詞化した形）。"
+  # kjd-008
+  - node_id: "kjd-008"
+    seq: 1
+    question: "なぜメガフェプス（megafeps）のゴロ合わせだけでは不十分なのか？"
+    answer: "対応できない動詞が多い。イメージ（反復/中断/逃避）で体系的に理解するほうが応用が利く。"
+  - node_id: "kjd-008"
+    seq: 2
+    question: "mindが-ingをとるのはなぜか？"
+    answer: "イヤなことが頭の中でグルグル反復するイメージだから（思考系の反復）。"
+  - node_id: "kjd-008"
+    seq: 3
+    question: "finishが-ingをとるのはなぜか？"
+    answer: "「中断」の延長で「終える」も-ingをとると考える。反復していたものが中断→終了の流れ。"
+  - node_id: "kjd-008"
+    seq: 4
+    question: "put off/postponeが-ingをとるのはなぜか？"
+    answer: "「明日でいいや」の現実逃避のイメージ。延期の根底に逃避がある。"
+  - node_id: "kjd-008"
+    seq: 5
+    question: "be used to -ingのtoは何か？"
+    answer: "前置詞。反復して慣れるイメージから動名詞がくる。get used to -ingも同様。"
+  # kjd-009
+  - node_id: "kjd-009"
+    seq: 1
+    question: "remember to〜とremember -ingの意味の違いは？"
+    answer: "to〜「（これから）忘れずに〜する」、-ing「（過去に）〜したのを覚えている」。toは未来志向、-ingは過去。"
+  - node_id: "kjd-009"
+    seq: 2
+    question: "regret to tell youはどういう意味か？"
+    answer: "「残念ながらお伝えします」。直訳「これから言ったら後悔する」→「残念ながら〜する」。regret -ingなら「過去に〜したのを後悔する」。"
+  - node_id: "kjd-009"
+    seq: 3
+    question: "stop to〜のstopとtoの品詞は？"
+    answer: "stopは自動詞「立ち止まる」、toは副詞的用法（目的）。stop -ingとは構造自体が異なる。"
+  - node_id: "kjd-009"
+    seq: 4
+    question: "to不定詞と動名詞のイメージ対比を簡潔にまとめよ。"
+    answer: "動名詞=後ろ向き（過去/消極的/反復）、to不定詞=前向き（未来/積極的/単発）。"
+  # kjd-010
+  - node_id: "kjd-010"
+    seq: 1
+    question: "when it comes to -ingのtoは何か？"
+    answer: "前置詞。後ろに-ingが来ていることからも分かる。前置詞toの本来の意味「方向・到達/対比」から理解する。"
+  - node_id: "kjd-010"
+    seq: 2
+    question: "cannot help -ingのhelpはどういう意味か？"
+    answer: "「避ける」（avoid相当）。helpの意味変遷: 助ける→防ぐ→避ける。「〜せざるをえない」より「反射的に思わず〜してしまう」が実用的。"
+  - node_id: "kjd-010"
+    seq: 3
+    question: "There is no -ingでnoが使われnot -ingにならない理由は？"
+    answer: "本来There is no {way of} -ingだから。名詞wayを否定するnoが使われる。"
+  - node_id: "kjd-010"
+    seq: 4
+    question: "be worth -ingのworthの品詞は？"
+    answer: "前置詞。前置詞の後に-ingがくるので動名詞。"
+  - node_id: "kjd-010"
+    seq: 5
+    question: "spend 時間 -ingの-ingの前の前置詞は何が省略されているか？"
+    answer: "in（またはon）。分詞構文との混同で省略されるようになった。入試では省略形が圧倒的に多い。"
+
+  # kjd-011
+  - node_id: "kjd-011"
+    seq: 1
+    question: "the smiling boyで-ingが前に来る理由は？"
+    answer: "分詞が1語なので前から修飾するルール。2語以上なら後ろから（例: the woman walking towards us）。"
+  - node_id: "kjd-011"
+    seq: 2
+    question: "the language spoken in Taiwanを「話している」と考えて-ingにしてはいけない理由は？"
+    answer: "日本語訳につられてはいけない。英語では「言語が話される」という受動関係なのでp.p.(spoken)を使う。"
+  - node_id: "kjd-011"
+    seq: 3
+    question: "分詞が名詞を修飾するとき、-ingかp.p.かをどう判別するか？"
+    answer: "名詞と分詞の間のSVの関係で判別。能動関係（名詞が〜する）→-ing、受動関係（名詞が〜される）→p.p.。"
+  # kjd-012
+  - node_id: "kjd-012"
+    seq: 1
+    question: "surpriseの正しい意味は「驚く」「驚かせる」のどちらか？"
+    answer: "「驚かせる」。感情動詞はほぼすべて「〜させる」という他動詞。"
+  - node_id: "kjd-012"
+    seq: 2
+    question: "The film is exciting. と He is excited. の違いは？"
+    answer: "excitingは「ワクワクさせるようなもの」（する側）、excitedは「ワクワクさせられた→ワクワクしている」（される側）。"
+  - node_id: "kjd-012"
+    seq: 3
+    question: "He is exciting. は正しい英語か？"
+    answer: "正しい。「彼は周りの人をワクワクさせるような人間だ」の意味。「人→p.p.」のルールは不十分。"
+  # kjd-013
+  - node_id: "kjd-013"
+    seq: 1
+    question: "exhaustの語源と意味は？"
+    answer: "「外に(ex)エネルギーを出す」→「どっと疲れさせる」。He is exhausted.「疲れきっている」。"
+  - node_id: "kjd-013"
+    seq: 2
+    question: "upsetの2つの意味は？"
+    answer: "「焦り（狼狽させる）」と「苛立ち（むしゃくしゃさせる）」。原義は「ひっくり返す」→「心をひっくり返す」。文脈判断。"
+  - node_id: "kjd-013"
+    seq: 3
+    question: "marvelが他の感情動詞と違う点は？"
+    answer: "自動詞で「すごく驚く」。他の感情動詞は「〜させる」（他動詞）だがmarvelは「〜する」。"
+  - node_id: "kjd-013"
+    seq: 4
+    question: "be pleased with〜の意味は？"
+    answer: "「〜に喜んでいる・満足している」。withは「関連（〜について）」を表す前置詞。"
+
+  # kjd-014
+  - node_id: "kjd-014"
+    seq: 1
+    question: "分詞構文の正体を一言で言うと？"
+    answer: "「-ingが副詞の働きをするもの」（動副詞）。主節(SV)が存在し、その前後や間に割り込む-ingのカタマリ。"
+  - node_id: "kjd-014"
+    seq: 2
+    question: "p.p.で始まる分詞構文ではbeingはどうなるか？"
+    answer: "ほぼ100%省略される。いきなりp.p.から始まっても分詞構文であることは明白だから。"
+  - node_id: "kjd-014"
+    seq: 3
+    question: "Seen from above,...で-ingではなくp.p.が使われる理由は？"
+    answer: "主節の主語が「見られる」という受動関係→p.p.。日本語「見ると」につられて-ingにしない。"
+  # kjd-015
+  - node_id: "kjd-015"
+    seq: 1
+    question: "分詞構文の訳し方を5つ覚える必要はあるか？"
+    answer: "不要。位置で意味が決まる。文頭/文中→「て・で」で訳す、文末→「そして〜・〜しながら」。"
+  - node_id: "kjd-015"
+    seq: 2
+    question: "文末の分詞構文はまず何で訳してみるか？"
+    answer: "「そして〜」で訳す（前から意味をとれるので簡単）。不自然なら「〜しながら」に切り替える。"
+  - node_id: "kjd-015"
+    seq: 3
+    question: "Feeling sleepy, he took a nap.を「て」で訳すと？"
+    answer: "「眠くなって、彼は昼寝をした」。「眠くなったので」でもOK。分詞構文は適当に訳す。"
+  # kjd-016
+  - node_id: "kjd-016"
+    seq: 1
+    question: "分詞構文の否定形でnotはどこに置くか？"
+    answer: "-ingの前。not -ingの形。be動詞の場合もnot beingになる。"
+  - node_id: "kjd-016"
+    seq: 2
+    question: "having p.p.はいつ使うか？"
+    answer: "分詞構文が主節より1つ前の時制を表すとき。ただし文脈から明らかなら-ingのまま使うこともある。"
+  - node_id: "kjd-016"
+    seq: 3
+    question: "分詞構文の意味上の主語はいつ必要か？"
+    answer: "分詞構文の主語と主節の主語が違うとき。-ingの前に名詞をくっつける。"
+  # kjd-017
+  - node_id: "kjd-017"
+    seq: 1
+    question: "frankly speakingは何の慣用表現か？"
+    answer: "分詞構文の慣用表現（判断・発言系統）。「率直に言えば」。"
+  - node_id: "kjd-017"
+    seq: 2
+    question: "concerning/regardingはなぜ辞書で前置詞として載っているのか？"
+    answer: "本来は分詞構文だが、前置詞の働きをするようになったため。「〜に関して」。"
+  - node_id: "kjd-017"
+    seq: 3
+    question: "weather permittingの仕組みは？"
+    answer: "分詞構文の意味上の主語付き慣用表現。weatherが意味上の主語で「天気が許可(permit)すれば」→「天気が良ければ」。"
+
+node_prerequisites:
+  - node_id: "kjd-002"
+    prerequisite_id: "kjd-001"
+  - node_id: "kjd-003"
+    prerequisite_id: "kjd-001"
+  - node_id: "kjd-004"
+    prerequisite_id: "kjd-001"
+  - node_id: "kjd-005"
+    prerequisite_id: "kjd-004"
+  - node_id: "kjd-006"
+    prerequisite_id: "kjd-001"
+  - node_id: "kjd-007"
+    prerequisite_id: "kjd-001"
+  - node_id: "kjd-008"
+    prerequisite_id: "kjd-007"
+  - node_id: "kjd-009"
+    prerequisite_id: "kjd-008"
+  - node_id: "kjd-009"
+    prerequisite_id: "kjd-004"
+  - node_id: "kjd-010"
+    prerequisite_id: "kjd-007"
+  - node_id: "kjd-012"
+    prerequisite_id: "kjd-011"
+  - node_id: "kjd-013"
+    prerequisite_id: "kjd-012"
+  - node_id: "kjd-015"
+    prerequisite_id: "kjd-014"
+  - node_id: "kjd-016"
+    prerequisite_id: "kjd-014"
+  - node_id: "kjd-017"
+    prerequisite_id: "kjd-014"
+
+knowledge_references:
+  # Kaku_12
+  - node_id: "kjd-001"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    pages: "p.172-178"
+  - node_id: "kjd-002"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    pages: "p.178-181"
+  - node_id: "kjd-003"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    pages: "p.178-183"
+  - node_id: "kjd-004"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    pages: "p.173-178"
+  # Kaku_13
+  - node_id: "kjd-005"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    pages: "p.184-190"
+  - node_id: "kjd-006"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    pages: "p.184-195"
+  # Kaku_14
+  - node_id: "kjd-007"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    pages: "p.196-201"
+  - node_id: "kjd-008"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    pages: "p.201-206"
+  - node_id: "kjd-009"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    pages: "p.201-206"
+  - node_id: "kjd-010"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    pages: "p.206-213"
+  # Kaku_15
+  - node_id: "kjd-011"
+    book: "英文法の核心"
+    section_id: "Kaku_15"
+    pages: "p.214-218"
+  - node_id: "kjd-012"
+    book: "英文法の核心"
+    section_id: "Kaku_15"
+    pages: "p.217-220"
+  - node_id: "kjd-013"
+    book: "英文法の核心"
+    section_id: "Kaku_15"
+    pages: "p.218-224"
+  # Kaku_16
+  - node_id: "kjd-014"
+    book: "英文法の核心"
+    section_id: "Kaku_16"
+    pages: "p.225-227"
+  - node_id: "kjd-015"
+    book: "英文法の核心"
+    section_id: "Kaku_16"
+    pages: "p.227-229"
+  - node_id: "kjd-016"
+    book: "英文法の核心"
+    section_id: "Kaku_16"
+    pages: "p.230-231"
+  - node_id: "kjd-017"
+    book: "英文法の核心"
+    section_id: "Kaku_16"
+    pages: "p.231-233"

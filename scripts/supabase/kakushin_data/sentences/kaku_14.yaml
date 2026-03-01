@@ -1,0 +1,539 @@
+sentences:
+  # === 例文 (e01〜e20) ===
+
+  # --- kjd-007: 動名詞の基本 ---
+
+  - id: "kaku-14-e01"
+    english: "Speaking in English is difficult."
+    japanese: "英語で話すことは難しい。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "動名詞がSになるパターン"
+
+  - id: "kaku-14-e02"
+    english: "Tim began using a new kind of shampoo."
+    japanese: "ティムは新しい種類のシャンプーを使い始めました。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "動名詞がOになるパターン。直訳「使うことを始めた」"
+
+  - id: "kaku-14-e03"
+    english: "My hobby is collecting trading cards."
+    japanese: "私の趣味はトレーディングカードを集めることです。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "動名詞がCになるパターン。S＝-ingが成立→動名詞"
+
+  - id: "kaku-14-e04"
+    english: "Paula walked for three hours without stopping."
+    japanese: "ポーラは3時間、立ち止まらずに歩きました。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "動名詞が前置詞のOになるパターン。without -ing「〜しないで」"
+
+  - id: "kaku-14-e05"
+    english: "Betty is interested in learning about koalas."
+    japanese: "ベティはコアラについて学ぶことに興味を持っています。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "前置詞＋-ingの熟語。be interested in -ing「〜することに興味がある」"
+
+  - id: "kaku-14-e06"
+    english: "He loves her dancing."
+    japanese: "彼は、彼女が踊ることが大好きです。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "動名詞の意味上の主語。herが-ingの意味上の主語（「彼女が」と訳す）"
+
+  - id: "kaku-14-e07"
+    english: "He insisted on not singing there."
+    japanese: "彼はそこで歌わないことを言い張った。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "動名詞の否定形。not -ing（notを-ingの前に置く）"
+
+  - id: "kaku-14-e08"
+    english: "He likes being praised in front of others."
+    japanese: "彼は人前で褒められるのを好む。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "動名詞の受動態。being praised「褒められること」"
+
+  # --- kjd-008: -ingをとる動詞の3イメージ ---
+
+  - id: "kaku-14-e09"
+    english: "He is used to driving a big car."
+    japanese: "彼は大きな車を運転するのに慣れている。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "反復イメージ(1)。be used to -ing「〜に慣れている」（反復して慣れる）。toは前置詞"
+
+  - id: "kaku-14-e10"
+    english: "Would you mind turning down your music?"
+    japanese: "音楽の音量を下げてもらえませんか？"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "反復イメージ(2)思考系。Do[Would] you mind -ing?「〜してくれませんか？」"
+
+  - id: "kaku-14-e11"
+    english: "I'm looking forward to seeing you again next time."
+    japanese: "また次回お会いできるのを楽しみにしております。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "反復イメージ(2)思考系。「imagineの楽しいバージョン」。toは前置詞"
+
+  - id: "kaku-14-e12"
+    english: "My father gave up eating ramen because he thinks it isn't healthy."
+    japanese: "ラーメンは健康に良くないと考えているので、父はラーメンを食べるのをやめました。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "中断イメージ。give up -ing「〜をあきらめる」"
+
+  - id: "kaku-14-e13"
+    english: "Yuki has been putting off buying a new smartphone."
+    japanese: "ユキは新しいスマホを買うのを先延ばしにし続けている。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "逃避イメージ。put off -ing「〜を延期する」（「明日でいいや」の現実逃避）"
+
+  # --- kjd-009: toと-ingで意味が変わる動詞 ---
+
+  - id: "kaku-14-e14"
+    english: "Remember to bring an umbrella!"
+    japanese: "傘を持ってくるのを忘れないでね！"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "remember to〜「（これから）忘れずに〜する」。未来志向"
+
+  - id: "kaku-14-e15"
+    english: "I remember meeting the woman, but I can't remember her name."
+    japanese: "その女性に会ったことは覚えているのだけれども、彼女の名前が思い出せない。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "remember -ing「（過去に）〜したのを覚えている」。e14と対比して理解"
+
+  - id: "kaku-14-e16"
+    english: "Himari got tired, so she stopped running."
+    japanese: "ヒマリは疲れたので、走るのをやめました。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "stop -ing「〜するのをやめる」"
+
+  - id: "kaku-14-e17"
+    english: "Brenda stopped to talk with Kazuma."
+    japanese: "ブレンダは立ち止まってカズマと話しました。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "stop to〜「立ち止まって〜する」。stopは自動詞、toは副詞的用法（目的）。直訳「話すために立ち止まった」"
+
+  # --- kjd-010: 動名詞の慣用表現 ---
+
+  - id: "kaku-14-e18"
+    english: "What do you say to dining out tonight?"
+    japanese: "今夜、外食するのはどう？"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "慣用表現(1)前置詞to。What do you say to -ing?「〜するのはどうですか？」"
+
+  - id: "kaku-14-e19"
+    english: "I couldn't help smiling when I saw the baby."
+    japanese: "その赤ちゃんを見て、つい笑みがこぼれてしまった。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "慣用表現(2)文法注意。cannot help -ing「つい〜してしまう」。helpは「避ける」（avoid相当）"
+
+  - id: "kaku-14-e20"
+    english: "She spent seven hours drawing the picture."
+    japanese: "彼女はその絵を描くのに7時間使った。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "example"
+    drill: 1
+    notes: "慣用表現(3)前置詞省略。spend 時間 {in・on} -ing。前置詞は省略がほとんど"
+
+  # === CHECK (c01〜c03) ===
+
+  - id: "kaku-14-c01"
+    english: "Her doctor insists on her resting for a few days."
+    japanese: "医者は彼女が数日間休みをとるように言っている。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "check"
+    drill: 0
+    notes: "CHECK(1)。insist on -ing「〜と主張する」＋意味上の主語her。herは「彼女が」と訳す"
+
+  - id: "kaku-14-c02"
+    english: "If you are going out, remember to lock the door."
+    japanese: "もし出かけるなら、ドアの鍵を閉めるのを忘れないでね。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "check"
+    drill: 0
+    notes: "CHECK(2)。remember to〜「忘れずに〜する」（未来志向）。remember -ingだと過去の意味になりアウト"
+
+  - id: "kaku-14-c03"
+    english: "My mother has been busy preparing her research report."
+    japanese: "母は研究論文の準備でずっと忙しい。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "check"
+    drill: 0
+    notes: "CHECK(3)。be busy {in} -ing「〜するのに忙しい」。前置詞inが省略"
+
+  # === 入試問題 (x01〜x04) ===
+
+  - id: "kaku-14-x01"
+    english: "I'm not used to being called by my first name."
+    japanese: "私は下の名前で呼ばれるのに慣れていない。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "exam"
+    drill: 0
+    notes: "出典: 中部大学。be used to -ing「〜に慣れている」（toは前置詞）＋動名詞の受動態being called"
+
+  - id: "kaku-14-x02"
+    english: "Do you mind opening the window?"
+    japanese: "窓を開けてくれませんか？"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "exam"
+    drill: 0
+    notes: "出典: 中部大学。Do you mind -ing?「〜してくれませんか？」。他選択肢: with opening/to open/open"
+
+  - id: "kaku-14-x03"
+    english: "She tried to avoid answering my question."
+    japanese: "彼女は私の質問に答えないようにした。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "exam"
+    drill: 0
+    notes: "出典: 立命館大学。avoid -ing「〜を避ける」（逃避イメージ）。try to〜とavoid -ingが同一文中に"
+
+  - id: "kaku-14-x04"
+    english: "My son spends hours chatting with his friends on his cellphone every night."
+    japanese: "息子は毎晩、携帯電話で友人と何時間もおしゃべりする。"
+    book: "英文法の核心"
+    section_id: "Kaku_14"
+    role: "exam"
+    drill: 0
+    notes: "出典: 千葉工業大学。spend 時間 {in・on} -ing「〜に時間を費やす」。前置詞省略"
+
+sentence_structures:
+  # e01
+  - sentence_id: "kaku-14-e01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-14-e01"
+    label: "details"
+    value: "<Speaking in English>(S:動名詞句) is(V) difficult(C)"
+
+  # e02
+  - sentence_id: "kaku-14-e02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-14-e02"
+    label: "details"
+    value: "Tim(S) began(V) [using a new kind of shampoo](O:動名詞句)"
+
+  # e03
+  - sentence_id: "kaku-14-e03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-14-e03"
+    label: "details"
+    value: "<My hobby>(S) is(V) [collecting trading cards](C:動名詞句)"
+
+  # e04
+  - sentence_id: "kaku-14-e04"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "kaku-14-e04"
+    label: "details"
+    value: "Paula(S) walked(V) [for three hours](M:時間) [without stopping](M:前置詞+動名詞)"
+
+  # e05
+  - sentence_id: "kaku-14-e05"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-14-e05"
+    label: "details"
+    value: "Betty(S) is interested(V) [in learning about koalas](C:前置詞+動名詞句)"
+
+  # e06
+  - sentence_id: "kaku-14-e06"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-14-e06"
+    label: "details"
+    value: "He(S) loves(V) [her dancing](O:動名詞+意味上の主語her)"
+
+  # e07
+  - sentence_id: "kaku-14-e07"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-14-e07"
+    label: "details"
+    value: "He(S) insisted(V) [on not singing there](M:前置詞+動名詞否定形)"
+
+  # e08
+  - sentence_id: "kaku-14-e08"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "kaku-14-e08"
+    label: "details"
+    value: "He(S) likes(V) [being praised](O:動名詞受動態) [in front of others](M:場所)"
+
+  # e09
+  - sentence_id: "kaku-14-e09"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-14-e09"
+    label: "details"
+    value: "He(S) is used(V) [to driving a big car](C:前置詞to+動名詞)"
+
+  # e10
+  - sentence_id: "kaku-14-e10"
+    label: "overall"
+    value: "V O"
+  - sentence_id: "kaku-14-e10"
+    label: "details"
+    value: "Would you mind(V:疑問文) [turning down your music](O:動名詞句)?"
+
+  # e11
+  - sentence_id: "kaku-14-e11"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-14-e11"
+    label: "details"
+    value: "I(S) 'm looking forward(V) [to seeing you again next time](M:前置詞to+動名詞句)"
+
+  # e12
+  - sentence_id: "kaku-14-e12"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "kaku-14-e12"
+    label: "details"
+    value: "<My father>(S) gave up(V) [eating ramen](O:動名詞句) [because he thinks it isn't healthy](M:理由の副詞節)"
+
+  # e13
+  - sentence_id: "kaku-14-e13"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-14-e13"
+    label: "details"
+    value: "Yuki(S) has been putting off(V) [buying a new smartphone](O:動名詞句)"
+
+  # e14
+  - sentence_id: "kaku-14-e14"
+    label: "overall"
+    value: "V O"
+  - sentence_id: "kaku-14-e14"
+    label: "details"
+    value: "Remember(V:命令文) [to bring an umbrella](O:to不定詞/未来志向)!"
+
+  # e15
+  - sentence_id: "kaku-14-e15"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-14-e15"
+    label: "details"
+    value: "I(S) remember(V) [meeting the woman](O:動名詞/過去), but I can't remember her name"
+
+  # e16
+  - sentence_id: "kaku-14-e16"
+    label: "overall"
+    value: "S V C S V O"
+  - sentence_id: "kaku-14-e16"
+    label: "details"
+    value: "Himari(S) got(V) tired(C), so she(S) stopped(V) [running](O:動名詞)"
+
+  # e17
+  - sentence_id: "kaku-14-e17"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-14-e17"
+    label: "details"
+    value: "Brenda(S) stopped(V:自動詞「立ち止まった」) [to talk with Kazuma](M:副詞的用法/目的)"
+
+  # e18
+  - sentence_id: "kaku-14-e18"
+    label: "overall"
+    value: "O V S M"
+  - sentence_id: "kaku-14-e18"
+    label: "details"
+    value: "What(O) do you say(V) [to dining out](M:前置詞to+動名詞) [tonight](M:時)?"
+
+  # e19
+  - sentence_id: "kaku-14-e19"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "kaku-14-e19"
+    label: "details"
+    value: "I(S) couldn't help(V) [smiling](O:動名詞) [when I saw the baby](M:時の副詞節)"
+
+  # e20
+  - sentence_id: "kaku-14-e20"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "kaku-14-e20"
+    label: "details"
+    value: "She(S) spent(V) [seven hours](O:時間) [drawing the picture](M:動名詞句/前置詞in省略)"
+
+  # c01
+  - sentence_id: "kaku-14-c01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-14-c01"
+    label: "details"
+    value: "<Her doctor>(S) insists(V) [on her resting for a few days](M:前置詞+動名詞+意味上の主語)"
+
+  # c02
+  - sentence_id: "kaku-14-c02"
+    label: "overall"
+    value: "M V O"
+  - sentence_id: "kaku-14-c02"
+    label: "details"
+    value: "[If you are going out](M:条件の副詞節), remember(V:命令文) [to lock the door](O:to不定詞/未来志向)"
+
+  # c03
+  - sentence_id: "kaku-14-c03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-14-c03"
+    label: "details"
+    value: "<My mother>(S) has been(V) [busy preparing her research report](C:be busy -ing)"
+
+  # x01
+  - sentence_id: "kaku-14-x01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-14-x01"
+    label: "details"
+    value: "I(S) 'm not used(V) [to being called by my first name](C:前置詞to+動名詞受動態)"
+
+  # x02
+  - sentence_id: "kaku-14-x02"
+    label: "overall"
+    value: "V O"
+  - sentence_id: "kaku-14-x02"
+    label: "details"
+    value: "Do you mind(V:疑問文) [opening the window](O:動名詞句)?"
+
+  # x03
+  - sentence_id: "kaku-14-x03"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-14-x03"
+    label: "details"
+    value: "She(S) tried to avoid(V) [answering my question](O:動名詞句)"
+
+  # x04
+  - sentence_id: "kaku-14-x04"
+    label: "overall"
+    value: "S V O M M"
+  - sentence_id: "kaku-14-x04"
+    label: "details"
+    value: "<My son>(S) spends(V) hours(O:時間) [chatting with his friends on his cellphone](M:動名詞句/前置詞in省略) [every night](M:時)"
+
+sentence_knowledge_tags:
+  # 動名詞の基本 (kjd-007)
+  - sentence_id: "kaku-14-e01"
+    node_id: "kjd-007"
+  - sentence_id: "kaku-14-e02"
+    node_id: "kjd-007"
+  - sentence_id: "kaku-14-e03"
+    node_id: "kjd-007"
+  - sentence_id: "kaku-14-e04"
+    node_id: "kjd-007"
+  - sentence_id: "kaku-14-e05"
+    node_id: "kjd-007"
+  - sentence_id: "kaku-14-e06"
+    node_id: "kjd-007"
+  - sentence_id: "kaku-14-e07"
+    node_id: "kjd-007"
+  - sentence_id: "kaku-14-e08"
+    node_id: "kjd-007"
+  - sentence_id: "kaku-14-c01"
+    node_id: "kjd-007"
+  - sentence_id: "kaku-14-x01"
+    node_id: "kjd-007"
+
+  # -ingをとる動詞の3イメージ (kjd-008)
+  - sentence_id: "kaku-14-e09"
+    node_id: "kjd-008"
+  - sentence_id: "kaku-14-e10"
+    node_id: "kjd-008"
+  - sentence_id: "kaku-14-e11"
+    node_id: "kjd-008"
+  - sentence_id: "kaku-14-e12"
+    node_id: "kjd-008"
+  - sentence_id: "kaku-14-e13"
+    node_id: "kjd-008"
+  - sentence_id: "kaku-14-x01"
+    node_id: "kjd-008"
+  - sentence_id: "kaku-14-x02"
+    node_id: "kjd-008"
+  - sentence_id: "kaku-14-x03"
+    node_id: "kjd-008"
+
+  # toと-ingで意味が変わる動詞 (kjd-009)
+  - sentence_id: "kaku-14-e14"
+    node_id: "kjd-009"
+  - sentence_id: "kaku-14-e15"
+    node_id: "kjd-009"
+  - sentence_id: "kaku-14-e16"
+    node_id: "kjd-009"
+  - sentence_id: "kaku-14-e17"
+    node_id: "kjd-009"
+  - sentence_id: "kaku-14-c02"
+    node_id: "kjd-009"
+
+  # 動名詞の慣用表現 (kjd-010)
+  - sentence_id: "kaku-14-e18"
+    node_id: "kjd-010"
+  - sentence_id: "kaku-14-e19"
+    node_id: "kjd-010"
+  - sentence_id: "kaku-14-e20"
+    node_id: "kjd-010"
+  - sentence_id: "kaku-14-c03"
+    node_id: "kjd-010"
+  - sentence_id: "kaku-14-x04"
+    node_id: "kjd-010"

@@ -1,0 +1,604 @@
+sentences:
+  # === 例文 (e01〜e21) ===
+
+  - id: "kaku-12-e01"
+    english: "To steal money is a crime."
+    japanese: "お金を盗むことは犯罪です。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 1
+    notes: "名詞的用法（Sになる）。文頭To〜が主語 → 名詞的用法と判別する例"
+
+  - id: "kaku-12-e02"
+    english: "To steal money, he entered the room."
+    japanese: "お金を盗むために、彼はその部屋に入った。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 1
+    notes: "副詞的用法（目的）。文頭To〜だが後ろにS+Vがあり主語にならない → 副詞的用法と判別。e01との対比"
+
+  - id: "kaku-12-e03"
+    english: "It's difficult to wake up early."
+    japanese: "早起きすることは難しい。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 1
+    notes: "仮主語構文。It=仮主語、to wake up early=真主語。元はTo wake up early is difficult."
+
+  - id: "kaku-12-e04"
+    english: "Would you like something to drink?"
+    japanese: "何か飲み物はいかがですか？"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 1
+    notes: "形容詞的用法（-thing修飾）。something←to drink（後ろから修飾）。Would you like〜?「〜はいかがですか？」"
+
+  - id: "kaku-12-e05"
+    english: "There's nothing hot to eat. There are only sandwiches."
+    japanese: "温かい食べ物は何もありません。サンドイッチしかないです。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 1
+    notes: "形容詞的用法（-thing＋形容詞＋to do）。nothing←hot, to eat（形容詞とto〜の両方が後ろから修飾）"
+
+  - id: "kaku-12-e06"
+    english: "Masaki had no time to take a shower."
+    japanese: "マサキはシャワーを浴びる時間がありませんでした。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 1
+    notes: "形容詞的用法（抽象名詞＋to）。time←to take a shower（後ろから修飾）"
+
+  - id: "kaku-12-e07"
+    english: "She went to Starbucks to study."
+    japanese: "彼女は勉強するためにスタバに行きました。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 0
+    notes: "副詞的用法（目的）。to studyがwentを修飾。基本的な目的用法の導入例"
+
+  - id: "kaku-12-e08"
+    english: "He grew up to become a manga artist."
+    japanese: "彼は（大きくなってから）マンガ家になった。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 1
+    notes: "副詞的用法（結果/無意志動詞）。grow upは自分の意志でコントロールできない動作 → to以下は「結果」"
+
+  - id: "kaku-12-e09"
+    english: "I hurried to the airport only to find that the plane had already left."
+    japanese: "私は空港へ急いだが、飛行機はすでに出発してしまっていた。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 2
+    notes: "副詞的用法（結果/only to）。SV, only to〜「SVだが、結局〜しただけ」。直訳「結局は飛行機がすでに出発したことがわかっただけ」"
+
+  - id: "kaku-12-e10"
+    english: "I was happy to see my old friend again."
+    japanese: "旧友と再会できて、私は嬉しかったです。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 1
+    notes: "副詞的用法（感情の理由）。感情表現happyの後のto不定詞 → 感情の理由「〜して」"
+
+  - id: "kaku-12-e11"
+    english: "The piano was too heavy to carry."
+    japanese: "そのピアノは重すぎて運べなかった。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 1
+    notes: "副詞的用法（限定/too...to）。too...to〜「あまりに…なので〜できない」。本来は「運ぶという点において重すぎる」"
+
+  - id: "kaku-12-e12"
+    english: "The piano was small enough to fit in my room."
+    japanese: "そのピアノは私の部屋に入るほど小さかったです（部屋に入る大きさでした）。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 1
+    notes: "副詞的用法（限定/enough to）。...enough to〜「〜するのに十分…」。本来は「部屋にフィットするという点において十分小さい」"
+
+  - id: "kaku-12-e13"
+    english: "It's normal for him to sleep 10 hours."
+    japanese: "彼が10時間寝るのは普通のことです。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 1
+    notes: "意味上の主語（for[人]）。for him=意味上の主語。「[人]にとって」ではなく「[人]が」と訳す"
+
+  - id: "kaku-12-e14"
+    english: "This problem is too difficult for us to solve."
+    japanese: "この問題は、私たちが解くには難しすぎます。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 2
+    notes: "意味上の主語（for[人]）＋too...to〜の複合。for us=意味上の主語がtoo...to構文に入った形"
+
+  - id: "kaku-12-e15"
+    english: "It's very kind of you to come."
+    japanese: "来てくれてどうもありがとう。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 2
+    notes: "意味上の主語（of[人]）。kind=人の性質を示す形容詞 → ofを使う。直訳「来てくれるとはあなたはとても優しい」→ 意訳「〜してくれてありがとう」"
+
+  - id: "kaku-12-e16"
+    english: "I left home early so as to be in time for the meeting."
+    japanese: "会議に間に合うように家を早く出た。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 1
+    notes: "so as to〜（目的の明示）。in time for〜「〜に間に合う」"
+
+  - id: "kaku-12-e17"
+    english: "She stepped aside in order for me to pass."
+    japanese: "彼女は、私が通るために、脇へどいてくれた。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 1
+    notes: "in order for[人] to〜。in order to〜の中に意味上の主語for[人]を置く形"
+
+  - id: "kaku-12-e18"
+    english: "My father wrote down the password in order not to forget it."
+    japanese: "父は、忘れないように、パスワードを書き留めた。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 1
+    notes: "in order not to〜（否定の目的）。notはtoの直前に置く。write down「書き留める」"
+
+  - id: "kaku-12-e19"
+    english: "She was so kind as to help me."
+    japanese: "彼女はとても親切だったので、私の手助けをしてくれた。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 2
+    notes: "so〜as to...（離れるパターン=結果/程度）。= so〜that...と同じ意味。soとas toが離れている → 結果"
+
+  - id: "kaku-12-e20"
+    english: "My father is saving money so that he can buy a new car."
+    japanese: "父は新車を買うためにお金を貯めている。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 0
+    notes: "so that〜（目的）。so as to〜 = so that〜の等価関係を示す比較例。soとthatがくっつく → 目的"
+
+  - id: "kaku-12-e21"
+    english: "He is said to have been rich."
+    japanese: "彼は（以前は）お金持ちだったと言われている。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "example"
+    drill: 1
+    notes: "完了不定詞（to have p.p.）。be said to have p.p.「〜したと言われている」。is said（現在）→ to have been（1つ前=過去）"
+
+  # === CHECK (c01〜c03) ===
+
+  - id: "kaku-12-c01"
+    english: "She wanted something to drink."
+    japanese: "彼女は飲み物を欲しがっていた。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "check"
+    drill: 2
+    notes: "CHECK(1)。形容詞的用法の不定詞to drinkを選ぶ。-thingで終わる単語をtoが後ろから修飾"
+
+  - id: "kaku-12-c02"
+    english: "The stew was too hot for the boy to eat."
+    japanese: "シチューが熱すぎて、その少年は口にすることができなかった。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "check"
+    drill: 2
+    notes: "CHECK(2)。too...to〜の形。意味上の主語for the boyが入った形。tooを選択"
+
+  - id: "kaku-12-c03"
+    english: "My father is said to have been a famous singer."
+    japanese: "父は有名な歌手だったと言われている。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "check"
+    drill: 2
+    notes: "CHECK(3)。完了不定詞to have p.p.。be said to have p.p.「〜したと言われている」。have beenを選択"
+
+  # === 入試問題 (x01〜x04) ===
+
+  - id: "kaku-12-x01"
+    english: "It's difficult for my grandmother to walk up the stairs at the station."
+    japanese: "私の祖母は駅の階段を歩いて上るのが難しい。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "exam"
+    drill: 2
+    notes: "入試(1)。出典: 関東学院大学。仮主語構文＋意味上の主語for my grandmother。It'sを選択"
+
+  - id: "kaku-12-x02"
+    english: "It was careless of him to make such a mistake."
+    japanese: "そんなミスをするなんて彼は不注意だったね。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "exam"
+    drill: 2
+    notes: "入試(2)。出典: 京都女子大学。careless=人の性質を示す形容詞 → ofを選択"
+
+  - id: "kaku-12-x03"
+    english: "She drove to the station, only to find that her train was cancelled."
+    japanese: "彼女は駅まで車で行ったが、自分が乗る電車は運休だった。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "exam"
+    drill: 2
+    notes: "入試(3)。出典: 駒澤大学。SV, only to〜（結果）。onlyを選択。in order toでは文意が通らない"
+
+  - id: "kaku-12-x04"
+    english: "The thief was believed to have entered the house by breaking a window."
+    japanese: "その泥棒は窓を割って家に入ったと考えられていた。"
+    book: "英文法の核心"
+    section_id: "Kaku_12"
+    role: "exam"
+    drill: 2
+    notes: "入試(4)。出典: 日本大学。完了不定詞（to have p.p.）。be believed to have p.p.「〜したと信じられている」。was believedを選択"
+
+sentence_structures:
+  # e01
+  - sentence_id: "kaku-12-e01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-12-e01"
+    label: "details"
+    value: "<To steal money>(S:to不定詞/名詞的用法) is(V) <a crime>(C)"
+
+  # e02
+  - sentence_id: "kaku-12-e02"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "kaku-12-e02"
+    label: "details"
+    value: "<To steal money>(M:to不定詞/副詞的用法/目的), <he>(S) entered(V) <the room>(O)"
+
+  # e03
+  - sentence_id: "kaku-12-e03"
+    label: "overall"
+    value: "S V C (真S)"
+  - sentence_id: "kaku-12-e03"
+    label: "details"
+    value: "<It>(S:仮主語) is(V) difficult(C) <to wake up early>(真S:to不定詞)"
+
+  # e04
+  - sentence_id: "kaku-12-e04"
+    label: "overall"
+    value: "助動詞 S V O"
+  - sentence_id: "kaku-12-e04"
+    label: "details"
+    value: "Would(助動詞) <you>(S) like(V) <something to drink>(O) ※something←to drink(形容詞的用法)"
+
+  # e05
+  - sentence_id: "kaku-12-e05"
+    label: "overall"
+    value: "There V S / There V M S"
+  - sentence_id: "kaku-12-e05"
+    label: "details"
+    value: "There is(V) <nothing hot to eat>(S) ※nothing←hot, to eat(形容詞的用法). There are(V) only(M) <sandwiches>(S)"
+
+  # e06
+  - sentence_id: "kaku-12-e06"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-12-e06"
+    label: "details"
+    value: "<Masaki>(S) had(V) <no time to take a shower>(O) ※time←to take a shower(形容詞的用法)"
+
+  # e07
+  - sentence_id: "kaku-12-e07"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "kaku-12-e07"
+    label: "details"
+    value: "<She>(S) went(V) <to Starbucks>(M:前置詞句) <to study>(M:to不定詞/副詞的用法/目的)"
+
+  # e08
+  - sentence_id: "kaku-12-e08"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-12-e08"
+    label: "details"
+    value: "<He>(S) grew up(V:句動詞/無意志動詞) <to become a manga artist>(M:to不定詞/副詞的用法/結果)"
+
+  # e09
+  - sentence_id: "kaku-12-e09"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "kaku-12-e09"
+    label: "details"
+    value: "<I>(S) hurried(V) <to the airport>(M:前置詞句) <only to find that the plane had already left>(M:to不定詞/副詞的用法/結果)"
+
+  # e10
+  - sentence_id: "kaku-12-e10"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "kaku-12-e10"
+    label: "details"
+    value: "<I>(S) was(V) happy(C) <to see my old friend again>(M:to不定詞/副詞的用法/感情の理由)"
+
+  # e11
+  - sentence_id: "kaku-12-e11"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "kaku-12-e11"
+    label: "details"
+    value: "<The piano>(S) was(V) <too heavy>(C) <to carry>(M:to不定詞/副詞的用法/限定)"
+
+  # e12
+  - sentence_id: "kaku-12-e12"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "kaku-12-e12"
+    label: "details"
+    value: "<The piano>(S) was(V) <small enough>(C) <to fit in my room>(M:to不定詞/副詞的用法/限定)"
+
+  # e13
+  - sentence_id: "kaku-12-e13"
+    label: "overall"
+    value: "S V C (真S)"
+  - sentence_id: "kaku-12-e13"
+    label: "details"
+    value: "<It>(S:仮主語) is(V) normal(C) <for him to sleep 10 hours>(真S:for[人]+to不定詞/意味上の主語)"
+
+  # e14
+  - sentence_id: "kaku-12-e14"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "kaku-12-e14"
+    label: "details"
+    value: "<This problem>(S) is(V) <too difficult>(C) <for us to solve>(M:to不定詞/限定+意味上の主語)"
+
+  # e15
+  - sentence_id: "kaku-12-e15"
+    label: "overall"
+    value: "S V C (真S)"
+  - sentence_id: "kaku-12-e15"
+    label: "details"
+    value: "<It>(S:仮主語) is(V) <very kind>(C) <of you to come>(真S:of[人]+to不定詞/意味上の主語)"
+
+  # e16
+  - sentence_id: "kaku-12-e16"
+    label: "overall"
+    value: "S V O M M"
+  - sentence_id: "kaku-12-e16"
+    label: "details"
+    value: "<I>(S) left(V) <home>(O) early(M:副詞) <so as to be in time for the meeting>(M:目的)"
+
+  # e17
+  - sentence_id: "kaku-12-e17"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-12-e17"
+    label: "details"
+    value: "<She>(S) stepped aside(V:句動詞) <in order for me to pass>(M:目的/意味上の主語)"
+
+  # e18
+  - sentence_id: "kaku-12-e18"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "kaku-12-e18"
+    label: "details"
+    value: "<My father>(S) wrote down(V:句動詞) <the password>(O) <in order not to forget it>(M:否定目的)"
+
+  # e19
+  - sentence_id: "kaku-12-e19"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "kaku-12-e19"
+    label: "details"
+    value: "<She>(S) was(V) <so kind>(C) <as to help me>(M:結果) ※so〜as to...(離れるパターン)"
+
+  # e20
+  - sentence_id: "kaku-12-e20"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "kaku-12-e20"
+    label: "details"
+    value: "<My father>(S) is saving(V:現在進行形) <money>(O) <so that he can buy a new car>(M:副詞節/目的) ※so that=so as to"
+
+  # e21
+  - sentence_id: "kaku-12-e21"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-12-e21"
+    label: "details"
+    value: "<He>(S) is said(V:受動態) <to have been rich>(C:完了不定詞) ※to have been=主節より1つ前の時制"
+
+  # c01
+  - sentence_id: "kaku-12-c01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-12-c01"
+    label: "details"
+    value: "<She>(S) wanted(V) <something to drink>(O) ※something←to drink(形容詞的用法)"
+
+  # c02
+  - sentence_id: "kaku-12-c02"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "kaku-12-c02"
+    label: "details"
+    value: "<The stew>(S) was(V) <too hot>(C) <for the boy to eat>(M:to不定詞/限定+意味上の主語)"
+
+  # c03
+  - sentence_id: "kaku-12-c03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-12-c03"
+    label: "details"
+    value: "<My father>(S) is said(V:受動態) <to have been a famous singer>(C:完了不定詞)"
+
+  # x01
+  - sentence_id: "kaku-12-x01"
+    label: "overall"
+    value: "S V C (真S)"
+  - sentence_id: "kaku-12-x01"
+    label: "details"
+    value: "<It>(S:仮主語) is(V) difficult(C) <for my grandmother to walk up the stairs at the station>(真S:for[人]+to不定詞)"
+
+  # x02
+  - sentence_id: "kaku-12-x02"
+    label: "overall"
+    value: "S V C (真S)"
+  - sentence_id: "kaku-12-x02"
+    label: "details"
+    value: "<It>(S:仮主語) was(V) careless(C) <of him to make such a mistake>(真S:of[人]+to不定詞)"
+
+  # x03
+  - sentence_id: "kaku-12-x03"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "kaku-12-x03"
+    label: "details"
+    value: "<She>(S) drove(V) <to the station>(M:前置詞句), <only to find that her train was cancelled>(M:to不定詞/副詞的用法/結果)"
+
+  # x04
+  - sentence_id: "kaku-12-x04"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "kaku-12-x04"
+    label: "details"
+    value: "<The thief>(S) was believed(V:受動態) <to have entered the house>(C:完了不定詞) <by breaking a window>(M:前置詞句)"
+
+sentence_knowledge_tags:
+  # e01: 名詞的用法（Sになる）
+  - sentence_id: "kaku-12-e01"
+    node_id: "kjd-001"
+
+  # e02: 文頭To〜の判別（副詞的用法）
+  - sentence_id: "kaku-12-e02"
+    node_id: "kjd-001"
+  - sentence_id: "kaku-12-e02"
+    node_id: "kjd-002"
+
+  # e03: 仮主語構文
+  - sentence_id: "kaku-12-e03"
+    node_id: "kjd-001"
+
+  # e04: -thing修飾
+  - sentence_id: "kaku-12-e04"
+    node_id: "kjd-001"
+
+  # e05: -thing＋形容詞＋to do
+  - sentence_id: "kaku-12-e05"
+    node_id: "kjd-001"
+
+  # e06: 抽象名詞＋to
+  - sentence_id: "kaku-12-e06"
+    node_id: "kjd-001"
+
+  # e07: 副詞的用法（目的）
+  - sentence_id: "kaku-12-e07"
+    node_id: "kjd-002"
+
+  # e08: 副詞的用法（結果/無意志動詞）
+  - sentence_id: "kaku-12-e08"
+    node_id: "kjd-002"
+
+  # e09: 副詞的用法（結果/only to）
+  - sentence_id: "kaku-12-e09"
+    node_id: "kjd-002"
+
+  # e10: 副詞的用法（感情の理由）
+  - sentence_id: "kaku-12-e10"
+    node_id: "kjd-002"
+
+  # e11: 副詞的用法（限定/too...to）
+  - sentence_id: "kaku-12-e11"
+    node_id: "kjd-002"
+
+  # e12: 副詞的用法（限定/enough to）
+  - sentence_id: "kaku-12-e12"
+    node_id: "kjd-002"
+
+  # e13: 意味上の主語（for[人]）
+  - sentence_id: "kaku-12-e13"
+    node_id: "kjd-003"
+
+  # e14: 意味上の主語＋too...to
+  - sentence_id: "kaku-12-e14"
+    node_id: "kjd-002"
+  - sentence_id: "kaku-12-e14"
+    node_id: "kjd-003"
+
+  # e15: 意味上の主語（of[人]）
+  - sentence_id: "kaku-12-e15"
+    node_id: "kjd-003"
+
+  # e16: so as to（目的の明示）
+  - sentence_id: "kaku-12-e16"
+    node_id: "kjd-003"
+
+  # e17: in order for[人] to
+  - sentence_id: "kaku-12-e17"
+    node_id: "kjd-003"
+
+  # e18: in order not to（否定の目的）
+  - sentence_id: "kaku-12-e18"
+    node_id: "kjd-003"
+
+  # e19: so〜as to（離れる=結果/程度）
+  - sentence_id: "kaku-12-e19"
+    node_id: "kjd-003"
+
+  # e20: so that（= so as to）
+  - sentence_id: "kaku-12-e20"
+    node_id: "kjd-003"
+
+  # e21: 完了不定詞
+  - sentence_id: "kaku-12-e21"
+    node_id: "kjd-003"
+
+  # c01: -thing修飾
+  - sentence_id: "kaku-12-c01"
+    node_id: "kjd-001"
+
+  # c02: too...to＋意味上の主語
+  - sentence_id: "kaku-12-c02"
+    node_id: "kjd-002"
+  - sentence_id: "kaku-12-c02"
+    node_id: "kjd-003"
+
+  # c03: 完了不定詞
+  - sentence_id: "kaku-12-c03"
+    node_id: "kjd-003"
+
+  # x01: 仮主語＋意味上の主語
+  - sentence_id: "kaku-12-x01"
+    node_id: "kjd-001"
+  - sentence_id: "kaku-12-x01"
+    node_id: "kjd-003"
+
+  # x02: of[人]区別
+  - sentence_id: "kaku-12-x02"
+    node_id: "kjd-003"
+
+  # x03: only to（結果）
+  - sentence_id: "kaku-12-x03"
+    node_id: "kjd-002"
+
+  # x04: 完了不定詞
+  - sentence_id: "kaku-12-x04"
+    node_id: "kjd-003"

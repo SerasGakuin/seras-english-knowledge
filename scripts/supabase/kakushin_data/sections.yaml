@@ -243,6 +243,62 @@ section_knowledge_nodes:
   - section_id: "Kaku_11b"
     node_id: "kvt-022"
     seq: 4
+  # Kaku_12
+  - section_id: "Kaku_12"
+    node_id: "kjd-001"
+    seq: 1
+  - section_id: "Kaku_12"
+    node_id: "kjd-002"
+    seq: 2
+  - section_id: "Kaku_12"
+    node_id: "kjd-003"
+    seq: 3
+  # Kaku_13
+  - section_id: "Kaku_13"
+    node_id: "kjd-004"
+    seq: 1
+  - section_id: "Kaku_13"
+    node_id: "kjd-005"
+    seq: 2
+  - section_id: "Kaku_13"
+    node_id: "kjd-006"
+    seq: 3
+  # Kaku_14
+  - section_id: "Kaku_14"
+    node_id: "kjd-007"
+    seq: 1
+  - section_id: "Kaku_14"
+    node_id: "kjd-008"
+    seq: 2
+  - section_id: "Kaku_14"
+    node_id: "kjd-009"
+    seq: 3
+  - section_id: "Kaku_14"
+    node_id: "kjd-010"
+    seq: 4
+  # Kaku_15
+  - section_id: "Kaku_15"
+    node_id: "kjd-011"
+    seq: 1
+  - section_id: "Kaku_15"
+    node_id: "kjd-012"
+    seq: 2
+  - section_id: "Kaku_15"
+    node_id: "kjd-013"
+    seq: 3
+  # Kaku_16
+  - section_id: "Kaku_16"
+    node_id: "kjd-014"
+    seq: 1
+  - section_id: "Kaku_16"
+    node_id: "kjd-015"
+    seq: 2
+  - section_id: "Kaku_16"
+    node_id: "kjd-016"
+    seq: 3
+  - section_id: "Kaku_16"
+    node_id: "kjd-017"
+    seq: 4
   # Kaku_20
   - section_id: "Kaku_20"
     node_id: "kta-001"
@@ -281,6 +337,12 @@ section_prerequisites:
     prerequisite_id: "Kaku_11a"
   - section_id: "Kaku_13"
     prerequisite_id: "Kaku_12"
+  - section_id: "Kaku_14"
+    prerequisite_id: "Kaku_13"
+  - section_id: "Kaku_15"
+    prerequisite_id: "Kaku_14"
+  - section_id: "Kaku_16"
+    prerequisite_id: "Kaku_15"
   - section_id: "Kaku_18b"
     prerequisite_id: "Kaku_18a"
   - section_id: "Kaku_21b"

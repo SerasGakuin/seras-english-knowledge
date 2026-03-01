@@ -1,0 +1,318 @@
+sentences:
+  # === 例文 (e01〜e09) ===
+
+  - id: "kaku-13-e01"
+    english: "I want to swim in the sea."
+    japanese: "海で泳ぎたい。"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    role: "example"
+    drill: 1
+    notes: "toの「未来志向」イメージ解説用。to=矢印（⇒）で「気持ちが向かう方向」を示す"
+
+  - id: "kaku-13-e02"
+    english: "I managed to catch a taxi last night."
+    japanese: "昨夜は何とかタクシーを拾えた。"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    role: "example"
+    drill: 1
+    notes: "プラスイメージの動詞。manage to〜「何とか〜やり遂げる」=succeed（前向き）"
+
+  - id: "kaku-13-e03"
+    english: "My mother happened to be out when I came home."
+    japanese: "私が帰宅したとき、母はたまたま外出していた。"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    role: "example"
+    drill: 1
+    notes: "単発のイメージの動詞。happen to〜「たまたま〜する」"
+
+  - id: "kaku-13-e04"
+    english: "He refused to answer the police officer's questions."
+    japanese: "彼は警官の質問に答えることを拒否した。"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    role: "example"
+    drill: 1
+    notes: "拒否のイメージの動詞。refuse to〜「〜を拒む」。「これから答える」ことをrefuseした"
+
+  - id: "kaku-13-e05"
+    english: "The children are to be in bed by nine."
+    japanese: "子どもたちは9時までに寝ることになっている。"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    role: "example"
+    drill: 1
+    notes: "be to構文。5つの意味（予定/意図/義務/可能/運命）がすべて集約された「これから〜することになっている」"
+
+  - id: "kaku-13-e06"
+    english: "This afternoon all new students are to go to the assembly hall to sign up for classes."
+    japanese: "今日の午後、新入生は全員、授業の登録のために集会ホールに行くことになっています。"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    role: "example"
+    drill: 1
+    notes: "be to構文。センター試験リスニング出題例。ニュース英語でも使われる実用的表現"
+
+  - id: "kaku-13-e07"
+    english: "All you have to do is to send the letter."
+    japanese: "その手紙を送るだけでいいのです。"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    role: "example"
+    drill: 1
+    notes: "慣用表現(1)。All S have to do is {to}〜。関係代名詞thatが省略、全体はSVC構造。toは省略可能"
+
+  - id: "kaku-13-e08"
+    english: "To tell the truth, I like enka more than I like rock 'n' roll."
+    japanese: "実は、ロックより演歌が好きなんだ。"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    role: "example"
+    drill: 1
+    notes: "慣用表現(2)副詞句。to tell the truth「実を言うと」。enkaは斜字体、複数形にしない"
+
+  - id: "kaku-13-e09"
+    english: "The construction is unlikely to finish this month."
+    japanese: "建設工事は今月に終わりそうにない。"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    role: "example"
+    drill: 1
+    notes: "慣用表現(3)。be unlikely to〜「〜しそうにない」"
+
+  # === CHECK (c01〜c03) ===
+
+  - id: "kaku-13-c01"
+    english: "If you have any questions, please don't hesitate to ask."
+    japanese: "もし質問があれば、遠慮なく尋ねてください。"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    role: "check"
+    drill: 0
+    notes: "CHECK(1)。hesitate to〜「〜をためらう」。don't hesitate to〜「遠慮なく〜して」"
+
+  - id: "kaku-13-c02"
+    english: "The meeting was to be held on Monday."
+    japanese: "会議は月曜日に開かれることになっていた。"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    role: "check"
+    drill: 0
+    notes: "CHECK(2)。be to構文（過去形was to）＋受動態be held"
+
+  - id: "kaku-13-c03"
+    english: "He was about to leave home."
+    japanese: "彼はちょうど家を出るところだった。"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    role: "check"
+    drill: 0
+    notes: "CHECK(3)。be about to〜「まさに〜するところだ」"
+
+  # === 入試問題 (x01〜x04) ===
+
+  - id: "kaku-13-x01"
+    english: "This new technology has proved to be very useful for learning foreign languages."
+    japanese: "この新技術は、外国語の学習にとても効果的であることがわかっている。"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    role: "exam"
+    drill: 0
+    notes: "出典: 関西学院大学。prove to〜「〜だと判明する」（単発イメージ）。他選択肢: provide A with B/prepare to〜/prohibit A from -ing"
+
+  - id: "kaku-13-x02"
+    english: "His refusal to help me with the work greatly disappointed me."
+    japanese: "彼はこの作業をするのを手伝ってくれないと言ったので、とてもがっかりした。"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    role: "exam"
+    drill: 0
+    notes: "出典: 福岡大学。動詞refuse→名詞refusalでも後ろにto〜がくる。help A with B「Aの物を手伝う」"
+
+  - id: "kaku-13-x03"
+    english: "The prime minister is to visit Australia and New Zealand in the fall."
+    japanese: "首相は秋にオーストラリアとニュージーランドを訪れることになっている。"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    role: "exam"
+    drill: 0
+    notes: "出典: 日本女子大学。be to構文「これから〜することになっている」"
+
+  - id: "kaku-13-x04"
+    english: "It is likely to rain today."
+    japanese: "今日は雨が降りそうだ。"
+    book: "英文法の核心"
+    section_id: "Kaku_13"
+    role: "exam"
+    drill: 0
+    notes: "出典: 武庫川女子大学。be likely to〜「〜しそうだ」。他選択肢のbe willing to〜は文意に合わない"
+
+sentence_structures:
+  # e01
+  - sentence_id: "kaku-13-e01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-13-e01"
+    label: "details"
+    value: "I(S) want(V) [to swim in the sea](O:名詞的用法)"
+
+  # e02
+  - sentence_id: "kaku-13-e02"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "kaku-13-e02"
+    label: "details"
+    value: "I(S) managed(V) [to catch a taxi](O:名詞的用法) [last night](M:時)"
+
+  # e03
+  - sentence_id: "kaku-13-e03"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "kaku-13-e03"
+    label: "details"
+    value: "<My mother>(S) happened to be(V:happenは形式的主動詞) out(C) [when I came home](M:時の副詞節)"
+
+  # e04
+  - sentence_id: "kaku-13-e04"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-13-e04"
+    label: "details"
+    value: "He(S) refused(V) [to answer the police officer's questions](O:名詞的用法)"
+
+  # e05
+  - sentence_id: "kaku-13-e05"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "kaku-13-e05"
+    label: "details"
+    value: "<The children>(S) are to be(V:be to構文) [in bed](C:状態) [by nine](M:期限)"
+
+  # e06
+  - sentence_id: "kaku-13-e06"
+    label: "overall"
+    value: "M S V M M"
+  - sentence_id: "kaku-13-e06"
+    label: "details"
+    value: "[This afternoon](M:時) <all new students>(S) are to go(V:be to構文) [to the assembly hall](M:場所) [to sign up for classes](M:副詞的用法/目的)"
+
+  # e07
+  - sentence_id: "kaku-13-e07"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-13-e07"
+    label: "details"
+    value: "<All (that) you have to do>(S:関係代名詞thatが省略) is(V) [to send the letter](C)"
+
+  # e08
+  - sentence_id: "kaku-13-e08"
+    label: "overall"
+    value: "M S V O M"
+  - sentence_id: "kaku-13-e08"
+    label: "details"
+    value: "[To tell the truth](M:慣用副詞句), I(S) like(V) enka(O) [more than I like rock 'n' roll](M:比較の副詞節)"
+
+  # e09
+  - sentence_id: "kaku-13-e09"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-13-e09"
+    label: "details"
+    value: "<The construction>(S) is unlikely to finish(V:be unlikely to〜は助動詞的) [this month](M:時)"
+
+  # c01
+  - sentence_id: "kaku-13-c01"
+    label: "overall"
+    value: "M V"
+  - sentence_id: "kaku-13-c01"
+    label: "details"
+    value: "[If you have any questions](M:条件の副詞節), please don't hesitate to ask(V:命令文)"
+
+  # c02
+  - sentence_id: "kaku-13-c02"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-13-c02"
+    label: "details"
+    value: "<The meeting>(S) was to be held(V:be to構文+受動態) [on Monday](M:時)"
+
+  # c03
+  - sentence_id: "kaku-13-c03"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "kaku-13-c03"
+    label: "details"
+    value: "He(S) was about to leave(V:be about to〜) home(O)"
+
+  # x01
+  - sentence_id: "kaku-13-x01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "kaku-13-x01"
+    label: "details"
+    value: "<This new technology>(S) has proved to be(V:prove to〜) [very useful for learning foreign languages](C)"
+
+  # x02
+  - sentence_id: "kaku-13-x02"
+    label: "overall"
+    value: "S M V O"
+  - sentence_id: "kaku-13-x02"
+    label: "details"
+    value: "<His refusal to help me with the work>(S) greatly(M) disappointed(V) me(O)"
+
+  # x03
+  - sentence_id: "kaku-13-x03"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "kaku-13-x03"
+    label: "details"
+    value: "<The prime minister>(S) is to visit(V:be to構文) [Australia and New Zealand](O) [in the fall](M:時)"
+
+  # x04
+  - sentence_id: "kaku-13-x04"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "kaku-13-x04"
+    label: "details"
+    value: "It(S:天候のit) is likely to rain(V:be likely to〜) [today](M:時)"
+
+sentence_knowledge_tags:
+  # toをとる動詞3分類 (kjd-004)
+  - sentence_id: "kaku-13-e01"
+    node_id: "kjd-004"
+  - sentence_id: "kaku-13-e02"
+    node_id: "kjd-004"
+  - sentence_id: "kaku-13-e03"
+    node_id: "kjd-004"
+  - sentence_id: "kaku-13-e04"
+    node_id: "kjd-004"
+  - sentence_id: "kaku-13-c01"
+    node_id: "kjd-004"
+  - sentence_id: "kaku-13-x01"
+    node_id: "kjd-004"
+  - sentence_id: "kaku-13-x02"
+    node_id: "kjd-004"
+
+  # be to構文 (kjd-005)
+  - sentence_id: "kaku-13-e05"
+    node_id: "kjd-005"
+  - sentence_id: "kaku-13-e06"
+    node_id: "kjd-005"
+  - sentence_id: "kaku-13-c02"
+    node_id: "kjd-005"
+  - sentence_id: "kaku-13-x03"
+    node_id: "kjd-005"
+
+  # 慣用表現 (kjd-006)
+  - sentence_id: "kaku-13-e07"
+    node_id: "kjd-006"
+  - sentence_id: "kaku-13-e08"
+    node_id: "kjd-006"
+  - sentence_id: "kaku-13-e09"
+    node_id: "kjd-006"
+  - sentence_id: "kaku-13-c03"
+    node_id: "kjd-006"
+  - sentence_id: "kaku-13-x04"
+    node_id: "kjd-006"

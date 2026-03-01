@@ -137,52 +137,52 @@ sections:
     title: "不定詞(1)"
     type: "grammar_lecture"
     pages: "p.169-186"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 3
+    sentences_created: 28
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "kjd-001/002/003。Part3準動詞の最初のセクション。3用法判別・副詞的用法4つの意味・意味上の主語/否定形/完了不定詞"
   Kaku_13:
     title: "不定詞(2)"
     type: "grammar_lecture"
     pages: "p.187-197"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 3
+    sentences_created: 16
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "kjd-004/005/006。未来志向3分類・be to構文・慣用表現3分類。Gate3: numberフィールド省略は既存運用と統一"
   Kaku_14:
     title: "動名詞"
     type: "grammar_lecture"
     pages: "p.198-213"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 4
+    sentences_created: 27
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "kjd-007/008/009/010。Gate3: e16 overall修正(M→C)、e11/e20/x04のsentence_structures整合性修正"
   Kaku_15:
     title: "分詞"
     type: "grammar_lecture"
     pages: "p.214-224"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 3
+    sentences_created: 19
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "kjd-011/012/013。☑感情動詞チェック30語超→P2ノード(kjd-013)として独立化。Gate2: section_id欠落修正"
   Kaku_16:
     title: "分詞構文"
     type: "grammar_lecture"
     pages: "p.225-237"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 4
+    sentences_created: 17
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "kjd-014/015/016/017。-ingの3用法表・位置と意味表・準動詞バリエーションまとめ表・慣用表現3分類18表現"
   Kaku_17:
     title: "受動態"
     type: "grammar_lecture"
@@ -266,8 +266,8 @@ sections:
 
 summary:
   total_sections: 26
-  completed: 14
+  completed: 18
   in_progress: 0
-  not_started: 12
-  total_knowledge_nodes: 41
-  total_sentences: 244
+  not_started: 8
+  total_knowledge_nodes: 58
+  total_sentences: 351

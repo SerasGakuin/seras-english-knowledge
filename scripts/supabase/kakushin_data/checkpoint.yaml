@@ -2,24 +2,53 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T14:00:00"
+updated_at: "2026-03-01T23:00:00"
 book: "英文法の核心"
 book_slug: "kakushin"
 
 current_state:
-  phase: "Phase 2 — Batch 4 完了"
+  phase: "Phase 2 — Batch 6 完了 / Part 3 完了"
   current_section: null
   current_step: null
-  last_completed_section: "Kaku_11b"
+  last_completed_section: "Kaku_16"
   last_completed_gate: 5
 
 progress:
   total_sections: 26
-  completed: 14
+  completed: 18
   in_progress: 0
-  remaining: 12
-  total_nodes: 41
-  total_sentences: 244
+  remaining: 8
+  total_nodes: 58
+  total_sentences: 351
+
+batch6_results:
+  sections_completed:
+    - section: "Kaku_15"
+      nodes: ["kjd-011", "kjd-012", "kjd-013"]
+      sentences: 19
+    - section: "Kaku_16"
+      nodes: ["kjd-014", "kjd-015", "kjd-016", "kjd-017"]
+      sentences: 17
+  metrics:
+    batch_node_section_ratio: 3.5
+    batch_sentences: 36
+    cumulative_node_section_ratio: 3.22
+
+batch5_results:
+  sections_completed:
+    - section: "Kaku_12"
+      nodes: ["kjd-001", "kjd-002", "kjd-003"]
+      sentences: 28
+    - section: "Kaku_13"
+      nodes: ["kjd-004", "kjd-005", "kjd-006"]
+      sentences: 16
+    - section: "Kaku_14"
+      nodes: ["kjd-007", "kjd-008", "kjd-009", "kjd-010"]
+      sentences: 27
+  metrics:
+    batch_node_section_ratio: 3.33
+    batch_sentences: 71
+    cumulative_node_section_ratio: 3.0
 
 batch4_results:
   sections_completed:
@@ -97,9 +126,10 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
-  - "Batch 5: Kaku_12（不定詞1, p.169-186）, Kaku_13（不定詞2, p.187-197）, Kaku_14（動名詞, p.198-213）"
-  - "Part 3 準動詞に入る。kvt-022から続番（kvt-023〜）"
-  - "3セクション完了 → 全指示書再読込"
+  - "Batch 7: Kaku_17（受動態, p.238-251）— Part 4 その他の重要単元の開始"
+  - "Part 4 → kta-004から続番。カテゴリ: その他"
+  - "Part 3完了につき全指示書再読込が必要"
+  - "残り8セクション: Kaku_17, 18a, 18b, 19, 21a, 21b, 21c（+ Kaku_20は完了済み）"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"
