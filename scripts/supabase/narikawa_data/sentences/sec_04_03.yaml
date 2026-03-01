@@ -1,0 +1,103 @@
+# Nar_04_03: mayを用いた重要表現 (p.126-128)
+
+sentences:
+  - id: "nar-0403-e183"
+    section_id: "Nar_04_03"
+    drill: 0
+    number: 183
+    role: "example"
+    english: "It may well rain tonight."
+    japanese: "今夜はたぶん雨だろう"
+    notes: "may well+V（推量+強意）。mayの推量50%にwellの強意が加わり確率70-80%にアップ"
+  - id: "nar-0403-e184"
+    section_id: "Nar_04_03"
+    drill: 0
+    number: 184
+    role: "example"
+    english: "You may well believe it."
+    japanese: "君がそれを信じるのももっともだ"
+    notes: "may well+V（許可+強意）。mayの許可にwellの強意が加わり「〜するのは当然だ」"
+  - id: "nar-0403-e185"
+    section_id: "Nar_04_03"
+    drill: 0
+    number: 185
+    role: "example"
+    english: "You may as well leave now."
+    japanese: "君は今、出かけた方がいいだろう"
+    notes: "may as well+V。「やらない理由も特にないのでVでもしようか」という消極的な表現。had betterとは全く別物"
+  - id: "nar-0403-e186"
+    section_id: "Nar_04_03"
+    drill: 0
+    number: 186
+    role: "example"
+    english: "You might as well throw your money away as spend it in gambling."
+    japanese: "ギャンブルにお金を使うくらいなら、お金を捨てる方がましだ"
+    notes: "may as well V₁ as V₂。V₁(throw)とV₂(spend)は大差ないがV₁の方がまだまし。ありえない表現にはmightが好まれる"
+  - id: "nar-0403-e187"
+    section_id: "Nar_04_03"
+    drill: 0
+    number: 187
+    role: "example"
+    english: "May you always be happy!"
+    japanese: "どうかいつまでもお幸せに"
+    notes: "祈りのmay。主語の前にmayが置かれる。ただし I hope you'll always be happy. の方が一般的"
+  - id: "nar-0403-v001"
+    section_id: "Nar_04_03"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I hope you'll always be happy."
+    japanese: "いつまでもお幸せに"
+    notes: "▶ 祈りのmay（e187）の現代的な言い換え表現"
+
+sentence_structures:
+  - sentence_id: "nar-0403-e183"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0403-e183"
+    label: "details"
+    value: "<It>(S) may well rain(V:助動詞/推量+well強意) [tonight](M:時の副詞)"
+  - sentence_id: "nar-0403-e184"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0403-e184"
+    label: "details"
+    value: "<You>(S) may well believe(V:助動詞/許可+well強意=当然) <it>(O)"
+  - sentence_id: "nar-0403-e185"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0403-e185"
+    label: "details"
+    value: "<You>(S) may as well leave(V:助動詞/消極的提案) [now](M:時の副詞)"
+  - sentence_id: "nar-0403-e186"
+    label: "overall"
+    value: "S V O M M"
+  - sentence_id: "nar-0403-e186"
+    label: "details"
+    value: "<You>(S) might as well throw(V:助動詞/V₁ as V₂) <your money>(O) [away](M:副詞) [as spend it in gambling](M:比較のas以下)"
+  - sentence_id: "nar-0403-e187"
+    label: "overall"
+    value: "V S M V C"
+  - sentence_id: "nar-0403-e187"
+    label: "details"
+    value: "<May>(助動詞/祈り) <you>(S) [always](M:副詞) be(V) <happy>(C:形容詞)"
+  - sentence_id: "nar-0403-v001"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0403-v001"
+    label: "details"
+    value: "<I>(S) hope(V) <you'll always be happy>(O:that節省略)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0403-e183"
+    node_id: "nrt-013"
+  - sentence_id: "nar-0403-e184"
+    node_id: "nrt-013"
+  - sentence_id: "nar-0403-e185"
+    node_id: "nrt-013"
+  - sentence_id: "nar-0403-e186"
+    node_id: "nrt-013"
+  - sentence_id: "nar-0403-e187"
+    node_id: "nrt-013"
+  - sentence_id: "nar-0403-v001"
+    node_id: "nrt-013"

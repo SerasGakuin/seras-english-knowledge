@@ -1,4 +1,4 @@
-# Part 03: 時制
+# Part 03-05: 時制・助動詞・仮定法 (nrt)
 # パイロット: Nar_03_01
 
 knowledge_nodes:
@@ -229,6 +229,289 @@ knowledge_nodes:
       原形の「未実現」イメージで理解する方が英語の運用に有効。
       参考書内参照: →p.114（例文172の初出）
 
+  # --- Part 04: 助動詞 ---
+
+  - id: "nrt-011"
+    name: "助動詞の2つの意味（主観と客観的推量）"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ 助動詞の定義: 話し手の気持ちや主観を色濃く表す
+      「動詞を助けるもの」ではない。助動詞を使うことで話し手の気持ちが伝わる。
+      e176（現在形: 毎朝ジョギング=安定した習慣）vs e177（will: 今週末ジョギングするぞ=強い意志）
+      ■ 助動詞の2つの意味
+      (1) 主語の気持ちや主観を表す。
+      (2) ある行為を他者（第三者）がどう思っているか（客観的な推量）を表す。
+      例: 結婚式の場面 — I will.（意志表明） → She will be happy.（参列者の推量）
+      ■ 主要助動詞の意味表（主観→推量の流れ）
+      will: 〜しよう（意志表明）→ きっと〜するだろう
+      may: 〜してもよろしい（許可）→ 〜するかもしれない
+      can: 〜できる（実現の可能性）→ 〜する可能性がある（理論上の可能性）
+      must: 〜しなければならない → 〜するに違いない（確信）
+      should: （当然）〜した方がよい → （当然）〜するはずだ
+      [図表: イラスト — 毎日走る人(現在形)と日曜日にジョギングするぞと意志表明する人(will)（p.120）]
+      [図表: イラスト — 結婚式でI willと意志表明する新婦(主観)と「きっと幸せになるね」と推量する参列者(推量)（p.121）]
+      参考書内参照: →p.103（助動詞willの推量用法はPART 03を参照）
+      別冊ポイント084（助動詞の定義: ❶主観 ❷客観的推量）、085（主要助動詞の意味表）参照
+
+  - id: "nrt-012"
+    name: "助動詞mayの基本用法（許可と推量）"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ mayの許可用法: 「上から目線」の許可
+      〈障害や妨げが全くないので〉やってよろしい。
+      上司と部下、大人と子どものように上下関係がある場面で使われることが多い。
+      友人同士のカジュアルな許可にはcanを使う（脚注*1）。
+      You may...は高圧的な印象すら漂うので使う場面に注意。
+      ■ mayの推量用法: 降水確率50%の感覚
+      どっちだかわからない半々な気持ちを表す。
+      e181: He may go home.（許可をもらったからといって帰るとは限らない→推量）
+      ■ mayの基本用法まとめ
+      (1) 許可「〜してもよろしい」⇔ may not「〜してはいけない（軽い禁止）」
+      (2) 推量「〜するかもしれない（確率50%）」⇔ may not「〜ではないかもしれない（否定の推量）」
+      ■ 推量のmayは疑問文で使えない
+      May～?は許可の意味。推量の疑問にはlikelyなどを使う。
+      ■ may not（軽い禁止）vs must not
+      may notの方がやや柔らかい印象。規則で禁止している場合に用いることが多い。
+      ■ mightとの関係
+      mayを過去形mightにしても過去の意味は表さない。単に確信度が低くなるだけ。
+      [図表: イラスト — 「You may go home.」許可の場面（上司→部下）と「He may go home.」推量の場面（同僚同士）（p.123）]
+      [図表: イラスト — 「I may go.」五分五分の気持ち（p.124）]
+      別冊ポイント086（mayの基本用法: ❶許可⇔may not ❷推量≒might⇔may not、推量は疑問文不可）参照
+
+  - id: "nrt-013"
+    name: "mayを用いた重要表現"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ may [might] well+V: mayの基本用法にwell（強意）が加わる
+      (1) 推量+well → 50%→70-80%にアップ。「Vする可能性は十分ある」
+      (2) 許可+well → 「Vしてもおかしくない、当然だ」
+      論説文で出てくるmay wellの多くは推量の意味（脚注*1）。
+      ■ may [might] as well+V: 消極的な提案
+      「やらない理由も特にないのでVでもしようか」。
+      had betterとは全く別物。had betterは「Vしないとまずいことになる」という積極的な理由がある。
+      ■ may [might] as well V₁ as V₂
+      V₁するのとV₂するのは大差ないが、wellがある分V₁の方がまだまし。
+      「V₂するくらいならV₁した方がましだ」
+      V₁にありえない表現が置かれるとmayよりmightが好まれる傾向。
+      ■ 祈りのmay
+      主語の前にmayが置かれて「Sが〜でありますように」の意味。
+      May you always be happy! — ただし I hope you'll always be happy. の方が一般的。
+      ■ mayをmightに変えるとどうなるか
+      距離感のあるやや控えめな印象（過去形の距離感）。
+      [図表: イラスト — may as well（消極的「出かけたほうがいいんじゃない」）vs had better（積極的「出かけないとまずいぞ！」）の比較（p.127）]
+      参考書内参照: →p.150（had betterについてはセクション11を参照）
+      別冊ポイント087（may well+V: 推量+強意 / 許可+強意）、088（may as well+V: 消極的提案）、089（may as well V₁ as V₂: V₂するくらいならV₁がまし）参照
+
+  - id: "nrt-014"
+    name: "助動詞canの用法（実現・理論の可能性とbe able toとの違い）"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ canの基本用法
+      (1) 実現の可能性「（その気になれば）〜できる」⇔ can't「〜できない」
+      (2) 理論上の可能性「（時に）〜する可能性がある」⇔ can't「〜のはずがない」
+      ■ canの応用用法
+      (3) 軽い許可「〜してもいいよ」: mayと違ってカジュアル。友人同士など対等な関係で用いる。
+      (4) 強い疑い「一体〜だろうか」: canを疑問文で使って表す。
+      ■ can vs be able to
+      can = 実現の可能性を強調。be able to = 能力(ability)を強調。
+      会話で頻繁に使われるのはcan。ableは「人」を主語にするのが通例で、能力をアピールする印象が強く自慢げに聞こえることもある（脚注*1）。
+      受動態でもcanを使うのが通例（That can be explained...）。
+      助動詞同士は併用不可 → 「〜できるだろう」は will be able to V。
+      ■ could vs was[were] able to
+      過去の1回限りの行為「（実際に）Vできた」→ couldは不可。was[were] able to V または managed to V を使う。
+      couldは実現の可能性があったことを伝えるだけで、その行為が実際に行われたかは不明。
+      否定文ではcouldとwas able toはほぼ同じ意味で使える。
+      (✕) e193: could finish → was able to finish が正しい
+      [図表: イラスト — 実現の可能性（100点の答案）と理論上の可能性（11月でも暖かい）（p.129）]
+      [図表: イラスト — 軽い許可（You can count on me.友人同士）と強い疑い（Can it be true?驚く男性）（p.130）]
+      別冊ポイント090（canの4用法）、091（推量の助動詞+have+Vp.p.）、092（couldとwas able to）、093（cannot help Ving等）、094（cannot〜too...）参照
+
+  - id: "nrt-015"
+    name: "助動詞mustとhave toの使い分け"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ mustの基本用法
+      (1) 話し手の判断「〜しなければならない」: 自発的な気持ちで用いる。
+      (2) 話し手の推量「〜に違いない」: 現在の状況に対して用いるのが原則。未来の推量には不可。
+      (✕) It must rain tomorrow.（→ It will certainly rain tomorrow. などとする）
+      ■ have toの基本用法
+      「（外部のさまざまな圧力があるせいで）〜しなければならない」
+      周囲から強制されたり規則があって「仕方なしに」の感覚。mustの自発的判断とは異なる。
+      have toは助動詞ではなく一般動詞の延長線（脚注*2: have + to V「これからやるべきことをもっている」）。
+      ■ 否定形の大きな違い
+      must not = 禁止「〜してはいけない」
+      don't have to = 不必要「〜する必要はない」
+      ■ mustには過去形がない
+      「〜しなければならなかった」→ had to を使う。
+      ■ have to/have got toの推量用法
+      最近ではhave toやhave got toでも「〜に違いない」の意味で使うネイティブが増えている。通常はbe動詞と共に用いる（脚注*1）。
+      [図表: イラスト — mustの判断（自発的に「帰らなくちゃ」）と推量（「帰るに違いない」）（p.133）]
+      [図表: イラスト — have toのイメージ（外部圧力で「戻らなくちゃ」）（p.134）]
+      別冊ポイント095（mustの用法: 義務+推量、推量は未来不可）、096（have toの用法: 外部圧力、must vsの比較）参照
+
+  - id: "nrt-016"
+    name: "助動詞shouldの基本用法（当然〜すべき / 〜のはずだ）"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ shallの基本イメージ
+      「（神の力や法律、運命など、個人の意志をはるかに超えたレベルで）当然〜すべき、当然〜になる」
+      絶滅の危機にある助動詞。聖書や法律などの条文、Shall I〜？/Shall we〜？の定型表現以外ではほぼ使われない（脚注*1）。
+      日本国憲法第25条: All people shall have the right to...
+      ■ shouldの基本イメージ: 〈当然〉
+      shallの過去形でマイルドになったもの。mustやshallと比べるとだいぶマイルド。
+      (1) 話し手の判断「当然〜した方がいい」（助言・アドバイス）
+      (2) 話し手の推量「当然〜のはずだ」
+      どちらもought to Vとほぼ同じ意味。ought toの否定形はought not to V（notの位置に注意）。
+      脚注*1: Shall I〜?は「私が〜しましょうか」だがDo you want me to〜?の方が一般的。Shall we〜?もLet's〜.で十分。
+      [図表: イラスト — shallとshouldの比較。左: shall「汝の隣人を愛すべし」石板、右: should「席を譲った方がいいわよ」電車内（p.137）]
+      別冊ポイント098（shouldの用法: 判断+推量、≒ought to V）参照
+
+  - id: "nrt-017"
+    name: "shouldの応用用法（that節中のshould）"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ 要求・提案・命令・主張を表すthat節中のshould
+      I suggest that you should follow a low-salt diet. — 「当然〜した方がいい」と思っているからshouldが入る。
+      提案段階ではまだ実現していない → 昔の仮定法である〈動詞の原形〉も使える。
+      ▶ I suggest that you follow a low-salt diet.（原形）
+      ■ 判断を表すthat節中のshould
+      It is necessary that he should ask for a pay raise. — necessary「必要だ」の裏に「当然だ」の気持ちがある。
+      ▶ It is necessary that he ask for a pay raise.（原形、3人称単数のsもつけない）
+      ■ 感情を表すthat節中のshould
+      It is surprising that he should object to my plan. — 「当然」の期待が裏切られ → 意外・驚き・残念・後悔。
+      事実を述べる場合は直説法（現在形・過去形）も可能: It is surprising that he objects to my plan.
+      ■ 疑問文のshouldで意外性の強調
+      Why should he go for you?（どうして彼が君の代わりに行かねばならないのか）
+      ■ このセクションのshouldはought toに書き換え不可
+      参考書内参照: →PART 03の9（動詞の原形、nrt-009）
+      別冊ポイント100（判断や感情のthat節内should: 形容詞=natural, necessary, important, strange, surprising等、名詞=a pity, a shame, no wonder等）参照
+
+  - id: "nrt-018"
+    name: "推量の助動詞の体系（must / may / can't）"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ 推量の助動詞の3本柱
+      must「〜に違いない」（確信度≒100%）、may「〜かもしれない」（確信度≒50%）、can't「〜のはずはない」（確信度≒0%）。
+      テストの点数の例で直感的に理解:
+      95%とったジョン → must be happy、平均点のメアリー → may be happy、10%のケン → can't be happy
+      [図表: 表 — 確信の度合い: 0% can't ← 50% may → 100% must（p.141）]
+      ■ 推量の助動詞は過去形にしても過去の意味にならない「お約束」
+      may→mightにしても「〜だったかもしれない」にはならない。過去形の「距離感」で確率が下がるだけ。
+      can't→couldn'tは「（理論上）本当にありえない！」と強まる感じ。
+      mustはそもそも過去形がない。
+      ■ 助動詞の過去形まとめ
+      will→would: 過去の習慣など一部に限る
+      can→could: couldn'tなど一部に限る
+      may→might: ほぼ過去の意味にはならない
+      shall→should: 過去の意味にはならない
+      must: 過去形がない / need: 過去形がない
+      [図表: 表 — 助動詞の過去形について（p.141-142）]
+      脚注*1: 確信度の細分化 must＞will＞may well＞may＞might＞can't＞couldn't
+      脚注*2: 助動詞の過去形が単独で過去を表せない原則は、時制の一致の場合を除く。
+      別冊ポイント097（推量の助動詞と対応する副詞）参照
+
+  - id: "nrt-019"
+    name: "〈助動詞+have+Vp.p.〉の体系"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ 〈推量の助動詞+have+Vp.p.〉= 過去の推量
+      推量の助動詞は過去形にしても過去にならない → 〈have+Vp.p.〉をつけて過去の意味を表す。
+      この〈have+Vp.p.〉は現在完了形とは別物。「過去の意味(Vp.p.)をもたせる(have)」ための形。
+      must+have+Vp.p.「〜だったに違いない」
+      may[might]+have+Vp.p.「〜だったかもしれない」
+      can't[couldn't]+have+Vp.p.「〜だったはずはない」
+      ■ 〈should[ought to]+have+Vp.p.〉の2つの意味
+      (1) 過去への後悔「〜すべきだったのに（実際にはしなかった）」
+      (2) 過去への推量「〜したはずだ、すでに〜しているはずだ」
+      否定形: should not have+Vp.p. [ought not to have+Vp.p.]
+      ■ 一般動詞need vs 助動詞need
+      一般動詞need: 肯定文・否定文・疑問文すべてで使える。過去形はdidn't need to。使用頻度が高い。
+      助動詞need: 肯定文では使えない。否定文 need not [needn't] go / 疑問文 Need he go?。過去形がない。
+      ■ 〈need not+have+Vp.p.〉
+      「〜する必要はなかったのに（実際はした）」。助動詞needには過去形がないため〈have+Vp.p.〉で過去を表す。
+      助動詞needは肯定文では用いないため、〈need+have+Vp.p.〉という肯定の形は存在しない（脚注*2）。
+      ■ 〈助動詞+have+Vp.p.〉の共通メッセージ
+      「過去の事柄を現在の立場から推測や評価をする」感覚がすべてに共通。
+      脚注*1: may have+Vp.p.は未来完了形のwillがmayに変わった用法もある（時を表す語句で判別）。
+      ▶ By this time next year I may have married her.
+      参考書内参照: →8（推量の助動詞、nrt-018）
+      別冊ポイント091（推量の助動詞+have+Vp.p.）、099（should+have+Vp.p.）参照
+
+  - id: "nrt-020"
+    name: "wouldとused toの用法"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ 〈過去を回想〉するwouldとused to
+      wouldは動作動詞と使って「昔はよく〜したものだ」と過去を回想する。
+      仮定法のwouldと区別するため、過去を表す語句やoften/usuallyなどの頻度副詞と共に使うのが普通。
+      状態動詞とは共に使えない。
+      used toは動作動詞・状態動詞のどちらでも使える。
+      ■ wouldとused toの使用上の注意
+      現在との対比ではwouldは使えない（used toのみ可）。
+      used toには「現在はそうでない」というニュアンスが含まれる。
+      具体的な回数(three times)や期間(for two years)を示す語句とは両方使えない。
+      ■ "used to"3兄弟
+      (1) used to V「かつてはVだった」（現在との対比で使う）
+      (2) be used to Ving「Vすることに慣れている」（= be accustomed to Ving）
+      (3) 受動態のwas used「使われた」+ to V（不定詞の副詞用法/目的）
+      脚注*1: wouldは〈意志〉を表すwillの過去形。主語の意志が感じられるため動作動詞と相性が良い。
+      別冊ポイント101（will[won't]の意志）、102（used toの用法）参照
+
+  - id: "nrt-021"
+    name: "その他の助動詞(1)（had better / cannot V too / cannot help Ving）"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ had better
+      「〜した方がいい」と訳されるが、気軽なアドバイスではなく軽い脅迫・警告のニュアンス。
+      Youを主語にすると脅迫感がさらに強まる（脚注*1）。
+      否定形: had better not+V（notの位置はbetterの後、Vの前）。
+      ■ cannot V 〜 too ...
+      「いくらVしてもし過ぎることはない」。
+      cannot「〜ありえない」+ too「〜過ぎ」の組み合わせで理解する。
+      [図表: 表 — cannot V too...の理解ヒント: 「ほめ過ぎ」+「ありえない」=「ほめ過ぎはありえない」（p.151）]
+      バリエーション: cannot V enough / cannot overV / It is impossible to overV [to V enough / to V too much]
+      ■ cannot help Ving
+      helpは「〜を避ける」の意味。
+      cannot help Ving = cannot help but V = cannot but V
+      「Vすることを避けられない → ついついVしてしまう」。自分の意志ではどうにもならない感じ。
+      It can't be helped.「仕方がない」もこのhelpの用法（脚注*2）。
+      脚注*3: もともとcannot but V（but=「〜以外」「Vすること以外できない→Vするしかない」）という表現があり、cannot help Vingとの混合でcannot help but Vが生まれたとされる。
+      別冊ポイント093（cannot help Ving）、094（cannot too）参照
+
+  - id: "nrt-022"
+    name: "その他の助動詞(2)（意志のwon't / would rather / have only to / dare）"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ 〈意志〉のwill/won'tとwould/wouldn't
+      will「〜しよう」（意志）⇔ won't「どうしても〜しようとしない」（意志の否定）
+      would「〜しようとした」（過去）⇔ wouldn't「どうしても〜しようとしなかった」（過去）
+      [図表: 表 — will/won't/would/wouldn'tの対応（p.153）]
+      モノ(the key等)にもwouldn'tを使える（擬人化）。
+      ■ would rather V
+      「むしろ〜したい、どちらかと言えば〜したい」。
+      否定形: would rather not+V。
+      thanを伴って比較: would rather V₁ than V₂「V₂するよりはV₁したい」。
+      ■ have only to V
+      have to+onlyで「Vしさえすればよい」。
+      脚注*1: Vすることで何らかの結果が得られる場面で使う。only have to V ≒ All you have to do is〜。
+      ■ 助動詞dare
+      How dare SV(原形)〜?「よくもVできるな」（他者への憤慨）。
+      dare not V「あえてVする勇気がない」。否定文・疑問文で用いるのが原則。
+      一般動詞dareとの書き換え: He doesn't dare (to) complain...
+      別冊ポイント101（will[won't]の意志）参照
+
 understanding_goals:
   - node_id: "nrt-001"
     seq: 1
@@ -323,6 +606,120 @@ understanding_goals:
   - node_id: "nrt-010"
     seq: 3
     goal: "動詞の原形の根本イメージから英語の時制体系を俯瞰できる"
+  - node_id: "nrt-011"
+    seq: 1
+    goal: "助動詞が「話し手の気持ちや主観」を色濃く表すものであることを説明できる"
+  - node_id: "nrt-011"
+    seq: 2
+    goal: "助動詞の2つの意味（主語の主観→他者の推量）の仕組みを理解し、willの例で説明できる"
+  - node_id: "nrt-011"
+    seq: 3
+    goal: "主要助動詞5つ（will/may/can/must/should）の基本的な意味を主観→推量の流れで説明できる"
+  - node_id: "nrt-012"
+    seq: 1
+    goal: "mayの許可用法の特徴（上から目線、上下関係のある場面）を説明できる"
+  - node_id: "nrt-012"
+    seq: 2
+    goal: "mayの推量用法（50%、半々の気持ち）を説明し、否定形の2つの意味も理解できる"
+  - node_id: "nrt-012"
+    seq: 3
+    goal: "推量のmayが疑問文で使えないことを知り、代替表現を理解できる"
+  - node_id: "nrt-013"
+    seq: 1
+    goal: "may well+Vの2つの意味（推量の強化 / 許可の強化=当然）を説明できる"
+  - node_id: "nrt-013"
+    seq: 2
+    goal: "may as well+Vの消極的なニュアンスを理解し、had betterとの違いを説明できる"
+  - node_id: "nrt-013"
+    seq: 3
+    goal: "may as well V₁ as V₂ と祈りのmayの構文を理解できる"
+  - node_id: "nrt-014"
+    seq: 1
+    goal: "canの2つの基本用法（実現の可能性・理論上の可能性）を区別し、それぞれの否定形の意味を説明できる"
+  - node_id: "nrt-014"
+    seq: 2
+    goal: "canの応用用法（軽い許可・強い疑い）を理解し、mayの許可との違いを説明できる"
+  - node_id: "nrt-014"
+    seq: 3
+    goal: "canとbe able toの違い（実現の可能性 vs 能力）を説明できる"
+  - node_id: "nrt-014"
+    seq: 4
+    goal: "couldとwas[were] able toの使い分けを理解し、過去の1回限りの行為にcouldが使えない理由を説明できる"
+  - node_id: "nrt-015"
+    seq: 1
+    goal: "mustの2つの用法（判断・推量）を理解し、推量が未来に使えない制限を説明できる"
+  - node_id: "nrt-015"
+    seq: 2
+    goal: "mustとhave toの違い（自発的判断 vs 外部圧力）を説明できる"
+  - node_id: "nrt-015"
+    seq: 3
+    goal: "must notとdon't have toの意味の大きな違いを説明できる"
+  - node_id: "nrt-016"
+    seq: 1
+    goal: "shallの基本イメージ（個人の意志を超えたレベルの当然性）を説明し、現代での使用場面を挙げられる"
+  - node_id: "nrt-016"
+    seq: 2
+    goal: "shouldの2つの用法（判断・推量）を理解し、shallとの関係を説明できる"
+  - node_id: "nrt-016"
+    seq: 3
+    goal: "should ≒ ought to Vの関係と、ought toの否定形の特徴を説明できる"
+  - node_id: "nrt-017"
+    seq: 1
+    goal: "要求・提案・命令・主張を表すthat節中でshouldが使われる理由を説明できる"
+  - node_id: "nrt-017"
+    seq: 2
+    goal: "判断・感情を表すthat節中でshouldが使われる仕組みを理解し、直説法との違いを説明できる"
+  - node_id: "nrt-017"
+    seq: 3
+    goal: "疑問文でshouldが意外性を強調する用法を理解できる"
+  - node_id: "nrt-018"
+    seq: 1
+    goal: "推量の助動詞の3本柱（must / may / can't）の確信度を順序付けて説明できる"
+  - node_id: "nrt-018"
+    seq: 2
+    goal: "推量の助動詞は過去形にしても過去の意味にならない原則を理解し、具体例で説明できる"
+  - node_id: "nrt-018"
+    seq: 3
+    goal: "助動詞の過去形が過去を表せるケースとそうでないケースを整理して説明できる"
+  - node_id: "nrt-019"
+    seq: 1
+    goal: "〈推量の助動詞+have+Vp.p.〉の3パターン（must/may/can't）で過去の推量を表す仕組みを説明できる"
+  - node_id: "nrt-019"
+    seq: 2
+    goal: "〈should+have+Vp.p.〉の2つの意味（過去への後悔・過去への推量）を区別できる"
+  - node_id: "nrt-019"
+    seq: 3
+    goal: "一般動詞needと助動詞needの違いを理解し、need not+have+Vp.p.の意味を説明できる"
+  - node_id: "nrt-020"
+    seq: 1
+    goal: "wouldとused toの共通点（過去の回想）と相違点（動作動詞のみ vs 動作+状態）を説明できる"
+  - node_id: "nrt-020"
+    seq: 2
+    goal: "現在との対比でwouldが使えない理由をused toとの違いから説明できる"
+  - node_id: "nrt-020"
+    seq: 3
+    goal: "\"used to\"3兄弟（used to V / be used to Ving / 受動態）を判別できる"
+  - node_id: "nrt-021"
+    seq: 1
+    goal: "had betterのニュアンス（軽い脅迫・警告）を理解し、気軽なアドバイスとの違いを説明できる"
+  - node_id: "nrt-021"
+    seq: 2
+    goal: "cannot V too...の成り立ち（cannot+too）を理解し、バリエーション（enough/over-/It is impossible）で書き換えられる"
+  - node_id: "nrt-021"
+    seq: 3
+    goal: "cannot help Vingの意味と同義表現（cannot help but V / cannot but V）を説明できる"
+  - node_id: "nrt-022"
+    seq: 1
+    goal: "意志のwill/won'tとwould/wouldn'tの対応関係を説明し、モノの擬人化用法を理解できる"
+  - node_id: "nrt-022"
+    seq: 2
+    goal: "would rather Vの意味と否定形・thanを伴う形を使い分けられる"
+  - node_id: "nrt-022"
+    seq: 3
+    goal: "have only to Vの意味と、only have to V・All you have to do isとの関係を説明できる"
+  - node_id: "nrt-022"
+    seq: 4
+    goal: "助動詞dareの2つの用法（How dare SV / dare not V）と一般動詞dareとの書き換えを説明できる"
 
 check_points:
   - node_id: "nrt-001"
@@ -481,6 +878,198 @@ check_points:
     seq: 3
     question: "You be quiet; I'll do the talking. はどう解釈するか？"
     answer: "主語youを残した命令文。「主語が省略されているから原形」では説明不十分。原形の「まだ現実になっていない不確実なこと」というイメージで理解する"
+  - node_id: "nrt-011"
+    seq: 1
+    question: "助動詞の2つの意味とは？"
+    answer: "(1)主語の気持ちや主観を表す (2)ある行為を他者（第三者）がどう思っているか（客観的な推量）を表す"
+  - node_id: "nrt-011"
+    seq: 2
+    question: "willの2つの意味を結婚式の例で説明せよ"
+    answer: "(1)意志表明: I will.（新婦が夫とすることを意志表明） (2)推量: She will be happy.（参列者が「きっと幸せになるだろう」と推量）。意志表明したからには→きっとやるだろうという流れ"
+  - node_id: "nrt-011"
+    seq: 3
+    question: "mayの2つの意味は？"
+    answer: "(1)許可「〜してもよろしい」 (2)推量「〜するかもしれない」。許可されているなら→やるかもしれない"
+  - node_id: "nrt-011"
+    seq: 4
+    question: "mustの2つの意味は？"
+    answer: "(1)義務「〜しなければならない」 (2)確信「〜に違いない」。〜しなければならないと言っているなら→その人は〜するに違いない"
+  - node_id: "nrt-012"
+    seq: 1
+    question: "mayの許可用法はどんな場面で使われるか？友人同士では？"
+    answer: "上司と部下、大人と子どものように上下関係のある場面で使われることが多い。友人同士のカジュアルな許可にはcanを使う。You may...は高圧的な印象"
+  - node_id: "nrt-012"
+    seq: 2
+    question: "mayの推量の確信度はどの程度か？"
+    answer: "50%、降水確率50%の感覚。どっちだかわからない半々な気持ちを表す"
+  - node_id: "nrt-012"
+    seq: 3
+    question: "may notの2つの意味は？"
+    answer: "(1)許可の否定「〜してはいけない」（軽い禁止、must notより柔らかい） (2)推量の否定「〜ではないかもしれない」"
+  - node_id: "nrt-012"
+    seq: 4
+    question: "推量のmayを疑問文で使えるか？May～?は何の意味か？"
+    answer: "推量のmayは疑問文で使えない。May～?は許可の意味。推量の疑問にはlikelyなどを使う（Are there likely to be any problems?）"
+  - node_id: "nrt-013"
+    seq: 1
+    question: "may well+Vの2つの意味は？"
+    answer: "(1)推量+well（強意）→「Vする可能性は十分ある」（50%→70-80%にアップ） (2)許可+well（強意）→「Vしてもおかしくない、当然だ」"
+  - node_id: "nrt-013"
+    seq: 2
+    question: "may as well+Vはどんなニュアンスか？had betterとの違いは？"
+    answer: "「やらない理由も特にないのでVでもしようか」という消極的な表現。had betterは「Vしないとまずいことになる」という積極的理由がある全く別物"
+  - node_id: "nrt-013"
+    seq: 3
+    question: "may as well V₁ as V₂の意味は？"
+    answer: "「V₂するくらいならV₁した方がましだ」。V₁とV₂は大差ないがwellがある分V₁がまだまし。V₁にありえない表現→mightが好まれる"
+  - node_id: "nrt-013"
+    seq: 4
+    question: "祈りのmayの語順の特徴は？"
+    answer: "主語の前にmayが置かれる（May you always be happy!）。ただし現代ではI hope...の方が一般的"
+  - node_id: "nrt-013"
+    seq: 5
+    question: "mayをmightに変えるとどう変わるか？"
+    answer: "距離感のあるやや控えめな印象になる（過去形の距離感）。確信度も下がる"
+  - node_id: "nrt-014"
+    seq: 1
+    question: "canの2つの基本用法と、それぞれの否定形の意味は？"
+    answer: "(1)実現の可能性「（その気になれば）〜できる」⇔can't「〜できない」 (2)理論上の可能性「（時に）〜する可能性がある」⇔can't「〜のはずがない」"
+  - node_id: "nrt-014"
+    seq: 2
+    question: "canの応用用法2つは？mayの許可との違いは？"
+    answer: "(3)軽い許可「〜してもいいよ」: カジュアルで友人同士など対等な関係で使う。mayは上下関係が意識される。(4)強い疑い「一体〜だろうか」: canを疑問文で使う"
+  - node_id: "nrt-014"
+    seq: 3
+    question: "canとbe able toの違いは？助動詞を併用する場合は？"
+    answer: "can=実現の可能性を強調。be able to=能力(ability)を強調。会話ではcanが頻繁。受動態もcan。助動詞同士は併用不可なので「〜できるだろう」はwill be able to V"
+  - node_id: "nrt-014"
+    seq: 4
+    question: "過去の1回限りの行為で「Vできた」を表すには？couldが不可な理由は？"
+    answer: "was[were] able to V / managed to V を使う。couldは実現の可能性があったことを伝えるだけで、その行為が実際に行われたかは不明だから。否定文ではcouldとwas able toはほぼ同じ意味"
+  - node_id: "nrt-015"
+    seq: 1
+    question: "mustの2つの基本用法は？推量のmustの制限は？"
+    answer: "(1)話し手の判断「〜しなければならない」（自発的） (2)話し手の推量「〜に違いない」。推量は現在の状況に対して用いるのが原則で、未来の推量には使えない（(✕) It must rain tomorrow.）"
+  - node_id: "nrt-015"
+    seq: 2
+    question: "mustとhave toの違いは？"
+    answer: "must=話し手の自発的な判断で「〜しなければならない」。have to=外部のさまざまな圧力があるせいで「仕方なしに〜しなければならない」。have toは助動詞ではなく一般動詞の延長線"
+  - node_id: "nrt-015"
+    seq: 3
+    question: "must notとdon't have toの意味の違いは？"
+    answer: "must not=禁止「〜してはいけない」。don't have to=不必要「〜する必要はない」。否定形で意味が大きく異なるので注意"
+  - node_id: "nrt-015"
+    seq: 4
+    question: "「〜しなければならなかった」はどう表現するか？"
+    answer: "mustには過去形がないため、had toを使う"
+  - node_id: "nrt-016"
+    seq: 1
+    question: "shallの基本イメージは？現代で使われる場面は？"
+    answer: "「（神の力や法律、運命など、個人の意志をはるかに超えたレベルで）当然〜すべき、当然〜になる」。法律の条文、Shall I〜？/ Shall we〜？の定型表現以外ではほぼ使われない絶滅の危機にある助動詞"
+  - node_id: "nrt-016"
+    seq: 2
+    question: "shouldの2つの用法は？mustと比べた印象は？"
+    answer: "(1)話し手の判断「当然〜した方がいい」（助言・アドバイス） (2)話し手の推量「当然〜のはずだ」。shallの過去形でマイルドになったもの。mustやshallと比べるとだいぶマイルド"
+  - node_id: "nrt-016"
+    seq: 3
+    question: "ought to Vについて知っておくべきことは？"
+    answer: "shouldとほぼ同じ意味で使える（判断・推量どちらも）。否定形はought not to V（notの位置がtoの前であることに注意）"
+  - node_id: "nrt-017"
+    seq: 1
+    question: "要求・提案のthat節中でshouldが使われる理由は？動詞の原形でも可能な理由は？"
+    answer: "要求・提案するときは「当然〜した方がいい」と思っているからshouldが入る。提案段階ではまだ実現していないので、昔の仮定法である動詞の原形も使える"
+  - node_id: "nrt-017"
+    seq: 2
+    question: "判断のthat節と感情のthat節でのshouldの違いは？"
+    answer: "判断(necessary等): 「当然だ」の裏にある話し手の気持ちを反映→原形も可。感情(surprising等): 「当然」の期待が裏切られ→意外・驚き・残念→事実なら直説法（現在形・過去形）も可"
+  - node_id: "nrt-017"
+    seq: 3
+    question: "Why should he go for you? はどんな気持ちを表すか？"
+    answer: "「当然〜すべきなのか？？」→意外な気持ちの強調。「どうして彼が君の代わりに行かねばならないのか」"
+  - node_id: "nrt-017"
+    seq: 4
+    question: "このセクションのshouldはought toに書き換えできるか？"
+    answer: "できない。that節中のshouldの応用用法はought toに書き換え不可"
+  - node_id: "nrt-018"
+    seq: 1
+    question: "推量の助動詞の3本柱と確信度は？"
+    answer: "must「〜に違いない」（確信度≒100%）、may「〜かもしれない」（確信度≒50%）、can't「〜のはずはない」（確信度≒0%）"
+  - node_id: "nrt-018"
+    seq: 2
+    question: "推量のmayをmightにすると過去の意味になるか？何が変わるか？"
+    answer: "過去の意味にはならない。過去形の「距離感」で確率が下がるだけ。「〜だったかもしれない」にはならない"
+  - node_id: "nrt-018"
+    seq: 3
+    question: "確信度の細分化（脚注*1）の順序は？"
+    answer: "must＞will＞may well＞may＞might＞can't＞couldn't"
+  - node_id: "nrt-018"
+    seq: 4
+    question: "助動詞の過去形が単独で過去を表せる場面は？"
+    answer: "実に少ない。will→wouldは過去の習慣など一部、can→couldはcouldn'tなど一部に限る。may→mightやshall→shouldはほぼ過去の意味にならない。mustとneedはそもそも過去形がない"
+  - node_id: "nrt-019"
+    seq: 1
+    question: "〈推量の助動詞+have+Vp.p.〉の〈have+Vp.p.〉は現在完了形と同じか？"
+    answer: "別物。「過去の意味(Vp.p.)をもたせる(have)」ための形。推量の助動詞は過去形にしても過去にならないので、この形で過去の推量を表す"
+  - node_id: "nrt-019"
+    seq: 2
+    question: "〈should+have+Vp.p.〉の2つの意味は？否定形は？"
+    answer: "(1)過去への後悔「〜すべきだったのに（実際にはしなかった）」 (2)過去への推量「〜したはずだ」。否定形はshould not have+Vp.p. [ought not to have+Vp.p.]"
+  - node_id: "nrt-019"
+    seq: 3
+    question: "一般動詞needと助動詞needの違いは？"
+    answer: "一般動詞need: 肯定・否定・疑問すべてで使え、過去形もある（didn't need to）。助動詞need: 肯定文では使えず、否定文(need not go)と疑問文(Need he go?)のみ。過去形がないため〈need not+have+Vp.p.〉で過去を表す"
+  - node_id: "nrt-019"
+    seq: 4
+    question: "〈need not+have+Vp.p.〉の意味は？"
+    answer: "「〜する必要はなかったのに（実際はした）」。助動詞needには過去形がないため〈have+Vp.p.〉で過去の意味を表す"
+  - node_id: "nrt-020"
+    seq: 1
+    question: "wouldとused toの動詞制限の違いは？"
+    answer: "wouldは動作動詞のみ、used toは動作動詞・状態動詞の両方で使える"
+  - node_id: "nrt-020"
+    seq: 2
+    question: "She used to drive to work, but now she doesn't. のused toをwouldに変えられるか？"
+    answer: "変えられない。現在との対比で述べるときにwouldは使えず、used toのみ可"
+  - node_id: "nrt-020"
+    seq: 3
+    question: "\"used to\"3兄弟を挙げよ"
+    answer: "(1) used to V「かつてVだった」 (2) be used to Ving「Vすることに慣れている」 (3) 受動態のwas used「使われた」"
+  - node_id: "nrt-020"
+    seq: 4
+    question: "would/used toと一緒に使えない語句の種類は？"
+    answer: "three timesのような具体的な回数や、for two yearsのような具体的な期間を示す語句"
+  - node_id: "nrt-021"
+    seq: 1
+    question: "had betterの否定形は？"
+    answer: "had better not+V。notはbetterの後ろ、Vの前に置く"
+  - node_id: "nrt-021"
+    seq: 2
+    question: "I cannot praise the food too much. のtoo muchをenoughやover-で書き換えよ"
+    answer: "I cannot praise the food enough. / I cannot overpraise the food."
+  - node_id: "nrt-021"
+    seq: 3
+    question: "cannot help Vingのhelpはどういう意味か？"
+    answer: "「〜を避ける」の意味。「Vすることを避けられない → ついついVしてしまう」"
+  - node_id: "nrt-021"
+    seq: 4
+    question: "cannot help Vingの同義表現を2つ挙げよ"
+    answer: "cannot help but V, cannot but V（butは「〜以外」の意味）"
+  - node_id: "nrt-022"
+    seq: 1
+    question: "won'tとwouldn'tの意味の違いは？"
+    answer: "won't「どうしても〜しようとしない」（現在の意志の否定）、wouldn't「どうしても〜しようとしなかった」（過去の意志の否定）"
+  - node_id: "nrt-022"
+    seq: 2
+    question: "The key wouldn't turn. でモノにwouldn'tを使えるのはなぜか？"
+    answer: "あたかも意志があるかのように擬人化して使っている"
+  - node_id: "nrt-022"
+    seq: 3
+    question: "would rather V₁ than V₂の意味は？"
+    answer: "「V₂するよりはV₁したい」"
+  - node_id: "nrt-022"
+    seq: 4
+    question: "How dare you speak to me like that? はどういう意味か？"
+    answer: "「よくもそんなふうに私に話しかけられるね」（他者への憤慨を表す）"
 
 node_prerequisites:
   - node_id: "nrt-003"
@@ -495,6 +1084,30 @@ node_prerequisites:
     prerequisite_id: "nrt-006"
   - node_id: "nrt-010"
     prerequisite_id: "nrt-009"
+  - node_id: "nrt-012"
+    prerequisite_id: "nrt-011"
+  - node_id: "nrt-013"
+    prerequisite_id: "nrt-012"
+  - node_id: "nrt-014"
+    prerequisite_id: "nrt-011"
+  - node_id: "nrt-015"
+    prerequisite_id: "nrt-011"
+  - node_id: "nrt-016"
+    prerequisite_id: "nrt-011"
+  - node_id: "nrt-017"
+    prerequisite_id: "nrt-016"
+  - node_id: "nrt-017"
+    prerequisite_id: "nrt-009"
+  - node_id: "nrt-018"
+    prerequisite_id: "nrt-011"
+  - node_id: "nrt-019"
+    prerequisite_id: "nrt-018"
+  - node_id: "nrt-020"
+    prerequisite_id: "nrt-011"
+  - node_id: "nrt-021"
+    prerequisite_id: "nrt-011"
+  - node_id: "nrt-022"
+    prerequisite_id: "nrt-011"
 
 knowledge_references:
   - node_id: "nrt-001"
@@ -537,3 +1150,51 @@ knowledge_references:
     book: "成川の深めて解ける！英文法 INPUT"
     section_id: "Nar_03_10"
     pages: "p.116-118"
+  - node_id: "nrt-011"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_04_01"
+    pages: "p.120-122"
+  - node_id: "nrt-012"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_04_02"
+    pages: "p.123-125"
+  - node_id: "nrt-013"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_04_03"
+    pages: "p.126-128"
+  - node_id: "nrt-014"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_04_04"
+    pages: "p.129-132"
+  - node_id: "nrt-015"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_04_05"
+    pages: "p.133-135"
+  - node_id: "nrt-016"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_04_06"
+    pages: "p.136-137"
+  - node_id: "nrt-017"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_04_07"
+    pages: "p.138-139"
+  - node_id: "nrt-018"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_04_08"
+    pages: "p.140-142"
+  - node_id: "nrt-019"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_04_09"
+    pages: "p.143-146"
+  - node_id: "nrt-020"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_04_10"
+    pages: "p.147-149"
+  - node_id: "nrt-021"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_04_11"
+    pages: "p.150-152"
+  - node_id: "nrt-022"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_04_12"
+    pages: "p.153-156"

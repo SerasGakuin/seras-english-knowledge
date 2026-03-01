@@ -1,0 +1,87 @@
+# Nar_04_02: 助動詞may (p.123-125)
+
+sentences:
+  - id: "nar-0402-e180"
+    section_id: "Nar_04_02"
+    drill: 0
+    number: 180
+    role: "example"
+    english: "May I go home? — You may go home."
+    japanese: "帰宅してよろしいでしょうか — よろしい"
+    notes: "mayの許可用法。上下関係のある場面（上司と部下）。ゴードンが田中部長に許可を求める場面"
+  - id: "nar-0402-e181"
+    section_id: "Nar_04_02"
+    drill: 0
+    number: 181
+    role: "example"
+    english: "He may go home."
+    japanese: "彼、帰るかもしれないよ"
+    notes: "mayの推量用法（50%）。e180で許可をもらった人を見た同僚の推量。帰宅の許可をもらったからといって帰るとは限らない"
+  - id: "nar-0402-e182"
+    section_id: "Nar_04_02"
+    drill: 0
+    number: 182
+    role: "example"
+    english: "\"Are you going to visit him this weekend?\" \"I'm not sure. I may go.\""
+    japanese: "「今週末、彼のところに行くつもり？」「わからないんだ。行くかもしれない」"
+    notes: "五分五分の気持ちを表すmay。行くかもしれないし、行かないかもしれない"
+  - id: "nar-0402-v001"
+    section_id: "Nar_04_02"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "Are there likely to be any problems?"
+    japanese: "ひょっとして何か問題があるのだろうか"
+    notes: "▶ 脚注*2。推量のmayは疑問文で使えないため、likelyなどを使った代替表現"
+  - id: "nar-0402-v002"
+    section_id: "Nar_04_02"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Visitors may not feed the animals."
+    japanese: "お客さまは動物にえさを与えないでください"
+    notes: "▶ 脚注*3。may notの禁止用法。must notと比べるとやや柔らかい印象。規則で禁止している場合に用いることが多い"
+
+sentence_structures:
+  - sentence_id: "nar-0402-e180"
+    label: "overall"
+    value: "V S V M ; S V M"
+  - sentence_id: "nar-0402-e180"
+    label: "details"
+    value: "May(助動詞/許可を求める) <I>(S) go(V) [home](M:副詞) ; <You>(S) may go(V:助動詞/許可を与える) [home](M:副詞)"
+  - sentence_id: "nar-0402-e181"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0402-e181"
+    label: "details"
+    value: "<He>(S) may go(V:助動詞/推量50%) [home](M:副詞)"
+  - sentence_id: "nar-0402-e182"
+    label: "overall"
+    value: "S V C ; S V"
+  - sentence_id: "nar-0402-e182"
+    label: "details"
+    value: "<I>(S) 'm not(V) <sure>(C:形容詞) ; <I>(S) may go(V:助動詞/推量50%)"
+  - sentence_id: "nar-0402-v001"
+    label: "overall"
+    value: "V S C"
+  - sentence_id: "nar-0402-v001"
+    label: "details"
+    value: "Are(V:be) <there>(S:存在のthere) <likely to be any problems>(C:推量のlikely+不定詞)"
+  - sentence_id: "nar-0402-v002"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0402-v002"
+    label: "details"
+    value: "<Visitors>(S) may not feed(V:助動詞/軽い禁止) <the animals>(O)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0402-e180"
+    node_id: "nrt-012"
+  - sentence_id: "nar-0402-e181"
+    node_id: "nrt-012"
+  - sentence_id: "nar-0402-e182"
+    node_id: "nrt-012"
+  - sentence_id: "nar-0402-v001"
+    node_id: "nrt-012"
+  - sentence_id: "nar-0402-v002"
+    node_id: "nrt-012"

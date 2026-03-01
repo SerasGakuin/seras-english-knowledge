@@ -1,0 +1,55 @@
+# Nar_04_06: 助動詞should(1) (p.136-137)
+
+sentences:
+  - id: "nar-0406-e202"
+    section_id: "Nar_04_06"
+    drill: 0
+    number: 202
+    role: "example"
+    english: "All people shall have the right to maintain the minimum standards of wholesome and cultured living."
+    japanese: "すべて国民は、健康で文化的な最低限度の生活を営む権利を有する"
+    notes: "日本国憲法第25条。shallの基本イメージ「（神の力や法律、運命など、個人の意志をはるかに超えたレベルで）当然〜すべき」"
+  - id: "nar-0406-e203"
+    section_id: "Nar_04_06"
+    drill: 0
+    number: 203
+    role: "example"
+    english: "Aki, you should give up your seat to the old woman."
+    japanese: "アキ、おばあさんに席を譲った方がいいよ"
+    notes: "shouldの基本用法(1): 話し手の判断「当然〜した方がいい」。shallの過去形でマイルドになったもの"
+  - id: "nar-0406-e204"
+    section_id: "Nar_04_06"
+    drill: 0
+    number: 204
+    role: "example"
+    english: "This should be done by this afternoon."
+    japanese: "これは今日の午後までには出来上がるはずだ"
+    notes: "shouldの基本用法(2): 話し手の推量「当然〜のはずだ」。≒ought to V"
+
+sentence_structures:
+  - sentence_id: "nar-0406-e202"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0406-e202"
+    label: "details"
+    value: "<All people>(S) shall have(V:助動詞shall/法律レベルの当然) <the right to maintain the minimum standards of wholesome and cultured living>(O:名詞+不定詞)"
+  - sentence_id: "nar-0406-e203"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0406-e203"
+    label: "details"
+    value: "<you>(S) should give up(V:助動詞should/判断) <your seat>(O) [to the old woman](M:前置詞句/対象)"
+  - sentence_id: "nar-0406-e204"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0406-e204"
+    label: "details"
+    value: "<This>(S) should be done(V:助動詞should/推量+受動態) [by this afternoon](M:前置詞句/期限)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0406-e202"
+    node_id: "nrt-016"
+  - sentence_id: "nar-0406-e203"
+    node_id: "nrt-016"
+  - sentence_id: "nar-0406-e204"
+    node_id: "nrt-016"

@@ -1,0 +1,55 @@
+# Nar_04_11: その他の助動詞(1) (p.150-152)
+
+sentences:
+  - id: "nar-0411-e224"
+    section_id: "Nar_04_11"
+    drill: 0
+    number: 224
+    role: "example"
+    english: "You had better not tell it to anybody."
+    japanese: "そのことを誰にも言わない方がいいよ〔言わない方が身のためだよ〕"
+    notes: "had better not+V。否定形のnotの位置に注意。had betterは軽い脅迫・警告のニュアンス"
+  - id: "nar-0411-e225"
+    section_id: "Nar_04_11"
+    drill: 0
+    number: 225
+    role: "example"
+    english: "I cannot praise the food too much."
+    japanese: "その料理はいくらほめてもほめ過ぎではない"
+    notes: "cannot V too...「いくらVしてもし過ぎることはない」。バリエーション: cannot V enough / cannot overV / It is impossible to overV"
+  - id: "nar-0411-e226"
+    section_id: "Nar_04_11"
+    drill: 0
+    number: 226
+    role: "example"
+    english: "I couldn't help laughing at his poor singing."
+    japanese: "彼の下手な歌についつい笑ってしまった"
+    notes: "cannot help Ving「ついつい〜してしまう」。helpは「〜を避ける」の意味。= couldn't help but laugh（butを使う場合はV原形）"
+
+sentence_structures:
+  - sentence_id: "nar-0411-e224"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0411-e224"
+    label: "details"
+    value: "<You>(S) had better not tell(V:had better not+V/警告) <it>(O) [to anybody](M:前置詞句)"
+  - sentence_id: "nar-0411-e225"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0411-e225"
+    label: "details"
+    value: "<I>(S) cannot praise(V:cannot V too/慣用表現) <the food>(O) [too much](M:副詞句/過剰)"
+  - sentence_id: "nar-0411-e226"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0411-e226"
+    label: "details"
+    value: "<I>(S) couldn't help(V:cannot help/避けられない) <laughing at his poor singing>(O:動名詞句)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0411-e224"
+    node_id: "nrt-021"
+  - sentence_id: "nar-0411-e225"
+    node_id: "nrt-021"
+  - sentence_id: "nar-0411-e226"
+    node_id: "nrt-021"

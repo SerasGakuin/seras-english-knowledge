@@ -1,0 +1,87 @@
+# Nar_04_10: wouldとused toの用法 (p.147-149)
+
+sentences:
+  - id: "nar-0410-e219"
+    section_id: "Nar_04_10"
+    drill: 0
+    number: 219
+    role: "example"
+    english: "When we were young, we would often play on the beach."
+    japanese: "若いころ、私たちは海辺でよく遊んだものだ"
+    notes: "wouldは動作動詞と使って過去を回想。頻度副詞oftenと共に使用"
+  - id: "nar-0410-e220"
+    section_id: "Nar_04_10"
+    drill: 0
+    number: 220
+    role: "example"
+    english: "Joe used to be a nice boy."
+    japanese: "ジョーは前はいい子だった（今はそうではない）"
+    notes: "used to+状態動詞(be)。「今はそうではない」のニュアンスを含む"
+  - id: "nar-0410-e221"
+    section_id: "Nar_04_10"
+    drill: 0
+    number: 221
+    role: "example"
+    english: "She used to drive to work, but now she doesn't."
+    japanese: "彼女は昔はよく車で通勤していたが、今は違う"
+    notes: "used toの現在との対比用法。▶ wouldにはできない — 現在との対比ではwouldは使えない"
+  - id: "nar-0410-e222"
+    section_id: "Nar_04_10"
+    drill: 0
+    number: 222
+    role: "example"
+    english: "He is used to handling drugs."
+    japanese: "彼は薬品の扱いに慣れている"
+    notes: "\"used to\"3兄弟の1つ。〈be used to+Ving〉「Vすることに慣れている」。過去回想のused toとは別物"
+  - id: "nar-0410-e223"
+    section_id: "Nar_04_10"
+    drill: 0
+    number: 223
+    role: "example"
+    english: "Every means was used to solve the problem."
+    japanese: "その問題を解決するために、あらゆる手段が使われた"
+    notes: "\"used to\"3兄弟の1つ。was usedは単なる受動態、to solve以下は不定詞の副詞用法（目的）。過去回想のused toと混同しないこと"
+
+sentence_structures:
+  - sentence_id: "nar-0410-e219"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "nar-0410-e219"
+    label: "details"
+    value: "[When we were young](M:時の副詞節) <we>(S) would often play(V:助動詞would/過去回想) [on the beach](M:前置詞句)"
+  - sentence_id: "nar-0410-e220"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0410-e220"
+    label: "details"
+    value: "<Joe>(S) used to be(V:used to+状態動詞) <a nice boy>(C:名詞句)"
+  - sentence_id: "nar-0410-e221"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0410-e221"
+    label: "details"
+    value: "<She>(S) used to drive(V:used to+動作動詞/現在との対比) [to work](M:前置詞句). but now she doesn't（対比節）"
+  - sentence_id: "nar-0410-e222"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0410-e222"
+    label: "details"
+    value: "<He>(S) is(V) <used to handling drugs>(C:形容詞句/be used to Ving=慣れている)"
+  - sentence_id: "nar-0410-e223"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0410-e223"
+    label: "details"
+    value: "<Every means>(S) was used(V:受動態) [to solve the problem](M:不定詞副詞用法/目的)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0410-e219"
+    node_id: "nrt-020"
+  - sentence_id: "nar-0410-e220"
+    node_id: "nrt-020"
+  - sentence_id: "nar-0410-e221"
+    node_id: "nrt-020"
+  - sentence_id: "nar-0410-e222"
+    node_id: "nrt-020"
+  - sentence_id: "nar-0410-e223"
+    node_id: "nrt-020"

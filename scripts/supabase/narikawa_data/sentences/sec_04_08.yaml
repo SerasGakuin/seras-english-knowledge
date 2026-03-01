@@ -1,0 +1,87 @@
+# Nar_04_08: 推量の助動詞 (p.140-142)
+
+sentences:
+  - id: "nar-0408-e210"
+    section_id: "Nar_04_08"
+    drill: 0
+    number: 210
+    role: "example"
+    english: "John got 95% on the test. He must be happy."
+    japanese: "ジョンはテストで95パーセントとった。彼は喜んでいるに違いない"
+    notes: "推量のmust（確信度≒100%）。95%の好成績から話し手が推量"
+  - id: "nar-0408-e211"
+    section_id: "Nar_04_08"
+    drill: 0
+    number: 211
+    role: "example"
+    english: "Mary got an average score on the test. She may be happy."
+    japanese: "メアリーはテストで平均点をとった。彼女は喜んでいるかもしれない"
+    notes: "推量のmay（確信度≒50%）。平均点なので喜んでいるかどうか半々"
+  - id: "nar-0408-e212"
+    section_id: "Nar_04_08"
+    drill: 0
+    number: 212
+    role: "example"
+    english: "Ken got only 10% on the test. He can't be happy."
+    japanese: "ケンはテストで10パーセントしかとれなかった。彼は喜んでいるはずがない"
+    notes: "推量のcan't（確信度≒0%）。10%の低得点から話し手が推量"
+  - id: "nar-0408-e213"
+    section_id: "Nar_04_08"
+    drill: 0
+    number: 213
+    role: "example"
+    english: "She may pass the examination."
+    japanese: "彼女は試験に合格するかもしれない"
+    notes: "推量のmayをmightにしても過去の意味にはならない。過去形の距離感で確率が下がるだけ"
+  - id: "nar-0408-e214"
+    section_id: "Nar_04_08"
+    drill: 0
+    number: 214
+    role: "example"
+    english: "The rumors could not be true."
+    japanese: "うわさが本当であるはずはない"
+    notes: "can't→couldn'tで「（理論上）本当にありえない！」と強まる感じ。過去の意味ではない"
+
+sentence_structures:
+  - sentence_id: "nar-0408-e210"
+    label: "overall"
+    value: "S V O M S V C"
+  - sentence_id: "nar-0408-e210"
+    label: "details"
+    value: "<John>(S) got(V) <95%>(O) [on the test](M:前置詞句). <He>(S) must be(V:助動詞must/推量) <happy>(C:形容詞)"
+  - sentence_id: "nar-0408-e211"
+    label: "overall"
+    value: "S V O M S V C"
+  - sentence_id: "nar-0408-e211"
+    label: "details"
+    value: "<Mary>(S) got(V) <an average score>(O) [on the test](M:前置詞句). <She>(S) may be(V:助動詞may/推量) <happy>(C:形容詞)"
+  - sentence_id: "nar-0408-e212"
+    label: "overall"
+    value: "S V O M S V C"
+  - sentence_id: "nar-0408-e212"
+    label: "details"
+    value: "<Ken>(S) got(V) <only 10%>(O) [on the test](M:前置詞句). <He>(S) can't be(V:助動詞can't/推量≒0%) <happy>(C:形容詞)"
+  - sentence_id: "nar-0408-e213"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0408-e213"
+    label: "details"
+    value: "<She>(S) may pass(V:助動詞may/推量) <the examination>(O)"
+  - sentence_id: "nar-0408-e214"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0408-e214"
+    label: "details"
+    value: "<The rumors>(S) could not be(V:助動詞couldn't/推量強調) <true>(C:形容詞)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0408-e210"
+    node_id: "nrt-018"
+  - sentence_id: "nar-0408-e211"
+    node_id: "nrt-018"
+  - sentence_id: "nar-0408-e212"
+    node_id: "nrt-018"
+  - sentence_id: "nar-0408-e213"
+    node_id: "nrt-018"
+  - sentence_id: "nar-0408-e214"
+    node_id: "nrt-018"

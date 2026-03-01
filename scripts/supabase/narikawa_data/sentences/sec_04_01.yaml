@@ -1,0 +1,71 @@
+# Nar_04_01: 助動詞とはどういうものか？ (p.120-122)
+
+sentences:
+  - id: "nar-0401-e176"
+    section_id: "Nar_04_01"
+    drill: 0
+    number: 176
+    role: "example"
+    english: "I go jogging every morning."
+    japanese: "毎朝ジョギングしているんだ"
+    notes: "助動詞なしの現在形（安定した習慣）。e177と対比して助動詞の役割を示す"
+  - id: "nar-0401-e177"
+    section_id: "Nar_04_01"
+    drill: 0
+    number: 177
+    role: "example"
+    english: "I will go jogging this weekend."
+    japanese: "今週末はジョギングするつもりなんだ"
+    notes: "助動詞willで話し手の強い意志を表す。e176（現在形=習慣）との対比"
+  - id: "nar-0401-e178"
+    section_id: "Nar_04_01"
+    drill: 0
+    number: 178
+    role: "example"
+    english: "\"Will you take Gordon to be your husband?\" \"I will.\""
+    japanese: "「あなたはゴードンを夫としますか」「はい」"
+    notes: "結婚式の一場面。willの基本イメージ「その場での意志表明」。応答のI will.も意志表明"
+  - id: "nar-0401-e179"
+    section_id: "Nar_04_01"
+    drill: 0
+    number: 179
+    role: "example"
+    english: "She will be happy."
+    japanese: "彼女、きっと幸せになるね"
+    notes: "e178の意志表明を聞いた参列者の推量。助動詞の2つ目の意味（他者による客観的推量）の例"
+
+sentence_structures:
+  - sentence_id: "nar-0401-e176"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0401-e176"
+    label: "details"
+    value: "<I>(S) go jogging(V:go+Ving) [every morning](M:時の副詞句)"
+  - sentence_id: "nar-0401-e177"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0401-e177"
+    label: "details"
+    value: "<I>(S) will go jogging(V:助動詞will+go+Ving) [this weekend](M:時の副詞句)"
+  - sentence_id: "nar-0401-e178"
+    label: "overall"
+    value: "V S V O C"
+  - sentence_id: "nar-0401-e178"
+    label: "details"
+    value: "<Will>(助動詞/意志を問う) <you>(S) take(V) <Gordon>(O) <to be your husband>(C:不定詞)"
+  - sentence_id: "nar-0401-e179"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0401-e179"
+    label: "details"
+    value: "<She>(S) will be(V:助動詞will/推量) <happy>(C:形容詞)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0401-e176"
+    node_id: "nrt-011"
+  - sentence_id: "nar-0401-e177"
+    node_id: "nrt-011"
+  - sentence_id: "nar-0401-e178"
+    node_id: "nrt-011"
+  - sentence_id: "nar-0401-e179"
+    node_id: "nrt-011"

@@ -366,116 +366,208 @@ sections:
     title: "助動詞とはどういうものか？"
     type: "concept"
     pages: "p.120-122"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
   Nar_04_02:
     title: "助動詞may"
     type: "concept"
     pages: "p.123-125"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文2件(v001-v002)含む"
   Nar_04_03:
     title: "mayを用いた重要表現"
     type: "expression"
     pages: "p.126-128"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文1件(v001)含む"
   Nar_04_04:
     title: "助動詞can"
     type: "concept"
     pages: "p.129-132"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
   Nar_04_05:
     title: "助動詞must"
     type: "concept"
     pages: "p.133-135"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文1件(v001)含む"
   Nar_04_06:
     title: "助動詞should(1)"
     type: "concept"
     pages: "p.136-137"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
   Nar_04_07:
     title: "助動詞should(2)"
     type: "concept"
     pages: "p.138-139"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文2件(v001-v002)含む"
   Nar_04_08:
     title: "推量の助動詞"
     type: "concept"
     pages: "p.140-142"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
   Nar_04_09:
     title: "〈助動詞+have+Vp.p.〉"
     type: "concept"
     pages: "p.143-146"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文1件(v001)含む"
   Nar_04_10:
     title: "wouldとused toの用法"
     type: "concept"
     pages: "p.147-149"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
   Nar_04_11:
     title: "その他の助動詞(1)"
     type: "concept"
     pages: "p.150-152"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+  Nar_04_12:
+    title: "その他の助動詞(2)"
+    type: "concept"
+    pages: "p.153-156"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+
+  # === Phase 2 B-05: Part 05（Nar_05_01〜05_09） ===
+  Nar_05_01:
+    title: "直説法と仮定法"
+    type: "concept"
+    pages: "p.158-160"
     status: "not_started"
     knowledge_nodes_created: 0
     sentences_created: 0
     gates_passed: []
     reviewed_at: null
     notes: ""
-  Nar_04_12:
-    title: "その他の助動詞(2)"
+  Nar_05_02:
+    title: "仮定法過去"
     type: "concept"
-    pages: "p.153-156"
+    pages: "p.161-163"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Nar_05_03:
+    title: "仮定法過去完了、仮定法過去と仮定法過去完了の併用"
+    type: "concept"
+    pages: "p.164-166"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Nar_05_04:
+    title: "仮定法過去の重要表現"
+    type: "expression"
+    pages: "p.167-168"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Nar_05_05:
+    title: "ifの省略と倒置"
+    type: "concept"
+    pages: "p.169-170"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Nar_05_06:
+    title: "if節以外が仮定法の「条件」を表す場合"
+    type: "concept"
+    pages: "p.171-172"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Nar_05_07:
+    title: "仮定法を使った重要表現(1)"
+    type: "expression"
+    pages: "p.173-175"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Nar_05_08:
+    title: "仮定法を使った重要表現(2)"
+    type: "expression"
+    pages: "p.176-177"
+    status: "not_started"
+    knowledge_nodes_created: 0
+    sentences_created: 0
+    gates_passed: []
+    reviewed_at: null
+    notes: ""
+  Nar_05_09:
+    title: "仮定法を使った重要表現(3)"
+    type: "expression"
+    pages: "p.178-180"
     status: "not_started"
     knowledge_nodes_created: 0
     sentences_created: 0
@@ -485,8 +577,8 @@ sections:
 
 summary:
   total_sections: 162
-  completed: 35
+  completed: 47
   in_progress: 0
-  not_started: 127
-  total_knowledge_nodes: 35
-  total_sentences: 190
+  not_started: 115
+  total_knowledge_nodes: 47
+  total_sentences: 255

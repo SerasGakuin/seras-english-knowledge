@@ -1,0 +1,87 @@
+# Nar_04_09: 〈助動詞+have+Vp.p.〉 (p.143-146)
+
+sentences:
+  - id: "nar-0409-e215"
+    section_id: "Nar_04_09"
+    drill: 0
+    number: 215
+    role: "example"
+    english: "You must have eaten something that didn't agree with you."
+    japanese: "体質に合わないものを食べたに違いないわね"
+    notes: "must+have+Vp.p.「〜だったに違いない」。文脈: 息子「ひどくおなかが痛いんだ(I have an awful stomachache.)」に対する母の推量"
+  - id: "nar-0409-e216"
+    section_id: "Nar_04_09"
+    drill: 0
+    number: 216
+    role: "example"
+    english: "I should have written to you much earlier."
+    japanese: "私はもっと早くあなたに手紙を書くべきだったのに"
+    notes: "should[ought to]+have+Vp.p.「〜すべきだったのに（実際にはしなかった）」。否定形はshould not have written [ought not to have written]"
+  - id: "nar-0409-e217"
+    section_id: "Nar_04_09"
+    drill: 0
+    number: 217
+    role: "example"
+    english: "I need not have got up so early."
+    japanese: "私はあんなに早く起きる必要はなかったのに"
+    notes: "need not+have+Vp.p.「〜する必要はなかったのに（実際はした）」。助動詞needには過去形がないためこの形を使う"
+  - id: "nar-0409-e218"
+    section_id: "Nar_04_09"
+    drill: 0
+    number: 218
+    role: "example"
+    english: "Something must have happened."
+    japanese: "きっと何かが起こったはずだ"
+    notes: "〈助動詞+have+Vp.p.〉の共通メッセージ: 過去の事柄を現在の立場から推測や評価をする"
+  - id: "nar-0409-v001"
+    section_id: "Nar_04_09"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "By this time next year I may have married her."
+    japanese: "来年の今ごろまでには彼女と結婚しているかもしれない"
+    notes: "▶ 脚注*1。may have+Vp.p.が未来完了形のwillがmayに変わった用法。時を表す語句で判別"
+
+sentence_structures:
+  - sentence_id: "nar-0409-e215"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0409-e215"
+    label: "details"
+    value: "<You>(S) must have eaten(V:must+have+Vp.p./過去の推量) <something that didn't agree with you>(O:名詞+関係代名詞節)"
+  - sentence_id: "nar-0409-e216"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "nar-0409-e216"
+    label: "details"
+    value: "<I>(S) should have written(V:should+have+Vp.p./過去への後悔) [to you](M:前置詞句/対象) [much earlier](M:副詞/比較級)"
+  - sentence_id: "nar-0409-e217"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0409-e217"
+    label: "details"
+    value: "<I>(S) need not have got up(V:need not+have+Vp.p./不要だった) [so early](M:副詞句)"
+  - sentence_id: "nar-0409-e218"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "nar-0409-e218"
+    label: "details"
+    value: "<Something>(S) must have happened(V:must+have+Vp.p./過去の推量)"
+  - sentence_id: "nar-0409-v001"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "nar-0409-v001"
+    label: "details"
+    value: "[By this time next year](M:時の前置詞句) <I>(S) may have married(V:may+have+Vp.p./未来完了のwill→may) <her>(O)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0409-e215"
+    node_id: "nrt-019"
+  - sentence_id: "nar-0409-e216"
+    node_id: "nrt-019"
+  - sentence_id: "nar-0409-e217"
+    node_id: "nrt-019"
+  - sentence_id: "nar-0409-e218"
+    node_id: "nrt-019"
+  - sentence_id: "nar-0409-v001"
+    node_id: "nrt-019"
