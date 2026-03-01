@@ -1,0 +1,87 @@
+# Nar_08_09: 非制限用法で用いられる関係詞 (p.312-314)
+
+sentences:
+  - id: "nar-0809-e464"
+    section_id: "Nar_08_09"
+    drill: 0
+    number: 464
+    role: "example"
+    english: "Dr. Jones is the engineer who designed this engine."
+    japanese: "ジョーンズ博士はこのエンジンを設計したエンジニアだ"
+    notes: "制限用法（コンマなし）。同種のものと区別するためにwho節で限定。どんなエンジニアかを特定"
+  - id: "nar-0809-e465"
+    section_id: "Nar_08_09"
+    drill: 0
+    number: 465
+    role: "example"
+    english: "I met Bob's wife Mary, who didn't give me any good advice."
+    japanese: "私はボブの妻メアリーに会ったが、何らよいアドバイスはしてくれなかった"
+    notes: "非制限用法（コンマあり）。固有名詞Maryが先行詞→限定する必要がない→補足説明"
+  - id: "nar-0809-e466"
+    section_id: "Nar_08_09"
+    drill: 0
+    number: 466
+    role: "example"
+    english: "His wife is Lynn, who(m) he married in 2009."
+    japanese: "彼の妻はリンであり、彼女とは2009年に結婚した"
+    notes: "非制限用法では目的格でも関代を省略しない。thatでの代用も不可"
+  - id: "nar-0809-e467"
+    section_id: "Nar_08_09"
+    drill: 0
+    number: 467
+    role: "example"
+    english: "I didn't say anything, which made him angry."
+    japanese: "私は何も言わなかった。そして、そのことが彼を怒らせた"
+    notes: "非制限用法のwhich。前の節全体を先行詞にできる。コンマ前後に論理関係「そして」をもたせている"
+  - id: "nar-0809-e468"
+    section_id: "Nar_08_09"
+    drill: 0
+    number: 468
+    role: "example"
+    english: "He refused to come, which was quite a surprise."
+    japanese: "彼は来るのを断わったが、それは全く意外だった"
+    notes: "非制限用法のwhich。コンマ前後に逆接の論理関係+書き手の評価（quite a surprise）を表現"
+
+sentence_structures:
+  - sentence_id: "nar-0809-e464"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0809-e464"
+    label: "details"
+    value: "<Dr. Jones>(S) is(V) <the engineer [who designed this engine]>(C)"
+  - sentence_id: "nar-0809-e465"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0809-e465"
+    label: "details"
+    value: "<I>(S) met(V) <Bob's wife Mary>(O), who didn't give <me>(O₁) <any good advice>(O₂) [非制限/補足説明]"
+  - sentence_id: "nar-0809-e466"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0809-e466"
+    label: "details"
+    value: "<His wife>(S) is(V) <Lynn>(C), who(m) <he>(S) married(V) [in 2009](M) [非制限/補足説明]"
+  - sentence_id: "nar-0809-e467"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0809-e467"
+    label: "details"
+    value: "<I>(S) didn't say(V) <anything>(O), which made(V) <him>(O) <angry>(C) [非制限/前の節全体が先行詞]"
+  - sentence_id: "nar-0809-e468"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "nar-0809-e468"
+    label: "details"
+    value: "<He>(S) refused to come(V), which was(V) <quite a surprise>(C) [非制限/前の節全体が先行詞/逆接]"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0809-e464"
+    node_id: "nrs-023"
+  - sentence_id: "nar-0809-e465"
+    node_id: "nrs-023"
+  - sentence_id: "nar-0809-e466"
+    node_id: "nrs-023"
+  - sentence_id: "nar-0809-e467"
+    node_id: "nrs-023"
+  - sentence_id: "nar-0809-e468"
+    node_id: "nrs-023"

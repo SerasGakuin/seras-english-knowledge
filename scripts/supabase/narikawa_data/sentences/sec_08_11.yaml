@@ -1,0 +1,103 @@
+# Nar_08_11: その他の関係詞の用法 (p.318-320)
+
+sentences:
+  - id: "nar-0811-e471"
+    section_id: "Nar_08_11"
+    drill: 0
+    number: 471
+    role: "example"
+    english: "He is not a great writer that he used to be."
+    japanese: "彼は昔のような偉大な作家ではない"
+    notes: "補語の関係代名詞that。Cが欠け→先行詞が人/人以外に関係なくthat。先行詞は職業・地位・性格が通例"
+  - id: "nar-0811-e472"
+    section_id: "Nar_08_11"
+    drill: 0
+    number: 472
+    role: "example"
+    english: "He looked like a professional musician, which he was."
+    japanese: "彼はプロの音楽家らしく見えたし、実際にそうだった"
+    notes: "非制限用法では補語の関代thatは不可→whichを使う。先行詞を「職業」ととらえるためwhich"
+  - id: "nar-0811-e473"
+    section_id: "Nar_08_11"
+    drill: 0
+    number: 473
+    role: "example"
+    english: "This is the same smartphone as I lost."
+    japanese: "これは私がなくしたのと同じスマートフォンだ"
+    notes: "関係代名詞as。先行詞にthe sameがつくとas使用。as=同じ種類、that=同一物だが現在は違いはほぼない"
+  - id: "nar-0811-e474"
+    section_id: "Nar_08_11"
+    drill: 0
+    number: 474
+    role: "example"
+    english: "Read such books as you understand."
+    japanese: "理解できる本を読みなさい"
+    notes: "関係代名詞as。先行詞にsuchがつくとas使用。後ろは不完全な文(understandのOが欠け)"
+  - id: "nar-0811-e475"
+    section_id: "Nar_08_11"
+    drill: 0
+    number: 475
+    role: "example"
+    english: "My mother spends more money than my father earns."
+    japanese: "母は父が稼ぐ以上にお金を使う"
+    notes: "関係代名詞than。先行詞にmoreをともなうのが通例。後ろは不完全な文(earnsのOが欠け)"
+  - id: "nar-0811-e476"
+    section_id: "Nar_08_11"
+    drill: 0
+    number: 476
+    role: "example"
+    english: "There is no rule but has some exceptions."
+    japanese: "例外のない規則はない"
+    notes: "関係代名詞but。先行詞に否定語(no)。主格のみ。but節内はnotなしでも否定訳。現在では非常にまれ"
+
+sentence_structures:
+  - sentence_id: "nar-0811-e471"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0811-e471"
+    label: "details"
+    value: "<He>(S) is(V) not <a great writer [that he used to be]>(C)"
+  - sentence_id: "nar-0811-e472"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0811-e472"
+    label: "details"
+    value: "<He>(S) looked(V) [like a professional musician](M), which <he>(S) was(V) [非制限/補語の関代which]"
+  - sentence_id: "nar-0811-e473"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0811-e473"
+    label: "details"
+    value: "<This>(S) is(V) <the same smartphone [as I lost]>(C)"
+  - sentence_id: "nar-0811-e474"
+    label: "overall"
+    value: "V O"
+  - sentence_id: "nar-0811-e474"
+    label: "details"
+    value: "Read(V) <such books [as you understand]>(O)"
+  - sentence_id: "nar-0811-e475"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0811-e475"
+    label: "details"
+    value: "<My mother>(S) spends(V) <more money [than my father earns]>(O)"
+  - sentence_id: "nar-0811-e476"
+    label: "overall"
+    value: "V S"
+  - sentence_id: "nar-0811-e476"
+    label: "details"
+    value: "There is(V) <no rule [but has some exceptions]>(S)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0811-e471"
+    node_id: "nrs-025"
+  - sentence_id: "nar-0811-e472"
+    node_id: "nrs-025"
+  - sentence_id: "nar-0811-e473"
+    node_id: "nrs-025"
+  - sentence_id: "nar-0811-e474"
+    node_id: "nrs-025"
+  - sentence_id: "nar-0811-e475"
+    node_id: "nrs-025"
+  - sentence_id: "nar-0811-e476"
+    node_id: "nrs-025"

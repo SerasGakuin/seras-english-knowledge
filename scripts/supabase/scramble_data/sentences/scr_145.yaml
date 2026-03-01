@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-145-p01"
+    section_id: "Scr_145"
+    drill: 1
+    number: 570
+    role: "exam"
+    english: "I suggested to my brother that he apply for a scholarship."
+    japanese: "私は弟に奨学金を申請してみたらと提案しました。"
+    notes: "出典: 神戸学院大。〈超頻〉並べ替え問題。suggest (to A) that S (should)+原形「Sが〜してはどうかと（Aに）提案する」。suggestedと過去形でもthat節中は原形。"
+  - id: "scr-145-p02"
+    section_id: "Scr_145"
+    drill: 1
+    number: 571
+    role: "exam"
+    english: "My parents insisted that my sister visit the dentist."
+    japanese: "両親は姉［妹］に歯医者に行くように強く言った。"
+    notes: "出典: 近畿大。〈頻出〉4択問題。insist that S (should)+原形「Sに〜するように強く要求する」。本問のinsistは「主張」ではなく「要求」の意味。"
+  - id: "scr-145-p03"
+    section_id: "Scr_145"
+    drill: 1
+    number: 572
+    role: "exam"
+    english: "Tom demanded that his sister return the key to his car by tonight."
+    japanese: "トムは姉［妹］に今夜までに車の鍵を返すように求めた。"
+    notes: "出典: 慶應大。誤り指摘問題。demand that S (should)+原形「Sに〜するように要求する」。原文のreturnsを(should) returnに訂正。〈暗記〉the key to one's car「車の鍵」（⇨ 704）。"
+  - id: "scr-145-e01"
+    section_id: "Scr_145"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "He suggested that I was wrong."
+    japanese: "彼は私が間違っていると遠回しに言った。"
+    notes: "PU!122発展例文。suggestを「〜とそれとなく言う」の意味で用いる場合は原形をとらず、直説法（普通の時制）を用いる。×... that I (should) be wrong."
+
+sentence_structures:
+  - sentence_id: "scr-145-p01"
+    label: "overall"
+    value: "S V M O"
+  - sentence_id: "scr-145-p01"
+    label: "details"
+    value: "<I>(S) suggested(V) [to my brother](M) <that he apply for a scholarship>(O:that節/原形)"
+  - sentence_id: "scr-145-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-145-p02"
+    label: "details"
+    value: "<My parents>(S) insisted(V) <that my sister visit the dentist>(O:that節/原形)"
+  - sentence_id: "scr-145-p03"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-145-p03"
+    label: "details"
+    value: "<Tom>(S) demanded(V) <that his sister (should) return the key to his car by tonight>(O:that節/原形)"
+  - sentence_id: "scr-145-e01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-145-e01"
+    label: "details"
+    value: "<He>(S) suggested(V) <that I was wrong>(O:that節/直説法)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-145-p01"
+    node_id: "sgh-013"
+  - sentence_id: "scr-145-p02"
+    node_id: "sgh-013"
+  - sentence_id: "scr-145-p03"
+    node_id: "sgh-013"
+  - sentence_id: "scr-145-e01"
+    node_id: "sgh-013"

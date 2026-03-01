@@ -1,0 +1,87 @@
+# Nar_08_04: 関係代名詞 whose の用法 (p.294-296)
+
+sentences:
+  - id: "nar-0804-e443"
+    section_id: "Nar_08_04"
+    drill: 0
+    number: 443
+    role: "example"
+    english: "This is the man whose car I bought."
+    japanese: "こちらが私が買った車の持ち主である"
+    notes: "whoseの後ろは完全な文（car=O, I=S, bought=V すべてそろっている）。〈whose+名詞〉の形"
+  - id: "nar-0804-e444"
+    section_id: "Nar_08_04"
+    drill: 0
+    number: 444
+    role: "example"
+    english: "He lives in that house whose roof is red."
+    japanese: "彼は屋根が赤いあの家に住んでいる"
+    notes: "whose: 所有格の代名詞Its→whoseに変化。whoseの先行詞は人が通例だが人以外(house)もありうる"
+  - id: "nar-0804-e445"
+    section_id: "Nar_08_04"
+    drill: 0
+    number: 445
+    role: "example"
+    english: "He lives in that house the roof of which is red."
+    japanese: "彼はあの家に住んでいて、その家の屋根は赤いです"
+    notes: "〈the+名詞+of which〉形式。of itの前置詞句からの変化。whoseとは元の表現が全く違う"
+  - id: "nar-0804-v001"
+    section_id: "Nar_08_04"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "He lives in that house of which the roof is red."
+    japanese: "彼はあの家に住んでいて、その家の屋根は赤いです"
+    notes: "▶e445のof whichを節の先頭に移動した形。堅苦しい表現"
+  - id: "nar-0804-v002"
+    section_id: "Nar_08_04"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "He lives in that house with the red roof."
+    japanese: "彼は赤い屋根のあの家に住んでいる"
+    notes: "▶前置詞withで書き換えた自然な表現。〈the+名詞+of which〉は堅苦しいためwith等が好まれる"
+
+sentence_structures:
+  - sentence_id: "nar-0804-e443"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0804-e443"
+    label: "details"
+    value: "<This>(S) is(V) <the man [whose car I bought]>(C)"
+  - sentence_id: "nar-0804-e444"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0804-e444"
+    label: "details"
+    value: "<He>(S) lives(V) [in that house [whose roof is red]](M)"
+  - sentence_id: "nar-0804-e445"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0804-e445"
+    label: "details"
+    value: "<He>(S) lives(V) [in that house [the roof of which is red]](M)"
+  - sentence_id: "nar-0804-v001"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0804-v001"
+    label: "details"
+    value: "<He>(S) lives(V) [in that house [of which the roof is red]](M)"
+  - sentence_id: "nar-0804-v002"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0804-v002"
+    label: "details"
+    value: "<He>(S) lives(V) [in that house [with the red roof]](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0804-e443"
+    node_id: "nrs-018"
+  - sentence_id: "nar-0804-e444"
+    node_id: "nrs-018"
+  - sentence_id: "nar-0804-e445"
+    node_id: "nrs-018"
+  - sentence_id: "nar-0804-v001"
+    node_id: "nrs-018"
+  - sentence_id: "nar-0804-v002"
+    node_id: "nrs-018"

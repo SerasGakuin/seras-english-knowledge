@@ -1,0 +1,103 @@
+# Nar_08_07: 関係副詞 (p.303-307)
+
+sentences:
+  - id: "nar-0807-e452"
+    section_id: "Nar_08_07"
+    drill: 0
+    number: 452
+    role: "example"
+    english: "The time will soon come when we have a world without war."
+    japanese: "戦争のない世界が実現するときがじきにやってくるだろう"
+    notes: "関係副詞when。先行詞The timeとwhen節が離れている例。後ろは完全な文(we have=SV+O)"
+  - id: "nar-0807-e453"
+    section_id: "Nar_08_07"
+    drill: 0
+    number: 453
+    role: "example"
+    english: "I want to go to the school where my mother studied music."
+    japanese: "私は、母が音楽を学んだ学校へ行きたい"
+    notes: "関係副詞where。先行詞the school。後ろは完全な文(my mother studied music=SVO)"
+  - id: "nar-0807-e454"
+    section_id: "Nar_08_07"
+    drill: 0
+    number: 454
+    role: "example"
+    english: "This is the reason why he couldn't attend the meeting."
+    japanese: "これが、彼が会議に出席できなかった理由だ"
+    notes: "関係副詞why。先行詞the reason。後ろは完全な文(he couldn't attend the meeting=SVO)"
+  - id: "nar-0807-e455"
+    section_id: "Nar_08_07"
+    drill: 0
+    number: 455
+    role: "example"
+    english: "This is how he behaves toward me."
+    japanese: "これが彼の私に対するふるまい方（態度）だ"
+    notes: "関係副詞how。先行詞the wayは省略（✕ the way howは意味の重複で不可）"
+  - id: "nar-0807-v001"
+    section_id: "Nar_08_07"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "This is the way he behaves toward me."
+    japanese: "これが彼の私に対するふるまい方（態度）だ"
+    notes: "▶e455のhow省略形。the wayを残しhowを省略。the way in which / the way thatも可"
+  - id: "nar-0807-e456"
+    section_id: "Nar_08_07"
+    drill: 0
+    number: 456
+    role: "example"
+    english: "I remember when cell phones were still rare."
+    japanese: "私は携帯電話がまだ珍しかったときのことを覚えている"
+    notes: "先行詞the timeが省略された例。先行詞が明白な場合は省略可"
+
+sentence_structures:
+  - sentence_id: "nar-0807-e452"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0807-e452"
+    label: "details"
+    value: "<The time>(S) will soon come(V) [when we have a world without war](M:when/関係副詞)"
+  - sentence_id: "nar-0807-e453"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0807-e453"
+    label: "details"
+    value: "<I>(S) want to go(V) [to the school [where my mother studied music]](M)"
+  - sentence_id: "nar-0807-e454"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0807-e454"
+    label: "details"
+    value: "<This>(S) is(V) <the reason [why he couldn't attend the meeting]>(C)"
+  - sentence_id: "nar-0807-e455"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0807-e455"
+    label: "details"
+    value: "<This>(S) is(V) <[how he behaves toward me]>(C)"
+  - sentence_id: "nar-0807-v001"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0807-v001"
+    label: "details"
+    value: "<This>(S) is(V) <the way [he behaves toward me]>(C)"
+  - sentence_id: "nar-0807-e456"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0807-e456"
+    label: "details"
+    value: "<I>(S) remember(V) <[when cell phones were still rare]>(O)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0807-e452"
+    node_id: "nrs-021"
+  - sentence_id: "nar-0807-e453"
+    node_id: "nrs-021"
+  - sentence_id: "nar-0807-e454"
+    node_id: "nrs-021"
+  - sentence_id: "nar-0807-e455"
+    node_id: "nrs-021"
+  - sentence_id: "nar-0807-v001"
+    node_id: "nrs-021"
+  - sentence_id: "nar-0807-e456"
+    node_id: "nrs-021"

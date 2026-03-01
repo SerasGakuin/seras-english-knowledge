@@ -1,0 +1,39 @@
+# Nar_08_03: 関係代名詞 who, whom, which の用法 (p.292-293)
+
+sentences:
+  - id: "nar-0803-e441"
+    section_id: "Nar_08_03"
+    drill: 0
+    number: 441
+    role: "example"
+    english: "The taxi driver who took me to the station was friendly."
+    japanese: "私を駅まで連れて行ってくれたタクシードライバーは親切だった"
+    notes: "tookの主語が欠け→不完全な文→主格の関係代名詞who。先行詞The taxi driverは「人」"
+  - id: "nar-0803-e442"
+    section_id: "Nar_08_03"
+    drill: 0
+    number: 442
+    role: "example"
+    english: "The house (which) he was looking for was on the main street."
+    japanese: "彼が探していた家は本通り沿いにあった"
+    notes: "前置詞forの後ろにOが欠け→不完全な文→目的格の関係代名詞which。目的格は省略するのが通例"
+
+sentence_structures:
+  - sentence_id: "nar-0803-e441"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0803-e441"
+    label: "details"
+    value: "<The taxi driver [who took me to the station]>(S) was(V) <friendly>(C)"
+  - sentence_id: "nar-0803-e442"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0803-e442"
+    label: "details"
+    value: "<The house [(which) he was looking for]>(S) was(V) [on the main street](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0803-e441"
+    node_id: "nrs-017"
+  - sentence_id: "nar-0803-e442"
+    node_id: "nrs-017"

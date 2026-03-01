@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-150-p01"
+    section_id: "Scr_150"
+    drill: 1
+    number: 590
+    role: "exam"
+    english: "She wanted to buy a new sweater to go with her favorite skirt."
+    japanese: "彼女はお気に入りのスカートに合う新しいセーターを買いたかった。"
+    notes: "出典: 関東学院大。4択問題。A go with [match] B「A（物）がB（別の物）に合う/調和する」。A to go with B「Bに合うA」（不定詞の形容詞的用法）。go withとmatchは物同士の組み合わせ。"
+  - id: "scr-150-p02"
+    section_id: "Scr_150"
+    drill: 1
+    number: 591
+    role: "exam"
+    english: "I like your dress. I think that blue suits you."
+    japanese: "あなたの服はすてきですね。そのブルーがあなたに似合っています。"
+    notes: "出典: 青山学院大。4択問題。A suit B「A（衣服・色・髪型）がB（人）に似合う」。suitはBに人が来る。色・スタイルに似合う場合に用いる。"
+  - id: "scr-150-p03"
+    section_id: "Scr_150"
+    drill: 1
+    number: 592
+    role: "exam"
+    english: "I had to send back the jacket because it did not fit me."
+    japanese: "そのジャケットは私に合わなかったので、送り返さなければならなかった。"
+    notes: "出典: 昭和女子大。4択問題。A fit B「A（衣服などのサイズ）がB（人）に合う」。fitはサイズ・形に関して用いる。suitの色・スタイルとの違いに注意。meet「（要求など）に応じる」、arrange「〜を整える」。"
+
+sentence_structures:
+  - sentence_id: "scr-150-p01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-150-p01"
+    label: "details"
+    value: "<She>(S) wanted(V) <to buy a new sweater to go with her favorite skirt>(O:to do)"
+  - sentence_id: "scr-150-p02"
+    label: "overall"
+    value: "S V O. S V O"
+  - sentence_id: "scr-150-p02"
+    label: "details"
+    value: "<I>(S) like(V) <your dress>(O). <I>(S) think(V) <(that) blue suits you>(O:that節省略)"
+  - sentence_id: "scr-150-p03"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-150-p03"
+    label: "details"
+    value: "<I>(S) had to send back(V) <the jacket>(O) [because it did not fit me](M:理由の副詞節)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-150-p01"
+    node_id: "sgh-018"
+  - sentence_id: "scr-150-p02"
+    node_id: "sgh-018"
+  - sentence_id: "scr-150-p03"
+    node_id: "sgh-018"

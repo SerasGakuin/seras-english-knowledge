@@ -891,10 +891,142 @@ sections:
     reviewed_at: "2026-03-02"
     notes: ""
 
+  # === Phase 2 B-09: Part 08 関係詞（Nar_08_01〜08_13） ===
+  Nar_08_01:
+    title: "関係詞の働き"
+    type: "concept"
+    pages: "p.286-288"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_08_02:
+    title: "関係代名詞と関係副詞 — 関係詞決定の手順"
+    type: "concept"
+    pages: "p.289-291"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_08_03:
+    title: "関係代名詞 who, whom, which の用法"
+    type: "concept"
+    pages: "p.292-294"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_08_04:
+    title: "関係代名詞 whose の用法"
+    type: "concept"
+    pages: "p.295-297"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_08_05:
+    title: "関係代名詞 what の用法"
+    type: "concept"
+    pages: "p.298-300"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_08_06:
+    title: "〈前置詞+関係代名詞〉の用法"
+    type: "concept"
+    pages: "p.301-304"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_08_07:
+    title: "関係副詞"
+    type: "concept"
+    pages: "p.305-307"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_08_08:
+    title: "関係形容詞 what、その他の what"
+    type: "concept"
+    pages: "p.308-311"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_08_09:
+    title: "非制限用法で用いられる関係詞"
+    type: "concept"
+    pages: "p.312-314"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_08_10:
+    title: "連鎖関係詞"
+    type: "concept"
+    pages: "p.315-317"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_08_11:
+    title: "その他の関係詞の用法"
+    type: "concept"
+    pages: "p.318-320"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_08_12:
+    title: "whoever, whichever, whatever の用法"
+    type: "concept"
+    pages: "p.321-324"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 10
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+  Nar_08_13:
+    title: "whenever, wherever, however の用法"
+    type: "concept"
+    pages: "p.325-328"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: ""
+
 summary:
   total_sections: 162
-  completed: 87
+  completed: 100
   in_progress: 0
-  not_started: 75
-  total_knowledge_nodes: 87
-  total_sentences: 482
+  not_started: 62
+  total_knowledge_nodes: 100
+  total_sentences: 546

@@ -236,6 +236,197 @@ knowledge_nodes:
       プラスα: 従属接続詞を主節の後に置く場合、特別な理由がない限り接続詞の前にコンマは打たないのが通例。
       プラスα: althoughには従属接続詞としての用法しかなく、接続副詞としての用法はない。
       別冊ポイント182(howeverの用法)・183(接続副詞)参照
+  # === Part 08 関係詞 ===
+  - id: "nrs-015"
+    name: "関係詞の基本概念（情報追加と完全/不完全な文）"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      関係詞の働き＝前にある名詞に情報［説明］を追加する。
+      完全な文: 必要な名詞(S・O・C・前置詞の後ろのⓃ)がすべてそろっている。
+      不完全な文: 必要な名詞が1つ欠けている。
+      判別のポイント: 意味よりもカタチ（形式）に注目する。自動詞/他動詞の語法や前置詞にも注意。
+      関係詞そのものは考慮に入れない。関係詞を含まない残りの部分がどうなっているかを考える。
+      whoseの場合は語句の倒置があっても要素がそろっていれば完全な文と見なす。
+      [図表: イラスト — 関係詞→前にある名詞に情報追加。the place where he parked his car（p.286）]
+      別冊ポイント188(完全な文/不完全な文の見極め)参照
+  - id: "nrs-016"
+    name: "関係詞の決定手順（関係代名詞vs関係副詞）"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      関係詞を選択する手順:
+      ❶ 関係詞の後ろが「完全な文 or 不完全な文」かを確認する
+      ❷ 先行詞をチェックする
+      先行詞だけで関係詞を決定するのは絶対NG。
+      不完全な文→関係代名詞(who, whom, which, what, that)。
+      完全な文→関係副詞(when, where, why, how)。
+      関係代名詞の格変化: 人→who[that]/whose/whom[that], 人以外→which[that]/whose/which[that]。
+      目的格の関係代名詞は省略するのが通例。
+      [図表: イラスト — visitは他動詞→Oがない不完全な文、先行詞チェック（p.289-290）]
+      別冊ポイント189(格変化)・190(不完全な文をとる関係代名詞)参照
+  - id: "nrs-017"
+    name: "関係代名詞 who, whom, which の用法と目的格省略"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      主格(Sが欠け)→who/which、目的格(Oが欠け)→whom/which。
+      thatで代用可（ただし非制限用法では不可）。
+      whomは衰退→who/thatで代用、むしろ省略するのがふつう。
+      目的格の関係代名詞は「省略できる」ではなく「省略するのがふつう」。
+      省略発見のヒント: ❶不自然に名詞が2つ並ぶ ❷2つ目の名詞を含む文が不完全
+      ❸述語動詞が2つあるのに接続詞/関係詞がない ❹したがって省略に気づく。
+      英文読解なら❶→❷、整序問題なら❸で気づくはず。
+      プラスα: 前置詞の後ろの名詞欠落→「前置詞の目的語」欠落→目的格の関代を補う。
+      プラスα: 非制限用法ではthatで代用不可。
+      別冊ポイント191(省略のヒント)参照
+  - id: "nrs-018"
+    name: "関係代名詞 whose の用法（所有格）"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      whoseの後ろは完全な文（他の関代とは異なる特徴）。
+      〈whose+名詞〉の形で使う。whoseは所有格(my, hisの仲間)。
+      ✕ whose the car（所有格+冠詞は不可）、✕ whose Mary（所有格+固有名詞は不可）。
+      whose = the+名詞+of which で書き換え可能だが、元の表現が異なる:
+      ・whose → Its等の代名詞の所有格からの変化
+      ・the+名詞+of which → of itの前置詞句からの変化
+      of whichを節の先頭に移動することも可。堅苦しい表現→with等で書き換えが自然。
+      [図表: イラスト — my/hisの仲間であるwhose。冠詞/固有名詞を拒否（p.295）]
+      プラスα: whoseの先行詞は人が通例。人以外を認めないネイティブもいる。
+  - id: "nrs-019"
+    name: "関係代名詞 what の用法（名詞節）"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      whatの後ろは不完全な文（他の関代と共通）。
+      what節は名詞節を作る→S/O/C/前置詞の後ろに置ける。
+      他の関代(who/whom/which/whose)は先行詞を修飾する形容詞節。
+      whatには先行詞が組み込まれている(≒thing(s) which)→先行詞は置かれない。
+      訳し方: 基本「〜こと・もの」。文脈によって「意図」「本音」等の意訳も可。
+      別冊ポイント192(whatの用法)・193(コト≠what)・194(what慣用表現)参照
+  - id: "nrs-020"
+    name: "〈前置詞+関係代名詞〉の用法"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      〈前置詞+関代〉→後ろは完全な文（前置詞が移動して名詞欠落が解消）。
+      パターンは2つ: 先行詞が人→前+whom、人以外→前+which。
+      thatで代用不可。省略も不可。
+      前置詞の決定方法:
+      ❶ 後ろの語句との関係(熟語的つながり等)
+      ❷ 先行詞の名詞との関係(特定の名詞+特定の前置詞)
+      頻出3パターン: the reason for which, the extent[degree] to which, the way in which。
+      with what(関代what)と〈前+which〉は別物→whatの後ろは常に不完全な文。
+      〈前+関代〉は堅苦しい表現→実際は後ろに前置詞を残し目的格関代を省略した形が一般的。
+      [図表: イラスト — 名詞と前置詞のペアリング: the reason+for, the way+in（p.302）]
+      別冊ポイント195(前+関代のポイント)・196(前置詞の決定)参照
+  - id: "nrs-021"
+    name: "関係副詞 when, where, why, how"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      関係副詞の後ろは完全な文。先行詞を修飾する形容詞節を作る。
+      when→時を表す先行詞(time, day等)。先行詞と関係副詞が離れることもある。
+      where→場所を表す先行詞(place等)。広義の「場」: case, situation, point, circumstancesも可。
+      why→理由を表す先行詞(reason等)。
+      how→先行詞the way。✕ the way howは不可（意味の重複）→どちらか一方を必ず省略。
+      関係副詞の省略: where(先行詞place限定で省略OK), when/why(省略OK,ただし先行詞と離れる場合は不可), how(the wayかhowのどちらか必ず省略)。
+      先行詞の省略: place, time, reason等は省略OK。howを使うならthe wayは必ず省略。
+      the way in whichやthe way thatでthe way howの代替が可能。
+      [図表: イラスト — the way how「やり方方法」の重複（p.306）]
+      別冊ポイント197(関係副詞)・198(省略)・199(先行詞の省略)・200(howの注意点)参照
+  - id: "nrs-022"
+    name: "関係形容詞 what・which と疑問詞 what の判別"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      関係形容詞what: 後ろに完全な文。〈what+名詞〉の形。名詞節を作る。「すべての〜」と訳す。
+      what few+可算名詞 / what little+不可算名詞 =「少ないながらもすべての〜」。
+      関係代名詞whatとの違い: 関代what→後ろ不完全「〜こと・もの」、関係形容詞what→後ろ完全「すべての〜」。
+      共通点: どちらも名詞節を作る。
+      関係形容詞which: 原則非制限用法で使用。前の節全体(または一部)を受けて直後の名詞を修飾。
+      〈前置詞+which+名詞〉の形がほとんど(例: in which case)。
+      疑問代名詞whatとの区別: 関代what=「〜こと・もの」、疑問代what=「何が〜か」。
+      文脈次第でどちらでも通じることが多い。ask/wonder等は疑問代と相性がよい。
+      疑問形容詞what: 「何の〜」「どんな〜」(例: what time)。
+      別冊ポイント201(関係形容詞)参照
+  - id: "nrs-023"
+    name: "非制限用法（制限用法との対比）"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      制限用法(コンマなし): 同種のものと区別するために関係詞節で限定する。
+      非制限用法(コンマあり): 他に同じものがない(限定する必要がない)ことを前提に補足説明。
+      固有名詞やmy father, the moon等が先行詞なら非制限用法が自然。
+      非制限用法の注意点: ❶thatは使用不可 ❷関係詞の省略不可(目的格でも)。
+      非制限用法のwhich: 前の節全体(または一部)を先行詞にできる。
+      あえて非制限用法を用いるケース:
+      ❶ 前後に論理関係(そして・しかし)を持たせたい場合
+      ❷ 書き手の判断・評価を示したい場合
+      これらは単なる補足説明ではなく内容的に重要な情報。
+      [図表: イラスト — 制限用法(限定) vs 非制限用法(補足説明)の比較（p.312）]
+      参考書内参照: →p.70 別冊ポイント205(関係代名詞asの位置)
+      別冊ポイント202(制限vs非制限)・203(非制限用法の論理関係)・204(特殊な関代as)・205(as節の位置)参照
+  - id: "nrs-024"
+    name: "連鎖関係詞"
+    category: "nrs"
+    priority: "P2"
+    notes: |
+      関係詞の直後に〈S(人)+V(思考・発言系)〉が挿入されているように見える関係詞。
+      思考・発言系動詞: think, suppose, believe, say, hope等。
+      攻略法: 〈S+V〉をいったん飛ばして前後をつなぐ→飛ばした後ろとの関係で主格/目的格を決定。
+      連鎖関係詞では主格の関代でも省略が可能（通常は主格の省略不可）。
+      注意: think+O+to be+Cの構文と混同しないこと。
+      〈S+V〉を除外してもto beが残る場合→連鎖ではなくふつうの関係代名詞。
+      正体: 厳密には挿入ではない。代名詞→関代→移動のプロセスで形成。
+      I thought thatのthatは必ず省略される。
+      訳出: 〈S+V〉を除外した前後を訳し、先行詞にかける直前に〈S+V〉を足す。
+      別冊ポイント207(連鎖関係詞)参照
+  - id: "nrs-025"
+    name: "その他の関係代名詞（補語の関代 that、as、than、but）"
+    category: "nrs"
+    priority: "P2"
+    notes: |
+      補語の関係代名詞: 補語(C)が欠けている場合、先行詞が人/人以外に関係なくthatを使う。
+      先行詞は職業・地位・性格を表す語句がほとんど。
+      非制限用法ではwhichを使う(thatは非制限用法不可)。
+      関係代名詞as: 先行詞にthe sameやsuchがつくと用いられる。後ろは不完全な文。
+      the same...as(同じ種類) vs the same...that(同一物)→現在は両者の違いはほぼない。
+      関係代名詞than: 先行詞にmoreを伴うのが通例。後ろは不完全な文。
+      関係代名詞but: 先行詞に否定語(no等)がつく。主格でしか使わない。
+      but節内の動詞はnotがなくても否定で訳す。現在では非常にまれな表現。
+      プラスα: 補語の関代で非制限用法のwhichが使えるのは、職業等を「人そのもの」でなく「属性」と捉えているため。
+      別冊ポイント206(特殊な関代than, but)参照
+  - id: "nrs-026"
+    name: "複合関係代名詞・複合関係形容詞（whoever, whichever, whatever）"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      複合関係代名詞(whoever, whichever, whatever): 後ろは不完全な文。先行詞なし。
+      名詞節:「〜する人/もの/何でもすべて」、副詞節(譲歩):「たとえ誰/どちら/何が〜しようとも」。
+      no matter書き換えは副詞節の場合のみ可。名詞節では不可。
+      名詞節 vs 副詞節の判別: 文の要素(S/O等)になっていれば名詞節、取り去っても文が成立すれば副詞節。
+      複合関係形容詞(whichever+名, whatever+名): 後ろは完全な文。
+      名詞節:「〜するどちら/どんな名でもすべて」、副詞節:「たとえどちら/どんな名が〜でも」。
+      関係形容詞whatと複合関係形容詞whatever: 名詞節ではあまり違いがない。
+      whateverには譲歩の副詞節用法がある点で大きく異なる。what→whateverで強意。
+      複合関係詞は関係詞よりも疑問詞の延長線上で考えた方がよい。
+      別冊ポイント208(複合関係代名詞)・210(複合関係形容詞)参照
+  - id: "nrs-027"
+    name: "複合関係副詞（whenever, wherever, however）"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      複合関係副詞: 後ろは完全な文。先行詞なし。副詞節のみ（名詞節は作らない）。
+      whenever:「〜する時はいつでも」/「たとえいつ〜しようとも」(譲歩)。
+      wherever:「〜するところはどこでも」/「たとえどこで〜しようとも」(譲歩)。
+      however:「たとえどれほど（どのように）〜でも」(譲歩のパターンのみ)。
+      howeverの語順注意: however+形容詞/副詞+S+V。形容詞/副詞がhoweverの直後に移動する。
+      ✕ However it may be humble → ○ However humble it may be。
+      譲歩の見分け: may/mightが置かれることが多い（必須ではない、あくまで目安）。
+      no matter書き換え: whenever/whereverは譲歩の場合のみ可。howeverは常に可(譲歩しかないため)。
+      別冊ポイント209(複合関係副詞)参照
 
 understanding_goals:
   - node_id: "nrs-001"
@@ -376,6 +567,127 @@ understanding_goals:
   - node_id: "nrs-006"
     seq: 3
     goal: "whether同格節が使える名詞の例を挙げられる"
+  # Part 08 関係詞
+  - node_id: "nrs-015"
+    seq: 1
+    goal: "関係詞の働きを「前にある名詞への情報追加」として説明できる"
+  - node_id: "nrs-015"
+    seq: 2
+    goal: "完全な文と不完全な文の定義を正確に述べられる"
+  - node_id: "nrs-015"
+    seq: 3
+    goal: "自動詞/他動詞・前置詞の語法に注目して完全/不完全を判別できる"
+  - node_id: "nrs-016"
+    seq: 1
+    goal: "関係詞決定の2ステップ手順を正しく述べられる"
+  - node_id: "nrs-016"
+    seq: 2
+    goal: "不完全な文→関係代名詞、完全な文→関係副詞の対応を即答できる"
+  - node_id: "nrs-016"
+    seq: 3
+    goal: "関係代名詞の格変化表（人/人以外×主格/所有格/目的格）を埋められる"
+  - node_id: "nrs-017"
+    seq: 1
+    goal: "主格と目的格の関係代名詞を欠けている要素から正しく選択できる"
+  - node_id: "nrs-017"
+    seq: 2
+    goal: "目的格の関係代名詞は省略するのが通例であることを理解している"
+  - node_id: "nrs-017"
+    seq: 3
+    goal: "関係代名詞の省略を発見するためのヒントを3つ以上挙げられる"
+  - node_id: "nrs-018"
+    seq: 1
+    goal: "whoseの後ろが完全な文になる理由を説明できる"
+  - node_id: "nrs-018"
+    seq: 2
+    goal: "〈whose+名詞〉の形式を正しく使い、冠詞・固有名詞との不可の組み合わせを指摘できる"
+  - node_id: "nrs-018"
+    seq: 3
+    goal: "whoseとthe+名詞+of whichの書き換え関係と元の表現の違いを説明できる"
+  - node_id: "nrs-019"
+    seq: 1
+    goal: "関係代名詞whatが名詞節を作ることを他の関代（形容詞節）との違いとして説明できる"
+  - node_id: "nrs-019"
+    seq: 2
+    goal: "what節がS/O/C/前置詞の後ろのどの位置にあるか特定できる"
+  - node_id: "nrs-019"
+    seq: 3
+    goal: "接続詞that（完全な文）と関係代名詞what（不完全な文）を判別できる"
+  - node_id: "nrs-020"
+    seq: 1
+    goal: "〈前置詞+関代〉の後ろが完全な文になる理由を説明できる"
+  - node_id: "nrs-020"
+    seq: 2
+    goal: "前置詞の決定方法（後ろの語句との関係 / 先行詞の名詞との関係）を実践できる"
+  - node_id: "nrs-020"
+    seq: 3
+    goal: "頻出の名詞+前置詞の組み合わせ（reason for, extent to, way in）を挙げられる"
+  - node_id: "nrs-021"
+    seq: 1
+    goal: "4つの関係副詞（when, where, why, how）とそれぞれの先行詞を即答できる"
+  - node_id: "nrs-021"
+    seq: 2
+    goal: "the way howが不可である理由を説明でき、代替表現を挙げられる"
+  - node_id: "nrs-021"
+    seq: 3
+    goal: "関係副詞と先行詞それぞれの省略条件を正しく述べられる"
+  - node_id: "nrs-022"
+    seq: 1
+    goal: "関係代名詞whatと関係形容詞whatの違いを完全/不完全な文と訳し方の観点で説明できる"
+  - node_id: "nrs-022"
+    seq: 2
+    goal: "what few/what littleの意味を正しく訳せる"
+  - node_id: "nrs-022"
+    seq: 3
+    goal: "関係代名詞what・関係形容詞what・疑問詞whatを文脈から適切に訳し分けられる"
+  - node_id: "nrs-023"
+    seq: 1
+    goal: "制限用法と非制限用法の違いをコンマの有無と先行詞の性質で説明できる"
+  - node_id: "nrs-023"
+    seq: 2
+    goal: "非制限用法でthat不可・省略不可のルールを理解している"
+  - node_id: "nrs-023"
+    seq: 3
+    goal: "非制限用法のwhichが前の節全体を先行詞にできることを理解し正しく訳せる"
+  - node_id: "nrs-023"
+    seq: 4
+    goal: "非制限用法が論理関係や書き手の評価を表す場合があることを理解している"
+  - node_id: "nrs-024"
+    seq: 1
+    goal: "連鎖関係詞を見抜き、挿入された〈S+V〉を飛ばして前後の関係で格を判断できる"
+  - node_id: "nrs-024"
+    seq: 2
+    goal: "think+O+to be+Cの構文と連鎖関係詞を正しく区別できる"
+  - node_id: "nrs-024"
+    seq: 3
+    goal: "連鎖関係詞では主格の関代でも省略可能であることを理解している"
+  - node_id: "nrs-025"
+    seq: 1
+    goal: "補語が欠けた場合の関係代名詞がthatであることを説明できる"
+  - node_id: "nrs-025"
+    seq: 2
+    goal: "the same/such+先行詞でasが関代として使われることを理解している"
+  - node_id: "nrs-025"
+    seq: 3
+    goal: "関係代名詞than, butの特徴と用法を説明できる"
+  - node_id: "nrs-026"
+    seq: 1
+    goal: "複合関係代名詞が名詞節と副詞節のどちらを作っているか判別できる"
+  - node_id: "nrs-026"
+    seq: 2
+    goal: "no matter書き換えが副詞節の場合のみ可能であることを理解している"
+  - node_id: "nrs-026"
+    seq: 3
+    goal: "複合関係形容詞(whatever/whichever+名詞)の用法と訳し方を説明できる"
+  - node_id: "nrs-027"
+    seq: 1
+    goal: "3つの複合関係副詞の訳し方を正しく使い分けられる"
+  - node_id: "nrs-027"
+    seq: 2
+    goal: "howeverの語順（however+形/副+S+V）を正しく組み立てられる"
+  - node_id: "nrs-027"
+    seq: 3
+    goal: "no matter書き換えの可否を複合関係副詞ごとに判断できる"
 
 check_points:
   - node_id: "nrs-001"
@@ -547,6 +859,167 @@ check_points:
     seq: 3
     question: "接続副詞としてのthoughの制約は？"
     answer: "文頭では使用不可。文中・文末で挿入的に用いる。althoughには接続副詞としての用法はない。"
+  # Part 08 関係詞
+  - node_id: "nrs-015"
+    seq: 1
+    question: "関係詞の働きとは何か？"
+    answer: "前にある名詞に情報（説明）を追加する働き。"
+  - node_id: "nrs-015"
+    seq: 2
+    question: "「完全な文」と「不完全な文」の違いは？"
+    answer: "完全な文=必要な名詞(S・O・C・前置詞の後ろのⓃ)がすべてそろっている。不完全な文=必要な名詞が1つ欠けている。"
+  - node_id: "nrs-015"
+    seq: 3
+    question: "完全/不完全を判断する際、関係詞そのものはどう扱うか？"
+    answer: "関係詞そのものは考慮に入れない。関係詞を含まない残りの部分が完全か不完全かを考える。"
+  - node_id: "nrs-016"
+    seq: 1
+    question: "関係詞を決定する2ステップの手順は？"
+    answer: "❶関係詞の後ろが完全な文か不完全な文かを確認する。❷先行詞をチェックする。先行詞だけで決定するのは絶対NG。"
+  - node_id: "nrs-016"
+    seq: 2
+    question: "不完全な文の場合と完全な文の場合、それぞれどの関係詞を使うか？"
+    answer: "不完全な文→関係代名詞(who, whom, which, what, that)。完全な文→関係副詞(when, where, why, how)。"
+  - node_id: "nrs-016"
+    seq: 3
+    question: "目的格の関係代名詞の特徴は？"
+    answer: "省略するのが通例。thatで代用可。非制限用法ではthat不可。"
+  - node_id: "nrs-017"
+    seq: 1
+    question: "Sが欠けている場合とOが欠けている場合、それぞれどの格を使うか？"
+    answer: "Sが欠け→主格(who/which)。Oが欠け→目的格(whom/which)。thatで代用可（ただし非制限用法では不可）。"
+  - node_id: "nrs-017"
+    seq: 2
+    question: "目的格の関係代名詞の省略を発見するヒントは？"
+    answer: "❶不自然に名詞が2つ並ぶ、❷2つ目の名詞を含む文が不完全、❸述語動詞が2つあるのに接続詞/関係詞がない、❹したがって省略に気づく。"
+  - node_id: "nrs-017"
+    seq: 3
+    question: "whomの代わりにwho/thatを使ったり省略するのは可能か？"
+    answer: "可能。whomは衰退しており、who/thatで代用するか省略するのがふつう。"
+  - node_id: "nrs-018"
+    seq: 1
+    question: "whoseの後ろはなぜ完全な文になるか？"
+    answer: "whoseは所有格(my, hisの仲間)で〈whose+名詞〉の形で使う。名詞自体は欠けない（所有格が欠けるだけ）ため、残りの要素はそろっている。"
+  - node_id: "nrs-018"
+    seq: 2
+    question: "✕ whose the car / ✕ whose Maryがなぜ不可か？"
+    answer: "whoseは所有格なので、冠詞(the)や固有名詞と並べられない。my the car / my Maryが不可なのと同じ理由。"
+  - node_id: "nrs-018"
+    seq: 3
+    question: "whose carをof whichで書き換えるとどうなるか？"
+    answer: "the car of which / of which the carの2パターン。ただし堅苦しい表現なのでwithなどで書き換える方が自然。"
+  - node_id: "nrs-019"
+    seq: 1
+    question: "what節は何を作り、他の関代(who/which等)との最大の違いは？"
+    answer: "what節は名詞節を作る。他の関代は先行詞を修飾する形容詞節。whatには先行詞が組み込まれている(≒thing(s) which)ため先行詞は置かない。"
+  - node_id: "nrs-019"
+    seq: 2
+    question: "what節は文中のどの位置に置けるか？"
+    answer: "名詞節なのでS/O/C/前置詞の後ろのいずれにも置ける。"
+  - node_id: "nrs-019"
+    seq: 3
+    question: "接続詞thatとの違いは？"
+    answer: "接続詞that→後ろは完全な文。関係代名詞what→後ろは不完全な文（名詞が1つ欠ける）。"
+  - node_id: "nrs-020"
+    seq: 1
+    question: "〈前置詞+関代〉の後ろが完全な文になるのはなぜか？"
+    answer: "前置詞が関代の前に移動したことで、元の位置の名詞欠落が解消されるため。"
+  - node_id: "nrs-020"
+    seq: 2
+    question: "〈前置詞+関代〉でthatは使えるか？省略は可能か？"
+    answer: "thatで代用不可。省略も不可。前+whom（人）/ 前+which（人以外）のみ。"
+  - node_id: "nrs-020"
+    seq: 3
+    question: "頻出の〈名詞+前置詞+which〉の3パターンは？"
+    answer: "the reason for which、the extent[degree] to which、the way in which。"
+  - node_id: "nrs-021"
+    seq: 1
+    question: "4つの関係副詞と対応する先行詞は？"
+    answer: "when→時(time, day等)、where→場所(place等。case, situation等も可)、why→理由(reason等)、how→the way。"
+  - node_id: "nrs-021"
+    seq: 2
+    question: "✕ the way howがなぜ不可か？代替表現は？"
+    answer: "the way「やり方」とhow「方法」で意味が重複するため不可。代替: the way / how / the way in which / the way that。"
+  - node_id: "nrs-021"
+    seq: 3
+    question: "関係副詞where, when, whyの省略条件は？"
+    answer: "where=先行詞がplaceの場合のみ省略OK。when/why=省略OK、ただし先行詞と離れている場合は省略不可。"
+  - node_id: "nrs-022"
+    seq: 1
+    question: "関係代名詞whatと関係形容詞whatの違いは？"
+    answer: "関代what→後ろ不完全な文、訳「〜こと・もの」。関係形容詞what→〈what+名詞〉で後ろ完全な文、訳「すべての〜」。共通点: どちらも名詞節を作る。"
+  - node_id: "nrs-022"
+    seq: 2
+    question: "what few books / what little moneyの意味は？"
+    answer: "「少ないながらもすべての本/お金」。few+可算名詞、little+不可算名詞。"
+  - node_id: "nrs-022"
+    seq: 3
+    question: "関係形容詞whichはどのように使われるか？"
+    answer: "原則非制限用法。前の節全体(または一部)を受けて直後の名詞を修飾。〈前置詞+which+名詞〉(例: in which case)の形がほとんど。"
+  - node_id: "nrs-023"
+    seq: 1
+    question: "制限用法と非制限用法の違いは？"
+    answer: "制限用法(コンマなし)=同種のものと区別するために限定する。非制限用法(コンマあり)=他に同じものがない前提で補足説明。"
+  - node_id: "nrs-023"
+    seq: 2
+    question: "非制限用法で使えない関係詞と省略制約は？"
+    answer: "thatは使用不可。関係詞の省略も不可（目的格でも）。"
+  - node_id: "nrs-023"
+    seq: 3
+    question: "非制限用法のwhichが「前の節全体」を先行詞にできるとはどういうことか？"
+    answer: "前の文(節)の内容全体をwhichが受けて補足する用法。, which is surprising等。制限用法では不可能な使い方。"
+  - node_id: "nrs-023"
+    seq: 4
+    question: "あえて非制限用法を用いるのはどんなケースか？"
+    answer: "❶前後に論理関係（そして・しかし等）を持たせたい場合。❷書き手の判断・評価を示したい場合。単なる補足ではなく重要情報。"
+  - node_id: "nrs-024"
+    seq: 1
+    question: "連鎖関係詞の攻略法は？"
+    answer: "関係詞直後の〈S+V(思考・発言系)〉をいったん飛ばし、前後をつなげて主格/目的格を判断する。"
+  - node_id: "nrs-024"
+    seq: 2
+    question: "連鎖関係詞とthink+O+to be+Cの構文をどう区別するか？"
+    answer: "〈S+V〉を除外してもto beが残る場合→連鎖ではなくthink+O+to be+Cの構文。"
+  - node_id: "nrs-024"
+    seq: 3
+    question: "連鎖関係詞で主格の関代が省略可能なのはなぜ特殊か？"
+    answer: "通常は主格の関係代名詞は省略不可。連鎖関係詞の場合に限り、S+V(思考・発言)の挿入があるため主格でも省略可能になる。"
+  - node_id: "nrs-025"
+    seq: 1
+    question: "補語(C)が欠けている場合、どの関係代名詞を使うか？"
+    answer: "先行詞が人/人以外に関係なくthatを使う。先行詞は職業・地位・性格を表す語句がほとんど。非制限用法ではwhichを使う。"
+  - node_id: "nrs-025"
+    seq: 2
+    question: "関係代名詞asが使われるのはどんな場合か？"
+    answer: "先行詞にthe sameやsuchがつく場合。the same...as(同じ種類) vs the same...that(同一物)だが現在は違いはほぼない。"
+  - node_id: "nrs-025"
+    seq: 3
+    question: "関係代名詞butの特徴は？"
+    answer: "先行詞に否定語(no等)がつく。主格でしか使わない。but節内の動詞はnotがなくても否定で訳す。現在では非常にまれな表現。"
+  - node_id: "nrs-026"
+    seq: 1
+    question: "複合関係代名詞の名詞節と副詞節はどう判別するか？"
+    answer: "文の要素(S/O等)になっていれば名詞節「〜する人/もの/何でもすべて」。取り去っても文が成立すれば副詞節（譲歩）「たとえ〜しようとも」。"
+  - node_id: "nrs-026"
+    seq: 2
+    question: "no matter書き換えはいつ可能か？"
+    answer: "副詞節（譲歩）の場合のみ可能。名詞節では不可（no matterは名詞節を作れない）。"
+  - node_id: "nrs-026"
+    seq: 3
+    question: "複合関係形容詞の用法は？"
+    answer: "whichever+名詞 / whatever+名詞の形。後ろは完全な文。名詞節「すべての〜」と副詞節（譲歩）「たとえどんな〜でも」の2用法。"
+  - node_id: "nrs-027"
+    seq: 1
+    question: "複合関係副詞は名詞節を作れるか？"
+    answer: "作れない。副詞節のみ（名詞節は作らない）。"
+  - node_id: "nrs-027"
+    seq: 2
+    question: "howeverの正しい語順は？"
+    answer: "however+形容詞/副詞+S+V。形容詞/副詞がhoweverの直後に移動する。✕ However it may be humble → ○ However humble it may be。"
+  - node_id: "nrs-027"
+    seq: 3
+    question: "however/whenever/whereverのno matter書き換えの可否は？"
+    answer: "however→常に可（譲歩しかないため）。whenever/wherever→譲歩の場合のみ可。"
 
 node_prerequisites:
   - node_id: "nrs-002"
@@ -557,6 +1030,9 @@ node_prerequisites:
     prerequisite_id: "nrs-007"
   - node_id: "nrs-014"
     prerequisite_id: "nrs-012"
+  # Part 08 関係詞
+  - node_id: "nrs-016"
+    prerequisite_id: "nrs-015"
 
 knowledge_references:
   - node_id: "nrs-001"
@@ -615,3 +1091,56 @@ knowledge_references:
     book: "成川の深めて解ける！英文法 INPUT"
     section_id: "Nar_07_14"
     pages: "p.282-284"
+  # Part 08 関係詞
+  - node_id: "nrs-015"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_08_01"
+    pages: "p.286-288"
+  - node_id: "nrs-016"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_08_02"
+    pages: "p.289-291"
+  - node_id: "nrs-017"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_08_03"
+    pages: "p.292-293"
+  - node_id: "nrs-018"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_08_04"
+    pages: "p.294-296"
+  - node_id: "nrs-019"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_08_05"
+    pages: "p.297-299"
+  - node_id: "nrs-020"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_08_06"
+    pages: "p.300-303"
+  - node_id: "nrs-021"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_08_07"
+    pages: "p.303-307"
+  - node_id: "nrs-022"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_08_08"
+    pages: "p.308-311"
+  - node_id: "nrs-023"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_08_09"
+    pages: "p.312-315"
+  - node_id: "nrs-024"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_08_10"
+    pages: "p.315-317"
+  - node_id: "nrs-025"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_08_11"
+    pages: "p.318-320"
+  - node_id: "nrs-026"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_08_12"
+    pages: "p.321-324"
+  - node_id: "nrs-027"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_08_13"
+    pages: "p.325-328"

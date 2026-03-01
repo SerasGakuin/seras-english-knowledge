@@ -1,0 +1,71 @@
+# Nar_08_13: whenever, wherever, however の用法 (p.325-328)
+
+sentences:
+  - id: "nar-0813-e486"
+    section_id: "Nar_08_13"
+    drill: 0
+    number: 486
+    role: "example"
+    english: "Whenever he comes to this place, he orders the same dish."
+    japanese: "彼がここにやって来る時はいつでも、同じ食事を注文する"
+    notes: "複合関係副詞whenever。副詞節のみ（名詞節は作らない）。後ろは完全な文"
+  - id: "nar-0813-e487"
+    section_id: "Nar_08_13"
+    drill: 0
+    number: 487
+    role: "example"
+    english: "1975 is the year when I was born."
+    japanese: "1975年は私が生まれた年だ"
+    notes: "ふつうの関係副詞when（対比用）。先行詞を修飾する形容詞節。複合関係副詞は副詞節のみ"
+  - id: "nar-0813-e488"
+    section_id: "Nar_08_13"
+    drill: 0
+    number: 488
+    role: "example"
+    english: "Wherever she may go, she is kindly received."
+    japanese: "たとえどこへ行っても、彼女は好意をもって迎えられる"
+    notes: "複合関係副詞wherever（譲歩）。may/mightが置かれることが多い（必須ではない）。no matter where書き換え可"
+  - id: "nar-0813-e489"
+    section_id: "Nar_08_13"
+    drill: 0
+    number: 489
+    role: "example"
+    english: "However you do it, you will find it difficult."
+    japanese: "たとえどんなやり方でやろうとも、それが難しいということがわかるだろう"
+    notes: "複合関係副詞however（方法「たとえどのように〜しても」）。howeverは譲歩のみ→常にno matter how書き換え可"
+
+sentence_structures:
+  - sentence_id: "nar-0813-e486"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "nar-0813-e486"
+    label: "details"
+    value: "[Whenever he comes to this place](M:複合関係副詞), <he>(S) orders(V) <the same dish>(O)"
+  - sentence_id: "nar-0813-e487"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0813-e487"
+    label: "details"
+    value: "<1975>(S) is(V) <the year [when I was born]>(C)"
+  - sentence_id: "nar-0813-e488"
+    label: "overall"
+    value: "M S V"
+  - sentence_id: "nar-0813-e488"
+    label: "details"
+    value: "[Wherever she may go](M:複合関係副詞/譲歩), <she>(S) is kindly received(V)"
+  - sentence_id: "nar-0813-e489"
+    label: "overall"
+    value: "M S V O C"
+  - sentence_id: "nar-0813-e489"
+    label: "details"
+    value: "[However you do it](M:複合関係副詞/方法/譲歩), <you>(S) will find(V) <it>(O) <difficult>(C)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0813-e486"
+    node_id: "nrs-027"
+  - sentence_id: "nar-0813-e487"
+    node_id: "nrs-027"
+  - sentence_id: "nar-0813-e488"
+    node_id: "nrs-027"
+  - sentence_id: "nar-0813-e489"
+    node_id: "nrs-027"

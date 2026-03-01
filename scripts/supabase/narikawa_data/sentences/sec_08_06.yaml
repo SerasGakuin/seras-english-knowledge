@@ -1,0 +1,103 @@
+# Nar_08_06: 〈前置詞+関係代名詞〉の用法 (p.300-303)
+
+sentences:
+  - id: "nar-0806-e450"
+    section_id: "Nar_08_06"
+    drill: 0
+    number: 450
+    role: "example"
+    english: "This is the house in which Ohgai Mori was born."
+    japanese: "これが森鷗外が生まれた家だ"
+    notes: "〈前置詞+関代〉。in the houseがin whichとなって移動→後ろは完全な文"
+  - id: "nar-0806-e451"
+    section_id: "Nar_08_06"
+    drill: 0
+    number: 451
+    role: "example"
+    english: "Do you know the girl to whom Bob spoke?"
+    japanese: "ボブが話しかけた少女を知っていますか"
+    notes: "先行詞が「人」→〈前置詞+whom〉。speak to〈人〉のtoが前に移動。thatへの置き換え不可"
+  - id: "nar-0806-v001"
+    section_id: "Nar_08_06"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "This is the house which Ohgai Mori was born in."
+    japanese: "これが森鷗外が生まれた家だ"
+    notes: "▶e450の関代形式。前置詞inが後ろに残り、whichの後ろは不完全な文"
+  - id: "nar-0806-v002"
+    section_id: "Nar_08_06"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "This is the house Ohgai Mori was born in."
+    japanese: "これが森鷗外が生まれた家だ"
+    notes: "▶v001の目的格関代省略形。堅苦しくない自然な表現"
+  - id: "nar-0806-v003"
+    section_id: "Nar_08_06"
+    drill: 0
+    number: 3
+    role: "example"
+    english: "Do you know the girl Bob spoke to?"
+    japanese: "ボブが話しかけた少女を知っていますか"
+    notes: "▶e451の目的格関代省略形。堅苦しくない自然な表現"
+  - id: "nar-0806-v004"
+    section_id: "Nar_08_06"
+    drill: 0
+    number: 4
+    role: "example"
+    english: "The conditions under which the workers in Mexico work are very bad."
+    japanese: "メキシコの労働者が働く条件は劣悪だ"
+    notes: "▶先行詞the conditionsに対しunder the conditions（状況下で）を想定→under which。特定の名詞+特定の前置詞の実例"
+
+sentence_structures:
+  - sentence_id: "nar-0806-e450"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0806-e450"
+    label: "details"
+    value: "<This>(S) is(V) <the house [in which Ohgai Mori was born]>(C)"
+  - sentence_id: "nar-0806-e451"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0806-e451"
+    label: "details"
+    value: "<you>(S) Do know(V) <the girl [to whom Bob spoke]>(O)"
+  - sentence_id: "nar-0806-v001"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0806-v001"
+    label: "details"
+    value: "<This>(S) is(V) <the house [which Ohgai Mori was born in]>(C)"
+  - sentence_id: "nar-0806-v002"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0806-v002"
+    label: "details"
+    value: "<This>(S) is(V) <the house [Ohgai Mori was born in]>(C)"
+  - sentence_id: "nar-0806-v003"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0806-v003"
+    label: "details"
+    value: "<you>(S) Do know(V) <the girl [Bob spoke to]>(O)"
+  - sentence_id: "nar-0806-v004"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0806-v004"
+    label: "details"
+    value: "<The conditions [under which the workers in Mexico work]>(S) are(V) <very bad>(C)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0806-e450"
+    node_id: "nrs-020"
+  - sentence_id: "nar-0806-e451"
+    node_id: "nrs-020"
+  - sentence_id: "nar-0806-v001"
+    node_id: "nrs-020"
+  - sentence_id: "nar-0806-v002"
+    node_id: "nrs-020"
+  - sentence_id: "nar-0806-v003"
+    node_id: "nrs-020"
+  - sentence_id: "nar-0806-v004"
+    node_id: "nrs-020"

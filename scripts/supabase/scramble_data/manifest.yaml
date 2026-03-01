@@ -1395,11 +1395,132 @@ sections:
     gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-008。問529-535=7exam, 解説例文2件(spare/explain)=2example。PU!109(SVOO 9動詞)/PU!110(SVOO不可 6動詞)はnotes記録"
+  # Ch15 動詞の語法 後半（B11）
+  Scr_139:
+    title: "SVC・SVOCの形をとる動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-009(単独)。問536-541=6exam。keep C/smell C/go wrong/come true/make O C/find O C"
+  Scr_140:
+    title: "SVO to doの形をとる動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-010(単独)。問542-548=7exam。advise/want/get/cause/encourage/enable/persuade A to do。PU!113-116はnotes記録"
+  Scr_141:
+    title: "SVO doの形をとる動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-011(Theme141+142+143統合)。問549-555=7exam, 解説例文1件(help to do)=1example。have/make/let/help/hear/see/watch A do"
+  Scr_142:
+    title: "「SVO＋分詞」の形をとる動詞──知覚動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-011(Theme141+142+143統合)。問556-561=6exam, PU!118例文3件(do/doing/done比較)=3example。PU!117(7動詞リスト)はnotes記録"
+  Scr_143:
+    title: "「SVO＋分詞」の形をとる動詞──使役動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-011(Theme141+142+143統合)。問562-566=5exam, プラスα例文1件(make oneself heard)=1example。PU!119(使役動詞+分詞パターン)はnotes記録"
+  Scr_144:
+    title: "「SVO＋分詞」の形をとる動詞──持続状態を表す動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-012(単独)。問567-569=3exam。keep/leave A doing/done。PU!120(=PU!119重複)/PU!121(2動詞リスト)はnotes記録"
+  Scr_145:
+    title: "that節で原形またはshould＋原形を用いる動詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-013(単独)。問570-572=3exam, PU!122発展例文1件(suggest直説法)=1example。PU!122(6動詞リスト)はnotes記録"
+  Scr_146:
+    title: "tell／say／speak／talkの使い分け"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-014(単独)。問573-578=6exam。PU!123(tell/say語法表)/PU!124(speak/talk語法表)はnotes記録"
+  Scr_147:
+    title: "borrow／lend／rent／useの使い分け"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-015(単独)。問579-582=4exam。PU!125(5パターンリスト)はnotes記録"
+  Scr_148:
+    title: "forgive／permit／allow／admitの使い分け"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-016(単独)。問583-586=4exam, プラスα例文1件(admit into)=1example。PU!126(4動詞使い分け)はnotes記録"
+  Scr_149:
+    title: "doubt／suspectの使い分け"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-017(単独)。問587-589=3exam, プラスα例文1件(doubt if)=1example。PU!127(3パターン使い分け)はnotes記録"
+  Scr_150:
+    title: "go with／match／suit／fitの使い分け"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-018(単独)。問590-592=3exam。PU!128(3パターン使い分け)はnotes記録"
 
 summary:
-  total_sections: 138
-  completed: 138
+  total_sections: 150
+  completed: 150
   in_progress: 0
   not_started: 0
-  total_knowledge_nodes: 98
-  total_sentences: 696
+  total_knowledge_nodes: 108
+  total_sentences: 761

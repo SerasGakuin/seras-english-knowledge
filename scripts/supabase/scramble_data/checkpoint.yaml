@@ -2,24 +2,33 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T14:00:00"
+updated_at: "2026-03-01T16:00:00"
 book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 2 — B10完了、B11着手前"
+  phase: "Phase 2 — B11完了、Ch15完了、B12着手前"
   current_section: null
   current_step: null
-  last_completed_section: "Scr_138"
+  last_completed_section: "Scr_150"
   last_completed_gate: 5
 
 progress:
   total_sections: 271
-  completed: 138
+  completed: 150
   in_progress: 0
-  remaining: 133
-  total_nodes: 98
-  total_sentences: 696
+  remaining: 121
+  total_nodes: 108
+  total_sentences: 761
+
+b11_results:
+  ch15_back_sections: ["Scr_139", "Scr_140", "Scr_141", "Scr_142", "Scr_143", "Scr_144", "Scr_145", "Scr_146", "Scr_147", "Scr_148", "Scr_149", "Scr_150"]
+  ch15_back_nodes: ["sgh-009", "sgh-010", "sgh-011", "sgh-012", "sgh-013", "sgh-014", "sgh-015", "sgh-016", "sgh-017", "sgh-018"]
+  ch15_back_sentences: 65
+  ch15_back_merges:
+    - "Theme 141+142+143 → sgh-011（SVO do/SVO+分詞 知覚動詞・使役動詞）"
+  metrics:
+    ch15_back_node_section_ratio: 0.833
 
 b10_results:
   ch15_front_sections: ["Scr_126", "Scr_127", "Scr_128", "Scr_129", "Scr_130", "Scr_131", "Scr_132", "Scr_133", "Scr_134", "Scr_135", "Scr_136", "Scr_137", "Scr_138"]
@@ -181,9 +190,9 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
-  - "B11: Ch15 動詞の語法 後半(Scr_139-150) → ノードID sgh-009〜"
-  - "原本: Part2_Ch15_動詞の語法.md 後半を読む"
-  - "Ch15完了 = 章区切り → ワークフロー.md + 設計書.md 再読込"
+  - "B12: Ch16 名詞・冠詞(Scr_151-161) + Ch17 形容詞(Scr_162-168) → ノードID sgh-019〜"
+  - "原本: Part2_Ch16_名詞・冠詞の語法.md + Part2_Ch17_形容詞の語法.md を読む"
+  - "章区切り → ワークフロー.md + 設計書.md 再読込済み"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

@@ -1,0 +1,55 @@
+# Nar_08_01: 関係詞の働き (p.286-288)
+
+sentences:
+  - id: "nar-0801-e436"
+    section_id: "Nar_08_01"
+    drill: 0
+    number: 436
+    role: "example"
+    english: "The fountain pen which she likes best was given to her by her father."
+    japanese: "彼女が一番好きな万年筆は父親から彼女に贈られたものだ"
+    notes: "関係詞の基本: 前の名詞(fountain pen)に情報を追加する。whichの後ろは不完全な文（likesのOが欠け）"
+  - id: "nar-0801-e437"
+    section_id: "Nar_08_01"
+    drill: 0
+    number: 437
+    role: "example"
+    english: "The person who is the most reliable is Mr. Brown."
+    japanese: "最も信頼できる人はブラウンさんだ"
+    notes: "whoの後ろは不完全な文（Sが欠け→主格の関係代名詞）"
+  - id: "nar-0801-e438"
+    section_id: "Nar_08_01"
+    drill: 0
+    number: 438
+    role: "example"
+    english: "The place where he parked his car is a bit far from the entrance."
+    japanese: "彼が駐車した場所は入り口からちょっと遠い"
+    notes: "whereの後ろは完全な文（he parked his carでSVOそろっている→関係副詞）"
+
+sentence_structures:
+  - sentence_id: "nar-0801-e436"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "nar-0801-e436"
+    label: "details"
+    value: "<The fountain pen [which she likes best]>(S) was given(V) [to her](M) [by her father](M)"
+  - sentence_id: "nar-0801-e437"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0801-e437"
+    label: "details"
+    value: "<The person [who is the most reliable]>(S) is(V) <Mr. Brown>(C)"
+  - sentence_id: "nar-0801-e438"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0801-e438"
+    label: "details"
+    value: "<The place [where he parked his car]>(S) is(V) <a bit far from the entrance>(C)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0801-e436"
+    node_id: "nrs-015"
+  - sentence_id: "nar-0801-e437"
+    node_id: "nrs-015"
+  - sentence_id: "nar-0801-e438"
+    node_id: "nrs-015"

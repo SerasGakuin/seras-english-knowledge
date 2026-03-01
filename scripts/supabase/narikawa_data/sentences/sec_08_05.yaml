@@ -1,0 +1,71 @@
+# Nar_08_05: 関係代名詞 what の用法 (p.297-299)
+
+sentences:
+  - id: "nar-0805-e446"
+    section_id: "Nar_08_05"
+    drill: 0
+    number: 446
+    role: "example"
+    english: "What Aki said made everybody laugh."
+    japanese: "アキが言ったことはみんなを笑わせた"
+    notes: "what節が主語(名詞節)。saidの後ろにOが欠け→不完全な文→関係代名詞what"
+  - id: "nar-0805-e447"
+    section_id: "Nar_08_05"
+    drill: 0
+    number: 447
+    role: "example"
+    english: "Do you agree with what he said on the phone?"
+    japanese: "彼が電話で言ったことに賛成する？"
+    notes: "what節が前置詞withの後ろ(名詞節)。whatの後ろは不完全な文(saidのOが欠け)"
+  - id: "nar-0805-e448"
+    section_id: "Nar_08_05"
+    drill: 0
+    number: 448
+    role: "example"
+    english: "I can't marry a woman who hates me."
+    japanese: "僕のことを嫌っている女性とは結婚できない"
+    notes: "who hates meは先行詞a womanを修飾する形容詞節。what(名詞節)との違いを示す例"
+  - id: "nar-0805-e449"
+    section_id: "Nar_08_05"
+    drill: 0
+    number: 449
+    role: "example"
+    english: "I am beginning to see what he means."
+    japanese: "彼の意図がわかり始めてきた"
+    notes: "whatの訳し方。基本「〜こと・もの」→文脈に応じて「意図」「本音」等に意訳可"
+
+sentence_structures:
+  - sentence_id: "nar-0805-e446"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0805-e446"
+    label: "details"
+    value: "<[What Aki said]>(S) made(V) <everybody>(O) <laugh>(C)"
+  - sentence_id: "nar-0805-e447"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0805-e447"
+    label: "details"
+    value: "<you>(S) Do agree(V) [with [what he said] on the phone](M)"
+  - sentence_id: "nar-0805-e448"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0805-e448"
+    label: "details"
+    value: "<I>(S) can't marry(V) <a woman [who hates me]>(O)"
+  - sentence_id: "nar-0805-e449"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0805-e449"
+    label: "details"
+    value: "<I>(S) am beginning to see(V) <[what he means]>(O)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0805-e446"
+    node_id: "nrs-019"
+  - sentence_id: "nar-0805-e447"
+    node_id: "nrs-019"
+  - sentence_id: "nar-0805-e448"
+    node_id: "nrs-019"
+  - sentence_id: "nar-0805-e449"
+    node_id: "nrs-019"

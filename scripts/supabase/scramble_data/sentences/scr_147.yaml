@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-147-p01"
+    section_id: "Scr_147"
+    drill: 1
+    number: 579
+    role: "exam"
+    english: "George borrowed ¥2,000 from Catherine because he forgot his wallet."
+    japanese: "財布を忘れたので、ジョージはキャサリンから二千円を借りた。"
+    notes: "出典: 南山大。〈基本〉〈頻出〉4択問題。borrow A (from B)「（Bから）A（物・金）を（無料で）借りる」。borrowは移動可能なものを無料で借りるときに使う。lendは「貸す」。"
+  - id: "scr-147-p02"
+    section_id: "Scr_147"
+    drill: 1
+    number: 580
+    role: "exam"
+    english: "My friend lent me some money, which I paid back later on."
+    japanese: "友人が私にいくらかお金を貸してくれたが、後で返しました。"
+    notes: "出典: 芝浦工大。4択問題。lend A B「A（人）にB（物・金）を（無料で）貸す」(= lend B to A)。目的語を2つとるのはlentだけ。later on「後で」。"
+  - id: "scr-147-p03"
+    section_id: "Scr_147"
+    drill: 1
+    number: 581
+    role: "exam"
+    english: "Tom will go to university in Osaka next fall. He's planning to rent an apartment near the university."
+    japanese: "トムは来秋、大阪の大学に行く。彼は大学の近くでアパートを借りるつもりだ。"
+    notes: "出典: 麗澤大。4択問題。rent A「A（家・土地など）を（有料で）借りる［貸す］」。rentはborrowやlendとは異なり有料で貸借する場合に使う。loan「（お金・物など）を貸す」。"
+  - id: "scr-147-p04"
+    section_id: "Scr_147"
+    drill: 1
+    number: 582
+    role: "exam"
+    english: "Can I use the bathroom?"
+    japanese: "トイレを借りてもいいですか。"
+    notes: "出典不明。4択問題。use A「A（トイレ・電話など）を（一時的に）借りる」。トイレ・固定電話など移動不可能なものを借りる場合はuseを使う。携帯電話などはborrowも可。credit「信用貸しする」。"
+
+sentence_structures:
+  - sentence_id: "scr-147-p01"
+    label: "overall"
+    value: "S V O M M"
+  - sentence_id: "scr-147-p01"
+    label: "details"
+    value: "<George>(S) borrowed(V) <¥2,000>(O) [from Catherine](M) [because he forgot his wallet](M:理由の副詞節)"
+  - sentence_id: "scr-147-p02"
+    label: "overall"
+    value: "S V O O M"
+  - sentence_id: "scr-147-p02"
+    label: "details"
+    value: "<My friend>(S) lent(V) <me>(O1) <some money>(O2), [which I paid back later on](M:非制限関係詞節)"
+  - sentence_id: "scr-147-p03"
+    label: "overall"
+    value: "S V M M. S V O"
+  - sentence_id: "scr-147-p03"
+    label: "details"
+    value: "<Tom>(S) will go(V) [to university in Osaka](M) [next fall](M). <He>(S) is planning to rent(V) <an apartment near the university>(O)"
+  - sentence_id: "scr-147-p04"
+    label: "overall"
+    value: "V S V O"
+  - sentence_id: "scr-147-p04"
+    label: "details"
+    value: "Can <I>(S) use(V) <the bathroom>(O)?"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-147-p01"
+    node_id: "sgh-015"
+  - sentence_id: "scr-147-p02"
+    node_id: "sgh-015"
+  - sentence_id: "scr-147-p03"
+    node_id: "sgh-015"
+  - sentence_id: "scr-147-p04"
+    node_id: "sgh-015"

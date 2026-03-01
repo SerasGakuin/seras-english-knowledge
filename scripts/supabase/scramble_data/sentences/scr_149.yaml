@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-149-p01"
+    section_id: "Scr_149"
+    drill: 1
+    number: 587
+    role: "exam"
+    english: "I doubt he will win the election."
+    japanese: "私は彼が選挙に勝つとは思わない。"
+    notes: "出典: 早大。〈頻出〉記述問題。doubt that節「〜であることを疑う/〜ではないと思う」(= don't think that節)。「強い不信」を表す。thatは省略可。書き換え: I don't think he will win the election."
+  - id: "scr-149-p02"
+    section_id: "Scr_149"
+    drill: 1
+    number: 588
+    role: "exam"
+    english: "I don't doubt that they will arrive on time."
+    japanese: "きっと彼らは時間通りに到着すると思う。"
+    notes: "出典不明。4択問題。don't doubt that節「〜であることを疑わない/〜だと思う」(= think that節)。don't doubtの後にはif [whether]節や疑問詞節を用いない。"
+  - id: "scr-149-p03"
+    section_id: "Scr_149"
+    drill: 1
+    number: 589
+    role: "exam"
+    english: "He's very dishonest; I suspect his story is untrue."
+    japanese: "彼はとても不正直だ。だから、彼の話は真実ではないのではないかと疑っている。"
+    notes: "出典: 慶應大。4択問題。suspect that節「〜ではないかと疑う/〜だと思う」(= think that節)。suspectは心理状態動詞なので進行形不可（⇨ PU!3）。doubt that節(=don't think)とsuspect that節(=think)は逆の意味。"
+  - id: "scr-149-e01"
+    section_id: "Scr_149"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "I doubt if she is guilty of that crime."
+    japanese: "彼女がその犯罪に関して有罪かどうかは疑わしい。"
+    notes: "問588プラスα例文。doubt if [whether]節「〜かどうか疑わしく思う」。「疑わしさ」を表す。doubt肯定文ではif [whether]節を目的語にとる。"
+
+sentence_structures:
+  - sentence_id: "scr-149-p01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-149-p01"
+    label: "details"
+    value: "<I>(S) doubt(V) <(that) he will win the election>(O:that節省略)"
+  - sentence_id: "scr-149-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-149-p02"
+    label: "details"
+    value: "<I>(S) don't doubt(V) <that they will arrive on time>(O:that節)"
+  - sentence_id: "scr-149-p03"
+    label: "overall"
+    value: "S V C; S V O"
+  - sentence_id: "scr-149-p03"
+    label: "details"
+    value: "<He>(S) is(V) <very dishonest>(C); <I>(S) suspect(V) <(that) his story is untrue>(O:that節省略)"
+  - sentence_id: "scr-149-e01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-149-e01"
+    label: "details"
+    value: "<I>(S) doubt(V) <if she is guilty of that crime>(O:if節)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-149-p01"
+    node_id: "sgh-017"
+  - sentence_id: "scr-149-p02"
+    node_id: "sgh-017"
+  - sentence_id: "scr-149-p03"
+    node_id: "sgh-017"
+  - sentence_id: "scr-149-e01"
+    node_id: "sgh-017"

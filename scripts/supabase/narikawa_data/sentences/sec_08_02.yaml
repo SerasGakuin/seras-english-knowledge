@@ -1,0 +1,39 @@
+# Nar_08_02: 関係代名詞と関係副詞 — 関係詞決定の手順 (p.289-291)
+
+sentences:
+  - id: "nar-0802-e439"
+    section_id: "Nar_08_02"
+    drill: 0
+    number: 439
+    role: "example"
+    english: "This is the house which I visited."
+    japanese: "これは私が訪問した家だ"
+    notes: "visitedの後ろにOが欠け→不完全な文→関係代名詞which。先行詞the houseが「場所」でもwhereにできない"
+  - id: "nar-0802-e440"
+    section_id: "Nar_08_02"
+    drill: 0
+    number: 440
+    role: "example"
+    english: "This is the house where I lived."
+    japanese: "これは私が住んでいた家だ"
+    notes: "I livedでSV成立→完全な文→関係副詞where。先行詞the houseは「場所」→where"
+
+sentence_structures:
+  - sentence_id: "nar-0802-e439"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0802-e439"
+    label: "details"
+    value: "<This>(S) is(V) <the house [which I visited]>(C)"
+  - sentence_id: "nar-0802-e440"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0802-e440"
+    label: "details"
+    value: "<This>(S) is(V) <the house [where I lived]>(C)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0802-e439"
+    node_id: "nrs-016"
+  - sentence_id: "nar-0802-e440"
+    node_id: "nrs-016"

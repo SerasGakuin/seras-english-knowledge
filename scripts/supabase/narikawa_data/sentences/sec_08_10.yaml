@@ -1,0 +1,71 @@
+# Nar_08_10: 連鎖関係詞 (p.315-317)
+
+sentences:
+  - id: "nar-0810-e469"
+    section_id: "Nar_08_10"
+    drill: 0
+    number: 469
+    role: "example"
+    english: "I saw a man who I thought was a detective."
+    japanese: "私は探偵だと思われる人を見かけた"
+    notes: "連鎖関係詞。I thoughtをいったん飛ばす→wasの主語がない不完全な文→主格who"
+  - id: "nar-0810-e470"
+    section_id: "Nar_08_10"
+    drill: 0
+    number: 470
+    role: "example"
+    english: "This is a car which we feel we want to buy."
+    japanese: "これは私たちが買いたいと思える車だ"
+    notes: "連鎖関係詞。we feelを飛ばす→buyの目的語がない不完全な文→目的格which"
+  - id: "nar-0810-v001"
+    section_id: "Nar_08_10"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "I saw a man I thought was a detective."
+    japanese: "私は探偵だと思われる人を見かけた"
+    notes: "▶e469のwho省略形。連鎖関係詞では主格の関代でも省略可能（通常は主格省略不可）"
+  - id: "nar-0810-v002"
+    section_id: "Nar_08_10"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "I saw a man who(m) I thought (to be) a detective."
+    japanese: "私は探偵だと思った人を見かけた"
+    notes: "▶連鎖関係詞ではない。think+O+to be+Cの構文。〈S+V〉を除外してもto beが残る→ふつうの関代"
+
+sentence_structures:
+  - sentence_id: "nar-0810-e469"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0810-e469"
+    label: "details"
+    value: "<I>(S) saw(V) <a man [who I thought was a detective]>(O)"
+  - sentence_id: "nar-0810-e470"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0810-e470"
+    label: "details"
+    value: "<This>(S) is(V) <a car [which we feel we want to buy]>(C)"
+  - sentence_id: "nar-0810-v001"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0810-v001"
+    label: "details"
+    value: "<I>(S) saw(V) <a man [I thought was a detective]>(O)"
+  - sentence_id: "nar-0810-v002"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0810-v002"
+    label: "details"
+    value: "<I>(S) saw(V) <a man [who(m) I thought (to be) a detective]>(O)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0810-e469"
+    node_id: "nrs-024"
+  - sentence_id: "nar-0810-e470"
+    node_id: "nrs-024"
+  - sentence_id: "nar-0810-v001"
+    node_id: "nrs-024"
+  - sentence_id: "nar-0810-v002"
+    node_id: "nrs-024"
