@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-087-p01"
+    section_id: "Scr_087"
+    drill: 1
+    number: 326
+    role: "exam"
+    english: "Will you lend me some money?"
+    japanese: "いくらかお金を貸してくれませんか。"
+    notes: "出典: 東海大。疑問文中のsome: 依頼・勧めの場合（肯定の答えを予期）"
+  - id: "scr-087-p02"
+    section_id: "Scr_087"
+    drill: 1
+    number: 327
+    role: "exam"
+    english: "I hope you would become a leader some day."
+    japanese: "君がいつかリーダーになることを願っている。"
+    notes: "出典: 青山学院大。some + 単数可算名詞「ある～」。some day =「(将来の)いつか」。cf. the other day「先日」"
+  - id: "scr-087-p03"
+    section_id: "Scr_087"
+    drill: 1
+    number: 328
+    role: "exam"
+    english: "You can catch any of these buses. They all go downtown."
+    japanese: "これらのバスのどれに乗ってもいいですよ。すべて中心街に行きますから。"
+    notes: "出典: 東京理科大。肯定文中のany: any of A「Aの中のどれでも」"
+  - id: "scr-087-p04"
+    section_id: "Scr_087"
+    drill: 1
+    number: 329
+    role: "exam"
+    english: "Any pencil will do. I just need to quickly take down his number."
+    japanese: "どんな鉛筆でもいい。彼の電話番号を急いで書き留める必要があるんだ。"
+    notes: "出典: 亜細亜大。肯定文中のany: any + 単数名詞「どんな～でも」。S will do（⇨ 問726）"
+
+sentence_structures:
+  - sentence_id: "scr-087-p01"
+    label: "overall"
+    value: "S V O O"
+  - sentence_id: "scr-087-p01"
+    label: "details"
+    value: "Will <you>(S) lend(V) <me>(O1) <some money>(O2)"
+  - sentence_id: "scr-087-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-087-p02"
+    label: "details"
+    value: "<I>(S) hope(V) [you would become a leader some day](O:that省略)"
+  - sentence_id: "scr-087-p03"
+    label: "overall"
+    value: "S V O. S V"
+  - sentence_id: "scr-087-p03"
+    label: "details"
+    value: "<You>(S) can catch(V) <any of these buses>(O). <They>(S) all go(V) [downtown](M)"
+  - sentence_id: "scr-087-p04"
+    label: "overall"
+    value: "S V. S V O"
+  - sentence_id: "scr-087-p04"
+    label: "details"
+    value: "<Any pencil>(S) will do(V). <I>(S) just need(V) [to quickly take down his number](O:不定詞)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-087-p01"
+    node_id: "shs-017"
+  - sentence_id: "scr-087-p02"
+    node_id: "shs-017"
+  - sentence_id: "scr-087-p03"
+    node_id: "shs-017"
+  - sentence_id: "scr-087-p04"
+    node_id: "shs-017"

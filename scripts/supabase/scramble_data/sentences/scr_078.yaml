@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-078-p01"
+    section_id: "Scr_078"
+    drill: 1
+    number: 287
+    role: "exam"
+    english: "It is necessary for you to go there immediately."
+    japanese: "あなたはすぐにそこへ行く必要がある。"
+    notes: "難易度: 基本、頻出。出典: 駒澤大。整序問題。It is ... (for A) to do。= It is necessary that you (should) go there immediately."
+  - id: "scr-078-p02"
+    section_id: "Scr_078"
+    drill: 1
+    number: 288
+    role: "exam"
+    english: "It was careless of him to go to bed with the door unlocked."
+    japanese: "ドアに鍵をかけないで寝るとは彼は不注意だった。"
+    notes: "難易度: 頻出。出典: 高知大。整序問題。It is ... of A to do（人の性質の形容詞）。= He was careless to go to bed ...。with the door unlocked（⇨ 問157）。withoutが不要"
+  - id: "scr-078-p03"
+    section_id: "Scr_078"
+    drill: 1
+    number: 289
+    role: "exam"
+    english: "It is natural that he should get angry."
+    japanese: "彼が腹を立てるのも当然だ。"
+    notes: "出典: 白百合女子大。It is natural that S should do。感情・価値判断 → that節内にshould。《米》ではhe gets angryと直説法も多い"
+  - id: "scr-078-p04"
+    section_id: "Scr_078"
+    drill: 1
+    number: 290
+    role: "exam"
+    english: "It is necessary that you should get your passport renewed before you leave the country."
+    japanese: "出国する前に必ずパスポートを更新しておいてください。"
+    notes: "難易度: 基本、頻出。出典: 成蹊大。整序問題。It is necessary that S (should) do。要求・願望 → 原形またはshould+原形"
+
+sentence_structures:
+  - sentence_id: "scr-078-p01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-078-p01"
+    label: "details"
+    value: "<It>(形式S) is(V) necessary(C) [for you to go there immediately](真S:不定詞句)"
+  - sentence_id: "scr-078-p02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-078-p02"
+    label: "details"
+    value: "<It>(形式S) was(V) careless(C) [of him](意味上の主語) [to go to bed with the door unlocked](真S:不定詞句)"
+  - sentence_id: "scr-078-p03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-078-p03"
+    label: "details"
+    value: "<It>(形式S) is(V) natural(C) [that he should get angry](真S:that節)"
+  - sentence_id: "scr-078-p04"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-078-p04"
+    label: "details"
+    value: "<It>(形式S) is(V) necessary(C) [that you should get your passport renewed before you leave the country](真S:that節)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-078-p01"
+    node_id: "shs-010"
+  - sentence_id: "scr-078-p02"
+    node_id: "shs-010"
+  - sentence_id: "scr-078-p03"
+    node_id: "shs-010"
+  - sentence_id: "scr-078-p04"
+    node_id: "shs-010"

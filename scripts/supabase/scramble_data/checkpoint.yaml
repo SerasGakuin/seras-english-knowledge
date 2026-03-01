@@ -2,24 +2,40 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T23:59:00"
+updated_at: "2026-03-02T01:00:00"
 book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 2 — B05完了、B06着手前"
+  phase: "Phase 2 — B06完了、B07着手前"
   current_section: null
   current_step: null
-  last_completed_section: "Scr_071"
+  last_completed_section: "Scr_090"
   last_completed_gate: 5
 
 progress:
   total_sections: 271
-  completed: 72
+  completed: 91
   in_progress: 0
-  remaining: 199
-  total_nodes: 55
-  total_sentences: 358
+  remaining: 180
+  total_nodes: 70
+  total_sentences: 460
+
+b06_results:
+  ch10_sections: ["Scr_072", "Scr_073", "Scr_074", "Scr_075", "Scr_076", "Scr_077"]
+  ch10_nodes: ["shs-005", "shs-006", "shs-007", "shs-008", "shs-009"]
+  ch10_sentences: 37
+  ch10_merges:
+    - "Theme 76+77 → shs-009（二重否定と否定語を用いない否定表現）"
+  ch11_sections: ["Scr_078", "Scr_079", "Scr_080", "Scr_081", "Scr_082", "Scr_083", "Scr_084", "Scr_085", "Scr_086", "Scr_087", "Scr_088", "Scr_089", "Scr_090"]
+  ch11_nodes: ["shs-010", "shs-011", "shs-012", "shs-013", "shs-014", "shs-015", "shs-016", "shs-017", "shs-018", "shs-019"]
+  ch11_sentences: 65
+  ch11_merges:
+    - "Theme 78+79+80 → shs-010（形式主語のit）"
+    - "Theme 89+90 → shs-019（再帰代名詞の用法と慣用表現）"
+  metrics:
+    ch10_node_section_ratio: 0.83
+    ch11_node_section_ratio: 0.77
 
 b05_results:
   ch08_back_sections: ["Scr_060", "Scr_061", "Scr_062", "Scr_063", "Scr_064", "Scr_065"]
@@ -117,10 +133,9 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
-  - "B06: Ch10 否定(Scr_072-077) → ノードID shs-005〜"
-  - "B06: Ch11 代名詞(Scr_078-090) → ノードID shs-0XX〜"
-  - "原本: Part1_Ch10_否定.md, Part1_Ch11_代名詞.md を読む"
-  - "章区切り → ワークフロー.md + 設計書.md 再読込"
+  - "B07: Ch12 関係詞(Scr_091-101) → ノードID shs-020〜"
+  - "原本: Part1_Ch12_関係詞.md を読む"
+  - "章区切りではないが、B06→B07でワークフロー再読込推奨"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

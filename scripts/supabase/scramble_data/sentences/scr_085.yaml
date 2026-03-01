@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-085-p01"
+    section_id: "Scr_085"
+    drill: 1
+    number: 319
+    role: "exam"
+    english: "Both his parents are coming to Osaka."
+    japanese: "彼の両親は2人とも大阪に来る予定だ。"
+    notes: "出典: 関西学院大。both は代名詞の所有格/the/theseの前に置く。both his parents = both of his parents"
+  - id: "scr-085-p02"
+    section_id: "Scr_085"
+    drill: 1
+    number: 320
+    role: "exam"
+    english: "Either of us has to ask him to give us some advice about the project."
+    japanese: "私たちのどちらかが、その計画について助言してもらえるように彼に頼まなければならない。"
+    notes: "難易度: 頻出。出典: 関西学院大。either「どちらか」単数扱い。everyは形容詞用法のみで不可"
+  - id: "scr-085-p03"
+    section_id: "Scr_085"
+    drill: 1
+    number: 321
+    role: "exam"
+    english: "We searched for the two boys everywhere, but neither was to be found."
+    japanese: "その2人の少年をくまなく捜したが、どちらも見つからなかった。"
+    notes: "出典: 金城学院大。neither「どちらも～ない」単数扱い。2者に用いる（noneは3者以上）"
+  - id: "scr-085-p04"
+    section_id: "Scr_085"
+    drill: 1
+    number: 322
+    role: "exam"
+    english: "None of the three girls live near here."
+    japanese: "その3人の女の子たちは誰もこの近くに住んでいない。"
+    notes: "出典: 神田外語大。none of A の形。A に複数名詞 → ふつう複数扱い。Aにはthe等の限定語が必要"
+
+sentence_structures:
+  - sentence_id: "scr-085-p01"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "scr-085-p01"
+    label: "details"
+    value: "<Both his parents>(S) are coming(V) [to Osaka](M)"
+  - sentence_id: "scr-085-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-085-p02"
+    label: "details"
+    value: "<Either of us>(S) has to ask(V) <him>(O) [to give us some advice about the project](M:不定詞)"
+  - sentence_id: "scr-085-p03"
+    label: "overall"
+    value: "S V O, S V C"
+  - sentence_id: "scr-085-p03"
+    label: "details"
+    value: "<We>(S) searched(V) [for the two boys](M) [everywhere](M), but <neither>(S) was(V) [to be found](C:be to do)"
+  - sentence_id: "scr-085-p04"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "scr-085-p04"
+    label: "details"
+    value: "<None of the three girls>(S) live(V) [near here](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-085-p01"
+    node_id: "shs-015"
+  - sentence_id: "scr-085-p02"
+    node_id: "shs-015"
+  - sentence_id: "scr-085-p03"
+    node_id: "shs-015"
+  - sentence_id: "scr-085-p04"
+    node_id: "shs-015"

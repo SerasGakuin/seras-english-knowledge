@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-089-p01"
+    section_id: "Scr_089"
+    drill: 1
+    number: 335
+    role: "exam"
+    english: "Let me introduce myself."
+    japanese: "自己紹介させてください。"
+    notes: "難易度: 基本。出典: 北星学園大。再帰用法: 動詞の目的語。introduce oneself「自己紹介する」"
+  - id: "scr-089-p02"
+    section_id: "Scr_089"
+    drill: 1
+    number: 336
+    role: "exam"
+    english: "My brother is kindness itself."
+    japanese: "私の兄［弟］はとても親切だ。"
+    notes: "出典: 関西学院大。強調用法: 補語を強調。抽象名詞 + itself = very + 形容詞。kindness itself = very kind"
+  - id: "scr-089-e01"
+    section_id: "Scr_089"
+    drill: 0
+    number: null
+    role: "example"
+    english: "He is generosity itself."
+    japanese: "彼はとても寛大だ。"
+    notes: "抽象名詞 + itself = very + 形容詞。generosity itself = very generous"
+
+sentence_structures:
+  - sentence_id: "scr-089-p01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-089-p01"
+    label: "details"
+    value: "Let <me>(S) introduce(V) <myself>(O:再帰代名詞)"
+  - sentence_id: "scr-089-p02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-089-p02"
+    label: "details"
+    value: "<My brother>(S) is(V) <kindness itself>(C:強調)"
+  - sentence_id: "scr-089-e01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-089-e01"
+    label: "details"
+    value: "<He>(S) is(V) <generosity itself>(C:強調)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-089-p01"
+    node_id: "shs-019"
+  - sentence_id: "scr-089-p02"
+    node_id: "shs-019"
+  - sentence_id: "scr-089-e01"
+    node_id: "shs-019"

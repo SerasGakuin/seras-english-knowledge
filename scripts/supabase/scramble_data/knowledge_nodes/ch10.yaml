@@ -1,0 +1,292 @@
+knowledge_nodes:
+  - id: "shs-005"
+    name: "no/notの用法"
+    category: "品詞・構文"
+    priority: "P2"
+    notes: |
+      Theme 72: no/not を用いた否定表現の基本。
+      no + 名詞「どの～も…ない」= not ... any + 名詞（全体否定）。
+      no が修飾する名詞は単数・複数どちらも可。
+      ＊「any + 名詞 ... not」の語順は不可（× any dog can't）。
+      ＊「not any + 名詞」は主語にできない（× not any dog can）。
+      ＊ none of the + 複数名詞 の形なら主語可（○ none of the dogs can）。
+
+      notの繰り上げ: 「～ではないと思う」は I don't think ~ が一般的。
+      I think ~ not ... の形はまれ。
+      〈発展〉I don't think 型の動詞: believe / expect / guess / suppose
+      ＊ hope は常に肯定的な意味を持つので notの繰り上げは行われない。
+      cf. I hope he won't come.（hopはnot ... hopeにならない）
+
+      PU!49〈発展〉: no + 補語名詞/形容詞 = 「決して～でない/～どころではない」（強い否定）。
+      He is no hero. = He is not a hero at all.
+      参照: PU!41（否定語を含む比較表現の no）
+
+  - id: "shs-006"
+    name: "弱い否定（準否定語）"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 73: hardly / seldom / few などの準否定語。3分類:
+      (1) hardly / scarcely「ほとんど～ない」―― 程度
+      (2) seldom / rarely「めったに～ない」―― 頻度
+      (3) few / little「ほとんど～ない」―― 数量（⇨ 問639・640）
+
+      語順: 原則として一般動詞の前、be動詞・助動詞の後。
+      seldom はやや硬い語、rarely のほうが口語的。
+      準否定語はそれ自体が否定を含むので、さらに not を付けない。
+      × don't seldom → ○ seldom
+
+      重要表現:
+      hardly [scarcely] any + 名詞「ほとんど～がない」（= almost no + 名詞）
+      hardly [scarcely] ever「めったに～ない」（= seldom / almost never）
+      参照: There be + S + done（⇨ 問141）
+
+  - id: "shs-007"
+    name: "部分否定"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 74: all/every/both/always/altogether などが否定語とともに用いられると部分否定。
+      「すべてが～というわけではない」= 部分的に否定。
+      否定語は all [every, etc.] より前に置くのがふつう。
+
+      PU!50 部分否定と全体否定の対照表:
+      - not (〜) all / not (〜) every → 全体否定: none / no + 名詞 / not any + 名詞
+      - not (〜) both → 全体否定: neither / not either
+      ＊neither は2者、none は3者以上
+      - not necessarily [always] → 全体否定: never
+      - not altogether [quite/entirely] → 全体否定: not at all
+      every は形容詞用法のみ → not every の後は必ず単数名詞。
+
+      PU!51〈発展〉その他の部分否定:
+      not very [much / so]「あまり～でない」
+      not exactly「正確には必ずしも～でない」
+      not really「本当に～というわけではない / あまり～でない」
+
+      参照: Some 〜 some = Not all（⇨ 問314）
+      altogether の代わりに quite / entirely / wholly / completely も同意。
+
+  - id: "shs-008"
+    name: "強い否定表現"
+    category: "品詞・構文"
+    priority: "P2"
+    notes: |
+      Theme 75: not at all の同意表現としての強い否定。
+
+      not (〜) in the least「少しも～でない」（= not 〜 at all）
+      by no means「（どんな手段によっても）決して～でない」
+      ＊ not ... by any means でも同意
+      on no account「（どんな理由があっても）決して～でない」
+      ＊文頭に出ると後ろは倒置形（疑問文の語順）
+      no + 名詞 + whatever [whatsoever]「少しの～もない / まったく～ない」
+      ＊nothing の後にも whatever/whatsoever を置ける
+      There is no way to do「とうてい～できない」
+      〈発展〉No way!（間投詞）「いやだ / とんでもない」
+
+      参照: be anxious about ～（⇨ 問1135）、latest「最新の」（⇨ 問765）
+
+  - id: "shs-009"
+    name: "二重否定と否定語を用いない否定表現"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 76: 二重否定 = 否定×否定 → 強い肯定。
+      cannot [never] ... without doing「…すると必ず～する」
+      ＊ whenever を用いた書き換え可能。
+
+      PU!52〈発展〉強い否定を表す副詞句:
+      by no means / on no account / in no way / under no circumstances
+      ＊いずれも文頭に出ると後ろは倒置形（疑問文の語順）
+
+      PU!53 その他の二重否定表現:
+      It never rains but it pours.（降れば必ずどしゃ降り）＊but = 「～しないでは」の接続詞
+      Not a ... without ~「毎～必ず…する」
+      There is no ... without ~「～のない…はない」
+      never fail to do「必ず～する」（⇨ PU!98）
+      not unusual「ごくふつうの」
+
+      Theme 77: 否定語なしで否定の意味を表す表現。
+      the last A to do「決して～しないA / 最も～しそうにないA」
+      ＊the last A + 関係詞節 の形もあり
+      anything but ～「決して～でない」（= by no means）＊but = 「～以外の」前置詞
+      nothing but ～「～だけ / ～しかない」（= only）
+      far from ～「決して～でない」SVC隠れ: A is not C at all
+      free from [of] ～「～がない」SVO隠れ: A does not have B
+      ＊free from は「望ましくないもの」がない場合に用いる
+      more than A can ～「Aが～できないほど（の）」＊肯定形だが否定的に訳す
+      have yet to do「まだ～していない」
+      be yet to do「まだ～していない」（⇨ 問101）
+      remain to be done「（事が）まだ～されていない」
+
+      PU!54: far from と free from の使い分け
+      far from B → A is not B at all（SVC の否定）
+      free from B → A does not have B（SVO の否定）
+
+      PU!55〈発展〉remain to be done = be yet to be done = have yet to be done
+      still 〜 not / not 〜 yet の語順注意（⇨ 問676）
+      参照: run into ～（⇨ 問967）
+
+understanding_goals:
+  - node_id: "shs-005"
+    seq: 1
+    goal: "no + 名詞 = not ... any + 名詞 の書き換えができる"
+  - node_id: "shs-005"
+    seq: 2
+    goal: "「any + 名詞 ... not」の語順が不可であることを理解できる"
+  - node_id: "shs-005"
+    seq: 3
+    goal: "notの繰り上げ（I don't think型）を正しく使い分けできる"
+
+  - node_id: "shs-006"
+    seq: 1
+    goal: "準否定語の3分類（程度・頻度・数量）を区別できる"
+  - node_id: "shs-006"
+    seq: 2
+    goal: "準否定語の文中での位置（一般動詞の前、be/助動詞の後）を正しく判断できる"
+  - node_id: "shs-006"
+    seq: 3
+    goal: "hardly any / hardly ever の意味と同意表現を理解できる"
+
+  - node_id: "shs-007"
+    seq: 1
+    goal: "部分否定と全体否定の違いを説明できる"
+  - node_id: "shs-007"
+    seq: 2
+    goal: "not all / not both / not necessarily などの部分否定表現を正しく使える"
+  - node_id: "shs-007"
+    seq: 3
+    goal: "部分否定に対応する全体否定表現を正しく選択できる"
+
+  - node_id: "shs-008"
+    seq: 1
+    goal: "not at all の同意表現（in the least, by no means等）を複数挙げられる"
+  - node_id: "shs-008"
+    seq: 2
+    goal: "no + 名詞 + whatever の強い否定パターンを理解できる"
+  - node_id: "shs-008"
+    seq: 3
+    goal: "There is no way to do の意味を理解できる"
+
+  - node_id: "shs-009"
+    seq: 1
+    goal: "cannot/never ... without doing の二重否定構造を理解し、肯定の意味に変換できる"
+  - node_id: "shs-009"
+    seq: 2
+    goal: "the last A to do / anything but / nothing but の意味を正しく区別できる"
+  - node_id: "shs-009"
+    seq: 3
+    goal: "far from と free from の背後にある文型の違い（SVC vs SVO）を説明できる"
+  - node_id: "shs-009"
+    seq: 4
+    goal: "have yet to do / remain to be done の意味と書き換えを理解できる"
+  - node_id: "shs-009"
+    seq: 5
+    goal: "否定副詞句が文頭に出たときの倒置を正しく作れる"
+
+check_points:
+  - node_id: "shs-005"
+    seq: 1
+    question: "no dog can と同意の表現は？ また「any dog can't」は可能か？"
+    answer: "no dog can = not ... any dog can。ただし「any + 名詞 ... not」の語順は不可なので any dog can't は不可。"
+  - node_id: "shs-005"
+    seq: 2
+    question: "「～ではないと思う」は英語でどう表すのが一般的か？"
+    answer: "I don't think ~（notの繰り上げ）。I think ~ not の形はまれ。"
+  - node_id: "shs-005"
+    seq: 3
+    question: "notの繰り上げが行われない動詞の代表は？ その理由は？"
+    answer: "hope。常に肯定的な意味を持つため。cf. I hope he won't come.（× I don't hope ~）"
+
+  - node_id: "shs-006"
+    seq: 1
+    question: "hardly/scarcely はどんな否定を表すか？"
+    answer: "「ほとんど～ない」（程度の弱い否定）。一般動詞の前、be動詞・助動詞の後に置く。"
+  - node_id: "shs-006"
+    seq: 2
+    question: "準否定語に not を付けてよいか？"
+    answer: "不可。準否定語自体が否定を含むため。× don't seldom → ○ seldom"
+  - node_id: "shs-006"
+    seq: 3
+    question: "hardly any + 名詞 / hardly ever の意味は？"
+    answer: "hardly any + 名詞 = ほとんど～がない（almost no）。hardly ever = めったに～ない（seldom / almost never）。"
+
+  - node_id: "shs-007"
+    seq: 1
+    question: "not all の意味は？ 全体否定はどう表す？"
+    answer: "not all = すべてが～というわけではない（部分否定）。全体否定は none / no + 名詞 / not any。"
+  - node_id: "shs-007"
+    seq: 2
+    question: "not both の意味は？ 全体否定はどう表す？"
+    answer: "not both = 両方とも～というわけではない（部分否定）。全体否定は neither / not either。"
+  - node_id: "shs-007"
+    seq: 3
+    question: "not necessarily の意味は？ altogether / quite / entirely の場合は？"
+    answer: "not necessarily = 必ずしも～というわけではない。not altogether [quite/entirely] = まったく～というわけではない。"
+
+  - node_id: "shs-008"
+    seq: 1
+    question: "not in the least の意味と同意表現は？"
+    answer: "少しも～でない（= not at all）。in the least は at all と同様、否定を強調する。"
+  - node_id: "shs-008"
+    seq: 2
+    question: "by no means の意味は？"
+    answer: "決して～でない（どんな手段によっても）。= not ... by any means。"
+  - node_id: "shs-008"
+    seq: 3
+    question: "There is no way to do の意味は？"
+    answer: "とうてい～できない。"
+
+  - node_id: "shs-009"
+    seq: 1
+    question: "cannot ... without doing の意味は？"
+    answer: "…すると必ず～する（二重否定 → 強い肯定）。whenever を用いた書き換え可能。"
+  - node_id: "shs-009"
+    seq: 2
+    question: "anything but と nothing but の違いは？"
+    answer: "anything but = 決して～でない（= by no means）。nothing but = ～だけ / ～にすぎない（= only）。"
+  - node_id: "shs-009"
+    seq: 3
+    question: "far from と free from の違いは？"
+    answer: "far from: A is not C at all（SVCの否定）。free from: A does not have B（SVOの否定）。"
+  - node_id: "shs-009"
+    seq: 4
+    question: "have yet to do の意味と同意表現は？"
+    answer: "まだ～していない。= be yet to do = still haven't done。remain to be done も「まだ～されていない」。"
+  - node_id: "shs-009"
+    seq: 5
+    question: "否定副詞句（by no means等）が文頭に出たときの語順は？"
+    answer: "倒置（疑問文の語順）になる。By no means is this ... / Under no circumstances should you ..."
+
+node_prerequisites:
+  - node_id: "shs-007"
+    prerequisite_id: "shs-005"
+  - node_id: "shs-008"
+    prerequisite_id: "shs-005"
+  - node_id: "shs-009"
+    prerequisite_id: "shs-005"
+
+knowledge_references:
+  - node_id: "shs-005"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_072"
+    pages: ""
+  - node_id: "shs-006"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_073"
+    pages: ""
+  - node_id: "shs-007"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_074"
+    pages: ""
+  - node_id: "shs-008"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_075"
+    pages: ""
+  - node_id: "shs-009"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_076"
+    pages: ""
+  - node_id: "shs-009"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_077"
+    pages: ""

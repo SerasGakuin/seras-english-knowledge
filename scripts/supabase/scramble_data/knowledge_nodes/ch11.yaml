@@ -1,0 +1,597 @@
+knowledge_nodes:
+  - id: "shs-010"
+    name: "形式主語のit"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 78+79+80: 形式主語のitの基本用法と慣用表現。
+
+      Theme 78: 不定詞句やthat節が主語になる場合、形式上の主語itを文頭に置き、
+      真の主語を後ろに回す。
+
+      (1) It is ... (for A) to do「(Aが) ～することは…だ」
+      ＊forは不定詞の意味上の主語を表す。
+      (2) It is ... of A to do「～するとはAは…だ」
+      ＊人の性質・行為に対する評価・判断を表す形容詞の場合にof Aを用いる。
+      → A を主語にして書き換え可能: A is ... to do
+      (3) It is natural that S should do「Sが～するのは当然だ」
+      ＊It is の後に感情・価値判断の語 → that節内にshouldを用いることがある。
+      《米》ではshouldなしで直説法も多い。
+      (4) It is necessary that S (should) do「Sが～することが必要だ」
+      ＊necessary/essential等 → that節中で原形またはshould+原形。
+
+      PU!56: of を用いる形容詞:
+      kind/nice/good, wise/clever, foolish/stupid/silly, cruel,
+      rude/impolite, polite, careless（⇨ 問288）, thoughtful
+
+      PU!57: 感情・価値判断を表す形容詞・名詞:
+      surprising/amazing, strange, (un)fortunate, natural/no wonder,
+      a pity/a shame（⇨ 問761）, right
+
+      PU!58: 「要求」や「願望」を表す形容詞（that節中でshould/原形）:
+      necessary（⇨ 問290）, essential, desirable, advisable,
+      important, vital/crucial
+
+      Theme 79: 形式主語のitを用いた慣用表現:
+      It takes (+A) + 時間 + to do「(Aが) ～するのに…かかる」（⇨ PU!109）
+      It costs (+A) + 費用 + to do「(Aが) ～するのに…かかる」（⇨ 問529）
+      It doesn't matter (to A) whether節「～かどうかは(Aにとって)どうでもよい」
+      It makes no difference (to A) whether節 ＝ 上記と同意
+      PU!59: It doesn't matter + 疑問詞節 の形もある。
+
+      Theme 80: It seems that節 / It happens that節 の構文:
+      It seems that 節「～のように見える/～らしい」
+      ＊この it は形式主語ではない（that節を文頭に置けない）。
+      → to不定詞で書き換え: He seems to be ill.
+      ＊that節の動詞が主節より前の時制 → 完了不定詞 to have done
+      It happens [chances] that節「たまたま～する」
+      → happen [chance] to do で書き換え可能。
+      PU!60: seem の4つの時制関係:
+      (1) It seems that S is = S seems to be
+      (2) It seems that S was [has been] = S seems to have been
+      (3) It seemed that S was = S seemed to be
+      (4) It seemed that S had been = S seemed to have been
+
+  - id: "shs-011"
+    name: "形式目的語のitとその慣用表現"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 81: SVOCの文型でO が不定詞句やthat節の場合、
+      形式上の目的語itをOの位置に置き、真の目的語をCの後ろに回す。
+      find / think / make などがこの構文でよく用いられる（特にfindが頻出）。
+
+      基本パターン:
+      find it ... to do「～するのは…だとわかる」（⇨ 問297）
+      think it ... to do「～することは…と思う」
+      make it ... to do「～することを…にする」
+      ＊make it possible for A to do「Aが～することを可能にする」
+
+      慣用表現:
+      make it a rule to do「いつも～することにしている」
+      ＊硬い表現。日常的には always/usually + 動詞。
+      ＝ be in the habit of doing / have the habit of doing
+      take it for granted that節「～を当然のことと思う」
+      ＊take A for granted「Aを当然のことと思う」の形もあり。
+      ＊take A for B「AをBだと思う/間違える」（⇨ 問1035）
+      see (to it) that節「～するように取り計らう/気をつける」（= make sure that節 ⇨ 問1118）
+      ＊口語では to it を省略することが多い。
+      ＊see to ～「～を取り計らう/～の世話をする」
+
+  - id: "shs-012"
+    name: "that/thoseの用法"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 82: 前に出た名詞の繰り返しを避ける that / those。
+
+      that = the + 単数名詞 の代用。通例、後ろに修飾語句を伴う。
+      that of ～ の形になることが多い。
+      ＊it も the + 単数名詞 の代用になるが、it は常に単独で用いる。
+      例: The climate of Sapporo vs. that of Tokyo
+
+      those = the + 複数名詞 の代用。
+      those of ～ の形が多いが、そうでない場合もある。
+
+      those =「人々」（= (the) people）の意味を表すことがある:
+      those present「出席者」（= those who were present）
+      〈発展〉those concerned [involved]「関係者/当事者」
+
+  - id: "shs-013"
+    name: "one/onesの用法"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 83: one / ones の用法。
+
+      (1) one = a + 単数名詞（不特定のものを指す）
+      ＊it = the [所有格] + 名詞（前出の名詞そのもの）
+      例: I forgot a book → I must buy one.（不特定の別の本）
+      cf. I've lost my book → where is it?（その本そのもの）
+
+      (2) 修飾語がつく場合:
+      a [the] + 形容詞 + one（単数）
+      (the) + 形容詞 + ones（複数）
+      ＊ones は必ず修飾語つきで用いる。
+      the one(s) + 関係代名詞節（限定されると定冠詞がつく）
+      ＊the one = that, the ones = those のほうが口語的。
+
+      (3) one が使えない場合:
+      wine / rice などの不可算名詞の代用にはならない。
+      → 前に出た不可算名詞をくり返すか省略する。
+      例: white wine vs. red（wine省略）
+
+      PU!62: one と it の使い分け:
+      one = a + 名詞 → 同種類だが不特定のものを指す
+      it = the [所有格] + 名詞 → 前出の名詞そのものを指す
+      it には修飾語がつかないが、one には修飾語をつけることが可能。
+
+  - id: "shs-014"
+    name: "another/other/othersの用法"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 84: another / other / others の用法。
+
+      another（= an + other）:
+      「もう1つ[1人](の) / 別の(1つ[1人])」
+      ＊other は単独では用いない。
+      another + 数詞 [few] + 複数名詞「さらに数日/もう数日」
+      ＊数詞+複数名詞を1まとまりとみなす。単数・複数両扱い。
+
+      相関的用法（2つの場合）:
+      one ～ the other ...「1つは～、残りの1つは…」
+      ＊残りの1つは特定なので the がつく。
+
+      相関的用法（3つ以上の場合）:
+      some ～ others ...「～のものもあれば…のものもある」
+      some ～ some ... の形もある（⇨ 問314）。
+      単数: one ～ another ...「1つは～、また別の1つは…」
+      the others「(3つ以上から一部を取った)残り全部」
+
+      その他の重要表現:
+      A is one thing, (and [but]) B (is) another「AとBは別物だ」
+      each other「お互い」（= one another）
+      ＊代名詞であり、他動詞や前置詞の目的語になる（副詞句ではない）。
+      one after another「次々に」（3つ以上のものが1つまた1つと）
+
+      PU!63: 相関的に用いる不定代名詞の基本パターン
+      [図表: 2者のone/the otherと3者以上のone/another/some/the othersの対比表]
+
+  - id: "shs-015"
+    name: "both/either/neither/noneの用法"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 85: both / either / neither / none の用法。
+
+      both「(2つ[2人]の)両方(の)」:
+      代名詞の所有格/the/these の前に置く。
+      both his parents = both of his parents
+      ＊複数扱い。
+
+      either「(2つ[2人]の)どちらか一方(の)/どちら(の～)も」:
+      単数扱い。Either of us has to ...
+      形容詞用法: Either day is all right.（= Both days / Each day）
+      否定文中: don't ~ either = neither
+
+      neither「(2つ[2人]の)どちら(の…)も～ない」:
+      単数扱い。2者について用いる。
+
+      none「(3つ[3人]以上)どれ[誰]も～ない」:
+      none of A の形が多い。Aの名詞には the/this/his 等の限定語が必要。
+      A に複数(代)名詞 → ふつう複数扱い。不可算名詞 → 単数扱い。
+      ＊neither は2者、none は3者以上。
+
+      PU!64: both/either/neither/none/each/every の使い分け表
+      [図表: 2者と3者以上での両方/それぞれ/どちらか/否定の対比表]
+      ＊each は3つ以上でも使う。
+      ＊every は形容詞用法のみ、none は代名詞用法のみ、他は両用法あり。
+
+  - id: "shs-016"
+    name: "each/everyの用法"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 86: each / every の用法。
+
+      each「(個別的に)それぞれ(の)/めいめい(の)」:
+      代名詞・形容詞の両用法あり。
+      each of A の形で単数扱い。
+      ＊each は2つ以上で使える（3つ以上でも使う）。
+
+      every「どの～もみな」:
+      形容詞用法のみ（every of ... は不可）。
+      every + 単数名詞（原則）。
+      every + 基数 + 複数名詞「～ごとに」
+      = every + 序数 + 単数名詞
+      例: every three years = every third year「3年ごとに」
+      every other + 単数名詞「1つおきの～」
+      = every second + 単数名詞 = every two + 複数名詞
+      例: every other day = every second day = every two days
+
+      参照: PU!64の使い分け表（⇨ shs-015 notes）
+
+  - id: "shs-017"
+    name: "some/anyの用法"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 87: some / any の用法。
+
+      基本:
+      some / any は可算名詞にも不可算名詞にも用いられる。
+      「いくつか(の)/いくらか(の)」のばく然とした数量を表す。
+      代名詞と形容詞の用法がある。
+
+      原則: some は肯定文、any は疑問文・否定文・条件文。
+      ＊ただし例外あり:
+
+      疑問文中の some:
+      肯定の答えを予期するとき。依頼・勧めの場合に用いる。
+      例: Will you lend me some money?
+
+      some + 単数可算名詞「ある～」:
+      some day「(将来の)いつか/ある日」
+      ＊cf. the other day「先日」
+
+      肯定文中の any:
+      代名詞: any of A「Aの中のどれでも」
+      形容詞: any + 単数名詞「どんな～でも」
+      例: Any pencil will do.（どんな鉛筆でもいい）
+
+  - id: "shs-018"
+    name: "something/nothingを用いた慣用表現"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 88: something / nothing を用いた慣用表現。
+
+      have nothing to do with ～「～と何の関係もない」
+      ＊have の次に nothing/something/much[a lot]/little を入れて関係の程度を表す。
+      入試では have nothing to do with の出題が多い。
+
+      nothing but ～「～だけ/～にすぎない」（= only）（← ～以外は何もない）
+      ＊but は「～以外は/～を除いて」の前置詞（⇨ 問718）。
+      for nothing「無料で/ただで」（= free / free of charge）（⇨ 問1202）
+
+      do nothing but do「～ばかりする」（← ～以外何もしない）
+      ＊but の後ろに原形不定詞が来る点に注意。
+
+      Something is wrong [the matter] with ～
+      「～はどこか故障している/具合が悪い」
+      ＝ There is something wrong [the matter] with ～
+      ＝ out of order「故障して」（⇨ 問1214）
+
+      There is something + 形容詞 + about ～
+      「～にはどこか…なところがある」
+
+  - id: "shs-019"
+    name: "再帰代名詞の用法と慣用表現"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 89+90: 再帰代名詞の用法と慣用表現。
+
+      Theme 89: 再帰代名詞 = 人称代名詞の所有格/目的格 + -self/-selves。
+      (1) 再帰用法: 動詞や前置詞の目的語（主語＝目的語のとき）
+      例: He cut himself with a knife.
+      (2) 強調用法: 主語・目的語・補語の直後に置き、意味を強める。
+      例: I myself said so. = I said so myself.《口語的》
+      ＊主語強調は文末に置くことも多い。
+
+      動詞の目的語: introduce oneself「自己紹介する」
+      補語の強調: 抽象名詞 + itself = very + 形容詞
+      例: kindness itself = very kind / generosity itself = very generous
+
+      Theme 90: 再帰代名詞を用いた慣用表現:
+      help oneself to ～「～を自由に取って食べる[飲む]」
+      enjoy oneself「楽しく時を過ごす」（= have a good time）
+      make oneself at home「くつろぐ」（= feel at home [at ease] ⇨ 問1231）
+      by oneself「ひとりで」（= alone）/ 独力で / [by itself] ひとりでに
+      for oneself「独力で」（自分のために自ら）
+      beside oneself「(喜び・怒りなどで)我を忘れて/夢中になって」
+      in oneself「それ自体では/元来」＊通例 in itself / in themselves
+
+      PU!65: その他の前置詞+oneself:
+      to oneself「自分だけに/自分専用に/心中ひそかに」
+      例: I want a room to myself. / Keep the secret to yourself.
+      between ourselves「ここだけの話だが」（= between you and me）
+      in spite of oneself「思わず/我知らず」
+
+understanding_goals:
+  - node_id: "shs-010"
+    seq: 1
+    goal: "It is ... for A to do と It is ... of A to do の使い分けができる"
+  - node_id: "shs-010"
+    seq: 2
+    goal: "It is natural that S should do / It is necessary that S (should) do の構文を正しく作れる"
+  - node_id: "shs-010"
+    seq: 3
+    goal: "It takes / It costs の形式主語構文を正しく使える"
+  - node_id: "shs-010"
+    seq: 4
+    goal: "It seems that節をto不定詞に書き換えできる（時制のずれを含む）"
+
+  - node_id: "shs-011"
+    seq: 1
+    goal: "find/think/make it ... to do の形式目的語構文を正しく使える"
+  - node_id: "shs-011"
+    seq: 2
+    goal: "make it a rule / take it for granted / see to it の慣用表現を使い分けできる"
+  - node_id: "shs-011"
+    seq: 3
+    goal: "take it for granted のitを用いない形（take A for granted）も理解できる"
+
+  - node_id: "shs-012"
+    seq: 1
+    goal: "that = the + 単数名詞、those = the + 複数名詞 の代用を正しく判断できる"
+  - node_id: "shs-012"
+    seq: 2
+    goal: "those =「人々」の用法（those present等）を理解できる"
+  - node_id: "shs-012"
+    seq: 3
+    goal: "thatとitの違い（thatは修飾語句を伴う、itは単独）を説明できる"
+
+  - node_id: "shs-013"
+    seq: 1
+    goal: "one（不特定）と it（特定）の使い分けができる"
+  - node_id: "shs-013"
+    seq: 2
+    goal: "one/ones に修飾語・冠詞がつくパターンを正しく判断できる"
+  - node_id: "shs-013"
+    seq: 3
+    goal: "one が不可算名詞の代用にならないことを理解できる"
+
+  - node_id: "shs-014"
+    seq: 1
+    goal: "another/other/othersの基本的な意味の違いを説明できる"
+  - node_id: "shs-014"
+    seq: 2
+    goal: "one~the other / some~others の相関的用法を正しく使える"
+  - node_id: "shs-014"
+    seq: 3
+    goal: "each otherが代名詞であり、副詞句でないことを理解できる"
+
+  - node_id: "shs-015"
+    seq: 1
+    goal: "both/either/neither/noneの数と単複の対応を正しく判断できる"
+  - node_id: "shs-015"
+    seq: 2
+    goal: "neitherは2者、noneは3者以上という使い分けができる"
+  - node_id: "shs-015"
+    seq: 3
+    goal: "none of Aの形でAに限定語（the/this/his等）が必要なことを理解できる"
+
+  - node_id: "shs-016"
+    seq: 1
+    goal: "eachとeveryの用法上の違い（代名詞/形容詞）を説明できる"
+  - node_id: "shs-016"
+    seq: 2
+    goal: "every + 基数 + 複数名詞「～ごとに」/ every other「1つおきの」を正しく使える"
+  - node_id: "shs-016"
+    seq: 3
+    goal: "eachは2つ以上、everyは3つ以上で使うという数の違いを理解できる"
+
+  - node_id: "shs-017"
+    seq: 1
+    goal: "some/anyの基本的な使い分け（肯定文/疑問文/否定文）ができる"
+  - node_id: "shs-017"
+    seq: 2
+    goal: "疑問文中のsome・肯定文中のanyの例外的用法を理解できる"
+  - node_id: "shs-017"
+    seq: 3
+    goal: "some + 単数可算名詞「ある～」の用法を理解できる"
+
+  - node_id: "shs-018"
+    seq: 1
+    goal: "have nothing to do with / nothing but / do nothing but do の意味を正しく区別できる"
+  - node_id: "shs-018"
+    seq: 2
+    goal: "Something is wrong with の構文とその同意表現を理解できる"
+  - node_id: "shs-018"
+    seq: 3
+    goal: "There is something + 形容詞 + about ～ の構文を理解できる"
+
+  - node_id: "shs-019"
+    seq: 1
+    goal: "再帰代名詞の再帰用法と強調用法の違いを説明できる"
+  - node_id: "shs-019"
+    seq: 2
+    goal: "by oneself / for oneself / beside oneself / in oneself の意味を正しく区別できる"
+  - node_id: "shs-019"
+    seq: 3
+    goal: "help oneself to / enjoy oneself / make oneself at home の慣用表現を使える"
+
+check_points:
+  - node_id: "shs-010"
+    seq: 1
+    question: "It is ... for A to do と It is ... of A to do の使い分けの基準は？"
+    answer: "forは不定詞の意味上の主語を示す一般的な場合。ofは人の性質（kind, foolish等）を表す形容詞の場合に用いる。ofの場合はAを主語にして書き換え可能。"
+  - node_id: "shs-010"
+    seq: 2
+    question: "It is natural that節でshouldを用いるのはなぜか？ It is necessary that節ではどうか？"
+    answer: "naturalは感情・価値判断 → shouldで主観を表す。necessaryは要求・願望 → that節中で原形またはshould+原形を用いる。"
+  - node_id: "shs-010"
+    seq: 3
+    question: "It seems that he had been ill. をto不定詞で書き換えると？"
+    answer: "He seemed to have been ill.（that節の動詞が主節より前の時制なので完了不定詞）"
+  - node_id: "shs-010"
+    seq: 4
+    question: "It doesn't matter / It makes no difference の後に来る節は？"
+    answer: "whether節。疑問詞節（who/what/when等）も可能（PU!59）。"
+
+  - node_id: "shs-011"
+    seq: 1
+    question: "形式目的語itを用いる代表的な動詞3つは？"
+    answer: "find / think / make。特にfindが頻出。find it difficult to do「～するのは難しいとわかる」。"
+  - node_id: "shs-011"
+    seq: 2
+    question: "make it a rule to do の意味は？ 同意表現は？"
+    answer: "「いつも～することにしている」。= be in the habit of doing / have the habit of doing。硬い表現で、日常的にはalways/usuallyを用いる。"
+  - node_id: "shs-011"
+    seq: 3
+    question: "take it for granted that節の意味は？ itを用いない形は？"
+    answer: "「～を当然のことと思う」。take A for granted「Aを当然のことと思う」（take A for B のBにgrantedが来た形）。"
+
+  - node_id: "shs-012"
+    seq: 1
+    question: "The climate of Sapporo is not as mild as (　) of Tokyo. の空所に入る語は？"
+    answer: "that。the climateの繰り返しを避けるthat。that of ～の形が多い。"
+  - node_id: "shs-012"
+    seq: 2
+    question: "those present の意味は？ those =「人々」の用法は他にどんな例があるか？"
+    answer: "「出席者」（= those who were present）。他にthose concerned [involved]「関係者/当事者」。"
+  - node_id: "shs-012"
+    seq: 3
+    question: "that と it はどちらも the + 単数名詞 の代用だが、どう違うか？"
+    answer: "thatは後ろに修飾語句（of ～等）を伴う。itは単独で用い、修飾語句をつけない。"
+
+  - node_id: "shs-013"
+    seq: 1
+    question: "one と it の違いは？"
+    answer: "one = a + 名詞（不特定の同種のもの）。it = the[所有格] + 名詞（前出のそのもの）。itには修飾語がつかない。"
+  - node_id: "shs-013"
+    seq: 2
+    question: "He likes white wine better than (　). でoneが入らない理由は？"
+    answer: "wineは不可算名詞なのでoneで代用できない。redと省略するか、red wineと繰り返す。"
+  - node_id: "shs-013"
+    seq: 3
+    question: "ones を単独（修飾語なし）で使えるか？"
+    answer: "不可。onesは必ず修飾語つきで用いる。a big one / the ones who ... など。"
+
+  - node_id: "shs-014"
+    seq: 1
+    question: "one ~ the other と some ~ others の違いは？"
+    answer: "one ~ the other は2つのうち「1つは～、残りの1つは…」。some ~ others は3つ以上で「～のものもあれば…のものもある」。"
+  - node_id: "shs-014"
+    seq: 2
+    question: "another + 複数名詞 は可能か？"
+    answer: "another + 数詞[few] + 複数名詞 の形なら可能。「さらに～」の意味。another two months has [have] passed。"
+  - node_id: "shs-014"
+    seq: 3
+    question: "each other は副詞句として使えるか？"
+    answer: "不可。each otherは代名詞で、常に他動詞や前置詞の目的語になる。×They met to each other → ○They met each other。"
+
+  - node_id: "shs-015"
+    seq: 1
+    question: "either / neither は単数扱いか複数扱いか？"
+    answer: "原則として単数扱い。Either of us has to ask him."
+  - node_id: "shs-015"
+    seq: 2
+    question: "neither と none の使い分けは？"
+    answer: "neither は2者について、none は3者以上について用いる。"
+  - node_id: "shs-015"
+    seq: 3
+    question: "none of A のAに来る名詞にはどんな語が必要か？"
+    answer: "the / this / his のような限定する語が必要。×none of dogs → ○none of the dogs。"
+
+  - node_id: "shs-016"
+    seq: 1
+    question: "every of A の形は正しいか？"
+    answer: "不可。everyは形容詞用法のみなので、every of ... は不可。代名詞用法が必要ならeachを用いる。"
+  - node_id: "shs-016"
+    seq: 2
+    question: "every other day の意味は？ 同意表現は？"
+    answer: "「1日おきに」。= every second day = every two days。every other + 単数名詞「1つおきの～」。"
+  - node_id: "shs-016"
+    seq: 3
+    question: "「3年ごとに」を every を使って2通りで表すと？"
+    answer: "every three years（every + 基数 + 複数名詞）= every third year（every + 序数 + 単数名詞）。"
+
+  - node_id: "shs-017"
+    seq: 1
+    question: "疑問文でsomeを用いるのはどんな場合か？"
+    answer: "肯定の答えを予期するとき。何かを依頼したり勧めたりする場合。Will you lend me some money?"
+  - node_id: "shs-017"
+    seq: 2
+    question: "肯定文でanyを用いるとどんな意味になるか？"
+    answer: "「どれでも/どんな～でも」の意味。Any pencil will do.（どんな鉛筆でもいい）"
+  - node_id: "shs-017"
+    seq: 3
+    question: "some day と the other day の違いは？"
+    answer: "some day =「(将来の)いつか/ある日」。the other day =「先日」。someは未来、the otherは過去を指す。"
+
+  - node_id: "shs-018"
+    seq: 1
+    question: "have nothing to do with ～ の意味は？ nothing以外に何が入るか？"
+    answer: "「～と何の関係もない」。something/much[a lot]/little も入り、関係の程度を表す。"
+  - node_id: "shs-018"
+    seq: 2
+    question: "nothing but と anything but の違いは？"
+    answer: "nothing but = only「～だけ/～にすぎない」。anything but = by no means「決して～でない」。意味が正反対。"
+  - node_id: "shs-018"
+    seq: 3
+    question: "do nothing but do の後ろの動詞の形は？"
+    answer: "原形不定詞（動詞の原形）。does nothing but complain。"
+
+  - node_id: "shs-019"
+    seq: 1
+    question: "再帰代名詞の再帰用法と強調用法の違いは？"
+    answer: "再帰用法: 動詞・前置詞の目的語（主語=目的語）。強調用法: 主語・目的語・補語の直後に置いて意味を強める（省略可能）。"
+  - node_id: "shs-019"
+    seq: 2
+    question: "by oneself と for oneself の違いは？"
+    answer: "by oneself =「ひとりで」（= alone）。for oneself =「独力で」（自分のために自ら）。"
+  - node_id: "shs-019"
+    seq: 3
+    question: "beside oneself の意味は？"
+    answer: "「(喜び・怒りなどで)我を忘れて/夢中になって」。be beside oneself with rage「怒りで我を忘れる」。"
+
+node_prerequisites:
+  - node_id: "shs-011"
+    prerequisite_id: "shs-010"
+
+knowledge_references:
+  - node_id: "shs-010"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_078"
+    pages: ""
+  - node_id: "shs-010"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_079"
+    pages: ""
+  - node_id: "shs-010"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_080"
+    pages: ""
+  - node_id: "shs-011"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_081"
+    pages: ""
+  - node_id: "shs-012"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_082"
+    pages: ""
+  - node_id: "shs-013"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_083"
+    pages: ""
+  - node_id: "shs-014"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_084"
+    pages: ""
+  - node_id: "shs-015"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_085"
+    pages: ""
+  - node_id: "shs-016"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_086"
+    pages: ""
+  - node_id: "shs-017"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_087"
+    pages: ""
+  - node_id: "shs-018"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_088"
+    pages: ""
+  - node_id: "shs-019"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_089"
+    pages: ""
+  - node_id: "shs-019"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_090"
+    pages: ""

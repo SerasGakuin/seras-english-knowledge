@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-073-p01"
+    section_id: "Scr_073"
+    drill: 1
+    number: 266
+    role: "exam"
+    english: "Please speak up, as I can hardly hear you."
+    japanese: "ほとんど聞こえないので、大きな声で話してください。"
+    notes: "難易度: 頻出。出典: 学習院大。hardly「ほとんど～ない」（程度の弱い否定）。一般動詞の前に置く"
+  - id: "scr-073-p02"
+    section_id: "Scr_073"
+    drill: 1
+    number: 267
+    role: "exam"
+    english: "We seldom eat Matsusaka beef since it's so expensive."
+    japanese: "松阪牛はとても高いのでめったに食べない。"
+    notes: "出典: 南山大。誤り指摘問題。don't seldom → seldom。準否定語にnotを付けない"
+  - id: "scr-073-p03"
+    section_id: "Scr_073"
+    drill: 1
+    number: 268
+    role: "exam"
+    english: "On the day following the party, there was hardly any food left in the refrigerator."
+    japanese: "パーティーの翌日、冷蔵庫にはほとんど食べ物が残っていなかった。"
+    notes: "難易度: 頻出。出典: 立命館大。hardly any + 名詞 =「ほとんど～がない」（= almost no + 名詞）。参照: There be + S + done（⇨ 問141）"
+  - id: "scr-073-p04"
+    section_id: "Scr_073"
+    drill: 1
+    number: 269
+    role: "exam"
+    english: "He hardly ever goes to the movies."
+    japanese: "彼はめったに映画を見に行かない。"
+    notes: "出典: 県立広島大。hardly ever =「めったに～ない」（= seldom / almost never）。一般動詞の前に置く"
+
+sentence_structures:
+  - sentence_id: "scr-073-p01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-073-p01"
+    label: "details"
+    value: "Please speak up(V), [as](M:理由) <I>(S) can hardly hear(V) <you>(O)"
+  - sentence_id: "scr-073-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-073-p02"
+    label: "details"
+    value: "<We>(S) seldom eat(V) <Matsusaka beef>(O) [since it's so expensive](M:理由)"
+  - sentence_id: "scr-073-p03"
+    label: "overall"
+    value: "There V S"
+  - sentence_id: "scr-073-p03"
+    label: "details"
+    value: "[On the day following the party](M), there was(V) <hardly any food>(S) [left in the refrigerator](M:過去分詞)"
+  - sentence_id: "scr-073-p04"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "scr-073-p04"
+    label: "details"
+    value: "<He>(S) hardly ever goes(V) [to the movies](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-073-p01"
+    node_id: "shs-006"
+  - sentence_id: "scr-073-p02"
+    node_id: "shs-006"
+  - sentence_id: "scr-073-p03"
+    node_id: "shs-006"
+  - sentence_id: "scr-073-p04"
+    node_id: "shs-006"

@@ -721,6 +721,198 @@ sections:
     gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "shs-004(Theme70+71統合)。問256-263=8exam; PU!48(Why don't you/we)はnotes記録"
+  # Part 1 > Ch10 否定
+  Scr_072:
+    title: "no/notの用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-005(単独)。問264-265=2exam, PU!49例文1件+解説例文1件=2example"
+  Scr_073:
+    title: "弱い否定"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-006(単独)。問266-269=4exam"
+  Scr_074:
+    title: "部分否定"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-007(単独)。問270-273=4exam, PU!51例文3件=3example; PU!50(対照表)はnotes記録"
+  Scr_075:
+    title: "強い否定表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-008(単独)。問274-278=5exam"
+  Scr_076:
+    title: "二重否定"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-009(Theme76+77統合)。問279=1exam, PU!52例文2件+PU!53例文5件=7example"
+  Scr_077:
+    title: "否定語を用いない否定表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-009(Theme76+77統合)。問280-286=7exam, PU!54例文2件=2example; PU!55はnotes記録"
+  # Part 1 > Ch11 代名詞
+  Scr_078:
+    title: "形式主語のit"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-010(Theme78+79+80統合)。問287-290=4exam; PU!56-58(語句リスト)はnotes記録"
+  Scr_079:
+    title: "形式主語のitを用いた慣用表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-010(Theme78+79+80統合)。問291-294=4exam, PU!59例文1件=1example"
+  Scr_080:
+    title: "It seems that節などの構文"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-010(Theme78+79+80統合)。問295-296=2exam; PU!60(seemの4時制)はnotes記録"
+  Scr_081:
+    title: "形式目的語のitとその慣用表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-011(単独)。問297-302=6exam"
+  Scr_082:
+    title: "that/thoseの用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-012(単独)。問303-305=3exam"
+  Scr_083:
+    title: "one/onesの用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-013(単独)。問306-310=5exam; PU!62(oneとitの使い分け)はnotes記録"
+  Scr_084:
+    title: "another/other/othersの用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 11
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-014(単独)。問311-318=8exam, 解説例文3件=3example; PU!63(対比表)はnotes記録"
+  Scr_085:
+    title: "both/either/neither/noneの用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-015(単独)。問319-322=4exam; PU!64(使い分け表)はnotes記録"
+  Scr_086:
+    title: "each/everyの用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-016(単独)。問323-325=3exam"
+  Scr_087:
+    title: "some/anyの用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-017(単独)。問326-329=4exam"
+  Scr_088:
+    title: "something/nothingを用いた慣用表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-018(単独)。問330-334=6exam(問331はAB2文で2件登録)"
+  Scr_089:
+    title: "再帰代名詞の用法"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-019(Theme89+90統合)。問335-336=2exam, 強調例文1件=1example"
+  Scr_090:
+    title: "再帰代名詞を用いた慣用表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "shs-019(Theme89+90統合)。問337-343=7exam, PU!65例文2件=2example"
   Scr_125:
     title: "自動詞と他動詞──前置詞の有無"
     type: "usage"
@@ -733,9 +925,9 @@ sections:
     notes: "パイロット。sgh-001。PU!92(他動詞14語)/PU!93(自動詞7語)はnotes記録"
 
 summary:
-  total_sections: 72
-  completed: 72
+  total_sections: 91
+  completed: 91
   in_progress: 0
   not_started: 0
-  total_knowledge_nodes: 55
-  total_sentences: 358
+  total_knowledge_nodes: 70
+  total_sentences: 460

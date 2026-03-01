@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-086-p01"
+    section_id: "Scr_086"
+    drill: 1
+    number: 323
+    role: "exam"
+    english: "Each of the items in this store is sold for one hundred yen."
+    japanese: "この店は、どの商品も100円で売っている。"
+    notes: "出典: 成城大。each of A の形で単数扱い。everyは形容詞用法のみなのでof Aの形不可"
+  - id: "scr-086-p02"
+    section_id: "Scr_086"
+    drill: 1
+    number: 324
+    role: "exam"
+    english: "Trains come every ten minutes."
+    japanese: "電車は10分ごとに来る。"
+    notes: "難易度: 頻出。出典: 金城学院大。every + 基数 + 複数名詞「～ごとに」。= every tenth minute"
+  - id: "scr-086-p03"
+    section_id: "Scr_086"
+    drill: 1
+    number: 325
+    role: "exam"
+    english: "He writes to his girlfriend almost every other day."
+    japanese: "彼はガールフレンドにほぼ1日おきに手紙を書いている。"
+    notes: "出典: 法政大。every other + 単数名詞「1つおきの」。= every second day = every two days"
+
+sentence_structures:
+  - sentence_id: "scr-086-p01"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "scr-086-p01"
+    label: "details"
+    value: "<Each of the items in this store>(S) is sold(V:受動態) [for one hundred yen](M)"
+  - sentence_id: "scr-086-p02"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "scr-086-p02"
+    label: "details"
+    value: "<Trains>(S) come(V) [every ten minutes](M)"
+  - sentence_id: "scr-086-p03"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "scr-086-p03"
+    label: "details"
+    value: "<He>(S) writes(V) [to his girlfriend](M) [almost every other day](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-086-p01"
+    node_id: "shs-016"
+  - sentence_id: "scr-086-p02"
+    node_id: "shs-016"
+  - sentence_id: "scr-086-p03"
+    node_id: "shs-016"

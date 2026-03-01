@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-072-p01"
+    section_id: "Scr_072"
+    drill: 1
+    number: 264
+    role: "exam"
+    english: "It is obvious that no dog can fly."
+    japanese: "どの犬も空を飛べない［空を飛べる犬がいない］のは明らかである。"
+    notes: "難易度: 頻出。出典: 関西外語大。no + 名詞 = not ... any + 名詞（全体否定）。any dog can'tの語順は不可"
+  - id: "scr-072-p02"
+    section_id: "Scr_072"
+    drill: 1
+    number: 265
+    role: "exam"
+    english: "Without your kind suggestions, I don't think he could have carried out this project."
+    japanese: "あなたの親切な提案がなければ、彼はこの計画を実行できなかっただろうと私は思います。"
+    notes: "出典: 武庫川女子大。整序問題。notの繰り上げ: I don't think ~ が一般的"
+  - id: "scr-072-e01"
+    section_id: "Scr_072"
+    drill: 0
+    number: null
+    role: "example"
+    english: "I don't suppose he will come."
+    japanese: "彼は来ないと思うよ。"
+    notes: "発展。notの繰り上げ動詞: believe/expect/guess/suppose"
+  - id: "scr-072-e02"
+    section_id: "Scr_072"
+    drill: 0
+    number: null
+    role: "example"
+    english: "This smartphone is no different from the older model except for the color."
+    japanese: "このスマートフォンは色を除けば旧モデルとまったく変わらない。"
+    notes: "PU!49。no + 補語名詞/形容詞 =「決して～でない/～どころではない」（強い否定）"
+
+sentence_structures:
+  - sentence_id: "scr-072-p01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-072-p01"
+    label: "details"
+    value: "<It>(形式S) is(V) obvious(C) [that no dog can fly](真S:that節)"
+  - sentence_id: "scr-072-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-072-p02"
+    label: "details"
+    value: "[Without your kind suggestions](M:仮定法代用), <I>(S) don't think(V) [he could have carried out this project](O:that省略)"
+  - sentence_id: "scr-072-e01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-072-e01"
+    label: "details"
+    value: "<I>(S) don't suppose(V) [he will come](O:that省略)"
+  - sentence_id: "scr-072-e02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-072-e02"
+    label: "details"
+    value: "<This smartphone>(S) is(V) [no different](C) [from the older model](M) [except for the color](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-072-p01"
+    node_id: "shs-005"
+  - sentence_id: "scr-072-p02"
+    node_id: "shs-005"
+  - sentence_id: "scr-072-e01"
+    node_id: "shs-005"
+  - sentence_id: "scr-072-e02"
+    node_id: "shs-005"

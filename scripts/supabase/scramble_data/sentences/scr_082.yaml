@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-082-p01"
+    section_id: "Scr_082"
+    drill: 1
+    number: 303
+    role: "exam"
+    english: "The climate of Sapporo is not as mild as that of Tokyo."
+    japanese: "札幌の気候は東京（の気候）ほど温暖ではない。"
+    notes: "難易度: 頻出。出典: 山梨大。that = the + 単数名詞 の代用。that of ～ の形が多い"
+  - id: "scr-082-p02"
+    section_id: "Scr_082"
+    drill: 1
+    number: 304
+    role: "exam"
+    english: "Ms. Smith's methods of teaching English are quite different from those of her predecessors."
+    japanese: "スミス先生の英語の教え方は、前任者たちの教え方とはまったく異なる。"
+    notes: "出典: 近畿大。those = the + 複数名詞 の代用。those of ～ の形が多い"
+  - id: "scr-082-p03"
+    section_id: "Scr_082"
+    drill: 1
+    number: 305
+    role: "exam"
+    english: "Jimmy's lecture made a great impression on all those present."
+    japanese: "ジミーの講演は出席者全員に大きな感銘を与えた。"
+    notes: "出典: 高知大。those present =「出席者」。those = people。〈発展〉those concerned [involved]「関係者/当事者」"
+
+sentence_structures:
+  - sentence_id: "scr-082-p01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-082-p01"
+    label: "details"
+    value: "<The climate of Sapporo>(S) is(V) [not as mild as that of Tokyo](C:原級比較)"
+  - sentence_id: "scr-082-p02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-082-p02"
+    label: "details"
+    value: "<Ms. Smith's methods of teaching English>(S) are(V) [quite different from those of her predecessors](C)"
+  - sentence_id: "scr-082-p03"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-082-p03"
+    label: "details"
+    value: "<Jimmy's lecture>(S) made(V) <a great impression>(O) [on all those present](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-082-p01"
+    node_id: "shs-012"
+  - sentence_id: "scr-082-p02"
+    node_id: "shs-012"
+  - sentence_id: "scr-082-p03"
+    node_id: "shs-012"

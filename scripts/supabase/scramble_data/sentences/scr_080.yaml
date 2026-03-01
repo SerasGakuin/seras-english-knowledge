@@ -1,0 +1,37 @@
+sentences:
+  - id: "scr-080-p01"
+    section_id: "Scr_080"
+    drill: 1
+    number: 295
+    role: "exam"
+    english: "He seemed to have been seriously sick."
+    japanese: "彼は重い病気を患っていたようだった。"
+    notes: "出典: 武庫川女子大。It seemed that he had been seriously sick. の書き換え。that節の動詞がseemed より前の時制 → 完了不定詞 to have been"
+  - id: "scr-080-p02"
+    section_id: "Scr_080"
+    drill: 1
+    number: 296
+    role: "exam"
+    english: "I happened to meet an old friend of mine yesterday."
+    japanese: "昨日私は旧友に偶然会った。"
+    notes: "出典: 工学院大。It happened that I met ... の書き換え。happen to do =「たまたま～する」。by chance（⇨ 問1206）"
+
+sentence_structures:
+  - sentence_id: "scr-080-p01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-080-p01"
+    label: "details"
+    value: "<He>(S) seemed(V) [to have been seriously sick](C:完了不定詞)"
+  - sentence_id: "scr-080-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-080-p02"
+    label: "details"
+    value: "<I>(S) happened to meet(V) <an old friend of mine>(O) [yesterday](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-080-p01"
+    node_id: "shs-010"
+  - sentence_id: "scr-080-p02"
+    node_id: "shs-010"
