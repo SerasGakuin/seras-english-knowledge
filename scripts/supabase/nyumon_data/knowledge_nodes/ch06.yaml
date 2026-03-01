@@ -220,6 +220,101 @@ knowledge_nodes:
         前置詞withoutの後ろに動詞を置く場合は動名詞にする。
         interact with〜「〜と交流する、やり取りする」。
 
+  - id: "nta-007"
+    name: "同格の応用: コンマによる同格と文の同格"
+    category: "その他"
+    priority: "P1"
+    notes: |
+      Point分類: ❶〔その他〕（問65）、❹〔その他〕（問65）
+      名詞と名詞の同格のバリエーション: コンマによる同格と、文と名詞(句)の同格を理解する。
+      ■ コンマによる同格（問65 ❶）:
+        名詞を書いたあとで、接続詞も何も使わないで別の名詞を最初の名詞の後ろに並べる。
+        日本語では「犬のトム」「英語の先生である竹岡氏」など接続するものが必要だが、
+        英語では必要ない。
+        本文: Watson, IBM's artificial intelligence program
+        訳: 「ワトソンというIBM社の人工知能プログラム」
+        または「IBM社の人工知能プログラムであるワトソン」。
+      ■ 文と名詞(句)の同格（問65 ❹）:
+        名詞(句)と名詞(句)の同格だけでなく、文と名詞(句)の同格関係も存在する。
+        1つの文を書いたあとに、その文を名詞(句)で要約する。
+        本文: ... helped doctors ... detect ― possibly the first case in Japan ...
+        and this is を補って解釈する。
+        日本語でも「一大事！」のように最後に名詞1語でまとめることがある。
+      ❷（問65）help+O+原形不定詞:
+        使役動詞makeと同様に、helpも昔は〈help+O+to V〉だったが、
+        長年の使用でtoが摩耗し、現在では〈help+O+原形不定詞〉が普通。
+        日本語の「食べられる」→「食べれる」（ら抜き言葉）と同様の変化。
+      ❸（問65）that = 目的格の関係代名詞:
+        thatの後ろにあるdetectの目的語がない → 目的格の関係代名詞。
+        先行詞は a rare type of cancer。
+      ❺（問65）that = 関係副詞:
+        case「場合」は元々「入れ物」という場所のイメージがあるため、
+        関係副詞を従える場合にはwhereが用いられる。
+        ただし先行詞にfirstという強い限定を表す形容詞がついているため、
+        それに引きずられてthatが使われている。
+        whereの代わりにthatを用いる場合、先行詞はplace, somewhere,
+        anywhere, everywhere, nowhereに限られる。
+
+  - id: "nta-008"
+    name: "副詞 otherwise の働き"
+    category: "その他"
+    priority: "P1"
+    notes: |
+      Point分類: ❹〔副詞〕（問66）
+      otherwise の意味・使い方と、副詞の挿入位置を理解する。
+      ■ otherwise の働き（問66 ❹）:
+        otherwiseは副詞で、in other waysが変形されてできた単語。
+        すでに述べた文(またはその一部)を受けて、
+        その逆を仮定して「もしそうでなければ」という意味で使う。
+        if not で書き換えが可能。
+        例: He will arrive at 10; otherwise, call me.
+        「彼は10時に到着します。もし来なかったら私に電話してください」
+        （otherwise = if he does not arrive at 10）。
+        本文: otherwise = if our members do not switch off their phones。
+        because節の冒頭に挿入されているのは、前文の内容を受けていて
+        文の流れをスムーズにするため。
+      ❶（問66）have to の2つの可能性:
+        関係代名詞節の中のhave toは、(1) have to V（助動詞）と
+        (2) have～to V（動詞＋名詞＋to不定詞）の2つの可能性がある。
+        歴史的には(1)から(2)が生まれた（～とto Vが入れ替わった）。
+        「～する必要がある」と訳して違和感がある場合は have～to V と考える。
+        本文ではどちらの解釈も可能。
+      ❷（問66）too = 否定表現:
+        副詞のtooは「～しすぎる」という一種の否定表現。
+        She is too beautiful. は原則マイナスイメージ
+        （「きれいすぎて好きではない」「きれいすぎて近づけない」）。
+      ❸（問66）give+O+O + 関代省略:
+        give your kids and husband the time で〈give+O+O〉。
+        they needは、the timeを説明する関係詞節でtheyの直前に
+        関係代名詞which/thatが省略されている（needの目的語がない）。
+
+  - id: "nta-009"
+    name: "that節直後の副詞句の前置"
+    category: "その他"
+    priority: "P1"
+    notes: |
+      Point分類: ❶〔前置詞〕（問67）
+      前置詞despiteの用法と、that節直後に副詞句を前置するパターンを理解する。
+      ■ despite + 動名詞（問67 ❶）:
+        despiteは前置詞で「～にもかかわらず」の意味。
+        前置詞なので後ろには名詞、動詞を置く場合には動名詞にする。
+        本文: despite spending ...（spendを動名詞にしている）。
+      ■ 「にもかかわらず」の品詞別整理:
+        前置詞: despite ～（後ろには名詞）
+        群前置詞: in spite of ～（後ろには名詞）
+        接続詞: though S+V / although S+V（後ろにはS+V）
+        副詞: nevertheless / nonetheless（単独で使う）
+      ■ that節直後の副詞句の前置パターン（問67 ❶）:
+        S+V that 副詞句, S'+V' ... の形。
+        that節中のS'+V'を修飾する副詞句を、that直後に置くことで
+        修飾先を明確にし、情報の焦点を後ろに置く。
+        もし S+V that S'+V' 副詞句 と書くと、副詞句がVとV'のどちらを
+        修飾するのか曖昧になるため、わざわざthat直後に副詞句を置く。
+      ❷（問67）over+数字:
+        〈over+数字〉は「～より多く」の意味。
+        more than ～と同様に等号は入らないので厳密には「～以上」ではないが、
+        訳す場合には「～以上」でも許容される。
+
 understanding_goals:
   - node_id: "nta-001"
     seq: 1
@@ -280,6 +375,36 @@ understanding_goals:
   - node_id: "nta-006"
     seq: 3
     goal: "ダッシュによる同格を含む文を正確に訳出できる"
+
+  - node_id: "nta-007"
+    seq: 1
+    goal: "コンマによる名詞の同格（接続詞なしで名詞を並べる）を識別できる"
+  - node_id: "nta-007"
+    seq: 2
+    goal: "文と名詞(句)の同格を識別し、and this is を補って解釈できる"
+  - node_id: "nta-007"
+    seq: 3
+    goal: "同格の3パターン（ダッシュ・コンマ・文と名詞）を区別して説明できる"
+
+  - node_id: "nta-008"
+    seq: 1
+    goal: "otherwiseが「もしそうでなければ」を意味する副詞であることを説明できる"
+  - node_id: "nta-008"
+    seq: 2
+    goal: "otherwiseを if not で書き換えて、受けている文の内容を特定できる"
+  - node_id: "nta-008"
+    seq: 3
+    goal: "otherwiseが文中に挿入されている位置と、その挿入理由を説明できる"
+
+  - node_id: "nta-009"
+    seq: 1
+    goal: "despiteが前置詞であり、後ろに名詞・動名詞を取ることを説明できる"
+  - node_id: "nta-009"
+    seq: 2
+    goal: "「にもかかわらず」の品詞別4パターン（前置詞/群前置詞/接続詞/副詞）を区別できる"
+  - node_id: "nta-009"
+    seq: 3
+    goal: "S+V that 副詞句, S'+V' のパターンで、副詞句がthat直後に前置される理由を説明できる"
 
 check_points:
   - node_id: "nta-001"
@@ -360,6 +485,45 @@ check_points:
     question: "英文を読んでいて「わからない名詞」が出てきた場合、どう対処すべきか？"
     answer: "焦らずに読み進める。英語では発信者に説明責任があるため、後で必ず説明がなされる（ダッシュ、同格、関係代名詞節など）。"
 
+  - node_id: "nta-007"
+    seq: 1
+    question: "コンマによる同格とは何か？ 日本語との違いを含めて説明せよ。"
+    answer: "名詞を書いたあとで、接続詞も何も使わないで別の名詞を並べて説明する構造。日本語では「犬のトム」「先生である竹岡氏」のように接続するものが必要だが、英語では不要。例: Watson, IBM's artificial intelligence program（ワトソンというIBM社のAIプログラム）。"
+  - node_id: "nta-007"
+    seq: 2
+    question: "文と名詞(句)の同格とは何か？ どう解釈すればよいか？"
+    answer: "1つの文を書いたあとに、その文を名詞(句)で要約する構造。and this is を補って解釈する。本文: ... helped doctors ... detect ― possibly the first case in Japan ... は、前文全体を the first case in Japan で要約している。日本語でも「一大事！」のように最後に名詞1語でまとめることがある。"
+  - node_id: "nta-007"
+    seq: 3
+    question: "Watson, IBM's artificial intelligence program, helped doctors rapidly discover ... の構造を分析せよ。"
+    answer: "Watson と IBM's artificial intelligence program がコンマによる同格。helped doctors rapidly discover は help+O+原形不定詞（toが摩耗して消えた使役構造）。that conventional tests had failed to detect は目的格の関係代名詞節（detectの目的語がない）。ダッシュ以降は文と名詞の同格。"
+
+  - node_id: "nta-008"
+    seq: 1
+    question: "otherwiseの語源と意味を説明せよ。"
+    answer: "in other waysが変形されてできた副詞。すでに述べた文（またはその一部）を受けて、その逆を仮定して「もしそうでなければ」という意味で使う。if not で書き換えが可能。"
+  - node_id: "nta-008"
+    seq: 2
+    question: "He will arrive at 10; otherwise, call me. の otherwise を if not で書き換えよ。"
+    answer: "otherwise = if he does not arrive at 10。「彼は10時に到着します。もし来なかったら私に電話してください」。otherwiseは前文の内容を受けてその逆を仮定している。"
+  - node_id: "nta-008"
+    seq: 3
+    question: "本文で otherwise が because 節の冒頭に挿入されている理由を説明せよ。"
+    answer: "otherwiseは前文の内容（switch off their phones）を受けており、文の流れをスムーズにするために because 節の冒頭に挿入されている。otherwise = if our members do not switch off their phones で、前文の内容と逆の仮定を示す。"
+
+  - node_id: "nta-009"
+    seq: 1
+    question: "despiteの品詞は何か？ 後ろにどのような要素が続くか？"
+    answer: "前置詞。後ろには名詞が続く。動詞を置く場合には動名詞にする。本文: despite spending ...（spendを動名詞spending にしている）。意味は「～にもかかわらず」。"
+  - node_id: "nta-009"
+    seq: 2
+    question: "「にもかかわらず」を表す英語を品詞別に4パターン挙げよ。"
+    answer: "前置詞: despite ～（後ろに名詞）。群前置詞: in spite of ～（後ろに名詞）。接続詞: though / although S+V（後ろにS+V）。副詞: nevertheless / nonetheless（単独で使う）。"
+  - node_id: "nta-009"
+    seq: 3
+    question: "S+V that 副詞句, S'+V' のパターンで、副詞句がthat直後に置かれる理由を説明せよ。"
+    answer: "副詞句がV'を修飾していることを明確にするため。もし S+V that S'+V' 副詞句 と書くと、副詞句がVとV'のどちらを修飾するか曖昧になる。that直後に副詞句を置くことで修飾先を明確にし、情報の焦点（S'+V'）を後ろに置く効果もある。"
+
 node_prerequisites:
   - node_id: "nta-001"
     prerequisite_id: "nbk-002"
@@ -373,6 +537,12 @@ node_prerequisites:
   - node_id: "nta-005"
     prerequisite_id: "nta-004"
   - node_id: "nta-006"
+    prerequisite_id: "nbk-010"
+  - node_id: "nta-007"
+    prerequisite_id: "nta-006"
+  - node_id: "nta-008"
+    prerequisite_id: "nbk-004"
+  - node_id: "nta-009"
     prerequisite_id: "nbk-010"
 
 knowledge_references:
@@ -408,3 +578,15 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_64"
     pages: "p.154-155"
+  - node_id: "nta-007"
+    book: "入門英文問題精講"
+    section_id: "Ny_65"
+    pages: "p.156-157"
+  - node_id: "nta-008"
+    book: "入門英文問題精講"
+    section_id: "Ny_66"
+    pages: "p.158-159"
+  - node_id: "nta-009"
+    book: "入門英文問題精講"
+    section_id: "Ny_67"
+    pages: "p.160-161"

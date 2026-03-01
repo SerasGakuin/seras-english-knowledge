@@ -790,32 +790,32 @@ sections:
     title: "説明要素の後置②"
     type: "exercise"
     pages: "p.156-157"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: "nta-007(同格の応用: コンマによる同格と文の同格)"
   Ny_66:
     title: "注意すべき副詞の位置"
     type: "exercise"
     pages: "p.158-159"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: "nta-008(副詞 otherwise の働き)"
   Ny_67:
     title: "注意すべき副詞句の位置"
     type: "exercise"
     pages: "p.160-161"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: "nta-009(that節直後の副詞句の前置)"
   Ny_68:
     title: "否定①"
     type: "exercise"
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 77
+  completed: 80
   in_progress: 0
-  not_started: 8
-  total_knowledge_nodes: 62
-  total_sentences: 195
+  not_started: 5
+  total_knowledge_nodes: 65
+  total_sentences: 199

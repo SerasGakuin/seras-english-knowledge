@@ -1,0 +1,28 @@
+sentences:
+  - id: "ny-67-s1"
+    section_id: "Ny_67"
+    drill: 67
+    number: 1
+    role: "exercise"
+    english: "Researchers have found that despite spending the vast majority of our waking hours in effortful thought, over 40 percent of our creative ideas appear during breaks."
+    japanese: "研究者達は，私達は起きている時間の大半を努力して考えることに費やしているにもかかわらず，私達の創造的な考えの40％以上は休憩中に思いつくものなのだということを発見した。"
+    notes: "出典: 埼玉大学"
+
+sentence_structures:
+  - sentence_id: "ny-67-s1"
+    label: "overall"
+    value: "S V O[that節(副詞句前置)]"
+
+  - sentence_id: "ny-67-s1"
+    label: "details"
+    value: "{S}Researchers {V}have found {O}[that(接続詞) (despite(前置詞) spending(動名詞) the vast majority (of our waking hours)(M:形容詞句) (in effortful thought)(M:副詞句))(M:副詞句、that直後に前置), {S}over 40 percent (of our creative ideas)(M:形容詞句) {V}appear (during breaks)(M:副詞句)]"
+
+  - sentence_id: "ny-67-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 起きている時間の大半を努力して考えることに費やしているにもかかわらず（despite+動名詞、that直後に副詞句を前置して修飾先を明確化）
+      ❷ 私達の創造的な考えの40％以上が休憩中に現れる（over+数字=「～より多く」、等号は入らないが「以上」でも許容）
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-67-s1"
+    node_id: "nta-009"

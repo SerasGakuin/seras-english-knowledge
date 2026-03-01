@@ -601,19 +601,26 @@ sections:
     title: "説明要素の後置②"
     pages: "p.156-157"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: the first caseの内容は？
+      一言: 「文と名詞の同格」なんて難しいと思うかもしれないが、日本語でも「スマホを落として、おまけに階段でこけた。一大事！」というように、最後に名詞1語でまとめることがある。
+      参考書内参照: →問64（前項のダッシュによる同格を発展させた内容）
   - id: "Ny_66"
     book: "入門英文問題精講"
     title: "注意すべき副詞の位置"
     pages: "p.158-159"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: otherwiseとは，何を意味する？
+      一言: 本文では、weは「Mumsnet（母の会）の運営者」で、第1文後半の your daily life の your は「一般の人を示す you / your / you」。because以下の主語も同じく「一般の人を示すyou」であり、女性を指す。
   - id: "Ny_67"
     book: "入門英文問題精講"
     title: "注意すべき副詞句の位置"
     pages: "p.160-161"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: despiteの品詞は？
+      一言: 人間は一生懸命考えている場合には直線的な思考になり、創造的な考えは生まれにくい。いったん考えを止めると、潜在的意識が動きだし、創造的な考えを生み出すようになる。煮詰まったら散歩するなどして思考をやめるとよい。
   - id: "Ny_68"
     book: "入門英文問題精講"
     title: "否定①"
@@ -883,6 +890,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_64"
     node_id: "nta-006"
+    seq: 1
+  - section_id: "Ny_65"
+    node_id: "nta-007"
+    seq: 1
+  - section_id: "Ny_66"
+    node_id: "nta-008"
+    seq: 1
+  - section_id: "Ny_67"
+    node_id: "nta-009"
     seq: 1
 
 section_prerequisites: []

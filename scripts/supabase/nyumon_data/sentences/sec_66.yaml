@@ -1,0 +1,52 @@
+sentences:
+  - id: "ny-66-s1"
+    section_id: "Ny_66"
+    drill: 66
+    number: 1
+    role: "exercise"
+    english: "Social media is something we have to keep a watch on, because it can take too much time from your daily life."
+    japanese: "ソーシャルメディアは，私達が見張っておくべきものだ。なぜなら，それは日常生活から時間を奪いすぎることがあるからだ。"
+    notes: "出典: 明治学院大学。* we「Mumsnet（母の会）の運営者を指す」（問題文の語彙注釈）"
+  - id: "ny-66-s2"
+    section_id: "Ny_66"
+    drill: 66
+    number: 2
+    role: "exercise"
+    english: "We encourage our members to switch off their phones, because otherwise you can't give your kids and husband the time they need."
+    japanese: "私達は，私の会の会員の女性達に電話の電源を切ることを促している。なぜなら，そうしなければ，女性が子どもや夫に彼らが必要とする時間を割いてやれないからだ。"
+    notes: "出典: 明治学院大学"
+
+sentence_structures:
+  - sentence_id: "ny-66-s1"
+    label: "overall"
+    value: "S V C, 従属節(because)"
+
+  - sentence_id: "ny-66-s1"
+    label: "details"
+    value: "{S}Social media {V}is {C}something [{S}we {V}have to keep(助動詞have to / 動詞have~to Vの両解釈可) {O}a watch (on)](関代省略), [because(従接) {S}it {V}can take {O}too(副詞:否定的=～しすぎる) much time (from your daily life)(M:副詞句)](M:理由)"
+
+  - sentence_id: "ny-66-s1"
+    label: "partial_translations"
+    value: |
+      ❶ ソーシャルメディアは私達が見張っておくべきものだ（have toは助動詞または動詞+to不定詞の両解釈が可能）
+      ❷ それは日常生活から時間を奪いすぎることがある（too=否定表現「～しすぎる」でマイナスイメージ）
+
+  - sentence_id: "ny-66-s2"
+    label: "overall"
+    value: "S V O C, 従属節(because + otherwise)"
+
+  - sentence_id: "ny-66-s2"
+    label: "details"
+    value: "{S}We {V}encourage {O}our members {C}(to switch off(to不定詞) their phones)(C), [because(従接) otherwise(M:副詞=if not、前文の逆を仮定) {S}you {V}can't give {O1}your kids and husband {O2}the time [that(関代:目的格省略) {S}they {V}need](関代省略)](M:理由)"
+
+  - sentence_id: "ny-66-s2"
+    label: "partial_translations"
+    value: |
+      ❹ そうしなければ（otherwise = if our members do not switch off their phones、前文の内容を受けてその逆を仮定）
+      ❸ 子どもや夫に彼らが必要とする時間を割いてやれない（give+O+O、the time (that) they need で関代省略）
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-66-s1"
+    node_id: "nta-008"
+  - sentence_id: "ny-66-s2"
+    node_id: "nta-008"

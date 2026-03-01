@@ -1,0 +1,29 @@
+sentences:
+  - id: "ny-65-s1"
+    section_id: "Ny_65"
+    drill: 65
+    number: 1
+    role: "exercise"
+    english: "... Watson, IBM's artificial intelligence program, helped doctors rapidly discover a rare type of cancer that conventional tests had failed to detect ― possibly the first case in Japan that an AI-powered program contributed to saving a patient's life."
+    japanese: "IBM社の人工知能プログラムであるワトソンは，従来の検査では見落とされていたまれな種類のがんを，医者がすぐに発見するのに役立った。これは，おそらく，人工知能を搭載したプログラムが患者の命を救うのに貢献した，日本における最初の事例であろう。"
+    notes: "出典: 鳥取大学"
+
+sentence_structures:
+  - sentence_id: "ny-65-s1"
+    label: "overall"
+    value: "S(同格名詞句) V O — 文と名詞句の同格"
+
+  - sentence_id: "ny-65-s1"
+    label: "details"
+    value: "{S}Watson, (IBM's artificial intelligence program)(M:コンマ同格) {V}helped(使役) {O}doctors {C}(rapidly discover(原形不定詞) {O}a rare type of cancer [that(関代:目的格) conventional tests(S) had failed to detect(V)](関代節))(C) — possibly the first case (in Japan)(M:形容詞句) [that(関副) an AI-powered program(S) contributed to(V) saving(前置詞+動名詞) a patient's life(O)](関副節)(M:文と名詞の同格)"
+
+  - sentence_id: "ny-65-s1"
+    label: "partial_translations"
+    value: |
+      ❶ ワトソンというIBM社の人工知能プログラム（コンマによる名詞の同格、接続詞なしで名詞を並べる）
+      ❺ 従来の検査では見落とされていたまれな種類のがん（that=目的格の関代、detectの目的語がない）
+      ❻ 人工知能を搭載したプログラムが患者の命を救うのに貢献した日本初の事例（文と名詞の同格、and this isを補って解釈）
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-65-s1"
+    node_id: "nta-007"
