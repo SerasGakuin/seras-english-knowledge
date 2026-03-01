@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-160-p01"
+    section_id: "Scr_160"
+    drill: 1
+    number: 629
+    role: "exam"
+    english: "My brother is not a full-time teacher; he is paid by the hour."
+    japanese: "私の兄［弟］はフルタイムの教師ではない。彼は時間単位で給料を支払われている。"
+    notes: "出典: 日本大。〈基本〉4択問題。by the hour「時間単位で/時間ぎめで」。「by the + 単位を表す名詞」と必ずtheを用いる。"
+  - id: "scr-160-e01"
+    section_id: "Scr_160"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "They are paid by the day."
+    japanese: "彼らは日給制だ。"
+    notes: "問629解説例文。by the day [week / month]「日給[週給/月給]制で」。"
+  - id: "scr-160-e02"
+    section_id: "Scr_160"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "Meat is sold by the pound."
+    japanese: "肉はポンド単位で売られる。"
+    notes: "問629解説例文。by the pound「ポンド単位で」。"
+
+sentence_structures:
+  - sentence_id: "scr-160-p01"
+    label: "overall"
+    value: "S V C; S V M"
+  - sentence_id: "scr-160-p01"
+    label: "details"
+    value: "<My brother>(S) is not(V) <a full-time teacher>(C); <he>(S) is paid(V:受動態) [by the hour](M:単位)"
+  - sentence_id: "scr-160-e01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-160-e01"
+    label: "details"
+    value: "<They>(S) are paid(V:受動態) [by the day](M:単位)"
+  - sentence_id: "scr-160-e02"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-160-e02"
+    label: "details"
+    value: "<Meat>(S) is sold(V:受動態) [by the pound](M:単位)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-160-p01"
+    node_id: "sgh-025"
+  - sentence_id: "scr-160-e01"
+    node_id: "sgh-025"
+  - sentence_id: "scr-160-e02"
+    node_id: "sgh-025"

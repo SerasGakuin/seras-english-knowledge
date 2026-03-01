@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-153-p01"
+    section_id: "Scr_153"
+    drill: 1
+    number: 606
+    role: "exam"
+    english: "Last Saturday the department store was crowded with customers."
+    japanese: "先週の土曜日、デパートは買い物客でいっぱいだった。"
+    notes: "出典: 九州産業大。〈頻出〉4択問題。customer「（店などの）顧客」。be crowded with ~「~で満員である/混雑している」。guest「招待客/ホテルの宿泊客」との違いに注意。"
+  - id: "scr-153-p02"
+    section_id: "Scr_153"
+    drill: 1
+    number: 607
+    role: "exam"
+    english: "The hospital was filled with patients waiting for the doctor."
+    japanese: "その病院は医者の診察を待っている患者でいっぱいだった。"
+    notes: "出典: 芝浦工大。4択問題。patient「患者/（医者にかかっている）病人」。"
+  - id: "scr-153-p03"
+    section_id: "Scr_153"
+    drill: 1
+    number: 608
+    role: "exam"
+    english: "The people who watch a sporting event without taking part are called spectators."
+    japanese: "スポーツ競技を観戦するが参加しない人のことを観客という。"
+    notes: "出典: センター。4択問題。spectator「（スポーツなどの）観客」。"
+  - id: "scr-153-p04"
+    section_id: "Scr_153"
+    drill: 1
+    number: 609
+    role: "exam"
+    english: "The lawyer's task is to create a bridge of understanding between his client and the jury."
+    japanese: "弁護士の仕事は依頼者と陪審の間に理解の架け橋を築くことだ。"
+    notes: "出典: 専修大。4択問題。client「（弁護士などへの）依頼人」。consultant「顧問」は不可。"
+
+sentence_structures:
+  - sentence_id: "scr-153-p01"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-153-p01"
+    label: "details"
+    value: "[Last Saturday](M:時) <the department store>(S) was crowded(V) [with customers](M:前置詞句)"
+  - sentence_id: "scr-153-p02"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-153-p02"
+    label: "details"
+    value: "<The hospital>(S) was filled(V) [with patients waiting for the doctor](M:前置詞句+分詞)"
+  - sentence_id: "scr-153-p03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-153-p03"
+    label: "details"
+    value: "<The people who watch a sporting event without taking part>(S:関係詞節付き) are called(V) <spectators>(C)"
+  - sentence_id: "scr-153-p04"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-153-p04"
+    label: "details"
+    value: "<The lawyer's task>(S) is(V) <to create a bridge of understanding between his client and the jury>(C:to不定詞句)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-153-p01"
+    node_id: "sgh-021"
+  - sentence_id: "scr-153-p02"
+    node_id: "sgh-021"
+  - sentence_id: "scr-153-p03"
+    node_id: "sgh-021"
+  - sentence_id: "scr-153-p04"
+    node_id: "sgh-021"

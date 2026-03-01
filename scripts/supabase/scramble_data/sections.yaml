@@ -767,6 +767,62 @@ sections:
     title: "go with／match／suit／fitの使い分け"
     pages: ""
     type: "usage"
+  # Part 2 > Ch16 名詞・冠詞の語法（B12）
+  - id: "Scr_151"
+    book: "スクランブル英文法・語法"
+    title: "不可算名詞の用法"
+    pages: ""
+    type: "usage"
+  - id: "Scr_152"
+    book: "スクランブル英文法・語法"
+    title: "複数形に注意すべき名詞"
+    pages: ""
+    type: "usage"
+  - id: "Scr_153"
+    book: "スクランブル英文法・語法"
+    title: "「客」を表す名詞"
+    pages: ""
+    type: "usage"
+  - id: "Scr_154"
+    book: "スクランブル英文法・語法"
+    title: "「料金・お金」を表す名詞"
+    pages: ""
+    type: "usage"
+  - id: "Scr_155"
+    book: "スクランブル英文法・語法"
+    title: "「仕事・職業」を表す名詞"
+    pages: ""
+    type: "usage"
+  - id: "Scr_156"
+    book: "スクランブル英文法・語法"
+    title: "「予約・約束」を表す名詞"
+    pages: ""
+    type: "usage"
+  - id: "Scr_157"
+    book: "スクランブル英文法・語法"
+    title: "catch A by the armの表現"
+    pages: ""
+    type: "usage"
+  - id: "Scr_158"
+    book: "スクランブル英文法・語法"
+    title: "注意すべき冠詞の位置"
+    pages: ""
+    type: "usage"
+  - id: "Scr_159"
+    book: "スクランブル英文法・語法"
+    title: "a friend of mineなどの形"
+    pages: ""
+    type: "usage"
+  - id: "Scr_160"
+    book: "スクランブル英文法・語法"
+    title: "by the＋単位名詞「～単位で」"
+    pages: ""
+    type: "usage"
+  - id: "Scr_161"
+    book: "スクランブル英文法・語法"
+    title: "by＋交通・通信の手段を表す名詞"
+    pages: ""
+    type: "usage"
 
 section_knowledge_nodes:
   - section_id: "Scr_001"
@@ -1068,6 +1124,40 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_150"
     node_id: "sgh-018"
+    seq: 1
+  # Ch16 名詞・冠詞の語法（B12）
+  - section_id: "Scr_151"
+    node_id: "sgh-019"
+    seq: 1
+  - section_id: "Scr_152"
+    node_id: "sgh-020"
+    seq: 1
+  - section_id: "Scr_153"
+    node_id: "sgh-021"
+    seq: 1
+  - section_id: "Scr_154"
+    node_id: "sgh-021"
+    seq: 1
+  - section_id: "Scr_155"
+    node_id: "sgh-022"
+    seq: 1
+  - section_id: "Scr_156"
+    node_id: "sgh-022"
+    seq: 1
+  - section_id: "Scr_157"
+    node_id: "sgh-023"
+    seq: 1
+  - section_id: "Scr_158"
+    node_id: "sgh-024"
+    seq: 1
+  - section_id: "Scr_159"
+    node_id: "sgh-024"
+    seq: 1
+  - section_id: "Scr_160"
+    node_id: "sgh-025"
+    seq: 1
+  - section_id: "Scr_161"
+    node_id: "sgh-025"
     seq: 1
   # Ch13 接続詞
   - section_id: "Scr_102"

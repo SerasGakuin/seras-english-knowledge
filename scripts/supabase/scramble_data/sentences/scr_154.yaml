@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-154-p01"
+    section_id: "Scr_154"
+    drill: 1
+    number: 610
+    role: "exam"
+    english: "Let's walk and save the bus fare."
+    japanese: "歩いてバス代を節約しよう。"
+    notes: "出典: 群馬大。4択問題。fare「乗り物の運賃」。鉄道・バスなどの運賃を表す。"
+  - id: "scr-154-p02"
+    section_id: "Scr_154"
+    drill: 1
+    number: 611
+    role: "exam"
+    english: "Well, it has to be the cost of living. Everything is so expensive."
+    japanese: "そうだなあ、たぶん生活費だね。何もかもがすごく高いんだ。"
+    notes: "出典: 学習院大。4択問題。対話問題（A: What's the most difficult thing about living in your city?）。cost「（何かにかかる）費用/経費」。the cost of living「生活費」。have to be ~「~であるにちがいない」。"
+  - id: "scr-154-p03"
+    section_id: "Scr_154"
+    drill: 1
+    number: 612
+    role: "exam"
+    english: "Slow down a bit. Otherwise, you'll have to pay a huge fine for speeding."
+    japanese: "少しスピードを落としなさい。さもないと、スピード違反で莫大な罰金を支払うことになるよ。"
+    notes: "出典: 立教大。4択問題。fine「罰金」(= penalty)。命令文+otherwise「~しなさい、さもないと」（⇨ 394）。"
+  - id: "scr-154-p04"
+    section_id: "Scr_154"
+    drill: 1
+    number: 613
+    role: "exam"
+    english: "The landlord told him to leave because he hadn't paid his rent."
+    japanese: "家主は彼が家賃を払っていなかったので彼に出ていくように言った。"
+    notes: "出典: 慶應大。4択問題。rent「家賃/賃貸料」。due「会費」は不可。"
+
+sentence_structures:
+  - sentence_id: "scr-154-p01"
+    label: "overall"
+    value: "V and V O"
+  - sentence_id: "scr-154-p01"
+    label: "details"
+    value: "Let's walk(V1) and save(V2) <the bus fare>(O)"
+  - sentence_id: "scr-154-p02"
+    label: "overall"
+    value: "S V C. S V C"
+  - sentence_id: "scr-154-p02"
+    label: "details"
+    value: "Well, <it>(S) has to be(V) <the cost of living>(C). <Everything>(S) is(V) <so expensive>(C)"
+  - sentence_id: "scr-154-p03"
+    label: "overall"
+    value: "V O. M, S V O M"
+  - sentence_id: "scr-154-p03"
+    label: "details"
+    value: "Slow down(V) <a bit>(M). [Otherwise](M:接続副詞), <you>(S) 'll have to pay(V) <a huge fine>(O) [for speeding](M:理由)"
+  - sentence_id: "scr-154-p04"
+    label: "overall"
+    value: "S V O to do M"
+  - sentence_id: "scr-154-p04"
+    label: "details"
+    value: "<The landlord>(S) told(V) <him>(O) <to leave>(to do) [because he hadn't paid his rent](M:理由の副詞節)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-154-p01"
+    node_id: "sgh-021"
+  - sentence_id: "scr-154-p02"
+    node_id: "sgh-021"
+  - sentence_id: "scr-154-p03"
+    node_id: "sgh-021"
+  - sentence_id: "scr-154-p04"
+    node_id: "sgh-021"

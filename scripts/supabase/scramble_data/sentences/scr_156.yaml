@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-156-p01"
+    section_id: "Scr_156"
+    drill: 1
+    number: 618
+    role: "exam"
+    english: "Give me your promise that you'll never do that again."
+    japanese: "二度とそんなことはしないと約束してください。"
+    notes: "出典: 早大。共通語句問題（A/B両文の空所に入る共通の1語を答える）。promise「（一般的な）約束」。Bの文（He is a bright young man and his works show great promise.「彼は頭のよい若者で、彼の作品を見ると将来有望なのがわかる」）ではpromise=「将来の見込み/有望」の意味。"
+  - id: "scr-156-p02"
+    section_id: "Scr_156"
+    drill: 1
+    number: 619
+    role: "exam"
+    english: "Did you call the dentist and make an appointment for the treatment?"
+    japanese: "歯医者さんに電話して、治療の予約をしましたか。"
+    notes: "出典: 芝浦工大。〈頻出〉4択問題。appointment「（診察などの）予約/（面会の）約束」。make an appointment「予約をする」。"
+  - id: "scr-156-p03"
+    section_id: "Scr_156"
+    drill: 1
+    number: 620
+    role: "exam"
+    english: "I'd like to make a reservation for the express train that leaves at 6 p.m."
+    japanese: "午後6時に出発する急行列車の予約をしたいのですが。"
+    notes: "出典: 近畿大。4択問題。reservation「（切符・部屋・座席などの）予約」。make a reservation「予約をする」。subscription「予約購読」は不可。"
+
+sentence_structures:
+  - sentence_id: "scr-156-p01"
+    label: "overall"
+    value: "V O1 O2"
+  - sentence_id: "scr-156-p01"
+    label: "details"
+    value: "Give(V) <me>(O1) <your promise that you'll never do that again>(O2:that節付き名詞句)"
+  - sentence_id: "scr-156-p02"
+    label: "overall"
+    value: "V O and V O M"
+  - sentence_id: "scr-156-p02"
+    label: "details"
+    value: "Did <you>(S) call(V1) <the dentist>(O1) and make(V2) <an appointment>(O2) [for the treatment](M:前置詞句)"
+  - sentence_id: "scr-156-p03"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-156-p03"
+    label: "details"
+    value: "<I>(S) 'd like to make(V) <a reservation>(O) [for the express train that leaves at 6 p.m.](M:前置詞句+関係詞節)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-156-p01"
+    node_id: "sgh-022"
+  - sentence_id: "scr-156-p02"
+    node_id: "sgh-022"
+  - sentence_id: "scr-156-p03"
+    node_id: "sgh-022"

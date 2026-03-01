@@ -1516,11 +1516,122 @@ sections:
     gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-018(単独)。問590-592=3exam。PU!128(3パターン使い分け)はnotes記録"
+  # Part 2 > Ch16 名詞・冠詞の語法（B12）
+  Scr_151:
+    title: "不可算名詞の用法"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-019(単独)。問593-598=6exam, PU!129例文1件(a piece of)=1example。PU!129(不可算名詞12語リスト)はnotes記録"
+  Scr_152:
+    title: "複数形に注意すべき名詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-020(単独)。問599-605=7exam, PU!131例文2件(means)=2example。PU!130(常に複数形慣用表現)/PU!131(意味で複数形名詞)はnotes記録"
+  Scr_153:
+    title: "「客」を表す名詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-021(Theme153+154統合)。問606-609=4exam。PU!132(客を表す名詞9語)はnotes記録"
+  Scr_154:
+    title: "「料金・お金」を表す名詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-021(Theme153+154統合)。問610-613=4exam(問611対話Bのみ)。PU!133(料金名詞18語)はnotes記録"
+  Scr_155:
+    title: "「仕事・職業」を表す名詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-022(Theme155+156統合)。問614-617=4exam。PU!134(仕事名詞10語)はnotes記録"
+  Scr_156:
+    title: "「予約・約束」を表す名詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-022(Theme155+156統合)。問618-620=3exam(問618共通語句→A文登録)。PU!135(予約名詞6語)はnotes記録"
+  Scr_157:
+    title: "catch A by the armの表現"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-023(単独)。問621-623=3exam。PU!136(by/on/in型3分類)はnotes記録"
+  Scr_158:
+    title: "注意すべき冠詞の位置"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-024(Theme158+159統合)。問624-626=3exam。PU!137(so/as/too/how+形容詞+a+名詞)はnotes記録"
+  Scr_159:
+    title: "a friend of mineなどの形"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-024(Theme158+159統合)。問627-628=2exam。PU!138(of+所有格/所有代名詞)はnotes記録"
+  Scr_160:
+    title: "by the＋単位名詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-025(Theme160+161統合)。問629=1exam, 解説例文2件(by the day/pound)=2example"
+  Scr_161:
+    title: "by＋交通・通信の手段を表す名詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-025(Theme160+161統合)。問630-632=3exam。PU!139(by+手段リスト)はnotes記録"
 
 summary:
-  total_sections: 150
-  completed: 150
+  total_sections: 161
+  completed: 161
   in_progress: 0
   not_started: 0
-  total_knowledge_nodes: 108
-  total_sentences: 761
+  total_knowledge_nodes: 115
+  total_sentences: 806

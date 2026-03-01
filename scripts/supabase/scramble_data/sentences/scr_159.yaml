@@ -1,0 +1,37 @@
+sentences:
+  - id: "scr-159-p01"
+    section_id: "Scr_159"
+    drill: 1
+    number: 627
+    role: "exam"
+    english: "I didn't bring anything to write with; can I borrow that pen of yours?"
+    japanese: "書くものを何も持ってきませんでした。あなたのそのペンを借りてもいいですか。"
+    notes: "出典: 東海大。4択問題。that pen of yours「あなたのそのペン」。thatと所有格は並べて使えないため、of yoursの形を使う。×that your pen。"
+  - id: "scr-159-p02"
+    section_id: "Scr_159"
+    drill: 1
+    number: 628
+    role: "exam"
+    english: "John, a friend of mine, asked me if I could jump over the fence."
+    japanese: "友達のジョンは、僕がその塀を飛び越えることができるかどうきいた。"
+    notes: "出典: 名古屋学院大。整序問題。a friend of mine「私の友人の1人」。aと所有格myは並べて使えないため、a friend of mineの形を使う。×a my friend。"
+
+sentence_structures:
+  - sentence_id: "scr-159-p01"
+    label: "overall"
+    value: "S V O; S V O"
+  - sentence_id: "scr-159-p01"
+    label: "details"
+    value: "<I>(S) didn't bring(V) <anything to write with>(O); can <I>(S) borrow(V) <that pen of yours>(O)"
+  - sentence_id: "scr-159-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-159-p02"
+    label: "details"
+    value: "<John, a friend of mine>(S:同格付き), asked(V) <me>(O1) <if I could jump over the fence>(O2:if節)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-159-p01"
+    node_id: "sgh-024"
+  - sentence_id: "scr-159-p02"
+    node_id: "sgh-024"

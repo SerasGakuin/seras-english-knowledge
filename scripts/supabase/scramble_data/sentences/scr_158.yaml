@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-158-p01"
+    section_id: "Scr_158"
+    drill: 1
+    number: 624
+    role: "exam"
+    english: "I've never seen so funny a movie."
+    japanese: "私はこんなに面白い映画を見たことがない。"
+    notes: "出典: 獨協医大。〈頻出〉4択問題。so+形容詞+a [an]+名詞の語順。日常的にはsuch a funny movieとするほうがふつう。〈発展〉複数名詞の場合は×so funny movies、°such funny movies。"
+  - id: "scr-158-p02"
+    section_id: "Scr_158"
+    drill: 1
+    number: 625
+    role: "exam"
+    english: "Tom is too honest a boy to tell a lie."
+    japanese: "トムはとても正直な少年だからうそなどつけない。"
+    notes: "出典: 関西外語大。〈頻出〉記述問題。too+形容詞+a [an]+名詞の語順。soと同じ語順パターン。"
+  - id: "scr-158-p03"
+    section_id: "Scr_158"
+    drill: 1
+    number: 626
+    role: "exam"
+    english: "I have never seen such a beautiful starry sky."
+    japanese: "私はこんなに美しい星空を見たことがない。"
+    notes: "出典: 高知大。〈頻出〉4択問題。such+a [an](+形容詞)+名詞の語順。suchは冠詞a [an]の前に置かれる。= so beautiful a starry sky。"
+
+sentence_structures:
+  - sentence_id: "scr-158-p01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-158-p01"
+    label: "details"
+    value: "<I>(S) 've never seen(V) <so funny a movie>(O:so+形容詞+a+名詞)"
+  - sentence_id: "scr-158-p02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-158-p02"
+    label: "details"
+    value: "<Tom>(S) is(V) <too honest a boy to tell a lie>(C:too+形容詞+a+名詞+to do)"
+  - sentence_id: "scr-158-p03"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-158-p03"
+    label: "details"
+    value: "<I>(S) have never seen(V) <such a beautiful starry sky>(O:such+a+形容詞+名詞)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-158-p01"
+    node_id: "sgh-024"
+  - sentence_id: "scr-158-p02"
+    node_id: "sgh-024"
+  - sentence_id: "scr-158-p03"
+    node_id: "sgh-024"

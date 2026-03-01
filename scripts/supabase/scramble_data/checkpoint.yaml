@@ -2,24 +2,36 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T16:00:00"
+updated_at: "2026-03-01T18:00:00"
 book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 2 — B11完了、Ch15完了、B12着手前"
+  phase: "Phase 2 — B12進行中、Ch16完了、Ch17着手前"
   current_section: null
   current_step: null
-  last_completed_section: "Scr_150"
+  last_completed_section: "Scr_161"
   last_completed_gate: 5
 
 progress:
   total_sections: 271
-  completed: 150
+  completed: 161
   in_progress: 0
-  remaining: 121
-  total_nodes: 108
-  total_sentences: 761
+  remaining: 110
+  total_nodes: 115
+  total_sentences: 806
+
+b12_results:
+  ch16_sections: ["Scr_151", "Scr_152", "Scr_153", "Scr_154", "Scr_155", "Scr_156", "Scr_157", "Scr_158", "Scr_159", "Scr_160", "Scr_161"]
+  ch16_nodes: ["sgh-019", "sgh-020", "sgh-021", "sgh-022", "sgh-023", "sgh-024", "sgh-025"]
+  ch16_sentences: 45
+  ch16_merges:
+    - "Theme 153+154 → sgh-021（「客」「料金・お金」を表す名詞の使い分け）"
+    - "Theme 155+156 → sgh-022（「仕事・職業」「予約・約束」を表す名詞の使い分け）"
+    - "Theme 158+159 → sgh-024（注意すべき冠詞の位置とa friend of mineの形）"
+    - "Theme 160+161 → sgh-025（by the+単位名詞とby+交通・通信手段）"
+  metrics:
+    ch16_node_section_ratio: 0.636
 
 b11_results:
   ch15_back_sections: ["Scr_139", "Scr_140", "Scr_141", "Scr_142", "Scr_143", "Scr_144", "Scr_145", "Scr_146", "Scr_147", "Scr_148", "Scr_149", "Scr_150"]
@@ -42,142 +54,6 @@ b10_results:
   metrics:
     ch15_front_node_section_ratio: 0.538
 
-b09_results:
-  ch14_sections: ["Scr_118", "Scr_119", "Scr_120", "Scr_121", "Scr_122", "Scr_123", "Scr_124"]
-  ch14_nodes: ["shs-037", "shs-038", "shs-039", "shs-040"]
-  ch14_sentences: 36
-  ch14_merges:
-    - "Theme 118+119 → shs-037（強調構文と語句による強調）"
-    - "Theme 120+121 → shs-038（倒置の用法）"
-    - "Theme 123+124 → shs-040（省略の用法）"
-  metrics:
-    ch14_node_section_ratio: 0.571
-
-b08_results:
-  ch13_sections: ["Scr_102", "Scr_103", "Scr_104", "Scr_105", "Scr_106", "Scr_107", "Scr_108", "Scr_109", "Scr_110", "Scr_111", "Scr_112", "Scr_113", "Scr_114", "Scr_115", "Scr_116", "Scr_117"]
-  ch13_nodes: ["shs-027", "shs-028", "shs-029", "shs-030", "shs-031", "shs-032", "shs-033", "shs-034", "shs-035", "shs-036"]
-  ch13_sentences: 76
-  ch13_merges:
-    - "Theme 102+103 → shs-027（等位接続詞の基本と命令文+and/or）"
-    - "Theme 105+106 → shs-029（名詞節を導くthatとwhether/if）"
-    - "Theme 107+108 → shs-030（接続詞asとwhileの用法）"
-    - "Theme 109+110+111 → shs-031（時を表す接続詞と重要表現）"
-    - "Theme 115+116 → shs-035（目的・程度・結果を表す接続詞）"
-  metrics:
-    ch13_node_section_ratio: 0.625
-
-b07_results:
-  ch12_sections: ["Scr_091", "Scr_092", "Scr_093", "Scr_094", "Scr_095", "Scr_096", "Scr_097", "Scr_098", "Scr_099", "Scr_100", "Scr_101"]
-  ch12_nodes: ["shs-020", "shs-021", "shs-022", "shs-023", "shs-024", "shs-025", "shs-026"]
-  ch12_sentences: 58
-  ch12_merges:
-    - "Theme 93+94 → shs-022（関係代名詞whatの用法と慣用表現）"
-    - "Theme 95+96 → shs-023（関係副詞の用法）"
-    - "Theme 97+98 → shs-024（非制限用法の関係詞）"
-    - "Theme 100+101 → shs-026（複合関係詞の用法）"
-  metrics:
-    ch12_node_section_ratio: 0.64
-
-b06_results:
-  ch10_sections: ["Scr_072", "Scr_073", "Scr_074", "Scr_075", "Scr_076", "Scr_077"]
-  ch10_nodes: ["shs-005", "shs-006", "shs-007", "shs-008", "shs-009"]
-  ch10_sentences: 37
-  ch10_merges:
-    - "Theme 76+77 → shs-009（二重否定と否定語を用いない否定表現）"
-  ch11_sections: ["Scr_078", "Scr_079", "Scr_080", "Scr_081", "Scr_082", "Scr_083", "Scr_084", "Scr_085", "Scr_086", "Scr_087", "Scr_088", "Scr_089", "Scr_090"]
-  ch11_nodes: ["shs-010", "shs-011", "shs-012", "shs-013", "shs-014", "shs-015", "shs-016", "shs-017", "shs-018", "shs-019"]
-  ch11_sentences: 65
-  ch11_merges:
-    - "Theme 78+79+80 → shs-010（形式主語のit）"
-    - "Theme 89+90 → shs-019（再帰代名詞の用法と慣用表現）"
-  metrics:
-    ch10_node_section_ratio: 0.83
-    ch11_node_section_ratio: 0.77
-
-b05_results:
-  ch08_back_sections: ["Scr_060", "Scr_061", "Scr_062", "Scr_063", "Scr_064", "Scr_065"]
-  ch08_back_nodes: ["skh-012", "skh-013", "skh-014", "skh-015"]
-  ch08_back_sentences: 39
-  ch08_back_merges:
-    - "Theme 60+61 → skh-012（比較級を用いた重要表現とtheがつく表現）"
-    - "Theme 64+65 → skh-015（最上級を用いた表現と最上級書き換え）"
-  ch09_sections: ["Scr_066", "Scr_067", "Scr_068", "Scr_069", "Scr_070", "Scr_071"]
-  ch09_nodes: ["shs-001", "shs-002", "shs-003", "shs-004"]
-  ch09_sentences: 26
-  ch09_merges:
-    - "Theme 66+67 → shs-001（疑問代名詞・疑問副詞の区別とHow much型）"
-    - "Theme 70+71 → shs-004（Yes/No使い分けと疑問詞慣用表現）"
-  metrics:
-    ch08_back_node_section_ratio: 0.67
-    ch09_node_section_ratio: 0.67
-
-b04_results:
-  ch07_sections: ["Scr_047", "Scr_048", "Scr_049", "Scr_050", "Scr_051", "Scr_052", "Scr_053"]
-  ch07_nodes: ["skh-002", "skh-003", "skh-004", "skh-005", "skh-006", "skh-007"]
-  ch07_sentences: 33
-  ch07_merges:
-    - "Theme 52+53 → skh-007（ifを省略した仮定法とif節の代用）"
-  ch08_half_sections: ["Scr_054", "Scr_055", "Scr_056", "Scr_057", "Scr_058", "Scr_059"]
-  ch08_half_nodes: ["skh-008", "skh-009", "skh-010", "skh-011"]
-  ch08_half_sentences: 33
-  ch08_half_merges:
-    - "Theme 54+55 → skh-008（原級比較の基本と倍数表現）"
-    - "Theme 57+58 → skh-010（強調のas~asと最上級に近い原級表現）"
-  metrics:
-    ch07_node_section_ratio: 0.875
-    ch08_half_node_section_ratio: 0.67
-
-b03_results:
-  ch05_sections: ["Scr_032", "Scr_033", "Scr_034", "Scr_035", "Scr_036"]
-  ch05_nodes: ["sjd-008", "sjd-009", "sjd-010"]
-  ch05_sentences: 26
-  ch05_merges:
-    - "Theme 32+33 → sjd-008（動名詞の基本用法と動詞的性質）"
-    - "Theme 34+35 → sjd-009（前置詞to/inの後の動名詞慣用表現）"
-  ch06_sections: ["Scr_037", "Scr_038", "Scr_039", "Scr_040", "Scr_041", "Scr_042", "Scr_043", "Scr_044", "Scr_045"]
-  ch06_nodes: ["sjd-011", "sjd-012", "sjd-013", "sjd-014", "sjd-015"]
-  ch06_sentences: 32
-  ch06_merges:
-    - "Theme 37+38+39 → sjd-011（分詞の限定用法・叙述用法・There be構文）"
-    - "Theme 40+41+42 → sjd-012（分詞構文の基本用法・完了形・否定形・受動態）"
-  metrics:
-    ch05_node_section_ratio: 0.60
-    ch06_node_section_ratio: 0.56
-
-b02_results:
-  ch03_sections: ["Scr_017", "Scr_018", "Scr_019", "Scr_020", "Scr_021", "Scr_022", "Scr_023", "Scr_024"]
-  ch03_nodes: ["sdv-014", "sdv-015", "sdv-016", "sdv-017", "sdv-018", "sdv-019", "sdv-020"]
-  ch03_sentences: 49
-  ch03_merges:
-    - "Theme 21+22 → sdv-018（助動詞+have done 推量・非難・後悔）"
-  ch04_sections: ["Scr_025", "Scr_026", "Scr_027", "Scr_028", "Scr_029", "Scr_030", "Scr_031"]
-  ch04_nodes: ["sjd-001", "sjd-002", "sjd-003", "sjd-004", "sjd-005", "sjd-006", "sjd-007"]
-  ch04_sentences: 34
-  ch04_merges: []
-  metrics:
-    ch03_node_section_ratio: 0.875
-    ch04_node_section_ratio: 1.0
-
-b01_results:
-  ch01_sections: ["Scr_002", "Scr_003", "Scr_004", "Scr_005", "Scr_006", "Scr_007"]
-  ch01_nodes: ["sdv-002", "sdv-003", "sdv-004", "sdv-005"]
-  ch01_sentences: 35
-  ch02_sections: ["Scr_008", "Scr_009", "Scr_010", "Scr_011", "Scr_012", "Scr_013", "Scr_014", "Scr_015", "Scr_016"]
-  ch02_nodes: ["sdv-006", "sdv-007", "sdv-008", "sdv-009", "sdv-010", "sdv-011", "sdv-012", "sdv-013"]
-  ch02_sentences: 30
-
-pilot_results:
-  sections_completed:
-    - section: "Scr_001"
-      nodes: ["sdv-001"]
-      sentences: 10
-    - section: "Scr_046"
-      nodes: ["skh-001"]
-      sentences: 4
-    - section: "Scr_125"
-      nodes: ["sgh-001"]
-      sentences: 7
-
 recent_decisions:
   - "decision #1: PU!1の12時制表はsentences登録しない（スケルトン）"
   - "decision #2: PU!2中の例文はsentences登録する（完全文＋和訳）"
@@ -190,9 +66,9 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
-  - "B12: Ch16 名詞・冠詞(Scr_151-161) + Ch17 形容詞(Scr_162-168) → ノードID sgh-019〜"
-  - "原本: Part2_Ch16_名詞・冠詞の語法.md + Part2_Ch17_形容詞の語法.md を読む"
-  - "章区切り → ワークフロー.md + 設計書.md 再読込済み"
+  - "B12続行: Ch17 形容詞(Scr_162-168) → ノードID sgh-026〜"
+  - "原本: Part2_Ch17_形容詞の語法.md を読む"
+  - "9セクション超過 → ワークフロー.md 再読込が必要"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

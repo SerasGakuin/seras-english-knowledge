@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-157-p01"
+    section_id: "Scr_157"
+    drill: 1
+    number: 621
+    role: "exam"
+    english: "I was so surprised because he suddenly caught me by the arm."
+    japanese: "彼が突然私の腕をつかんだので、とても驚きました。"
+    notes: "出典: 県立広島大。3択問題。catch A by the arm「Aの腕をつかむ」。前置詞byをとるタイプ（つかむ系: catch/take/hold/grasp）。"
+  - id: "scr-157-p02"
+    section_id: "Scr_157"
+    drill: 1
+    number: 622
+    role: "exam"
+    english: "My father patted me on the shoulder to encourage me."
+    japanese: "父は私を励ますため、私の肩を優しくたたいた。"
+    notes: "出典: 青山学院大。4択問題。pat A on the shoulder「Aの肩を優しく[軽く]たたく/なでる」。前置詞onをとるタイプ（たたく系: strike/hit/pat/tap）。"
+  - id: "scr-157-p03"
+    section_id: "Scr_157"
+    drill: 1
+    number: 623
+    role: "exam"
+    english: "My father looked me in the eye as he told me the important news."
+    japanese: "父は私の目をじっと見て、大事な知らせを伝えた。"
+    notes: "出典: 麗澤大。4択問題。look A in the eye(s)「Aの目をじっと見る」。前置詞inをとるタイプ（見る系: look/stare）。この用法のlookは他動詞。×look at A in the eye(s)としない。"
+
+sentence_structures:
+  - sentence_id: "scr-157-p01"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-157-p01"
+    label: "details"
+    value: "<I>(S) was(V) <so surprised>(C) [because he suddenly caught me by the arm](M:理由の副詞節)"
+  - sentence_id: "scr-157-p02"
+    label: "overall"
+    value: "S V O M M"
+  - sentence_id: "scr-157-p02"
+    label: "details"
+    value: "<My father>(S) patted(V) <me>(O) [on the shoulder](M:身体部位) [to encourage me](M:目的のto不定詞)"
+  - sentence_id: "scr-157-p03"
+    label: "overall"
+    value: "S V O M M"
+  - sentence_id: "scr-157-p03"
+    label: "details"
+    value: "<My father>(S) looked(V) <me>(O) [in the eye](M:身体部位) [as he told me the important news](M:時の副詞節)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-157-p01"
+    node_id: "sgh-023"
+  - sentence_id: "scr-157-p02"
+    node_id: "sgh-023"
+  - sentence_id: "scr-157-p03"
+    node_id: "sgh-023"

@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-155-p01"
+    section_id: "Scr_155"
+    drill: 1
+    number: 614
+    role: "exam"
+    english: "Emily is unemployed, so she is looking for work."
+    japanese: "エミリーは失業しているので、仕事を探しているところです。"
+    notes: "出典: 西南学院大。4択問題。workは「仕事/職/勤め先」の意味では不可算名詞。×a work、×works（この意味では）。jobは可算名詞なのでa jobが必要（×job単独）。workは「作品/著作」の意味では可算名詞（a work of art「芸術作品」）。"
+  - id: "scr-155-p02"
+    section_id: "Scr_155"
+    drill: 1
+    number: 615
+    role: "exam"
+    english: "You've done a good job raising your kids."
+    japanese: "君は子育てをうまくやってきました。"
+    notes: "出典: 西南学院大。4択問題。do a good job「うまくやってのける」。jobは可算名詞。前にaがあるので不可算名詞workは不可。trade「職業」、occupation「do ~の形をとらない」は不可。"
+  - id: "scr-155-p03"
+    section_id: "Scr_155"
+    drill: 1
+    number: 616
+    role: "exam"
+    english: "Your assignment this semester is to write a research paper in English."
+    japanese: "今学期のあなたの課題は英語で研究レポートを書くことです。"
+    notes: "出典: 立命館大。4択問題。assignment「割り当てられた仕事/宿題(= homework)」。reason「理由」、attitude「態度」、wage「賃金」は不可。"
+  - id: "scr-155-p04"
+    section_id: "Scr_155"
+    drill: 1
+    number: 617
+    role: "exam"
+    english: "Mary told me about her occupation."
+    japanese: "メアリーは自分の職業について私に話した。"
+    notes: "出典: 東海大。下線部言い換え問題（occupation → profession「職業」）。occupation「職業」。"
+
+sentence_structures:
+  - sentence_id: "scr-155-p01"
+    label: "overall"
+    value: "S V C, so S V M"
+  - sentence_id: "scr-155-p01"
+    label: "details"
+    value: "<Emily>(S) is(V) <unemployed>(C), so <she>(S) is looking for(V) <work>(O)"
+  - sentence_id: "scr-155-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-155-p02"
+    label: "details"
+    value: "<You>(S) 've done(V) <a good job raising your kids>(O)"
+  - sentence_id: "scr-155-p03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-155-p03"
+    label: "details"
+    value: "<Your assignment this semester>(S) is(V) <to write a research paper in English>(C:to不定詞句)"
+  - sentence_id: "scr-155-p04"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-155-p04"
+    label: "details"
+    value: "<Mary>(S) told(V) <me>(O) [about her occupation](M:前置詞句)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-155-p01"
+    node_id: "sgh-022"
+  - sentence_id: "scr-155-p02"
+    node_id: "sgh-022"
+  - sentence_id: "scr-155-p03"
+    node_id: "sgh-022"
+  - sentence_id: "scr-155-p04"
+    node_id: "sgh-022"

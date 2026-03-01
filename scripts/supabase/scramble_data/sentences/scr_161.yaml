@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-161-p01"
+    section_id: "Scr_161"
+    drill: 1
+    number: 630
+    role: "exam"
+    english: "The company sent the goods by ship last week."
+    japanese: "その会社は先週、その商品を船で送った。"
+    notes: "出典: 日本大。〈基本〉4択問題。by ship「船で」。「by + 交通の手段を表す名詞」では名詞は無冠詞・単数形。goods「商品」（⇨ PU! 131）。"
+  - id: "scr-161-p02"
+    section_id: "Scr_161"
+    drill: 1
+    number: 631
+    role: "exam"
+    english: "Our professor commutes to the university in his car."
+    japanese: "教授は車で大学に通っている。"
+    notes: "出典: 獨協医大。〈基本〉4択問題。交通手段の名詞に冠詞や所有格がつくと前置詞はbyではなくin/onを用いる。小型の乗り物（車）はin。×by his car。on a car（onは大型の乗り物・またがる乗り物）。on my motorcycle「バイクで」。"
+  - id: "scr-161-p03"
+    section_id: "Scr_161"
+    drill: 1
+    number: 632
+    role: "exam"
+    english: "They'll contact you by phone."
+    japanese: "彼らはあなたに電話で連絡をくれるでしょう。"
+    notes: "出典: 日本大。〈基本〉4択問題。by phone「電話で」(= on [over] the phone)。「by + 通信の手段を表す名詞」では名詞は無冠詞・単数形。on [over] the phoneの場合は定冠詞theがつく。on the Internet [internet/net]「インターネットで」も重要。contact「~と連絡をとる」（⇨ 1096）。"
+
+sentence_structures:
+  - sentence_id: "scr-161-p01"
+    label: "overall"
+    value: "S V O M M"
+  - sentence_id: "scr-161-p01"
+    label: "details"
+    value: "<The company>(S) sent(V) <the goods>(O) [by ship](M:手段) [last week](M:時)"
+  - sentence_id: "scr-161-p02"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-161-p02"
+    label: "details"
+    value: "<Our professor>(S) commutes(V) [to the university](M:場所) [in his car](M:手段)"
+  - sentence_id: "scr-161-p03"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-161-p03"
+    label: "details"
+    value: "<They>(S) 'll contact(V) <you>(O) [by phone](M:手段)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-161-p01"
+    node_id: "sgh-025"
+  - sentence_id: "scr-161-p02"
+    node_id: "sgh-025"
+  - sentence_id: "scr-161-p03"
+    node_id: "sgh-025"
