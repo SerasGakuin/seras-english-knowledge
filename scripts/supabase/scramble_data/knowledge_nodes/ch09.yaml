@@ -1,0 +1,254 @@
+# Ch09 疑問（Theme 66-71）
+
+knowledge_nodes:
+  - id: "shs-001"
+    name: "疑問詞の種類と用法"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 66+67: 疑問代名詞と疑問副詞の区別（問題240-241）+ How much型の疑問文（問題242-244）
+      ■ 疑問代名詞: who / which / what:
+      代名詞の働き（文中で主語や目的語になる）＝ 後ろが不完全な文。
+      ■ 疑問副詞: when / where / why / how:
+      副詞の働き（文の主要素にならない）＝ 後ろが完全な文。
+      ■ how の用法「どのようにして」— 方法を問う:
+      答えが方法（by bus等）なら how を選ぶ。
+      ■ What do you think of 〜?「〜についてどう思いますか」:
+      = How do you feel about 〜?
+      注意: ×How do you think of 〜?（whatは他動詞thinkの目的語 → 疑問代名詞）
+      ■ PU!44 What と How の使い分け:
+      文中で主語や目的語になっていればWhat、そうでなければHow。
+      動詞との結びつき:
+      What + do you think of / mean / call 〜?
+      How + do you like / feel / spell / pronounce 〜?
+      ■ How often 〜?「何回 / どれほど頻繁に」— 頻度・回数:
+      回数はHow many times 〜?でも表す。
+      ■ How soon 〜?「あとどれくらいで」— 時間の経過:
+      事が起こるまでの時間を問う。出題多い。
+      ■ How much 〜?「どのくらい / いくら」— 量・金額:
+      How much does A weigh? = How heavy is A? = What is the weight of A?
+      ■ PU!45 How much型の疑問文まとめ:
+      How often（頻度）/ How soon（経過時間）/ How much（量・金額）
+      How many（数）/ How long（時間・物の長さ）/ How far（距離・程度）
+
+  - id: "shs-002"
+    name: "間接疑問と語順"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 68: 間接疑問と語順（問題245-249）
+      ■ 間接疑問の基本: 疑問文が他の文の一部に組み込まれ、名詞節として主語・目的語・補語になるもの。
+      語順: 疑問詞の後は平叙文と同じS + Vの語順。
+      例: I don't know + Who was it? → I don't know who it was.
+      ■ 疑問代名詞が主語の場合:
+      疑問文と同じ語順「疑問詞 + V」になる。
+      例: I wonder + What happened? → I wonder what happened.
+      ■ Do you know + 疑問詞（+ S）+ V?:
+      Yes/Noで答えられる疑問文の場合、動詞の後に間接疑問を置く。
+      質問の焦点は「知っているかどうか」。
+      ■ 疑問詞 + do you think（+ S）+ V?:
+      Yes/Noで答えられない疑問文の場合、間接疑問の疑問詞は文頭に置く。
+      質問の焦点は「疑問詞の内容」。
+      重要: この「疑問詞 + do you think [suppose / believe]」が間接疑問で最も出題数が多い。
+      例: How long do you think this bridge is?（×Do you think how long 〜）
+      ■ PU!46 Do you know + 疑問詞 vs 疑問詞 + do you think:
+      (1) Do you know where he is now? — No, I don't.（知っているか？に焦点）
+      (2) Where do you think he is now? — In the classroom.（どこに？に焦点）
+      疑問文では最も尋ねたい点を先頭に置くルール。
+      参照: when + 現在完了形は不可（⇨ PU!5, Theme 5）
+
+  - id: "shs-003"
+    name: "付加疑問"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 69: 付加疑問（問題250-253）
+      ■ 付加疑問: 平叙文の後に簡単な疑問文を付け加え「〜ですね/〜よね」と同意を求める・念を押す表現。
+      付加疑問のSは必ず代名詞に変える。
+      ■ 肯定文 + 否定の付加疑問:
+      例: The game starts at five, doesn't it?
+      be動詞の場合: Our task is ..., isn't it?
+      ■ 否定文 + 肯定の付加疑問:
+      例: Bill hasn't ever played the drums, has he?
+      ■ 命令文 + will [won't] you?:
+      「依頼/勧誘」の気持ちを表す。won't you?のほうが気持ちが強い。
+      発展: 否定命令文の付加疑問は will you? のみ。won't you?は不可。
+      例: Don't open the window, will you?
+      ■ Let's 〜 + shall we?:
+      Let's 〜「〜しよう」の付加疑問はshall we?
+      ■ PU!47 否定語がnot以外の付加疑問:
+      発展: no / never / hardly / seldom / few などを用いる否定文の場合も、付加疑問は肯定形。
+      例: There is no gasoline left, is there?
+      She seldom answers her phone, does she?
+
+  - id: "shs-004"
+    name: "Yes/Noの使い分けと疑問文の慣用表現"
+    category: "品詞・構文"
+    priority: "P2"
+    notes: |
+      Theme 70+71: Yes/Noの使い分け（問題254-255）+ 疑問詞のある疑問文の慣用表現（問題256-263）
+      ■ 否定疑問文・付加疑問への Yes/No の使い分け:
+      英語では質問の形式にかかわりなく、答えの内容が肯定ならYes、否定ならNo。
+      日本語の「はい」「いいえ」にとらわれない。
+      Don't you know her? — Yes, I do.（いいえ、知っています）/ No, I don't.（はい、知りません）
+      原則: Yesには肯定文を、Noには否定文を続ける。×Yes, I didn't. / ×No, I went.
+      ■ How come + S + V?「なぜ〜するのですか」(= Why 〜?):
+      How does [did] it come (about) that 〜?の省略形。Why 〜?より口語的。
+      注意: 後ろが平叙文の語順のまま（Whyのように倒置しない）。
+      ■ What is A like?「Aはどのようなものか」(= How is A?):
+      likeは前置詞「〜のような」。whatがlikeの目的語。
+      間接疑問: She doesn't know what it is like to live in the countryside.
+      ■ What is A all about?「Aはいったい何（について）ですか」:
+      allは不確かさの強調。省略可。
+      ■ What 〜 for?「何のために〜 / なぜ〜」(= Why 〜?):
+      whatは前置詞forの目的語で「何のために」。
+      ■ What has become of 〜?「〜はどうなったのか」(= What has happened to 〜?)
+      ■ Why don't you do?「〜してはどう（ですか）」— 提案:
+      「あなたはなぜ〜しないのか」→ 相手への提案。= Why not do?
+      ■ Why don't we do?「（一緒に）〜しましょうよ」— 勧誘:
+      提案者が自分も含めて言う場合。= Why not do?
+      注意: Why not do? は上記2つの両方の意味で使われる。
+      ■ How about A [doing]?「Aはどうですか / 〜するのはどうですか」— 提案・勧誘:
+      = What about A [doing]?（よりくだけた感じ）
+      = What do you say to A [doing]?（⇨ 問122）
+      = Let's 〜, shall we?
+      ■ PU!48 「提案・勧誘」を表す疑問文まとめ:
+      What do you say to / How [What] about / Why don't we / Why not / Let's ~, shall we?
+      Why don't you / Why not（相手への提案）
+
+understanding_goals:
+  # shs-001
+  - node_id: "shs-001"
+    seq: 1
+    goal: "疑問代名詞（who/which/what）と疑問副詞（when/where/why/how）を後ろの文の完全性で区別できる"
+  - node_id: "shs-001"
+    seq: 2
+    goal: "What do you think of と How do you like の使い分けを動詞との結びつきで説明できる"
+  - node_id: "shs-001"
+    seq: 3
+    goal: "How often / How soon / How much / How long / How far の意味を正確に区別できる"
+  # shs-002
+  - node_id: "shs-002"
+    seq: 1
+    goal: "間接疑問では疑問詞の後がS+Vの語順になることを説明できる"
+  - node_id: "shs-002"
+    seq: 2
+    goal: "疑問代名詞が主語の間接疑問では語順が変わらないことを説明できる"
+  - node_id: "shs-002"
+    seq: 3
+    goal: "Do you know + 疑問詞 と 疑問詞 + do you think の語順の違いと理由を説明できる"
+  # shs-003
+  - node_id: "shs-003"
+    seq: 1
+    goal: "肯定文→否定の付加疑問、否定文→肯定の付加疑問のルールを正確に適用できる"
+  - node_id: "shs-003"
+    seq: 2
+    goal: "命令文の付加疑問（will/won't you?）とLet'sの付加疑問（shall we?）を使い分けられる"
+  - node_id: "shs-003"
+    seq: 3
+    goal: "not以外の否定語（no/never/hardly/seldom/few）を含む文の付加疑問を正しく作れる"
+  # shs-004
+  - node_id: "shs-004"
+    seq: 1
+    goal: "否定疑問文・付加疑問への応答でYes/Noを正しく使い分けられる"
+  - node_id: "shs-004"
+    seq: 2
+    goal: "How come + S + V?（平叙文の語順）とWhy + 倒置の違いを説明できる"
+  - node_id: "shs-004"
+    seq: 3
+    goal: "What is A like? / What ~ for? / What has become of ~? の意味を正確に答えられる"
+  - node_id: "shs-004"
+    seq: 4
+    goal: "Why don't you do?（提案）と Why don't we do?（勧誘）を使い分けられる"
+
+check_points:
+  # shs-001
+  - node_id: "shs-001"
+    seq: 1
+    question: "疑問代名詞と疑問副詞を区別する方法は？ それぞれの代表的な語を挙げよ。"
+    answer: "後ろが不完全な文（主語や目的語が欠ける）→ 疑問代名詞（who/which/what）。後ろが完全な文 → 疑問副詞（when/where/why/how）。"
+  - node_id: "shs-001"
+    seq: 2
+    question: "What do you think of 〜? でなぜ How は使えないか？"
+    answer: "whatは他動詞thinkの目的語（疑問代名詞）。howは疑問副詞なので目的語にならない。同意表現は How do you feel about 〜?（feelは自動詞）。"
+  - node_id: "shs-001"
+    seq: 3
+    question: "How often / How soon / How long / How far の問う内容をそれぞれ答えよ。"
+    answer: "How often = 頻度・回数。How soon = 事が起こるまでの時間。How long = 時間・物の長さ。How far = 距離・程度。"
+  # shs-002
+  - node_id: "shs-002"
+    seq: 1
+    question: "I don't know who was it. は正しいか？"
+    answer: "不可。間接疑問ではS+Vの語順: I don't know who it was. ただし疑問代名詞が主語の場合は語順不変: I wonder what happened."
+  - node_id: "shs-002"
+    seq: 2
+    question: "「この橋の長さはどのくらいだと思いますか」を英訳せよ。"
+    answer: "How long do you think this bridge is? 疑問詞 + do you think + S + V の語順。×Do you think how long this bridge is?"
+  - node_id: "shs-002"
+    seq: 3
+    question: "Do you know where he is? と Where do you think he is? の違いは何か？"
+    answer: "前者は「知っているか？」に焦点（Yes/Noで答える）。後者は「どこか？」に焦点（場所で答える）。疑問文では最も尋ねたい点を先頭に置くルール。"
+  # shs-003
+  - node_id: "shs-003"
+    seq: 1
+    question: "The game starts at five, ___? の空欄を埋めよ。また、Bill hasn't played the drums, ___? の空欄も埋めよ。"
+    answer: "doesn't it?（肯定文→否定の付加疑問）。has he?（否定文→肯定の付加疑問）。Sは必ず代名詞に変える。"
+  - node_id: "shs-003"
+    seq: 2
+    question: "命令文とLet'sの付加疑問をそれぞれ答えよ。"
+    answer: "命令文 + will [won't] you?（否定命令文はwill you?のみ）。Let's 〜 + shall we?"
+  - node_id: "shs-003"
+    seq: 3
+    question: "She seldom answers her phone, ___? の空欄を埋めよ。なぜ肯定形か？"
+    answer: "does she?（肯定形）。seldomはnot以外の否定語なので文全体が否定文扱い → 付加疑問は肯定形。"
+  # shs-004
+  - node_id: "shs-004"
+    seq: 1
+    question: "Don't you know her? に対し「知っています」と答える場合、Yes, I do. か No, I do. か？"
+    answer: "Yes, I do.（答えが肯定→Yes）。日本語では「いいえ、知っています」だが、英語では肯定内容はYes。"
+  - node_id: "shs-004"
+    seq: 2
+    question: "How come you didn't attend? でなぜ疑問文の倒置がないのか？"
+    answer: "How come + S + Vは平叙文の語順のまま。How does it come about that 〜?の省略形。Why didn't you attend?とは語順が異なる。"
+  - node_id: "shs-004"
+    seq: 3
+    question: "What is A like? の like は何の品詞か？ この表現全体の意味は？"
+    answer: "前置詞（〜のような）。whatがlikeの目的語。「Aはどのようなものか」(= How is A?)。"
+  - node_id: "shs-004"
+    seq: 4
+    question: "「提案・勧誘」を表す疑問文を4つ挙げよ。"
+    answer: "Why don't you do?（提案）, Why don't we do?（勧誘）, How [What] about doing?, Let's ~, shall we? いずれもWhy not do?で代替可。"
+
+node_prerequisites:
+  - node_id: "shs-002"
+    prerequisite_id: "shs-001"
+  - node_id: "shs-003"
+    prerequisite_id: "shs-001"
+  - node_id: "shs-004"
+    prerequisite_id: "shs-001"
+
+knowledge_references:
+  - node_id: "shs-001"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_066"
+    pages: ""
+  - node_id: "shs-001"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_067"
+    pages: ""
+  - node_id: "shs-002"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_068"
+    pages: ""
+  - node_id: "shs-003"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_069"
+    pages: ""
+  - node_id: "shs-004"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_070"
+    pages: ""
+  - node_id: "shs-004"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_071"
+    pages: ""

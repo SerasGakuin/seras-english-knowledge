@@ -599,6 +599,128 @@ sections:
     gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "skh-011(単独)。問202-206=5exam, PU!37例文1件=1example; PU!38(不規則変化表)はnotes記録"
+  # Part 1 > Ch08 比較（後半）
+  Scr_060:
+    title: "比較級を用いた重要表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-012(Theme60+61統合)。問207-210=4exam, PU!39例文1件=1example"
+  Scr_061:
+    title: "比較級なのにtheがつく表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-012(Theme60+61統合)。問211-214=4exam, the比較級,the比較級例文1件=1example"
+  Scr_062:
+    title: "thanではなくtoを用いる比較級表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-013(単独)。問215-218=4exam, PU!40例文1件=1example"
+  Scr_063:
+    title: "否定語を含む比較表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 11
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-014(単独)。問219-226=8exam, PU!41例文3件=3example"
+  Scr_064:
+    title: "最上級を用いた表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-015(Theme64+65統合)。問227-234=8exam"
+  Scr_065:
+    title: "最上級の意味を表す原級・比較級表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "skh-015(Theme64+65統合)。問235-239=5exam。PU!42(最上級書き換え)/PU!43(主な注意点)はnotes記録"
+  # Part 1 > Ch09 疑問
+  Scr_066:
+    title: "疑問代名詞と疑問副詞の区別"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-001(単独)。問240-241=2exam(問240対話Bのみ)"
+  Scr_067:
+    title: "How much～?型の疑問文"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-001(Theme66+67統合のうち)。問242-244=3exam(問242対話Aのみ); PU!44(疑問詞+名詞/形容詞/副詞)はnotes記録"
+  Scr_068:
+    title: "間接疑問と語順"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-002(単独)。問245-249=5exam; PU!45(do you think挿入型)・PU!46(間接疑問vs関係代名詞)はnotes記録"
+  Scr_069:
+    title: "付加疑問"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-003(単独)。問250-253=4exam, PU!47例文2件=2example(no/seldom否定語)"
+  Scr_070:
+    title: "Yes/Noの使い分け"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-004(Theme70+71統合)。問254-255=2exam"
+  Scr_071:
+    title: "疑問詞のある疑問文の慣用表現"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-004(Theme70+71統合)。問256-263=8exam; PU!48(Why don't you/we)はnotes記録"
   Scr_125:
     title: "自動詞と他動詞──前置詞の有無"
     type: "usage"
@@ -611,9 +733,9 @@ sections:
     notes: "パイロット。sgh-001。PU!92(他動詞14語)/PU!93(自動詞7語)はnotes記録"
 
 summary:
-  total_sections: 60
-  completed: 60
+  total_sections: 72
+  completed: 72
   in_progress: 0
   not_started: 0
-  total_knowledge_nodes: 47
-  total_sentences: 293
+  total_knowledge_nodes: 55
+  total_sentences: 358

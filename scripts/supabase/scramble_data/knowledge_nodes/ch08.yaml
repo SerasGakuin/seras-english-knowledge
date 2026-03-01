@@ -1,6 +1,7 @@
-# Ch08 比較 前半（Theme 54-59）
+# Ch08 比較（Theme 54-65）
 
 knowledge_nodes:
+  # 前半（Theme 54-59）
   - id: "skh-008"
     name: "原級比較の基本と倍数表現"
     category: "仮定法・比較"
@@ -115,6 +116,139 @@ knowledge_nodes:
       far → farther/further → farthest/furthest
       old → older/elder → oldest/eldest
 
+  # 後半（Theme 60-65）
+  - id: "skh-012"
+    name: "比較級を用いた重要表現"
+    category: "仮定法・比較"
+    priority: "P1"
+    notes: |
+      Theme 60+61: 比較級を用いた重要表現（問題207-213）+ 比較級なのに例外的にtheがつく表現（問題214-217）
+      ■ more A than B「BよりはむしろA」(= A rather than B / not so much B as A):
+      同じ人・物の異なる性質を比べる場合、通常-erの形容詞でもmore A(原級) than B(原級)の形を用いる。
+      例: She is more cute than beautiful.（cuter than beautifulは不可）
+      ■ 否定文 +, much [still] less 〜「まして〜でない」(= let alone):
+      much/still（比較級の強調）+ less（否定で訳す）。名詞だけでなく動詞も置ける。
+      比較: 肯定文 +, much [still] more「まして〜である」— 現在ではほとんど用いられない。
+      to say nothing of 〜「〜は言うまでもなく」(⇨ 問104)を代わりに使う。
+      ■ know better (than to do)「（〜するほど）愚かではない」(= be wise enough not to do):
+      文脈上明らかな場合はthan以下を省略可。
+      should have known better「もっと分別を持つべきだったのに」(⇨ 問69 助動詞+have done)
+      ■ 比較級 + and + 比較級「ますます〜 / だんだん〜」:
+      more型の場合: more and more + 原級。
+      more and more + 名詞「ますます多くの〜」も重要。
+      ■ more or less「多かれ少なかれ / だいたい」
+      ■ sooner or later「遅かれ早かれ」:
+      比較: in time「やがて / そのうちに」(⇨ 問1247)がほぼ同意。
+      ■ no longer 〜「もはや〜でない」(= not 〜 any longer)
+      ■ the + 比較級 〜, the + 比較級 ...「〜すればするほど、ますます...」:
+      前のthe + 比較級が従属節、後のthe + 比較級が主節。
+      注意: 元の文の形容詞を比較級にしてtheをつけて節の頭に置く。
+      例: The more I look at this picture, the more attractive it looks.
+      ×the more it looks attractive（語順注意）
+      ■ (all) the + 比較級 + 理由「〜のためにそれだけますます...」:
+      allは強意の副詞（省略可）。理由にはfor+名詞やbecause節を用いる。
+      likeにはbetter, loveにはmoreを用いることが多い。
+      ■ none the + 比較級 + 理由「〜だからといって少しも...でない」:
+      ↑の否定形。none the less for 〜「〜にもかかわらず」は重要イディオム（二重否定→強い肯定）。
+      参照: Theme 76（二重否定）
+      ■ the + 比較級 + of the two (+ 複数名詞)「2つ[2人]のうちで〜のほう」:
+      of the twoで1つに特定されるのでtheが必要。
+
+  - id: "skh-013"
+    name: "ラテン系比較級"
+    category: "仮定法・比較"
+    priority: "P2"
+    notes: |
+      Theme 62: thanではなくtoを用いる比較級表現（問題218-220）
+      ラテン語が語源の形容詞・動詞は比較対象にthanではなくtoを用いる。
+      注意: toの後ろに代名詞が来る場合は必ず目的格。than me [I] / to me [×I]
+      ■ be superior to 〜「〜より優れている」(= be better than 〜)
+      ⇔ be inferior to 〜「〜より劣っている」(= be not as good as 〜)
+      しばしば後ろにin ...「...の点で」が続く。
+      ■ be senior to 〜「〜より年上である」
+      ⇔ be junior to 〜「〜より年下である」
+      数量差の表現: He is five years senior to us. = He is five years older than us.
+      ■ prefer A to B「BよりAを好む」(= like A better than B):
+      A, Bには名詞または動名詞が来る。
+      書き換え: prefer to do A rather than (to) do B
+      ■ be preferable to 〜「〜より望ましい」:
+      形容詞形もtoを用いる。
+      ■ PU!39 ラテン系比較級まとめ:
+      superior/inferior, senior/junior, prefer, preferable — すべてtoを使う。
+
+  - id: "skh-014"
+    name: "否定語を含む比較表現"
+    category: "仮定法・比較"
+    priority: "P1"
+    notes: |
+      Theme 63: 否定語を含む比較表現（問題221-226）
+      ■ no more 〜 than ...「...でないのと同様に〜でない」— 両方否定:
+      いわゆる「クジラの公式（第一公式）」。thanの後は肯定形だが、両方を打ち消す。
+      A whale is no more a fish than a horse is.（馬が魚でないのと同様にクジラは魚ではない）
+      ■ not 〜 any more than ...「...でないのと同様に〜でない」:
+      no more 〜 than と同義。noがnotとanyに分離された口語的な形。
+      ■ no less 〜 than ...「...と同様に〜である / ...に劣らず〜」— 両方肯定:
+      「クジラの第二公式」。明らかに肯定できることを引き合いに出して強調。
+      A whale is no less a mammal than a horse is.（馬が哺乳類であるのと同様にクジラは哺乳類だ）
+      ■ no more than 〜「わずか〜だけ / 〜しかない」(= only / as few [little] as):
+      「少なさ」を強調。
+      ■ no less than 〜「〜もある」(= as many [much] as):
+      「多さ」を強調。
+      ■ not more than 〜「多くとも〜 / せいぜい〜」(= at most):
+      「〜より多くはない」。
+      ■ not less than 〜「少なくとも〜」(= at least):
+      「〜より少なくはない」。
+      ■ PU!40 no more [less] than vs not more [less] than まとめ:
+      no more than = only（少なさ強調）/ no less than = as many as（多さ強調）
+      not more than = at most / not less than = at least
+      ■ PU!41 no + 比較級 + than 〜 の書き換え公式:
+      no + 比較級 + than 〜 = as + 反意語の原級 + as
+      noは「決して〜でない」という強い否定で、優劣の比較を全面的に否定。
+      例: no bigger than 〜 = as small as 〜
+      no better than 〜 = as bad as 〜「〜も同然で」
+      no richer than 〜 = as poor as 〜
+
+  - id: "skh-015"
+    name: "最上級の表現と書き換え"
+    category: "仮定法・比較"
+    priority: "P1"
+    notes: |
+      Theme 64+65: 最上級を用いた表現（問題227-234）+ 最上級の意味を表す原級・比較級表現（問題235-239）
+      ■ 最上級 + of [in] A「Aの中で一番〜」:
+      Aが同類の複数を表す語句 → of A。Aが場所や集団を表す単数名詞 → in A。
+      原則: 形容詞の最上級にはtheをつけ、副詞の最上級にはtheをつけない。
+      ただし特定の人たちの中で一番の場合は副詞にもtheをつけることがある。
+      ■ one of the + 最上級 + 複数名詞「最も〜な...の1つ[1人]」
+      ■ by far the + 最上級「ずば抜けて一番〜」:
+      最上級の強調: by far, much。veryも使えるが語順はthe very + 最上級。
+      ×very the best / ○the very best
+      ■ the + 最上級 + 名詞 + (that +) S have ever done「Sが今までに〜した中で一番...」:
+      先行詞が最上級・first・only・veryで修飾 → 関係代名詞thatを好む。
+      ■ the + 序数詞 + 最上級「何番目に〜」:
+      the second largest country「2番目に大きな国」
+      ■ make the most of 〜「（有利な状況）を最大限に利用する」:
+      比較: make the best of 〜「（不利な状況）を精一杯利用する」
+      ■ to the best of A's knowledge「Aの知る限りでは」(= as far as A know ⇨ PU!86)
+      ■ PU!42 at + 最上級:
+      at most「多くても」⇔ at least「少なくとも」
+      at best「よくても」⇔ at worst「最悪の場合でも」
+      at latest「遅くとも」⇔ at earliest「早くとも」
+      cf. at one's best「最良の状態で」
+      ■ A is + 比較級 + than any other + 単数名詞「Aは他のどんな...より〜」:
+      最上級の書き換え。any otherの後は単数名詞。
+      発展: 主語Aが複数なら any other + 複数名詞。
+      ■ No (other) + 単数名詞 + is so [as] + 原級 + as A「Aほど...な〜はない」
+      ■ No (other) + 単数名詞 + is + 比較級 + than A「Aより...な〜はない」
+      ■ Nothing is so [as] + 原級 + as A「Aほど...なものはない」:
+      比較の対象がはっきりしない場合、No other + 単数名詞の代わりにNothingを用いる。
+      = There is nothing so [as] + 原級 + as A
+      ■ Nothing is + 比較級 + than A「Aより...なものはない」:
+      = There is nothing + 比較級 + than A
+      ■ PU!43 最上級の意味を表す原級・比較級表現まとめ:
+      特定の対象: No other + 単数名詞, than any other + 単数名詞
+      不特定の対象: Nothing/anything else
+      比較の対象が人: anyone else
+
 understanding_goals:
   # skh-008
   - node_id: "skh-008"
@@ -174,6 +308,61 @@ understanding_goals:
   - node_id: "skh-011"
     seq: 4
     goal: "不規則変化する形容詞・副詞の比較級・最上級を正確に書ける"
+  # skh-012
+  - node_id: "skh-012"
+    seq: 1
+    goal: "more A than B（AというよりむしろB）の構文を正しく使える"
+  - node_id: "skh-012"
+    seq: 2
+    goal: "much [still] less / know better than to do / no longer の意味を正確に言える"
+  - node_id: "skh-012"
+    seq: 3
+    goal: "the + 比較級 ~, the + 比較級 ... の語順と主従関係を説明できる"
+  - node_id: "skh-012"
+    seq: 4
+    goal: "(all) the + 比較級 + for/because と none the + 比較級 + for の意味の違いを区別できる"
+  - node_id: "skh-012"
+    seq: 5
+    goal: "the + 比較級 + of the two にtheが必要な理由を説明できる"
+  # skh-013
+  - node_id: "skh-013"
+    seq: 1
+    goal: "ラテン系比較級（superior/inferior/senior/junior/prefer/preferable）がtoを用いることを知っている"
+  - node_id: "skh-013"
+    seq: 2
+    goal: "toの後の代名詞が必ず目的格になることを説明できる"
+  - node_id: "skh-013"
+    seq: 3
+    goal: "prefer A to B / prefer to do A rather than (to) do B の形を正しく使える"
+  # skh-014
+  - node_id: "skh-014"
+    seq: 1
+    goal: "no more ~ than（クジラの第一公式）と no less ~ than（第二公式）の意味を正確に区別できる"
+  - node_id: "skh-014"
+    seq: 2
+    goal: "no more than / no less than / not more than / not less than の4つの意味を正確に言える"
+  - node_id: "skh-014"
+    seq: 3
+    goal: "no + 比較級 + than = as + 反意語の原級 + as の書き換え公式を適用できる"
+  - node_id: "skh-014"
+    seq: 4
+    goal: "not ~ any more than を no more ~ than の口語形として認識できる"
+  # skh-015
+  - node_id: "skh-015"
+    seq: 1
+    goal: "最上級と of/in の使い分けルールを説明できる"
+  - node_id: "skh-015"
+    seq: 2
+    goal: "最上級の強調（by far, much, very）の語順を正確に書ける"
+  - node_id: "skh-015"
+    seq: 3
+    goal: "最上級を比較級（than any other + 単数名詞）で書き換えられる"
+  - node_id: "skh-015"
+    seq: 4
+    goal: "最上級をNo other / Nothing を用いた原級・比較級で書き換えられる"
+  - node_id: "skh-015"
+    seq: 5
+    goal: "at most / at least / at best / at worst の意味を区別できる"
 
 check_points:
   # skh-008
@@ -252,6 +441,78 @@ check_points:
     seq: 4
     question: "She is 5 centimeters taller than her mother. を by を使って書き換えよ。"
     answer: "She is taller than her mother by 5 centimeters. 差を強調する言い方。"
+  # skh-012
+  - node_id: "skh-012"
+    seq: 1
+    question: "She is more cute than beautiful. でなぜ cuter を使わないのか？"
+    answer: "同じ人の異なる性質を比べるときは、通常-erの形容詞でもmore A(原級) than B(原級)の形を用いる。"
+  - node_id: "skh-012"
+    seq: 2
+    question: "否定文の後に「まして〜でない」を表す表現は？ 肯定文の場合はどうするか？"
+    answer: "否定文 +, much [still] less 〜 (= let alone)。肯定文の場合 much [still] moreは現在ほぼ使われず、to say nothing of 〜を使う。"
+  - node_id: "skh-012"
+    seq: 3
+    question: "The more I look at this picture, the more attractive it looks. でなぜ the more it looks attractive ではないのか？"
+    answer: "元の文 it looks attractive の形容詞attractiveを比較級にしてtheをつけ、節の頭に置く。the more attractive it looksが正しい語順。"
+  - node_id: "skh-012"
+    seq: 4
+    question: "I like her all the better for her weak points. と none the happier for his wealth の意味をそれぞれ答えよ。"
+    answer: "前者「弱点があるのでそれだけいっそう好きだ」(all the + 比較級 + for)。後者「富があるからといって少しも幸せでない」(none the + 比較級 + for)。"
+  - node_id: "skh-012"
+    seq: 5
+    question: "Lucy wanted the larger of the two boxes. でなぜ a larger ではなく the larger なのか？"
+    answer: "of the twoで「2つのうちの〜のほう」と1つに特定されるためtheが必要。"
+  # skh-013
+  - node_id: "skh-013"
+    seq: 1
+    question: "His paper is superior (than/to) mine. どちらが正しいか？ また、to me ではなく to mine にする理由は？"
+    answer: "toが正しい。ラテン系比較級はthanではなくtoを用いる。比較の対象はhis paperとmy paperなので、mine (= my paper)が正しい。"
+  - node_id: "skh-013"
+    seq: 2
+    question: "prefer A to B の A, B に動詞を置く場合、どのような形になるか？"
+    answer: "A, Bには名詞または動名詞を置く（prefer reading to going）。不定詞の場合はprefer to do A rather than (to) do Bの形。"
+  - node_id: "skh-013"
+    seq: 3
+    question: "ラテン系比較級を5つ挙げよ。"
+    answer: "superior to, inferior to, senior to, junior to, prefer A to B。形容詞preferable toも含む。すべてthanではなくtoを用いる。"
+  # skh-014
+  - node_id: "skh-014"
+    seq: 1
+    question: "A whale is no more a fish than a horse is. はどういう意味か？ この表現の名称は？"
+    answer: "「馬が魚でないのと同様にクジラは魚ではない」（両方否定）。クジラの公式（第一公式）と呼ばれる。"
+  - node_id: "skh-014"
+    seq: 2
+    question: "no more than 1,000 yen と no less than 1,000 yen の意味をそれぞれ答えよ。"
+    answer: "no more than = only（たった千円しかない — 少なさを強調）。no less than = as many/much as（千円も持っている — 多さを強調）。"
+  - node_id: "skh-014"
+    seq: 3
+    question: "not more than 1,000 yen と not less than 1,000 yen の意味をそれぞれ答えよ。"
+    answer: "not more than = at most（せいぜい千円）。not less than = at least（少なくとも千円）。"
+  - node_id: "skh-014"
+    seq: 4
+    question: "no bigger than a matchbox を as ~ as で書き換えよ。"
+    answer: "as small as a matchbox。no + 比較級 + than = as + 反意語の原級 + as。"
+  # skh-015
+  - node_id: "skh-015"
+    seq: 1
+    question: "最上級 + of A / in A の使い分けの基準は何か？"
+    answer: "Aが同類の複数を表す語句 → of A（of all the doctors）。Aが場所や集団を表す単数名詞 → in A（in Kyoto）。"
+  - node_id: "skh-015"
+    seq: 2
+    question: "by far the best / the very best は正しいが、very the best は正しいか？"
+    answer: "不可。by farは the + 最上級の前に置けるが、veryはthe very + 最上級の語順。×very the best / ○the very best。"
+  - node_id: "skh-015"
+    seq: 3
+    question: "「富士山は日本で一番高い山だ」を比較級で2通り書け。"
+    answer: "(1) Mt. Fuji is higher than any other mountain in Japan. (2) No other mountain in Japan is higher than Mt. Fuji."
+  - node_id: "skh-015"
+    seq: 4
+    question: "Nothing is so precious as time. を最上級で書け。"
+    answer: "Time is the most precious of all things [thing of all]. Nothingは比較対象が不特定の場合に使う。"
+  - node_id: "skh-015"
+    seq: 5
+    question: "make the most of と make the best of の違いは？"
+    answer: "make the most of 〜 =（有利な状況を）最大限に利用する。make the best of 〜 =（不利な状況を）精一杯利用する / 前向きに考える。"
 
 node_prerequisites:
   - node_id: "skh-009"
@@ -260,6 +521,14 @@ node_prerequisites:
     prerequisite_id: "skh-008"
   - node_id: "skh-011"
     prerequisite_id: "skh-008"
+  - node_id: "skh-012"
+    prerequisite_id: "skh-011"
+  - node_id: "skh-013"
+    prerequisite_id: "skh-011"
+  - node_id: "skh-014"
+    prerequisite_id: "skh-011"
+  - node_id: "skh-015"
+    prerequisite_id: "skh-011"
 
 knowledge_references:
   - node_id: "skh-008"
@@ -285,4 +554,28 @@ knowledge_references:
   - node_id: "skh-011"
     book: "スクランブル英文法・語法"
     section_id: "Scr_059"
+    pages: ""
+  - node_id: "skh-012"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_060"
+    pages: ""
+  - node_id: "skh-012"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_061"
+    pages: ""
+  - node_id: "skh-013"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_062"
+    pages: ""
+  - node_id: "skh-014"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_063"
+    pages: ""
+  - node_id: "skh-015"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_064"
+    pages: ""
+  - node_id: "skh-015"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_065"
     pages: ""

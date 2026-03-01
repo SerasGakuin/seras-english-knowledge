@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-067-p01"
+    section_id: "Scr_067"
+    drill: 1
+    number: 242
+    role: "exam"
+    english: "How often do you eat out?"
+    japanese: "どれくらい頻繁に外食しますか。"
+    notes: "出典: 金沢工大。対話問題Aの文。B: Two or three times a month. How often = 頻度・回数"
+  - id: "scr-067-p02"
+    section_id: "Scr_067"
+    drill: 1
+    number: 243
+    role: "exam"
+    english: "How soon does the movie start?"
+    japanese: "あとどれくらいで映画は始まりますか。"
+    notes: "難易度: 頻出。出典: 共立女子大。How soon = 時間の経過"
+  - id: "scr-067-p03"
+    section_id: "Scr_067"
+    drill: 1
+    number: 244
+    role: "exam"
+    english: "How much does this parcel weigh?"
+    japanese: "この小包はどのくらいの重さですか。"
+    notes: "難易度: 基本。出典: 関西学院大。How much = 量・金額。= How heavy is this parcel?"
+
+sentence_structures:
+  - sentence_id: "scr-067-p01"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "scr-067-p01"
+    label: "details"
+    value: "[How often](M:疑問副詞) do <you>(S) eat out(V)"
+  - sentence_id: "scr-067-p02"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "scr-067-p02"
+    label: "details"
+    value: "[How soon](M:疑問副詞) does <the movie>(S) start(V)"
+  - sentence_id: "scr-067-p03"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "scr-067-p03"
+    label: "details"
+    value: "[How much](M:疑問副詞) does <this parcel>(S) weigh(V)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-067-p01"
+    node_id: "shs-001"
+  - sentence_id: "scr-067-p02"
+    node_id: "shs-001"
+  - sentence_id: "scr-067-p03"
+    node_id: "shs-001"

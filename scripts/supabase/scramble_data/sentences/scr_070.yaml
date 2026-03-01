@@ -1,0 +1,37 @@
+sentences:
+  - id: "scr-070-p01"
+    section_id: "Scr_070"
+    drill: 1
+    number: 254
+    role: "exam"
+    english: "You didn't go to Henry's party, did you? ―― No, I didn't."
+    japanese: "君はヘンリーのパーティーに行かなかったのですね。――はい、行きませんでした。"
+    notes: "出典: 立教大。否定文の付加疑問への応答。Yesには肯定文、Noには否定文を続ける"
+  - id: "scr-070-p02"
+    section_id: "Scr_070"
+    drill: 1
+    number: 255
+    role: "exam"
+    english: "Didn't you attend classes yesterday?"
+    japanese: "昨日は授業に出なかったのですか。"
+    notes: "出典: センター。不適切な応答を選ぶ問題。Yes, I didn't. は不適切（Yesには肯定文を続ける原則）"
+
+sentence_structures:
+  - sentence_id: "scr-070-p01"
+    label: "overall"
+    value: "S V, S V"
+  - sentence_id: "scr-070-p01"
+    label: "details"
+    value: "<You>(S) didn't go(V) [to Henry's party](M), did you?(付加疑問) ―― No, <I>(S) didn't(V)."
+  - sentence_id: "scr-070-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-070-p02"
+    label: "details"
+    value: "Didn't <you>(S) attend(V) <classes>(O) [yesterday](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-070-p01"
+    node_id: "shs-004"
+  - sentence_id: "scr-070-p02"
+    node_id: "shs-004"

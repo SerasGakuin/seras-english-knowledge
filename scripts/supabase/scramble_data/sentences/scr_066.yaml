@@ -1,0 +1,37 @@
+sentences:
+  - id: "scr-066-p01"
+    section_id: "Scr_066"
+    drill: 1
+    number: 240
+    role: "exam"
+    english: "How did you come to town?"
+    japanese: "町までどのようにして来たのですか。"
+    notes: "難易度: 基本、頻出。出典: 上智大。対話問題Aの文。B: We came here by bus. how = 疑問副詞（方法）"
+  - id: "scr-066-p02"
+    section_id: "Scr_066"
+    drill: 1
+    number: 241
+    role: "exam"
+    english: "What do you think of the new movie?"
+    japanese: "新しい映画についてどう思いますか。"
+    notes: "難易度: 頻出。出典: 愛知学院大。What do you think of ~?（whatは目的語）= How do you feel about ~?"
+
+sentence_structures:
+  - sentence_id: "scr-066-p01"
+    label: "overall"
+    value: "S V"
+  - sentence_id: "scr-066-p01"
+    label: "details"
+    value: "[How](M:疑問副詞) did <you>(S) come(V) [to town](M)"
+  - sentence_id: "scr-066-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-066-p02"
+    label: "details"
+    value: "<What>(O:疑問代名詞) do <you>(S) think(V) [of the new movie](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-066-p01"
+    node_id: "shs-001"
+  - sentence_id: "scr-066-p02"
+    node_id: "shs-001"

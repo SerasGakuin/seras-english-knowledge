@@ -2,24 +2,41 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T23:30:00"
+updated_at: "2026-03-01T23:59:00"
 book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 2 — B04完了、B05着手前"
+  phase: "Phase 2 — B05完了、B06着手前"
   current_section: null
   current_step: null
-  last_completed_section: "Scr_059"
+  last_completed_section: "Scr_071"
   last_completed_gate: 5
 
 progress:
   total_sections: 271
-  completed: 60
+  completed: 72
   in_progress: 0
-  remaining: 211
-  total_nodes: 47
-  total_sentences: 293
+  remaining: 199
+  total_nodes: 55
+  total_sentences: 358
+
+b05_results:
+  ch08_back_sections: ["Scr_060", "Scr_061", "Scr_062", "Scr_063", "Scr_064", "Scr_065"]
+  ch08_back_nodes: ["skh-012", "skh-013", "skh-014", "skh-015"]
+  ch08_back_sentences: 39
+  ch08_back_merges:
+    - "Theme 60+61 → skh-012（比較級を用いた重要表現とtheがつく表現）"
+    - "Theme 64+65 → skh-015（最上級を用いた表現と最上級書き換え）"
+  ch09_sections: ["Scr_066", "Scr_067", "Scr_068", "Scr_069", "Scr_070", "Scr_071"]
+  ch09_nodes: ["shs-001", "shs-002", "shs-003", "shs-004"]
+  ch09_sentences: 26
+  ch09_merges:
+    - "Theme 66+67 → shs-001（疑問代名詞・疑問副詞の区別とHow much型）"
+    - "Theme 70+71 → shs-004（Yes/No使い分けと疑問詞慣用表現）"
+  metrics:
+    ch08_back_node_section_ratio: 0.67
+    ch09_node_section_ratio: 0.67
 
 b04_results:
   ch07_sections: ["Scr_047", "Scr_048", "Scr_049", "Scr_050", "Scr_051", "Scr_052", "Scr_053"]
@@ -100,9 +117,9 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
-  - "B05: Ch08 比較後半(Scr_060-065) → ノードID skh-012〜"
-  - "B05: Ch09 疑問(Scr_066-071) → ノードID shs-001〜"
-  - "原本: Part1_Ch08_比較.md（後半）, Part1_Ch09_疑問.md を読む"
+  - "B06: Ch10 否定(Scr_072-077) → ノードID shs-005〜"
+  - "B06: Ch11 代名詞(Scr_078-090) → ノードID shs-0XX〜"
+  - "原本: Part1_Ch10_否定.md, Part1_Ch11_代名詞.md を読む"
   - "章区切り → ワークフロー.md + 設計書.md 再読込"
 
 must_reread:
