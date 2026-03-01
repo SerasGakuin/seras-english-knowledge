@@ -1402,13 +1402,13 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_003"
     node_id: "sdv-002"
-    seq: 1
+    seq: 2
   - section_id: "Scr_004"
     node_id: "sdv-003"
     seq: 1
   - section_id: "Scr_005"
     node_id: "sdv-003"
-    seq: 1
+    seq: 2
   - section_id: "Scr_006"
     node_id: "sdv-004"
     seq: 1
@@ -1438,7 +1438,7 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_015"
     node_id: "sdv-012"
-    seq: 1
+    seq: 2
   - section_id: "Scr_016"
     node_id: "sdv-013"
     seq: 1
@@ -1460,7 +1460,7 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_022"
     node_id: "sdv-018"
-    seq: 1
+    seq: 2
   - section_id: "Scr_023"
     node_id: "sdv-019"
     seq: 1
@@ -1495,13 +1495,13 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_033"
     node_id: "sjd-008"
-    seq: 1
+    seq: 2
   - section_id: "Scr_034"
     node_id: "sjd-009"
     seq: 1
   - section_id: "Scr_035"
     node_id: "sjd-009"
-    seq: 1
+    seq: 2
   - section_id: "Scr_036"
     node_id: "sjd-010"
     seq: 1
@@ -1511,19 +1511,19 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_038"
     node_id: "sjd-011"
-    seq: 1
+    seq: 2
   - section_id: "Scr_039"
     node_id: "sjd-011"
-    seq: 1
+    seq: 3
   - section_id: "Scr_040"
     node_id: "sjd-012"
     seq: 1
   - section_id: "Scr_041"
     node_id: "sjd-012"
-    seq: 1
+    seq: 2
   - section_id: "Scr_042"
     node_id: "sjd-012"
-    seq: 1
+    seq: 3
   - section_id: "Scr_043"
     node_id: "sjd-013"
     seq: 1
@@ -1557,14 +1557,14 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_053"
     node_id: "skh-007"
-    seq: 1
+    seq: 2
   # Ch08 比較（前半）
   - section_id: "Scr_054"
     node_id: "skh-008"
     seq: 1
   - section_id: "Scr_055"
     node_id: "skh-008"
-    seq: 1
+    seq: 2
   - section_id: "Scr_056"
     node_id: "skh-009"
     seq: 1
@@ -1573,7 +1573,7 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_058"
     node_id: "skh-010"
-    seq: 1
+    seq: 2
   - section_id: "Scr_059"
     node_id: "skh-011"
     seq: 1
@@ -1583,7 +1583,7 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_061"
     node_id: "skh-012"
-    seq: 1
+    seq: 2
   - section_id: "Scr_062"
     node_id: "skh-013"
     seq: 1
@@ -1595,14 +1595,14 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_065"
     node_id: "skh-015"
-    seq: 1
+    seq: 2
   # Ch09 疑問
   - section_id: "Scr_066"
     node_id: "shs-001"
     seq: 1
   - section_id: "Scr_067"
     node_id: "shs-001"
-    seq: 1
+    seq: 2
   - section_id: "Scr_068"
     node_id: "shs-002"
     seq: 1
@@ -1614,7 +1614,7 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_071"
     node_id: "shs-004"
-    seq: 1
+    seq: 2
   - section_id: "Scr_125"
     node_id: "sgh-001"
     seq: 1
@@ -1626,16 +1626,16 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_128"
     node_id: "sgh-003"
-    seq: 1
+    seq: 2
   - section_id: "Scr_129"
     node_id: "sgh-003"
-    seq: 1
+    seq: 3
   - section_id: "Scr_130"
     node_id: "sgh-004"
     seq: 1
   - section_id: "Scr_131"
     node_id: "sgh-004"
-    seq: 1
+    seq: 2
   - section_id: "Scr_132"
     node_id: "sgh-005"
     seq: 1
@@ -1644,16 +1644,16 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_134"
     node_id: "sgh-006"
-    seq: 1
+    seq: 2
   - section_id: "Scr_135"
     node_id: "sgh-007"
     seq: 1
   - section_id: "Scr_136"
     node_id: "sgh-007"
-    seq: 1
+    seq: 2
   - section_id: "Scr_137"
     node_id: "sgh-007"
-    seq: 1
+    seq: 3
   - section_id: "Scr_138"
     node_id: "sgh-008"
     seq: 1
@@ -1669,10 +1669,10 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_142"
     node_id: "sgh-011"
-    seq: 1
+    seq: 2
   - section_id: "Scr_143"
     node_id: "sgh-011"
-    seq: 1
+    seq: 3
   - section_id: "Scr_144"
     node_id: "sgh-012"
     seq: 1
@@ -1706,13 +1706,13 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_154"
     node_id: "sgh-021"
-    seq: 1
+    seq: 2
   - section_id: "Scr_155"
     node_id: "sgh-022"
     seq: 1
   - section_id: "Scr_156"
     node_id: "sgh-022"
-    seq: 1
+    seq: 2
   - section_id: "Scr_157"
     node_id: "sgh-023"
     seq: 1
@@ -1721,13 +1721,13 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_159"
     node_id: "sgh-024"
-    seq: 1
+    seq: 2
   - section_id: "Scr_160"
     node_id: "sgh-025"
     seq: 1
   - section_id: "Scr_161"
     node_id: "sgh-025"
-    seq: 1
+    seq: 2
   # Ch17 形容詞の語法
   - section_id: "Scr_162"
     node_id: "sgh-026"
@@ -1803,7 +1803,7 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_103"
     node_id: "shs-027"
-    seq: 1
+    seq: 2
   - section_id: "Scr_104"
     node_id: "shs-028"
     seq: 1
@@ -1812,22 +1812,22 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_106"
     node_id: "shs-029"
-    seq: 1
+    seq: 2
   - section_id: "Scr_107"
     node_id: "shs-030"
     seq: 1
   - section_id: "Scr_108"
     node_id: "shs-030"
-    seq: 1
+    seq: 2
   - section_id: "Scr_109"
     node_id: "shs-031"
     seq: 1
   - section_id: "Scr_110"
     node_id: "shs-031"
-    seq: 1
+    seq: 2
   - section_id: "Scr_111"
     node_id: "shs-031"
-    seq: 1
+    seq: 3
   - section_id: "Scr_112"
     node_id: "shs-032"
     seq: 1
@@ -1842,7 +1842,7 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_116"
     node_id: "shs-035"
-    seq: 1
+    seq: 2
   - section_id: "Scr_117"
     node_id: "shs-036"
     seq: 1
@@ -1852,13 +1852,13 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_119"
     node_id: "shs-037"
-    seq: 1
+    seq: 2
   - section_id: "Scr_120"
     node_id: "shs-038"
     seq: 1
   - section_id: "Scr_121"
     node_id: "shs-038"
-    seq: 1
+    seq: 2
   - section_id: "Scr_122"
     node_id: "shs-039"
     seq: 1
@@ -1867,7 +1867,7 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_124"
     node_id: "shs-040"
-    seq: 1
+    seq: 2
   # Ch10 否定
   - section_id: "Scr_072"
     node_id: "shs-005"
@@ -1886,17 +1886,17 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_077"
     node_id: "shs-009"
-    seq: 1
+    seq: 2
   # Ch11 代名詞
   - section_id: "Scr_078"
     node_id: "shs-010"
     seq: 1
   - section_id: "Scr_079"
     node_id: "shs-010"
-    seq: 1
+    seq: 2
   - section_id: "Scr_080"
     node_id: "shs-010"
-    seq: 1
+    seq: 3
   - section_id: "Scr_081"
     node_id: "shs-011"
     seq: 1
@@ -1926,7 +1926,7 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_090"
     node_id: "shs-019"
-    seq: 1
+    seq: 2
   # Ch12 関係詞
   - section_id: "Scr_091"
     node_id: "shs-020"
@@ -1939,19 +1939,19 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_094"
     node_id: "shs-022"
-    seq: 1
+    seq: 2
   - section_id: "Scr_095"
     node_id: "shs-023"
     seq: 1
   - section_id: "Scr_096"
     node_id: "shs-023"
-    seq: 1
+    seq: 2
   - section_id: "Scr_097"
     node_id: "shs-024"
     seq: 1
   - section_id: "Scr_098"
     node_id: "shs-024"
-    seq: 1
+    seq: 2
   - section_id: "Scr_099"
     node_id: "shs-025"
     seq: 1
@@ -1960,7 +1960,7 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_101"
     node_id: "shs-026"
-    seq: 1
+    seq: 2
   # Ch20 意外な意味を持つ単語
   - section_id: "Scr_184"
     node_id: "sgi-001"

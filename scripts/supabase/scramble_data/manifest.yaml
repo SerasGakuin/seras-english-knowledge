@@ -1,6 +1,6 @@
 project: "スクランブル英文法・語法"
 book_slug: "scramble"
-last_updated: "2026-03-01"
+last_updated: "2026-03-02"
 
 sections:
   Scr_001:
@@ -2748,8 +2748,8 @@ sections:
 
 summary:
   total_sections: 271
-  completed: 247
+  completed: 271
   in_progress: 0
-  not_started: 24
+  not_started: 0
   total_knowledge_nodes: 183
   total_sentences: 1746
