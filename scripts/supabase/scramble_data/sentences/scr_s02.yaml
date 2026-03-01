@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-s02-p01"
+    section_id: "Scr_S02"
+    drill: 1
+    number: 6
+    role: "exam"
+    english: "David usually finishes his homework quickly, helps his younger sister do her homework, and still finds time to play soccer outside."
+    japanese: "デイビッドはたいてい宿題をすばやく終わらせ、妹の宿題を手伝い、それでもなお外でサッカーをする時間を見つける。"
+    notes: "特別編2。正誤訂正問題（③ find → finds）。andでfinishes/helps/findsを並列。主語Davidは3人称単数なので現在形に-sが必要（⇨ 390）。help A (to) do「Aが〜するのを手伝う」（⇨ 552）。to play soccer outsideは不定詞の形容詞的用法でtimeを修飾（⇨ 90）。"
+  - id: "scr-s02-p02"
+    section_id: "Scr_S02"
+    drill: 1
+    number: 7
+    role: "exam"
+    english: "The number of students attending our school has increased this year, so we need to prepare more classrooms, more teachers, and a larger playground."
+    japanese: "今年、私たちの学校に通う生徒の数が増えたので、もっと多くの教室、教師、そしてより広い運動場を用意する必要がある。"
+    notes: "特別編2。正誤訂正問題（② have increased → has increased）。the number of + 複数名詞は単数扱い（⇨ 656）。attending our schoolは現在分詞句でstudentsを後方修飾（⇨ 136）。等位接続詞soで文を並列（⇨ 392）。"
+  - id: "scr-s02-p03"
+    section_id: "Scr_S02"
+    drill: 1
+    number: 8
+    role: "exam"
+    english: "In front of the house sit two small brown dogs, waiting for their owner to come home and play with them."
+    japanese: "家の前に2匹の小さな茶色い犬が座っていて、飼い主が帰ってきて一緒に遊んでくれるのを待っている。"
+    notes: "特別編2。正誤訂正問題（① sits → sit）。前置詞句In front of the houseの後ろにVSと続く倒置。主語はtwo small brown dogs（複数）なので動詞はsit。waitingは文末の分詞構文（⇨ Theme 40）。wait for A to do「Aが〜するのを待つ」。"
+  - id: "scr-s02-p04"
+    section_id: "Scr_S02"
+    drill: 1
+    number: 9
+    role: "exam"
+    english: "Both soccer and baseball excite me very much, so I can't decide which to play next weekend."
+    japanese: "サッカーも野球も、どちらも私をとてもわくわくさせるので、次の週末にどちらをプレーするか決められない。"
+    notes: "特別編2。正誤訂正問題（① excites → excite）。both A and Bは常に複数扱い（⇨ 397）。which to playは「疑問詞 + to do」（⇨ PU!22）。"
+
+sentence_structures:
+  - sentence_id: "scr-s02-p01"
+    label: "overall"
+    value: "S V O M, V O V O, and V O"
+  - sentence_id: "scr-s02-p01"
+    label: "details"
+    value: "<David>(S) usually finishes(V) <his homework>(O) [quickly](M), helps(V) <his younger sister>(O) do(V) <her homework>(O), and still finds(V) <time to play soccer outside>(O)"
+  - sentence_id: "scr-s02-p02"
+    label: "overall"
+    value: "S V M, so S V O"
+  - sentence_id: "scr-s02-p02"
+    label: "details"
+    value: "<The number of students attending our school>(S) has increased(V:現在完了) [this year](M), so <we>(S) need(V) <to prepare more classrooms, more teachers, and a larger playground>(O)"
+  - sentence_id: "scr-s02-p03"
+    label: "overall"
+    value: "M V S, M"
+  - sentence_id: "scr-s02-p03"
+    label: "details"
+    value: "[In front of the house](M:場所) sit(V:倒置) <two small brown dogs>(S), waiting for their owner to come home and play with them(M:分詞構文)"
+  - sentence_id: "scr-s02-p04"
+    label: "overall"
+    value: "S V O M, so S V O M"
+  - sentence_id: "scr-s02-p04"
+    label: "details"
+    value: "<Both soccer and baseball>(S) excite(V) <me>(O) [very much](M), so <I>(S) can't decide(V) <which to play>(O) [next weekend](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-s02-p01"
+    node_id: "sdr-001"
+  - sentence_id: "scr-s02-p02"
+    node_id: "sdr-001"
+  - sentence_id: "scr-s02-p03"
+    node_id: "sdr-001"
+  - sentence_id: "scr-s02-p04"
+    node_id: "sdr-001"

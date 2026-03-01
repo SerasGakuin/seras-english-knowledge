@@ -1,0 +1,323 @@
+# Special Edition 読解・作文のための文法問題 — sdr-001〜sdr-007
+
+knowledge_nodes:
+  # === sdr-001: 特別編1+2 統合 ===
+  - id: "sdr-001"
+    name: "文構造の識別（文型・SVの把握）"
+    category: "読解文法"
+    priority: "P1"
+    notes: |
+      特別編1+2を統合。パターンD: 文法識別の統合演習。
+      特別編1: 文型一致問題（5文型の正確な識別）。
+      特別編2: 正誤訂正問題（SVの一致・並列構造）。
+      CHECK!: 文型の見分け方 — (1)SV: 副詞句を伴う (2)SVC: S=C (3)SVO: S≠O (4)SVOO: O≠O (5)SVOC: O=C。
+      参考書内参照: ⇨ PU!109(SVOO), PU!111(SVC), PU!112(SVOC), Theme 25, Theme 40, ⇨ 問題390, 392, 397, 540, 552, 568, 656。
+
+  # === sdr-002: 特別編3 ===
+  - id: "sdr-002"
+    name: "should/could/needの多義区別"
+    category: "読解文法"
+    priority: "P1"
+    notes: |
+      特別編3。パターンD: 用法一致問題（下線部と同じ用法を選ぶ）。
+      shouldの4用法: (1)万一の仮定 (2)感情のshould (3)義務「〜すべきだ」 (4)提案・要求のthat節内。
+      couldの4用法: (1)過去の能力「〜できた」 (2)仮定法 (3)推量「〜かもしれない」 (4)丁寧な依頼Could you〜?。
+      needの3用法: (1)助動詞need（原形が続く/否定・疑問） (2)一般動詞need to do (3)名詞the need to do。
+      ★ need doing「〜される必要がある」は一般動詞needの特殊用法（⇨ 508）。
+      参考書内参照: ⇨ 59, 164, 180, 289, 508, 572, Theme 46, Theme 145, ⇨ 1335。
+
+  # === sdr-003: 特別編4 ===
+  - id: "sdr-003"
+    name: "do/would/used toの多義区別"
+    category: "読解文法"
+    priority: "P1"
+    notes: |
+      特別編4。パターンD: 用法一致問題。
+      doの4用法: (1)強調の助動詞（do+原形, 「確かに」） (2)一般動詞「間に合う/十分である」(⇨ 726) (3)代動詞（前出動詞の繰り返し回避） (4)一般動詞「与える」(do A good「Aのためになる」⇨ 1069)。
+      wouldの4用法: (1)過去の習慣「よく〜したものだ」 (2)過去の拒絶「どうしても〜しなかった」 (3)仮定法 (4)丁寧な依頼Would you〜?。
+      used toの4形: (1)助動詞used to do「以前は〜した」 (2)get used to doing「〜に慣れる」 (3)be used to do「〜するために使われる」(受動態) (4)be used to doing「〜に慣れている」。
+      参考書内参照: ⇨ 61, 62, 63, 64, 65, 119, 457, 726, 1069, 1353, PU!17, PU!22, Theme 46。
+
+  # === sdr-004: 特別編5+6 統合 ===
+  - id: "sdr-004"
+    name: "to不定詞/doingの用法区別"
+    category: "読解文法"
+    priority: "P1"
+    notes: |
+      特別編5+6を統合。パターンD: 用法一致問題。
+      CHECK!(不定詞): 文頭のTo do〜の後にV→名詞的用法（主語）、SV→副詞的用法。
+      CHECK!(doing): 文頭のDoing〜の後にV→動名詞（主語）、SV→分詞構文。
+      to不定詞の副詞的用法6区分: (1)目的(⇨ 91) (2)感情の原因(⇨ 94) (3)結果(live to be〜, grow up to be〜, ⇨ PU!23) (4)判断の根拠(⇨ 95) (5)条件(⇨ 183) (6)形容詞の限定(⇨ 96)。
+      doingの区別: (1)分詞構文（文頭/文中/文末） (2)動名詞（主語/目的語/前置詞の目的語/補語） (3)現在進行形 (4)現在分詞（名詞修飾/目的格補語）。
+      参考書内参照: ⇨ 85, 86, 89, 91, 94, 95, 96, 111, 112, 113, 136, 142, 143, 144, 183, 287, Theme 25, Theme 29, Theme 32, Theme 40, PU!17, PU!22, PU!23, PU!111, PU!117, PU!121。
+
+  # === sdr-005: 特別編7+8 統合 ===
+  - id: "sdr-005"
+    name: "多機能語の区別（that/It is...that~/as/whatever）"
+    category: "読解文法"
+    priority: "P1"
+    notes: |
+      特別編7+8を統合。パターンD: 用法一致問題。
+      CHECK!(that): (1)that+完全な文→接続詞 (2)that+不完全な文→関係代名詞。
+      CHECK!(It is...that~): (1)It is+副詞+that~→強調構文 (2)It is+形容詞+that~→形式主語構文 (3)It is+名詞+that+不完全→強調構文 (4)It is+名詞+that+完全→形式主語構文。
+      thatの7用法: 同格の接続詞/名詞節の接続詞/主格関係代名詞/目的格関係代名詞/代名詞that(the+名詞の代用)/指示形容詞「あの」/指示代名詞「あれ」/指示副詞「そんなに」。
+      asの4用法: 前置詞「〜として」/原因「〜なので」/譲歩「〜だけれど」/副詞「同じくらい」。
+      whateverの3用法: 副詞節「何を〜しても」/名詞節「〜するものは何でも」/no+名詞+whatever「少しも〜ない」。
+      参考書内参照: ⇨ 184, 190, 277, 303, 344, 346, 382, 383, 405, 446, 447, 725, Theme 78, Theme 105, Theme 118, PU!77, PU!87。
+
+  # === sdr-006: 特別編9 ===
+  - id: "sdr-006"
+    name: "等位接続詞or/andの区別と並列構造の把握"
+    category: "読解文法"
+    priority: "P1"
+    notes: |
+      特別編9。パターンD: 混合問題（用法一致1問 + 正誤訂正2問）。
+      CHECK!: and/orによる並列の見抜き方 — (1)直後に着目→同じ働きの語をさかのぼる (2)副詞がある場合→副詞の後に来る語に着目。
+      or: 選択/訂正・言い直し/言い換え/命令文+or。
+      参考書内参照: ⇨ 390, 394, Theme 40, PU!111。
+
+  # === sdr-007: 特別編10 ===
+  - id: "sdr-007"
+    name: "名詞・代名詞・冠詞の用法上の注意"
+    category: "読解文法"
+    priority: "P2"
+    notes: |
+      特別編10。パターンD: 正誤訂正問題。
+      注意すべきポイント:
+      - most of の後にはthe/one'sなどの限定詞が必要
+      - such + a/an + 形容詞 + 単数名詞の語順（soとは語順が異なる: so + 形容詞 + a/an + 名詞）
+      - 不可算名詞は複数形不可（homework, information, advice, furniture, luggage等）
+      - talkは自動詞→talk with [to] each other（×talk each other）
+      参考書内参照: ⇨ PU!148, Theme 151, Theme 152。
+
+understanding_goals:
+  # sdr-001
+  - node_id: "sdr-001"
+    seq: 1
+    goal: "5文型（SV/SVC/SVO/SVOO/SVOC）を英文から正しく識別できる"
+  - node_id: "sdr-001"
+    seq: 2
+    goal: "SVC（S=C）とSVO（S≠O）の違いを補語と目的語の関係から判断できる"
+  - node_id: "sdr-001"
+    seq: 3
+    goal: "SVOC（O=C）とSVOO（O≠O）の違いを判断できる"
+  - node_id: "sdr-001"
+    seq: 4
+    goal: "等位接続詞andで並列された動詞のSV一致を正しく判断できる"
+  - node_id: "sdr-001"
+    seq: 5
+    goal: "倒置文（VS語順）でも正しいSV一致を見抜ける"
+  # sdr-002
+  - node_id: "sdr-002"
+    seq: 1
+    goal: "shouldの4用法（万一の仮定/感情のshould/義務/that節内のshould）を文脈から区別できる"
+  - node_id: "sdr-002"
+    seq: 2
+    goal: "couldの4用法（過去の能力/仮定法/推量/丁寧な依頼）を文脈から区別できる"
+  - node_id: "sdr-002"
+    seq: 3
+    goal: "needの3用法（助動詞need/一般動詞need/名詞need）を後続の形から区別できる"
+  # sdr-003
+  - node_id: "sdr-003"
+    seq: 1
+    goal: "doの4用法（強調の助動詞/一般動詞「間に合う」/代動詞/一般動詞「与える」）を区別できる"
+  - node_id: "sdr-003"
+    seq: 2
+    goal: "wouldの4用法（過去の習慣/過去の拒絶/仮定法/丁寧な依頼）を区別できる"
+  - node_id: "sdr-003"
+    seq: 3
+    goal: "used toの4つの形（助動詞used to/get used to doing/be used to do受動態/be used to doing）を区別できる"
+  # sdr-004
+  - node_id: "sdr-004"
+    seq: 1
+    goal: "to不定詞の3用法（名詞的/形容詞的/副詞的）を文脈から区別できる"
+  - node_id: "sdr-004"
+    seq: 2
+    goal: "副詞的用法の下位区分（目的/感情の原因/結果/判断の根拠/条件/形容詞の限定）を区別できる"
+  - node_id: "sdr-004"
+    seq: 3
+    goal: "doingが現在分詞か動名詞かを文脈から区別できる"
+  - node_id: "sdr-004"
+    seq: 4
+    goal: "文頭のTo do/Doingの後ろの形から用法を判別できる"
+  # sdr-005
+  - node_id: "sdr-005"
+    seq: 1
+    goal: "thatの各用法（同格の接続詞/名詞節の接続詞/関係代名詞/代名詞that/指示形容詞/指示代名詞/指示副詞）を区別できる"
+  - node_id: "sdr-005"
+    seq: 2
+    goal: "that+完全な文とthat+不完全な文で接続詞thatと関係代名詞thatを区別できる"
+  - node_id: "sdr-005"
+    seq: 3
+    goal: "It is...that~が形式主語構文か強調構文かを判別できる"
+  - node_id: "sdr-005"
+    seq: 4
+    goal: "asの各用法（前置詞「〜として」/接続詞「〜なので/〜だけれど」/副詞「同じくらい」）を区別できる"
+  - node_id: "sdr-005"
+    seq: 5
+    goal: "whateverの各用法（副詞節「何を〜しても」/名詞節「〜するものは何でも」/強調「少しも〜ない」）を区別できる"
+  # sdr-006
+  - node_id: "sdr-006"
+    seq: 1
+    goal: "orの4用法（選択A or B/訂正/言い換え/命令文+or）を区別できる"
+  - node_id: "sdr-006"
+    seq: 2
+    goal: "and/orによって並列される要素を正しく見抜ける"
+  - node_id: "sdr-006"
+    seq: 3
+    goal: "並列される要素の品詞・形を一致させるルールを適用できる"
+  # sdr-007
+  - node_id: "sdr-007"
+    seq: 1
+    goal: "most of the + 複数名詞の形を正しく運用できる"
+  - node_id: "sdr-007"
+    seq: 2
+    goal: "such + a/an + 形容詞 + 単数名詞の語順を正しく理解できる"
+  - node_id: "sdr-007"
+    seq: 3
+    goal: "homework等の不可算名詞を誤って複数形にしないよう判断できる"
+  - node_id: "sdr-007"
+    seq: 4
+    goal: "自動詞（talk等）の後に前置詞が必要なケースを正しく判断できる"
+
+check_points:
+  # sdr-001
+  - node_id: "sdr-001"
+    seq: 1
+    question: "SVCとSVOの区別方法は？"
+    answer: "SVCではSとCに主述関係がある（S=C）。SVOではSとOに主述関係はない（S≠O）。"
+  - node_id: "sdr-001"
+    seq: 2
+    question: "SVOCとSVOOの区別方法は？"
+    answer: "SVOCではOとCに主述関係がある（O=C）。SVOOではOとOに主述関係はない。"
+  - node_id: "sdr-001"
+    seq: 3
+    question: "the number of + 複数名詞の動詞は単数？複数？"
+    answer: "単数。主語はthe number（数）であり、of以下は修飾語。⇔ a number of + 複数名詞は複数扱い。"
+  - node_id: "sdr-001"
+    seq: 4
+    question: "both A and Bの動詞は？"
+    answer: "複数形。bothは常に複数扱い。"
+  - node_id: "sdr-001"
+    seq: 5
+    question: "倒置文(In front of the house + V + S)でのSV一致のポイントは？"
+    answer: "動詞は後ろの主語に一致させる。前置詞句に惑わされない。"
+  # sdr-002
+  - node_id: "sdr-002"
+    seq: 1
+    question: "If + S + should do〜の意味は？"
+    answer: "「万一〜ならば」。未来の可能性の低い仮定を表す。倒置形のShould S do〜も同じ意味（⇨ 164, 180）。"
+  - node_id: "sdr-002"
+    seq: 2
+    question: "It is surprising that S should do〜のshouldは何？"
+    answer: "感情・価値判断を表す形容詞の後のthat節で用いるshould。「〜するなんて」の意味（⇨ 289）。"
+  - node_id: "sdr-002"
+    seq: 3
+    question: "助動詞needと一般動詞needの見分け方は？"
+    answer: "助動詞need: 後に原形が続き、主に否定文・疑問文で使用。一般動詞need: 後にto doが続く（⇨ 59）。"
+  - node_id: "sdr-002"
+    seq: 4
+    question: "couldの推量用法の意味は？"
+    answer: "「〜かもしれない」。may/mightと同様の可能性・推量を表す。"
+  # sdr-003
+  - node_id: "sdr-003"
+    seq: 1
+    question: "強調の助動詞doの見分け方は？"
+    answer: "doの後に動詞の原形が続き、「確かに/実際に」と肯定の意味を強調する（⇨ 457）。"
+  - node_id: "sdr-003"
+    seq: 2
+    question: "過去の習慣のwouldとused toの違いは？"
+    answer: "wouldは過去の動作の反復のみ。used toは過去の状態（There used to be〜）も表せる（⇨ 61, 63, 64）。"
+  - node_id: "sdr-003"
+    seq: 3
+    question: "be used to doing とbe used to doの違いは？"
+    answer: "be used to doing: 「〜することに慣れている」(to=前置詞)。be used to do: 「〜するために使われる」(受動態+目的の不定詞)（⇨ 65, PU!17）。"
+  # sdr-004
+  - node_id: "sdr-004"
+    seq: 1
+    question: "文頭のTo do〜の後にVがある場合とSVがある場合で用法はどう違う？"
+    answer: "V→名詞的用法（主語として機能）。SV→副詞的用法（目的「〜するために」/条件「〜するならば」）。"
+  - node_id: "sdr-004"
+    seq: 2
+    question: "文頭のDoing〜の後にVがある場合とSVがある場合で用法はどう違う？"
+    answer: "V→動名詞（主語として機能）。SV→分詞構文（「〜するので/〜する時に」など）。"
+  - node_id: "sdr-004"
+    seq: 3
+    question: "感情の原因を表す副詞的用法の見分け方は？"
+    answer: "感情を表す形容詞（surprised/happy/glad等）の後にto doが来る。「〜して（うれしい等）」の意味（⇨ 94）。"
+  - node_id: "sdr-004"
+    seq: 4
+    question: "補語のdoingと動名詞（目的語）のdoingの区別は？"
+    answer: "SVC構造の補語（Her activity is climbing = doing）vs 動詞の目的語（enjoy/give up doing）。前置詞の目的語（of doing）も動名詞。"
+  # sdr-005
+  - node_id: "sdr-005"
+    seq: 1
+    question: "接続詞thatと関係代名詞thatの区別方法は？"
+    answer: "that + 完全な文 → 接続詞that。that + 不完全な文（主語/目的語/補語が欠けた文）→ 関係代名詞that。"
+  - node_id: "sdr-005"
+    seq: 2
+    question: "It is + 副詞 + that ~ は何構文？"
+    answer: "強調構文。It is + 形容詞 + that ~ は形式主語構文。"
+  - node_id: "sdr-005"
+    seq: 3
+    question: "It is + 名詞 + that ~ の場合はどう区別？"
+    answer: "that以下が完全な文 → 形式主語構文（名詞は同格のthat節で説明される）。that以下が不完全な文 → 強調構文。"
+  - node_id: "sdr-005"
+    seq: 4
+    question: "前置詞asと接続詞asの見分け方は？"
+    answer: "直後に名詞 → 前置詞as「〜として」。直後にS+V → 接続詞as（原因/譲歩など）。"
+  - node_id: "sdr-005"
+    seq: 5
+    question: "whateverの副詞節用法と名詞節用法の区別は？"
+    answer: "whatever節の前後に完全な文がある → 副詞節「何を〜しても」。whatever節が主語/目的語の働き → 名詞節「〜するものは何でも」。"
+  # sdr-006
+  - node_id: "sdr-006"
+    seq: 1
+    question: "and/orによる並列要素の見つけ方は？"
+    answer: "and/orの直後に着目し、同じ働きをする語をさかのぼって探す。副詞が間に入る場合はその後ろの語に着目。"
+  - node_id: "sdr-006"
+    seq: 2
+    question: "orの4つの用法は？"
+    answer: "選択(A or B「AかB」)、訂正(or more precisely「いやむしろ」)、言い換え(or = すなわち)、命令文+or(「さもないと」⇨ 394)。"
+  - node_id: "sdr-006"
+    seq: 3
+    question: "並列の形の一致とは何か？"
+    answer: "and/orの前後で同じ品詞・形を並べる。例: bought and decided(過去形+過去形)、staying or going(動名詞+動名詞)。"
+  # sdr-007
+  - node_id: "sdr-007"
+    seq: 1
+    question: "most of の後に何が必要？"
+    answer: "the/one'sなどの限定詞 + 名詞。×most of students → most of the students。"
+  - node_id: "sdr-007"
+    seq: 2
+    question: "such + 可算単数名詞の語順は？"
+    answer: "such + a/an + 形容詞 + 名詞。例: such a scary story。×such scary story。"
+  - node_id: "sdr-007"
+    seq: 3
+    question: "homeworkの複数形は？"
+    answer: "不可算名詞なので複数形なし（×homeworks → homework）。同様: information, advice, furniture, luggage。"
+
+node_prerequisites: []
+
+knowledge_references:
+  - node_id: "sdr-001"
+    book: "スクランブル英文法・語法"
+    location: "特別編1-2"
+  - node_id: "sdr-002"
+    book: "スクランブル英文法・語法"
+    location: "特別編3"
+  - node_id: "sdr-003"
+    book: "スクランブル英文法・語法"
+    location: "特別編4"
+  - node_id: "sdr-004"
+    book: "スクランブル英文法・語法"
+    location: "特別編5-6"
+  - node_id: "sdr-005"
+    book: "スクランブル英文法・語法"
+    location: "特別編7-8"
+  - node_id: "sdr-006"
+    book: "スクランブル英文法・語法"
+    location: "特別編9"
+  - node_id: "sdr-007"
+    book: "スクランブル英文法・語法"
+    location: "特別編10"

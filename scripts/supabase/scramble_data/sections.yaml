@@ -937,6 +937,58 @@ sections:
     pages: ""
     type: "usage"
 
+  # Special Edition 読解・作文のための文法問題
+  - id: "Scr_S01"
+    book: "スクランブル英文法・語法"
+    title: "基本5文型"
+    pages: ""
+    type: "reading_grammar"
+  - id: "Scr_S02"
+    book: "スクランブル英文法・語法"
+    title: "SVの把握"
+    pages: ""
+    type: "reading_grammar"
+  - id: "Scr_S03"
+    book: "スクランブル英文法・語法"
+    title: "shouldの区別, couldの区別, needの区別"
+    pages: ""
+    type: "reading_grammar"
+  - id: "Scr_S04"
+    book: "スクランブル英文法・語法"
+    title: "doの区別, wouldの区別, used toの区別"
+    pages: ""
+    type: "reading_grammar"
+  - id: "Scr_S05"
+    book: "スクランブル英文法・語法"
+    title: "to不定詞の区別"
+    pages: ""
+    type: "reading_grammar"
+  - id: "Scr_S06"
+    book: "スクランブル英文法・語法"
+    title: "doingの区別"
+    pages: ""
+    type: "reading_grammar"
+  - id: "Scr_S07"
+    book: "スクランブル英文法・語法"
+    title: "多機能語thatの区別"
+    pages: ""
+    type: "reading_grammar"
+  - id: "Scr_S08"
+    book: "スクランブル英文法・語法"
+    title: "It is...that〜の区別, asの区別, whateverの区別"
+    pages: ""
+    type: "reading_grammar"
+  - id: "Scr_S09"
+    book: "スクランブル英文法・語法"
+    title: "orの区別, andの連結, orの連結"
+    pages: ""
+    type: "reading_grammar"
+  - id: "Scr_S10"
+    book: "スクランブル英文法・語法"
+    title: "名詞・代名詞・冠詞の用法"
+    pages: ""
+    type: "reading_grammar"
+
 section_knowledge_nodes:
   - section_id: "Scr_001"
     node_id: "sdv-001"
@@ -1505,6 +1557,37 @@ section_knowledge_nodes:
   - section_id: "Scr_101"
     node_id: "shs-026"
     seq: 1
+  # Special Edition
+  - section_id: "Scr_S01"
+    node_id: "sdr-001"
+    seq: 1
+  - section_id: "Scr_S02"
+    node_id: "sdr-001"
+    seq: 2
+  - section_id: "Scr_S03"
+    node_id: "sdr-002"
+    seq: 1
+  - section_id: "Scr_S04"
+    node_id: "sdr-003"
+    seq: 1
+  - section_id: "Scr_S05"
+    node_id: "sdr-004"
+    seq: 1
+  - section_id: "Scr_S06"
+    node_id: "sdr-004"
+    seq: 2
+  - section_id: "Scr_S07"
+    node_id: "sdr-005"
+    seq: 1
+  - section_id: "Scr_S08"
+    node_id: "sdr-005"
+    seq: 2
+  - section_id: "Scr_S09"
+    node_id: "sdr-006"
+    seq: 1
+  - section_id: "Scr_S10"
+    node_id: "sdr-007"
+    seq: 1
 
 section_prerequisites:
   # Ch03 助動詞
@@ -1718,3 +1801,10 @@ section_prerequisites:
     prerequisite_id: "Scr_127"
   - section_id: "Scr_129"
     prerequisite_id: "Scr_128"
+  # Special Edition
+  - section_id: "Scr_S02"
+    prerequisite_id: "Scr_S01"
+  - section_id: "Scr_S06"
+    prerequisite_id: "Scr_S05"
+  - section_id: "Scr_S08"
+    prerequisite_id: "Scr_S07"

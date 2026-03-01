@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-s06-p01"
+    section_id: "Scr_S06"
+    drill: 1
+    number: 19
+    role: "exam"
+    english: "Walking down the street, she found a beautiful flower."
+    japanese: "通りを歩いている時、彼女はきれいな花を見つけた。"
+    notes: "特別編6。用法一致問題。文頭の分詞構文（現在分詞）。Doing〜+SV→分詞構文「〜する時に」（⇨ 142）。答: ①（文末の分詞構文も現在分詞、動作の連続）（⇨ 144）。他選択肢: ②前置詞の目的語（動名詞）（⇨ 112）、③主語（動名詞）（⇨ 111）、④動詞の目的語（動名詞）（⇨ Theme 32）。"
+  - id: "scr-s06-p02"
+    section_id: "Scr_S06"
+    drill: 1
+    number: 20
+    role: "exam"
+    english: "Her favorite activity is climbing mountains."
+    japanese: "彼女のお気に入りの活動は山に登ることだ。"
+    notes: "特別編6。用法一致問題。補語としての動名詞（⇨ Theme 32）。答: ③（前置詞の目的語としての動名詞）（⇨ 112）。他選択肢: ①現在進行形（⇨ 5）、②文中の分詞構文「〜しながら」（⇨ 143, 144）、④目的格補語の現在分詞leave A doing（⇨ PU!121）。"
+  - id: "scr-s06-p03"
+    section_id: "Scr_S06"
+    drill: 1
+    number: 21
+    role: "exam"
+    english: "There is a great chance of snakes coming out around here."
+    japanese: "このあたりではヘビが出る可能性が高い。"
+    notes: "特別編6。用法一致問題。前置詞ofの目的語としての動名詞。snakesは動名詞の意味上の主語（⇨ 113）。答: ④（主語としての動名詞）（⇨ 111）。他選択肢: ①現在進行形（⇨ 5）、②目的格補語の現在分詞see A doing（⇨ PU!117）、③名詞を後方修飾する現在分詞（⇨ 136）。"
+
+sentence_structures:
+  - sentence_id: "scr-s06-p01"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "scr-s06-p01"
+    label: "details"
+    value: "[Walking down the street](M:分詞構文), <she>(S) found(V) <a beautiful flower>(O)"
+  - sentence_id: "scr-s06-p02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-s06-p02"
+    label: "details"
+    value: "<Her favorite activity>(S) is(V) <climbing mountains>(C:動名詞句)"
+  - sentence_id: "scr-s06-p03"
+    label: "overall"
+    value: "V S M"
+  - sentence_id: "scr-s06-p03"
+    label: "details"
+    value: "There is(V:存在) <a great chance of snakes coming out>(S) [around here](M:場所)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-s06-p01"
+    node_id: "sdr-004"
+  - sentence_id: "scr-s06-p02"
+    node_id: "sdr-004"
+  - sentence_id: "scr-s06-p03"
+    node_id: "sdr-004"

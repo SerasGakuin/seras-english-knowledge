@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-s07-p01"
+    section_id: "Scr_S07"
+    drill: 1
+    number: 22
+    role: "exam"
+    english: "I heard the news that she got married."
+    japanese: "私は彼女が結婚したという知らせを聞いた。"
+    notes: "特別編7。用法一致問題。同格の接続詞that。that+完全な文→接続詞。that節がthe newsの内容を説明（⇨ 405）。答: ④（the fact that...も同格）。他選択肢: ①目的格関係代名詞that（⇨ 346）、②強調構文のthat（⇨ Theme 118）、③名詞節の接続詞that（⇨ Theme 105）。"
+  - id: "scr-s07-p02"
+    section_id: "Scr_S07"
+    drill: 1
+    number: 23
+    role: "exam"
+    english: "The money used in Australia is different from that used in America."
+    japanese: "オーストラリアで使われているお金は、アメリカで使われているものと異なる。"
+    notes: "特別編7。用法一致問題。代名詞that（前出名詞the moneyの繰り返し回避）（⇨ 303）。答: ③（the populationの代用）。他選択肢: ①形式主語構文のthat（⇨ Theme 78）、②so...that〜（⇨ 446）、④指示形容詞「あの」。"
+  - id: "scr-s07-p03"
+    section_id: "Scr_S07"
+    drill: 1
+    number: 24
+    role: "exam"
+    english: "They were the first that crossed the river."
+    japanese: "彼らはその川を渡った最初の人々だ。"
+    notes: "特別編7。用法一致問題。主格関係代名詞that。that+不完全な文（主語欠如）→関係代名詞（⇨ 344）。答: ③（主格関係代名詞that）。他選択肢: ①such...that〜（⇨ 447）、②指示副詞that「そんなに」、④指示代名詞that「あれ」。"
+
+sentence_structures:
+  - sentence_id: "scr-s07-p01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-s07-p01"
+    label: "details"
+    value: "<I>(S) heard(V) <the news that she got married>(O:同格のthat節付き)"
+  - sentence_id: "scr-s07-p02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-s07-p02"
+    label: "details"
+    value: "<The money used in Australia>(S) is(V) <different from that used in America>(C)"
+  - sentence_id: "scr-s07-p03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-s07-p03"
+    label: "details"
+    value: "<They>(S) were(V) <the first that crossed the river>(C:関係代名詞節付き)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-s07-p01"
+    node_id: "sdr-005"
+  - sentence_id: "scr-s07-p02"
+    node_id: "sdr-005"
+  - sentence_id: "scr-s07-p03"
+    node_id: "sdr-005"

@@ -56,6 +56,15 @@ sentences:
     japanese: "この本は2、3の間違いを除けばとても面白い。"
     notes: "出典: 慶應大。〈発展〉4択問題。除外のexcept for「〜を除けば」。文中にall/everyなどの全体語がなくても使える。except/butは全体語が必要。PU!164: (1)全体語あり→except/but/except forいずれも可。(2)文頭や全体語なし→except forのみ。(3)前置詞・接続詞の前→exceptのみ。"
 
+  - id: "scr-182-e01"
+    section_id: "Scr_182"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "He got the job through my help."
+    japanese: "彼は私のつてでその職についた。"
+    notes: "問715解説〈選択肢〉例文。through「〜を通じて/〜によって」は仲介的な手段を表す。with（道具・手段）との違いに注意。"
+
 sentence_structures:
   - sentence_id: "scr-182-p01"
     label: "overall"
@@ -100,6 +109,13 @@ sentence_structures:
     label: "details"
     value: "<This book>(S) is(V) <very interesting>(C) [except for a few mistakes](M:除外)"
 
+  - sentence_id: "scr-182-e01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-182-e01"
+    label: "details"
+    value: "<He>(S) got(V) <the job>(O) [through my help](M:仲介手段)"
+
 sentence_knowledge_tags:
   - sentence_id: "scr-182-p01"
     node_id: "sgh-040"
@@ -114,4 +130,6 @@ sentence_knowledge_tags:
   - sentence_id: "scr-182-p06"
     node_id: "sgh-040"
   - sentence_id: "scr-182-p07"
+    node_id: "sgh-040"
+  - sentence_id: "scr-182-e01"
     node_id: "sgh-040"

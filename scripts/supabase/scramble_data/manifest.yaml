@@ -1776,10 +1776,10 @@ sections:
     pages: ""
     status: "completed"
     knowledge_nodes_created: 1
-    sentences_created: 6
+    sentences_created: 8
     gates_passed: [1, 2]
     reviewed_at: "2026-03-01"
-    notes: "sgh-035。問685-690=6exam。at/on/in時、by/until、for/during、in時の経過。PU!159記録。"
+    notes: "sgh-035。問685-690=6exam、例文2件(by vs till対比)=2example。at/on/in時、by/until、for/during、in時の経過。PU!159記録。"
   Scr_177:
     title: "注意すべき「場所」を表す前置詞"
     type: "usage"
@@ -1796,10 +1796,10 @@ sections:
     pages: ""
     status: "completed"
     knowledge_nodes_created: 1
-    sentences_created: 9
+    sentences_created: 10
     gates_passed: [1, 2]
     reviewed_at: "2026-03-01"
-    notes: "sgh-037。問698-704=7exam、例文2件。in the direction of、go doing in/at/on、within A of B、begin with、order A from B、a key to。PU!161記録。"
+    notes: "sgh-037。問698-704=7exam、例文3件(begin by doing追加)。in the direction of、go doing in/at/on、within A of B、begin with/by、order A from B、a key to。PU!161記録。"
   Scr_179:
     title: "付帯状況のwith"
     type: "usage"
@@ -1836,25 +1836,126 @@ sections:
     pages: ""
     status: "completed"
     knowledge_nodes_created: 1
-    sentences_created: 7
+    sentences_created: 8
     gates_passed: [1, 2]
     reviewed_at: "2026-03-01"
-    notes: "sgh-040。問712-718=7exam。besides/beside、on関連、with道具、for/against、by差、except for。PU!164記録。"
+    notes: "sgh-040。問712-718=7exam、例文1件(through仲介)。besides/beside、on関連、with道具、for/against、by差、except for、through仲介。PU!164記録。"
   Scr_183:
     title: "重要前置詞の用法（2）"
     type: "usage"
     pages: ""
     status: "completed"
     knowledge_nodes_created: 1
-    sentences_created: 9
+    sentences_created: 10
     gates_passed: [1, 2]
     reviewed_at: "2026-03-01"
-    notes: "sgh-041。問719-725=7exam、例文2件(unlike/as無冠詞)。for基準、over飲食、to適合、despite譲歩、like類似、in着用、as役割。"
+    notes: "sgh-041。問719-725=7exam、例文3件(unlike/as無冠詞/in着用追加)。for基準、over飲食、to適合、despite譲歩、like類似、in着用、as役割。"
+  # Special Edition（B14）
+  Scr_S01:
+    title: "基本5文型"
+    type: "reading_grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 10
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-02"
+    notes: "sdr-001(S01+S02統合)。問1-5=5exam(文型一致)、選択肢①-⑤=5example。CHECK!1(文型・品詞判断法)はnotes記録"
+  Scr_S02:
+    title: "SVの把握"
+    type: "reading_grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-02"
+    notes: "sdr-001(S01+S02統合)。問6-9=4exam(正誤訂正→訂正文登録)。主語動詞の一致4問。CHECK!2(SV一致ルール)はnotes記録"
+  Scr_S03:
+    title: "shouldの区別, couldの区別, needの区別"
+    type: "reading_grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-02"
+    notes: "sdr-002(単独)。問10-12=3exam(用法一致)。should万一の仮定・could推量・need助動詞。CHECK!3-5記録"
+  Scr_S04:
+    title: "doの区別, wouldの区別, used toの区別"
+    type: "reading_grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-02"
+    notes: "sdr-003(単独)。問13-15=3exam(用法一致)。do強調・would過去の習慣・used to過去の状態。CHECK!6-8記録"
+  Scr_S05:
+    title: "to不定詞の区別"
+    type: "reading_grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 3
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-02"
+    notes: "sdr-004(S05+S06統合)。問16-18=3exam(用法一致)。to不定詞の副詞的用法(感情原因)・名詞的用法(主語)・名詞的用法(補語)"
+  Scr_S06:
+    title: "doingの区別"
+    type: "reading_grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-02"
+    notes: "sdr-004(S05+S06統合)。問19-21=3exam(用法一致)。分詞構文・動名詞(補語)・動名詞(前置詞の目的語)"
+  Scr_S07:
+    title: "多機能語thatの区別"
+    type: "reading_grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 3
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-02"
+    notes: "sdr-005(S07+S08統合)。問22-24=3exam(用法一致)。同格接続詞・代名詞・関係代名詞"
+  Scr_S08:
+    title: "It is...that〜の区別, asの区別, whateverの区別"
+    type: "reading_grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-02"
+    notes: "sdr-005(S07+S08統合)。問25-27=3exam(用法一致)。形式主語構文・前置詞as・副詞節whatever"
+  Scr_S09:
+    title: "orの区別, andの連結, orの連結"
+    type: "reading_grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-02"
+    notes: "sdr-006(単独)。問28-30=3exam(用法一致+正誤訂正混合)。選択or・and並列・or並列(動名詞形一致)"
+  Scr_S10:
+    title: "名詞・代名詞・冠詞の用法"
+    type: "reading_grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2]
+    reviewed_at: "2026-03-02"
+    notes: "sdr-007(単独)。問31-34=4exam(正誤訂正→訂正文登録)。most of the+N, such a+adj+N, 不可算名詞homework, talk with each other"
 
 summary:
-  total_sections: 183
-  completed: 183
+  total_sections: 193
+  completed: 193
   in_progress: 0
   not_started: 0
-  total_knowledge_nodes: 131
-  total_sentences: 910
+  total_knowledge_nodes: 138
+  total_sentences: 954

@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-s03-p01"
+    section_id: "Scr_S03"
+    drill: 1
+    number: 10
+    role: "exam"
+    english: "If we should miss the train, we'll take the next one."
+    japanese: "万一その電車に乗り遅れたら、次の電車に乗ろう。"
+    notes: "特別編3。用法一致問題。shouldの「万一〜ならば」用法。If + S + should do〜。答: ③（倒置形Should you need any help, ...も同じ用法）（⇨ 164, 180）。他選択肢: ①感情のshould（⇨ 289）、②義務「〜すべきだ」、④提案・要求のthat節内should（⇨ 572, Theme 145）。"
+  - id: "scr-s03-p02"
+    section_id: "Scr_S03"
+    drill: 1
+    number: 11
+    role: "exam"
+    english: "That swallow is flying low, so it could rain soon."
+    japanese: "あのツバメは低いところを飛んでいるから、間もなく雨が降るかもしれないね。"
+    notes: "特別編3。用法一致問題。couldの推量「〜かもしれない」用法。答: ③（The tuxedo cat could be asleep...も推量）。他選択肢: ①過去の能力、②仮定法（⇨ Theme 46）、④丁寧な依頼Could you〜?（⇨ 1335）。"
+  - id: "scr-s03-p03"
+    section_id: "Scr_S03"
+    drill: 1
+    number: 12
+    role: "exam"
+    english: "You need not worry about the cost."
+    japanese: "コストについて心配する必要はありません。"
+    notes: "特別編3。用法一致問題。助動詞need（後に原形/否定文・疑問文で使用）。答: ③（Need we wait for him? 助動詞needの疑問文）（⇨ 59）。他選択肢: ①名詞need、②一般動詞need to do、④一般動詞need doing「〜される必要がある」（⇨ 508）。"
+
+sentence_structures:
+  - sentence_id: "scr-s03-p01"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "scr-s03-p01"
+    label: "details"
+    value: "[If we should miss the train](M:条件), <we>(S) 'll take(V) <the next one>(O)"
+  - sentence_id: "scr-s03-p02"
+    label: "overall"
+    value: "S V M, so S V M"
+  - sentence_id: "scr-s03-p02"
+    label: "details"
+    value: "<That swallow>(S) is flying(V:現在進行形) [low](M), so <it>(S:非人称) could rain(V:推量) [soon](M)"
+  - sentence_id: "scr-s03-p03"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-s03-p03"
+    label: "details"
+    value: "<You>(S) need not worry(V:助動詞need+原形) [about the cost](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-s03-p01"
+    node_id: "sdr-002"
+  - sentence_id: "scr-s03-p02"
+    node_id: "sdr-002"
+  - sentence_id: "scr-s03-p03"
+    node_id: "sdr-002"

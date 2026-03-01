@@ -48,6 +48,23 @@ sentences:
     japanese: "2週間でそのレポートを完成してください。"
     notes: "出典: 名古屋学院大。〈頻出〉4択問題。in「今から〜で/の後に」は時の経過。inは未来に、afterは過去に用いることが多い。within「〜以内に」で強調。"
 
+  - id: "scr-176-e01"
+    section_id: "Scr_176"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "I'll be here by five o'clock."
+    japanese: "5時までにはここに来ています。"
+    notes: "問687解説対比例文。by「〜までに（は）」は動作の完了の期限を表す。tillとの対比で理解する。"
+  - id: "scr-176-e02"
+    section_id: "Scr_176"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "I'll be here till five o'clock."
+    japanese: "5時までずっとここにいます。"
+    notes: "問687解説対比例文。till「〜まで（ずっと）」は継続の終了時を表す。byとの対比で理解する。"
+
 sentence_structures:
   - sentence_id: "scr-176-p01"
     label: "overall"
@@ -86,6 +103,19 @@ sentence_structures:
     label: "details"
     value: "Please finish(V:命令文) <that report>(O) [in two weeks](M:時の経過)"
 
+  - sentence_id: "scr-176-e01"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-176-e01"
+    label: "details"
+    value: "<I>(S) 'll be(V) [here](M:場所) [by five o'clock](M:期限)"
+  - sentence_id: "scr-176-e02"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-176-e02"
+    label: "details"
+    value: "<I>(S) 'll be(V) [here](M:場所) [till five o'clock](M:継続終了)"
+
 sentence_knowledge_tags:
   - sentence_id: "scr-176-p01"
     node_id: "sgh-035"
@@ -98,4 +128,8 @@ sentence_knowledge_tags:
   - sentence_id: "scr-176-p05"
     node_id: "sgh-035"
   - sentence_id: "scr-176-p06"
+    node_id: "sgh-035"
+  - sentence_id: "scr-176-e01"
+    node_id: "sgh-035"
+  - sentence_id: "scr-176-e02"
     node_id: "sgh-035"

@@ -2,52 +2,41 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T22:30:00"
+updated_at: "2026-03-02T01:00:00"
 book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 2 — B13完了、Part 2完了マイルストーン"
+  phase: "Phase 2 — B14完了、設計書Phase 1完了マイルストーン"
   current_section: null
   current_step: null
-  last_completed_section: "Scr_183"
+  last_completed_section: "Scr_S10"
   last_completed_gate: 2
 
 progress:
   total_sections: 271
-  completed: 183
+  completed: 193
   in_progress: 0
-  remaining: 88
-  total_nodes: 131
-  total_sentences: 910
+  remaining: 78
+  total_nodes: 138
+  total_sentences: 954
 
-b13_results:
-  ch18_sections: ["Scr_169", "Scr_170", "Scr_171", "Scr_172", "Scr_173", "Scr_174", "Scr_175"]
-  ch18_nodes: ["sgh-031", "sgh-032", "sgh-033", "sgh-034"]
-  ch18_sentences: 25
-  ch18_merges:
-    - "Theme 169+170 → sgh-031（-lyの有無と名詞と間違えやすい副詞）"
-    - "Theme 171+172 → sgh-032（接続詞の働きをする副詞と文修飾の副詞）"
-    - "Theme 173+174 → sgh-033（already/yet/stillとago/before）"
-  ch18_notes:
-    - "sgh-031: 問661-666は書き起こしに問題文なし→例文3件のみ登録"
-  ch19_sections: ["Scr_176", "Scr_177", "Scr_178", "Scr_179", "Scr_180", "Scr_181", "Scr_182", "Scr_183"]
-  ch19_nodes: ["sgh-035", "sgh-036", "sgh-037", "sgh-038", "sgh-039", "sgh-040", "sgh-041"]
-  ch19_sentences: 48
-  ch19_merges:
-    - "Theme 180+181 → sgh-039（to one's+感情名詞とof/with+抽象名詞）"
+b14_results:
+  special_sections: ["Scr_S01", "Scr_S02", "Scr_S03", "Scr_S04", "Scr_S05", "Scr_S06", "Scr_S07", "Scr_S08", "Scr_S09", "Scr_S10"]
+  special_nodes: ["sdr-001", "sdr-002", "sdr-003", "sdr-004", "sdr-005", "sdr-006", "sdr-007"]
+  special_sentences: 39
+  special_merges:
+    - "S01+S02 → sdr-001（文構造の識別: 基本5文型+SVの把握）"
+    - "S05+S06 → sdr-004（準動詞の区別: to不定詞+doing）"
+    - "S07+S08 → sdr-005（多機能語の区別: that+It is...that~/as/whatever）"
+  ch19_gate4_fixes:
+    - "scr_176: +2 example (by vs till)"
+    - "scr_178: +1 example (begin by doing)"
+    - "scr_182: +1 example (through仲介)"
+    - "scr_183: +1 example (in着用)"
   metrics:
-    ch18_node_section_ratio: 0.571
-    ch19_node_section_ratio: 0.875
-    b13_node_section_ratio: 0.733
-
-b12_results:
-  ch16_sections: ["Scr_151", "Scr_152", "Scr_153", "Scr_154", "Scr_155", "Scr_156", "Scr_157", "Scr_158", "Scr_159", "Scr_160", "Scr_161"]
-  ch16_nodes: ["sgh-019", "sgh-020", "sgh-021", "sgh-022", "sgh-023", "sgh-024", "sgh-025"]
-  ch16_sentences: 45
-  ch17_sections: ["Scr_162", "Scr_163", "Scr_164", "Scr_165", "Scr_166", "Scr_167", "Scr_168"]
-  ch17_nodes: ["sgh-026", "sgh-027", "sgh-028", "sgh-029", "sgh-030"]
-  ch17_sentences: 31
+    special_node_section_ratio: 0.7
+    overall_node_section_ratio: 0.715
 
 recent_decisions:
   - "decision #1: PU!1の12時制表はsentences登録しない（スケルトン）"
@@ -61,10 +50,11 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
-  - "Gate 3-4 レビュー: Ch18+Ch19 まとめてエージェント実施"
-  - "Part 2 完了マイルストーン: 大規模レビュー"
-  - "B14: Special Edition (Scr_S01-S10) → ノードID sdr-001〜"
-  - "原本: Special_読解作文のための文法問題.md を読む"
+  - "Gate 3-4 レビュー: Special Edition まとめてエージェント実施"
+  - "設計書Phase 1完了マイルストーン: Part 1 + Part 2 + Special 全完了確認"
+  - "B15: Ch20 意外な意味を持つ単語 (Scr_184-190) + Ch21 重要同意語 (Scr_191-199)"
+  - "原本: Part3_Ch20_意外な意味を持つ単語.md, Part3_Ch21_重要同意語.md"
+  - "ノードID範囲: sgi-001〜"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

@@ -72,6 +72,15 @@ sentences:
     japanese: "彼は議長を務めた。"
     notes: "問725解説プラスα例文。役割・機能のas「〜として」。1人しかいない役職名はふつう無冠詞（×a chairman）。"
 
+  - id: "scr-183-e03"
+    section_id: "Scr_183"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "The woman in the red dress is Ms. Smith."
+    japanese: "赤いドレスを着ている女性はスミスさんです。"
+    notes: "問724解説cf.例文。着用のin「〜を身につけて/〜を着て」。in+服装/色を表す語。"
+
 sentence_structures:
   - sentence_id: "scr-183-p01"
     label: "overall"
@@ -128,6 +137,13 @@ sentence_structures:
     label: "details"
     value: "<He>(S) acted(V) [as chairman](M:役割)"
 
+  - sentence_id: "scr-183-e03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-183-e03"
+    label: "details"
+    value: "<The woman in the red dress>(S) is(V) <Ms. Smith>(C)"
+
 sentence_knowledge_tags:
   - sentence_id: "scr-183-p01"
     node_id: "sgh-041"
@@ -146,4 +162,6 @@ sentence_knowledge_tags:
   - sentence_id: "scr-183-e01"
     node_id: "sgh-041"
   - sentence_id: "scr-183-e02"
+    node_id: "sgh-041"
+  - sentence_id: "scr-183-e03"
     node_id: "sgh-041"

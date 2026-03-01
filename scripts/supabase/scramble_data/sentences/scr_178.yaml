@@ -72,6 +72,15 @@ sentences:
     japanese: "私たちは、私の両親の家から歩いて10分以内のところに住んでいます。"
     notes: "問701解説例文。within A of B「B（場所）からA（距離・時間）以内に」の用法を示す。"
 
+  - id: "scr-178-e03"
+    section_id: "Scr_178"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "I'll begin by introducing myself."
+    japanese: "まず自己紹介から始めましょう。"
+    notes: "問702解説〈比較〉例文。begin by doing「〜することから始める/まず〜する」。begin with〜「〜から始める」との違いに注意。"
+
 sentence_structures:
   - sentence_id: "scr-178-p01"
     label: "overall"
@@ -128,6 +137,13 @@ sentence_structures:
     label: "details"
     value: "<We>(S) live(V) [within ten minutes' walk of my parents' house](M:場所)"
 
+  - sentence_id: "scr-178-e03"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-178-e03"
+    label: "details"
+    value: "<I>(S) 'll begin(V) [by introducing myself](M:手段)"
+
 sentence_knowledge_tags:
   - sentence_id: "scr-178-p01"
     node_id: "sgh-037"
@@ -146,4 +162,6 @@ sentence_knowledge_tags:
   - sentence_id: "scr-178-e01"
     node_id: "sgh-037"
   - sentence_id: "scr-178-e02"
+    node_id: "sgh-037"
+  - sentence_id: "scr-178-e03"
     node_id: "sgh-037"

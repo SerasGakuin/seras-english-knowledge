@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-s04-p01"
+    section_id: "Scr_S04"
+    drill: 1
+    number: 13
+    role: "exam"
+    english: "Everyone thinks I'm joking, but I do mean it."
+    japanese: "みんな私が冗談を言っていると思っているが、実際に本気で言っている。"
+    notes: "特別編4。用法一致問題。強調の助動詞do（do+原形で「確かに/実際に」と肯定を強調）。答: ④（I do believe...も強調のdo）（⇨ 457）。他選択肢: ①一般動詞do「間に合う」（⇨ 726）、②代動詞do、③一般動詞do A good「Aのためになる」（⇨ 1069）。"
+  - id: "scr-s04-p02"
+    section_id: "Scr_S04"
+    drill: 1
+    number: 14
+    role: "exam"
+    english: "My grandmother would often tell us stories about her childhood."
+    japanese: "祖母はよく、私たちに自分の子どものころの話をしてくれた。"
+    notes: "特別編4。用法一致問題。過去の習慣のwould「（よく）〜したものだ」。答: ③（When we were kids, we would play...も過去の習慣）（⇨ 61）。他選択肢: ①過去の拒絶would not do（⇨ 62）、②仮定法（⇨ Theme 46）、④依頼Would you〜?（⇨ 1353）。"
+  - id: "scr-s04-p03"
+    section_id: "Scr_S04"
+    drill: 1
+    number: 15
+    role: "exam"
+    english: "He used to go fishing in the river, but now he doesn't."
+    japanese: "彼はかつて川へ釣りに行ったが、今は行かない。"
+    notes: "特別編4。用法一致問題。助動詞used to do「以前はよく〜した」（現在との対比）。答: ②（There used to be...も助動詞used to=過去の状態）（⇨ 63, 64）。他選択肢: ①get used to doing「〜に慣れる」（⇨ 65, 119）、③be used to do「〜するために使われる」（受動態+不定詞）（⇨ PU!17）、④be used to doing「〜に慣れている」（⇨ 65）。"
+
+sentence_structures:
+  - sentence_id: "scr-s04-p01"
+    label: "overall"
+    value: "S V S V, but S V O"
+  - sentence_id: "scr-s04-p01"
+    label: "details"
+    value: "<Everyone>(S) thinks(V) <I>(S) 'm joking(V), but <I>(S) do mean(V:強調のdo) <it>(O)"
+  - sentence_id: "scr-s04-p02"
+    label: "overall"
+    value: "S V O O M"
+  - sentence_id: "scr-s04-p02"
+    label: "details"
+    value: "<My grandmother>(S) would often tell(V:過去の習慣) <us>(O1) <stories about her childhood>(O2)"
+  - sentence_id: "scr-s04-p03"
+    label: "overall"
+    value: "S V M, but M S V"
+  - sentence_id: "scr-s04-p03"
+    label: "details"
+    value: "<He>(S) used to go fishing(V:過去の習慣) [in the river](M), but [now](M) <he>(S) doesn't(V)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-s04-p01"
+    node_id: "sdr-003"
+  - sentence_id: "scr-s04-p02"
+    node_id: "sdr-003"
+  - sentence_id: "scr-s04-p03"
+    node_id: "sdr-003"

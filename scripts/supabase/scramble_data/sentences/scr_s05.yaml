@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-s05-p01"
+    section_id: "Scr_S05"
+    drill: 1
+    number: 16
+    role: "exam"
+    english: "He was surprised to hear the news."
+    japanese: "彼はその知らせを聞いて驚いた。"
+    notes: "特別編5。用法一致問題。不定詞の副詞的用法「感情の原因」。was surprisedという感情表現の後のto do（⇨ 94）。答: ①（I was happy to meet...も感情の原因）。他選択肢: ②形容詞的用法（⇨ 89）、③副詞的用法「目的」（⇨ 91）、④副詞的用法「結果」live to be〜（⇨ PU!23）。"
+  - id: "scr-s05-p02"
+    section_id: "Scr_S05"
+    drill: 1
+    number: 17
+    role: "exam"
+    english: "To see is to believe."
+    japanese: "見ることは信じることだ。（百聞は一見に如かず）"
+    notes: "特別編5。用法一致問題。不定詞の名詞的用法「主語」。To do〜+V→名詞的用法（⇨ 85）。答: ①（形式主語It構文も名詞的用法=主語）（⇨ 287）。他選択肢: ②副詞的用法「目的」（⇨ 91）、③副詞的用法「形容詞の限定」（⇨ 96）、④副詞的用法「判断の根拠」（⇨ 95）。"
+  - id: "scr-s05-p03"
+    section_id: "Scr_S05"
+    drill: 1
+    number: 18
+    role: "exam"
+    english: "Her dream is to be a doctor."
+    japanese: "彼女の夢は医者になることだ。"
+    notes: "特別編5。用法一致問題。不定詞の名詞的用法「補語」（⇨ 86）。答: ④（Her job is to solve...も補語）。他選択肢: ①副詞的用法「結果」grow up to be〜（⇨ PU!23）、②副詞的用法「条件」（⇨ 183）、③be+to doの「可能」用法（⇨ Theme 29）。"
+
+sentence_structures:
+  - sentence_id: "scr-s05-p01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-s05-p01"
+    label: "details"
+    value: "<He>(S) was(V) <surprised to hear the news>(C:感情の原因)"
+  - sentence_id: "scr-s05-p02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-s05-p02"
+    label: "details"
+    value: "<To see>(S:名詞的用法) is(V) <to believe>(C:名詞的用法)"
+  - sentence_id: "scr-s05-p03"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-s05-p03"
+    label: "details"
+    value: "<Her dream>(S) is(V) <to be a doctor>(C:名詞的用法)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-s05-p01"
+    node_id: "sdr-004"
+  - sentence_id: "scr-s05-p02"
+    node_id: "sdr-004"
+  - sentence_id: "scr-s05-p03"
+    node_id: "sdr-004"

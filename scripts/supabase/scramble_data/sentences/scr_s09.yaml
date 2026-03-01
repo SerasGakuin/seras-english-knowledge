@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-s09-p01"
+    section_id: "Scr_S09"
+    drill: 1
+    number: 28
+    role: "exam"
+    english: "Answer \"yes\" or \"no\" to my questions."
+    japanese: "私の質問に「はい」か「いいえ」で答えてください。"
+    notes: "特別編9。用法一致問題。A or B「AかBか/AまたはB」の選択。答: ③（coffee or tea も選択のor）。他選択肢: ①訂正・言い直しのor「いや、むしろ」、②言い換えのor「つまり/すなわち」、④命令文+or「さもないと」（⇨ 394）。"
+  - id: "scr-s09-p02"
+    section_id: "Scr_S09"
+    drill: 1
+    number: 29
+    role: "exam"
+    english: "She bought apples and oranges at the market, and then decided to get some grapes or peaches depending on which looked fresher today."
+    japanese: "彼女は市場でリンゴとオレンジを買い、それから今日どちらが新鮮に見えるかによってブドウかモモを買うことに決めた。"
+    notes: "特別編9。正誤訂正問題（② deciding → decided）。2つ目のandでboughtとdecidedを並列。1つ目のandでapplesとorangesを並列。orでgrapesとpeachesを並列（⇨ 390）。"
+  - id: "scr-s09-p03"
+    section_id: "Scr_S09"
+    drill: 1
+    number: 30
+    role: "exam"
+    english: "Feeling tired yesterday, she thought about staying home, or going for a short walk if the rain stopped."
+    japanese: "昨日は疲れていたので、彼女は家にいるか、雨がやんだら少し散歩に行くことを考えた。"
+    notes: "特別編9。正誤訂正問題（③ go → going）。orでstayingとgoingを並列（動名詞の形の一致が必要）。Feeling tired yesterdayは文頭の分詞構文（⇨ Theme 40）。"
+
+sentence_structures:
+  - sentence_id: "scr-s09-p01"
+    label: "overall"
+    value: "V O M"
+  - sentence_id: "scr-s09-p01"
+    label: "details"
+    value: "Answer(V:命令文) <\"yes\" or \"no\">(O) [to my questions](M)"
+  - sentence_id: "scr-s09-p02"
+    label: "overall"
+    value: "S V O M, and V O M"
+  - sentence_id: "scr-s09-p02"
+    label: "details"
+    value: "<She>(S) bought(V) <apples and oranges>(O) [at the market](M), and then decided(V) <to get some grapes or peaches>(O) [depending on which looked fresher today](M)"
+  - sentence_id: "scr-s09-p03"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "scr-s09-p03"
+    label: "details"
+    value: "[Feeling tired yesterday](M:分詞構文), <she>(S) thought(V) [about staying home, or going for a short walk if the rain stopped](M:前置詞+動名詞)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-s09-p01"
+    node_id: "sdr-006"
+  - sentence_id: "scr-s09-p02"
+    node_id: "sdr-006"
+  - sentence_id: "scr-s09-p03"
+    node_id: "sdr-006"

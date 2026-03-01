@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-s10-p01"
+    section_id: "Scr_S10"
+    drill: 1
+    number: 31
+    role: "exam"
+    english: "Most of the animals at the zoo were sleeping in the shade, because it was a hot and sunny day."
+    japanese: "暑く晴れた日だったので、動物園の動物のほとんどが日陰で眠っていた。"
+    notes: "特別編10。正誤訂正問題（① animals → the animals）。most of the + 複数名詞「〜のほとんど」。most ofの後にはthe/所有格などの限定詞が必要（⇨ PU!148）。itは天候・気温の非人称it。"
+  - id: "scr-s10-p02"
+    section_id: "Scr_S10"
+    drill: 1
+    number: 32
+    role: "exam"
+    english: "She told us such a scary story about a dark forest that we couldn't sleep well that night and kept the light on."
+    japanese: "彼女が私たちに暗い森についてのとても怖い話をしたので、私たちはその晩よく眠れず、明かりをつけたままにした。"
+    notes: "特別編10。正誤訂正問題（① such scary story → such a scary story）。such + a/an + 形容詞 + 単数名詞の語順。×such scary story。cf. so + 形容詞 + a/an + 名詞（語順が異なる）。such...that〜「とても…なので〜」。keep the light on「明かりをつけたままにする」。"
+  - id: "scr-s10-p03"
+    section_id: "Scr_S10"
+    drill: 1
+    number: 33
+    role: "exam"
+    english: "Before his favorite show started, he tried hard to finish his homework for two hours without a break."
+    japanese: "お気に入りの番組が始まる前に、彼は休まずに2時間、宿題を終わらせようと頑張った。"
+    notes: "特別編10。正誤訂正問題（② homeworks → homework）。homeworkは不可算名詞なので複数形にできない（⇨ Theme 151）。同様の不可算名詞: information, advice, furniture, luggage。"
+  - id: "scr-s10-p04"
+    section_id: "Scr_S10"
+    drill: 1
+    number: 34
+    role: "exam"
+    english: "Trying not to disturb others, the two girls talked with each other in low voices at the back of the room."
+    japanese: "他の人たちの邪魔にならないよう、2人の少女は部屋の奥で小声で話し合った。"
+    notes: "特別編10。正誤訂正問題（② each other → with [to] each other）。talkは自動詞なのでtalk with [to] each otherが正しい（⇨ Theme 152）。Trying not to disturbは文頭の分詞構文。"
+
+sentence_structures:
+  - sentence_id: "scr-s10-p01"
+    label: "overall"
+    value: "S V M, M"
+  - sentence_id: "scr-s10-p01"
+    label: "details"
+    value: "<Most of the animals at the zoo>(S) were sleeping(V:過去進行形) [in the shade](M:場所), because <it>(S:非人称) was(V) <a hot and sunny day>(C)"
+  - sentence_id: "scr-s10-p02"
+    label: "overall"
+    value: "S V O O M"
+  - sentence_id: "scr-s10-p02"
+    label: "details"
+    value: "<She>(S) told(V) <us>(O1) <such a scary story about a dark forest>(O2) [that we couldn't sleep well that night and kept the light on](M:結果のthat節)"
+  - sentence_id: "scr-s10-p03"
+    label: "overall"
+    value: "M S V O M"
+  - sentence_id: "scr-s10-p03"
+    label: "details"
+    value: "[Before his favorite show started](M:時), <he>(S) tried hard(V) <to finish his homework>(O:不定詞句) [for two hours without a break](M:期間)"
+  - sentence_id: "scr-s10-p04"
+    label: "overall"
+    value: "M S V M M"
+  - sentence_id: "scr-s10-p04"
+    label: "details"
+    value: "[Trying not to disturb others](M:分詞構文), <the two girls>(S) talked(V) [with each other](M) [in low voices](M:様態) [at the back of the room](M:場所)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-s10-p01"
+    node_id: "sdr-007"
+  - sentence_id: "scr-s10-p02"
+    node_id: "sdr-007"
+  - sentence_id: "scr-s10-p03"
+    node_id: "sdr-007"
+  - sentence_id: "scr-s10-p04"
+    node_id: "sdr-007"
