@@ -1,0 +1,87 @@
+# Nar_06_15: 不定詞を用いた重要表現(2) — be to不定詞・疑問詞+to V・独立不定詞 (p.228-230)
+
+sentences:
+  - id: "nar-0615-e344"
+    section_id: "Nar_06_15"
+    drill: 0
+    number: 344
+    role: "example"
+    english: "They are to get married in June."
+    japanese: "彼らは6月に結婚する予定だ"
+    notes: "be to不定詞。「主語がこれからVする状況にある」が基本。第三者の存在を感じさせる（政略結婚のイメージ）"
+  - id: "nar-0615-e345"
+    section_id: "Nar_06_15"
+    drill: 0
+    number: 345
+    role: "example"
+    english: "You are to obey the rules."
+    japanese: "規則には従わなくてはならない"
+    notes: "be to不定詞。第三者（国・自治体等）によって決められた規則。主語以外の存在が感じられる"
+  - id: "nar-0615-e346"
+    section_id: "Nar_06_15"
+    drill: 0
+    number: 346
+    role: "example"
+    english: "They are getting married in June."
+    japanese: "彼らは6月に結婚する予定だ"
+    notes: "e344との対比。自分たちの意志で決めた予定なら現在進行形を使う。be to不定詞は英作文で使用を避けるべき"
+  - id: "nar-0615-e347"
+    section_id: "Nar_06_15"
+    drill: 0
+    number: 347
+    role: "example"
+    english: "I don't know how to use this digital camera."
+    japanese: "このデジカメをどのように使用するかはわからない"
+    notes: "疑問詞+to V。名詞のカタマリとして目的語(O)に使用。why to Vだけは通例不可"
+  - id: "nar-0615-e348"
+    section_id: "Nar_06_15"
+    drill: 0
+    number: 348
+    role: "example"
+    english: "Needless to say, they were delighted."
+    japanese: "言うまでもなく、彼らは喜んだ"
+    notes: "独立不定詞。文全体を修飾する定型表現。別冊ポイント137参照（独立不定詞リスト）"
+
+sentence_structures:
+  - sentence_id: "nar-0615-e344"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0615-e344"
+    label: "details"
+    value: "<They>(S) are(V) <to get married>(C:be to不定詞/これからVする状況) [in June](M)"
+  - sentence_id: "nar-0615-e345"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0615-e345"
+    label: "details"
+    value: "<You>(S) are(V) <to obey the rules>(C:be to不定詞/第三者による義務)"
+  - sentence_id: "nar-0615-e346"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0615-e346"
+    label: "details"
+    value: "<They>(S) are getting married(V:現在進行形/自分の意志による予定) [in June](M)"
+  - sentence_id: "nar-0615-e347"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0615-e347"
+    label: "details"
+    value: "<I>(S) don't know(V) <how to use this digital camera>(O:疑問詞+to V/名詞のカタマリ)"
+  - sentence_id: "nar-0615-e348"
+    label: "overall"
+    value: "M S V C"
+  - sentence_id: "nar-0615-e348"
+    label: "details"
+    value: "[Needless to say](M:独立不定詞/文全体を修飾) <they>(S) were(V) <delighted>(C)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0615-e344"
+    node_id: "nrj-015"
+  - sentence_id: "nar-0615-e345"
+    node_id: "nrj-015"
+  - sentence_id: "nar-0615-e346"
+    node_id: "nrj-015"
+  - sentence_id: "nar-0615-e347"
+    node_id: "nrj-015"
+  - sentence_id: "nar-0615-e348"
+    node_id: "nrj-015"

@@ -1,0 +1,103 @@
+# Nar_06_16: 動名詞を用いた重要表現 (p.231-234)
+
+sentences:
+  - id: "nar-0616-e349"
+    section_id: "Nar_06_16"
+    drill: 0
+    number: 349
+    role: "example"
+    english: "I'm looking forward to seeing my family again."
+    japanese: "私は、家族に再会できるのを楽しみにしている"
+    notes: "to+Ving表現。look forward to Aのtoは前置詞。Vingは「実際にやっているところを想像」のイメージ"
+  - id: "nar-0616-e350"
+    section_id: "Nar_06_16"
+    drill: 0
+    number: 350
+    role: "example"
+    english: "When it comes to playing the guitar, he is next to none."
+    japanese: "ギターを弾くことにかけては彼の右に出る者はいない"
+    notes: "to+Ving表現。when it comes to Aのtoは前置詞。実際に弾いていることを前提"
+  - id: "nar-0616-e351"
+    section_id: "Nar_06_16"
+    drill: 0
+    number: 351
+    role: "example"
+    english: "The building needs to be painted."
+    japanese: "その建物は塗装される必要がある"
+    notes: "need+to V（不定詞）の通常形。e353のneed+Vingと対比"
+  - id: "nar-0616-e352"
+    section_id: "Nar_06_16"
+    drill: 0
+    number: 352
+    role: "example"
+    english: "The building needs a clean."
+    japanese: "その建物は清掃される必要がある"
+    notes: "need+名詞の形。need+Ving(e353)がこの形の延長線上にあることを理解するための前段"
+  - id: "nar-0616-e353"
+    section_id: "Nar_06_16"
+    drill: 0
+    number: 353
+    role: "example"
+    english: "The building needs painting."
+    japanese: "その建物は塗装される必要がある"
+    notes: "need+Ving。「Vすることを必要としている」→「Vされる必要がある」と意訳。タフ構文と同じ2条件（名詞欠落+文全体のSと一致）"
+  - id: "nar-0616-e354"
+    section_id: "Nar_06_16"
+    drill: 0
+    number: 354
+    role: "example"
+    english: "He manages to get around with the help of a walking stick."
+    japanese: "彼はつえの助けを借りてどうにか歩いている"
+    notes: "用途・目的の動名詞。walking stick = 歩くための棒（つえ）。現在分詞(a sleeping cat)との混同に注意"
+
+sentence_structures:
+  - sentence_id: "nar-0616-e349"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0616-e349"
+    label: "details"
+    value: "<I>(S) am looking forward(V) [to seeing my family again](M:前置詞to+動名詞/to+Ving表現)"
+  - sentence_id: "nar-0616-e350"
+    label: "overall"
+    value: "M S V C"
+  - sentence_id: "nar-0616-e350"
+    label: "details"
+    value: "[When it comes to playing the guitar](M:to+Ving表現/前置詞to) <he>(S) is(V) <next to none>(C)"
+  - sentence_id: "nar-0616-e351"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0616-e351"
+    label: "details"
+    value: "<The building>(S) needs(V) <to be painted>(O:不定詞名詞用法/受動)"
+  - sentence_id: "nar-0616-e352"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0616-e352"
+    label: "details"
+    value: "<The building>(S) needs(V) <a clean>(O:名詞)"
+  - sentence_id: "nar-0616-e353"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0616-e353"
+    label: "details"
+    value: "<The building>(S) needs(V) <painting>(O:動名詞/need+Ving/名詞欠落=S)"
+  - sentence_id: "nar-0616-e354"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0616-e354"
+    label: "details"
+    value: "<He>(S) manages to get around(V) [with the help of a walking stick](M:用途の動名詞walking=歩くための)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0616-e349"
+    node_id: "nrj-016"
+  - sentence_id: "nar-0616-e350"
+    node_id: "nrj-016"
+  - sentence_id: "nar-0616-e351"
+    node_id: "nrj-016"
+  - sentence_id: "nar-0616-e352"
+    node_id: "nrj-016"
+  - sentence_id: "nar-0616-e353"
+    node_id: "nrj-016"
+  - sentence_id: "nar-0616-e354"
+    node_id: "nrj-016"

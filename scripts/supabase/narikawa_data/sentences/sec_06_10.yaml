@@ -1,0 +1,103 @@
+# Nar_06_10: 準動詞の意味上の主語(1) — 不定詞を中心に (p.210-212)
+
+sentences:
+  - id: "nar-0610-e316"
+    section_id: "Nar_06_10"
+    drill: 0
+    number: 316
+    role: "example"
+    english: "He was surprised to hear the news."
+    japanese: "彼はそのニュースを聞いて驚いた"
+    notes: "不定詞の意味上の主語を置かない場合❶: 文全体の主語Heがto hearの意味上の主語"
+  - id: "nar-0610-e317"
+    section_id: "Nar_06_10"
+    drill: 0
+    number: 317
+    role: "example"
+    english: "To master French isn't easy."
+    japanese: "フランス語を習得するのは簡単ではない"
+    notes: "不定詞の意味上の主語を置かない場合❷: 不定詞自体がSで文全体のSと共通不可→一般の人々が意味上のS"
+  - id: "nar-0610-e318"
+    section_id: "Nar_06_10"
+    drill: 0
+    number: 318
+    role: "example"
+    english: "It isn't easy for me to master French."
+    japanese: "私がフランス語を習得するのは簡単ではない"
+    notes: "不定詞の意味上の主語を置く場合❶: for A to Vの形。文全体のSと異なる場合に使用"
+  - id: "nar-0610-e319"
+    section_id: "Nar_06_10"
+    drill: 0
+    number: 319
+    role: "example"
+    english: "This box is too heavy for a child to move."
+    japanese: "この箱は重過ぎて子どもが動かすことはできない"
+    notes: "too〜to V構文でもfor Aの原則は変わらない"
+  - id: "nar-0610-e320"
+    section_id: "Nar_06_10"
+    drill: 0
+    number: 320
+    role: "example"
+    english: "This is the first woman to go to the moon."
+    japanese: "こちらは月に行く最初の女性です"
+    notes: "意味上の主語を置く場合❷: 形容詞用法の被修飾名詞womanがto goの意味上のS（womanが月に行く）"
+  - id: "nar-0610-e321"
+    section_id: "Nar_06_10"
+    drill: 0
+    number: 321
+    role: "example"
+    english: "I want you to go to the post office."
+    japanese: "私はあなたに郵便局に行ってもらいたい"
+    notes: "意味上の主語を置く場合❸: S+V+O+to V型でO(you)がto goの意味上のS。OとtoVにS'→P'関係"
+
+sentence_structures:
+  - sentence_id: "nar-0610-e316"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0610-e316"
+    label: "details"
+    value: "<He>(S=S') was(V) <surprised>(C) [to hear the news](M:副詞用法/感情の原因/意味上のS=He)"
+  - sentence_id: "nar-0610-e317"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0610-e317"
+    label: "details"
+    value: "<To master French>(S:名詞用法/意味上のS=一般の人々) isn't(V) <easy>(C)"
+  - sentence_id: "nar-0610-e318"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0610-e318"
+    label: "details"
+    value: "<It>(S:形式主語) isn't(V) <easy>(C) ← <for me to master French>(真主語/for A to V/意味上のS=me)"
+  - sentence_id: "nar-0610-e319"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0610-e319"
+    label: "details"
+    value: "<This box>(S) is(V) <too heavy>(C) [for a child to move](M:too~to V/for A to V/意味上のS=a child)"
+  - sentence_id: "nar-0610-e320"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0610-e320"
+    label: "details"
+    value: "<This>(S) is(V) <the first woman to go to the moon>(C/to go=形容詞用法/被修飾名詞woman=意味上のS)"
+  - sentence_id: "nar-0610-e321"
+    label: "overall"
+    value: "S V O to V"
+  - sentence_id: "nar-0610-e321"
+    label: "details"
+    value: "<I>(S) want(V) <you>(O=S') <to go to the post office>(to V=P'/意味上のS=you)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0610-e316"
+    node_id: "nrj-010"
+  - sentence_id: "nar-0610-e317"
+    node_id: "nrj-010"
+  - sentence_id: "nar-0610-e318"
+    node_id: "nrj-010"
+  - sentence_id: "nar-0610-e319"
+    node_id: "nrj-010"
+  - sentence_id: "nar-0610-e320"
+    node_id: "nrj-010"
+  - sentence_id: "nar-0610-e321"
+    node_id: "nrj-010"

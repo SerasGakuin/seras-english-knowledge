@@ -1,0 +1,71 @@
+# Nar_06_12: 準動詞の意味上の主語(3) — 分詞構文を中心に (p.217-220)
+
+sentences:
+  - id: "nar-0612-e327"
+    section_id: "Nar_06_12"
+    drill: 0
+    number: 327
+    role: "example"
+    english: "It being rainy, we stayed home last Friday."
+    japanese: "雨だったので、私たちは先週の金曜日は家にいた"
+    notes: "独立分詞構文。beingの意味上のS(It)が文全体のS(we)と異なるため明示。天気のIt"
+  - id: "nar-0612-e328"
+    section_id: "Nar_06_12"
+    drill: 0
+    number: 328
+    role: "example"
+    english: "There being so much wind, we gave up sailing."
+    japanese: "風がひどくて、私たちはヨットはやめた"
+    notes: "There be構文の独立分詞構文。Thereが文全体のS(we)と異なるため明示"
+  - id: "nar-0612-e329"
+    section_id: "Nar_06_12"
+    drill: 0
+    number: 329
+    role: "example"
+    english: "I can't work with you standing there."
+    japanese: "あなたがそこに立っていては仕事ができない"
+    notes: "付帯状況のwith。A=you、B=standing(Ving/能動)。youとstandに能動関係。withを消去すると独立分詞構文と同構造"
+  - id: "nar-0612-e330"
+    section_id: "Nar_06_12"
+    drill: 0
+    number: 330
+    role: "example"
+    english: "He sat on the chair with his arms folded."
+    japanese: "彼は腕を組んで椅子に座っていた"
+    notes: "付帯状況のwith。A=his arms、B=folded(Vp.p./受動)。他動詞foldの目的語が欠落→受動と判断"
+
+sentence_structures:
+  - sentence_id: "nar-0612-e327"
+    label: "overall"
+    value: "M S V M M"
+  - sentence_id: "nar-0612-e327"
+    label: "details"
+    value: "[It being rainy](M:独立分詞構文/意味上のS=It) <we>(S) stayed(V) [home](M) [last Friday](M)"
+  - sentence_id: "nar-0612-e328"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "nar-0612-e328"
+    label: "details"
+    value: "[There being so much wind](M:独立分詞構文/There be型/意味上のS=There) <we>(S) gave up(V) <sailing>(O)"
+  - sentence_id: "nar-0612-e329"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0612-e329"
+    label: "details"
+    value: "<I>(S) can't work(V) [with you standing there](M:付帯状況/A=you/B=standing/能動)"
+  - sentence_id: "nar-0612-e330"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "nar-0612-e330"
+    label: "details"
+    value: "<He>(S) sat(V) [on the chair](M) [with his arms folded](M:付帯状況/A=his arms/B=folded/受動)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0612-e327"
+    node_id: "nrj-012"
+  - sentence_id: "nar-0612-e328"
+    node_id: "nrj-012"
+  - sentence_id: "nar-0612-e329"
+    node_id: "nrj-012"
+  - sentence_id: "nar-0612-e330"
+    node_id: "nrj-012"

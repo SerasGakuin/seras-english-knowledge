@@ -153,6 +153,157 @@ knowledge_nodes:
       *2: 分詞構文は同時性(e311: greeted+waving)や連続性(e312: Shopping→ran into)を表せる
       *3: Vp.p.から始まる分詞構文はVingからの分詞構文に比べて少数
 
+  # B-07: Part 06 後半
+  - id: "nrj-010"
+    name: "不定詞の意味上の主語の5パターン"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      不定詞の意味上の主語には、置かない場合(2パターン)と置く場合(3パターン)がある。
+      ■ 置かない場合:
+      ❶ 文全体の主語と共通（例: He was surprised to hear → hearのS'もHe）
+      ❷ 一般の人々（例: To master French isn't easy → 不定詞がS位置で一般の人々がS'）
+      ■ 置く場合:
+      ❶ for A to V（例: It isn't easy for me to master French）
+      ❷ 形容詞用法の被修飾名詞（例: the first woman to go → womanがgoのS'）
+      ❸ S+V+O+to V型のO（例: I want you to go → youがgoのS'）
+      *1: S'=意味上の主語、P'=述語の表記法
+      *2: S+V+O+to V型の動詞→別冊ポイント014参照
+  - id: "nrj-011"
+    name: "動名詞・分詞の意味上の主語"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      動名詞とVing/Vp.p.形容詞用法の意味上の主語のパターン。
+      ■ 動名詞の意味上の主語:
+      置かない場合: ❶文全体のSと共通 ❷一般の人々（不定詞と同じ考え方）
+      置く場合: 所有格（または目的格）+Ving
+      → my/me paying のように、動名詞の名詞的性質から所有格が自然（my book → my paying）
+      → 目的格は前の前置詞/他動詞につられた結果（on me → on me paying）
+      ■ Ving/Vp.p.形容詞用法の意味上の主語:
+      ❶ 修飾される名詞＝意味上の主語（the lady singing → ladyがsingingのS'）
+      ❷ S+V+Cの場合: Sが意味上のS（The lady remained standing → ladyがstandingのS'）
+      ❸ S+V+O+Cの場合: Oが意味上のS（kept his car parked → carがparkedのS'）
+      *1: 動名詞の意味上のSは所有格が通例だったが現在は目的格も多い。ただし主語位置では所有格が好まれる（His behaving like that made everybody sad.）
+      例文280(06_04), 284(06_05)を再引用して確認
+  - id: "nrj-012"
+    name: "独立分詞構文と付帯状況のwith"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      分詞構文の意味上の主語が文全体のSと異なる場合の2パターン。
+      ■ 分詞構文の意味上のS:
+      置かない場合: 文全体のSが意味上のS
+      置く場合: 分詞構文の前に意味上のSを明示（独立分詞構文）
+      例: It being rainy, we stayed home. → beingのS'=It、文のS=weで異なるため明示
+      例: There being so much wind → There be構文の独立分詞構文
+      ■ 付帯状況の〈with A+B〉:
+      withの後ろに〈A+B〉。AとBにS'→P'関係が成立。
+      Bに置けるもの: Ving（能動）、Vp.p.（受動）、形容詞など。不定詞と動詞の原形は不可。
+      訳し方: 「AがBの状態で」を基本に主節への追加情報。
+      付帯状況のwithは独立分詞構文の発展形。withを消去すれば独立分詞構文と同構造。
+      *1: Ving/Vp.p.の識別は動詞の直後の形（目的語の有無）にも注目。他動詞foldの目的語欠落→受動→Vp.p.
+      [イラスト: 雨の中テレビを見ている家族（p.217）]
+      [イラスト: 腕を組んで椅子に座る男性（p.219）]
+  - id: "nrj-013"
+    name: "準動詞の時制と否定"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      準動詞の時制と否定の2大テーマ。
+      ■ 時制:
+      ❶ 基本: 文全体の述語動詞の時制に準じる（seemed to know = knew）
+      ❷ 不定詞は述語動詞より先の未来を表すこともある（decided to be = まだなっていない）
+      ❸ 完了形(to have Vp.p. / having Vp.p.): 述語動詞よりさらに前を表す
+        → seems to have known = It seems that he knew（現在→過去）
+        → having been rich = 以前お金持ちだった
+      動名詞・分詞構文でも同じ原則。
+      ■ 否定:
+      準動詞の前にnotを置く。完了形でも not + having Vp.p. が正しい。
+      ✕ having not done it は誤り（現在完了形の否定との混同）
+      [イラスト: 時制のズレ — 現在seemsと過去to have known（p.222）]
+      [イラスト: being rich(現在)vs having been rich(過去)の対比（p.222）]
+      *1: 完了形の分詞構文の使用頻度は非常に低い。接続詞+節で書く方が一般的。時間の前後関係が明確ならふつうの分詞構文でもよい
+      *2: notの代わりにneverも可。noは There is no Ving 等の定型表現のみ
+  - id: "nrj-014"
+    name: "タフ構文・It is of A to V・代不定詞"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      不定詞を用いた3つの重要表現。
+      ■ タフ構文:
+      不定詞が特定の形容詞(easy, difficult, hard, impossible, safe, dangerous等)を限定。
+      2条件: ❶不定詞の中に名詞が1つ欠けている ❷その欠けている名詞が文全体のSと一致
+      文末→文頭に循環してゴールがない構造。
+      ※ possibleはタフ構文にならない
+      It is difficult to operate the computer. と書き換え可能。
+      ■ It is ... of A to V:
+      of Aの前後にS'→P'の関係。You were very careless = of youとcarelessの関係。
+      状況のitを使用（形式主語のitではない）。to Vは判断の根拠の副詞用法。
+      使われる形容詞: careless, clever, wise, kind, foolish, polite, rude等「人の性質」
+      ■ 代不定詞:
+      繰り返し回避でV以降を省略しtoだけ残す。toは原則省略不可。
+      別冊ポイント135参照（タフ構文の条件）
+      *1: 状況のitはto Vがなくても使える→形式主語のitではない
+      *2: of A to Vで使う形容詞は「人の性質」を表すもの
+  - id: "nrj-015"
+    name: "be to不定詞・疑問詞+to V・独立不定詞"
+    category: "準動詞"
+    priority: "P2"
+    notes: |
+      不定詞を用いた3つの重要表現（続き）。
+      ■ be to不定詞:
+      「主語がこれからVする状況にある」が基本。予定/意図/可能/運命/義務の分類は便宜的。
+      重要: 主語以外の第三者（運命・神様等）の存在が感じられる場合に使う。
+      個人の意図を表すには不適切（△ I am to go skiing）。英作文での使用は避けるべき。
+      自分の意志の予定なら現在進行形を使う（They are getting married in June.）
+      ■ 疑問詞+to V:
+      名詞のカタマリとしてS・O・Cに置かれる。how/what/which/who/where/when/whether。
+      why to Vだけは通例不可。
+      ■ 独立不定詞:
+      needless to say等、文全体を修飾する定型表現。意味上のSを文全体のSと合わせる必要なし。
+      別冊ポイント136参照（be to不定詞）、別冊ポイント137参照（独立不定詞リスト）
+      *1: その他の独立不定詞→別冊p.47参照
+  - id: "nrj-016"
+    name: "動名詞を用いた重要表現"
+    category: "準動詞"
+    priority: "P2"
+    notes: |
+      動名詞を用いた3つの重要表現。
+      ■ to+Ving表現:
+      toが前置詞のため後ろにVing（動名詞）が来る表現。
+      look forward to Ving / when it comes to Ving / object to Ving / be used to Ving 等
+      Vingは「実際にやっている（ところを想像）」のイメージ。
+      ■ need+Ving:
+      「Vすることを必要としている」→「Vされる必要がある」と意訳。
+      タフ構文と同じ2条件: ❶動名詞内に名詞が1つ欠落 ❷欠落名詞=文全体のS
+      need+to V(to be Vp.p.)でも書ける。wantでも同様の用法あり。
+      ■ 用途・目的の動名詞:
+      a walking stick（歩くための棒）のように動名詞が用途を表す。
+      現在分詞(a sleeping cat=眠っているネコ)との違い: 動名詞にはS→P'関係なし。
+      [イラスト: walking stick vs sleeping cat の対比（p.233）]
+      別冊ポイント143参照（to+Ving表現リスト）、別冊ポイント142参照（need+Ving）
+      *1: to+Vingのその他の表現→別冊p.50参照
+  - id: "nrj-017"
+    name: "感情の分詞形容詞と慣用的分詞構文"
+    category: "準動詞"
+    priority: "P1"
+    notes: |
+      分詞を用いた2つの重要テーマ。
+      ■ 感情の分詞形容詞:
+      ❶ 感情を与える原因→Ving（surprising, exciting, boring等）
+      ❷ 感情を抱く側（通例人間）→Vp.p.（surprised, excited, bored等）
+      判断のコツ: どの名詞とセットかを確認。S+V+O+CではOとCのS'→P'関係を確認。
+      ✕ I was exciting は誤り（Iは感情を抱く側→excited）
+      boring/excitingを「人」に使うとその人が原因の意味になる（My father is boring.=退屈の原因）
+      ■ 独立分詞構文の慣用表現:
+      all things considered / weather permitting / other things being equal /
+      such being the case / generally speaking / judging from A 等
+      独立不定詞に比べ数は少ない。
+      [図表: 分詞形容詞の対応表 — surprising/surprised, exciting/excited等（p.236）]
+      別冊ポイント146-147参照（感情の分詞形容詞リスト）、別冊ポイント148参照（慣用的分詞構文リスト）
+      *1: 分詞形容詞は他動詞の受動態というより-ing/-edの形をした形容詞と考える
+
 understanding_goals:
   - node_id: "nrj-001"
     seq: 1
@@ -259,6 +410,103 @@ understanding_goals:
   - node_id: "nrj-009"
     seq: 4
     goal: "否定(Not+Ving)と受動(being省略→Vp.p.)の分詞構文の形を識別できる"
+  # B-07: Part 06 後半
+  - node_id: "nrj-010"
+    seq: 1
+    goal: "不定詞の意味上の主語を置かない2パターン（文全体の主語と共通 / 一般の人々）を説明できる"
+  - node_id: "nrj-010"
+    seq: 2
+    goal: "for A to V で意味上の主語を明示する用法を理解している"
+  - node_id: "nrj-010"
+    seq: 3
+    goal: "形容詞用法の被修飾名詞が意味上の主語になることを説明できる"
+  - node_id: "nrj-010"
+    seq: 4
+    goal: "S+V+O+to V型でOが意味上の主語になることを理解している"
+  - node_id: "nrj-011"
+    seq: 1
+    goal: "動名詞の意味上の主語を置かない2パターンを理解している"
+  - node_id: "nrj-011"
+    seq: 2
+    goal: "動名詞の意味上の主語を所有格（または目的格）+Vingで表すことを知っている"
+  - node_id: "nrj-011"
+    seq: 3
+    goal: "所有格が使われる理由（動名詞の名詞的性質→my book=my paying）を説明できる"
+  - node_id: "nrj-011"
+    seq: 4
+    goal: "Ving/Vp.p.形容詞用法の意味上の主語が修飾される名詞であることを理解している"
+  - node_id: "nrj-011"
+    seq: 5
+    goal: "S+V+CのSとS+V+O+CのOが意味上の主語になるパターンを区別できる"
+  - node_id: "nrj-012"
+    seq: 1
+    goal: "分詞構文の意味上の主語が文全体の主語と共通であることを理解している"
+  - node_id: "nrj-012"
+    seq: 2
+    goal: "独立分詞構文（文全体のSと異なるSを明示する）の構造を説明できる"
+  - node_id: "nrj-012"
+    seq: 3
+    goal: "付帯状況のwith A+Bの構造と訳し方を理解している"
+  - node_id: "nrj-012"
+    seq: 4
+    goal: "付帯状況のwithが独立分詞構文の発展形であることを説明できる"
+  - node_id: "nrj-013"
+    seq: 1
+    goal: "準動詞の時制が文全体の述語動詞の時制に準じることを説明できる"
+  - node_id: "nrj-013"
+    seq: 2
+    goal: "完了形の準動詞(to have Vp.p. / having Vp.p.)が述語動詞よりさらに前の時を表すことを理解している"
+  - node_id: "nrj-013"
+    seq: 3
+    goal: "不定詞が述語動詞より先の未来を表す場合があることを理解している"
+  - node_id: "nrj-013"
+    seq: 4
+    goal: "準動詞の否定はnotを準動詞の前に置くこと、完了形でもnot+having Vp.p.であることを知っている"
+  - node_id: "nrj-014"
+    seq: 1
+    goal: "タフ構文の2条件（不定詞内に名詞欠落+その名詞=文全体のS）を説明できる"
+  - node_id: "nrj-014"
+    seq: 2
+    goal: "タフ構文で使える形容詞（easy, difficult, hard, impossible等）を列挙でき、possibleが使えないことを知っている"
+  - node_id: "nrj-014"
+    seq: 3
+    goal: "It is ... of A to V構文でof Aが「人の性質」を表す形容詞と共に使われることを理解している"
+  - node_id: "nrj-014"
+    seq: 4
+    goal: "代不定詞（toだけ残してV以降を省略）の原則を理解している"
+  - node_id: "nrj-015"
+    seq: 1
+    goal: "be to不定詞の基本的な意味（主語がこれからVする状況にある）を説明できる"
+  - node_id: "nrj-015"
+    seq: 2
+    goal: "be to不定詞が第三者の存在を感じさせる特殊な表現であり英作文では避けるべきことを理解している"
+  - node_id: "nrj-015"
+    seq: 3
+    goal: "疑問詞+to Vが名詞のカタマリとして機能し、why to Vは不可であることを知っている"
+  - node_id: "nrj-015"
+    seq: 4
+    goal: "独立不定詞（needless to say等）の代表例を挙げられる"
+  - node_id: "nrj-016"
+    seq: 1
+    goal: "to+Ving表現でtoが前置詞であるため動名詞が続くことを理解している"
+  - node_id: "nrj-016"
+    seq: 2
+    goal: "need+Vingの「Vされる必要がある」の意訳メカニズムを説明できる"
+  - node_id: "nrj-016"
+    seq: 3
+    goal: "need+Vingがタフ構文と同じ2条件を満たす必要があることを知っている"
+  - node_id: "nrj-016"
+    seq: 4
+    goal: "用途の動名詞（a walking stick）と現在分詞（a sleeping cat）の違いを説明できる"
+  - node_id: "nrj-017"
+    seq: 1
+    goal: "感情を与える原因にはVing、感情を抱く側にはVp.p.を使うことを説明できる"
+  - node_id: "nrj-017"
+    seq: 2
+    goal: "S+V+O+C構文で感情の分詞形容詞を使う際、OとCのS'→P'関係を判断できる"
+  - node_id: "nrj-017"
+    seq: 3
+    goal: "独立分詞構文の慣用表現（all things considered等）の代表例を挙げられる"
 
 check_points:
   - node_id: "nrj-001"
@@ -385,6 +633,111 @@ check_points:
     seq: 4
     question: "分詞構文と接続詞+SVの文は意味が完全に同じか？"
     answer: "同じではない。分詞構文には同時性や連続性を表せる独自の持ち味がある"
+  # B-07: Part 06 後半
+  - node_id: "nrj-010"
+    seq: 1
+    question: "不定詞の意味上の主語を置かない2パターンは？"
+    answer: "❶文全体の主語と共通（He was surprised to hear → hearのS'もHe）❷一般の人々（不定詞そのものがS位置で文全体のSと共通にできない場合）"
+  - node_id: "nrj-010"
+    seq: 2
+    question: "too〜to V構文で意味上の主語はどう表すか？"
+    answer: "for Aの原則は変わらない（This box is too heavy for a child to move）"
+  - node_id: "nrj-010"
+    seq: 3
+    question: "S+V+O+to V型の動詞で不定詞の意味上の主語は何か？"
+    answer: "OがtoVの意味上の主語。OとtoVの間にS'→P'の関係が成立する（I want you to go → youがgoのS'）"
+  - node_id: "nrj-011"
+    seq: 1
+    question: "動名詞の意味上の主語をどう表すか？"
+    answer: "所有格（または目的格）+Ving。my paying / me payingのように動名詞の前に置く"
+  - node_id: "nrj-011"
+    seq: 2
+    question: "動名詞の意味上の主語に所有格が使われる理由は？"
+    answer: "動名詞は名詞の性質が強い。my bookのmy→my payingと同じ感覚。目的格は前の前置詞/他動詞につられた結果"
+  - node_id: "nrj-011"
+    seq: 3
+    question: "Ving/Vp.p.形容詞用法の意味上の主語は何か？"
+    answer: "修飾される名詞。the lady singing → ladyがsingingのS'（能動）、a book read → bookがreadのS'（受動）"
+  - node_id: "nrj-011"
+    seq: 4
+    question: "S+V+O+CのVing/Vp.p.の意味上の主語は何か？"
+    answer: "Oが意味上の主語。kept his car parked → carがparkedのS'。S+V+Cの場合はSが意味上の主語"
+  - node_id: "nrj-012"
+    seq: 1
+    question: "独立分詞構文とは何か？"
+    answer: "分詞構文の意味上の主語が文全体のSと異なる場合に、分詞構文の前にS'を明示する構文（It being rainy, we stayed home.）"
+  - node_id: "nrj-012"
+    seq: 2
+    question: "There be構文の独立分詞構文はどう書くか？"
+    answer: "There being...の形（There being so much wind, we gave up sailing.）"
+  - node_id: "nrj-012"
+    seq: 3
+    question: "付帯状況のwith A+Bで、Bに置けないものは？"
+    answer: "不定詞と動詞の原形は置けない。Ving（能動）、Vp.p.（受動）、形容詞などは可"
+  - node_id: "nrj-012"
+    seq: 4
+    question: "付帯状況のwithと独立分詞構文の関係は？"
+    answer: "withを消去すれば独立分詞構文と同構造。withは「〜をもって」のイメージを添えた発展形。訳し方が似るのは必然"
+  - node_id: "nrj-013"
+    seq: 1
+    question: "準動詞の時制はどう判断するか？"
+    answer: "文全体の述語動詞の時制に準じる。seemed to know → knowも過去と判断"
+  - node_id: "nrj-013"
+    seq: 2
+    question: "完了形の準動詞（to have Vp.p.）は何を表すか？"
+    answer: "文全体の述語動詞よりさらに前の時を表す。seems to have known = 現在思われるが、知っていたのは過去"
+  - node_id: "nrj-013"
+    seq: 3
+    question: "準動詞の否定で「✕ having not done it」が誤りである理由は？"
+    answer: "準動詞の否定は完了形でもnotを準動詞の前に置く。not having done itが正しい。現在完了形の否定(have not done)との混同に注意"
+  - node_id: "nrj-014"
+    seq: 1
+    question: "タフ構文が成立する2条件は？"
+    answer: "❶不定詞の中に名詞が1つ欠けている ❷その欠けている名詞が文全体の主語と一致する"
+  - node_id: "nrj-014"
+    seq: 2
+    question: "It is ... of A to Vで使われる形容詞の特徴は？"
+    answer: "「人の性質」を表す形容詞（careless, clever, wise, kind, foolish等）。of Aの前後でA=S', 形容詞=P'の関係が成立"
+  - node_id: "nrj-014"
+    seq: 3
+    question: "代不定詞とは何か？また省略できるか？"
+    answer: "繰り返しを避けてV以降を省略しtoだけ残す用法。代不定詞のtoは原則省略不可"
+  - node_id: "nrj-015"
+    seq: 1
+    question: "be to不定詞はなぜ英作文で使用を避けるべきか？"
+    answer: "主語以外の第三者の存在が感じられる特殊な表現。個人の意図を表すには不適切。自分の予定なら現在進行形を使う"
+  - node_id: "nrj-015"
+    seq: 2
+    question: "疑問詞+to Vで使えない疑問詞は？"
+    answer: "why to Vは通例不可。how/what/which/who/where/when/whetherは可"
+  - node_id: "nrj-015"
+    seq: 3
+    question: "独立不定詞の特徴は？"
+    answer: "文全体を修飾する定型表現。意味上のSを文全体のSと合わせる必要がない。needless to say, to tell the truth, so to speak等"
+  - node_id: "nrj-016"
+    seq: 1
+    question: "look forward to Vingのtoは何か？"
+    answer: "前置詞to（不定詞のtoではない）。前置詞の後は名詞（相当語句）なのでVingが続く。be used to Ving, when it comes to Ving等も同様"
+  - node_id: "nrj-016"
+    seq: 2
+    question: "need+Vingが「Vされる必要がある」と訳せるのはなぜか？"
+    answer: "need+Ving（名詞相当の動名詞）はneed+名詞の延長。タフ構文と同じ2条件（❶名詞欠落 ❷文全体のSと一致）を満たすため受動的に意訳できる"
+  - node_id: "nrj-016"
+    seq: 3
+    question: "a walking stickとa sleeping catのVingの違いは？"
+    answer: "walking stick=用途の動名詞（歩くための棒）、sleeping cat=現在分詞の形容詞用法（眠っている猫）。目的と進行の違い"
+  - node_id: "nrj-017"
+    seq: 1
+    question: "surprising と surprised の使い分けのポイントは？"
+    answer: "感情を与える原因→Ving（surprising）、感情を抱く側→Vp.p.（surprised）。主語が原因か経験者かで判断する"
+  - node_id: "nrj-017"
+    seq: 2
+    question: "S+V+O+C構文で感情の分詞形容詞を使う場合、O-C間の関係は？"
+    answer: "OがS'、CがP'の関係。The story made the children excited → children(S')=excited(P')。Oが感情を抱く側なのでVp.p."
+  - node_id: "nrj-017"
+    seq: 3
+    question: "独立分詞構文の慣用表現を3つ以上挙げよ"
+    answer: "all things considered / weather permitting / generally speaking / judging from A / strictly speaking / frankly speaking 等"
 
 node_prerequisites:
   - node_id: "nrj-002"
@@ -409,6 +762,26 @@ node_prerequisites:
     prerequisite_id: "nrj-003"
   - node_id: "nrj-009"
     prerequisite_id: "nrj-008"
+  - node_id: "nrj-010"
+    prerequisite_id: "nrj-001"
+  - node_id: "nrj-011"
+    prerequisite_id: "nrj-010"
+  - node_id: "nrj-012"
+    prerequisite_id: "nrj-009"
+  - node_id: "nrj-012"
+    prerequisite_id: "nrj-010"
+  - node_id: "nrj-013"
+    prerequisite_id: "nrj-001"
+  - node_id: "nrj-014"
+    prerequisite_id: "nrj-008"
+  - node_id: "nrj-015"
+    prerequisite_id: "nrj-002"
+  - node_id: "nrj-016"
+    prerequisite_id: "nrj-003"
+  - node_id: "nrj-016"
+    prerequisite_id: "nrj-005"
+  - node_id: "nrj-017"
+    prerequisite_id: "nrj-004"
 
 knowledge_references:
   - node_id: "nrj-001"
@@ -447,3 +820,35 @@ knowledge_references:
     book: "成川の深めて解ける！英文法 INPUT"
     section_id: "Nar_06_09"
     pages: "p.207-209"
+  - node_id: "nrj-010"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_06_10"
+    pages: "p.210-212"
+  - node_id: "nrj-011"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_06_11"
+    pages: "p.213-216"
+  - node_id: "nrj-012"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_06_12"
+    pages: "p.217-220"
+  - node_id: "nrj-013"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_06_13"
+    pages: "p.221-224"
+  - node_id: "nrj-014"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_06_14"
+    pages: "p.225-227"
+  - node_id: "nrj-015"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_06_15"
+    pages: "p.228-230"
+  - node_id: "nrj-016"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_06_16"
+    pages: "p.231-234"
+  - node_id: "nrj-017"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_06_17"
+    pages: "p.235-238"

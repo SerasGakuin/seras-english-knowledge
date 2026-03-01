@@ -1,0 +1,87 @@
+# Nar_06_17: 分詞を用いた重要表現 (p.235-238)
+
+sentences:
+  - id: "nar-0617-e355"
+    section_id: "Nar_06_17"
+    drill: 0
+    number: 355
+    role: "example"
+    english: "The news was surprising."
+    japanese: "そのニュースは驚きだった"
+    notes: "感情の分詞形容詞。The news=感情を与える原因→Ving(surprising)"
+  - id: "nar-0617-e356"
+    section_id: "Nar_06_17"
+    drill: 0
+    number: 356
+    role: "example"
+    english: "He was surprised to hear the news."
+    japanese: "彼はそのニュースを聞いて驚いた"
+    notes: "感情の分詞形容詞。He=感情を抱く側→Vp.p.(surprised)"
+  - id: "nar-0617-e357"
+    section_id: "Nar_06_17"
+    drill: 0
+    number: 357
+    role: "example"
+    english: "It was a very exciting show."
+    japanese: "それはとてもワクワクするショーだった"
+    notes: "感情の分詞形容詞。show=感情の原因→Ving(exciting)。直後の名詞との関係を確認"
+  - id: "nar-0617-e358"
+    section_id: "Nar_06_17"
+    drill: 0
+    number: 358
+    role: "example"
+    english: "The story made the children excited."
+    japanese: "その物語で子どもたちははしゃいでいた"
+    notes: "S+V+O+C構文。the children=感情を抱く側→Vp.p.(excited)。OとCのS'→P'関係を確認"
+  - id: "nar-0617-e359"
+    section_id: "Nar_06_17"
+    drill: 0
+    number: 359
+    role: "example"
+    english: "All things considered, he's done very well."
+    japanese: "あらゆることを考慮すると、彼はとてもよくやった"
+    notes: "独立分詞構文の慣用表現。別冊ポイント148参照（慣用的な分詞構文リスト）"
+
+sentence_structures:
+  - sentence_id: "nar-0617-e355"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0617-e355"
+    label: "details"
+    value: "<The news>(S:感情の原因) was(V) <surprising>(C:Ving分詞形容詞)"
+  - sentence_id: "nar-0617-e356"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0617-e356"
+    label: "details"
+    value: "<He>(S:感情を抱く側) was(V) <surprised>(C:Vp.p.分詞形容詞) [to hear the news](M:副詞用法/感情の原因)"
+  - sentence_id: "nar-0617-e357"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0617-e357"
+    label: "details"
+    value: "<It>(S) was(V) <a very exciting show>(C:exciting=Ving分詞形容詞/show=感情の原因)"
+  - sentence_id: "nar-0617-e358"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "nar-0617-e358"
+    label: "details"
+    value: "<The story>(S:感情の原因) made(V) <the children>(O:感情を抱く側=S') <excited>(C:Vp.p.分詞形容詞=P')"
+  - sentence_id: "nar-0617-e359"
+    label: "overall"
+    value: "M S V M"
+  - sentence_id: "nar-0617-e359"
+    label: "details"
+    value: "[All things considered](M:独立分詞構文/慣用表現) <he>(S) has done(V) [very well](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0617-e355"
+    node_id: "nrj-017"
+  - sentence_id: "nar-0617-e356"
+    node_id: "nrj-017"
+  - sentence_id: "nar-0617-e357"
+    node_id: "nrj-017"
+  - sentence_id: "nar-0617-e358"
+    node_id: "nrj-017"
+  - sentence_id: "nar-0617-e359"
+    node_id: "nrj-017"

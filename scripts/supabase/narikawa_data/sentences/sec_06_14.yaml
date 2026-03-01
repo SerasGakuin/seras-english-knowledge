@@ -1,0 +1,55 @@
+# Nar_06_14: 不定詞を用いた重要表現(1) — タフ構文・It is of A to V・代不定詞 (p.225-227)
+
+sentences:
+  - id: "nar-0614-e341"
+    section_id: "Nar_06_14"
+    drill: 0
+    number: 341
+    role: "example"
+    english: "The computer is difficult to operate."
+    japanese: "そのコンピューターは操作するのが難しい"
+    notes: "タフ構文。to operate内に名詞欠落(目的語)→文全体のS(The computer)と一致。形容詞difficultを限定"
+  - id: "nar-0614-e342"
+    section_id: "Nar_06_14"
+    drill: 0
+    number: 342
+    role: "example"
+    english: "It was very careless of you to leave the door open."
+    japanese: "ドアを開けっ放しにしておくとは君はとても不注意だった"
+    notes: "It is ... of A to V構文。of Aの前後でA=S'、形容詞=P'の関係（You were very careless）。to leaveは判断の根拠"
+  - id: "nar-0614-e343"
+    section_id: "Nar_06_14"
+    drill: 0
+    number: 343
+    role: "example"
+    english: "Sing if you want to."
+    japanese: "歌いたいなら歌いなさい"
+    notes: "代不定詞。to sing の sing を省略してtoだけ残す。代不定詞のtoは原則省略不可"
+
+sentence_structures:
+  - sentence_id: "nar-0614-e341"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0614-e341"
+    label: "details"
+    value: "<The computer>(S) is(V) <difficult>(C) [to operate](M:タフ構文/不定詞が形容詞を限定/目的語欠落=S)"
+  - sentence_id: "nar-0614-e342"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0614-e342"
+    label: "details"
+    value: "<It>(S:状況のit) was(V) <very careless of you>(C/of you=S'→careless=P') [to leave the door open](M:副詞用法/判断の根拠)"
+  - sentence_id: "nar-0614-e343"
+    label: "overall"
+    value: "V M"
+  - sentence_id: "nar-0614-e343"
+    label: "details"
+    value: "Sing(V:命令文) [if you want to](M:条件/代不定詞/to=to sing)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0614-e341"
+    node_id: "nrj-014"
+  - sentence_id: "nar-0614-e342"
+    node_id: "nrj-014"
+  - sentence_id: "nar-0614-e343"
+    node_id: "nrj-014"

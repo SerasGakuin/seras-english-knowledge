@@ -1,0 +1,87 @@
+# Nar_06_11: 準動詞の意味上の主語(2) — 動名詞・分詞を中心に (p.213-216)
+
+sentences:
+  - id: "nar-0611-e322"
+    section_id: "Nar_06_11"
+    drill: 0
+    number: 322
+    role: "example"
+    english: "He insisted on paying the bill."
+    japanese: "彼は勘定を払うと言い張った"
+    notes: "動名詞の意味上の主語を置かない場合❶: 文全体のS(He)がpayingの意味上のS"
+  - id: "nar-0611-e323"
+    section_id: "Nar_06_11"
+    drill: 0
+    number: 323
+    role: "example"
+    english: "Seeing is believing."
+    japanese: "見ることは信じることだ（百聞は一見にしかず）"
+    notes: "動名詞の意味上の主語を置かない場合❷: 一般の人々が意味上のS"
+  - id: "nar-0611-e324"
+    section_id: "Nar_06_11"
+    drill: 0
+    number: 324
+    role: "example"
+    english: "He insisted on my [me] paying the bill."
+    japanese: "彼は私が勘定を払うようにと言い張った"
+    notes: "動名詞の意味上の主語を置く場合: 所有格(my)または目的格(me)+Ving。名詞的性質からmy bookと同感覚"
+  - id: "nar-0611-e325"
+    section_id: "Nar_06_11"
+    drill: 0
+    number: 325
+    role: "example"
+    english: "The lady singing the song captured everyone's attention."
+    japanese: "その曲を歌っている女性は皆の注目を集めた"
+    notes: "Ving形容詞用法の意味上のS: 修飾される名詞(the lady)が意味上のS。ladyとsingingに能動関係"
+  - id: "nar-0611-e326"
+    section_id: "Nar_06_11"
+    drill: 0
+    number: 326
+    role: "example"
+    english: "He is the writer of a book read all over the world."
+    japanese: "彼は世界中で読まれている本の執筆者だ"
+    notes: "Vp.p.形容詞用法の意味上のS: 修飾される名詞(a book)が意味上のS。bookとreadに受動関係"
+
+sentence_structures:
+  - sentence_id: "nar-0611-e322"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0611-e322"
+    label: "details"
+    value: "<He>(S=S') insisted(V) [on paying the bill](M:前置詞+動名詞/意味上のS=He)"
+  - sentence_id: "nar-0611-e323"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0611-e323"
+    label: "details"
+    value: "<Seeing>(S:動名詞/意味上のS=一般の人々) is(V) <believing>(C:動名詞)"
+  - sentence_id: "nar-0611-e324"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0611-e324"
+    label: "details"
+    value: "<He>(S) insisted(V) [on my/me paying the bill](M:前置詞+意味上のS+動名詞/S'=my/me)"
+  - sentence_id: "nar-0611-e325"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0611-e325"
+    label: "details"
+    value: "<The lady singing the song>(S/singing=Ving形容詞用法/意味上のS=lady/能動) captured(V) <everyone's attention>(O)"
+  - sentence_id: "nar-0611-e326"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0611-e326"
+    label: "details"
+    value: "<He>(S) is(V) <the writer of a book read all over the world>(C/read=Vp.p.形容詞用法/意味上のS=book/受動)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0611-e322"
+    node_id: "nrj-011"
+  - sentence_id: "nar-0611-e323"
+    node_id: "nrj-011"
+  - sentence_id: "nar-0611-e324"
+    node_id: "nrj-011"
+  - sentence_id: "nar-0611-e325"
+    node_id: "nrj-011"
+  - sentence_id: "nar-0611-e326"
+    node_id: "nrj-011"

@@ -667,10 +667,92 @@ sections:
     reviewed_at: "2026-03-02"
     notes: ""
 
+  # B-07: Part 06 後半
+  Nar_06_10:
+    title: "準動詞の意味上の主語(1)"
+    type: "concept"
+    pages: "p.210-212"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+  Nar_06_11:
+    title: "準動詞の意味上の主語(2)"
+    type: "concept"
+    pages: "p.213-216"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+  Nar_06_12:
+    title: "準動詞の意味上の主語(3)"
+    type: "concept"
+    pages: "p.217-220"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+  Nar_06_13:
+    title: "準動詞の時制と否定"
+    type: "concept"
+    pages: "p.221-224"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 10
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "✕ having not done→not having done"
+  Nar_06_14:
+    title: "不定詞を用いた重要表現(1)"
+    type: "expression"
+    pages: "p.225-227"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+  Nar_06_15:
+    title: "不定詞を用いた重要表現(2)"
+    type: "expression"
+    pages: "p.228-230"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+  Nar_06_16:
+    title: "動名詞を用いた重要表現"
+    type: "expression"
+    pages: "p.231-234"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+  Nar_06_17:
+    title: "分詞を用いた重要表現"
+    type: "expression"
+    pages: "p.235-238"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+
 summary:
   total_sections: 162
-  completed: 65
+  completed: 73
   in_progress: 0
-  not_started: 97
-  total_knowledge_nodes: 65
-  total_sentences: 348
+  not_started: 89
+  total_knowledge_nodes: 73
+  total_sentences: 392

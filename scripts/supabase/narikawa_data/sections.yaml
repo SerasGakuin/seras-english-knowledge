@@ -404,6 +404,56 @@ sections:
     type: "concept"
     notes: ""
 
+  # B-07: Part 06 後半
+  - id: "Nar_06_10"
+    book: "成川の深めて解ける！英文法 INPUT"
+    title: "準動詞の意味上の主語(1)"
+    pages: "p.210-212"
+    type: "concept"
+    notes: ""
+  - id: "Nar_06_11"
+    book: "成川の深めて解ける！英文法 INPUT"
+    title: "準動詞の意味上の主語(2)"
+    pages: "p.213-216"
+    type: "concept"
+    notes: ""
+  - id: "Nar_06_12"
+    book: "成川の深めて解ける！英文法 INPUT"
+    title: "準動詞の意味上の主語(3)"
+    pages: "p.217-220"
+    type: "concept"
+    notes: ""
+  - id: "Nar_06_13"
+    book: "成川の深めて解ける！英文法 INPUT"
+    title: "準動詞の時制と否定"
+    pages: "p.221-224"
+    type: "concept"
+    notes: ""
+  - id: "Nar_06_14"
+    book: "成川の深めて解ける！英文法 INPUT"
+    title: "不定詞を用いた重要表現(1)"
+    pages: "p.225-227"
+    type: "expression"
+    notes: ""
+  - id: "Nar_06_15"
+    book: "成川の深めて解ける！英文法 INPUT"
+    title: "不定詞を用いた重要表現(2)"
+    pages: "p.228-230"
+    type: "expression"
+    notes: ""
+  - id: "Nar_06_16"
+    book: "成川の深めて解ける！英文法 INPUT"
+    title: "動名詞を用いた重要表現"
+    pages: "p.231-234"
+    type: "expression"
+    notes: ""
+  - id: "Nar_06_17"
+    book: "成川の深めて解ける！英文法 INPUT"
+    title: "分詞を用いた重要表現"
+    pages: "p.235-238"
+    type: "expression"
+    notes: ""
+
 section_knowledge_nodes:
   - section_id: "Nar_01_01"
     node_id: "nrv-001"
@@ -601,6 +651,31 @@ section_knowledge_nodes:
   - section_id: "Nar_06_09"
     node_id: "nrj-009"
     seq: 1
+  # B-07: Part 06 後半
+  - section_id: "Nar_06_10"
+    node_id: "nrj-010"
+    seq: 1
+  - section_id: "Nar_06_11"
+    node_id: "nrj-011"
+    seq: 1
+  - section_id: "Nar_06_12"
+    node_id: "nrj-012"
+    seq: 1
+  - section_id: "Nar_06_13"
+    node_id: "nrj-013"
+    seq: 1
+  - section_id: "Nar_06_14"
+    node_id: "nrj-014"
+    seq: 1
+  - section_id: "Nar_06_15"
+    node_id: "nrj-015"
+    seq: 1
+  - section_id: "Nar_06_16"
+    node_id: "nrj-016"
+    seq: 1
+  - section_id: "Nar_06_17"
+    node_id: "nrj-017"
+    seq: 1
 
 section_prerequisites:
   - section_id: "Nar_01_02"
@@ -664,3 +739,8 @@ section_prerequisites:
     prerequisite_id: "Nar_06_05"
   - section_id: "Nar_06_09"
     prerequisite_id: "Nar_06_08"
+  # B-07: Part 06 後半
+  - section_id: "Nar_06_11"
+    prerequisite_id: "Nar_06_10"
+  - section_id: "Nar_06_12"
+    prerequisite_id: "Nar_06_11"
