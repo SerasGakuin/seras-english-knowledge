@@ -1,0 +1,54 @@
+sentences:
+  - id: "ny-59-s1"
+    section_id: "Ny_59"
+    drill: 59
+    number: 1
+    role: "exercise"
+    english: "If someone were to ask you what language people in the United States speak in their own homes, your answer would probably be, \"English, of course!\""
+    japanese: "アメリカ合衆国の人々は自宅でどんな言語を話していますかと誰かが尋ねたら，おそらく「もちろん，英語だよ」と答えるだろう。"
+    notes: "出典: 広島経済大学"
+
+  - id: "ny-59-s2"
+    section_id: "Ny_59"
+    drill: 59
+    number: 2
+    role: "exercise"
+    english: "You might be surprised to learn, however, that that answer would be only partly correct."
+    japanese: "しかし，その答えは部分的にしか正しくないとわかれば驚くだろう。"
+    notes: "出典: 広島経済大学"
+
+sentence_structures:
+  - sentence_id: "ny-59-s1"
+    label: "overall"
+    value: "If S V O O, S V C"
+
+  - sentence_id: "ny-59-s1"
+    label: "details"
+    value: "[If(従接) someone(S) were to ask(V) you(O) [what language(疑問形容詞) people (in the United States)(M:形容詞句)(S) speak(V) (in their own homes)(M:副詞句)](O:疑問詞節)](M:仮定法were to), {S}your answer(S) would probably {V}be(V), {C}\"English, of course!\"(C)"
+
+  - sentence_id: "ny-59-s1"
+    label: "partial_translations"
+    value: |
+      ❶ アメリカ合衆国の人々は自宅でどんな言語を話していますかと誰かが尋ねたら（仮定法were to: 空想世界）
+      ❷ what language = 疑問形容詞（what＋名詞で「どんな〜」）
+
+  - sentence_id: "ny-59-s2"
+    label: "overall"
+    value: "S V M"
+
+  - sentence_id: "ny-59-s2"
+    label: "details"
+    value: "{S}You(S) might {V}be surprised(V) (to learn(to不定詞=副詞:理由), however, [that(従接) that answer(S:形容詞that) would be(V) only partly correct(C)](O:learnの目的語))(M:副詞句)"
+
+  - sentence_id: "ny-59-s2"
+    label: "partial_translations"
+    value: |
+      ❸ もし〜を知れば驚くだろう（if節の代わりにto learn〜 = 仮定法）
+      ❹ that that: 最初のthat=接続詞、次のthat=形容詞「その」
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-59-s1"
+    node_id: "nta-003"
+
+  - sentence_id: "ny-59-s2"
+    node_id: "nta-003"

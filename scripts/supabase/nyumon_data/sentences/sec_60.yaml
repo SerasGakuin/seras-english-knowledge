@@ -1,0 +1,30 @@
+sentences:
+  - id: "ny-60-s1"
+    section_id: "Ny_60"
+    drill: 60
+    number: 1
+    role: "exercise"
+    english: "If you were to walk on a bridge and see a boy in the water screaming for help, you would feel a much greater urge to leap in and pull him to safety than you would if you were part of a crowd."
+    japanese: "もし仮に橋の上を歩いていて水の中にいる少年が助けを求めて叫んでいるのを見たら，群衆の一部である場合よりずっと強く，水の中に飛び込みその少年を安全な場所まで引き上げなければならないと思うでしょう。"
+    notes: "出典: 神戸大学"
+
+sentence_structures:
+  - sentence_id: "ny-60-s1"
+    label: "overall"
+    value: "If S V and V O, S V O M"
+
+  - sentence_id: "ny-60-s1"
+    label: "details"
+    value: "[If(従接) you(S) were to walk(V) (on a bridge)(M:副詞句) and see(V) a boy (in the water)(M:副詞句) screaming (for help)(M:副詞句)(C:V-ing=SVOC)](M:仮定法were to), {S}you(S) would {V}feel(V) {O}a much greater urge (to leap in and pull him (to safety)(M:副詞句))(M:形容詞句)(O) [than(接続詞) you(S) would(V) [if(従接) you(S) were(V) part of a crowd(C)](M:仮定法過去)](M:比較)"
+
+  - sentence_id: "ny-60-s1"
+    label: "partial_translations"
+    value: |
+      ❶ もし仮に橋の上を歩いていて〜を見たら（仮定法were to）
+      ❷ 少年が助けを求めて叫んでいるのを見たら（see+O+V-ing = SVOC）
+      ❸ 水の中に飛び込みその少年を引き上げたいという衝動（to以下で一連の動作）
+      ❹ 群衆の一部である場合よりずっと強く（2つのif節の比較, much+比較級）
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-60-s1"
+    node_id: "nta-003"

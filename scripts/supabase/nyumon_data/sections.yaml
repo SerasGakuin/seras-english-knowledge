@@ -552,19 +552,25 @@ sections:
     title: "仮定法③"
     pages: "p.144-145"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: こんな質問されるだろうか？
+      一言: 「仮定法」は主観の問題で，「事実」は客観です。両者は水と油ぐらい違います。「仮定法は事実の逆」なんていう間違ったイメージが一刻も早く日本から消え去ることを祈っています。
   - id: "Ny_60"
     book: "入門英文問題精講"
     title: "仮定法④"
     pages: "p.146-147"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: あなたの身に起きるだろうか？
+      一言: 「比較」はとにかく「何と何をどのような基準で比較しているか」を考えることが大切です。いつもいつもそのように考えてください。
   - id: "Ny_61"
     book: "入門英文問題精講"
     title: "強調構文①"
     pages: "p.148-149"
     type: "exercise"
-    notes: ""
+    notes: |
+      読むヒント: itとその後ろのthatで……
+      一言: 「貧しき者を助ける」というのは当たり前だと思うが，「実際にどんなことをしているか」と問われると言葉の持つ意味に気づかされる。中世の頃には奴隷制度があるような時代では，そのような発想の人々は教会を除くと少なかっただろう。
   - id: "Ny_62"
     book: "入門英文問題精講"
     title: "強調構文②"
@@ -852,6 +858,15 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Ny_58"
     node_id: "nta-002"
+    seq: 1
+  - section_id: "Ny_59"
+    node_id: "nta-003"
+    seq: 1
+  - section_id: "Ny_60"
+    node_id: "nta-003"
+    seq: 1
+  - section_id: "Ny_61"
+    node_id: "nta-004"
     seq: 1
 
 section_prerequisites: []

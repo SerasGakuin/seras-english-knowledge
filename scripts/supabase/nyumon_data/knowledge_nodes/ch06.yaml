@@ -62,6 +62,90 @@ knowledge_nodes:
         are unable to の後の2つの動詞 choose と afford をつなぐ。
         a good bottle (of wine) は共通の目的語。
 
+  - id: "nta-003"
+    name: "仮定法 were to V と直説法との使い分け"
+    category: "その他"
+    priority: "P1"
+    notes: |
+      Point分類: ❶❸〔仮定法〕（問59）、❶〔仮定法〕（問60）
+      〈If S' were to V', S would V〉の形と、仮定法の本質（主観）、直説法との使い分けを理解する。
+      ■ were to V の構造（問59 ❶、問60 ❶）:
+        〈If S' were to (V'), S would[could/might/should] V.〉で空想世界を示す。
+        「仮にS'がV'するとしたら，SはVするだろう」という意味。
+        were to (V) は元は be to (V)「Vの方向へ進むなら」の意味。
+        仮定法では主語の人称にかかわらずbe動詞はwereを使う
+        （元々仮定法のbe動詞はwereにする決まりがあった）。
+      ■ 仮定法の本質は主観（問59 ❶）:
+        「仮定法は事実の逆」は不正確。仮定法の「法」= mood =「気分」。
+        筆者が「ありそうだ」と思えば仮定法は不要、
+        「可能性は低そうだ」と思えば仮定法を使う。
+        本文: 実際にそのような質問を受ける可能性はとうてい高くない → 仮定法。
+        仮定法過去完了は「過去の事実の逆」しか表さないが、
+        仮定法過去は「現在の事実の逆」に限らない。
+      ■ 主節の助動詞（問59 ❸）:
+        would を含む文の前に If節で仮定法が使われていれば、
+        主節も仮定法に合わせて would/could/might/should を使う。
+        第2文: if節の代わりに to learn〜「(もし)～を知れば」で仮定法。
+      ■ 直説法と仮定法の使い分け（問60 ❶）:
+        (1) 直説法: If S'+V', S (will)+V「S'がV'なら，SはV(だろう)」
+            → 起こる可能性が高いと話者が考える仮定。主節の助動詞は省ける。
+        (2) 仮定法: If S'+V'(過去形), S would[could/might/should]+V
+            → 起こる可能性が低いと話者が考える仮定。主節の助動詞は省けない。
+      ❷（問59）what language = 疑問形容詞:
+        疑問代名詞: What do you like?「何が好きなの」
+        疑問形容詞: What time is it now?「今何時ですか」
+        〈what＋名詞〉の形。本文では what language「どんな言語」。
+      ❹（問59）that that:
+        最初のthatは接続詞（learnの目的語を導く）。
+        次のthatは形容詞「その」でanswerを修飾。
+        that answerは前文の"English, of course!"を指す。
+        however は副詞。文と文をつなぐことはできない。
+      ❷（問60）see+O+V-ing = SVOC:
+        see[hear]+O+原形不定詞「Oが～するのを見る[聞く]」
+        see[hear]+O+(V)ing「Oが～しているのを見る[聞く]」
+        本文: see a boy (in the water) screaming for help
+        ×「助けを求めて叫んでいる水の中の少年を見る」ではない。
+      ❸（問60）and がつなぐもの:
+        leap in と pull him to safety が一連の動作。
+        toが1つだけ → 一連の動作であることを示す。
+      ❹（問60）2つのif節同士の比較:
+        A: 1人でいるとき → 少年を助けたいと思う衝動の強さ
+        B: 集団の一部でいるとき → 少年を助けたいと思う衝動の強さ
+        不等号 A＞B。much は greater を強調する副詞。
+        than以下にif節がある場合「～の場合より」と訳す。
+
+  - id: "nta-004"
+    name: "強調構文の基本"
+    category: "その他"
+    priority: "P1"
+    notes: |
+      Point分類: ❹〔強調構文〕（問61）
+      It is...that の強調構文の識別・構造理解・訳出法を学ぶ。
+      ■ 強調構文の基本形（問61 ❹）:
+        〈It is＋名詞＋that＋主語あるいは目的語のない文〉→ まず強調構文と考える。
+        強調したい要素を It is と that[who] で挟み込んだ構造。
+        例: I like these dogs. → It is these dogs that I like.
+        強調構文でなければ it=指示代名詞, that=関係代名詞だが、そのような文はまれ。
+      ■ 訳出法（問61 ❹）:
+        強調された名詞Aを最後に置き「〜なのはAだ」とするのが一般的。
+        本文: 「貧しい者を助けたのは教会だった」
+      ❶（問61）the poor = the＋形容詞「〜な人々」:
+        〈the＋形容詞〉で「～な人々」の意味。ただしどの形容詞でも使えるわけではない。
+        long は副詞「長い間」。
+        consider O C の受動態: O be considered C by S。
+        能動態: Major religions have long considered helping the poor an obligation.
+      ❷（問61）They = major religions:
+        They は直前の最も近い複数形名詞を指す。
+        helping less fortunate people は動名詞でthat節中の主語。
+        less は「程度がより少なく」で fortunate の度合いを弱める。
+        less fortunate people ≒ the poor。
+      ❸（問61）For example以降:
+        「主な宗教は貧しき者を救うのは責務と考えてきた」の具体例が展開される。
+      ❺（問61）those in need:
+        元の形は those who were in need。
+        those who〜「〜する人達」の who+be動詞が省略。
+        in need =「何かを必要としている状態の」→「困っている」。
+
 understanding_goals:
   - node_id: "nta-001"
     seq: 1
@@ -82,6 +166,26 @@ understanding_goals:
   - node_id: "nta-002"
     seq: 3
     goal: "If節のない仮定法（比較構文・to不定詞に潜む仮定法）を見抜ける"
+
+  - node_id: "nta-003"
+    seq: 1
+    goal: "〈If S' were to V', S would V〉の形を識別し、空想世界の仮定法と説明できる"
+  - node_id: "nta-003"
+    seq: 2
+    goal: "仮定法の本質が「可能性を低く見積もる主観」であることを説明できる"
+  - node_id: "nta-003"
+    seq: 3
+    goal: "直説法（If S'+V', S will V）と仮定法（If S'+過去形, S would V）の違いを区別できる"
+
+  - node_id: "nta-004"
+    seq: 1
+    goal: "〈It is＋名詞＋that＋主語/目的語のない文〉を強調構文と識別できる"
+  - node_id: "nta-004"
+    seq: 2
+    goal: "強調構文を元の文に復元できる"
+  - node_id: "nta-004"
+    seq: 3
+    goal: "強調構文を「〜なのはAだ」の形で正確に訳出できる"
 
 check_points:
   - node_id: "nta-001"
@@ -110,11 +214,42 @@ check_points:
     question: "同時期・同条件の仮定法とは何か？ 例を挙げて説明せよ。"
     answer: "2つのものを比較する際、時間や条件を同一に揃えて仮定法で表す用法。例: 「この講習会では、他の授業では習えないようなことを教えてもらえる」の「習えないような」は、同じ時間に他の授業を聞くという仮定を含むため仮定法が可能。"
 
+  - node_id: "nta-003"
+    seq: 1
+    question: "〈If S' were to V', S would V〉はどのような意味か？ were to の由来も含めて説明せよ。"
+    answer: "「仮にS'がV'するとしたら，SはVするだろう」という空想世界の仮定法。were to (V) は元は be to (V)「Vの方向へ進むなら」の意味。仮定法では主語の人称にかかわらずbe動詞はwereを使う（元々仮定法のbe動詞はwereにする決まりがあった）。"
+  - node_id: "nta-003"
+    seq: 2
+    question: "「仮定法は事実の逆」という説明はなぜ不正確か？"
+    answer: "仮定法の「法」= mood =「気分」で、「(主観的な)仮定の気分」の意味。筆者が「可能性は低そうだ」と思えば仮定法を使う。結果的に事実の逆になることもあるが、そうでない場合もある。仮定法過去完了は「過去の事実の逆」のみだが、仮定法過去は主観の問題。"
+  - node_id: "nta-003"
+    seq: 3
+    question: "直説法 If S'+V', S will V と仮定法 If S'+V'(過去形), S would V の違いを説明せよ。"
+    answer: "直説法: 起こる可能性が高いと話者が考える仮定。主節の助動詞(will)は省ける。仮定法: 起こる可能性が低いと話者が考える仮定。主節の助動詞(would/could/might/should)は省けない。"
+
+  - node_id: "nta-004"
+    seq: 1
+    question: "強調構文の基本形を述べよ。"
+    answer: "〈It is＋名詞＋that＋主語あるいは目的語のない文〉。強調したい要素をIt isとthat[who]で挟み込んだ構造。強調構文でなければit=指示代名詞、that=関係代名詞だが、そのような文はまれ。"
+  - node_id: "nta-004"
+    seq: 2
+    question: "It was the Church that helped the poor. を強調構文として元の文に復元せよ。"
+    answer: "The Church helped the poor. 強調構文の It was ... that を外し、挟まれた要素(the Church)を元の位置(主語)に戻す。"
+  - node_id: "nta-004"
+    seq: 3
+    question: "強調構文の訳出法を述べよ。"
+    answer: "強調された名詞Aを最後に置き「〜なのはAだ」とするのが一般的。例: It was the Church that helped the poor. →「貧しい者を助けたのは教会だった」。"
+
 node_prerequisites:
   - node_id: "nta-001"
     prerequisite_id: "nbk-002"
   - node_id: "nta-002"
     prerequisite_id: "nta-001"
+
+  - node_id: "nta-003"
+    prerequisite_id: "nta-001"
+  - node_id: "nta-004"
+    prerequisite_id: "nbk-010"
 
 knowledge_references:
   - node_id: "nta-001"
@@ -125,3 +260,15 @@ knowledge_references:
     book: "入門英文問題精講"
     section_id: "Ny_58"
     pages: "p.142-143"
+  - node_id: "nta-003"
+    book: "入門英文問題精講"
+    section_id: "Ny_59"
+    pages: "p.144-145"
+  - node_id: "nta-003"
+    book: "入門英文問題精講"
+    section_id: "Ny_60"
+    pages: "p.146-147"
+  - node_id: "nta-004"
+    book: "入門英文問題精講"
+    section_id: "Ny_61"
+    pages: "p.148-149"

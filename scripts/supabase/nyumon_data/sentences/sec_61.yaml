@@ -1,0 +1,73 @@
+sentences:
+  - id: "ny-61-s1"
+    section_id: "Ny_61"
+    drill: 61
+    number: 1
+    role: "exercise"
+    english: "Helping the poor has long been considered an obligation by major religions."
+    japanese: "貧しい人々を助けることは，主要な宗教によって責務であると長い間考えられてきた。"
+    notes: ""
+
+  - id: "ny-61-s2"
+    section_id: "Ny_61"
+    drill: 61
+    number: 2
+    role: "exercise"
+    english: "They teach that helping less fortunate people is important."
+    japanese: "そうした宗教は，恵まれない人々を助けることは重要だと教える。"
+    notes: ""
+
+  - id: "ny-61-s3"
+    section_id: "Ny_61"
+    drill: 61
+    number: 3
+    role: "exercise"
+    english: "For example, in Europe during the Middle Ages, it was the Church that helped the poor by providing food and money for those in need."
+    japanese: "例えば，ヨーロッパでは中世に困っている人々に食べ物とお金を与えることによって貧しき者を助けたのは教会だった。"
+    notes: "* the Middle Ages「中世」（問題文の語彙注釈）"
+
+sentence_structures:
+  - sentence_id: "ny-61-s1"
+    label: "overall"
+    value: "S V C M"
+
+  - sentence_id: "ny-61-s1"
+    label: "details"
+    value: "{S}(Helping the poor)(S:動名詞句) has long {V}been considered(V:受動態) {C}an obligation(C) (by major religions)(M:副詞句)"
+
+  - sentence_id: "ny-61-s1"
+    label: "partial_translations"
+    value: |
+      ❶ 貧しい者を助けるのは責務だと長い間考えられてきた（the poor = the+形容詞「〜な人々」、longは副詞）
+
+  - sentence_id: "ny-61-s2"
+    label: "overall"
+    value: "S V O"
+
+  - sentence_id: "ny-61-s2"
+    label: "details"
+    value: "{S}They(S=major religions) {V}teach(V) {O}[that(従接) (helping less fortunate people)(S:動名詞句) is(V) important(C)](O)"
+
+  - sentence_id: "ny-61-s3"
+    label: "overall"
+    value: "M, it was C that V O M (強調構文)"
+
+  - sentence_id: "ny-61-s3"
+    label: "details"
+    value: "(For example)(M:副詞句), (in Europe)(M:副詞句) (during the Middle Ages)(M:副詞句), {S}it(S:強調構文) {V}was(V) {C}the Church(C:強調要素) [that(強調構文) helped(V) the poor(O) (by providing food and money (for those (in need)(M:形容詞句))(M:副詞句))(M:副詞句)]"
+
+  - sentence_id: "ny-61-s3"
+    label: "partial_translations"
+    value: |
+      ❹ 貧しき者を助けたのは教会だった（強調構文: It was A that〜 →「〜なのはAだ」）
+      ❺ 困っている人々（those who were in need の who+be省略）
+
+sentence_knowledge_tags:
+  - sentence_id: "ny-61-s1"
+    node_id: "nta-004"
+
+  - sentence_id: "ny-61-s2"
+    node_id: "nta-004"
+
+  - sentence_id: "ny-61-s3"
+    node_id: "nta-004"

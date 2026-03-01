@@ -730,32 +730,32 @@ sections:
     title: "仮定法③"
     type: "exercise"
     pages: "p.144-145"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: "nta-003(仮定法 were to V) Ny_60と共有"
   Ny_60:
     title: "仮定法④"
     type: "exercise"
     pages: "p.146-147"
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 1
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: "nta-003をNy_59と共有（仮定法 were to V）"
   Ny_61:
     title: "強調構文①"
     type: "exercise"
     pages: "p.148-149"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-03"
+    notes: "nta-004(強調構文の基本)"
   Ny_62:
     title: "強調構文②"
     type: "exercise"
@@ -869,8 +869,8 @@ sections:
 
 summary:
   total_sections: 85
-  completed: 71
+  completed: 74
   in_progress: 0
-  not_started: 14
-  total_knowledge_nodes: 58
-  total_sentences: 186
+  not_started: 11
+  total_knowledge_nodes: 60
+  total_sentences: 192
