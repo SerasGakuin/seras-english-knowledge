@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-199-p01"
+    section_id: "Scr_199"
+    drill: 1
+    number: 833
+    role: "exam"
+    english: "He deliberately broke the rules to draw attention."
+    japanese: "彼は注目を集めるためにわざとルールを破った。"
+    notes: "〈頻出〉deliberately=intentionally「故意に/わざと」(=on purpose⇨1207)。draw attention「注目を集める」。"
+  - id: "scr-199-p02"
+    section_id: "Scr_199"
+    drill: 1
+    number: 834
+    role: "exam"
+    english: "Practically nobody admits their own errors."
+    japanese: "自分で自分の間違いを認めるような人はまずいない。"
+    notes: "関西外語大。practically=virtually「ほとんど/事実上」(=almost)。"
+  - id: "scr-199-p03"
+    section_id: "Scr_199"
+    drill: 1
+    number: 835
+    role: "exam"
+    english: "Eventually, he arrived at his office."
+    japanese: "ついに彼は会社に着いた。"
+    notes: "関西外語大。eventually=finally「結局は/ついに」(=in the end)。"
+  - id: "scr-199-p04"
+    section_id: "Scr_199"
+    drill: 1
+    number: 836
+    role: "exam"
+    english: "I liked the job initially, but it soon got quite boring."
+    japanese: "最初のうちはその仕事が好きだったが、すぐにそれはかなり退屈なものになった。"
+    notes: "〈発展〉亜細亜大。initially=originally「最初は/最初のうちは」(=at first⇨1240)。文修飾の副詞。"
+
+sentence_structures:
+  - sentence_id: "scr-199-p01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-199-p01"
+    label: "details"
+    value: "<He>(S) deliberately broke(V) <the rules>(O) [to draw attention](M:目的)"
+  - sentence_id: "scr-199-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-199-p02"
+    label: "details"
+    value: "<Practically nobody>(S) admits(V) <their own errors>(O)"
+  - sentence_id: "scr-199-p03"
+    label: "overall"
+    value: "M, S V M"
+  - sentence_id: "scr-199-p03"
+    label: "details"
+    value: "[Eventually](M:文修飾), <he>(S) arrived(V) [at his office](M:場所)"
+  - sentence_id: "scr-199-p04"
+    label: "overall"
+    value: "S V O M, but S V C"
+  - sentence_id: "scr-199-p04"
+    label: "details"
+    value: "<I>(S) liked(V) <the job>(O) [initially](M:文修飾), but <it>(S) soon got(V) <quite boring>(C:形容詞)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-199-p01"
+    node_id: "sgi-010"
+  - sentence_id: "scr-199-p02"
+    node_id: "sgi-010"
+  - sentence_id: "scr-199-p03"
+    node_id: "sgi-010"
+  - sentence_id: "scr-199-p04"
+    node_id: "sgi-010"

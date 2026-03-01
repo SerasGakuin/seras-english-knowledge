@@ -1,0 +1,214 @@
+# Scr_229: Theme 229 群動詞（動詞+名詞+前置詞 ほか）(2) → sid-010
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-229-p01"
+    section_id: "Scr_229"
+    drill: 1
+    number: 1091
+    role: "exam"
+    english: "The young boys made fun of that singer's hair style."
+    japanese: "少年たちがその歌手のヘアスタイルを冷やかした。"
+    notes: "出典: 東京理科大; make fun of〜/make a fool of〜/pull one's leg「〜を笑い者にする/〜をからかう」(=ridicule/laugh at/tease)"
+  - id: "scr-229-p02"
+    section_id: "Scr_229"
+    drill: 1
+    number: 1092
+    role: "exam"
+    english: "I am sick of being made a fool of."
+    japanese: "笑い者にされてうんざりしている。"
+    notes: "出典: 立命館大; make a fool of〜「〜を笑い者にする/〜をからかう」(=ridicule/laugh at/tease)"
+  - id: "scr-229-p03"
+    section_id: "Scr_229"
+    drill: 1
+    number: 1093
+    role: "exam"
+    english: "He is just pulling your leg."
+    japanese: "彼はあなたをからかっているだけですよ。"
+    notes: "出典: 関西学院大; pull one's leg「〜をからかう」(=tease); 「足を引っ張る/邪魔する」の意味では用いない"
+  - id: "scr-229-p04"
+    section_id: "Scr_229"
+    drill: 1
+    number: 1094
+    role: "exam"
+    english: "At restaurants, she can never make up her mind about what to order."
+    japanese: "彼女はレストランで何を注文するか決められない。"
+    notes: "難易度: 基本/頻出; 出典: 東京理科大; make up one's mind「決心する」(=decide/determine); 後ろにwh-節・句/to do/that節/about[on]が続く"
+  - id: "scr-229-p05"
+    section_id: "Scr_229"
+    drill: 1
+    number: 1095
+    role: "exam"
+    english: "Some important facts were brought to light during the investigation."
+    japanese: "いくつかの重要な事実が調査の間に明らかにされた。"
+    notes: "出典: 中央大; bring A to light「Aを明るみに出す/Aを暴露する」(=reveal); 本問は受身形; ⇔come to light「明るみに出る」(⇨PU!187)"
+  - id: "scr-229-p06"
+    section_id: "Scr_229"
+    drill: 1
+    number: 1096
+    role: "exam"
+    english: "Did you get in touch with the manager?"
+    japanese: "支配人と連絡がとれましたか。"
+    notes: "難易度: 頻出; 出典: 成城大; get in touch with〜「〜と連絡をとる」(=contact); keep in touch with〜「〜と連絡をとり合う」; 一時的ならget、継続的ならkeep"
+  - id: "scr-229-p07"
+    section_id: "Scr_229"
+    drill: 1
+    number: 1097
+    role: "exam"
+    english: "If John doesn't have his own way, he gets very angry."
+    japanese: "ジョンは自分の思いどおりにしないと、とても腹を立てる。"
+    notes: "出典: 上智大; have[get] one's (own) way「自分の思い通りにする」; ownは省略可"
+  - id: "scr-229-p08"
+    section_id: "Scr_229"
+    drill: 1
+    number: 1098
+    role: "exam"
+    english: "Hold your tongue. It's not nice to gossip about people."
+    japanese: "黙りなさい。人のうわさ話をするのはよくないですよ。"
+    notes: "出典: 駒澤大; hold one's tongue「黙っている」(=keep silent)"
+  - id: "scr-229-p09"
+    section_id: "Scr_229"
+    drill: 1
+    number: 1099
+    role: "exam"
+    english: "Before blowing out a candle, take a breath in and hold your breath."
+    japanese: "ろうそくを吹き消す前に、息を吸っていっとき止めなさい。"
+    notes: "出典: 芝浦工大; hold one's breath「（いっとき）息を止める/息を殺す」"
+  - id: "scr-229-p10"
+    section_id: "Scr_229"
+    drill: 1
+    number: 1100
+    role: "exam"
+    english: "She has made rapid progress in English."
+    japanese: "彼女は英語が急速に進歩した。"
+    notes: "出典: 琉球大; make progress「進歩する」; progressは不可算名詞(⇨PU!129)"
+  - id: "scr-229-p11"
+    section_id: "Scr_229"
+    drill: 1
+    number: 1101
+    role: "exam"
+    english: "We then made our way on foot down a steep hill."
+    japanese: "それから私たちは、徒歩で急な丘を下った。"
+    notes: "出典: 中央大; make one's way「進む」(=proceed/go on); PU!194: feel/force/elbow/find one's wayなどのバリエーション"
+
+  # === 例文（example） ===
+  - id: "scr-229-e01"
+    section_id: "Scr_229"
+    drill: 0
+    number: 1096
+    role: "example"
+    english: "Kelly kept in touch with her old classmates."
+    japanese: "ケリーは昔のクラスメートと連絡を取り続けた。"
+    notes: "プラスα; keep in touch with〜「〜と連絡をとり合う」; 継続的に連絡をとる場合はkeep"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-229-p01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-229-p01"
+    label: "details"
+    value: "<The young boys>(S) made fun of(V) <that singer's hair style>(O)."
+  # p02
+  - sentence_id: "scr-229-p02"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-229-p02"
+    label: "details"
+    value: "I(S) am(V) <sick of being made a fool of>(C)."
+  # p03
+  - sentence_id: "scr-229-p03"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-229-p03"
+    label: "details"
+    value: "He(S) is just pulling(V) <your leg>(O)."
+  # p04
+  - sentence_id: "scr-229-p04"
+    label: "overall"
+    value: "M S V O M"
+  - sentence_id: "scr-229-p04"
+    label: "details"
+    value: "[At restaurants](M:場所), she(S) can never make up(V) <her mind>(O) [about what to order](M)."
+  # p05
+  - sentence_id: "scr-229-p05"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-229-p05"
+    label: "details"
+    value: "<Some important facts>(S) were brought to light(V:受動態) [during the investigation](M:時)."
+  # p06
+  - sentence_id: "scr-229-p06"
+    label: "overall"
+    value: "V S O"
+  - sentence_id: "scr-229-p06"
+    label: "details"
+    value: "Did you(S) get in touch with(V) <the manager>(O)?"
+  # p07
+  - sentence_id: "scr-229-p07"
+    label: "overall"
+    value: "M S V C"
+  - sentence_id: "scr-229-p07"
+    label: "details"
+    value: "[If John doesn't have his own way](M:条件節), he(S) gets(V) <very angry>(C)."
+  # p08
+  - sentence_id: "scr-229-p08"
+    label: "overall"
+    value: "V O"
+  - sentence_id: "scr-229-p08"
+    label: "details"
+    value: "Hold(V:命令文) <your tongue>(O). It(S) is(V) not <nice>(C) [to gossip about people](M)."
+  # p09
+  - sentence_id: "scr-229-p09"
+    label: "overall"
+    value: "M V O V O"
+  - sentence_id: "scr-229-p09"
+    label: "details"
+    value: "[Before blowing out a candle](M:時), take(V:命令文) <a breath>(O) in and hold(V:命令文) <your breath>(O)."
+  # p10
+  - sentence_id: "scr-229-p10"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-229-p10"
+    label: "details"
+    value: "She(S) has made(V) <rapid progress>(O) [in English](M)."
+  # p11
+  - sentence_id: "scr-229-p11"
+    label: "overall"
+    value: "S M V O M M"
+  - sentence_id: "scr-229-p11"
+    label: "details"
+    value: "We(S) [then](M:時) made(V) <our way>(O) [on foot](M:様態) [down a steep hill](M:場所)."
+  # e01
+  - sentence_id: "scr-229-e01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-229-e01"
+    label: "details"
+    value: "Kelly(S) kept in touch with(V) <her old classmates>(O)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-229-p01"
+    node_id: "sid-010"
+  - sentence_id: "scr-229-p02"
+    node_id: "sid-010"
+  - sentence_id: "scr-229-p03"
+    node_id: "sid-010"
+  - sentence_id: "scr-229-p04"
+    node_id: "sid-010"
+  - sentence_id: "scr-229-p05"
+    node_id: "sid-010"
+  - sentence_id: "scr-229-p06"
+    node_id: "sid-010"
+  - sentence_id: "scr-229-p07"
+    node_id: "sid-010"
+  - sentence_id: "scr-229-p08"
+    node_id: "sid-010"
+  - sentence_id: "scr-229-p09"
+    node_id: "sid-010"
+  - sentence_id: "scr-229-p10"
+    node_id: "sid-010"
+  - sentence_id: "scr-229-p11"
+    node_id: "sid-010"
+  - sentence_id: "scr-229-e01"
+    node_id: "sid-010"

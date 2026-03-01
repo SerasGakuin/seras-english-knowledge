@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-202-p01"
+    section_id: "Scr_202"
+    drill: 1
+    number: 843
+    role: "exam"
+    english: "(a) He asked me, \"What line of work are you in?\" (b) She decided to take a strong line over the matter. (c) Would you call back later? She's on another line. (d) Many people were waiting in a line to get tickets for the baseball game."
+    japanese: "(a)「どんな種類のお仕事をされていますか」と彼は私に尋ねた。(b) 彼女はその件に関して強硬な態度をとることに決めた。(c) 後でかけ直してくれますか。彼女は別の電話に出ています。(d) たくさんの人が野球の試合のチケットを買うために一列に並んで待っていた。"
+    notes: "(c)共立女子大・(d)早大。共通語: line。(a)名「職業/職種」(b)名「方針/態度」(c)名「電話/電話線」(d)名「列」。(a) line of work「職種」は盲点になりやすい。(b) take a strong line over〜「〜に強硬な態度をとる」。(d) in (a) line「一列に」。"
+  - id: "scr-202-p02"
+    section_id: "Scr_202"
+    drill: 1
+    number: 844
+    role: "exam"
+    english: "(a) He is mean with money. (b) They grew up on the mean streets of a poor city. (c) He said, \"I mean what I say.\" (d) I don't mean to claim that there is no exception to this rule."
+    japanese: "(a) 彼はお金に対してけちである。(b) 彼らは貧しい都市の汚い通りで育った。(c)「私は本気で言っているのです」と彼は言った。(d) この規則に例外がないと主張するつもりはありません。"
+    notes: "(d)尾道市大。共通語: mean。(a)形「けちな」(=stingy) (b)形「みすぼらしい」(c)動「つもりで言う」(d)動 mean to do「〜するつもり」(⇨509)。I mean what I say.=I mean it.「本気で言っている」。"
+  - id: "scr-202-p03"
+    section_id: "Scr_202"
+    drill: 1
+    number: 845
+    role: "exam"
+    english: "(a) He covered his face with his hands. (b) We covered the distance from Tokyo to Nagoya by car in six hours. (c) One thousand dollars will cover all the expenses for the party. (d) This book covers the history of ancient civilizations."
+    japanese: "(a) 彼は両手で顔を覆った。(b) 私たちは東京から名古屋までの距離を車で6時間で移動した。(c) 1,000ドルあればパーティーの費用がすべてまかなえるでしょう。(d) この本は古代文明の歴史を扱っている。"
+    notes: "(c)中部大。共通語: cover。(a)動「覆う」(⇔uncover) (b)動「距離を行く」(c)動「費用をまかなう」(d)動「範囲を扱う」。(b)(d)の意味に注意。"
+
+sentence_structures:
+  - sentence_id: "scr-202-p01"
+    label: "overall"
+    value: "(a) S V O / (b) S V O M / (c) V M? S V M / (d) S V M"
+  - sentence_id: "scr-202-p01"
+    label: "details"
+    value: "(a) <He>(S) asked(V) <me, \"What line of work are you in?\">(O) (b) <She>(S) decided to take(V) <a strong line>(O) [over the matter](M) (c) Would <you>(S) call back(V) [later](M)? <She>(S) 's(V) [on another line](M) (d) <Many people>(S) were waiting(V) [in a line to get tickets for the baseball game](M)"
+  - sentence_id: "scr-202-p02"
+    label: "overall"
+    value: "(a) S V C M / (b) S V M / (c) S V O / (d) S V O"
+  - sentence_id: "scr-202-p02"
+    label: "details"
+    value: "(a) <He>(S) is(V) <mean>(C:形容詞) [with money](M) (b) <They>(S) grew up(V) [on the mean streets of a poor city](M) (c) <He>(S) said(V) <\"I mean what I say\">(O:直接話法) (d) <I>(S) don't mean(V) <to claim that there is no exception to this rule>(O:不定詞)"
+  - sentence_id: "scr-202-p03"
+    label: "overall"
+    value: "(a) S V O M / (b) S V O M / (c) S V O / (d) S V O"
+  - sentence_id: "scr-202-p03"
+    label: "details"
+    value: "(a) <He>(S) covered(V) <his face>(O) [with his hands](M:手段) (b) <We>(S) covered(V) <the distance from Tokyo to Nagoya>(O) [by car in six hours](M) (c) <One thousand dollars>(S) will cover(V) <all the expenses for the party>(O) (d) <This book>(S) covers(V) <the history of ancient civilizations>(O)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-202-p01"
+    node_id: "sgi-012"
+  - sentence_id: "scr-202-p02"
+    node_id: "sgi-012"
+  - sentence_id: "scr-202-p03"
+    node_id: "sgi-012"

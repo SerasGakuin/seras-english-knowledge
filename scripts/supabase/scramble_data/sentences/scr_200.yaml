@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-200-p01"
+    section_id: "Scr_200"
+    drill: 1
+    number: 837
+    role: "exam"
+    english: "(a) Mary was afraid she wouldn't be able to bear the pain. (b) The polar bear lives near the North Pole. (c) This tree doesn't bear fruit. (d) I bear no grudge against you."
+    japanese: "(a) メアリーはその痛みに耐えられないのではないかと心配した。(b) ホッキョクグマは北極の近くにすんでいる。(c) この木は実をつけない。(d) 私は君にまったく恨みを抱いていない。"
+    notes: "(a)(b)長崎大・(c)立教大・(d)早大。共通語: bear。(a)動「耐える」(=stand) (b)名「クマ」(c)動「実をつける/子を産む」(d)動「心に抱く」。bear fruit「実をつける/実を結ぶ」も要注意。"
+  - id: "scr-200-p02"
+    section_id: "Scr_200"
+    drill: 1
+    number: 838
+    role: "exam"
+    english: "(a) I can't figure out why he is always so hard on me. (b) We saw a figure of a woman in the mist. (c) She is a well-known public figure around here. (d) He demanded a figure that was more than we could pay."
+    japanese: "(a) 彼がなぜいつも私にそんなにつらく当たるのか理解できない。(b) 私たちは霧の中に女性の姿を見た。(c) 彼女はこの辺りではよく知られている有名人です。(d) 彼は私たちには支払えないほどの金額を要求した。"
+    notes: "〈発展〉(a)(b)専修大・(c)(d)東京理科大。共通語: figure。(a)動 figure out〜「理解する」(=understand)(⇨903) (b)名「人の姿/人影」(c)名「人物」(d)名「数字/額」。〈重要〉(d) more than A can〜「Aが〜できないほど（の）」(⇨284)。"
+  - id: "scr-200-p03"
+    section_id: "Scr_200"
+    drill: 1
+    number: 839
+    role: "exam"
+    english: "(a) You'll miss the bus if you don't hurry. (b) The post office is on the corner. You can't miss it. (c) I will miss you so much."
+    japanese: "(a) 急がないとバスに乗り遅れますよ。(b) 郵便局は角にあります。すぐ見つかりますよ。(c) あなたがいなくなると、とても寂しくなりますよ。"
+    notes: "〈頻出〉(a)昭和女子大・(b)京都産業大。共通語: miss。基本義「〜しそこなう」。(a)動「乗りそこなう」(⇔catch) (b)動「見つけそこなう」(c)動「寂しく思う」。追加用法: miss the point/miss classes/miss lunchも重要。入試では(c)「寂しく思う」が狙われる。"
+  - id: "scr-200-e01"
+    section_id: "Scr_200"
+    drill: 0
+    number: 837
+    role: "example"
+    english: "Patience often bears fruit in the long run."
+    japanese: "忍耐は長い目で見ればしばしば実を結ぶ。"
+    notes: "プラスα。bear fruit「（木が）実をつける/（努力が）実を結ぶ」。"
+
+sentence_structures:
+  - sentence_id: "scr-200-p01"
+    label: "overall"
+    value: "(a) S V C / (b) S V M / (c) S V O / (d) S V O M"
+  - sentence_id: "scr-200-p01"
+    label: "details"
+    value: "(a) <Mary>(S) was afraid(V) <she wouldn't be able to bear the pain>(C:that節) (b) <The polar bear>(S) lives(V) [near the North Pole](M:場所) (c) <This tree>(S) doesn't bear(V) <fruit>(O) (d) <I>(S) bear(V) <no grudge>(O) [against you](M)"
+  - sentence_id: "scr-200-p02"
+    label: "overall"
+    value: "(a) S V O / (b) S V O M / (c) S V C M / (d) S V O"
+  - sentence_id: "scr-200-p02"
+    label: "details"
+    value: "(a) <I>(S) can't figure out(V) <why he is always so hard on me>(O:間接疑問) (b) <We>(S) saw(V) <a figure of a woman>(O) [in the mist](M) (c) <She>(S) is(V) <a well-known public figure>(C) [around here](M) (d) <He>(S) demanded(V) <a figure that was more than we could pay>(O)"
+  - sentence_id: "scr-200-p03"
+    label: "overall"
+    value: "(a) S V O M / (b) S V M. S V O / (c) S V O M"
+  - sentence_id: "scr-200-p03"
+    label: "details"
+    value: "(a) <You>(S) 'll miss(V) <the bus>(O) [if you don't hurry](M:条件) (b) <The post office>(S) is(V) [on the corner](M). <You>(S) can't miss(V) <it>(O) (c) <I>(S) will miss(V) <you>(O) [so much](M:程度)"
+  - sentence_id: "scr-200-e01"
+    label: "overall"
+    value: "S M V O M"
+  - sentence_id: "scr-200-e01"
+    label: "details"
+    value: "<Patience>(S) [often](M:頻度) bears(V) <fruit>(O) [in the long run](M:時)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-200-p01"
+    node_id: "sgi-011"
+  - sentence_id: "scr-200-p02"
+    node_id: "sgi-011"
+  - sentence_id: "scr-200-p03"
+    node_id: "sgi-011"
+  - sentence_id: "scr-200-e01"
+    node_id: "sgi-011"

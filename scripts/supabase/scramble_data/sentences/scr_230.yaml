@@ -1,0 +1,214 @@
+# Scr_230: Theme 230 群動詞（動詞+名詞+前置詞 ほか）(3) → sid-010
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-230-p01"
+    section_id: "Scr_230"
+    drill: 1
+    number: 1102
+    role: "exam"
+    english: "Nobody seems to have paid attention to what he said."
+    japanese: "だれも彼の言うことに注意を払っていなかったようです。"
+    notes: "難易度: 頻出; 出典: 青山学院大; pay attention to〜/take notice of〜「〜に注意を払う」(=attend to/look out for⇨893)"
+  - id: "scr-230-p02"
+    section_id: "Scr_230"
+    drill: 1
+    number: 1103
+    role: "exam"
+    english: "I hope you'll take notice of what I'm going to tell you."
+    japanese: "これからあなたにお話しすることを注意して聞いてください。"
+    notes: "出典: 名古屋外語大; take notice of〜「〜に注意を払う」(=attend to/look out for⇨893)"
+  - id: "scr-230-p03"
+    section_id: "Scr_230"
+    drill: 1
+    number: 1104
+    role: "exam"
+    english: "He played an active part in education until he retired."
+    japanese: "彼は退職するまで、教育において積極的な役割を果たした。"
+    notes: "難易度: 頻出; 出典: 東北学院大; play a part[role] in〜「〜において役割を果たす」; active/important/large/majorなどの形容詞を伴うことが多い"
+  - id: "scr-230-p04"
+    section_id: "Scr_230"
+    drill: 1
+    number: 1105
+    role: "exam"
+    english: "Many Japanese people pay a visit to shrines and temples on New Year's Day."
+    japanese: "多くの日本人は、元日に神社や寺に初詣に行きます。"
+    notes: "出典: 駒澤大; pay[make] a visit to〜「〜を訪問する」(=pay〜a visit)"
+  - id: "scr-230-p05"
+    section_id: "Scr_230"
+    drill: 1
+    number: 1106
+    role: "exam"
+    english: "I'll be glad when I can make a living."
+    japanese: "生計を立てることができればうれしいのだが。"
+    notes: "出典: 立命館大; make a[one's] living「生計を立てる」; makeの代わりにearn/get/gainも可"
+  - id: "scr-230-p06"
+    section_id: "Scr_230"
+    drill: 1
+    number: 1107
+    role: "exam"
+    english: "You should keep early hours to do what you want to do."
+    japanese: "やりたいことをやるためには、早寝早起きをすべきだ。"
+    notes: "出典: 不明; keep early[good] hours「早寝早起きをする」⇔keep late[bad] hours「夜ふかしをする」; keep regular hours「規則正しい生活」"
+  - id: "scr-230-p07"
+    section_id: "Scr_230"
+    drill: 1
+    number: 1108
+    role: "exam"
+    english: "She always keeps her word."
+    japanese: "彼女はいつも約束を守る。"
+    notes: "難易度: 基本; 出典: 青山学院大; keep one's word「約束を守る」(=keep one's promise)⇔break one's word[promise]「約束を破る」"
+  - id: "scr-230-p08"
+    section_id: "Scr_230"
+    drill: 1
+    number: 1109
+    role: "exam"
+    english: "It is never easy to make ends meet."
+    japanese: "収支を合わせるのは決して容易なことではない。"
+    notes: "難易度: 頻出; 出典: 東京理科大; make (both) ends meet「収支を合わせる/収入内で生活する」(=live within one's income)"
+  - id: "scr-230-p09"
+    section_id: "Scr_230"
+    drill: 1
+    number: 1110
+    role: "exam"
+    english: "We had words again last night, so today we're not speaking."
+    japanese: "私たちは昨夜また口げんかをしてしまったので、今日は口をきいていないんだよ。"
+    notes: "難易度: 発展; 出典: 青山学院大; have words (with〜)「（〜と）口論する」(=quarrel); have a word with〜「〜とちょっと話をする」と混同注意"
+  - id: "scr-230-p10"
+    section_id: "Scr_230"
+    drill: 1
+    number: 1111
+    role: "exam"
+    english: "Will you have a look at my car, please?"
+    japanese: "私の車をちょっと見てもらえませんか。"
+    notes: "難易度: 基本; 出典: 摂南大; have a look at〜「〜を（ちょっと）見る」(=look at/take a look at); PU!195: have a+動詞派生名詞"
+
+  # === 例文（example） ===
+  - id: "scr-230-e01"
+    section_id: "Scr_230"
+    drill: 0
+    number: 1106
+    role: "example"
+    english: "She earns a living as a freelance writer."
+    japanese: "彼女はフリーライターとして生計を立てている。"
+    notes: "プラスα; earn a living「生計を立てる」; makeの代わりにearn"
+  - id: "scr-230-e02"
+    section_id: "Scr_230"
+    drill: 0
+    number: 1110
+    role: "example"
+    english: "Can I have a word with you for a moment?"
+    japanese: "ちょっとお話しできますか。"
+    notes: "プラスα; have a word with〜「〜とちょっと話をする」; have words「口論する」との対比"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-230-p01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-230-p01"
+    label: "details"
+    value: "Nobody(S) seems to have paid attention to(V) <what he said>(O)."
+  # p02
+  - sentence_id: "scr-230-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-230-p02"
+    label: "details"
+    value: "I(S) hope(V) <you'll take notice of what I'm going to tell you>(O:that節)."
+  # p03
+  - sentence_id: "scr-230-p03"
+    label: "overall"
+    value: "S V O M M"
+  - sentence_id: "scr-230-p03"
+    label: "details"
+    value: "He(S) played(V) <an active part>(O) [in education](M) [until he retired](M:時)."
+  # p04
+  - sentence_id: "scr-230-p04"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-230-p04"
+    label: "details"
+    value: "<Many Japanese people>(S) pay a visit to(V) <shrines and temples>(O) [on New Year's Day](M:時)."
+  # p05
+  - sentence_id: "scr-230-p05"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-230-p05"
+    label: "details"
+    value: "I(S) 'll be(V) <glad>(C) [when I can make a living](M:時)."
+  # p06
+  - sentence_id: "scr-230-p06"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-230-p06"
+    label: "details"
+    value: "You(S) should keep(V) <early hours>(O) [to do what you want to do](M:目的)."
+  # p07
+  - sentence_id: "scr-230-p07"
+    label: "overall"
+    value: "S M V O"
+  - sentence_id: "scr-230-p07"
+    label: "details"
+    value: "She(S) [always](M:頻度) keeps(V) <her word>(O)."
+  # p08
+  - sentence_id: "scr-230-p08"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-230-p08"
+    label: "details"
+    value: "It(S:仮主語) is(V) never <easy>(C) [to make ends meet](M:真主語)."
+  # p09
+  - sentence_id: "scr-230-p09"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-230-p09"
+    label: "details"
+    value: "We(S) had(V) <words>(O) [again last night](M:時), so today we(S) 're not speaking(V)."
+  # p10
+  - sentence_id: "scr-230-p10"
+    label: "overall"
+    value: "V S O"
+  - sentence_id: "scr-230-p10"
+    label: "details"
+    value: "Will you(S) have a look at(V) <my car>(O), please?"
+  # e01
+  - sentence_id: "scr-230-e01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-230-e01"
+    label: "details"
+    value: "She(S) earns(V) <a living>(O) [as a freelance writer](M:様態)."
+  # e02
+  - sentence_id: "scr-230-e02"
+    label: "overall"
+    value: "V S O M"
+  - sentence_id: "scr-230-e02"
+    label: "details"
+    value: "Can I(S) have a word with(V) <you>(O) [for a moment](M:時)?"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-230-p01"
+    node_id: "sid-010"
+  - sentence_id: "scr-230-p02"
+    node_id: "sid-010"
+  - sentence_id: "scr-230-p03"
+    node_id: "sid-010"
+  - sentence_id: "scr-230-p04"
+    node_id: "sid-010"
+  - sentence_id: "scr-230-p05"
+    node_id: "sid-010"
+  - sentence_id: "scr-230-p06"
+    node_id: "sid-010"
+  - sentence_id: "scr-230-p07"
+    node_id: "sid-010"
+  - sentence_id: "scr-230-p08"
+    node_id: "sid-010"
+  - sentence_id: "scr-230-p09"
+    node_id: "sid-010"
+  - sentence_id: "scr-230-p10"
+    node_id: "sid-010"
+  - sentence_id: "scr-230-e01"
+    node_id: "sid-010"
+  - sentence_id: "scr-230-e02"
+    node_id: "sid-010"

@@ -1,0 +1,289 @@
+knowledge_nodes:
+  - id: "sgi-005"
+    name: "重要同意語 — 動詞①②"
+    category: "語い"
+    priority: "P2"
+    notes: |
+      Theme 191+192統合。動詞の同意語ペアを問う語彙問題。
+      【Theme 191 PU!169】acquire=obtain=gain=get「得る」、anticipate=expect「予想する」、
+      identify=determine「特定する」、convince=persuade「納得させる」、
+      vanish=disappear「消える」、ban=prohibit=forbid「禁止する」、
+      affect=influence=impact「影響を与える」。
+      【Theme 192 PU!170】dismiss=fire=discharge「解雇する」、
+      overcome=conquer=defeat「打ち勝つ」、predict=forecast=foretell=prophesy「予測する」、
+      emphasize=stress「強調する」、fix=repair=mend「修理する」、
+      found=establish「設立する」、exhibit=display=show「展示する」、
+      refuse=decline=reject「拒絶する」(= turn down⇨935)、overlook=miss「見落とす」。
+      参照: cannot〜too...「いくら…しても〜しすぎることはない」(⇨73)。
+      参照: That's why節(⇨370)。
+
+  - id: "sgi-006"
+    name: "重要同意語 — 動詞③"
+    category: "語い"
+    priority: "P2"
+    notes: |
+      Theme 193。動詞の同意語ペア（続き）。
+      PU!171: mention=remark「言う/述べる」、bother=trouble「困らせる」、
+      rear=raise「育てる」(= bring up⇨900)、
+      interrupt=disturb=interfere「邪魔する/中断させる」(= cut in on)、
+      ensure=guarantee「確実にする/保証する」、
+      see=tell=understand=comprehend「理解する/わかる」、
+      conceal=hide「隠す」。
+      注意: can tell that〜「〜ということがわかる」(see とほぼ同意)。
+      注意: interrupt/disturb の紛らわしい選択肢 — interpret「通訳する」(問796)。
+
+  - id: "sgi-007"
+    name: "重要同意語 — 名詞①②"
+    category: "語い"
+    priority: "P2"
+    notes: |
+      Theme 194+195統合。名詞の同意語ペアを問う語彙問題。
+      【Theme 194 PU!172】approval=consent「承認」、menace=threat「脅威」、
+      disease=illness=sickness「病気」、barrier=obstacle=hindrance「障害」、
+      characteristic=feature=trait「特徴」、phase=stage「段階/局面」(⇨PU!166)、
+      perspective=viewpoint=view「見方/観点」、scarcity=shortage=insufficiency「不足」。
+      PU!172追加: fame=reputation「名声」、capacity=ability=faculty「能力」。
+      【Theme 195 PU!173】consequence=significance=importance「重要さ」、
+      site=location=lot「用地」、accomplishment=achievement「達成/業績」、
+      evidence=proof「証拠」、benefit=advantage「利点」、scheme=plan「計画」。
+      PU!173追加: destiny=fate=doom「運命」、purpose=aim=object「目的」。
+      注意: consequence「結果(=result)/影響(=effect)」の意味も重要。
+      語法: of consequence「重要な」= of+抽象名詞=形容詞(⇨710)。
+      語法: make A for B「BにとってAになる」(= make BA)。
+      語法: hold A (to be) B「AをBと考える/みなす」(問811)。
+      参照: stage「段階」(⇨PU!166)。
+
+  - id: "sgi-008"
+    name: "重要同意語 — 形容詞①②"
+    category: "語い"
+    priority: "P2"
+    notes: |
+      Theme 196+197統合。形容詞の同意語ペアを問う語彙問題。
+      【Theme 196 PU!174】accurate=precise「正確な」、
+      indispensable=essential=necessary「不可欠な」、
+      obvious=clear=evident「明白な」、decent=respectable「まともな/きちんとした」、
+      enormous=immense=huge「巨大な」、elaborate=complicated=complex「凝った/複雑な」、
+      sufficient=enough=adequate「十分な」。
+      PU!174追加: incredible=unbelievable「信じられない」。
+      【Theme 197 PU!175】potential=possible「可能性のある/潜在的な」、
+      abundant=plentiful=ample「豊富な」、urgent=pressing「緊急の」、
+      sacred=holy「神聖な」、crucial=vital=decisive「きわめて重要な」、
+      major=principal=main「主要な」、suitable=appropriate=proper=fit「適切な」、
+      fundamental=basic「基本的な」、fragile=breakable=delicate「壊れやすい」。
+      PU!175追加: cruel=brutal=heartless「残酷な」。
+      注意: decent=respectable「（社会的に）まともな」。respectableは「尊敬」の意味は薄れている(⇨874)。
+      注意: sufficient/enough/adequate は「あり余るほど」ではなく「必要を満たすのに十分な」。
+
+  - id: "sgi-009"
+    name: "重要同意語 — 形容詞③"
+    category: "語い"
+    priority: "P3"
+    notes: |
+      Theme 198。形容詞の同意語ペア（続き）。
+      PU!176: awful=terrible「ひどい/おそろしい」、courageous=brave「勇敢な」、
+      rare=uncommon「まれな/珍しい」。
+      〈重要〉terrible vs terrific: terrible「とても悪い」⇔ terrific「すばらしい」（反対の意味）。
+      a terrific actor「すばらしい俳優」。
+      〈重要〉rare vs curious: rare「まれな（貴重さを含む）」≠ curious「珍奇な/奇妙な」。
+      a curious incident「奇妙な出来事」。
+
+  - id: "sgi-010"
+    name: "重要同意語 — 副詞"
+    category: "語い"
+    priority: "P2"
+    notes: |
+      Theme 199。副詞の同意語ペアを問う語彙問題。
+      PU!177: deliberately=intentionally「故意に/わざと」(= on purpose⇨1207)、
+      practically=virtually=almost「ほとんど/事実上」、
+      eventually=finally「結局は/ついに」(= in the end)、
+      initially=originally「最初は」(= at first⇨1240)。
+      PU!177追加: approximately=roughly「おおよそ」。
+      参照: on purpose(⇨1207)、at first(⇨1240)。
+
+understanding_goals:
+  - node_id: "sgi-005"
+    seq: 1
+    goal: "acquire/obtain/convince/affect等の動詞の同意語ペアを識別できる"
+  - node_id: "sgi-005"
+    seq: 2
+    goal: "dismiss/overcome/predict/found/refuse等の動詞の同意語ペアを識別できる"
+  - node_id: "sgi-005"
+    seq: 3
+    goal: "PU!169-170の動詞同意語リスト（16ペア）の頻出組み合わせを把握できる"
+  - node_id: "sgi-006"
+    seq: 1
+    goal: "mention/bother/rear/interrupt/ensure等の動詞の同意語ペアを識別できる"
+  - node_id: "sgi-006"
+    seq: 2
+    goal: "see=tell=understand（理解する）の用法を理解できる"
+  - node_id: "sgi-006"
+    seq: 3
+    goal: "PU!171の動詞同意語リスト（7ペア）の頻出組み合わせを把握できる"
+  - node_id: "sgi-007"
+    seq: 1
+    goal: "approval/menace/disease/barrier/characteristic等の名詞の同意語ペアを識別できる"
+  - node_id: "sgi-007"
+    seq: 2
+    goal: "consequence/site/accomplishment/evidence/benefit等の名詞の同意語ペアを識別できる"
+  - node_id: "sgi-007"
+    seq: 3
+    goal: "consequenceの多義性（重要さ/結果・影響）を認識できる"
+  - node_id: "sgi-007"
+    seq: 4
+    goal: "PU!172-173の名詞同意語リスト（18ペア）の頻出組み合わせを把握できる"
+  - node_id: "sgi-008"
+    seq: 1
+    goal: "accurate/indispensable/obvious/enormous/sufficient等の形容詞の同意語ペアを識別できる"
+  - node_id: "sgi-008"
+    seq: 2
+    goal: "potential/abundant/urgent/crucial/suitable/fundamental等の形容詞の同意語ペアを識別できる"
+  - node_id: "sgi-008"
+    seq: 3
+    goal: "sufficient=enough=adequateが「あり余る」ではなく「必要を満たす」意味であることを理解できる"
+  - node_id: "sgi-008"
+    seq: 4
+    goal: "PU!174-175の形容詞同意語リスト（18ペア）の頻出組み合わせを把握できる"
+  - node_id: "sgi-009"
+    seq: 1
+    goal: "awful=terrible, courageous=brave, rare=uncommonの同意語ペアを識別できる"
+  - node_id: "sgi-009"
+    seq: 2
+    goal: "terrible と terrific の意味の違いを正確に把握できる"
+  - node_id: "sgi-009"
+    seq: 3
+    goal: "rare と curious の違いを説明できる"
+  - node_id: "sgi-010"
+    seq: 1
+    goal: "deliberately/practically/eventually/initiallyの副詞の同意語ペアを識別できる"
+  - node_id: "sgi-010"
+    seq: 2
+    goal: "on purpose=deliberately=intentionally等の関連イディオム表現を把握できる"
+  - node_id: "sgi-010"
+    seq: 3
+    goal: "PU!177の副詞同意語リスト（5ペア）の頻出組み合わせを把握できる"
+
+check_points:
+  - node_id: "sgi-005"
+    seq: 1
+    question: "acquire〜と同意の動詞を3つ挙げよ。"
+    answer: "obtain, gain, get。「得る/身につける」の意味。"
+  - node_id: "sgi-005"
+    seq: 2
+    question: "vanishとdisappearの共通の意味は？banの同意語は？"
+    answer: "vanish=disappear「（急に）消える」。ban=prohibit=forbid「禁止する」。"
+  - node_id: "sgi-005"
+    seq: 3
+    question: "refuse〜=decline〜の意味は？他に同意のイディオムは？"
+    answer: "「拒絶する」。turn down〜も同意(⇨935)。rejectも可。"
+  - node_id: "sgi-005"
+    seq: 4
+    question: "overlook〜=miss〜の意味は？overlookの他の意味と区別できるか？"
+    answer: "「見落とす」の意味。overlookには「見渡す/大目に見る」の意味もある。"
+  - node_id: "sgi-006"
+    seq: 1
+    question: "rear〜と同意の動詞を2つ挙げよ。"
+    answer: "raise, bring up。「育てる」の意味。"
+  - node_id: "sgi-006"
+    seq: 2
+    question: "interrupt〜=disturb〜の意味は？紛らわしい語interpretとの違いは？"
+    answer: "「邪魔する/中断させる」。interpret「通訳する/解釈する」とは全く別の意味。"
+  - node_id: "sgi-006"
+    seq: 3
+    question: "I could see/tell that〜の形での共通の意味は？"
+    answer: "「〜ということがわかる」。see=tell=understand=comprehend（理解する）。"
+  - node_id: "sgi-007"
+    seq: 1
+    question: "barrier=obstacle=hindranceの共通の意味は？"
+    answer: "「障害」。"
+  - node_id: "sgi-007"
+    seq: 2
+    question: "consequenceの2つの主要な意味は？of consequenceはどういう意味か？"
+    answer: "①重要さ(=significance)、②結果(=result)/影響(=effect)。of consequenceは「重要な」（of+抽象名詞=形容詞）。"
+  - node_id: "sgi-007"
+    seq: 3
+    question: "evidence=proofの意味は？witnessとの違いは？"
+    answer: "「証拠」。witness「目撃者」は人を指し、evidence/proofは証拠そのもの。"
+  - node_id: "sgi-007"
+    seq: 4
+    question: "phase=stageの意味は？stageの注意すべき意味は？"
+    answer: "「段階/局面」。stageは「舞台」よりも「変化・発達の段階」の意味が重要(⇨PU!166)。"
+  - node_id: "sgi-008"
+    seq: 1
+    question: "indispensable=essential=necessaryの共通の意味は？"
+    answer: "「不可欠な/絶対必要な」。"
+  - node_id: "sgi-008"
+    seq: 2
+    question: "sufficient/enough/adequateの共通する意味と注意点は？"
+    answer: "「十分な」。ただし「あり余るほど」ではなく「必要を満たすのに十分な/足りるだけの」という意味。"
+  - node_id: "sgi-008"
+    seq: 3
+    question: "crucial=vitalの意味は？decisiveとの関係は？"
+    answer: "「きわめて重要な/決定的な」。decisive「決定的な」も同意。"
+  - node_id: "sgi-008"
+    seq: 4
+    question: "decent=respectableの意味は？respectableに「尊敬」の意味はあるか？"
+    answer: "「（社会的に）まともな/きちんとした」。respectableは「尊敬」の意味は薄れている(⇨874)。"
+  - node_id: "sgi-009"
+    seq: 1
+    question: "terribleとterrificは同意語か反意語か？それぞれの意味は？"
+    answer: "反意語。terrible「とても悪い/おそろしい」⇔ terrific「すばらしい」。"
+  - node_id: "sgi-009"
+    seq: 2
+    question: "courageous=braveの共通の意味は？"
+    answer: "「勇気のある/勇敢な」。"
+  - node_id: "sgi-009"
+    seq: 3
+    question: "rareとcuriousの違いは？rareの同意語は？"
+    answer: "rare「まれな/珍しい（貴重さを含む）」=uncommon。curious「珍奇な/奇妙な」は意味が異なる。"
+  - node_id: "sgi-010"
+    seq: 1
+    question: "deliberately=intentionallyの意味は？同意のイディオムは？"
+    answer: "「故意に/わざと」。on purpose(⇨1207)も同意。"
+  - node_id: "sgi-010"
+    seq: 2
+    question: "practically=virtuallyの意味は？他の同意語は？"
+    answer: "「ほとんど/事実上」。almostも同意。"
+  - node_id: "sgi-010"
+    seq: 3
+    question: "eventually=finallyの意味は？initiallyとの関係は？"
+    answer: "「結局は/ついに」(=in the end)。initially=originally「最初は」(=at first)は反対の時点を表す。"
+
+node_prerequisites: []
+
+knowledge_references:
+  - node_id: "sgi-005"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_191"
+    pages: ""
+  - node_id: "sgi-005"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_192"
+    pages: ""
+  - node_id: "sgi-006"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_193"
+    pages: ""
+  - node_id: "sgi-007"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_194"
+    pages: ""
+  - node_id: "sgi-007"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_195"
+    pages: ""
+  - node_id: "sgi-008"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_196"
+    pages: ""
+  - node_id: "sgi-008"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_197"
+    pages: ""
+  - node_id: "sgi-009"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_198"
+    pages: ""
+  - node_id: "sgi-010"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_199"
+    pages: ""

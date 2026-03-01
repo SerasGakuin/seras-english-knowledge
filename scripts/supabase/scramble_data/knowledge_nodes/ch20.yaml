@@ -1,0 +1,200 @@
+knowledge_nodes:
+  - id: "sgi-001"
+    name: "意外な意味を持つ自動詞"
+    category: "語い"
+    priority: "P2"
+    notes: |
+      Theme 184。多義動詞の「意外な意味」を問う語彙問題。自動詞に焦点。
+      do「間に合う/十分である」(will doの形)、pay「利益になる/引き合う」、sell「売れる」、
+      cheat「カンニングする」、come「(相手のほうへ)行く」、agree「(食べ物が)合う」、
+      read「〜と書いてある」。
+      PU!165: 能動態で受動の意味を表す動詞 — sell/read/cut/cook/wash/run/lock。
+      形は能動態でも受動的な意味。well/badlyなどの副詞を伴うことが多い。
+      参照: as [so] long as〜(⇨ 450)、catch A doing(⇨ 561)、Power Up! 123(say vs read)。
+
+  - id: "sgi-002"
+    name: "意外な意味を持つ他動詞"
+    category: "語い"
+    priority: "P2"
+    notes: |
+      Theme 185+186統合。他動詞の「意外な意味」を問う語彙問題。
+      【Theme 185】fail〜「役に立たない」、meet〜「満たす」(meet the deadline)、
+      survive〜「切り抜ける/〜より長生きする」、gain〜「(時計が)進む」(⇔ lose)、
+      hold〜「催す/〜と思う」、observe〜「守る」(= obey)、
+      realize〜「実現する」(cf. come true=自動詞)、invent〜「でっち上げる」(= make up)。
+      【Theme 186】drive〜「追いやる」(SVOC/drive A to do/drive A into B)、
+      command〜「見渡す」(command a view of〜)、answer〜「応答する」(answer the phone)、
+      strike〜「心に浮かぶ」(It strikes A that〜/strike A as B)、
+      put〜「言い表す」(to put it clearly/simply)、recognize〜「それと気づく」、
+      move〜「感動させる」(be moved)、see〜「診てもらう」(see a doctor)、
+      follow〜「従う/理解する」。
+      参照: Power Up! 165(能動態で受動意味)、PU!24(独立不定詞)、PU!123(say)。
+      参照: at the last moment(⇨ 197)、occur to(⇨ 1001)、make up(⇨ 901)。
+
+  - id: "sgi-003"
+    name: "意外な意味を持つ名詞"
+    category: "語い"
+    priority: "P2"
+    notes: |
+      Theme 187+188統合。名詞の「意外な意味」を問う語彙問題。
+      【Theme 187】interest「利子/利益」、subject「話題」(= topic)、
+      issue「(緊急の)問題点/論争点」、room「場所/余地」(不可算、make room for〜)、
+      stranger「不案内な人」(I'm a stranger here.)、respect「点」(in this/every respect)、
+      command「運用力」(have a good command of English)。
+      PU!166: game「獲物/策略」、well「井戸」、gift「才能」、bill「法案/紙幣」、
+      stage「段階/局面」(⇨ 805)、challenge「やりがい/課題」。
+      【Theme 188】turn「順番」(take turns doing⇨602、in turn⇨1209)、
+      end「目的」(⇔ means「手段」⇨603)、must「必要なもの/必見のもの」(a must)、
+      safe「金庫」、shame「残念なこと」(= pity)、change「小銭/つり銭」。
+      PU!167: copy「部/冊」、word「約束」(keep/break one's word)、will「遺言書」、
+      dish「料理」、picture「映像/画像」。
+      参照: be tired of(⇨ 1147)、would like to do(⇨ 80)。
+      注意: 「数詞−名詞」が修飾語になる場合、名詞は単数形になる(a five-dollar bill)。
+
+  - id: "sgi-004"
+    name: "意外な意味を持つ形容詞・副詞"
+    category: "語い"
+    priority: "P2"
+    notes: |
+      Theme 189+190統合。形容詞・副詞の「意外な意味」を問う語彙問題。
+      【Theme 189】heavy traffic「多い交通量」⇔ light traffic、
+      busy「(電話が)話し中」(the line is busy⇨1342)、
+      latest「最新の」(the latest fashion/news)、
+      narrow「辛うじての」(have a narrow escape、a narrow victory)、
+      flat「空気の抜けた」(have a flat tire)、
+      strong「(飲み物が)濃い」⇔ weak「薄い」。
+      PU!168: 「濃い/薄い」の形容詞 — strong/weak(飲み物)、thick/thin(濃度・密度)、
+      deep/light(色)。霧はdense/heavyも可。色彩語の前ではdarkも可。
+      【Theme 190】available「入手できる/利用できる/手が空いている」、
+      reasonable「手ごろな/妥当な」、tough「(肉が)かたい」⇔ tender「やわらかい」、
+      smart「頭の良い」(≠スマートな体型。slender/slimを使う)、
+      sharp「きっかりに/急な」(at four sharp、a sharp turn)、
+      fast「(時計が)進んで」⇔ slow「遅れて」、fast「ぐっすり」(fast asleep)、
+      either「〜もまた(否定文で)」(⇔ too/also=肯定文)。
+      参照: Power Up! 38(latest)、Theme 333(Something is wrong with)、Theme 205(the latter)。
+
+understanding_goals:
+  - node_id: "sgi-001"
+    seq: 1
+    goal: "do/pay/sell/come/agree/readなどの自動詞が持つ「意外な意味」を識別できる"
+  - node_id: "sgi-001"
+    seq: 2
+    goal: "能動態で受動の意味を表す動詞（sell/read/cut/wash等）の用法を理解できる"
+  - node_id: "sgi-001"
+    seq: 3
+    goal: "自動詞の意外な意味を含む英文を正しく和訳できる"
+  - node_id: "sgi-002"
+    seq: 1
+    goal: "fail/meet/survive/drive/strike/putなどの他動詞が持つ「意外な意味」を識別できる"
+  - node_id: "sgi-002"
+    seq: 2
+    goal: "meet the deadline/answer the phone/see a doctorなどの頻出表現を使いこなせる"
+  - node_id: "sgi-002"
+    seq: 3
+    goal: "It strikes A that〜/strike A as B/drive A to doなどの構文パターンを理解できる"
+  - node_id: "sgi-002"
+    seq: 4
+    goal: "realize vs come true（他動詞 vs 自動詞）の違いを説明できる"
+  - node_id: "sgi-003"
+    seq: 1
+    goal: "interest/issue/room/command/change/shameなどの名詞が持つ「意外な意味」を識別できる"
+  - node_id: "sgi-003"
+    seq: 2
+    goal: "have a good command of English/make room for/a mustなどの頻出表現を理解できる"
+  - node_id: "sgi-003"
+    seq: 3
+    goal: "PU!166-167の名詞（game/bill/word/will等）の多義性を認識できる"
+  - node_id: "sgi-004"
+    seq: 1
+    goal: "heavy/narrow/flat/strong/fast/availableなどの形容詞が持つ「意外な意味」を識別できる"
+  - node_id: "sgi-004"
+    seq: 2
+    goal: "「濃い/薄い」を表す形容詞の使い分け（strong/thick/deep）ができる"
+  - node_id: "sgi-004"
+    seq: 3
+    goal: "fastの多義性（速い/進んで/ぐっすり）やeitherの否定文での用法を理解できる"
+  - node_id: "sgi-004"
+    seq: 4
+    goal: "smart/reasonable/toughなどの日本語とのズレがある形容詞の正確な意味を把握できる"
+
+check_points:
+  - node_id: "sgi-001"
+    seq: 1
+    question: "Any dictionary will do.のdoはどういう意味か？"
+    answer: "「間に合う/十分である」。will doの形で「それで十分だ」の意味。"
+  - node_id: "sgi-001"
+    seq: 2
+    question: "Bicycles are selling well.のsellはなぜ能動態なのに「売れる」という受動的な意味になるか？"
+    answer: "sell/read/cut/wash等は能動態で受動の意味を表す動詞。well/badlyなどの副詞を伴う。"
+  - node_id: "sgi-001"
+    seq: 3
+    question: "I'm coming.はなぜ「行きます」と訳すのか？"
+    answer: "comeは「相手のほうへ行く」意味。呼ばれて相手に向かう場面ではgoではなくcomeを使う。"
+  - node_id: "sgi-002"
+    seq: 1
+    question: "meet the deadlineのmeetはどういう意味か？"
+    answer: "「（要求・必要・締め切りなど）に応じる/満たす/間に合わせる」(= satisfy)。"
+  - node_id: "sgi-002"
+    seq: 2
+    question: "It struck me that〜はどういう意味か？strikeの意外な用法は？"
+    answer: "「〜という考えが心にふと浮かんだ」。strike A as Bで「AにBだと思わせる」もある。"
+  - node_id: "sgi-002"
+    seq: 3
+    question: "His dream came true.をrealizeを使って書き換えるとどうなるか？なぜcome trueの後に目的語は取れないか？"
+    answer: "His dream was realized. come trueは自動詞表現なので目的語を取れない。他動詞realizeが必要。"
+  - node_id: "sgi-003"
+    seq: 1
+    question: "room「余地」は可算名詞か不可算名詞か？make room forはどういう意味か？"
+    answer: "不可算名詞。make room for〜は「〜のために場所を空ける」。"
+  - node_id: "sgi-003"
+    seq: 2
+    question: "have a good command of Englishのcommandはどういう意味か？"
+    answer: "「（特に語学の）運用力/自由に使いこなす能力」。英語が達者であるの意味。"
+  - node_id: "sgi-003"
+    seq: 3
+    question: "It's a shame your wife couldn't come.のshameはどういう意味か？"
+    answer: "「残念なこと/遺憾なこと」(= pity)。通例a shameの形で使う。"
+  - node_id: "sgi-004"
+    seq: 1
+    question: "コーヒーの「濃い/薄い」は英語でどう表すか？「霧が濃い」はどうか？"
+    answer: "飲み物はstrong/weak。霧はthick/dense/heavy（×deepは不可）。色はdeep/light。"
+  - node_id: "sgi-004"
+    seq: 2
+    question: "My watch is fast.のfastはどういう意味か？fast asleepのfastは？"
+    answer: "「（時計が）進んで」(⇔ slow「遅れて」)。fast asleepは「ぐっすり眠って」(= sound asleep)。"
+  - node_id: "sgi-004"
+    seq: 3
+    question: "否定文で「〜もまた」を表すにはtoo/also/eitherのどれを使うか？"
+    answer: "either。tooとalsoは肯定文で使う。ただしalso can'tの語順ならalsoも否定文で可。"
+
+node_prerequisites: []
+
+knowledge_references:
+  - node_id: "sgi-001"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_184"
+    pages: ""
+  - node_id: "sgi-002"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_185"
+    pages: ""
+  - node_id: "sgi-002"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_186"
+    pages: ""
+  - node_id: "sgi-003"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_187"
+    pages: ""
+  - node_id: "sgi-003"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_188"
+    pages: ""
+  - node_id: "sgi-004"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_189"
+    pages: ""
+  - node_id: "sgi-004"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_190"
+    pages: ""

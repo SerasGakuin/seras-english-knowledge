@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-205-p01"
+    section_id: "Scr_205"
+    drill: 1
+    number: 852
+    role: "exam"
+    english: "We need a new manager to inspire the team."
+    japanese: "チームを奮い立たせる新しい監督が必要です。"
+    notes: "〈発展〉芝浦工大。語根spire=breathe。inspire「励ます/霊感を与える」。選択肢: expire「期限が切れる」/conspire「共謀する」/aspire「熱望する」。"
+  - id: "scr-205-p02"
+    section_id: "Scr_205"
+    drill: 1
+    number: 853
+    role: "exam"
+    english: "Let us resume reading where we left off last month."
+    japanese: "先月やめたところから再び読み始めましょう。"
+    notes: "〈発展〉立正大。語根sume=take/use。resume「再び始める」。選択肢: assume「仮定する」/presume「推定する」/consume「消費する」。語句: leave off「やめる」。"
+  - id: "scr-205-p03"
+    section_id: "Scr_205"
+    drill: 1
+    number: 854
+    role: "exam"
+    english: "According to Darwin, man evolved from monkey-like animals."
+    japanese: "ダーウィンによると、人類は猿に似た動物から進化したそうです。"
+    notes: "南山大。語根volve=roll。evolve「進化する/発展する」。選択肢: revolve「回転する」/involve「巻き込む」/revolt「そむく」。"
+  - id: "scr-205-p04"
+    section_id: "Scr_205"
+    drill: 1
+    number: 855
+    role: "exam"
+    english: "Your attendance will affect your final grade."
+    japanese: "出席状況が最終的な成績に影響します。"
+    notes: "〈頻出〉拓殖大。語根fect/fact=make/do。affect「影響する/感動させる」。選択肢: defect(名)「欠点」/perfect「完全な」/effect(名)「結果/効果」。"
+
+sentence_structures:
+  - sentence_id: "scr-205-p01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-205-p01"
+    label: "details"
+    value: "<We>(S) need(V) <a new manager to inspire the team>(O)"
+  - sentence_id: "scr-205-p02"
+    label: "overall"
+    value: "V O M"
+  - sentence_id: "scr-205-p02"
+    label: "details"
+    value: "Let <us>(S) resume(V) <reading>(O) [where we left off last month](M:関係副詞)"
+  - sentence_id: "scr-205-p03"
+    label: "overall"
+    value: "M, S V M"
+  - sentence_id: "scr-205-p03"
+    label: "details"
+    value: "[According to Darwin](M), <man>(S) evolved(V) [from monkey-like animals](M)"
+  - sentence_id: "scr-205-p04"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-205-p04"
+    label: "details"
+    value: "<Your attendance>(S) will affect(V) <your final grade>(O)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-205-p01"
+    node_id: "sgi-014"
+  - sentence_id: "scr-205-p02"
+    node_id: "sgi-014"
+  - sentence_id: "scr-205-p03"
+    node_id: "sgi-014"
+  - sentence_id: "scr-205-p04"
+    node_id: "sgi-014"

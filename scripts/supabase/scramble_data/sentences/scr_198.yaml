@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-198-p01"
+    section_id: "Scr_198"
+    drill: 1
+    number: 830
+    role: "exam"
+    english: "He was shocked at the awful news of the nuclear power plant accident which occurred overseas."
+    japanese: "彼は海外で起きた原子力発電所の事故のひどいニュースを聞いてショックを受けた。"
+    notes: "〈発展〉清泉女子大。awful=terrible「ひどい/おそろしい」。terrible⇔terrific「すばらしい」（反対の意味）。a terrific actor「すばらしい俳優」。"
+  - id: "scr-198-p02"
+    section_id: "Scr_198"
+    drill: 1
+    number: 831
+    role: "exam"
+    english: "This film is based on the story of a courageous man."
+    japanese: "この映画は、ある勇敢な男の物語に基づいている。"
+    notes: "東海大。courageous=brave「勇気のある/勇敢な」。"
+  - id: "scr-198-p03"
+    section_id: "Scr_198"
+    drill: 1
+    number: 832
+    role: "exam"
+    english: "It is rare to see a sky full of stars in the city."
+    japanese: "都会で満天の星空が見えるのはまれだ。"
+    notes: "rare=uncommon「まれな/珍しい」。rareは「貴重な」の含意。curious「珍奇な/奇妙な」とは異なる。a curious incident「奇妙な出来事」。"
+
+sentence_structures:
+  - sentence_id: "scr-198-p01"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-198-p01"
+    label: "details"
+    value: "<He>(S) was shocked(V) <at the awful news of the nuclear power plant accident which occurred overseas>(M)"
+  - sentence_id: "scr-198-p02"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-198-p02"
+    label: "details"
+    value: "<This film>(S) is based(V) [on the story of a courageous man](M)"
+  - sentence_id: "scr-198-p03"
+    label: "overall"
+    value: "It V C M"
+  - sentence_id: "scr-198-p03"
+    label: "details"
+    value: "<It>(S:形式主語) is(V) <rare>(C:形容詞) [to see a sky full of stars in the city](M:真主語)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-198-p01"
+    node_id: "sgi-009"
+  - sentence_id: "scr-198-p02"
+    node_id: "sgi-009"
+  - sentence_id: "scr-198-p03"
+    node_id: "sgi-009"

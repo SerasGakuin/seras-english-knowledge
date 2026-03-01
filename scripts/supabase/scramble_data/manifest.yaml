@@ -2334,112 +2334,112 @@ sections:
     title: "動詞+前置詞⑥"
     type: "idiom"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 12
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-006(T220+221統合)。Q1001-1012=12exam"
   Scr_222:
     title: "動詞+副詞+前置詞①"
     type: "idiom"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 14
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-007(T222+223統合)。Q1013-1024=12exam, live up to・go on doing例文2件=2example"
   Scr_223:
     title: "動詞+副詞+前置詞②"
     type: "idiom"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-007(T222+223統合)。Q1025-1034=10exam, come up with提案・get through with・bring home to例文3件=3example"
   Scr_224:
     title: "動詞+A+前置詞+B"
     type: "idiom"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 15
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-008(単独)。Q1035-1045=11exam, owe借金・leave for・named after・devote oneself例文4件=4example"
   Scr_225:
     title: "特定の名詞を用いる群動詞①"
     type: "idiom"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 14
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-009(T225+226+227統合)。Q1046-1057=12exam, take place場所・take turns例文2件=2example"
   Scr_226:
     title: "特定の名詞を用いる群動詞②"
     type: "idiom"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 16
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-009(T225+226+227統合)。Q1058-1068=11exam, make use of・do harm・keep pace例文5件=5example"
   Scr_227:
     title: "特定の名詞を用いる群動詞③"
     type: "idiom"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 12
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-009(T225+226+227統合)。Q1069-1079=11exam, give way to例文1件=1example"
   Scr_228:
     title: "特定の名詞を用いる群動詞④"
     type: "idiom"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-010(T228+229+230統合)。Q1080-1090=11exam, pay attention to・come into effect例文2件=2example"
   Scr_229:
     title: "特定の名詞を用いる群動詞⑤"
     type: "idiom"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 12
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-010(T228+229+230統合)。Q1091-1101=11exam, lose one's temper例文1件=1example"
   Scr_230:
     title: "特定の名詞を用いる群動詞⑥"
     type: "idiom"
     pages: ""
-    status: "not_started"
+    status: "completed"
     knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    sentences_created: 12
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-010(T228+229+230統合)。Q1102-1111=10exam, by turns・come to terms with例文2件=2example"
   Scr_231:
     title: "その他の動詞中心の重要イディオム"
     type: "idiom"
     pages: ""
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "sid-011(単独)。Q1112-1121=10exam, make sure of・make it到着・make it都合例文3件=3example"
   # Part 4 > Ch25 形容詞・副詞中心のイディオム
   Scr_232:
     title: "be+形容詞[過去分詞]+前置詞①"

@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-204-p01"
+    section_id: "Scr_204"
+    drill: 1
+    number: 849
+    role: "exam"
+    english: "(a) He started to count the number of students in the room. (b) I count him among my best friends. (c) May I count on your attendance? (d) Ten dollars doesn't count for much nowadays."
+    japanese: "(a) 彼は部屋にいる生徒の数を数え始めた。(b) 私は彼を親友の1人と考えている。(c) あなたの出席をあてにしてもいいですか。(d) 10ドルは現在ではあまり価値がない。"
+    notes: "(a)静岡大・(b)(c)上智大・(d)青山学院大。共通語: count。(a)動「数える」(b)動「勘定に入れる」(=include) (c)動 count on〜「頼りにする」(⇨971) (d)動「重要である」(=matter)。count for much/nothing「とても/全く重要でない」。"
+  - id: "scr-204-p02"
+    section_id: "Scr_204"
+    drill: 1
+    number: 850
+    role: "exam"
+    english: "(a) The academic year is divided into two terms. (b) In artistic terms, the film was revolutionary. (c) They were barely on speaking terms. (d) I bought this car on very reasonable terms."
+    japanese: "(a) 学年は2学期に分かれている。(b) 芸術的な観点からは、その映画は画期的なものだった。(c) 彼らは辛うじて口をきく程度の仲だった。(d) 私はこの車をとても手ごろな条件で買った。"
+    notes: "〈頻出〉上智大。共通語: term(s)。(a)名「学期;期間」(b)名 in〜terms「〜の観点から」(=in terms of〜⇨1288) (c)名「間柄」(d)名「条件」。be on〜terms (with...)「…と〜の仲である」(⇨600・601)。"
+  - id: "scr-204-p03"
+    section_id: "Scr_204"
+    drill: 1
+    number: 851
+    role: "exam"
+    english: "(a) The writer has written three novels in the last five years. (b) He is the last person to say such a rude thing. (c) At long last, she has found her missing cat. (d) The battery of this smartphone will last about 20 hours."
+    japanese: "(a) その作家はこの5年間で3冊の小説を書いた。(b) 彼は決してそのような失礼なことを言う人ではない。(c) とうとう、彼女は行方不明の猫を見つけた。(d) このスマートフォンのバッテリーは約20時間もつ。"
+    notes: "〈頻出〉共通語: last。(a)形「この前の/最近の」(b)形 the last A to do「決して〜しないA」(⇨280) (c)名 at long last「やっとのことで」(at lastの強調形) (d)動「もつ/続く」(=continue)。"
+  - id: "scr-204-e01"
+    section_id: "Scr_204"
+    drill: 0
+    number: 851
+    role: "example"
+    english: "How long will this cold weather last?"
+    japanese: "この寒さはいつまで続くのですか。"
+    notes: "プラスα。last「（時間的に）続く」の用法。"
+
+sentence_structures:
+  - sentence_id: "scr-204-p01"
+    label: "overall"
+    value: "(a) S V O / (b) S V O M / (c) V S M / (d) S V M"
+  - sentence_id: "scr-204-p01"
+    label: "details"
+    value: "(a) <He>(S) started to count(V) <the number of students in the room>(O) (b) <I>(S) count(V) <him>(O) [among my best friends](M) (c) May <I>(S) count on(V) <your attendance>(M)? (d) <Ten dollars>(S) doesn't count(V) [for much](M) [nowadays](M:時)"
+  - sentence_id: "scr-204-p02"
+    label: "overall"
+    value: "(a) S V M / (b) M, S V C / (c) S V M / (d) S V O M"
+  - sentence_id: "scr-204-p02"
+    label: "details"
+    value: "(a) <The academic year>(S) is divided(V) [into two terms](M) (b) [In artistic terms](M), <the film>(S) was(V) <revolutionary>(C:形容詞) (c) <They>(S) were(V) [barely on speaking terms](M) (d) <I>(S) bought(V) <this car>(O) [on very reasonable terms](M)"
+  - sentence_id: "scr-204-p03"
+    label: "overall"
+    value: "(a) S V O M / (b) S V C / (c) M, S V O / (d) S V M"
+  - sentence_id: "scr-204-p03"
+    label: "details"
+    value: "(a) <The writer>(S) has written(V) <three novels>(O) [in the last five years](M:期間) (b) <He>(S) is(V) <the last person to say such a rude thing>(C) (c) [At long last](M), <she>(S) has found(V) <her missing cat>(O) (d) <The battery of this smartphone>(S) will last(V) [about 20 hours](M:期間)"
+  - sentence_id: "scr-204-e01"
+    label: "overall"
+    value: "M V S"
+  - sentence_id: "scr-204-e01"
+    label: "details"
+    value: "[How long](M:疑問副詞) will <this cold weather>(S) last(V)?"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-204-p01"
+    node_id: "sgi-013"
+  - sentence_id: "scr-204-p02"
+    node_id: "sgi-013"
+  - sentence_id: "scr-204-p03"
+    node_id: "sgi-013"
+  - sentence_id: "scr-204-e01"
+    node_id: "sgi-013"

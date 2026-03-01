@@ -1,0 +1,282 @@
+# Scr_226: Theme 226 群動詞(2) → sid-009
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-226-p01"
+    section_id: "Scr_226"
+    drill: 1
+    number: 1058
+    role: "exam"
+    english: "She lost her temper with the customer and shouted at him."
+    japanese: "彼女は客に腹を立てて大声を出した。"
+    notes: "出典: 高知大; lose one's temper「腹を立てる」(=get angry); ⇔keep one's temper「怒りを抑える/平静を保つ」"
+  - id: "scr-226-p02"
+    section_id: "Scr_226"
+    drill: 1
+    number: 1059
+    role: "exam"
+    english: "His discovery gave rise to a scientific revolution."
+    japanese: "彼の発見は科学革命をもたらした。"
+    notes: "出典: 名城大; give rise to〜「〜を引き起こす」(=cause/bring about)"
+  - id: "scr-226-p03"
+    section_id: "Scr_226"
+    drill: 1
+    number: 1060
+    role: "exam"
+    english: "She gave birth to a healthy girl."
+    japanese: "彼女は元気な女の子を出産した。"
+    notes: "出典: 高知大; give birth to〜「（子）を産む」; 「〜を引き起こす/もたらす」(=give rise to)の意味もある"
+  - id: "scr-226-p04"
+    section_id: "Scr_226"
+    drill: 1
+    number: 1061
+    role: "exam"
+    english: "He never gave way to temptation."
+    japanese: "彼は決して誘惑に負けなかった。"
+    notes: "難易度: 頻出; 出典: 慶應大; give way to〜「〜に屈する」(=yield to/give in to/surrender to/submit to); give way（toなし）「崩れる」(=collapse)にも注意"
+  - id: "scr-226-p05"
+    section_id: "Scr_226"
+    drill: 1
+    number: 1062
+    role: "exam"
+    english: "Artificial intelligence is taking the place of human workers in some industries."
+    japanese: "人工知能は、一部の産業で人間の労働者に取って代わりつつある。"
+    notes: "take the place of〜「〜に取って代わる」(=replace); 代名詞ならtake A's place"
+  - id: "scr-226-p06"
+    section_id: "Scr_226"
+    drill: 1
+    number: 1063
+    role: "exam"
+    english: "Will you keep an eye on this baggage until I get back?"
+    japanese: "私が戻るまで、この手荷物を見ていてくれますか。"
+    notes: "出典: 青山学院大; keep an[one's] eye on〜「〜から目を離さないでいる」(=watch)"
+  - id: "scr-226-p07"
+    section_id: "Scr_226"
+    drill: 1
+    number: 1064
+    role: "exam"
+    english: "The baseball fans were surprised because the game suddenly came to an end."
+    japanese: "試合が突然終わったので、野球ファンたちは驚いた。"
+    notes: "出典: 阪南大; come to an end「終わる」; bring〜to an end=put an end to〜「〜を終わらせる」(⇨PU!187)"
+  - id: "scr-226-p08"
+    section_id: "Scr_226"
+    drill: 1
+    number: 1065
+    role: "exam"
+    english: "You cannot smoke till you have come of age."
+    japanese: "成人になるまでタバコを吸うことはできません。"
+    notes: "出典: 東北学院大; come of age「成年に達する」; ageは「成年/成人」の意味; be of age「成年に達している」、be under age「未成年である」"
+  - id: "scr-226-p09"
+    section_id: "Scr_226"
+    drill: 1
+    number: 1066
+    role: "exam"
+    english: "At that point, I had no idea how difficult it would be to find the right way to the station."
+    japanese: "その時点で、駅への正しい行き方を知るのがどれほど難しいかがまったくわかっていなかった。"
+    notes: "難易度: 頻出; 出典: 関西学院大; have no idea+疑問詞節「〜かを少しも知らない」; don't have the slightest ideaで強調"
+  - id: "scr-226-p10"
+    section_id: "Scr_226"
+    drill: 1
+    number: 1067
+    role: "exam"
+    english: "The recent weather will have a bad effect on agricultural production."
+    japanese: "最近の気候は、農業生産に悪影響を及ぼすことになるだろう。"
+    notes: "難易度: 頻出; 出典: 中央大; have an effect[influence] on〜「〜に影響を与える/効果がある」"
+  - id: "scr-226-p11"
+    section_id: "Scr_226"
+    drill: 1
+    number: 1068
+    role: "exam"
+    english: "She is not interested in painting but takes great delight in composing music."
+    japanese: "彼女は絵画には興味がないが、作曲は大いに楽しんでいる。"
+    notes: "出典: 駒澤大; take delight in〜「〜を喜ぶ/〜を楽しむ」(=take pleasure in)"
+
+  # === 例文（example） ===
+  - id: "scr-226-e01"
+    section_id: "Scr_226"
+    drill: 0
+    number: 1060
+    role: "example"
+    english: "His conduct gave birth to the displeasure of all his friends."
+    japanese: "彼の行為は友人すべてを不快にさせた。"
+    notes: "プラスα; give birth to〜の「〜を引き起こす」(=give rise to)用法"
+  - id: "scr-226-e02"
+    section_id: "Scr_226"
+    drill: 0
+    number: 1061
+    role: "example"
+    english: "The old bridge gave way due to the strong earthquake."
+    japanese: "その古い橋は強い地震のせいで崩れた。"
+    notes: "プラスα; give way「崩れる/壊れる」(=collapse); toなしの形"
+  - id: "scr-226-e03"
+    section_id: "Scr_226"
+    drill: 0
+    number: 1062
+    role: "example"
+    english: "Mr. Smith was absent, so another instructor took his place."
+    japanese: "スミス先生が休んだので、別の講師が彼の代わりを務めた。"
+    notes: "プラスα; take A's place; 代名詞の場合の形"
+  - id: "scr-226-e04"
+    section_id: "Scr_226"
+    drill: 0
+    number: 1064
+    role: "example"
+    english: "The new agreement will bring the conflict to an end."
+    japanese: "新しい合意がその紛争を終わらせるだろう。"
+    notes: "プラスα; bring〜to an end「〜を終わらせる」=put an end to〜"
+  - id: "scr-226-e05"
+    section_id: "Scr_226"
+    drill: 0
+    number: 1066
+    role: "example"
+    english: "I don't have the slightest idea."
+    japanese: "私にはさっぱりわかりません。"
+    notes: "プラスα; have no ideaの強調形"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-226-p01"
+    label: "overall"
+    value: "S V O M / V M"
+  - sentence_id: "scr-226-p01"
+    label: "details"
+    value: "She(S) lost her temper(V) [with the customer](M) and shouted(V) [at him](M)."
+  # p02
+  - sentence_id: "scr-226-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-226-p02"
+    label: "details"
+    value: "<His discovery>(S) gave rise to(V) <a scientific revolution>(O)."
+  # p03
+  - sentence_id: "scr-226-p03"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-226-p03"
+    label: "details"
+    value: "She(S) gave birth to(V) <a healthy girl>(O)."
+  # p04
+  - sentence_id: "scr-226-p04"
+    label: "overall"
+    value: "S M V O"
+  - sentence_id: "scr-226-p04"
+    label: "details"
+    value: "He(S) [never](M) gave way to(V) <temptation>(O)."
+  # p05
+  - sentence_id: "scr-226-p05"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-226-p05"
+    label: "details"
+    value: "<Artificial intelligence>(S) is taking the place of(V) <human workers>(O) [in some industries](M:場所)."
+  # p06
+  - sentence_id: "scr-226-p06"
+    label: "overall"
+    value: "V S V O M"
+  - sentence_id: "scr-226-p06"
+    label: "details"
+    value: "Will(V) you(S) keep an eye on(V) <this baggage>(O) [until I get back](M:時)?"
+  # p07
+  - sentence_id: "scr-226-p07"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-226-p07"
+    label: "details"
+    value: "<The baseball fans>(S) were surprised(V:受動態) [because the game suddenly came to an end](M:理由)."
+  # p08
+  - sentence_id: "scr-226-p08"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-226-p08"
+    label: "details"
+    value: "You(S) cannot smoke(V) [till you have come of age](M:時)."
+  # p09
+  - sentence_id: "scr-226-p09"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "scr-226-p09"
+    label: "details"
+    value: "[At that point](M:時), I(S) had(V) <no idea how difficult it would be to find the right way to the station>(O:疑問詞節)."
+  # p10
+  - sentence_id: "scr-226-p10"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-226-p10"
+    label: "details"
+    value: "<The recent weather>(S) will have(V) <a bad effect>(O) [on agricultural production](M)."
+  # p11
+  - sentence_id: "scr-226-p11"
+    label: "overall"
+    value: "S V C M / V O M"
+  - sentence_id: "scr-226-p11"
+    label: "details"
+    value: "She(S) is(V) <not interested>(C) [in painting](M) but takes great delight(V) [in composing music](M)."
+  # e01
+  - sentence_id: "scr-226-e01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-226-e01"
+    label: "details"
+    value: "<His conduct>(S) gave birth to(V) <the displeasure of all his friends>(O)."
+  # e02
+  - sentence_id: "scr-226-e02"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-226-e02"
+    label: "details"
+    value: "<The old bridge>(S) gave way(V) [due to the strong earthquake](M:理由)."
+  # e03
+  - sentence_id: "scr-226-e03"
+    label: "overall"
+    value: "S V C / S V O"
+  - sentence_id: "scr-226-e03"
+    label: "details"
+    value: "<Mr. Smith>(S) was(V) <absent>(C), so <another instructor>(S) took his place(V)."
+  # e04
+  - sentence_id: "scr-226-e04"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-226-e04"
+    label: "details"
+    value: "<The new agreement>(S) will bring(V) <the conflict>(O) [to an end](M)."
+  # e05
+  - sentence_id: "scr-226-e05"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-226-e05"
+    label: "details"
+    value: "I(S) don't have(V) <the slightest idea>(O)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-226-p01"
+    node_id: "sid-009"
+  - sentence_id: "scr-226-p02"
+    node_id: "sid-009"
+  - sentence_id: "scr-226-p03"
+    node_id: "sid-009"
+  - sentence_id: "scr-226-p04"
+    node_id: "sid-009"
+  - sentence_id: "scr-226-p05"
+    node_id: "sid-009"
+  - sentence_id: "scr-226-p06"
+    node_id: "sid-009"
+  - sentence_id: "scr-226-p07"
+    node_id: "sid-009"
+  - sentence_id: "scr-226-p08"
+    node_id: "sid-009"
+  - sentence_id: "scr-226-p09"
+    node_id: "sid-009"
+  - sentence_id: "scr-226-p10"
+    node_id: "sid-009"
+  - sentence_id: "scr-226-p11"
+    node_id: "sid-009"
+  - sentence_id: "scr-226-e01"
+    node_id: "sid-009"
+  - sentence_id: "scr-226-e02"
+    node_id: "sid-009"
+  - sentence_id: "scr-226-e03"
+    node_id: "sid-009"
+  - sentence_id: "scr-226-e04"
+    node_id: "sid-009"
+  - sentence_id: "scr-226-e05"
+    node_id: "sid-009"

@@ -1,0 +1,214 @@
+# Scr_227: Theme 227 群動詞(3) → sid-009
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-227-p01"
+    section_id: "Scr_227"
+    drill: 1
+    number: 1069
+    role: "exam"
+    english: "Jogging will do you good."
+    japanese: "ジョギングは健康のためになる。"
+    notes: "出典: 愛知学院大; do A good「Aのためになる」(=do good to A); doは「（益・害など）を与える」の意味; goodは「利益/ため」の名詞"
+  - id: "scr-227-p02"
+    section_id: "Scr_227"
+    drill: 1
+    number: 1070
+    role: "exam"
+    english: "These books do young people great harm."
+    japanese: "これらの本は若者たちに大きな害を与える。"
+    notes: "難易度: 頻出; 出典: 関西学院大; do A harm「Aの害になる」(=do harm to A)"
+  - id: "scr-227-p03"
+    section_id: "Scr_227"
+    drill: 1
+    number: 1071
+    role: "exam"
+    english: "Could you do me a favor and pass me the salt, please?"
+    japanese: "お願いですから塩をとってくれませんか。"
+    notes: "難易度: 頻出; 出典: 亜細亜大; do A a favor「Aの頼みを聞き入れる」(=do a favor for A); Will you do me a favor?=May I ask a favor of you?"
+  - id: "scr-227-p04"
+    section_id: "Scr_227"
+    drill: 1
+    number: 1072
+    role: "exam"
+    english: "I am wondering if I could ask a favor of you?"
+    japanese: "お願いをしてもよろしいでしょうか。"
+    notes: "出典: 神奈川大; ask a favor of A「Aに頼みごとをする」(=ask A a favor); 語句: I wonder if〜「〜してもいいでしょうか」(⇨1334)"
+  - id: "scr-227-p05"
+    section_id: "Scr_227"
+    drill: 1
+    number: 1073
+    role: "exam"
+    english: "We were told to learn the poem by heart."
+    japanese: "私たちはその詩を暗記するように言われた。"
+    notes: "難易度: 頻出; 出典: 高知大; learn A by heart「Aを暗記する/Aを覚える」(=memorize)"
+  - id: "scr-227-p06"
+    section_id: "Scr_227"
+    drill: 1
+    number: 1074
+    role: "exam"
+    english: "Keep in mind that I have to leave at 4 o'clock today."
+    japanese: "今日は4時に帰らなければならないことを覚えておいてください。"
+    notes: "難易度: 頻出; 出典: 東京理科大; keep[bear] A in mind「Aを心に留めておく/Aを覚えておく」; Aがthat節など長い場合、keep in mind Aの語順"
+  - id: "scr-227-p07"
+    section_id: "Scr_227"
+    drill: 1
+    number: 1075
+    role: "exam"
+    english: "I tried to guess what she had in mind."
+    japanese: "私は、彼女が何を考えているのか推測しようとした。"
+    notes: "have A in mind「Aを考えている/Aを計画している」"
+  - id: "scr-227-p08"
+    section_id: "Scr_227"
+    drill: 1
+    number: 1076
+    role: "exam"
+    english: "Mary and Lucy don't have much in common, but they are still great friends."
+    japanese: "メアリーとルーシーは、それほど共通点があるわけではないが、それでも良い友達だ。"
+    notes: "難易度: 頻出; 出典: 東京理科大; have A in common「Aを共通に持っている」; Aはmuch/a lot/something/little/nothingなど"
+  - id: "scr-227-p09"
+    section_id: "Scr_227"
+    drill: 1
+    number: 1077
+    role: "exam"
+    english: "You must take into account the fact that he is too young."
+    japanese: "あなたは、彼が若すぎるという事実を考慮しなければならない。"
+    notes: "難易度: 頻出; 出典: 中部大; take A into account/take A into consideration「Aを考慮に入れる」(=consider); 同意: take account of〜/allow for〜; 参照: ⇨151 all things considered"
+  - id: "scr-227-p10"
+    section_id: "Scr_227"
+    drill: 1
+    number: 1078
+    role: "exam"
+    english: "When you buy a car, you should take fuel economy into consideration."
+    japanese: "車を買うときは、燃費を考慮に入れるべきだ。"
+    notes: "難易度: 頻出; 出典: 立命館大; take A into consideration「Aを考慮に入れる」; 同意: take account of〜/allow for〜; 参照: ⇨151 all things considered"
+  - id: "scr-227-p11"
+    section_id: "Scr_227"
+    drill: 1
+    number: 1079
+    role: "exam"
+    english: "She was taken by surprise to see the present, as she thought nobody in the world including herself could possibly remember her birthday."
+    japanese: "自分も含めて世界中の誰も自分の誕生日なんて覚えていないと思っていたので、彼女はプレゼントを見て驚いた。"
+    notes: "難易度: 発展; 出典: 中央大; take A by surprise「Aの不意を打つ/Aをびっくりさせる」; 本問は受動態; surpriseは「不意打ち/奇襲」の意味の名詞"
+
+  # === 例文（example） ===
+  - id: "scr-227-e01"
+    section_id: "Scr_227"
+    drill: 0
+    number: 1077
+    role: "example"
+    english: "The report takes account of recent economic changes."
+    japanese: "その報告書は最近の経済的変化を考慮している。"
+    notes: "プラスα; take account of〜「〜を考慮する」; take A into accountの同意表現"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-227-p01"
+    label: "overall"
+    value: "S V O O"
+  - sentence_id: "scr-227-p01"
+    label: "details"
+    value: "Jogging(S) will do(V) <you>(O) <good>(O)."
+  # p02
+  - sentence_id: "scr-227-p02"
+    label: "overall"
+    value: "S V O O"
+  - sentence_id: "scr-227-p02"
+    label: "details"
+    value: "<These books>(S) do(V) <young people>(O) <great harm>(O)."
+  # p03
+  - sentence_id: "scr-227-p03"
+    label: "overall"
+    value: "V S V O O / V O O"
+  - sentence_id: "scr-227-p03"
+    label: "details"
+    value: "Could(V) you(S) do(V) <me>(O) <a favor>(O) and pass(V) <me>(O) <the salt>(O), please?"
+  # p04
+  - sentence_id: "scr-227-p04"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-227-p04"
+    label: "details"
+    value: "I(S) am wondering(V) [if I could ask a favor of you](M:if節)."
+  # p05
+  - sentence_id: "scr-227-p05"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-227-p05"
+    label: "details"
+    value: "We(S) were told(V:受動態) <to learn the poem>(O) [by heart](M:様態)."
+  # p06
+  - sentence_id: "scr-227-p06"
+    label: "overall"
+    value: "V M O"
+  - sentence_id: "scr-227-p06"
+    label: "details"
+    value: "Keep(V:命令文) [in mind](M) <that I have to leave at 4 o'clock today>(O:that節)."
+  # p07
+  - sentence_id: "scr-227-p07"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-227-p07"
+    label: "details"
+    value: "I(S) tried to guess(V) <what she had in mind>(O:疑問詞節)."
+  # p08
+  - sentence_id: "scr-227-p08"
+    label: "overall"
+    value: "S V O M / S V C"
+  - sentence_id: "scr-227-p08"
+    label: "details"
+    value: "<Mary and Lucy>(S) don't have(V) <much>(O) [in common](M), but they(S) are(V) [still](M) <great friends>(C)."
+  # p09
+  - sentence_id: "scr-227-p09"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-227-p09"
+    label: "details"
+    value: "You(S) must take into account(V) <the fact that he is too young>(O:同格that節)."
+  # p10
+  - sentence_id: "scr-227-p10"
+    label: "overall"
+    value: "M S V O M"
+  - sentence_id: "scr-227-p10"
+    label: "details"
+    value: "[When you buy a car](M:条件節), you(S) should take(V) <fuel economy>(O) [into consideration](M)."
+  # p11
+  - sentence_id: "scr-227-p11"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-227-p11"
+    label: "details"
+    value: "She(S) was taken by surprise(V:受動態) [to see the present](M:理由) [as she thought nobody in the world including herself could possibly remember her birthday](M:理由)."
+  # e01
+  - sentence_id: "scr-227-e01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-227-e01"
+    label: "details"
+    value: "<The report>(S) takes account of(V) <recent economic changes>(O)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-227-p01"
+    node_id: "sid-009"
+  - sentence_id: "scr-227-p02"
+    node_id: "sid-009"
+  - sentence_id: "scr-227-p03"
+    node_id: "sid-009"
+  - sentence_id: "scr-227-p04"
+    node_id: "sid-009"
+  - sentence_id: "scr-227-p05"
+    node_id: "sid-009"
+  - sentence_id: "scr-227-p06"
+    node_id: "sid-009"
+  - sentence_id: "scr-227-p07"
+    node_id: "sid-009"
+  - sentence_id: "scr-227-p08"
+    node_id: "sid-009"
+  - sentence_id: "scr-227-p09"
+    node_id: "sid-009"
+  - sentence_id: "scr-227-p10"
+    node_id: "sid-009"
+  - sentence_id: "scr-227-p11"
+    node_id: "sid-009"
+  - sentence_id: "scr-227-e01"
+    node_id: "sid-009"

@@ -1,0 +1,231 @@
+# Scr_228: Theme 228 群動詞（動詞+名詞+前置詞 ほか）(1) → sid-010
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-228-p01"
+    section_id: "Scr_228"
+    drill: 1
+    number: 1080
+    role: "exam"
+    english: "All the members made much of her opinion."
+    japanese: "メンバー全員が彼女の意見を重んじた。"
+    notes: "出典: 立命館大; make much of〜「〜を重視する」(=value/think much[highly] of)⇔make light[little] of〜「〜を軽視する」(=think little[lightly] of)"
+  - id: "scr-228-p02"
+    section_id: "Scr_228"
+    drill: 1
+    number: 1081
+    role: "exam"
+    english: "The international conference will take place in Japan this year."
+    japanese: "その国際会議は、今年日本で開催される。"
+    notes: "難易度: 頻出; 出典: 名城大; take place「（行事などが）行われる/催される」(=be held); 「（事件などが）起こる」(=happen/occur)の意味も"
+  - id: "scr-228-p03"
+    section_id: "Scr_228"
+    drill: 1
+    number: 1082
+    role: "exam"
+    english: "Why don't you take your time in finishing up your paper?"
+    japanese: "論文はゆっくり仕上げてはどうですか。"
+    notes: "難易度: 頻出; 出典: 立命館大; take one's time「ゆっくり（時間をかけて）やる」⇔lose no time「すぐに〜する」"
+  - id: "scr-228-p04"
+    section_id: "Scr_228"
+    drill: 1
+    number: 1083
+    role: "exam"
+    english: "We watched the movies to kill time."
+    japanese: "私たちは暇つぶしに映画を見た。"
+    notes: "出典: 長崎大; kill time「時間をつぶす」"
+  - id: "scr-228-p05"
+    section_id: "Scr_228"
+    drill: 1
+    number: 1084
+    role: "exam"
+    english: "What he says just doesn't make sense to me."
+    japanese: "彼の言うことは私にはまったく理解できない。"
+    notes: "難易度: 頻出; 出典: センター; make sense「よく理解できる/筋が通っている」; make sense of〜「〜を理解する」（通例否定文・疑問文）"
+  - id: "scr-228-p06"
+    section_id: "Scr_228"
+    drill: 1
+    number: 1085
+    role: "exam"
+    english: "Mike took care of his young children."
+    japanese: "マイクは自分の幼い子供たちの世話をした。"
+    notes: "難易度: 基本/頻出; 出典: 名古屋学院大; take care of〜「〜の世話をする」(=look after⇨943/care for⇨944)"
+  - id: "scr-228-p07"
+    section_id: "Scr_228"
+    drill: 1
+    number: 1086
+    role: "exam"
+    english: "I don't see much of my uncle lately."
+    japanese: "私は最近おじにあまり会わない。"
+    notes: "出典: 名古屋学院大; see much[a lot] of〜「〜とよく会う」; something/little/nothingなども用いる; muchは通例否定文・疑問文"
+  - id: "scr-228-p08"
+    section_id: "Scr_228"
+    drill: 1
+    number: 1087
+    role: "exam"
+    english: "To help my family, I always do the dishes after meals."
+    japanese: "家族を手伝うため、私はいつも食後に皿洗いをする。"
+    notes: "出典: 名城大; do the dishes「皿洗いをする」(=wash the dishes); PU!193: do+the[one's]+名詞「（動作）をする」"
+  - id: "scr-228-p09"
+    section_id: "Scr_228"
+    drill: 1
+    number: 1088
+    role: "exam"
+    english: "Miss Jones made a face when she heard the news."
+    japanese: "ジョーンズさんはその知らせを聞いたとき、顔をしかめた。"
+    notes: "難易度: 発展; 出典: 近畿大; make a face「いやな顔をする/顔をしかめる」(=pull a face/frown)"
+  - id: "scr-228-p10"
+    section_id: "Scr_228"
+    drill: 1
+    number: 1089
+    role: "exam"
+    english: "You should do more exercise if you don't want to put on weight."
+    japanese: "体重を増やしたくなかったら、もっと運動すべきだ。"
+    notes: "出典: 関東学院大; put on weight「太る」(=gain weight)⇔lose weight「やせる/減量する」"
+  - id: "scr-228-p11"
+    section_id: "Scr_228"
+    drill: 1
+    number: 1090
+    role: "exam"
+    english: "She felt like slapping him in the face, but thought better of it."
+    japanese: "彼女は彼の顔をピシャッとたたいてやりたくなったが、思い直してやめた。"
+    notes: "難易度: 発展; 出典: 中央大; think better of〜「〜を考え直してやめる/〜を見直す」"
+
+  # === 例文（example） ===
+  - id: "scr-228-e01"
+    section_id: "Scr_228"
+    drill: 0
+    number: 1081
+    role: "example"
+    english: "The accident took place in the early morning."
+    japanese: "その事故は早朝に起こった。"
+    notes: "プラスα; take placeの「（事件が）起こる」(=happen/occur)用法"
+  - id: "scr-228-e02"
+    section_id: "Scr_228"
+    drill: 0
+    number: 1084
+    role: "example"
+    english: "I can't make sense of this sentence."
+    japanese: "この文の意味が理解できない。"
+    notes: "プラスα; make sense of〜「〜を理解する」; 通例否定文・疑問文で用いる"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-228-p01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-228-p01"
+    label: "details"
+    value: "<All the members>(S) made much of(V) <her opinion>(O)."
+  # p02
+  - sentence_id: "scr-228-p02"
+    label: "overall"
+    value: "S V M M"
+  - sentence_id: "scr-228-p02"
+    label: "details"
+    value: "<The international conference>(S) will take place(V) [in Japan](M:場所) [this year](M:時)."
+  # p03
+  - sentence_id: "scr-228-p03"
+    label: "overall"
+    value: "V O M"
+  - sentence_id: "scr-228-p03"
+    label: "details"
+    value: "Why don't you take your time(V) [in finishing up your paper](M:様態)?"
+  # p04
+  - sentence_id: "scr-228-p04"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-228-p04"
+    label: "details"
+    value: "We(S) watched(V) <the movies>(O) [to kill time](M:目的)."
+  # p05
+  - sentence_id: "scr-228-p05"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-228-p05"
+    label: "details"
+    value: "<What he says>(S) just doesn't make sense(V) [to me](M)."
+  # p06
+  - sentence_id: "scr-228-p06"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-228-p06"
+    label: "details"
+    value: "Mike(S) took care of(V) <his young children>(O)."
+  # p07
+  - sentence_id: "scr-228-p07"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-228-p07"
+    label: "details"
+    value: "I(S) don't see(V) <much of my uncle>(O) [lately](M:時)."
+  # p08
+  - sentence_id: "scr-228-p08"
+    label: "overall"
+    value: "M S M V O M"
+  - sentence_id: "scr-228-p08"
+    label: "details"
+    value: "[To help my family](M:目的), I(S) [always](M:頻度) do(V) <the dishes>(O) [after meals](M:時)."
+  # p09
+  - sentence_id: "scr-228-p09"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-228-p09"
+    label: "details"
+    value: "Miss Jones(S) made(V) <a face>(O) [when she heard the news](M:時)."
+  # p10
+  - sentence_id: "scr-228-p10"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-228-p10"
+    label: "details"
+    value: "You(S) should do(V) <more exercise>(O) [if you don't want to put on weight](M:条件節)."
+  # p11
+  - sentence_id: "scr-228-p11"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-228-p11"
+    label: "details"
+    value: "She(S) felt like(V) <slapping him in the face>(O), but thought better of(V) <it>(O)."
+  # e01
+  - sentence_id: "scr-228-e01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-228-e01"
+    label: "details"
+    value: "<The accident>(S) took place(V) [in the early morning](M:時)."
+  # e02
+  - sentence_id: "scr-228-e02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-228-e02"
+    label: "details"
+    value: "I(S) can't make sense of(V) <this sentence>(O)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-228-p01"
+    node_id: "sid-010"
+  - sentence_id: "scr-228-p02"
+    node_id: "sid-010"
+  - sentence_id: "scr-228-p03"
+    node_id: "sid-010"
+  - sentence_id: "scr-228-p04"
+    node_id: "sid-010"
+  - sentence_id: "scr-228-p05"
+    node_id: "sid-010"
+  - sentence_id: "scr-228-p06"
+    node_id: "sid-010"
+  - sentence_id: "scr-228-p07"
+    node_id: "sid-010"
+  - sentence_id: "scr-228-p08"
+    node_id: "sid-010"
+  - sentence_id: "scr-228-p09"
+    node_id: "sid-010"
+  - sentence_id: "scr-228-p10"
+    node_id: "sid-010"
+  - sentence_id: "scr-228-p11"
+    node_id: "sid-010"
+  - sentence_id: "scr-228-e01"
+    node_id: "sid-010"
+  - sentence_id: "scr-228-e02"
+    node_id: "sid-010"

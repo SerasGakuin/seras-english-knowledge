@@ -2108,6 +2108,39 @@ section_knowledge_nodes:
   - section_id: "Scr_220"
     node_id: "sid-006"
     seq: 1
+  - section_id: "Scr_221"
+    node_id: "sid-006"
+    seq: 2
+  - section_id: "Scr_222"
+    node_id: "sid-007"
+    seq: 1
+  - section_id: "Scr_223"
+    node_id: "sid-007"
+    seq: 2
+  - section_id: "Scr_224"
+    node_id: "sid-008"
+    seq: 1
+  - section_id: "Scr_225"
+    node_id: "sid-009"
+    seq: 1
+  - section_id: "Scr_226"
+    node_id: "sid-009"
+    seq: 2
+  - section_id: "Scr_227"
+    node_id: "sid-009"
+    seq: 3
+  - section_id: "Scr_228"
+    node_id: "sid-010"
+    seq: 1
+  - section_id: "Scr_229"
+    node_id: "sid-010"
+    seq: 2
+  - section_id: "Scr_230"
+    node_id: "sid-010"
+    seq: 3
+  - section_id: "Scr_231"
+    node_id: "sid-011"
+    seq: 1
 
 section_prerequisites:
   # Ch03 助動詞

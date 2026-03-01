@@ -1,0 +1,248 @@
+# Scr_225: Theme 225 群動詞(1) → sid-009
+
+sentences:
+  # === 問題（exam） ===
+  - id: "scr-225-p01"
+    section_id: "Scr_225"
+    drill: 1
+    number: 1046
+    role: "exam"
+    english: "I usually run for an hour in the morning. I will take part in a marathon this March."
+    japanese: "私はたいてい朝1時間走ります。今年の3月にマラソン大会に参加するつもりです。"
+    notes: "難易度: 基本/頻出; 出典: 愛知学院大; take part in〜「〜に参加する」(=participate in/join in)"
+  - id: "scr-225-p02"
+    section_id: "Scr_225"
+    drill: 1
+    number: 1047
+    role: "exam"
+    english: "She gets on my nerves with her constant complaints."
+    japanese: "彼女はいつも不平を言って、私をいらいらさせる。"
+    notes: "難易度: 発展; 出典: 慶應大; get on A's nerves「Aの神経にさわる/Aをいらいらさせる」(=irritate/annoy/disturb); nerveは複数形nervesに注意"
+  - id: "scr-225-p03"
+    section_id: "Scr_225"
+    drill: 1
+    number: 1048
+    role: "exam"
+    english: "I don't want you to go out of your way to bring me the package."
+    japanese: "わざわざ荷物を持ってきていただかなくてもいいですよ。"
+    notes: "出典: 立命館大; go out of one's way to do「わざわざ〜する」; have trouble doing「〜するのに苦労する」(⇨123)と区別"
+  - id: "scr-225-p04"
+    section_id: "Scr_225"
+    drill: 1
+    number: 1049
+    role: "exam"
+    english: "She took the trouble to show us the shorter way to the museum."
+    japanese: "彼女はわざわざ美術館への近道を教えてくれた。"
+    notes: "take the trouble to do「労を惜しまず〜する/わざわざ〜する」; have trouble doing(⇨123)と区別"
+  - id: "scr-225-p05"
+    section_id: "Scr_225"
+    drill: 1
+    number: 1050
+    role: "exam"
+    english: "She is good at art, so she should take pride in her paintings."
+    japanese: "彼女は芸術が得意なのだから、自分の絵に誇りを持つべきだ。"
+    notes: "出典: 学習院大; take pride in〜「〜を誇りに思う」(=be proud of/pride oneself on); pride(名)→in、proud(形)→of、pride(動)→on"
+  - id: "scr-225-p06"
+    section_id: "Scr_225"
+    drill: 1
+    number: 1051
+    role: "exam"
+    english: "The research team successfully caught sight of the seldom-seen Sri Lankan leopard."
+    japanese: "研究チームはめったに見られないスリランカヒョウの姿をとらえるのに成功した。"
+    notes: "難易度: 基本; 出典: 名城大; catch sight of〜「〜を見つける/〜がちらっと見える」(=catch[get] a glimpse of)"
+  - id: "scr-225-p07"
+    section_id: "Scr_225"
+    drill: 1
+    number: 1052
+    role: "exam"
+    english: "We must remember not to lose sight of our goal."
+    japanese: "私たちは、目的を見失わないように心がけなければならない。"
+    notes: "出典: 東京理科大; lose sight of〜「〜を見失う/見落とす」; catch sight of〜の反意表現"
+  - id: "scr-225-p08"
+    section_id: "Scr_225"
+    drill: 1
+    number: 1053
+    role: "exam"
+    english: "We will make use of what we have now."
+    japanese: "私たちが今持っているものを利用するつもりです。"
+    notes: "難易度: 基本/頻出; 出典: 北星学園大; make use of〜「〜を利用する」(=use/utilize); make much[full/good] use of〜「〜を十分に利用する」、make the best use of〜「〜を最大限に利用する」"
+  - id: "scr-225-p09"
+    section_id: "Scr_225"
+    drill: 1
+    number: 1054
+    role: "exam"
+    english: "He took advantage of the good weather to do some gardening."
+    japanese: "彼は好天を利用して庭いじりをした。"
+    notes: "難易度: 頻出; 出典: 神奈川大; take advantage of〜「〜を利用する」(=make use of); 「（親切・無知など）につけ込む」(=impose on)の意味も"
+  - id: "scr-225-p10"
+    section_id: "Scr_225"
+    drill: 1
+    number: 1055
+    role: "exam"
+    english: "The money you give will be put to good use."
+    japanese: "あなたが寄付するお金は有効に利用されるだろう。"
+    notes: "出典: 慶應大; put〜to use「〜を利用する」(=make use of)"
+  - id: "scr-225-p11"
+    section_id: "Scr_225"
+    drill: 1
+    number: 1056
+    role: "exam"
+    english: "It is easy to find fault with the work of others."
+    japanese: "他人の仕事のあら探しをするのは簡単だ。"
+    notes: "難易度: 頻出; 出典: 千葉工大; find fault with〜「〜のあら探しをする/〜を非難する」(=criticize)"
+  - id: "scr-225-p12"
+    section_id: "Scr_225"
+    drill: 1
+    number: 1057
+    role: "exam"
+    english: "She took hold of his wrist."
+    japanese: "彼女は彼の手首をつかんだ。"
+    notes: "出典: 駒澤大; take hold of〜「〜をつかむ」; takeの代わりにcatch/get/seizeも可"
+
+  # === 例文（example） ===
+  - id: "scr-225-e01"
+    section_id: "Scr_225"
+    drill: 0
+    number: 1054
+    role: "example"
+    english: "People started taking advantage of his kindness."
+    japanese: "人々は彼の親切心につけ込み始めた。"
+    notes: "プラスα; take advantage of〜の「〜につけ込む」(=impose on)用法"
+  - id: "scr-225-e02"
+    section_id: "Scr_225"
+    drill: 0
+    number: 1057
+    role: "example"
+    english: "She tried to get hold of the railing before she fell down the stairs."
+    japanese: "彼女は階段から落ちる前に手すりをつかもうとした。"
+    notes: "プラスα; get hold of〜; takeの代わりにget"
+
+sentence_structures:
+  # p01
+  - sentence_id: "scr-225-p01"
+    label: "overall"
+    value: "S V M M / S V M M"
+  - sentence_id: "scr-225-p01"
+    label: "details"
+    value: "I(S) usually run(V) [for an hour](M:時) [in the morning](M:時). I(S) will take part in(V) <a marathon>(O) [this March](M:時)."
+  # p02
+  - sentence_id: "scr-225-p02"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-225-p02"
+    label: "details"
+    value: "She(S) gets on my nerves(V) [with her constant complaints](M:様態)."
+  # p03
+  - sentence_id: "scr-225-p03"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-225-p03"
+    label: "details"
+    value: "I(S) don't want(V) <you to go out of your way to bring me the package>(O)."
+  # p04
+  - sentence_id: "scr-225-p04"
+    label: "overall"
+    value: "S V O O"
+  - sentence_id: "scr-225-p04"
+    label: "details"
+    value: "She(S) took the trouble to show(V) <us>(O) <the shorter way to the museum>(O)."
+  # p05
+  - sentence_id: "scr-225-p05"
+    label: "overall"
+    value: "S V C M / S V M"
+  - sentence_id: "scr-225-p05"
+    label: "details"
+    value: "She(S) is(V) <good at art>(C), so she(S) should take pride in(V) <her paintings>(O)."
+  # p06
+  - sentence_id: "scr-225-p06"
+    label: "overall"
+    value: "S M V O"
+  - sentence_id: "scr-225-p06"
+    label: "details"
+    value: "<The research team>(S) [successfully](M:様態) caught sight of(V) <the seldom-seen Sri Lankan leopard>(O)."
+  # p07
+  - sentence_id: "scr-225-p07"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-225-p07"
+    label: "details"
+    value: "We(S) must remember(V) <not to lose sight of our goal>(O)."
+  # p08
+  - sentence_id: "scr-225-p08"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-225-p08"
+    label: "details"
+    value: "We(S) will make use of(V) <what we have now>(O:関係代名詞what)."
+  # p09
+  - sentence_id: "scr-225-p09"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-225-p09"
+    label: "details"
+    value: "He(S) took advantage of(V) <the good weather>(O) [to do some gardening](M:目的)."
+  # p10
+  - sentence_id: "scr-225-p10"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-225-p10"
+    label: "details"
+    value: "<The money you give>(S:関係代名詞省略) will be put to good use(V:受動態)."
+  # p11
+  - sentence_id: "scr-225-p11"
+    label: "overall"
+    value: "It V C M"
+  - sentence_id: "scr-225-p11"
+    label: "details"
+    value: "It(仮S) is(V) <easy>(C) [to find fault with the work of others](M:真主語)."
+  # p12
+  - sentence_id: "scr-225-p12"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-225-p12"
+    label: "details"
+    value: "She(S) took hold of(V) <his wrist>(O)."
+  # e01
+  - sentence_id: "scr-225-e01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-225-e01"
+    label: "details"
+    value: "People(S) started taking advantage of(V) <his kindness>(O)."
+  # e02
+  - sentence_id: "scr-225-e02"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-225-e02"
+    label: "details"
+    value: "She(S) tried to get hold of(V) <the railing>(O) [before she fell down the stairs](M:時)."
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-225-p01"
+    node_id: "sid-009"
+  - sentence_id: "scr-225-p02"
+    node_id: "sid-009"
+  - sentence_id: "scr-225-p03"
+    node_id: "sid-009"
+  - sentence_id: "scr-225-p04"
+    node_id: "sid-009"
+  - sentence_id: "scr-225-p05"
+    node_id: "sid-009"
+  - sentence_id: "scr-225-p06"
+    node_id: "sid-009"
+  - sentence_id: "scr-225-p07"
+    node_id: "sid-009"
+  - sentence_id: "scr-225-p08"
+    node_id: "sid-009"
+  - sentence_id: "scr-225-p09"
+    node_id: "sid-009"
+  - sentence_id: "scr-225-p10"
+    node_id: "sid-009"
+  - sentence_id: "scr-225-p11"
+    node_id: "sid-009"
+  - sentence_id: "scr-225-p12"
+    node_id: "sid-009"
+  - sentence_id: "scr-225-e01"
+    node_id: "sid-009"
+  - sentence_id: "scr-225-e02"
+    node_id: "sid-009"

@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-203-p01"
+    section_id: "Scr_203"
+    drill: 1
+    number: 846
+    role: "exam"
+    english: "(a) She remained calm in the face of danger. (b) Their apartments face the harbor. (c) It's time to face the reality. (d) His watch is the one with a silver face."
+    japanese: "(a) 危険に直面しても彼女は冷静だった。(b) 彼らのアパートは港に面している。(c) 現実を直視すべき時だ。(d) 彼の時計はシルバーの文字盤のものです。"
+    notes: "〈頻出〉(b)芝浦工大。共通語: face。(a)名 in the face of〜「〜に直面して」(⇨1304) (b)動「〜に面する」(c)動「直面する」(=confront) (d)名「文字盤/表面」。(c)「直面する」の意味が頻出。be faced with〜「〜に直面している」も頻出。"
+  - id: "scr-203-p02"
+    section_id: "Scr_203"
+    drill: 1
+    number: 847
+    role: "exam"
+    english: "(a) He left a note to the effect that he would not be coming back. (b) Parents worry about the effect of websites on their adolescents' behavior. (c) She lay quietly waiting for the sleeping pills to take effect."
+    japanese: "(a) 彼は、戻らないという趣旨のメモを残した。(b) 親たちは、ウェブサイトが思春期の子どもたちの行動に与える影響について心配している。(c) 彼女は、睡眠薬が効くのを待って静かに横たわっていた。"
+    notes: "慶應大。共通語: effect。(a)名 to the effect that〜「〜という趣旨の」(b)名「影響」(=influence) (c)名 take effect「効果が現れる/効く」。have an effect on〜(⇨1067)。〈重要〉(b) adolescent「思春期の少年・少女」。"
+  - id: "scr-203-p03"
+    section_id: "Scr_203"
+    drill: 1
+    number: 848
+    role: "exam"
+    english: "(a) I have seen many cases where talent was not rewarded with success. (b) You had better take your umbrella just in case. (c) The child has a case of chicken pox. (d) Jane said Mark is sick. If that is the case, we need more staff for today."
+    japanese: "(a) 才能があっても成功しなかった事例をたくさん見てきた。(b) 万一の場合に備えて、傘を持って行きなさい。(c) その子どもには水ぼうそうの症状がある。(d) ジェーンはマークが病気だと言った。もしそれが事実なら、今日はもっとスタッフが必要だ。"
+    notes: "〈頻出〉(a)〜(c)上智大・(d)武蔵大。共通語: case。(a)名「場合/事例」(b)名 (just) in case「万一に備えて」(⇨1221) (c)名「症状;患者」(d)名「真相/事実」。in case S (should) do(⇨445)。be the case「事実である」。as is often the case (with〜)(⇨378)。"
+  - id: "scr-203-e01"
+    section_id: "Scr_203"
+    drill: 0
+    number: 846
+    role: "example"
+    english: "The company was faced with a major shift in the industry."
+    japanese: "その会社は業界の大きな変化に直面していた。"
+    notes: "解説例文。be faced with〜「〜に直面している」。"
+
+sentence_structures:
+  - sentence_id: "scr-203-p01"
+    label: "overall"
+    value: "(a) S V C M / (b) S V O / (c) It V C / (d) S V C"
+  - sentence_id: "scr-203-p01"
+    label: "details"
+    value: "(a) <She>(S) remained(V) <calm>(C:形容詞) [in the face of danger](M) (b) <Their apartments>(S) face(V) <the harbor>(O) (c) <It>(S:形式主語) 's time(V) <to face the reality>(C:不定詞) (d) <His watch>(S) is(V) <the one with a silver face>(C)"
+  - sentence_id: "scr-203-p02"
+    label: "overall"
+    value: "(a) S V O M / (b) S V M / (c) S V M"
+  - sentence_id: "scr-203-p02"
+    label: "details"
+    value: "(a) <He>(S) left(V) <a note to the effect that he would not be coming back>(O) (b) <Parents>(S) worry(V) [about the effect of websites on their adolescents' behavior](M) (c) <She>(S) lay(V) [quietly waiting for the sleeping pills to take effect](M:分詞構文)"
+  - sentence_id: "scr-203-p03"
+    label: "overall"
+    value: "(a) S V O M / (b) S V O M / (c) S V O / (d) M, S V O"
+  - sentence_id: "scr-203-p03"
+    label: "details"
+    value: "(a) <I>(S) have seen(V) <many cases>(O) [where talent was not rewarded with success](M:関係副詞) (b) <You>(S) had better take(V) <your umbrella>(O) [just in case](M) (c) <The child>(S) has(V) <a case of chicken pox>(O) (d) [If that is the case](M:条件), <we>(S) need(V) <more staff>(O) [for today](M)"
+  - sentence_id: "scr-203-e01"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "scr-203-e01"
+    label: "details"
+    value: "<The company>(S) was faced(V) [with a major shift in the industry](M)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-203-p01"
+    node_id: "sgi-012"
+  - sentence_id: "scr-203-p02"
+    node_id: "sgi-012"
+  - sentence_id: "scr-203-p03"
+    node_id: "sgi-012"
+  - sentence_id: "scr-203-e01"
+    node_id: "sgi-012"

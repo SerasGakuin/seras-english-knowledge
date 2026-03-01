@@ -1,0 +1,168 @@
+knowledge_nodes:
+  - id: "sgi-014"
+    name: "同語根のまぎらわしい動詞①② — spire/sume/volve/fect/tend/ject/serve/scribe/tribute"
+    category: "語い"
+    priority: "P2"
+    notes: |
+      Theme 205+206統合。語根から派生する同語根動詞の識別。
+      【語根 spire=breathe】inspire「励ます」/expire「期限が切れる」/conspire「共謀する」/aspire「熱望する」。
+      【語根 sume=take/use】resume「再び始める」/assume「仮定する」/presume「推定する」/consume「消費する」。
+      語句: leave off「やめる」。
+      【語根 volve=roll】evolve「進化する」/revolve「回転する」/involve「巻き込む」/revolt「そむく」。
+      【語根 fect/fact=make/do】affect「影響する」/defect(名)「欠点」/perfect「完成する」(形)「完全な」/effect(名)「結果/効果」。
+      【語根 tend=stretch】extend「延長する」/intend「意図する」/pretend「ふりをする」/contend「争う/主張する」。
+      【語根 ject=throw】reject「拒絶する」/inject「注射する」/subject「服従させる」(名)「臣民/主題」/project「計画する」(名)「計画」。
+      【語根 serve=serve/keep】deserve「値する」/reserve「予約する」/preserve「保存する」/observe「観察する/守る」。
+      【語根 scribe=write】describe「述べる」/prescribe「処方する」/subscribe「購読する」/inscribe「記入する」。
+      【語根 tribute=give/assign】contribute「貢献する/寄付する」/attribute「せいにする」/distribute「分配する」。
+      PU!182: 語源学習法の概説+主要接頭辞（ad-/com-/de-/ex-/in-/per-/pre-/re-）。
+      PU!183: 語根一覧+接頭辞（dis-/ob-/pro-/sub-）+接尾辞一覧（品詞変換：動→名-ment/-tion/-ance、動→形-ive/-ant/-able、形名→動-fy/-ate、名→形-ous/-al/-ary/-ic、形→名-ness/-ty/-y）。
+  - id: "sgi-015"
+    name: "同語根のまぎらわしい動詞③④ — mit/cede/ceive/fer/tract/press/pose/sure/duce/form"
+    category: "語い"
+    priority: "P2"
+    notes: |
+      Theme 207+208統合。語根から派生する同語根動詞の識別。
+      【語根 mit=send】admit「認める/入学を認める」/submit「提出する」/permit「許す」/commit「犯す/委託する」。
+      【語根 cede/ceed=go/come】succeed「後を継ぐ」/precede「先行する」/proceed「前進する」/concede「譲る」。
+      問862は対話問題。succeed〜「〜のあとを継ぐ」。
+      【語根 ceive=take】deceive「だます」/conceive「考えつく」/perceive「理解する/知覚する」/receive「受け取る」。
+      【語根 fer=carry/bring】infer「推測する」/confer「相談する」/transfer「移す」/prefer「より好む」。
+      【語根 tract=draw】distract「そらす」/contract「契約する」/attract「引きつける」/extract「抜き出す」。
+      【語根 press=push】depress「落ち込ませる」/impress「感動させる」/express「表現する」/suppress「抑える」。
+      【語根 pose=put】impose「課す」/compose「構成する」/dispose「処理する」/expose「さらす/暴露する」。
+      【語根 sure=safe】assure「保証する」/insure「保険をかける」/ensure「確実にする」。
+      assure A that〜「Aに〜を保証する」の形に注意。
+      【語根 duce=lead】reduce「減少させる/（状態に）変える」/induce「誘う」/produce「生産する」/introduce「導入する」。
+      reduce A to B「Aを（無理に）Bの状態に変える」。
+      【語根 form=form】inform「知らせる」(⇨514)/reform「改革する」/conform「一致させる」/perform「遂行する」。
+      PU!184: 接頭辞trans-+dict(say)/pend(weigh)/port(carry)の派生語。
+      dict:contradict/predict。pend:compensate/expend/dispense。port:import/export/transport。
+      PU!185: 接頭辞intro-/inter-/en-+spect(see/look)の派生語。
+      spect:spectator/species/aspect/prospect/perspective/inspect/suspect。
+  - id: "sgi-016"
+    name: "つづりと意味がまぎらわしい形容詞"
+    category: "語い"
+    priority: "P2"
+    notes: |
+      Theme 209。同語根でつづりが似ているが意味が異なる形容詞の識別。
+      considerate「思いやりのある」vs considerable「かなりの」。should have done「〜すべきだったのに」(⇨69)。
+      imaginative「想像力に富む」vs imaginary「想像上の」(⇔actual/real) vs imaginable「想像できる」。
+      come up with〜「〜を思いつく」(⇨1025)。
+      industrious「勤勉な」(=diligent/hardworking) vs industrial「工業の」。
+      technical「技術的な」vs technological「科学技術の」。
+      respectable「きちんとした」vs respective「それぞれの」vs respectively(副)「それぞれ」vs respectful「礼儀正しい」。
+      respectively例文: The first and second prizes went to Anna and Mike, respectively.
+      respectful例文: It's important to be respectful of other people's opinions.
+      literate「読み書きのできる」⇔illiterate。literal「文字通りの」→literally(副)。literary「文学の」→literature(名)。
+      make up〜「構成する」(=compose)(⇨問875語句)。
+      sensible「分別のある」vs sensory「感覚の」vs sensitive「敏感な」vs sensual「官能的な」。
+      favorite「お気に入りの」vs favorable「好都合の/好意的な」。
+      PU!186: intelligent/intelligible, economic/economical, social/sociable, successful/successive,
+      childlike/childish, momentary/momentous, valuable/invaluable(≠反意語。invaluable=priceless⇔valueless=worthless)。
+
+understanding_goals:
+  - node_id: "sgi-014"
+    seq: 1
+    goal: "spire/sume/volve/fectの語根から派生する動詞群を区別できる"
+  - node_id: "sgi-014"
+    seq: 2
+    goal: "tend/ject/serve/scribe/tributeの語根から派生する動詞群を区別できる"
+  - node_id: "sgi-014"
+    seq: 3
+    goal: "主要接頭辞（ad-/com-/de-/ex-/in-/per-/pre-/re-/dis-/ob-/pro-/sub-）の意味を理解できる"
+  - node_id: "sgi-015"
+    seq: 1
+    goal: "mit/cede/ceive/fer/tractの語根から派生する動詞群を区別できる"
+  - node_id: "sgi-015"
+    seq: 2
+    goal: "press/pose/sure/duce/formの語根から派生する動詞群を区別できる"
+  - node_id: "sgi-015"
+    seq: 3
+    goal: "PU!184-185のdict/pend/port/spectの派生語を把握できる"
+  - node_id: "sgi-016"
+    seq: 1
+    goal: "considerate/considerable等の-ate/-ableの接尾辞による意味の違いを識別できる"
+  - node_id: "sgi-016"
+    seq: 2
+    goal: "sensible/sensitive/sensory/sensual等のsense系形容詞を区別できる"
+  - node_id: "sgi-016"
+    seq: 3
+    goal: "respectable/respective/respectful/respectively等のrespect系語を区別できる"
+  - node_id: "sgi-016"
+    seq: 4
+    goal: "PU!186のまぎらわしい形容詞ペア（intelligent/intelligible等）を把握できる"
+
+check_points:
+  - node_id: "sgi-014"
+    seq: 1
+    question: "語根spire(=breathe)から派生するinspire/expire/aspireの意味は？"
+    answer: "inspire「励ます/霊感を与える」/expire「期限が切れる」/aspire「熱望する」。"
+  - node_id: "sgi-014"
+    seq: 2
+    question: "語根volve(=roll)から派生するevolve/involve/revolveの意味は？"
+    answer: "evolve「進化する/発展する」/involve「巻き込む/含む」/revolve「回転する」。"
+  - node_id: "sgi-014"
+    seq: 3
+    question: "語根ject(=throw)から派生するreject/inject/projectの意味は？"
+    answer: "reject「拒絶する」/inject「注射する」/project「計画する」(名)「計画」。"
+  - node_id: "sgi-014"
+    seq: 4
+    question: "語根scribe(=write)から派生するdescribe/prescribe/subscribeの意味は？"
+    answer: "describe「述べる/説明する」/prescribe「処方する/規定する」/subscribe「予約購読する」。"
+  - node_id: "sgi-015"
+    seq: 1
+    question: "語根mit(=send)から派生するadmit/submit/commit/permitの意味は？"
+    answer: "admit「認める」/submit「提出する」/commit「犯す/委託する」/permit「許す」。"
+  - node_id: "sgi-015"
+    seq: 2
+    question: "語根press(=push)から派生するdepress/impress/suppress/expressの意味は？"
+    answer: "depress「落ち込ませる」/impress「感動させる」/suppress「抑える」/express「表現する」。"
+  - node_id: "sgi-015"
+    seq: 3
+    question: "assure/insure/ensureの意味の違いは？assure A that〜の意味は？"
+    answer: "assure「保証する/安心させる」/insure「保険をかける」/ensure「確実にする」。assure A that〜=「Aに〜を保証する」。"
+  - node_id: "sgi-015"
+    seq: 4
+    question: "語根duce(=lead)から派生するreduce/produce/introduceの意味は？"
+    answer: "reduce「減少させる/（状態に）変える」/produce「生産する」/introduce「導入する/紹介する」。"
+  - node_id: "sgi-016"
+    seq: 1
+    question: "considerate vs considerableの意味の違いは？"
+    answer: "considerate「思いやりのある」/considerable「かなりの」。"
+  - node_id: "sgi-016"
+    seq: 2
+    question: "sensible vs sensitiveの意味の違いは？sensoryは？"
+    answer: "sensible「分別のある/賢明な」/sensitive「敏感な」/sensory「感覚の/知覚の」。"
+  - node_id: "sgi-016"
+    seq: 3
+    question: "respectable/respective/respectfulの意味の違いは？"
+    answer: "respectable「きちんとした/立派な」/respective「それぞれの」/respectful「礼儀正しい/敬意を表する」。"
+  - node_id: "sgi-016"
+    seq: 4
+    question: "valuable vs invaluableの関係は？invaluableの正確な意味は？"
+    answer: "反意語ではない。invaluable=priceless「非常に価値のある」（valuableの強意形）。⇔valueless(=worthless)「価値のない」。"
+
+node_prerequisites: []
+
+knowledge_references:
+  - node_id: "sgi-014"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_205"
+    pages: ""
+  - node_id: "sgi-014"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_206"
+    pages: ""
+  - node_id: "sgi-015"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_207"
+    pages: ""
+  - node_id: "sgi-015"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_208"
+    pages: ""
+  - node_id: "sgi-016"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_209"
+    pages: ""
