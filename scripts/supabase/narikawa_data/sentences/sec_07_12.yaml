@@ -1,0 +1,103 @@
+# Nar_07_12: 「逆接・譲歩」を表す接続詞 (p.276-278)
+
+sentences:
+  - id: "nar-0712-e426"
+    section_id: "Nar_07_12"
+    drill: 0
+    number: 426
+    role: "example"
+    english: "Though he is young, he is running a company."
+    japanese: "若いけれども、彼は会社を経営している"
+    notes: "though（逆接・譲歩「〜だけれども」）。althoughとほぼ同じ意味"
+  - id: "nar-0712-e427"
+    section_id: "Nar_07_12"
+    drill: 0
+    number: 427
+    role: "example"
+    english: "You should climb the mountain even though it is dangerous."
+    japanese: "危険ではあるけれども、その山に登るべきだ"
+    notes: "even though（既知の事実「確かに/実際に〜だけれども」）。実際に危険だという事実が前提"
+  - id: "nar-0712-e428"
+    section_id: "Nar_07_12"
+    drill: 0
+    number: 428
+    role: "example"
+    english: "You should climb the mountain even if it is dangerous."
+    japanese: "危険かもしれないけれど、その山に登るべきだ"
+    notes: "even if（仮定「たとえ〜としても」）。実際に危険かどうかは別の問題"
+  - id: "nar-0712-e429"
+    section_id: "Nar_07_12"
+    drill: 0
+    number: 429
+    role: "example"
+    english: "While we were talking, Mr. Brown said nothing."
+    japanese: "私たちが話している間、ブラウン氏は何も言わなかった"
+    notes: "while（原義「〜する間に」→対比「〜一方で」→譲歩「〜だけれども」）。名詞while=「時間」が根っこ"
+  - id: "nar-0712-v001"
+    section_id: "Nar_07_12"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "Young as he is, he is running a company."
+    japanese: "若いけれども、彼は会社を経営している"
+    notes: "▶e426のas倒置形。形容詞Youngを文頭に倒置→譲歩の意味。＝Young though he is, ...（althoughは不可）"
+  - id: "nar-0712-v002"
+    section_id: "Nar_07_12"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Young though he is, he is running a company."
+    japanese: "若いけれども、彼は会社を経営している"
+    notes: "▶v001のthough書き換え。as倒置→though倒置の書き換え可。althoughへの書き換えは不可"
+
+sentence_structures:
+  - sentence_id: "nar-0712-e426"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "nar-0712-e426"
+    label: "details"
+    value: "[Though he is young](M:though/譲歩「〜だけれども」), <he>(S) is running(V) <a company>(O)"
+  - sentence_id: "nar-0712-e427"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0712-e427"
+    label: "details"
+    value: "<You>(S) should climb(V) <the mountain>(O) [even though it is dangerous](M:even though/既知の事実)"
+  - sentence_id: "nar-0712-e428"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "nar-0712-e428"
+    label: "details"
+    value: "<You>(S) should climb(V) <the mountain>(O) [even if it is dangerous](M:even if/仮定)"
+  - sentence_id: "nar-0712-e429"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "nar-0712-e429"
+    label: "details"
+    value: "[While we were talking](M:while/時間「〜する間に」), <Mr. Brown>(S) said(V) <nothing>(O)"
+  - sentence_id: "nar-0712-v001"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "nar-0712-v001"
+    label: "details"
+    value: "[Young as he is](M:as倒置/譲歩「〜だけれども」), <he>(S) is running(V) <a company>(O)"
+  - sentence_id: "nar-0712-v002"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "nar-0712-v002"
+    label: "details"
+    value: "[Young though he is](M:though倒置/譲歩「〜だけれども」), <he>(S) is running(V) <a company>(O)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0712-e426"
+    node_id: "nrs-012"
+  - sentence_id: "nar-0712-e427"
+    node_id: "nrs-012"
+  - sentence_id: "nar-0712-e428"
+    node_id: "nrs-012"
+  - sentence_id: "nar-0712-e429"
+    node_id: "nrs-012"
+  - sentence_id: "nar-0712-v001"
+    node_id: "nrs-012"
+  - sentence_id: "nar-0712-v002"
+    node_id: "nrs-012"

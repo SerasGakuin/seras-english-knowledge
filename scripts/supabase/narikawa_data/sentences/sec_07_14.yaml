@@ -1,0 +1,39 @@
+# Nar_07_14: 接続副詞 (p.282-284)
+
+sentences:
+  - id: "nar-0714-e434"
+    section_id: "Nar_07_14"
+    drill: 0
+    number: 434
+    role: "example"
+    english: "Mary is thin. However, she is strong."
+    japanese: "メアリーはやせている。しかしながら、彼女は丈夫だ"
+    notes: "接続副詞howeverの正しい使い方。ピリオドで文を分けるか、セミコロン(;)を使う"
+  - id: "nar-0714-e435"
+    section_id: "Nar_07_14"
+    drill: 0
+    number: 435
+    role: "example"
+    english: "Though Mary is thin, she is strong."
+    japanese: "メアリーはやせているけれども、彼女は丈夫だ"
+    notes: "従属接続詞thoughによる書き換え。従属接続詞の前にコンマは打たないのが通例"
+
+sentence_structures:
+  - sentence_id: "nar-0714-e434"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0714-e434"
+    label: "details"
+    value: "<Mary>(S) is(V) <thin>(C). However(接続副詞/逆接), <she>(S) is(V) <strong>(C)."
+  - sentence_id: "nar-0714-e435"
+    label: "overall"
+    value: "M S V C"
+  - sentence_id: "nar-0714-e435"
+    label: "details"
+    value: "[Though Mary is thin](M:従属接続詞though/譲歩), <she>(S) is(V) <strong>(C)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0714-e434"
+    node_id: "nrs-014"
+  - sentence_id: "nar-0714-e435"
+    node_id: "nrs-014"

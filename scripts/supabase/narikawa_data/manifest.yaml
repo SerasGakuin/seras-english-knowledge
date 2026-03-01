@@ -749,10 +749,152 @@ sections:
     reviewed_at: "2026-03-02"
     notes: ""
 
+  # === Phase 2 B-08: Part 07 接続詞（Nar_07_01〜07_14） ===
+  Nar_07_01:
+    title: "等位接続詞(and, but, or)の用法(1)"
+    type: "concept"
+    pages: "p.240-242"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+  Nar_07_02:
+    title: "等位接続詞(and, but, or)の用法(2)"
+    type: "concept"
+    pages: "p.243-245"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文1件(v001)含む"
+  Nar_07_03:
+    title: "等位接続詞を用いた重要表現、動詞の一致"
+    type: "expression"
+    pages: "p.246-248"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文1件(v001)含む"
+  Nar_07_04:
+    title: "従属接続詞thatの用法(1)"
+    type: "concept"
+    pages: "p.249-251"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文1件(v001)含む"
+  Nar_07_05:
+    title: "従属接続詞thatの用法(2)"
+    type: "concept"
+    pages: "p.252-254"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文1件(v001)含む"
+  Nar_07_06:
+    title: "従属接続詞whetherとifの用法"
+    type: "concept"
+    pages: "p.255-258"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+  Nar_07_07:
+    title: "asの用法"
+    type: "concept"
+    pages: "p.259-261"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+  Nar_07_08:
+    title: "「理由」を表す接続詞"
+    type: "pattern"
+    pages: "p.262-264"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 8
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "図表ページ番号修正(p.262→p.263)"
+  Nar_07_09:
+    title: "「目的・結果」を表す接続詞"
+    type: "pattern"
+    pages: "p.265-268"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文2件(v001,v002)含む"
+  Nar_07_10:
+    title: "「時」を表す接続詞"
+    type: "pattern"
+    pages: "p.269-271"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文5件(v001-v005)含む。v003-v005はプラスα(instantly/directly/immediately接続詞用法)"
+  Nar_07_11:
+    title: "「条件」を表す接続詞"
+    type: "pattern"
+    pages: "p.272-275"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 9
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文1件(v001)含む。プラスα(as far as前置詞句用法)"
+  Nar_07_12:
+    title: "「逆接・譲歩」を表す接続詞"
+    type: "pattern"
+    pages: "p.276-278"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文2件(v001-v002)含む。Young as/though he is倒置形"
+  Nar_07_13:
+    title: "接続詞 vs. 前置詞"
+    type: "concept"
+    pages: "p.279-281"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+  Nar_07_14:
+    title: "接続副詞"
+    type: "concept"
+    pages: "p.282-284"
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: ""
+
 summary:
   total_sections: 162
-  completed: 73
+  completed: 87
   in_progress: 0
-  not_started: 89
-  total_knowledge_nodes: 73
-  total_sentences: 392
+  not_started: 75
+  total_knowledge_nodes: 87
+  total_sentences: 482

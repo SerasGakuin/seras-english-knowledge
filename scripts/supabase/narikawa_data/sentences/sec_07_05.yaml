@@ -1,0 +1,87 @@
+# Nar_07_05: 従属接続詞thatの用法(2) (p.252-254)
+
+sentences:
+  - id: "nar-0705-e381"
+    section_id: "Nar_07_05"
+    drill: 0
+    number: 381
+    role: "example"
+    english: "The rumor that he was killed in the war is not true."
+    japanese: "彼が戦死したといううわさは本当ではない"
+    notes: "同格節のthat。The rumorの内容を説明。後ろは完全な文"
+  - id: "nar-0705-e382"
+    section_id: "Nar_07_05"
+    drill: 0
+    number: 382
+    role: "example"
+    english: "I cannot believe the fact that she knows."
+    japanese: "私は彼女が知っている事実を信じることができない"
+    notes: "関係代名詞のthat。knowsの後ろにOがない(不完全な文)→関係代名詞"
+  - id: "nar-0705-e383"
+    section_id: "Nar_07_05"
+    drill: 0
+    number: 383
+    role: "example"
+    english: "I cannot believe the fact that she entered the room."
+    japanese: "私は彼女がその部屋に入ったという事実を信じることができない"
+    notes: "同格節のthat(接続詞)。that以下は完全な文→接続詞→the factの内容を説明"
+  - id: "nar-0705-e384"
+    section_id: "Nar_07_05"
+    drill: 0
+    number: 384
+    role: "example"
+    english: "It is her lack of experience that irritates us."
+    japanese: "私たちをイライラさせるのは彼女の経験のなさだ"
+    notes: "強調構文(分裂文)。her lack of experienceをIt is...thatではさんで強調。人→who、人以外→whichに書き換え可"
+  - id: "nar-0705-v001"
+    section_id: "Nar_07_05"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "Her lack of experience irritates us."
+    japanese: "彼女の経験のなさが私たちをイライラさせる"
+    notes: "▶強調構文の元の文。S V O構文"
+
+sentence_structures:
+  - sentence_id: "nar-0705-e381"
+    label: "overall"
+    value: "S M V C"
+  - sentence_id: "nar-0705-e381"
+    label: "details"
+    value: "<The rumor>(S) [that he was killed in the war](M:同格節/rumorの内容) is not(V) <true>(C)"
+  - sentence_id: "nar-0705-e382"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0705-e382"
+    label: "details"
+    value: "<I>(S) cannot believe(V) <the fact that she knows>(O:関係代名詞that/不完全な文)"
+  - sentence_id: "nar-0705-e383"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0705-e383"
+    label: "details"
+    value: "<I>(S) cannot believe(V) <the fact>(O) [that she entered the room](同格節/完全な文)"
+  - sentence_id: "nar-0705-e384"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0705-e384"
+    label: "details"
+    value: "<It>(S:強調構文) is(V) <her lack of experience>(C:強調要素A) [that irritates us](強調構文のthat節)"
+  - sentence_id: "nar-0705-v001"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0705-v001"
+    label: "details"
+    value: "<Her lack of experience>(S) irritates(V) <us>(O)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0705-e381"
+    node_id: "nrs-005"
+  - sentence_id: "nar-0705-e382"
+    node_id: "nrs-005"
+  - sentence_id: "nar-0705-e383"
+    node_id: "nrs-005"
+  - sentence_id: "nar-0705-e384"
+    node_id: "nrs-005"
+  - sentence_id: "nar-0705-v001"
+    node_id: "nrs-005"

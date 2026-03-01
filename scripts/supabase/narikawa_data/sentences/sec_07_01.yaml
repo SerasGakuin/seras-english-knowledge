@@ -1,0 +1,71 @@
+# Nar_07_01: 等位接続詞(and, but, or)の用法(1) (p.240-242)
+
+sentences:
+  - id: "nar-0701-e360"
+    section_id: "Nar_07_01"
+    drill: 0
+    number: 360
+    role: "example"
+    english: "We usually shake our heads when we mean 'no', and nod when we mean 'yes'."
+    japanese: "私たちはたいてい、「ノー」を意味するときには首を横に振り、「イエス」を意味するときは首を縦に振る"
+    notes: "等位接続詞andの読解法。andの後ろの形(nod+when節)から、前の対等な要素(shake our heads+when節)を見つける"
+  - id: "nar-0701-e361"
+    section_id: "Nar_07_01"
+    drill: 0
+    number: 361
+    role: "example"
+    english: "She was shouting and screaming."
+    japanese: "彼女は叫んだり、悲鳴を上げたりしていた"
+    notes: "and: 同類(A+B)。shouting と screaming は同類の動名詞"
+  - id: "nar-0701-e362"
+    section_id: "Nar_07_01"
+    drill: 0
+    number: 362
+    role: "example"
+    english: "He washed the dishes and dried them."
+    japanese: "彼は皿を洗って、それから乾かした"
+    notes: "and: 順接(A→B)。時間順の動作をandでつなぐ"
+  - id: "nar-0701-e363"
+    section_id: "Nar_07_01"
+    drill: 0
+    number: 363
+    role: "example"
+    english: "I like him, but he isn't interested in me at all."
+    japanese: "私は彼のことが好きだが、彼は私に全く興味がない"
+    notes: "but: 逆接(A⇔B)。but以下に情報の重点がある"
+
+sentence_structures:
+  - sentence_id: "nar-0701-e360"
+    label: "overall"
+    value: "S M V O M and V M"
+  - sentence_id: "nar-0701-e360"
+    label: "details"
+    value: "<We>(S) [usually](M) shake(V1) <our heads>(O1) [when we mean 'no'](M:副詞節), and nod(V2) [when we mean 'yes'](M:副詞節)"
+  - sentence_id: "nar-0701-e361"
+    label: "overall"
+    value: "S V C and C"
+  - sentence_id: "nar-0701-e361"
+    label: "details"
+    value: "<She>(S) was(V) <shouting>(C1:現在分詞) and <screaming>(C2:現在分詞/同類)"
+  - sentence_id: "nar-0701-e362"
+    label: "overall"
+    value: "S V O and V O"
+  - sentence_id: "nar-0701-e362"
+    label: "details"
+    value: "<He>(S) washed(V1) <the dishes>(O1) and dried(V2) <them>(O2/順接)"
+  - sentence_id: "nar-0701-e363"
+    label: "overall"
+    value: "S V O but S V M"
+  - sentence_id: "nar-0701-e363"
+    label: "details"
+    value: "<I>(S1) like(V1) <him>(O) but <he>(S2) isn't interested(V2) [in me](M) [at all](M/逆接)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0701-e360"
+    node_id: "nrs-001"
+  - sentence_id: "nar-0701-e361"
+    node_id: "nrs-001"
+  - sentence_id: "nar-0701-e362"
+    node_id: "nrs-001"
+  - sentence_id: "nar-0701-e363"
+    node_id: "nrs-001"

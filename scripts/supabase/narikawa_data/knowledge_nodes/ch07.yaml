@@ -1,0 +1,617 @@
+# Part 07-08: 接続詞・関係詞 (nrs)
+
+knowledge_nodes:
+  - id: "nrs-001"
+    name: "等位接続詞の基本（and/but）"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      等位接続詞(and, but, or等)は文法上・意味上対等なものを並べる。
+      等位接続詞の後ろの形を確認し、それと対等な関係になる前の部分を探すのが読解のコツ。
+      and: ❶ A+B（同類を並べる）、❷ A→B（順接「そしてだから」）。
+      but: A⇔B（逆接）。but以下に「筆者の主張」や「聞き手が知らない新情報」が置かれる。
+      [図表: 構文図 — andが並列する2つの動詞句+when節の対等関係を示す（p.240）]
+      別冊ポイント151(and)・152(but)参照
+  - id: "nrs-002"
+    name: "等位接続詞or・その他の等位接続詞と等位vs従属の区別"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      or: ❶ A/B（選択）、❷ A=B（言い換え「すなわち」）。
+      その他の等位接続詞: for（理由の補足「というのは」）、so（結果「だから」）、yet（逆接「しかし」）。
+      forとsoは節と節しか結ばず、文頭では用いない。
+      等位接続詞vs従属接続詞: 等位接続詞は対等な関係→2文に分けて独立文にできる。
+      従属接続詞(though等)は主節に従え使う→独立文にできない。
+      ✕ She went out. Though it was raining.（従属接続詞を独立文にするのは不可）
+      [図表: イラスト — 等位接続詞は天秤(対等)、従属接続詞は主従関係を示す（p.245）]
+      参考書内参照: →p.249（従属接続詞）、→p.265（so that）
+      別冊ポイント153参照
+      プラスα: 従属節が主節の前→場面設定、後→補足・追加情報
+  - id: "nrs-003"
+    name: "命令文+and/or・等位接続詞と動詞の一致"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      命令文+and: 「〜しなさい、そうすれば…」→andの後ろにプラスの内容。
+      命令文+or: 「〜しなさい、さもないと…」→orの後ろにマイナスの内容。
+      等位接続詞と動詞の一致:
+      ・A and B → 複数一致（足されて複数）
+      ・A or B → Bに一致（動詞に近いBに合わせる）
+      ・A but B → Bに一致（Bに重点）
+      具体表現: both A and B(複数)、either A or B(B一致)、neither A nor B(B一致)、not only A but also B(B一致)。
+      B as well as A = not only A but also B と書き換え可能→Bに一致。
+      別冊ポイント154(命令文+and/or)・155(not only A but also B)参照
+
+  - id: "nrs-004"
+    name: "従属接続詞thatの用法（名詞節・副詞節）"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      名詞節のthat: SV のカタマリが文の要素(S/O/C/前置詞O)になる。
+      ただし前置詞の後ろにthat+SVを置くのは原則不可。
+      形式主語itを使って It is ... that SV の形にするのが一般的。
+      副詞節のthat: ❶感情の原因・判断の根拠を表す（感情/判断の後にthat節）。
+      ❷ so...that構文で程度・結果を表す。
+      主節が否定文の場合はthat以下を「程度」で解釈するのが原則。
+      別冊ポイント156(代表的な従属接続詞一覧)・158(副詞節を導くthat)参照
+  - id: "nrs-005"
+    name: "同格のthat・接続詞vs関係代名詞の判別・強調構文"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      同格節を導くthat: 前の特定の名詞の内容を説明。後ろは完全な文。
+      同格thatと相性のよい名詞: ❶事実・情報・証拠(fact, truth, evidence等)、
+      ❷思考・発言(belief, idea, opinion等)、❸可能性(chance, possibility等)。
+      接続詞thatと関係代名詞thatの判別:
+      ・接続詞→後ろに完全な文、関係代名詞→後ろに不完全な文（名詞が1つ欠ける）。
+      強調構文(分裂文): It is A that ... でAを他と区別し目立たせる。
+      ・動詞・形容詞・Cになる名詞は強調不可。
+      ・Aが人→thatをwhoに、人以外→whichに書き換え可。
+      別冊ポイント157(接続詞thatと関係詞that)・159(同格節のthat)・160(同格と相性のよい名詞)・186(強調構文)・187(強調構文と形式主語構文の判別)参照
+  - id: "nrs-006"
+    name: "従属接続詞whetherとifの用法・使い分け"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      whetherの訳し方: ❶名詞節「〜かどうか」、❷副詞節「〜であろうとなかろうと」(or付き)。
+      ifの訳し方: ❶名詞節「〜かどうか」、❷副詞節「もし〜なら」。
+      名詞節ifは他動詞の目的語の位置にしか置けない。whetherは位置を問わない。
+      whetherにできてifにできない4用法:
+      ❶文頭で主語となる節、❷前置詞の直後、❸直後にor not、❹直後にto V。
+      whether同格節: question, choice, decision, doubt等の名詞の直後。ifにこの用法はない。
+      ✕ if or not は不可（ifの直後にor notは置けない）。
+      別冊ポイント161(whetherとif)参照
+      参考書内参照: →p.249（従属接続詞that）
+  - id: "nrs-007"
+    name: "接続詞asの用法（イコール関係）"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      asの本質: 同じようなことを並べる、イコール（＝）の関係を導く。
+      前置詞as: regard A as B（A=B）。
+      接続詞as: ❶比例「〜につれて」、❷時「〜したとき」、❸様態「〜のように」。
+      すべて「asの前後がイコール関係」という基本で理解可能。
+      名詞限定のas: Life as we know it（私たちが知っているような生活）。
+      as節中に限定される名詞が代名詞(it)として再登場する特徴。後ろに完全な文→接続詞。
+      譲歩のas: 接続詞asの前に形容詞・副詞・無冠詞名詞・動詞原形が倒置された場合のみ「〜だけれども」。
+      倒置なしの通常語順ではasは譲歩にならない。thoughに書き換え可だがalthoughは不可。
+      名詞倒置時は無冠詞（一般的な性質に重点）。
+      [図表: イラスト — him=the best singer in Japanのイコール関係（p.259）]
+      [図表: イラスト — as（イコールの関係）を示す人物（p.260）]
+      プラスα: asを理由の意味で英作文に使うのは避ける。becauseやsinceを使う。
+      プラスα: 名詞限定のasは後ろに完全な文→関係代名詞ではなく接続詞。
+      プラスα: 譲歩asの倒置は文頭の要素を際立たせ、後続との対比から逆接の意味が生じる。
+      プラスα: 譲歩のthoughをalthoughに書き換えることはできない。
+      プラスα: 名詞倒置時の無冠詞は一般的な性質に重点があるため。
+      別冊ポイント162(接続詞asの用法)参照
+  - id: "nrs-008"
+    name: "「理由」を表す接続詞（because/since/now that/for）"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      because: 相手にとって未知の理由。意味は強い。文頭は避け後半に置く。
+      ✕ Because you're too young.のように文頭で独立文にしない。
+      since: 相手にとって既知の理由。意味は弱い。文頭が多い。
+      now (that): 過去との違いを強調して理由を述べる。thatは省略可。
+      for(等位接続詞): 理由を補足説明。主節の後ろに「, for」で使う。
+      not...because の解釈（コンマの有無）:
+      ・コンマあり→notはコンマまで作用「〜しなかった、なぜなら…」
+      ・コンマなし→notは文末まで作用「…だからといって〜したわけではない」
+      becauseだけの特権: partly/just/only/simply because、強調構文(It is because〜that...)が可能。sinceは不可。
+      [図表: 表 — 理由の接続詞4種の比較（文中の位置・使い方）（p.263）]
+      参考書内参照: →p.243（等位接続詞for、2で学習）
+      プラスα: 未知の情報はなるべく後ろに置くのが英語の原則。Because節を主節の前に置くのはあまりよくない。
+      別冊ポイント163(理由の接続詞)・164(not...becauseの解釈)参照
+  - id: "nrs-009"
+    name: "「目的・結果」を表す接続詞（so that/in order that/for fear that/in case）"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      so that: ❶目的「〜するために」(コンマなし・節中に助動詞)、❷結果「その結果〜」(コンマあり・助動詞なし)。
+      thatは省略可。結果のthat省略→「..., so 〜」（だから〜）。
+      ただしこれらはあくまでも目安。最終的には文脈判断。
+      in order that: 目的のみ。節中に助動詞。thatは省略不可。so thatよりやや堅い。
+      in order to V（不定詞）との混同注意。
+      否定の目的: for fear (that)+S should/may/might V「〜するのを恐れて→〜しないように」。thatは省略可。
+      lest+S should V / lest+S 原形: for fear thatの書き換え。古風で堅い表現。
+      in case: ❶「〜の場合に備えて」(事前の用心)、❷「もし〜の場合には」(≒if)。
+      in case節中は現在形が原則。
+      「目的」には話し手の主観が込められるため、目的節中に助動詞が用いられるのは必然。
+      [図表: イラスト — 傘を持った人物と雨の中の人々（p.267）]
+      参考書内参照: →p.243（等位接続詞so、2で学習）
+      プラスα: in order to Vとin order thatの混同注意。
+      プラスα: lestの節中にはshould/may/mightまたは動詞の原形が用いられる。
+      プラスα: in case節中はshould使用もあるがやや堅い文体。
+      別冊ポイント165(so that)・166(in order that)・167(for fear that)・168(in case)参照
+  - id: "nrs-010"
+    name: "「時」を表す接続詞（till/until/by the time/as soon as/no sooner...than）"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      till/until: 「〜までずっと」。将来のある時点まで何かが継続する場合に使う。主節にwait, stay, walkなど継続性のある動詞。
+      by the time: 「〜までに」。期限・締切を表す。
+      as soon as: 「〜するとすぐに」。同義表現: the moment, the instant, the minute, the second, instantly, directly, immediately。
+      名詞や副詞にしか見えないものが接続詞になれる。後ろに〈SV〉があれば接続詞の可能性。
+      no sooner...than: 「〜するとすぐに」。AとBの間に「時間差(sooner)がゼロ(no)」→連続。
+      hardly [scarcely]...when [before]: ほぼ同じ意味。「時の差(when)がほとんどない(hardly)」。
+      対応する語の組み合わせ: no sooner→than（前に比較級soonerがあるから）、hardly→when。
+      否定語(句)が文頭に出ると主節は疑問文型の倒置になる。
+      参考書内参照: →p.496（否定語句の文頭倒置）
+      プラスα: instantly/directly/immediatelyを接続詞として用いるのは主にイギリス英語。やや古風。
+      プラスα: no sooner...thanでBが過去形のとき、Aはそれより前→過去完了had+p.p.が通例。
+      別冊ポイント169(until)・170(by the time)・171(as soon as)・172(重要構文)・173(time接続詞)参照
+  - id: "nrs-011"
+    name: "「条件」を表す接続詞（if以外の条件表現・as long as vs as far as・unless）"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      if以外の条件接続詞「もし〜なら」:
+      supposing (that) / suppose (that)、providing (that) / provided (that)、
+      granting (that) / granted (that)、on (the) condition (that)、as [so] long as、given (that)。
+      形の注意: provide系とgrant系はVingとVp.p.どちらもある。suppose系はVingと原形のみ(supposedは存在しない)。
+      仮定法で使用できるのはsuppose系のみ。provide/grant系は仮定法不可。
+      as [so] long as: 本来は時間を制限「〜している間は」(≒while)。
+      →「生きている間は→生きていさえすれば」から「（他はいいから）〜しさえすれば」(≒if only)の意味が発生。
+      as [so] far as: 知識・認識・関係などが及ぶ範囲を区切る「〜の範囲内では」。
+      後ろにknow, see, remember, be concerned等の動詞が多い。
+      unless: 「〜する場合を除いて」(≒except that/except if)。さまざまな条件の中から1つだけ例外を言いたい場合に使う。
+      unless≠if...not: unlessは唯一の例外→実際に起こる確率は低い含み。if...notはそこまで強い意味合いはない。
+      [図表: イラスト — unless節が唯一の例外を示す図解（p.274）]
+      プラスα: as far asには前置詞句として「（場所的に）〜まで」の意味もある。
+      プラスα: unless節の内容は主節に対する唯一の例外→実際に起こる確率は低い含み。
+      別冊ポイント174(条件接続詞)・175(as long as/as far as)・176(unless)参照
+  - id: "nrs-012"
+    name: "「逆接・譲歩」を表す接続詞（though/even though/even if/while）"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      though/although: 「〜だけれども」。ほぼ同じ意味で使える。
+      asの倒置による譲歩(→nrs-007参照): Young as he is = Young though he is。althoughはこのパターン不可。
+      even though: 既知の事実に対して「確かに（実際に）〜だけれども」。evenでthoughの意味を強める。
+      even if: これから起こることを仮定して述べる「たとえ〜としても」。ifにevenがついたもの。
+      even thoughとeven ifの区別: even though=事実前提、even if=仮定。
+      while: 名詞では「時間」(for a while)。接続詞whileの広がり:
+      ❶「〜する間に」(原義)→❷「〜なのに対して」(対比)→❸「〜だけれども」(譲歩)。
+      whereasはwhileの❷対比・❸譲歩の意味で用いられることもある。
+      参考書内参照: →nrs-007 p.259（譲歩のas）
+      プラスα: even ifは仮定法で使われることもあるが、even thoughは事実前提なので仮定法では用いないのが通例。
+      別冊ポイント178(though/although)・179(even if/even though)・180(while)参照
+  - id: "nrs-013"
+    name: "接続詞 vs. 前置詞（品詞判別と書き換え）"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      接続詞→後ろにSV（節）、前置詞→後ろに名詞。
+      while(接続詞)+SV / during(前置詞)+名詞: 「〜間」。
+      ✕ during+Ving(動名詞)は不可。while+分詞構文(While reading, ...)は可。
+      because(接続詞)+SV / because of(前置詞)+名詞: 「〜ので」。
+      「理由」を表す前置詞句のイメージ分類:
+      ・プラス/マイナス両方: because of / on account of
+      ・マイナスイメージ: owing to / due to
+      ・プラスイメージ: thanks to / by [in] virtue of
+      though(接続詞)+SV / in spite of(前置詞)+名詞: 「〜にもかかわらず」。
+      in spite of = despite（1語書き換え）。✕ despite ofとしない！
+      in spite of と regardless of は異なる意味: regardless of = 「〜とは無関係に」。
+      by the time(接続詞)+SV / by(前置詞)+名詞: 「〜までに」。
+      till/until, before, afterは前置詞と接続詞の形が同じ。
+      参考書内参照: →p.269（by the timeの使い方）
+      別冊ポイント181(during/while)参照
+  - id: "nrs-014"
+    name: "接続副詞（接続詞との違い・位置の自由度）"
+    category: "nrs"
+    priority: "P1"
+    notes: |
+      接続副詞は副詞であり、文と文を直接つなぐことはできない。
+      コンマ(,)にも文と文を直接つなぐ働きはない。
+      ✕ Mary is thin, however she is strong.（接続副詞で文をつなぐのは不可）
+      接続副詞の正しい使い方:
+      ❶ ピリオドで終わらせてから: Mary is thin. However, she is strong.
+      ❷ セミコロンを添えて: Mary is thin; however, she is strong.
+      等位接続詞(but)は文と文を並べてよい: Mary is thin, but she is strong.
+      接続副詞の位置の自由度: 文頭・文中・文末に置ける。
+      文中や文末に置かれていても文頭で訳すことを心がける。
+      接続副詞としてのthough: 「けれども」。文頭では使用不可。文中・文末で挿入的に用いる。
+      ✕ Though, she is strong.（接続副詞thoughは文頭不可）
+      althoughには接続副詞としての用法はない（従属接続詞のみ）。
+      プラスα: 従属接続詞を主節の後に置く場合、特別な理由がない限り接続詞の前にコンマは打たないのが通例。
+      プラスα: althoughには従属接続詞としての用法しかなく、接続副詞としての用法はない。
+      別冊ポイント182(howeverの用法)・183(接続副詞)参照
+
+understanding_goals:
+  - node_id: "nrs-001"
+    seq: 1
+    goal: "等位接続詞の後ろの形から対等な要素を前から探す読解法を使える"
+  - node_id: "nrs-001"
+    seq: 2
+    goal: "andの2用法（同類A+B、順接A→B）を例文で区別できる"
+  - node_id: "nrs-001"
+    seq: 3
+    goal: "butの逆接用法と情報の重点（but以下）を理解している"
+  - node_id: "nrs-002"
+    seq: 1
+    goal: "orの2用法（選択A/B、言い換えA=B）を例文で区別できる"
+  - node_id: "nrs-002"
+    seq: 2
+    goal: "for, so, yetが等位接続詞として使える場面を説明できる"
+  - node_id: "nrs-002"
+    seq: 3
+    goal: "等位接続詞と従属接続詞の違いを独立文の可否で説明できる"
+  - node_id: "nrs-003"
+    seq: 1
+    goal: "命令文+andと命令文+orの意味の違いをプラス/マイナスの観点で説明できる"
+  - node_id: "nrs-003"
+    seq: 2
+    goal: "A and B / A or B / A but Bが主語のとき動詞が何に一致するか即答できる"
+  - node_id: "nrs-003"
+    seq: 3
+    goal: "both A and B, either A or B, neither A nor B, not only A but also Bの動詞一致を正しく判断できる"
+  - node_id: "nrs-003"
+    seq: 4
+    goal: "B as well as Aの動詞の一致がBに合うことを理解している"
+  - node_id: "nrs-007"
+    seq: 1
+    goal: "asの本質（イコール関係）から各用法を統一的に理解できる"
+  - node_id: "nrs-007"
+    seq: 2
+    goal: "接続詞asの3用法（比例・時・様態）を例文で区別できる"
+  - node_id: "nrs-007"
+    seq: 3
+    goal: "名詞限定のasの構造（限定される名詞がas節中に代名詞として再登場）を識別できる"
+  - node_id: "nrs-007"
+    seq: 4
+    goal: "譲歩のasが成立する条件（倒置）と書き換え制約（though可、although不可）を説明できる"
+  - node_id: "nrs-008"
+    seq: 1
+    goal: "because/since/now that/forの使い分けを既知・未知・文中の位置の観点で説明できる"
+  - node_id: "nrs-008"
+    seq: 2
+    goal: "not...becauseのコンマ有無による解釈の違いを正しく判断できる"
+  - node_id: "nrs-008"
+    seq: 3
+    goal: "becauseだけに許される用法（partly/just/only because、強調構文）を説明できる"
+  - node_id: "nrs-009"
+    seq: 1
+    goal: "so thatが目的と結果のどちらを表すかをコンマ・助動詞の有無で判断できる"
+  - node_id: "nrs-009"
+    seq: 2
+    goal: "for fear that/lestの構文と意味を正しく説明できる"
+  - node_id: "nrs-009"
+    seq: 3
+    goal: "in caseの2用法（備え・条件）を区別し適切に和訳できる"
+  - node_id: "nrs-010"
+    seq: 1
+    goal: "till/untilとby the timeの区別を継続/期限の観点で説明できる"
+  - node_id: "nrs-010"
+    seq: 2
+    goal: "as soon asと同義の接続詞表現を複数列挙できる"
+  - node_id: "nrs-010"
+    seq: 3
+    goal: "no sooner...than / hardly...whenの仕組みを「時間差ゼロ」で説明できる"
+  - node_id: "nrs-010"
+    seq: 4
+    goal: "否定語が文頭に出た場合の倒置形を正しく書ける"
+  - node_id: "nrs-011"
+    seq: 1
+    goal: "if以外の条件接続詞を列挙し、形の違い（Ving/Vp.p./原形）を説明できる"
+  - node_id: "nrs-011"
+    seq: 2
+    goal: "仮定法で使えるのがsuppose系のみであることを説明できる"
+  - node_id: "nrs-011"
+    seq: 3
+    goal: "as long asとas far asの違いを説明できる"
+  - node_id: "nrs-011"
+    seq: 4
+    goal: "unlessが「唯一の例外」を意味することを理解しif...notとの違いを説明できる"
+  - node_id: "nrs-012"
+    seq: 1
+    goal: "even thoughとeven ifの違いを既知事実/仮定の観点で説明できる"
+  - node_id: "nrs-012"
+    seq: 2
+    goal: "whileの3用法（時間/対比/譲歩）の広がりを説明できる"
+  - node_id: "nrs-012"
+    seq: 3
+    goal: "though/althoughの接続詞用法とas倒置との関係を理解している"
+  - node_id: "nrs-013"
+    seq: 1
+    goal: "while/during、because/because of、though/in spite ofの書き換えができる"
+  - node_id: "nrs-013"
+    seq: 2
+    goal: "「理由」を表す前置詞句のプラス/マイナスイメージを区別できる"
+  - node_id: "nrs-013"
+    seq: 3
+    goal: "duringの直後にVingを置けないことを説明できる"
+  - node_id: "nrs-014"
+    seq: 1
+    goal: "接続副詞が接続詞ではないこと、文と文を直接つなげないことを説明できる"
+  - node_id: "nrs-014"
+    seq: 2
+    goal: "接続副詞の正しい使い方（ピリオド/セミコロン）を実践できる"
+  - node_id: "nrs-014"
+    seq: 3
+    goal: "接続副詞の位置の自由度と訳出のルール（文頭で訳す）を理解している"
+  - node_id: "nrs-004"
+    seq: 1
+    goal: "名詞節のthatが文中でS/O/Cのどの要素になるか特定できる"
+  - node_id: "nrs-004"
+    seq: 2
+    goal: "副詞節のthatが感情の原因・判断の根拠・程度・結果のどれを表すか判断できる"
+  - node_id: "nrs-004"
+    seq: 3
+    goal: "否定文のso...that構文を程度として正しく解釈できる"
+  - node_id: "nrs-005"
+    seq: 1
+    goal: "同格節を導くthatと関係代名詞thatを完全な文/不完全な文で判別できる"
+  - node_id: "nrs-005"
+    seq: 2
+    goal: "同格節と相性のよい名詞のグループを3つ挙げられる"
+  - node_id: "nrs-005"
+    seq: 3
+    goal: "強調構文 It is A that ... の仕組みと制約を説明できる"
+  - node_id: "nrs-006"
+    seq: 1
+    goal: "whetherとifの名詞節・副詞節での訳し分けができる"
+  - node_id: "nrs-006"
+    seq: 2
+    goal: "whetherにできてifにできない4用法を列挙できる"
+  - node_id: "nrs-006"
+    seq: 3
+    goal: "whether同格節が使える名詞の例を挙げられる"
+
+check_points:
+  - node_id: "nrs-001"
+    seq: 1
+    question: "等位接続詞の後ろの形を確認するのはなぜか？"
+    answer: "後ろの形と対等な関係になる要素を前から探すため。等位接続詞は文法上・意味上対等なものを並べる。"
+  - node_id: "nrs-001"
+    seq: 2
+    question: "andの2つの用法は？"
+    answer: "❶ A+B: 同類のものを並べる「AとB」。❷ A→B: 順接「Aそして（だから）B」。"
+  - node_id: "nrs-001"
+    seq: 3
+    question: "but以下にはどのような情報が置かれるか？"
+    answer: "筆者の主張や聞き手が知らない新情報が置かれる。情報的にはbutの後ろに重点がある。"
+  - node_id: "nrs-002"
+    seq: 1
+    question: "orの2つの用法は？"
+    answer: "❶ A/B: 選択「AまたはB」。❷ A=B: 言い換え「Aすなわち B」。"
+  - node_id: "nrs-002"
+    seq: 2
+    question: "等位接続詞forとsoに共通する制約は？"
+    answer: "節と節しか結べない。また文頭では用いない。"
+  - node_id: "nrs-002"
+    seq: 3
+    question: "✕ She went out. Though it was raining. がなぜ不可か？"
+    answer: "thoughは従属接続詞であり、主節に従えて使うのが原則。独立文にはできない。等位接続詞butなら独立文にできる。"
+  - node_id: "nrs-003"
+    seq: 1
+    question: "命令文+andと命令文+orの後ろにはそれぞれどんな内容が来るか？"
+    answer: "and→プラスの内容（そうすれば）。or→マイナスの内容（さもないと）。"
+  - node_id: "nrs-003"
+    seq: 2
+    question: "A or Bが主語のとき動詞は何に一致するか？"
+    answer: "動詞に近いBに一致する。A but Bの場合もBに一致（Bに重点があるため）。"
+  - node_id: "nrs-003"
+    seq: 3
+    question: "Not only the pupils but also the teacher _____ laughing. の空欄は was/were のどちらか？"
+    answer: "was。not only A but also BはBに一致するため、the teacher（単数）に合わせる。"
+
+  - node_id: "nrs-004"
+    seq: 1
+    question: "名詞節と副詞節の違いは何か？"
+    answer: "名詞節はSVのカタマリが文の要素(S/O/C等)になり取り去れない。副詞節は取り去っても文が成立する。"
+  - node_id: "nrs-004"
+    seq: 2
+    question: "副詞節のthatが表す意味は何か？"
+    answer: "❶感情の原因・判断の根拠（感情/判断の後にthat節）。❷so...that構文で程度・結果。"
+  - node_id: "nrs-004"
+    seq: 3
+    question: "否定文 not so ... that 〜 はどう解釈するか？"
+    answer: "「〜するほど…ではない」と程度で解釈するのが原則。結果「とても…だから〜」では意味が通らない場合が多い。"
+  - node_id: "nrs-005"
+    seq: 1
+    question: "同格節のthatと関係代名詞のthatをどう判別するか？"
+    answer: "同格節(接続詞)→後ろに完全な文。関係代名詞→後ろに名詞が1つ欠けた不完全な文。"
+  - node_id: "nrs-005"
+    seq: 2
+    question: "強調構文で強調できない要素は何か？"
+    answer: "動詞、形容詞、Cになる名詞は強調できない。S/O/副詞(句・節)は強調可能。"
+  - node_id: "nrs-005"
+    seq: 3
+    question: "同格節を導くthatと相性のよい名詞の3グループは？"
+    answer: "❶事実・情報・証拠(fact, truth, evidence等)。❷思考・発言(belief, idea, opinion等)。❸可能性(chance, possibility等)。"
+  - node_id: "nrs-006"
+    seq: 1
+    question: "名詞節のifが使える位置はどこに限られるか？"
+    answer: "他動詞の目的語の位置にしか置けない。主語・前置詞の後ろ・同格節では使えない。"
+  - node_id: "nrs-006"
+    seq: 2
+    question: "whetherにできてifにできない4つの用法は？"
+    answer: "❶文頭で主語となる節、❷前置詞の直後、❸直後にor not、❹直後にto V。"
+  - node_id: "nrs-006"
+    seq: 3
+    question: "✕ I can't make out if or not he likes it. はなぜ不可か？"
+    answer: "ifの直後にor notを置くことはできない。whetherなら whether or not で可。"
+  - node_id: "nrs-007"
+    seq: 1
+    question: "asの本質は何か？"
+    answer: "同じようなことを並べる、イコール（＝）の関係を導く。前置詞asでも接続詞asでも基本は同じ。"
+  - node_id: "nrs-007"
+    seq: 2
+    question: "接続詞asの3つの用法は？"
+    answer: "❶比例「〜につれて」、❷時「〜したとき」、❸様態「〜のように」。すべてasの前後がイコール関係。"
+  - node_id: "nrs-007"
+    seq: 3
+    question: "譲歩のasはどういう条件で成立するか？"
+    answer: "接続詞asの前に形容詞・副詞・無冠詞名詞・動詞原形が倒置された場合に限って「〜だけれども」の意味になる。通常語順では譲歩にならない。thoughに書き換え可だがalthoughは不可。"
+  - node_id: "nrs-008"
+    seq: 1
+    question: "becauseとsinceの最大の違いは何か？"
+    answer: "because→相手にとって未知の理由（意味が強い、後半に置く）。since→相手にとって既知の理由（意味が弱い、文頭が多い）。"
+  - node_id: "nrs-008"
+    seq: 2
+    question: "not...becauseでコンマの有無により解釈はどう変わるか？"
+    answer: "コンマあり→notはコンマまで作用「〜しなかった、なぜなら…」。コンマなし→notは文末まで作用「…だからといって〜したわけではない」。"
+  - node_id: "nrs-008"
+    seq: 3
+    question: "強調構文(It is because〜that...)でsinceは使えるか？"
+    answer: "使えない。partly/just/only becauseや強調構文で使えるのはbecauseだけの特権。"
+  - node_id: "nrs-009"
+    seq: 1
+    question: "so that節が「目的」か「結果」かを見分ける手がかりは？"
+    answer: "コンマなし+節中に助動詞あり→目的「〜するために」。コンマあり+節中に助動詞なし→結果「その結果〜」。ただしあくまでも目安で最終的には文脈判断。"
+  - node_id: "nrs-009"
+    seq: 2
+    question: "for fear thatの意味と構文は？"
+    answer: "「〜するのを恐れて→〜しないように」。for fear (that)+S should/may/might V。lestで書き換え可。thatは省略可。"
+  - node_id: "nrs-009"
+    seq: 3
+    question: "in caseの2つの用法は？"
+    answer: "❶「〜の場合に備えて」(事前の用心)、❷「もし〜の場合には」(≒if)。節中は現在形が原則。"
+  - node_id: "nrs-010"
+    seq: 1
+    question: "till/untilとby the timeの違いは？"
+    answer: "till/until=「〜までずっと」（継続）。主節には継続性のある動詞(wait, stay等)。by the time=「〜までに」（期限・締切）。"
+  - node_id: "nrs-010"
+    seq: 2
+    question: "no sooner...thanとhardly...whenで対応する語の組み合わせは？"
+    answer: "no sooner→than（前に比較級soonerがあるため）。hardly [scarcely]→when [before]。組み合わせを間違えないこと。"
+  - node_id: "nrs-010"
+    seq: 3
+    question: "No sooner had she arrived than...のように否定語が文頭に出ると主節はどうなるか？"
+    answer: "主節は疑問文型の倒置になる。No sooner had she..., Hardly had she...の語順。"
+  - node_id: "nrs-011"
+    seq: 1
+    question: "suppose系の条件接続詞の形の特徴は？"
+    answer: "Ving(supposing)と原形(suppose)のみ。supposedのようなVp.p.は存在しない。仮定法で使えるのもsuppose系のみ。"
+  - node_id: "nrs-011"
+    seq: 2
+    question: "as long asとas far asの意味の違いは？"
+    answer: "as long as=「〜しさえすれば」(≒if only)。本来は時間の制限「〜している間は」から派生。as far as=「〜の範囲内では」。知識・認識の及ぶ範囲を区切る。"
+  - node_id: "nrs-011"
+    seq: 3
+    question: "unlessとif...notの違いは？"
+    answer: "unless=さまざまな条件の中から唯一の例外を述べる(≒except that)。実際に起こる確率は低い含み。if...notはそこまで強い意味合いはない。"
+  - node_id: "nrs-012"
+    seq: 1
+    question: "even thoughとeven ifの最大の違いは？"
+    answer: "even though=既知の事実を前提に「確かに実際に〜だけれども」。even if=仮定「たとえ〜としても」。even thoughは仮定法で用いないのが通例。"
+  - node_id: "nrs-012"
+    seq: 2
+    question: "whileの3つの用法は？"
+    answer: "❶「〜する間に」(原義)、❷「〜なのに対して」(対比)、❸「〜だけれども」(譲歩)。名詞whileの「時間」から派生。whereasで❷❸の書き換え可。"
+  - node_id: "nrs-012"
+    seq: 3
+    question: "Young as he is, ...のasをthough/althoughに書き換えられるか？"
+    answer: "thoughへの書き換えは可。Young though he is, ...。ただしalthoughへの書き換えは不可。"
+  - node_id: "nrs-013"
+    seq: 1
+    question: "duringの直後にVingを置けるか？"
+    answer: "不可。duringは前置詞で後ろに名詞が必要。✕ During reading I fell asleep. ○ While reading, I fell asleep."
+  - node_id: "nrs-013"
+    seq: 2
+    question: "in spite ofを1語で書き換えると？その際の注意点は？"
+    answer: "despite。✕ despite ofとしないこと。in spite ofのofにつられないよう注意。"
+  - node_id: "nrs-013"
+    seq: 3
+    question: "「理由」を表す前置詞句でプラスイメージのものは？"
+    answer: "thanks to / by [in] virtue of。マイナスイメージはowing to / due to。両方はbecause of / on account of。"
+  - node_id: "nrs-014"
+    seq: 1
+    question: "✕ Mary is thin, however she is strong. はなぜ不可か？"
+    answer: "howeverは接続副詞であり、文と文を直接つなぐことはできない。コンマにもその機能はない。ピリオドかセミコロンで区切る必要がある。"
+  - node_id: "nrs-014"
+    seq: 2
+    question: "接続副詞が文中や文末に置かれていても訳出はどうするか？"
+    answer: "文頭で訳す。She is, however, strong. → 「しかしながら、彼女は丈夫だ」。"
+  - node_id: "nrs-014"
+    seq: 3
+    question: "接続副詞としてのthoughの制約は？"
+    answer: "文頭では使用不可。文中・文末で挿入的に用いる。althoughには接続副詞としての用法はない。"
+
+node_prerequisites:
+  - node_id: "nrs-002"
+    prerequisite_id: "nrs-001"
+  - node_id: "nrs-005"
+    prerequisite_id: "nrs-004"
+  - node_id: "nrs-012"
+    prerequisite_id: "nrs-007"
+  - node_id: "nrs-014"
+    prerequisite_id: "nrs-012"
+
+knowledge_references:
+  - node_id: "nrs-001"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_07_01"
+    pages: "p.240-242"
+  - node_id: "nrs-002"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_07_02"
+    pages: "p.243-245"
+  - node_id: "nrs-003"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_07_03"
+    pages: "p.246-248"
+  - node_id: "nrs-004"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_07_04"
+    pages: "p.249-251"
+  - node_id: "nrs-005"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_07_05"
+    pages: "p.252-254"
+  - node_id: "nrs-006"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_07_06"
+    pages: "p.255-258"
+  - node_id: "nrs-007"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_07_07"
+    pages: "p.259-261"
+  - node_id: "nrs-008"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_07_08"
+    pages: "p.262-264"
+  - node_id: "nrs-009"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_07_09"
+    pages: "p.265-268"
+  - node_id: "nrs-010"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_07_10"
+    pages: "p.269-271"
+  - node_id: "nrs-011"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_07_11"
+    pages: "p.272-275"
+  - node_id: "nrs-012"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_07_12"
+    pages: "p.276-278"
+  - node_id: "nrs-013"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_07_13"
+    pages: "p.279-281"
+  - node_id: "nrs-014"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_07_14"
+    pages: "p.282-284"

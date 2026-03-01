@@ -1,0 +1,103 @@
+# Nar_07_04: 従属接続詞thatの用法(1) (p.249-251)
+
+sentences:
+  - id: "nar-0704-e376"
+    section_id: "Nar_07_04"
+    drill: 0
+    number: 376
+    role: "example"
+    english: "I think that she is a nice person."
+    japanese: "彼女はすてきな人だと思う"
+    notes: "名詞節のthat。that節が他動詞thinkの目的語(O)"
+  - id: "nar-0704-e377"
+    section_id: "Nar_07_04"
+    drill: 0
+    number: 377
+    role: "example"
+    english: "That he has a remarkable ability is certain."
+    japanese: "彼にすばらしい才能があることは確かだ"
+    notes: "名詞節のthat。that節が主語(S)。形式主語itで書き換え可"
+  - id: "nar-0704-e378"
+    section_id: "Nar_07_04"
+    drill: 0
+    number: 378
+    role: "example"
+    english: "I was surprised that she hadn't graduated from university."
+    japanese: "私は彼女が大学を卒業していなかったことに驚いた"
+    notes: "副詞節のthat。感情の原因を表す。I was surprisedだけで文は成立→副詞節"
+  - id: "nar-0704-e379"
+    section_id: "Nar_07_04"
+    drill: 0
+    number: 379
+    role: "example"
+    english: "Are you mad that you should do such a thing?"
+    japanese: "そんなことをするとは気でもおかしくなったのか?"
+    notes: "副詞節のthat。判断の根拠を表す"
+  - id: "nar-0704-e380"
+    section_id: "Nar_07_04"
+    drill: 0
+    number: 380
+    role: "example"
+    english: "My father is not so poor that he cannot buy the car."
+    japanese: "父はその車を買えないほど、貧乏ではない"
+    notes: "so...that構文の副詞節。否定文→「程度」で解釈。✕「とても貧乏ではないから買えない」は不自然"
+  - id: "nar-0704-v001"
+    section_id: "Nar_07_04"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "It is certain that he has a remarkable ability."
+    japanese: "彼にすばらしい才能があることは確かだ"
+    notes: "▶形式主語itを使った書き換え。e377の別表現"
+
+sentence_structures:
+  - sentence_id: "nar-0704-e376"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "nar-0704-e376"
+    label: "details"
+    value: "<I>(S) think(V) <that she is a nice person>(O:名詞節/that節)"
+  - sentence_id: "nar-0704-e377"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0704-e377"
+    label: "details"
+    value: "<That he has a remarkable ability>(S:名詞節/that節) is(V) <certain>(C)"
+  - sentence_id: "nar-0704-e378"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0704-e378"
+    label: "details"
+    value: "<I>(S) was(V) <surprised>(C) [that she hadn't graduated from university](M:副詞節/感情の原因)"
+  - sentence_id: "nar-0704-e379"
+    label: "overall"
+    value: "V S C M"
+  - sentence_id: "nar-0704-e379"
+    label: "details"
+    value: "Are(V) <you>(S) <mad>(C) [that you should do such a thing](M:副詞節/判断の根拠)?"
+  - sentence_id: "nar-0704-e380"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "nar-0704-e380"
+    label: "details"
+    value: "<My father>(S) is not(V) <so poor>(C:程度) [that he cannot buy the car](M:副詞節/程度)"
+  - sentence_id: "nar-0704-v001"
+    label: "overall"
+    value: "S V C S'"
+  - sentence_id: "nar-0704-v001"
+    label: "details"
+    value: "<It>(S:形式主語) is(V) <certain>(C) <that he has a remarkable ability>(S':真主語/名詞節)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0704-e376"
+    node_id: "nrs-004"
+  - sentence_id: "nar-0704-e377"
+    node_id: "nrs-004"
+  - sentence_id: "nar-0704-e378"
+    node_id: "nrs-004"
+  - sentence_id: "nar-0704-e379"
+    node_id: "nrs-004"
+  - sentence_id: "nar-0704-e380"
+    node_id: "nrs-004"
+  - sentence_id: "nar-0704-v001"
+    node_id: "nrs-004"
