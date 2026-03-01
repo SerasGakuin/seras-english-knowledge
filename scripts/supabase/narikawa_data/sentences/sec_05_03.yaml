@@ -1,0 +1,87 @@
+# Nar_05_03: 仮定法過去完了、仮定法過去と仮定法過去完了の併用 (p.164-166)
+
+sentences:
+  - id: "nar-0503-e238"
+    section_id: "Nar_05_03"
+    drill: 0
+    number: 238
+    role: "example"
+    english: "If you had worked harder, you would have passed your exams."
+    japanese: "もっと懸命に勉強していたら、試験に受かっていただろうに"
+    notes: "仮定法過去完了。過去の事実と反対（実際は勉強しなかった）"
+  - id: "nar-0503-e239"
+    section_id: "Nar_05_03"
+    drill: 0
+    number: 239
+    role: "example"
+    english: "If he had followed her advice then, he would be happy now."
+    japanese: "あの時、もしも彼が彼女の助言に従っていたら、彼は今ごろ幸せだろうに"
+    notes: "仮定法過去完了と仮定法過去の併用。if節=過去完了（過去の反事実）、主節=過去形（現在の反事実）。nowがヒント"
+  - id: "nar-0503-e240"
+    section_id: "Nar_05_03"
+    drill: 0
+    number: 240
+    role: "example"
+    english: "I will do it if I can."
+    japanese: "私にできるなら、やるつもりだ"
+    notes: "直説法。できる能力があり、実際にできる可能性あり。e241（仮定法）との対比"
+  - id: "nar-0503-e241"
+    section_id: "Nar_05_03"
+    drill: 0
+    number: 241
+    role: "example"
+    english: "I would do it if I could."
+    japanese: "私にできるなら、やるつもりだ"
+    notes: "仮定法過去。実際には能力がなく、できる見込みはない。if節中にもcouldが現れる例"
+  - id: "nar-0503-e242"
+    section_id: "Nar_05_03"
+    drill: 0
+    number: 242
+    role: "example"
+    english: "If he would only try, he could do it."
+    japanese: "彼にやってみる気さえあればできるのに"
+    notes: "if節中に「意志」のwouldが現れる例。onlyは「〜さえすれば」の強調"
+
+sentence_structures:
+  - sentence_id: "nar-0503-e238"
+    label: "overall"
+    value: "S V M S V O"
+  - sentence_id: "nar-0503-e238"
+    label: "details"
+    value: "[If](接続詞) <you>(S₁) had worked(V₁:仮定法過去完了) [harder](M:副詞/比較級), <you>(S₂) would have passed(V₂:助動詞の過去形+have+Vp.p.) <your exams>(O)"
+  - sentence_id: "nar-0503-e239"
+    label: "overall"
+    value: "S V O M S V C M"
+  - sentence_id: "nar-0503-e239"
+    label: "details"
+    value: "[If](接続詞) <he>(S₁) had followed(V₁:仮定法過去完了) <her advice>(O₁) [then](M:副詞), <he>(S₂) would be(V₂:仮定法過去) <happy>(C) [now](M:副詞/併用のヒント)"
+  - sentence_id: "nar-0503-e240"
+    label: "overall"
+    value: "S V O S V"
+  - sentence_id: "nar-0503-e240"
+    label: "details"
+    value: "<I>(S₁) will do(V₁:直説法) <it>(O) [if](接続詞) <I>(S₂) can(V₂:直説法/能力あり)"
+  - sentence_id: "nar-0503-e241"
+    label: "overall"
+    value: "S V O S V"
+  - sentence_id: "nar-0503-e241"
+    label: "details"
+    value: "<I>(S₁) would do(V₁:仮定法過去) <it>(O) [if](接続詞) <I>(S₂) could(V₂:仮定法過去/能力なし)"
+  - sentence_id: "nar-0503-e242"
+    label: "overall"
+    value: "S V M S V O"
+  - sentence_id: "nar-0503-e242"
+    label: "details"
+    value: "[If](接続詞) <he>(S₁) would try(V₁:if節中のwould/意志) [only](M:副詞/「〜さえすれば」強調), <he>(S₂) could do(V₂:仮定法過去) <it>(O)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0503-e238"
+    node_id: "nrt-025"
+  - sentence_id: "nar-0503-e239"
+    node_id: "nrt-025"
+  - sentence_id: "nar-0503-e240"
+    node_id: "nrt-025"
+  - sentence_id: "nar-0503-e241"
+    node_id: "nrt-025"
+  - sentence_id: "nar-0503-e242"
+    node_id: "nrt-025"

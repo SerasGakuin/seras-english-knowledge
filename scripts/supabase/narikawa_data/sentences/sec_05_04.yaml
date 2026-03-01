@@ -1,0 +1,55 @@
+# Nar_05_04: 仮定法過去の重要表現 (p.167-168)
+
+sentences:
+  - id: "nar-0504-e243"
+    section_id: "Nar_05_04"
+    drill: 0
+    number: 243
+    role: "example"
+    english: "If you should come to Tokyo, please let me know."
+    japanese: "万一東京に来ることがあったら、ぜひ知らせてください"
+    notes: "If+S+should+V。万一〜なら。主節が命令文の例"
+  - id: "nar-0504-e244"
+    section_id: "Nar_05_04"
+    drill: 0
+    number: 244
+    role: "example"
+    english: "If I should fail, I would try again."
+    japanese: "万一失敗しても、またやってみようと思います"
+    notes: "If+S+should+V。主節が仮定法過去（would）の例。実現の可能性がほぼないと感じている場合"
+  - id: "nar-0504-e245"
+    section_id: "Nar_05_04"
+    drill: 0
+    number: 245
+    role: "example"
+    english: "If I were to say 'no', what would you do?"
+    japanese: "もしも私が「ノー」と言ったら、あなたはどうする？"
+    notes: "If+S+were to+V。実現するかは別にして「仮の話」。主節は仮定法過去のみ"
+
+sentence_structures:
+  - sentence_id: "nar-0504-e243"
+    label: "overall"
+    value: "S V M V O C"
+  - sentence_id: "nar-0504-e243"
+    label: "details"
+    value: "[If](接続詞) <you>(S) should come(V₁:should+V/万一) [to Tokyo](M:前置詞句), please let(V₂:命令文) <me>(O₁) know(C:原形不定詞)"
+  - sentence_id: "nar-0504-e244"
+    label: "overall"
+    value: "S V S V M"
+  - sentence_id: "nar-0504-e244"
+    label: "details"
+    value: "[If](接続詞) <I>(S₁) should fail(V₁:should+V/万一), <I>(S₂) would try(V₂:仮定法過去) [again](M:副詞)"
+  - sentence_id: "nar-0504-e245"
+    label: "overall"
+    value: "S V O S V O"
+  - sentence_id: "nar-0504-e245"
+    label: "details"
+    value: "[If](接続詞) <I>(S₁) were to say(V₁:were to+V/仮の話) <'no'>(O₁), <what>(O₂:疑問代名詞) would(助動詞/仮定法過去) <you>(S₂) do(V₂)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0504-e243"
+    node_id: "nrt-026"
+  - sentence_id: "nar-0504-e244"
+    node_id: "nrt-026"
+  - sentence_id: "nar-0504-e245"
+    node_id: "nrt-026"

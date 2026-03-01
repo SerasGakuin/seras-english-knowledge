@@ -1,0 +1,71 @@
+# Nar_05_06: if節以外が仮定法の「条件」を表す場合 (p.171-172)
+
+sentences:
+  - id: "nar-0506-e250"
+    section_id: "Nar_05_06"
+    drill: 0
+    number: 250
+    role: "example"
+    english: "To hear her talk, you would think she was an actress."
+    japanese: "彼女が話すのを聞けば、彼女がまるで女優だと思うだろう"
+    notes: "不定詞（副詞用法）が仮定法の条件を表す例。実際には聞いていない"
+  - id: "nar-0506-e251"
+    section_id: "Nar_05_06"
+    drill: 0
+    number: 251
+    role: "example"
+    english: "Thirty years ago, it would have been regarded as bad manners."
+    japanese: "もしも30年前なら、それは無作法だと考えられただろう"
+    notes: "副詞句（Thirty years ago）が仮定法の条件を表す例。現在は30年前ではない"
+  - id: "nar-0506-e252"
+    section_id: "Nar_05_06"
+    drill: 0
+    number: 252
+    role: "example"
+    english: "A new computer could work much faster."
+    japanese: "新型のコンピューターならもっと速く動くのだが"
+    notes: "主語（A new computer）に条件が隠れている例。実際は旧式のコンピューターを使っている"
+  - id: "nar-0506-e253"
+    section_id: "Nar_05_06"
+    drill: 0
+    number: 253
+    role: "example"
+    english: "He would have been a good musician."
+    japanese: "彼は〈その気になれば〉立派な音楽家になっていただろう"
+    notes: "条件そのものが省略された例。「ひょっとしたら」「その気になれば」のニュアンスが隠れている"
+
+sentence_structures:
+  - sentence_id: "nar-0506-e250"
+    label: "overall"
+    value: "M S V O"
+  - sentence_id: "nar-0506-e250"
+    label: "details"
+    value: "[To hear her talk](M:不定詞副詞用法/仮定法の条件), <you>(S) would think(V:仮定法過去) <she was an actress>(O:that節)"
+  - sentence_id: "nar-0506-e251"
+    label: "overall"
+    value: "M S V C"
+  - sentence_id: "nar-0506-e251"
+    label: "details"
+    value: "[Thirty years ago](M:副詞句/仮定法の条件), <it>(S) would have been regarded(V:仮定法過去完了/受動態) <as bad manners>(C:前置詞句)"
+  - sentence_id: "nar-0506-e252"
+    label: "overall"
+    value: "S V M"
+  - sentence_id: "nar-0506-e252"
+    label: "details"
+    value: "<A new computer>(S:主語に条件が隠れている) could work(V:仮定法過去) [much faster](M:副詞/比較級)"
+  - sentence_id: "nar-0506-e253"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0506-e253"
+    label: "details"
+    value: "<He>(S) would have been(V:仮定法過去完了/条件省略) <a good musician>(C)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0506-e250"
+    node_id: "nrt-028"
+  - sentence_id: "nar-0506-e251"
+    node_id: "nrt-028"
+  - sentence_id: "nar-0506-e252"
+    node_id: "nrt-028"
+  - sentence_id: "nar-0506-e253"
+    node_id: "nrt-028"

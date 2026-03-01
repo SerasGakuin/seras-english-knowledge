@@ -512,6 +512,151 @@ knowledge_nodes:
       一般動詞dareとの書き換え: He doesn't dare (to) complain...
       別冊ポイント101（will[won't]の意志）参照
 
+  # --- Part 05 仮定法 ---
+  - id: "nrt-023"
+    name: "直説法と仮定法の区別"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      直説法: 事実をありのままに述べたり、現実味のある話を表す形。仮定法以外の多くの文がこれにあたる。
+      仮定法: 事実や現実とはかけ離れた事柄（現実味が薄いと話者が感じていること、事実と反対の事柄）に対して用いる。
+      「もし〜ならば＝仮定法」とは限らない。ifが付いていても現実にありえる話なら直説法。
+      仮定法では、時制をひとつ切り離す（現在→過去）ことで現実離れした感じを表現する。
+      仮定法で用いるbe動詞は主語が何であってもwereが原則（歴史的理由: 通常の過去形と仮定法の過去形が別物だった名残）。現在ではI/3人称単数にwasを使う人も多いが、wereが基本。
+      ✕ I wish I am a bird. → amでは本気で鳥になれると思っているように聞こえる。時制を切り離してwereにする。
+      参考書内参照: →p.96（PART03 過去形）。過去形が「切れている、離れている感じ」を表すことの説明。
+      別冊ポイント106参照。
+
+  - id: "nrt-024"
+    name: "仮定法過去"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      仮定法過去: 過去形を使って (1)「現在」や「未来」の事柄に対し話者が現実味が薄いと感じている内容、(2) 現実とは反対の内容を表す。
+      基本形: 〈If+S+過去形, S+助動詞の過去形+V（原形）〉
+      主節の助動詞はwould/could/mightなどの過去形。入試ではどの助動詞を使うかまでは問われない。
+      「仮定法過去」の「過去」は「過去形が使われている」ことを意味する用語であり、「過去の内容」を表すわけではない。紛らわしい文法用語なので注意。
+      別冊ポイント107参照。
+
+  - id: "nrt-025"
+    name: "仮定法過去完了と併用"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      仮定法過去完了: 過去完了形（主節には〈助動詞の過去形+have+Vp.p.〉）を使って過去の事実とは反対の内容を表す。
+      基本形: 〈If+S+過去完了形, S+助動詞の過去形+have+Vp.p.〉
+      助動詞には過去完了形がないので、助動詞の過去形（過去を担当）+〈have+Vp.p.〉（完了形）を合わせて過去完了形を作る。
+      脚注*1: ここでの〈have+Vp.p.〉はPART03で学習した現在完了形とは全く関係ない。過去完了形の「完了形」部分を作るために用いられたもの。
+      仮定法過去と仮定法過去完了の併用: if節が仮定法過去完了、主節が仮定法過去。「あの時もしも〜だったら、今ごろは…だろう」。nowやtodayがヒント。
+      if節中にも助動詞の過去形が現れる場合がある。couldは「能力」、wouldは「意志」の意味。
+      例: I will do it if I can.（直説法）vs I would do it if I could.（仮定法過去）— 同じ訳でも内容が全く違う。
+      別冊ポイント108参照。
+
+  - id: "nrt-026"
+    name: "If+S+should+VとIf+S+were to+V"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ 〈If+S+should+V〉: 実現の可能性が低い場合に用い、「万一〜なら」を表す。
+      主節に置かれる表現は3種類: (1) 直説法（will/canなどの現在形）、(2) 命令文、(3) 仮定法過去（would/couldなどの過去形+V）。
+      命令や提案の表現とつながることが多い（「万一〜になったら…しなさい/しませんか」）。
+      脚注*1: このshouldをought toに書き換えることはできない。
+      脚注*2: 〈If+S+should+V〉の主節に仮定法過去が置かれることはそう多くない。
+      ■ 〈If+S+were to+V〉: 実現するかは別にして「仮の話」がしたいときに使う。議論や会話の切り出しに多い。
+      主節には仮定法過去（would/couldなどの助動詞の過去形+V）のみ。
+      脚注*3: この表現は現実味のありそうなことからそうでないことまで幅広く使える。
+      問題でshouldとwere toが選択肢にある場合、主節を見て判断する。主節に直説法や命令文があればshould。
+      別冊ポイント109参照。
+
+  - id: "nrt-027"
+    name: "ifの省略と倒置"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      仮定法で使われるifには省略できるものがある。省略する際にはif節内の〈S+V〉を疑問文と同じ語順で倒置する。
+      省略可能な形:
+      ・If+S+had+Vp.p.（仮定法過去完了）→ Had+S+Vp.p.
+      ・If+S+should+V（万一〜なら）→ Should+S+V
+      ・If+S+were to+V（仮に〜なら）→ Were+S+to+V
+      [図表: 表 — if省略と倒置の3パターン対応表（p.169）]
+      had/should/wereなどを文頭に出すだけで疑問文の語順が作れる場合に限りif省略が可能。一般動詞の過去形のifは省略できない。
+      ✕ Does it snow heavily tomorrow 〜 / ✕ Did it snow heavily tomorrow 〜 — 不可。
+      脚注*1: 倒置する場合のbe動詞はwereに限る。wasの場合には倒置できない。
+      仮定法にifは付き物ではない — 次のセクション（05_06）でif節以外の条件を学習する導線。
+      別冊ポイント114参照。
+
+  - id: "nrt-028"
+    name: "if節以外が仮定法の条件を表す場合"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      仮定法の条件はif節以外で表されることも多い。パターンは以下:
+      (1) 不定詞（副詞用法）: To hear her talk, you would think she was an actress.
+      (2) 副詞（句）: 時を表す副詞句（Thirty years ago）やotherwise（そうでなければ）など。
+      (3) 主語: A new computer could work much faster.（新型のコンピューターなら…）
+      (4) 条件そのものの省略: He would have been a good musician.（「その気になれば」が隠れている）
+      仮定法の条件を見つけるコツ: 事実と異なる部分を発見すること。
+      仮定法のランドマーク（目印）: 助動詞の過去形（would/could/might）を見たら、まず仮定法を疑う。主節には必ず助動詞の過去形が用いられるという特徴がある。
+      別冊ポイント110参照。
+
+  - id: "nrt-029"
+    name: "If it were not for A と Without A / With A"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ If it were not for A「もしもAがなければ」
+      定型表現として正確に覚える。itを他の語に変えたり、wereをwasにしたり、notをとって肯定にしたりは一切不可。forの後は人でも人以外でも可。
+      ■ 過去にスライド → If it had not been for A「もしもAがなかったら」
+      were not → had not been と過去完了形にするだけ。
+      ■ if省略・倒置のバリエーション
+      If it were not for A → Were it not for A
+      If it had not been for A → Had it not been for A
+      [図表: Ⓠ — 「もしもAがなければ」の4バリエーション図式（p.174）]
+      ■ Without A: シンプルで仮定法過去・過去完了のどちらの代わりにも使える万能表現。
+      ■ With A「もしもAがあれば[あったら]」: 肯定の場合は定型表現がないため前置詞withで表す。
+      脚注*1: Without Aは直説法でも使用可。But for A「Aがなければ」は仮定法専用だが古めかしく現在の使用頻度は低い。
+      別冊ポイント111-113参照。
+
+  - id: "nrt-030"
+    name: "as if[as though]+SV〜の用法"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ as if+SV〜「まるで〜のように」: 事実と異なる場合に仮定法と結びつく。
+      ■ 選択基準: 主節の動詞の時制との関係で決まる。
+      (1) as if節内が主節と同じ時 → 仮定法過去
+      (2) as if節内が主節より前の時 → 仮定法過去完了
+      ※ 主節が過去でas if節も過去なら仮定法過去（同じ時）。主節が過去でas if節がさらに前なら仮定法過去完了。
+      [図表: Ⓠ — as if節内に使う仮定法の2パターン（p.176）]
+      ■ as if+直説法: 話し手が現実性が高いと感じる場合はareなど直説法を使う。
+      ■ as thoughはas ifと同じ意味で使える（thoughに昔ifと同じ意味があった名残）。
+      ■ 応用: 〈as if to V〉「まるでVするかのように」。as ifの後に分詞・形容詞・前置詞句も可。
+      脚注*1: 仮定法過去完了の使用は現在では非常にまれ。
+      別冊ポイント115参照。
+
+  - id: "nrt-031"
+    name: "I wish / If only / I'd rather / It is time の仮定法"
+    category: "時制・助動詞・仮定法"
+    priority: "P1"
+    notes: |
+      ■ I wish+SV〜: 非現実的な願望を表す。選択基準はas ifと同じ原理:
+      (1) wishと同じ時の願望 → 仮定法過去
+      (2) wishより前の時の願望 → 仮定法過去完了
+      ※ wishedが過去で願望の内容も同じ過去なら仮定法過去（ずれていない）。
+      ■ I wish+could「〜できたらいいのに」: 能力・可能性への願望を強調。
+      ■ I wish+would「〜してくれたらいいのに」: その場限りの1回の願望で使う。
+      ■ I wishの同意表現: If only（さらに強い願望、感嘆符で終わる）/ How I wish / Would that
+      [図表: Ⓠ — I wish+SVで用いられる仮定法（p.178）]
+      [図表: Ⓠ — I wish+SVの同意表現（p.179）]
+      [図表: イラスト — イルカになりたいと願う人（p.178）]
+      ■ I'd rather+SV〜「（むしろ）〜した方がよいと思う」: 他者への願望で使われることが多い。後ろには仮定法が続く。
+      ■ It is time+SV（過去形）〜「もう〜してもいいころだ」: 苦情・非難で多用。
+      highをつけて強調（とっくに〜すべきころ）/ aboutで緩和（そろそろ〜すべきころ）。
+      It is time+SV → It is time for+名詞+to V の書き換えの方が実際には多い。
+      脚注*1: 現実味のある願望にはhopeを用いる。
+      脚注*2: If onlyの後続仮定法はI wishと同じ選択基準。
+      別冊ポイント116参照。
+
 understanding_goals:
   - node_id: "nrt-001"
     seq: 1
@@ -720,6 +865,96 @@ understanding_goals:
   - node_id: "nrt-022"
     seq: 4
     goal: "助動詞dareの2つの用法（How dare SV / dare not V）と一般動詞dareとの書き換えを説明できる"
+  - node_id: "nrt-023"
+    seq: 1
+    goal: "直説法と仮定法の違いを定義し、「もし〜＝仮定法」とは限らない理由を説明できる"
+  - node_id: "nrt-023"
+    seq: 2
+    goal: "仮定法が時制をひとつ切り離すことで現実離れを表すメカニズムを説明できる"
+  - node_id: "nrt-023"
+    seq: 3
+    goal: "仮定法で用いるbe動詞がwereになる歴史的理由と原則を説明できる"
+  - node_id: "nrt-024"
+    seq: 1
+    goal: "仮定法過去の定義（現在・未来の非現実/事実の反対）と基本形を正確に書ける"
+  - node_id: "nrt-024"
+    seq: 2
+    goal: "主節に助動詞の過去形（would/could/might）が必要な理由を説明できる"
+  - node_id: "nrt-024"
+    seq: 3
+    goal: "「仮定法過去」の「過去」は過去の内容ではなく過去形を使うことを指す、と説明できる"
+  - node_id: "nrt-025"
+    seq: 1
+    goal: "仮定法過去完了の定義と基本形を正確に書ける"
+  - node_id: "nrt-025"
+    seq: 2
+    goal: "助動詞の過去形+have+Vp.p.で過去完了形を作る仕組みを説明できる"
+  - node_id: "nrt-025"
+    seq: 3
+    goal: "仮定法過去と仮定法過去完了を併用する場面（now/todayがヒント）を説明できる"
+  - node_id: "nrt-025"
+    seq: 4
+    goal: "if節中にも助動詞の過去形が現れる場合（could/would）を理解し、直説法との違いを説明できる"
+  - node_id: "nrt-026"
+    seq: 1
+    goal: "〈If+S+should+V〉の意味と主節に置かれる3種類の表現を列挙できる"
+  - node_id: "nrt-026"
+    seq: 2
+    goal: "〈If+S+were to+V〉の意味と主節が仮定法過去に限られる理由を説明できる"
+  - node_id: "nrt-026"
+    seq: 3
+    goal: "shouldとwere toが選択肢にある場合の判別方法を説明できる"
+  - node_id: "nrt-027"
+    seq: 1
+    goal: "ifの省略と倒置が可能な3パターン（had/should/were）を列挙できる"
+  - node_id: "nrt-027"
+    seq: 2
+    goal: "一般動詞の過去形ではifの省略ができない理由を説明できる"
+  - node_id: "nrt-027"
+    seq: 3
+    goal: "倒置時にbe動詞はwereに限りwasでは不可であることを理解している"
+  - node_id: "nrt-028"
+    seq: 1
+    goal: "if節以外で仮定法の条件を表す4パターン（不定詞/副詞句/主語/省略）を列挙できる"
+  - node_id: "nrt-028"
+    seq: 2
+    goal: "仮定法の条件を見つけるコツ（事実と異なる部分の発見）を説明できる"
+  - node_id: "nrt-028"
+    seq: 3
+    goal: "仮定法のランドマーク（助動詞の過去形を見たら仮定法を疑う）を理解し活用できる"
+  - node_id: "nrt-029"
+    seq: 1
+    goal: "If it were not for Aの形と意味を正確に書き、定型表現として変更不可であることを説明できる"
+  - node_id: "nrt-029"
+    seq: 2
+    goal: "If it had not been for Aへの変換とif省略倒置形（Were it not for A / Had it not been for A）を導き出せる"
+  - node_id: "nrt-029"
+    seq: 3
+    goal: "Without A / With Aの使い分けと、仮定法過去・過去完了のどちらでも使える利点を説明できる"
+  - node_id: "nrt-029"
+    seq: 4
+    goal: "4バリエーション（原形/過去完了形/倒置形2種）の関係を体系的に説明できる"
+  - node_id: "nrt-030"
+    seq: 1
+    goal: "as if節内で仮定法過去と仮定法過去完了を使い分ける基準（主節との時間関係）を説明できる"
+  - node_id: "nrt-030"
+    seq: 2
+    goal: "as if節が直説法と結びつく場合の条件を説明できる"
+  - node_id: "nrt-030"
+    seq: 3
+    goal: "as if to Vの意味と、as thoughとの互換性を理解できる"
+  - node_id: "nrt-031"
+    seq: 1
+    goal: "I wish+SVで仮定法過去と仮定法過去完了を使い分ける基準を説明できる"
+  - node_id: "nrt-031"
+    seq: 2
+    goal: "I wishのバリエーション（If only/could/would）の使い分けを説明できる"
+  - node_id: "nrt-031"
+    seq: 3
+    goal: "I'd rather+SVの仮定法の仕組みを理解できる"
+  - node_id: "nrt-031"
+    seq: 4
+    goal: "It is time+SV（過去形）の定型表現とfor+名詞+to V書き換えを理解できる"
 
 check_points:
   - node_id: "nrt-001"
@@ -1070,6 +1305,134 @@ check_points:
     seq: 4
     question: "How dare you speak to me like that? はどういう意味か？"
     answer: "「よくもそんなふうに私に話しかけられるね」（他者への憤慨を表す）"
+  - node_id: "nrt-023"
+    seq: 1
+    question: "If it rains tomorrow, we'll have to put off the game. は仮定法か直説法か？その理由は？"
+    answer: "直説法。雨が降ることは十分ありえることで、事実に反することでも現実味のない話でもないから。"
+  - node_id: "nrt-023"
+    seq: 2
+    question: "仮定法はどのようにして「現実離れの感覚」を表現するか？"
+    answer: "時制をひとつ切り離す（現在→過去形）ことで、現実とはかけ離れた感覚を表現する。"
+  - node_id: "nrt-023"
+    seq: 3
+    question: "✕ I wish I am a bird. はなぜ不自然か？正しい形は？"
+    answer: "amでは本気で鳥になれると思っているかのように聞こえる。正しくはI wish I were a bird.（時制を切り離してwere）。"
+  - node_id: "nrt-023"
+    seq: 4
+    question: "仮定法でbe動詞が主語に関係なくwereになるのはなぜか？"
+    answer: "昔は通常の過去形と仮定法の過去形が別物として存在しており、仮定法のbe動詞の過去形はwereしかなかった。その歴史を引き継いでいる。"
+  - node_id: "nrt-024"
+    seq: 1
+    question: "仮定法過去とは何を表すか？"
+    answer: "過去形を使って (1)「現在」や「未来」の事柄に対し話者が現実味が薄いと感じている内容、(2) 現実とは反対の内容を表す。"
+  - node_id: "nrt-024"
+    seq: 2
+    question: "仮定法過去の基本形は？"
+    answer: "〈If+S+過去形, S+助動詞の過去形+V（原形）〉"
+  - node_id: "nrt-024"
+    seq: 3
+    question: "「仮定法過去」の「過去」は何を意味するか？"
+    answer: "「過去の内容」を表すのではなく、仮定法の表現の中に「過去形」が使われていることを指す用語。"
+  - node_id: "nrt-025"
+    seq: 1
+    question: "仮定法過去完了の基本形は？"
+    answer: "〈If+S+過去完了形, S+助動詞の過去形+have+Vp.p.〉"
+  - node_id: "nrt-025"
+    seq: 2
+    question: "〈助動詞の過去形+have+Vp.p.〉はどのように過去完了形を作っているか？"
+    answer: "助動詞の過去形が「過去」を担当し、〈have+Vp.p.〉が「完了形」を担当。この2つを合わせて過去完了形を作る。"
+  - node_id: "nrt-025"
+    seq: 3
+    question: "If he had followed her advice then, he would be happy now. はなぜ2種類の仮定法が混在するのか？"
+    answer: "if節は過去の事実の反対（仮定法過去完了）、主節は現在の事実の反対（仮定法過去）を表す併用形。nowやtodayがヒント。"
+  - node_id: "nrt-025"
+    seq: 4
+    question: "I will do it if I can. と I would do it if I could. の違いは？"
+    answer: "前者は直説法（能力があり実際にできる見込みあり）、後者は仮定法過去（実際には能力がなくできる見込みなし）。同じ訳でも内容が全く違う。"
+  - node_id: "nrt-026"
+    seq: 1
+    question: "〈If+S+should+V〉の主節に置ける表現は何か？"
+    answer: "(1) 直説法（will/canなどの現在形）、(2) 命令文、(3) 仮定法過去（would/couldなどの過去形+V）の3種類。"
+  - node_id: "nrt-026"
+    seq: 2
+    question: "〈If+S+were to+V〉の主節に置ける表現は何か？shouldとの違いは？"
+    answer: "仮定法過去（助動詞の過去形+V）のみ。shouldは3種類置けるが、were toは「仮の話」なので仮定法過去に限られる。"
+  - node_id: "nrt-026"
+    seq: 3
+    question: "〈If+S+should+V〉のshouldをought toに書き換えられるか？"
+    answer: "できない（脚注*1）。この用法のshouldは「万一」の意味であり、ought toとは異なる。"
+  - node_id: "nrt-027"
+    seq: 1
+    question: "仮定法でifを省略できるのはどのような場合か？"
+    answer: "had/should/wereなどが使われている場合に限る。省略した際にはif節内を疑問文と同じ語順で倒置する。"
+  - node_id: "nrt-027"
+    seq: 2
+    question: "If+S+had+Vp.p.をif省略形にするとどうなるか？"
+    answer: "Had+S+Vp.p. の形になる。例: If you had worked harder → Had you worked harder"
+  - node_id: "nrt-027"
+    seq: 3
+    question: "✕ Does it snow / ✕ Did it snow はなぜif省略の倒置として不適切か？"
+    answer: "一般動詞の過去形ではdo/didを使った疑問文の語順になり、had/should/wereを文頭に出す形にならないため。"
+  - node_id: "nrt-028"
+    seq: 1
+    question: "To hear her talk, you would think she was an actress. の条件は何か？"
+    answer: "不定詞 To hear her talk（彼女が話すのを聞けば）が条件。実際には聞いていない。"
+  - node_id: "nrt-028"
+    seq: 2
+    question: "He would have been a good musician. になぜifがないのに仮定法と言えるか？"
+    answer: "条件そのものが省略されている（「その気になれば」が隠れている）。主節のwould have beenが仮定法のランドマーク。"
+  - node_id: "nrt-028"
+    seq: 3
+    question: "仮定法のランドマーク（目印）とは何か？"
+    answer: "主節に用いられる助動詞の過去形（would/could/might）。これを見たらまず仮定法を疑う。"
+  - node_id: "nrt-029"
+    seq: 1
+    question: "If it were not for your help の倒置形は？"
+    answer: "Were it not for your help"
+  - node_id: "nrt-029"
+    seq: 2
+    question: "Without A は If it were not for A と If it had not been for A のどちらの代わりに使えるか？"
+    answer: "どちらでも使える。仮定法過去・過去完了の両方の代用が可能。"
+  - node_id: "nrt-029"
+    seq: 3
+    question: "「もしもAがあったなら」を表す定型表現はあるか？"
+    answer: "ない。With Aを使う。"
+  - node_id: "nrt-029"
+    seq: 4
+    question: "But for Aについて注意点は？"
+    answer: "仮定法でしか使えず、古めかしい表現。現在での使用頻度は低い。"
+  - node_id: "nrt-030"
+    seq: 1
+    question: "She talks as if she ___ the secret.（主節と同じ時）の空欄は？"
+    answer: "knew（仮定法過去）。as if節内が主節と同じ時なら仮定法過去。"
+  - node_id: "nrt-030"
+    seq: 2
+    question: "She talks as if she ___ the secret.（主節より前の時）の空欄は？"
+    answer: "had known（仮定法過去完了）。as if節内が主節よりさらに前なら仮定法過去完了。"
+  - node_id: "nrt-030"
+    seq: 3
+    question: "You look as if you are very sleepy. ではなぜareが使われるか？"
+    answer: "話し手が現実性が高いと感じているため直説法を使っている。"
+  - node_id: "nrt-030"
+    seq: 4
+    question: "as if in painはどういう構造か？"
+    answer: "as ifの後に前置詞句が続く省略構造。分詞・形容詞・前置詞句もas ifの後に置ける。"
+  - node_id: "nrt-031"
+    seq: 1
+    question: "I wish I ___ a dolphin. でwereを使う理由は？"
+    answer: "wishと同じ時の願望なので仮定法過去を使う。"
+  - node_id: "nrt-031"
+    seq: 2
+    question: "I wished my uncle ___ at home when I visited him. になぜ仮定法過去（were）を使うか？"
+    answer: "wishedも過去で願望もそれと同じ過去だから。wishとの時間のずれで判断する。ずれていないので仮定法過去。"
+  - node_id: "nrt-031"
+    seq: 3
+    question: "I wish I could go... と I wish he would shut up の助動詞の違いは？"
+    answer: "couldは「〜できたら」の能力・可能性への願望、wouldは「〜してくれたら」のその場限りの願望。"
+  - node_id: "nrt-031"
+    seq: 4
+    question: "It is time you started. を不定詞で書き換えよ"
+    answer: "It is time for you to start."
 
 node_prerequisites:
   - node_id: "nrt-003"
@@ -1108,6 +1471,30 @@ node_prerequisites:
     prerequisite_id: "nrt-011"
   - node_id: "nrt-022"
     prerequisite_id: "nrt-011"
+  - node_id: "nrt-024"
+    prerequisite_id: "nrt-023"
+  - node_id: "nrt-025"
+    prerequisite_id: "nrt-023"
+  - node_id: "nrt-025"
+    prerequisite_id: "nrt-024"
+  - node_id: "nrt-026"
+    prerequisite_id: "nrt-024"
+  - node_id: "nrt-027"
+    prerequisite_id: "nrt-026"
+  - node_id: "nrt-028"
+    prerequisite_id: "nrt-023"
+  - node_id: "nrt-029"
+    prerequisite_id: "nrt-025"
+  - node_id: "nrt-029"
+    prerequisite_id: "nrt-027"
+  - node_id: "nrt-030"
+    prerequisite_id: "nrt-024"
+  - node_id: "nrt-030"
+    prerequisite_id: "nrt-025"
+  - node_id: "nrt-031"
+    prerequisite_id: "nrt-024"
+  - node_id: "nrt-031"
+    prerequisite_id: "nrt-025"
 
 knowledge_references:
   - node_id: "nrt-001"
@@ -1198,3 +1585,39 @@ knowledge_references:
     book: "成川の深めて解ける！英文法 INPUT"
     section_id: "Nar_04_12"
     pages: "p.153-156"
+  - node_id: "nrt-023"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_05_01"
+    pages: "p.158-160"
+  - node_id: "nrt-024"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_05_02"
+    pages: "p.161-163"
+  - node_id: "nrt-025"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_05_03"
+    pages: "p.164-166"
+  - node_id: "nrt-026"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_05_04"
+    pages: "p.167-168"
+  - node_id: "nrt-027"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_05_05"
+    pages: "p.169-170"
+  - node_id: "nrt-028"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_05_06"
+    pages: "p.171-172"
+  - node_id: "nrt-029"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_05_07"
+    pages: "p.173-175"
+  - node_id: "nrt-030"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_05_08"
+    pages: "p.176-177"
+  - node_id: "nrt-031"
+    book: "成川の深めて解ける！英文法 INPUT"
+    section_id: "Nar_05_09"
+    pages: "p.178-180"

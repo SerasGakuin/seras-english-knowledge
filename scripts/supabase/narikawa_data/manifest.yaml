@@ -488,97 +488,97 @@ sections:
     title: "直説法と仮定法"
     type: "concept"
     pages: "p.158-160"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
   Nar_05_02:
     title: "仮定法過去"
     type: "concept"
     pages: "p.161-163"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文1件(v001)含む"
   Nar_05_03:
     title: "仮定法過去完了、仮定法過去と仮定法過去完了の併用"
     type: "concept"
     pages: "p.164-166"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
   Nar_05_04:
     title: "仮定法過去の重要表現"
     type: "expression"
     pages: "p.167-168"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
   Nar_05_05:
     title: "ifの省略と倒置"
     type: "concept"
     pages: "p.169-170"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文1件(v001)含む"
   Nar_05_06:
     title: "if節以外が仮定法の「条件」を表す場合"
     type: "concept"
     pages: "p.171-172"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
     notes: ""
   Nar_05_07:
     title: "仮定法を使った重要表現(1)"
     type: "expression"
     pages: "p.173-175"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文2件(v001-v002)含む"
   Nar_05_08:
     title: "仮定法を使った重要表現(2)"
     type: "expression"
     pages: "p.176-177"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文1件(v001)含む"
   Nar_05_09:
     title: "仮定法を使った重要表現(3)"
     type: "expression"
     pages: "p.178-180"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 11
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "▶例文3件(v001-v003)含む"
 
 summary:
   total_sections: 162
-  completed: 47
+  completed: 56
   in_progress: 0
-  not_started: 115
-  total_knowledge_nodes: 47
-  total_sentences: 255
+  not_started: 106
+  total_knowledge_nodes: 56
+  total_sentences: 300

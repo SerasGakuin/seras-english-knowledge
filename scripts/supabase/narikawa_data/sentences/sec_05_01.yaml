@@ -1,0 +1,39 @@
+# Nar_05_01: 直説法と仮定法 (p.158-160)
+
+sentences:
+  - id: "nar-0501-e234"
+    section_id: "Nar_05_01"
+    drill: 0
+    number: 234
+    role: "example"
+    english: "If it rains tomorrow, we'll have to put off the baseball game."
+    japanese: "もし明日雨が降れば、野球の試合は延期しなければならない"
+    notes: "直説法の例。雨が降ることは十分ありえるので仮定法ではない"
+  - id: "nar-0501-e235"
+    section_id: "Nar_05_01"
+    drill: 0
+    number: 235
+    role: "example"
+    english: "I wish I were a bird."
+    japanese: "私が鳥ならいいのになあ"
+    notes: "仮定法の例。wishは現在形だがwere（過去形）を使う。時制を切り離して現実離れ感を表す"
+
+sentence_structures:
+  - sentence_id: "nar-0501-e234"
+    label: "overall"
+    value: "S V M S V O"
+  - sentence_id: "nar-0501-e234"
+    label: "details"
+    value: "[If](接続詞) <it>(S₁) rains(V₁) [tomorrow](M:副詞), <we>(S₂) 'll have to put off(V₂:will have to+V) <the baseball game>(O)"
+  - sentence_id: "nar-0501-e235"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "nar-0501-e235"
+    label: "details"
+    value: "<I>(S) wish(V) <I were a bird>(C:that節省略/仮定法過去 — wereで現実離れを表す)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0501-e234"
+    node_id: "nrt-023"
+  - sentence_id: "nar-0501-e235"
+    node_id: "nrt-023"

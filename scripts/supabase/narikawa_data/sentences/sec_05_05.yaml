@@ -1,0 +1,87 @@
+# Nar_05_05: ifの省略と倒置 (p.169-170)
+
+sentences:
+  - id: "nar-0505-e246"
+    section_id: "Nar_05_05"
+    drill: 0
+    number: 246
+    role: "example"
+    english: "Had you worked harder, you would have passed your exams."
+    japanese: "もっと懸命に勉強していたら、試験に受かっていただろうに"
+    notes: "If you had worked harder のif省略・倒置形。仮定法過去完了"
+  - id: "nar-0505-e247"
+    section_id: "Nar_05_05"
+    drill: 0
+    number: 247
+    role: "example"
+    english: "Should you come to Tokyo, please let me know."
+    japanese: "万一東京に来ることがあったら、ぜひ知らせてください"
+    notes: "If you should come のif省略・倒置形。should+S+V"
+  - id: "nar-0505-e248"
+    section_id: "Nar_05_05"
+    drill: 0
+    number: 248
+    role: "example"
+    english: "Were I to say 'no', what would you do?"
+    japanese: "もしも私が「ノー」と言ったら、あなたはどうする？"
+    notes: "If I were to say のif省略・倒置形。Were+S+to+V"
+  - id: "nar-0505-e249"
+    section_id: "Nar_05_05"
+    drill: 0
+    number: 249
+    role: "example"
+    english: "If I were you, I'd sell that car."
+    japanese: "もしも私が君なら、あの車は売るね"
+    notes: "if省略・倒置の元の形。倒置形は▶ Were I you, I'd sell that car."
+  - id: "nar-0505-v001"
+    section_id: "Nar_05_05"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "Were I you, I'd sell that car."
+    japanese: "もしも私が君なら、あの車は売るね"
+    notes: "e249のif省略・倒置形。Were+S（be動詞wereに限る。wasでは倒置不可）"
+
+sentence_structures:
+  - sentence_id: "nar-0505-e246"
+    label: "overall"
+    value: "V S M S V O"
+  - sentence_id: "nar-0505-e246"
+    label: "details"
+    value: "Had(倒置/if省略) <you>(S₁) worked(V₁) [harder](M:副詞/比較級), <you>(S₂) would have passed(V₂:仮定法過去完了) <your exams>(O)"
+  - sentence_id: "nar-0505-e247"
+    label: "overall"
+    value: "V S M V O C"
+  - sentence_id: "nar-0505-e247"
+    label: "details"
+    value: "Should(倒置/if省略) <you>(S) come(V₁) [to Tokyo](M:前置詞句), please let(V₂:命令文) <me>(O) know(C)"
+  - sentence_id: "nar-0505-e248"
+    label: "overall"
+    value: "V S O S V O"
+  - sentence_id: "nar-0505-e248"
+    label: "details"
+    value: "Were(倒置/if省略) <I>(S₁) to say(V₁) <'no'>(O₁), <what>(O₂:疑問代名詞) would(助動詞) <you>(S₂) do(V₂)"
+  - sentence_id: "nar-0505-e249"
+    label: "overall"
+    value: "S V C S V O"
+  - sentence_id: "nar-0505-e249"
+    label: "details"
+    value: "[If](接続詞) <I>(S₁) were(V₁:仮定法過去) <you>(C), <I>(S₂) 'd sell(V₂:would+V) <that car>(O)"
+  - sentence_id: "nar-0505-v001"
+    label: "overall"
+    value: "V S C S V O"
+  - sentence_id: "nar-0505-v001"
+    label: "details"
+    value: "Were(倒置/if省略) <I>(S₁) <you>(C), <I>(S₂) 'd sell(V₂:would+V) <that car>(O)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0505-e246"
+    node_id: "nrt-027"
+  - sentence_id: "nar-0505-e247"
+    node_id: "nrt-027"
+  - sentence_id: "nar-0505-e248"
+    node_id: "nrt-027"
+  - sentence_id: "nar-0505-e249"
+    node_id: "nrt-027"
+  - sentence_id: "nar-0505-v001"
+    node_id: "nrt-027"

@@ -1,0 +1,87 @@
+# Nar_05_07: 仮定法を使った重要表現(1) — 「もしも〜がなければ」 (p.173-175)
+
+sentences:
+  - id: "nar-0507-e254"
+    section_id: "Nar_05_07"
+    drill: 0
+    number: 254
+    role: "example"
+    english: "If it were not for your help, I couldn't pass the exam."
+    japanese: "あなたの助けがなければ、私は試験に合格できないだろう"
+    notes: "If it were not for A「もしもAがなければ」の定型表現。itを他の語にしたりwereをwasにしたりは不可"
+  - id: "nar-0507-e255"
+    section_id: "Nar_05_07"
+    drill: 0
+    number: 255
+    role: "example"
+    english: "If it had not been for your help, I couldn't have passed the exam."
+    japanese: "あなたの助けがなかったら、私は試験に合格できなかっただろう"
+    notes: "If it had not been for A「もしもAがなかったら」。were not→had not beenと過去完了形にする"
+  - id: "nar-0507-v001"
+    section_id: "Nar_05_07"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "Were it not for your help, I couldn't pass the exam."
+    japanese: "あなたの助けがなければ、私は試験に合格できないだろう"
+    notes: "e254のif省略・倒置形。Were it not for A"
+  - id: "nar-0507-v002"
+    section_id: "Nar_05_07"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Had it not been for your help, I couldn't have passed the exam."
+    japanese: "あなたの助けがなかったら、私は試験に合格できなかっただろう"
+    notes: "e255のif省略・倒置形。Had it not been for A"
+  - id: "nar-0507-e256"
+    section_id: "Nar_05_07"
+    drill: 0
+    number: 256
+    role: "example"
+    english: "With your help, I could have finished this in time."
+    japanese: "あなたの手助けがあったなら、これを制限時間内で終えることができたのに"
+    notes: "With A「もしもAがあれば[あったら]」。肯定の定型表現がないため前置詞withで代用"
+
+sentence_structures:
+  - sentence_id: "nar-0507-e254"
+    label: "overall"
+    value: "S V M S V O"
+  - sentence_id: "nar-0507-e254"
+    label: "details"
+    value: "[If it were not for your help](M:定型表現/仮定法の条件), <I>(S) couldn't pass(V:仮定法過去) <the exam>(O)"
+  - sentence_id: "nar-0507-e255"
+    label: "overall"
+    value: "S V M S V O"
+  - sentence_id: "nar-0507-e255"
+    label: "details"
+    value: "[If it had not been for your help](M:定型表現/仮定法過去完了の条件), <I>(S) couldn't have passed(V:仮定法過去完了) <the exam>(O)"
+  - sentence_id: "nar-0507-v001"
+    label: "overall"
+    value: "V S M S V O"
+  - sentence_id: "nar-0507-v001"
+    label: "details"
+    value: "[Were it not for your help](M:倒置/定型表現), <I>(S) couldn't pass(V:仮定法過去) <the exam>(O)"
+  - sentence_id: "nar-0507-v002"
+    label: "overall"
+    value: "V S M S V O"
+  - sentence_id: "nar-0507-v002"
+    label: "details"
+    value: "[Had it not been for your help](M:倒置/定型表現), <I>(S) couldn't have passed(V:仮定法過去完了) <the exam>(O)"
+  - sentence_id: "nar-0507-e256"
+    label: "overall"
+    value: "M S V O M"
+  - sentence_id: "nar-0507-e256"
+    label: "details"
+    value: "[With your help](M:前置詞句/仮定法の条件), <I>(S) could have finished(V:仮定法過去完了) <this>(O) [in time](M:前置詞句)"
+
+sentence_knowledge_tags:
+  - sentence_id: "nar-0507-e254"
+    node_id: "nrt-029"
+  - sentence_id: "nar-0507-e255"
+    node_id: "nrt-029"
+  - sentence_id: "nar-0507-v001"
+    node_id: "nrt-029"
+  - sentence_id: "nar-0507-v002"
+    node_id: "nrt-029"
+  - sentence_id: "nar-0507-e256"
+    node_id: "nrt-029"

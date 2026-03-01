@@ -490,6 +490,33 @@ section_knowledge_nodes:
   - section_id: "Nar_04_12"
     node_id: "nrt-022"
     seq: 1
+  - section_id: "Nar_05_01"
+    node_id: "nrt-023"
+    seq: 1
+  - section_id: "Nar_05_02"
+    node_id: "nrt-024"
+    seq: 1
+  - section_id: "Nar_05_03"
+    node_id: "nrt-025"
+    seq: 1
+  - section_id: "Nar_05_04"
+    node_id: "nrt-026"
+    seq: 1
+  - section_id: "Nar_05_05"
+    node_id: "nrt-027"
+    seq: 1
+  - section_id: "Nar_05_06"
+    node_id: "nrt-028"
+    seq: 1
+  - section_id: "Nar_05_07"
+    node_id: "nrt-029"
+    seq: 1
+  - section_id: "Nar_05_08"
+    node_id: "nrt-030"
+    seq: 1
+  - section_id: "Nar_05_09"
+    node_id: "nrt-031"
+    seq: 1
 
 section_prerequisites:
   - section_id: "Nar_01_02"
@@ -528,3 +555,17 @@ section_prerequisites:
     prerequisite_id: "Nar_04_08"
   - section_id: "Nar_04_12"
     prerequisite_id: "Nar_04_11"
+  - section_id: "Nar_05_02"
+    prerequisite_id: "Nar_05_01"
+  - section_id: "Nar_05_03"
+    prerequisite_id: "Nar_05_01"
+  - section_id: "Nar_05_03"
+    prerequisite_id: "Nar_05_02"
+  - section_id: "Nar_05_05"
+    prerequisite_id: "Nar_05_04"
+  - section_id: "Nar_05_07"
+    prerequisite_id: "Nar_05_05"
+  - section_id: "Nar_05_08"
+    prerequisite_id: "Nar_05_07"
+  - section_id: "Nar_05_09"
+    prerequisite_id: "Nar_05_08"
