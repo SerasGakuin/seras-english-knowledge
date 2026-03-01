@@ -35,7 +35,7 @@ sentences:
 sentence_structures:
   - sentence_id: "scr-155-p01"
     label: "overall"
-    value: "S V C, so S V M"
+    value: "S V C, so S V O"
   - sentence_id: "scr-155-p01"
     label: "details"
     value: "<Emily>(S) is(V) <unemployed>(C), so <she>(S) is looking for(V) <work>(O)"

@@ -2,24 +2,24 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T18:00:00"
+updated_at: "2026-03-01T19:00:00"
 book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 2 — B12進行中、Ch16完了、Ch17着手前"
+  phase: "Phase 2 — B12完了、B13着手前"
   current_section: null
   current_step: null
-  last_completed_section: "Scr_161"
+  last_completed_section: "Scr_168"
   last_completed_gate: 5
 
 progress:
   total_sections: 271
-  completed: 161
+  completed: 168
   in_progress: 0
-  remaining: 110
-  total_nodes: 115
-  total_sentences: 806
+  remaining: 103
+  total_nodes: 120
+  total_sentences: 832
 
 b12_results:
   ch16_sections: ["Scr_151", "Scr_152", "Scr_153", "Scr_154", "Scr_155", "Scr_156", "Scr_157", "Scr_158", "Scr_159", "Scr_160", "Scr_161"]
@@ -30,8 +30,17 @@ b12_results:
     - "Theme 155+156 → sgh-022（「仕事・職業」「予約・約束」を表す名詞の使い分け）"
     - "Theme 158+159 → sgh-024（注意すべき冠詞の位置とa friend of mineの形）"
     - "Theme 160+161 → sgh-025（by the+単位名詞とby+交通・通信手段）"
+  ch17_sections: ["Scr_162", "Scr_163", "Scr_164", "Scr_165", "Scr_166", "Scr_167", "Scr_168"]
+  ch17_nodes: ["sgh-026", "sgh-027", "sgh-028", "sgh-029", "sgh-030"]
+  ch17_sentences: 26
+  ch17_merges:
+    - "Theme 165+166 → sgh-029（人を主語にしない形容詞とable/capable/possibleの使い分け）"
+    - "Theme 167+168 → sgh-030（large/smallとhigh/lowの用法）"
+  ch17_notes:
+    - "sgh-026: 問633-637は書き起こしに問題文・和訳なし→英文0件（警告レベル）"
   metrics:
     ch16_node_section_ratio: 0.636
+    ch17_node_section_ratio: 0.714
 
 b11_results:
   ch15_back_sections: ["Scr_139", "Scr_140", "Scr_141", "Scr_142", "Scr_143", "Scr_144", "Scr_145", "Scr_146", "Scr_147", "Scr_148", "Scr_149", "Scr_150"]
@@ -41,18 +50,6 @@ b11_results:
     - "Theme 141+142+143 → sgh-011（SVO do/SVO+分詞 知覚動詞・使役動詞）"
   metrics:
     ch15_back_node_section_ratio: 0.833
-
-b10_results:
-  ch15_front_sections: ["Scr_126", "Scr_127", "Scr_128", "Scr_129", "Scr_130", "Scr_131", "Scr_132", "Scr_133", "Scr_134", "Scr_135", "Scr_136", "Scr_137", "Scr_138"]
-  ch15_front_nodes: ["sgh-002", "sgh-003", "sgh-004", "sgh-005", "sgh-006", "sgh-007", "sgh-008"]
-  ch15_front_sentences: 66
-  ch15_front_merges:
-    - "Theme 127+128+129 → sgh-003（動名詞・不定詞を目的語にとる動詞の区別）"
-    - "Theme 130+131 → sgh-004（A of Bパターンの動詞）"
-    - "Theme 133+134 → sgh-006（A from Bパターンの動詞）"
-    - "Theme 135+136+137 → sgh-007（A with/for/into Bパターンの動詞）"
-  metrics:
-    ch15_front_node_section_ratio: 0.538
 
 recent_decisions:
   - "decision #1: PU!1の12時制表はsentences登録しない（スケルトン）"
@@ -66,9 +63,9 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
-  - "B12続行: Ch17 形容詞(Scr_162-168) → ノードID sgh-026〜"
-  - "原本: Part2_Ch17_形容詞の語法.md を読む"
-  - "9セクション超過 → ワークフロー.md 再読込が必要"
+  - "B13: Ch18 副詞(Scr_169-175) + Ch19 前置詞(Scr_176-183) → ノードID sgh-031〜"
+  - "原本: Part2_Ch18_副詞の語法.md + Part2_Ch19_前置詞の語法.md を読む"
+  - "B12完了 = 章区切り → ワークフロー.md + 設計書.md 再読込"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

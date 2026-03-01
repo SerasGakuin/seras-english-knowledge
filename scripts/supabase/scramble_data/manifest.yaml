@@ -1627,11 +1627,82 @@ sections:
     gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "sgh-025(Theme160+161統合)。問630-632=3exam。PU!139(by+手段リスト)はnotes記録"
+  # Part 2 > Ch17 形容詞の語法（B12）
+  Scr_162:
+    title: "限定用法と叙述用法"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 0
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-026(単独)。問633-637は書き起こしに問題文・和訳なく登録不可。PU!140(限定のみ9語)/PU!141(叙述のみ11語)はnotes記録"
+  Scr_163:
+    title: "数や量を表す形容詞の用法"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-027(単独)。問638-643=6exam。PU!144(many/much代用表現)/PU!145(few/little用法表)はnotes記録"
+  Scr_164:
+    title: "分詞形の形容詞の用法"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-028(単独)。問644-649=6exam(問644正誤→訂正文登録)。PU!146(分詞形使い分け11対)はnotes記録"
+  Scr_165:
+    title: "人を主語にしない形容詞"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-029(Theme165+166統合)。問650-651=2exam(問650正誤, 問651不適切選択→③登録), PU!147例文1件=1example。PU!147(人を主語にしない6語)/PU!148(人を主語にする8語)はnotes記録"
+  Scr_166:
+    title: "able／capable／possibleの使い分け"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-029(Theme165+166統合)。問652-654=3exam。PU!149(3表現まとめ)はnotes記録"
+  Scr_167:
+    title: "「多い／少ない」を表すlarge／smallの用法"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-030(Theme167+168統合)。問655-658=4exam, 問656解説例文(A number of)1件+PU!151例文1件=2example。PU!150(対比表)/PU!151(面積)はnotes記録"
+  Scr_168:
+    title: "「高い／安い」を表すhigh／lowの用法"
+    type: "usage"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 2
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "sgh-030(Theme167+168統合)。問659-660=2exam(問660正誤→訂正文登録)。"
 
 summary:
-  total_sections: 161
-  completed: 161
+  total_sections: 168
+  completed: 168
   in_progress: 0
   not_started: 0
-  total_knowledge_nodes: 115
-  total_sentences: 806
+  total_knowledge_nodes: 120
+  total_sentences: 832

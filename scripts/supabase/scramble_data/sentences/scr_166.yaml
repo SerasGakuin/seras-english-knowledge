@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-166-p01"
+    section_id: "Scr_166"
+    drill: 1
+    number: 652
+    role: "exam"
+    english: "We were able to hand in the report in time."
+    japanese: "私たちはレポートを期限内に提出することができた。"
+    notes: "出典: 東京経済大。4択問題。A is able to do「Aは〜できる」。possibleは人を主語にしない。capableはbe capable of doingの形。hand in〜「〜を提出する」（⇨ 930）。"
+  - id: "scr-166-p02"
+    section_id: "Scr_166"
+    drill: 1
+    number: 653
+    role: "exam"
+    english: "That school needs some people who are capable of teaching English."
+    japanese: "あの学校では英語を教えられる人を何人か必要としている。"
+    notes: "出典: 亜細亜大。〈頻出〉4択問題。A is capable of doing「Aは〜できる」。ableはbe able to doの形なので不可。possibleは人を主語にしない。"
+  - id: "scr-166-p03"
+    section_id: "Scr_166"
+    drill: 1
+    number: 654
+    role: "exam"
+    english: "Is it possible for you to help me with this homework?"
+    japanese: "あなたは私のこの宿題を手伝うことができますか。"
+    notes: "出典: 名城大。4択問題。It is possible for A to do「Aは〜できる」。possibleは人を主語にしない→②Are you possibleは不可。capableはbe capable of doingの形→①Are you capable / ③Is it capableは不可。"
+
+sentence_structures:
+  - sentence_id: "scr-166-p01"
+    label: "overall"
+    value: "S V O M"
+  - sentence_id: "scr-166-p01"
+    label: "details"
+    value: "<We>(S) were able to hand in(V:be able to do) <the report>(O) [in time](M:時)"
+  - sentence_id: "scr-166-p02"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-166-p02"
+    label: "details"
+    value: "<That school>(S) needs(V) <some people who are capable of teaching English>(O:関係詞節修飾)"
+  - sentence_id: "scr-166-p03"
+    label: "overall"
+    value: "V It C M"
+  - sentence_id: "scr-166-p03"
+    label: "details"
+    value: "Is(V) it(形式S) <possible>(C) [for you to help me with this homework](M:真主語)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-166-p01"
+    node_id: "sgh-029"
+  - sentence_id: "scr-166-p02"
+    node_id: "sgh-029"
+  - sentence_id: "scr-166-p03"
+    node_id: "sgh-029"

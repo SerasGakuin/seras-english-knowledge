@@ -1,0 +1,246 @@
+knowledge_nodes:
+  - id: "sgh-026"
+    name: "限定用法と叙述用法"
+    category: "語法"
+    priority: "P1"
+    notes: |
+      Theme 162。形容詞には名詞を直接修飾する限定用法と、補語として用いられる叙述用法がある。多くの形容詞は両用法を持つが、一方のみのもの・用法で意味が異なるものがある。
+      Power Up! 140: 限定用法しかない形容詞 — elder「年上の」、former「前の」、latter「後のほうの」、mere「単なる」、only「唯一の」、very「まさにその」、sheer「まったくの」、lone「ただひとりの」、live「生きている」。
+      Power Up! 141: 叙述用法しかない形容詞 — a-で始まる形容詞が多い。alike「似て」(⇨ 635)、alive「生きて」、asleep「眠って」(⇨ 634)、awake「目覚めて」、aware「気づいて」、afraid「恐れて」、alone「ただひとりで」(⇨ 636)、ashamed「恥じて」、worth「価値がある」、content「満足して」、aloof「離れて」。
+      用法で意味が異なる形容詞: present — 限定用法「現在の」(the present situation) / 叙述用法「出席して/居合わせて」(be present at)。
+      living「生きている/現存の」は限定用法のみ。alive「生きて」は叙述用法のみ。
+      asleep「眠って」は叙述用法のみ（fall asleep「眠りにつく」）。sleeping「眠っている」は限定用法のみ。sleepyは「眠い」でbecome/get sleepyの形。fall sleepyとは言わない。
+      A and B are alike = A is like B（AとBは似ている）。likeは通例限定用法、alikeは叙述用法のみ。
+      leave A alone「Aをそっとしておく」のaloneは目的格補語（叙述用法）。lone「ただひとりの」とonly「唯一の」は限定用法のみ。
+      注: 問633-637は書き起こしに問題文・和訳が含まれないため、英文データベースへの登録なし。
+
+  - id: "sgh-027"
+    name: "数や量を表す形容詞の用法"
+    category: "語法"
+    priority: "P1"
+    notes: |
+      Theme 163。many/much/few/littleと代用表現の使い分け。可算名詞の複数形には「数」を、不可算名詞の単数形には「量」を表す形容詞を使う。
+      Power Up! 144「数」と「量」の形容詞(1) — many/muchとその代用表現:
+        可算（数）: many, a (large/great) number of(⇨ 643), a good [great] many, many a(+単数名詞)
+        不可算（量）: much(⇨ 638), a great [good] deal of(⇨ 642), a large amount of
+        両方OK: a lot of / lots of / plenty of
+      Power Up! 145「数」と「量」の形容詞(2) — few/littleの意味と用法:
+        肯定「少しの」: a few(⇨ 639) / a little(⇨ 640), a small number of / a small amount of
+        否定「ほとんど〜ない」: few(⇨ 639) / little(⇨ 640), only a few / only a little
+        かなり多くの: quite a few(⇨ 641) = not a few = many / quite a little = not a little
+      集合名詞people: 「人々」の意味では常に単数形で複数扱い。「国民・民族」の意味では可算名詞扱い（peoples of Europe「ヨーロッパ諸国民」）。
+      参照: 問638→124(spend A doing), 問640→PU! 129(不可算名詞)。
+
+  - id: "sgh-028"
+    name: "分詞形の形容詞の用法"
+    category: "語法"
+    priority: "P1"
+    notes: |
+      Theme 164。exciteなどの感情を表す他動詞が分詞形で形容詞として使われる場合の使い分け。
+      (1) 現在分詞(-ing): 「人を〜させる（ような）」— 感情を引き起こす側＝物事が主語。an exciting story。
+      (2) 過去分詞(-ed): 「人が〜させられた→〜した」— 感情を引き起こされる側＝人が主語。an excited crowd。
+      find O C「OがCだとわかる」のCにも分詞形形容詞が使える（問646: found his speech boring）。
+      Power Up! 146: 分詞形の形容詞の使い分け11対 — exciting/excited, interesting/interested, boring/bored, disappointing/disappointed, pleasing/pleased, amusing/amused, annoying/annoyed, confusing/confused, depressing/depressed, satisfying/satisfied, surprising/surprised。
+      〈注意〉so...thatの「判断の理由・根拠」用法: was so surprised that〜「〜なので[〜とは]とても驚いた」（問648）。この場合のthatは「程度・結果」ではなく「〜なので」の意味。
+      参照: 問644→406(in that), 問646→541(find O C)。
+
+  - id: "sgh-029"
+    name: "人を主語にしない形容詞とable/capable/possibleの使い分け"
+    category: "語法"
+    priority: "P1"
+    notes: |
+      Theme 165+166。(1) 人を主語にしない形容詞: convenient/necessary/possible/impossible/important/naturalなどは人を主語にしないで、主にIt is ~ (for A) to do構文で用いる。
+      Power Up! 147: 人を主語にしない形容詞 — convenient「都合のよい」(⇨ 650)、necessary「必要な」(⇨ 651)、possible「可能な」(⇨ 654)、impossible「不可能な」、important「重要な」、natural「当然な」。
+      〈例外〉impossibleは、形容詞を限定する不定詞を伴う場合、人を主語にできる: He is impossible to beat.「彼を負かすことはできない」(⇨ 96)。
+      Power Up! 148: 人を主語にする形容詞 — happy, sorry, pleased, surprised, able(⇨ 652), unable, capable(⇨ 653), incapable。人の感情・意志・能力を表す。
+      (2) able/capable/possibleの使い分け:
+      Power Up! 149: 「Aは〜できる」の3表現:
+        A is able [unable] to do — A（主語）は人
+        A is capable [incapable] of doing — A（主語）は人・物
+        It is possible [impossible] for A to do — 人を主語にしない
+      参照: 問650→1166(be sure to do), 問652→930(hand in)。
+
+  - id: "sgh-030"
+    name: "「多い／少ない」のlarge/smallと「高い／安い」のhigh/lowの用法"
+    category: "語法"
+    priority: "P2"
+    notes: |
+      Theme 167+168。(1) それ自体に数量の概念を含む名詞は「多い/少ない」をlarge/smallで表す。many/much/few/littleを用いると数量の概念が重複する。
+      (2) 値段・給料など金額に関する名詞は「高い/安い」をhigh/lowで表す。expensive/cheapは品物自体について使う。
+      Power Up! 150: large/smallを用いる名詞 — population「人口」(⇨ 655)、number「数」(⇨ 656)、audience「観衆/聴衆」(⇨ 657)、crowd「群衆」(⇨ 658)、family「家族」、amount「量」、sum「金額」、salary「給料」、income「収入」。
+      high/lowを用いる名詞 — price「値段」(⇨ 659)、cost「代価/費用」、pay「給料/報酬」、wage「賃金」、salary「給料」(⇨ 660)、income「収入」。
+      salaryとincomeはhigh/lowとlarge/smallの両方OK。
+      The number of B（複数名詞）「Bの数」→ 単数扱い。A number of B（複数名詞）「たくさんのB」→ 複数扱い。
+      Power Up! 151〈発展〉: large/smallには「面積が広い/狭い」の意味もある。wide/narrow「幅が広い/狭い」と混同しない。
+
+understanding_goals:
+  # sgh-026
+  - node_id: "sgh-026"
+    seq: 1
+    goal: "形容詞の限定用法（名詞修飾）と叙述用法（補語）を区別できる"
+  - node_id: "sgh-026"
+    seq: 2
+    goal: "限定用法しかない形容詞（elder, former, only, live等）を識別できる"
+  - node_id: "sgh-026"
+    seq: 3
+    goal: "叙述用法しかない形容詞（a-で始まるもの: alive, asleep, alike等）を識別できる"
+  - node_id: "sgh-026"
+    seq: 4
+    goal: "用法で意味が異なる形容詞（present等）を使い分けられる"
+  # sgh-027
+  - node_id: "sgh-027"
+    seq: 1
+    goal: "many/fewは可算名詞、much/littleは不可算名詞に使うことを正しく判断できる"
+  - node_id: "sgh-027"
+    seq: 2
+    goal: "few（否定的）とa few（肯定的）、little（否定的）とa little（肯定的）の意味の違いを使い分けられる"
+  - node_id: "sgh-027"
+    seq: 3
+    goal: "quite a few（= many）の意味を理解し正しく使える"
+  - node_id: "sgh-027"
+    seq: 4
+    goal: "a great deal of / a number of / a lot of等の代用表現を可算・不可算に応じて使い分けられる"
+  # sgh-028
+  - node_id: "sgh-028"
+    seq: 1
+    goal: "感情を引き起こす側（物事）が主語なら現在分詞(-ing)を使うと判断できる"
+  - node_id: "sgh-028"
+    seq: 2
+    goal: "感情を引き起こされる側（人）が主語なら過去分詞(-ed)を使うと判断できる"
+  - node_id: "sgh-028"
+    seq: 3
+    goal: "代表的な分詞形の形容詞（exciting/excited, boring/bored等11対）を使い分けられる"
+  # sgh-029
+  - node_id: "sgh-029"
+    seq: 1
+    goal: "convenient, necessary, possible等の「人を主語にしない形容詞」をIt is ~ for A to do構文で使える"
+  - node_id: "sgh-029"
+    seq: 2
+    goal: "A is able to do, A is capable of doing, It is possible for A to doの3形式を使い分けられる"
+  - node_id: "sgh-029"
+    seq: 3
+    goal: "ableはto do、capableはof doingと結合することを正しく選択できる"
+  - node_id: "sgh-029"
+    seq: 4
+    goal: "impossibleの例外（人を主語にできる場合: He is impossible to beat.）を理解できる"
+  # sgh-030
+  - node_id: "sgh-030"
+    seq: 1
+    goal: "population, number, audience, crowd等の「多い/少ない」にlarge/smallを使えると判断できる"
+  - node_id: "sgh-030"
+    seq: 2
+    goal: "price, cost, salary等の「高い/安い」にhigh/lowを使えると判断できる"
+  - node_id: "sgh-030"
+    seq: 3
+    goal: "The number of（単数扱い）とA number of（複数扱い）を使い分けられる"
+
+check_points:
+  # sgh-026
+  - node_id: "sgh-026"
+    seq: 1
+    question: "living, alive, asleep, sleeping の中で限定用法のみ・叙述用法のみの形容詞はどれか？"
+    answer: "限定用法のみ: living, sleeping。叙述用法のみ: alive, asleep。"
+  - node_id: "sgh-026"
+    seq: 2
+    question: "叙述用法しかない形容詞に共通する特徴は？"
+    answer: "a-で始まる形容詞が多い（alike, alive, asleep, awake, aware, afraid, alone, ashamed等）。worthやcontentもある。"
+  - node_id: "sgh-026"
+    seq: 3
+    question: "presentが限定用法と叙述用法で意味が異なる場合の違いは？"
+    answer: "限定用法: present「現在の」(the present situation)。叙述用法: present「出席して/居合わせて」(be present at)。"
+  # sgh-027
+  - node_id: "sgh-027"
+    seq: 1
+    question: "fewとa few、littleとa littleの意味の違いは？"
+    answer: "few/little「ほとんど〜ない」（否定的）。a few/a little「少しの〜」（肯定的）。fewは可算、littleは不可算。"
+  - node_id: "sgh-027"
+    seq: 2
+    question: "quite a fewの意味は？"
+    answer: "「かなり多くの」（= many = not a few）。aがつくが否定的ではなく「多い」意味。"
+  - node_id: "sgh-027"
+    seq: 3
+    question: "a great deal ofとa great number ofの違いは？"
+    answer: "a great deal of + 不可算名詞（量）。a great number of + 可算名詞の複数形（数）。"
+  - node_id: "sgh-027"
+    seq: 4
+    question: "a lot of / plenty ofは可算・不可算のどちらに使えるか？"
+    answer: "両方に使える。a lot of coats（可算）/ a lot of money（不可算）。"
+  # sgh-028
+  - node_id: "sgh-028"
+    seq: 1
+    question: "「This movie is ____」の空所にboring/boredのどちらが入るか？"
+    answer: "boring。主語が物事（movie）なので現在分詞。「この映画は退屈させる（ような）ものだ」。"
+  - node_id: "sgh-028"
+    seq: 2
+    question: "「I was ____」の空所にsurprising/surprisedのどちらが入るか？"
+    answer: "surprised。主語が人（I）なので過去分詞。「私は驚かされた→驚いた」。"
+  - node_id: "sgh-028"
+    seq: 3
+    question: "find O Cの形でCに分詞形形容詞が来る場合、Oが物ならどちらの分詞を使うか？"
+    answer: "現在分詞（-ing）。We found his speech boring.（スピーチが退屈だと思った）"
+  # sgh-029
+  - node_id: "sgh-029"
+    seq: 1
+    question: "convenient, necessary, possibleに共通する特徴は？"
+    answer: "人を主語にしない形容詞。It is convenient for A / It is necessary for A to do / It is possible for A to doの形で使う。"
+  - node_id: "sgh-029"
+    seq: 2
+    question: "able, capable, possibleの後に続く形は？"
+    answer: "be able to do（人が主語）。be capable of doing（人・物が主語）。It is possible for A to do（人を主語にしない）。"
+  - node_id: "sgh-029"
+    seq: 3
+    question: "「彼女はフランス語を教えることができる」を3通りで言うと？"
+    answer: "She is able to teach French. / She is capable of teaching French. / It is possible for her to teach French."
+  - node_id: "sgh-029"
+    seq: 4
+    question: "He is impossible to beat.が許容される理由は？"
+    answer: "impossibleは例外的に、形容詞を限定する不定詞を伴う場合、人を主語にできる。He = someone to beat（beatの意味上の目的語）。"
+  # sgh-030
+  - node_id: "sgh-030"
+    seq: 1
+    question: "population, number, audience, crowdの「多い/少ない」は何で表す？"
+    answer: "large/small。many/muchを使うと数量の概念が重複するため。"
+  - node_id: "sgh-030"
+    seq: 2
+    question: "price, cost, salaryの「高い/安い」は何で表す？"
+    answer: "high/low。expensive/cheapは品物自体の価格に使うもので、priceに直接つけない（×expensive price → ○high price）。"
+  - node_id: "sgh-030"
+    seq: 3
+    question: "The number ofとA number ofの数の扱いの違いは？"
+    answer: "The number of B「Bの数」→単数扱い(The number of visitors is large.)。A number of B「たくさんのB」→複数扱い(A number of people were waiting.)。"
+  - node_id: "sgh-030"
+    seq: 4
+    question: "salaryとincomeの「多い/少ない・高い/安い」はどう表すか？"
+    answer: "salaryとincomeはhigh/lowとlarge/smallの両方が使える。"
+
+node_prerequisites: []
+
+knowledge_references:
+  - node_id: "sgh-026"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_162"
+    pages: ""
+  - node_id: "sgh-027"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_163"
+    pages: ""
+  - node_id: "sgh-028"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_164"
+    pages: ""
+  - node_id: "sgh-029"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_165"
+    pages: ""
+  - node_id: "sgh-029"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_166"
+    pages: ""
+  - node_id: "sgh-030"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_167"
+    pages: ""
+  - node_id: "sgh-030"
+    book: "スクランブル英文法・語法"
+    section_id: "Scr_168"
+    pages: ""

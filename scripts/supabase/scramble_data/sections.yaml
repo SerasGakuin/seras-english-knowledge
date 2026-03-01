@@ -823,6 +823,42 @@ sections:
     title: "by＋交通・通信の手段を表す名詞"
     pages: ""
     type: "usage"
+  # Part 2 > Ch17 形容詞の語法（B12）
+  - id: "Scr_162"
+    book: "スクランブル英文法・語法"
+    title: "限定用法と叙述用法"
+    pages: ""
+    type: "usage"
+  - id: "Scr_163"
+    book: "スクランブル英文法・語法"
+    title: "数や量を表す形容詞の用法"
+    pages: ""
+    type: "usage"
+  - id: "Scr_164"
+    book: "スクランブル英文法・語法"
+    title: "分詞形の形容詞の用法"
+    pages: ""
+    type: "usage"
+  - id: "Scr_165"
+    book: "スクランブル英文法・語法"
+    title: "人を主語にしない形容詞"
+    pages: ""
+    type: "usage"
+  - id: "Scr_166"
+    book: "スクランブル英文法・語法"
+    title: "able／capable／possibleの使い分け"
+    pages: ""
+    type: "usage"
+  - id: "Scr_167"
+    book: "スクランブル英文法・語法"
+    title: "「多い／少ない」を表すlarge／smallの用法"
+    pages: ""
+    type: "usage"
+  - id: "Scr_168"
+    book: "スクランブル英文法・語法"
+    title: "「高い／安い」を表すhigh／lowの用法"
+    pages: ""
+    type: "usage"
 
 section_knowledge_nodes:
   - section_id: "Scr_001"
@@ -1159,6 +1195,28 @@ section_knowledge_nodes:
   - section_id: "Scr_161"
     node_id: "sgh-025"
     seq: 1
+  # Ch17 形容詞の語法
+  - section_id: "Scr_162"
+    node_id: "sgh-026"
+    seq: 1
+  - section_id: "Scr_163"
+    node_id: "sgh-027"
+    seq: 1
+  - section_id: "Scr_164"
+    node_id: "sgh-028"
+    seq: 1
+  - section_id: "Scr_165"
+    node_id: "sgh-029"
+    seq: 1
+  - section_id: "Scr_166"
+    node_id: "sgh-029"
+    seq: 2
+  - section_id: "Scr_167"
+    node_id: "sgh-030"
+    seq: 1
+  - section_id: "Scr_168"
+    node_id: "sgh-030"
+    seq: 2
   # Ch13 接続詞
   - section_id: "Scr_102"
     node_id: "shs-027"

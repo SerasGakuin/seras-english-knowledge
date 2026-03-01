@@ -1,0 +1,37 @@
+sentences:
+  - id: "scr-168-p01"
+    section_id: "Scr_168"
+    drill: 1
+    number: 659
+    role: "exam"
+    english: "The price of food these days is much too high."
+    japanese: "近ごろの食料品の値段はあまりにも高すぎる。"
+    notes: "出典: 神奈川大。4択問題。price「値段」の「高い/安い」はhigh/low。×expensive price。「品物が高い/安い」はexpensive/cheap（= Food is too expensive these days.）。"
+  - id: "scr-168-p02"
+    section_id: "Scr_168"
+    drill: 1
+    number: 660
+    role: "exam"
+    english: "Believe it or not, my husband's salary is not as high as my son's."
+    japanese: "こんなことを言っても信じないだろうが、私の夫の給料は息子ほど高くない。"
+    notes: "出典: 中央大。正誤問題。③expensive→high [large]に訂正。salary「給料」の「高い/安い」はexpensive/cheapではなくhigh [large] / low [small]。Believe it or not「こんなことを言っても信じないだろうが」。"
+
+sentence_structures:
+  - sentence_id: "scr-168-p01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-168-p01"
+    label: "details"
+    value: "<The price of food these days>(S) is(V) <much too high>(C)"
+  - sentence_id: "scr-168-p02"
+    label: "overall"
+    value: "M, S V C"
+  - sentence_id: "scr-168-p02"
+    label: "details"
+    value: "[Believe it or not](M:慣用), <my husband's salary>(S) is not(V) <as high as my son's>(C:原級比較)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-168-p01"
+    node_id: "sgh-030"
+  - sentence_id: "scr-168-p02"
+    node_id: "sgh-030"

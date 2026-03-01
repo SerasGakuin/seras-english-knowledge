@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-165-p01"
+    section_id: "Scr_165"
+    drill: 1
+    number: 650
+    role: "exam"
+    english: "We will be sure to visit you again when it is convenient for you."
+    japanese: "あなたの都合のいい時に、私たちはきっとまたあなたを訪ねます。"
+    notes: "出典: 早大。〈頻出〉正誤問題。④you are convenient→it is convenient for [to] youに訂正。convenientは人を主語にしない形容詞。be sure to do「きっと〜する」（⇨ 1166）。"
+  - id: "scr-165-p02"
+    section_id: "Scr_165"
+    drill: 1
+    number: 651
+    role: "exam"
+    english: "It is necessary for us to fill out the application forms."
+    japanese: "私たちは申込書に必要事項を記入する必要がある。"
+    notes: "出典: 関西学院大。不適切選択問題。①We are necessary that weが不適切。necessaryは人を主語にしない形容詞。正しい形: It is necessary for A to do / It is necessary that A (should) do。fill out〜「〜に必要事項を記入する」。"
+  - id: "scr-165-e01"
+    section_id: "Scr_165"
+    drill: 0
+    number: 0
+    role: "example"
+    english: "He is impossible to beat."
+    japanese: "彼を負かすことはできない。"
+    notes: "PU!147注釈例文。impossibleは例外的に、形容詞を限定する不定詞を伴う場合、人を主語にすることがある（⇨ 96）。"
+
+sentence_structures:
+  - sentence_id: "scr-165-p01"
+    label: "overall"
+    value: "S V C M"
+  - sentence_id: "scr-165-p01"
+    label: "details"
+    value: "<We>(S) will be(V) <sure to visit you again>(C:be sure to do) [when it is convenient for you](M:時)"
+  - sentence_id: "scr-165-p02"
+    label: "overall"
+    value: "It V C M"
+  - sentence_id: "scr-165-p02"
+    label: "details"
+    value: "It(形式S) is(V) <necessary>(C) [for us to fill out the application forms](M:真主語)"
+  - sentence_id: "scr-165-e01"
+    label: "overall"
+    value: "S V C"
+  - sentence_id: "scr-165-e01"
+    label: "details"
+    value: "<He>(S) is(V) <impossible to beat>(C:形容詞+to不定詞)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-165-p01"
+    node_id: "sgh-029"
+  - sentence_id: "scr-165-p02"
+    node_id: "sgh-029"
+  - sentence_id: "scr-165-e01"
+    node_id: "sgh-029"

@@ -13,7 +13,7 @@ sentences:
     number: 628
     role: "exam"
     english: "John, a friend of mine, asked me if I could jump over the fence."
-    japanese: "友達のジョンは、僕がその塀を飛び越えることができるかどうきいた。"
+    japanese: "友達のジョンは、僕がその塀を飛び越えることができるかどうかきいた。"
     notes: "出典: 名古屋学院大。整序問題。a friend of mine「私の友人の1人」。aと所有格myは並べて使えないため、a friend of mineの形を使う。×a my friend。"
 
 sentence_structures:
