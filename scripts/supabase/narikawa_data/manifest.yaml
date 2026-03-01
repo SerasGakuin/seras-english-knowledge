@@ -1,6 +1,6 @@
 project: "成川の深めて解ける！英文法 INPUT"
 book_slug: "narikawa"
-last_updated: "2026-03-01"
+last_updated: "2026-03-02"
 
 sections:
   # === Phase 1 パイロット（3セクション） ===
@@ -1659,3 +1659,9 @@ summary:
   not_started: 0
   total_knowledge_nodes: 162
   total_sentences: 893
+  phase3_completed: "2026-03-02"
+  phase3_notes: |
+    全体整合性チェック完了。
+    修正: categoryフィールド統一（ch07/ch09/ch11をプレフィックス→日本語名に修正）。
+    追加: Cross-chapter prerequisite 1件（nrj-003→nrv-001: Ving用法判別にSVC文型S=C概念が前提）。
+    定量: 162ノード・893英文・162セクション。validate.py エラー0件・警告5件（既知の英文0件ノード）。

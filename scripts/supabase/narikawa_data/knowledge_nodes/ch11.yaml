@@ -3,7 +3,7 @@
 knowledge_nodes:
   - id: "nrh-001"
     name: "不定冠詞a[an]の感覚（具体的カタチのイメージ）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       a[an]は「1つの具体的なカタチがイメージできるもの」につける。
@@ -16,7 +16,7 @@ knowledge_nodes:
       別冊ポイント244(名詞の捉え方による冠詞の違い)・245(a/anがつく固有名詞)・248(無冠詞の用法)参照
   - id: "nrh-002"
     name: "定冠詞theの使い方（紐でくくる→区別→唯一）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       theの3段階イメージ:
@@ -33,7 +33,7 @@ knowledge_nodes:
       別冊ポイント246(theをイメージごとに整理)・247(V+A+前置詞+the身体の部分)参照
   - id: "nrh-003"
     name: "可算名詞と不可算名詞の見極め方"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       不可算名詞の3パターン:
@@ -50,7 +50,7 @@ knowledge_nodes:
       別冊ポイント249(不可算名詞リスト)・251(可算・不可算両用名詞)参照
   - id: "nrh-004"
     name: "「お客」の名詞の使い分け"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P2"
     notes: |
       場面ごとの「客」の使い分け:
@@ -62,7 +62,7 @@ knowledge_nodes:
       別冊ポイント267(さまざまな「客」)参照
   - id: "nrh-005"
     name: "「料金」の名詞の使い分け"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P2"
     notes: |
       場面ごとの「料金」の使い分け:
@@ -75,7 +75,7 @@ knowledge_nodes:
       別冊ポイント266(さまざまな「料金、お金」)参照
   - id: "nrh-006"
     name: "意味の紛らわしい名詞（単複変化・約束・習慣）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P2"
     notes: |
       単複で意味が変わる名詞:
@@ -90,7 +90,7 @@ knowledge_nodes:
       別冊ポイント257(複数形で意味変化する名詞)・258(意味が紛らわしい名詞)参照
   - id: "nrh-007"
     name: "注意すべき名詞の使い方（単複同形・相互複数・集合名詞）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P2"
     notes: |
       -sで終わるのに単数もある: means(手段), species(種)は単複同形。
@@ -103,7 +103,7 @@ knowledge_nodes:
       別冊ポイント271(-sだが単数扱い)・253(相互複数)・270(複数扱い集合名詞)参照
   - id: "nrh-008"
     name: "one, it, thatの用法（代名詞の使い分け）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       one: 前出名詞と同種・同類を受ける。可算名詞のみ。前後から修飾可能。
@@ -115,7 +115,7 @@ knowledge_nodes:
       プラスα: ones(複数形), those(複数形)でも同じルールが適用。
   - id: "nrh-009"
     name: "代名詞の相関的用法: the other / the others"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       「残りすべて」→ theがつく:
@@ -129,7 +129,7 @@ knowledge_nodes:
       [図表: イラスト — トランプ7枚でsome→the othersの関係を図示（p.443）]
   - id: "nrh-010"
     name: "代名詞の相関的用法: another / others"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       「残りの一部」→ theはつかない:
@@ -140,7 +140,7 @@ knowledge_nodes:
       [図表: イラスト — Tシャツ選びでanother/othersの関係を図示（p.445-446）]
   - id: "nrh-011"
     name: "2者に対して使う代名詞（both, either, neither）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       both: 2者のうち両方。both A and B(AもBも両方)。both hands(両手)。
@@ -151,7 +151,7 @@ knowledge_nodes:
       プラスα: both A and B等のboth/either/neitherは代名詞ではなく副詞。
   - id: "nrh-012"
     name: "3者以上に対して使う代名詞（all, any, none, some）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       all: 3者以上のすべて。all of~が一般的。
@@ -161,7 +161,7 @@ knowledge_nodes:
       2者/3者以上の対応表: both↔all(すべて), either↔any(どれでも), neither↔none(ゼロ)。
   - id: "nrh-013"
     name: "it, this, thatの違い（代名詞vs指示語）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       it: 受け専門の代名詞(消極的)。話し手と聞き手で共有する情報を受ける。
@@ -174,7 +174,7 @@ knowledge_nodes:
   # B-14: Part 13 形容詞
   - id: "nrh-014"
     name: "形容詞の働き（限定用法と叙述用法）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       形容詞=名詞を修飾する語。副詞=名詞以外を修飾する語。
@@ -188,7 +188,7 @@ knowledge_nodes:
       別冊ポイント292(形容詞の働きとその位置)・293(限定用法のみの形容詞リスト)・294(叙述用法のみの形容詞リスト)・295(「生きている」の用法)参照
   - id: "nrh-015"
     name: "置かれる位置で意味の異なる形容詞"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       前から修飾=永続的な性質 or 他と区別。後ろから修飾=一時的な状態。
@@ -200,7 +200,7 @@ knowledge_nodes:
       別冊ポイント296(前後で意味の異なる形容詞一覧: present/certain/ill/late/able/fond/ready/due)・297(名詞+1語の分詞)参照
   - id: "nrh-016"
     name: "紛らわしい形容詞(1) — 接尾辞による判別"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P2"
     notes: |
       接尾辞(単語のおしり)で意味を判別する方法:
@@ -212,7 +212,7 @@ knowledge_nodes:
       別冊ポイント300(紛らわしい形容詞の包括リスト: sensible/sensitive, imaginary/imaginative/imaginable, economic/economical等)参照
   - id: "nrh-017"
     name: "紛らわしい形容詞(2) — 名詞とセットで覚える"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P2"
     notes: |
       形容詞は名詞とセットで覚えるべき(自立心の弱い品詞)。
@@ -225,7 +225,7 @@ knowledge_nodes:
       別冊ポイント300参照
   - id: "nrh-018"
     name: "紛らわしい形容詞(3) — free from/far from, able/capable, sure/certain"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P2"
     notes: |
       free from[of] A: Aにはマイナス要素(偏見、ストレス等)。
@@ -237,7 +237,7 @@ knowledge_nodes:
       別冊ポイント298(人を主語にとらない形容詞: convenient/necessary/possible等)・299(人を主語にとる形容詞)・301(far from vs free from)参照
   - id: "nrh-019"
     name: "mostとalmostの攻略"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       most=形容詞(名詞を修飾: Most students)+代名詞(主語: Most of the students)。
@@ -248,7 +248,7 @@ knowledge_nodes:
       別冊ポイント302(most=形容詞・代名詞、almost=副詞)参照
   - id: "nrh-020"
     name: "数量表現（few/a few, little/a little, many a等）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       few(否定的=ほとんどない) vs a few(肯定的=少しはある) — 可算名詞。
@@ -262,7 +262,7 @@ knowledge_nodes:
       別冊ポイント303(名詞の数量を表す表現の完全一覧)参照
   - id: "nrh-021"
     name: "特定の名詞と数量表現（high/low, large/small, heavy/light）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P2"
     notes: |
       high/lowを用いる名詞: price, fee, wage, salary, income(お金関係)。
@@ -273,7 +273,7 @@ knowledge_nodes:
       別冊ポイント304(特定名詞の「多い/少ない」)・305(「濃い/薄い」の表現)参照
   - id: "nrh-022"
     name: "形容詞の語順（冠詞→数量→性質→名詞）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P2"
     notes: |
       大前提: 【冠詞相当語】+【数量】+【性質】+【名詞】。
@@ -287,7 +287,7 @@ knowledge_nodes:
   # B-14: Part 14 副詞
   - id: "nrh-023"
     name: "副詞の働きと立ち位置"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       副詞=名詞以外(動詞・形容詞・副詞など)の意味を膨らます修飾語。
@@ -297,7 +297,7 @@ knowledge_nodes:
       別冊ポイント320(副詞を置く位置: 場所→様子→時、強弱副詞は直前、頻度・程度副詞はnotの位置と同じ)参照
   - id: "nrh-024"
     name: "頻度・程度を表す副詞（veryとmuchの使い分け）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       副詞の5種類: ❶強弱(very/too/a little) ❷様子(fast/quietly) ❸場所や時(here/now) ❹頻度(never/always) ❺程度(hardly/scarcely)。
@@ -312,7 +312,7 @@ knowledge_nodes:
       別冊ポイント321(頻度副詞)・329(much/veryが修飾するもの)・330(many more/much more)・331(much too/too much)参照
   - id: "nrh-025"
     name: "-lyの有無で意味が変わる副詞（hard/hardly, ago/before等）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P2"
     notes: |
       -lyがつくと意味が変わる副詞:
@@ -330,7 +330,7 @@ knowledge_nodes:
       別冊ポイント322(-lyの有無で意味が異なる副詞: late/lately, hard/hardly, high/highly等)・323(「最近」の区別)・324(ago vs before)・328(紛らわしい副詞)参照
   - id: "nrh-026"
     name: "副詞so/too/howの語順と文修飾の副詞"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       so/too/how/as + 形容詞 + a[an] + 名詞 の語順。
@@ -344,7 +344,7 @@ knowledge_nodes:
   # B-14: Part 15 特殊構文
   - id: "nrh-027"
     name: "否定表現（全体否定・部分否定・潜在否定）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       not(副詞) vs no(形容詞): notは名詞以外を否定、noは名詞を否定(ゼロの意味)。
@@ -357,7 +357,7 @@ knowledge_nodes:
       別冊ポイント335(not/no)・336(部分否定/全体否定)・337(部分否定)・338(noと強い否定)・339(弱めの否定)・340(not...anyの語順)・341(二重否定)・342(潜在否定リスト)参照
   - id: "nrh-028"
     name: "倒置(1) — 任意倒置（文末焦点の原則）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       倒置=語順の入れ替え(意味なく起きない)。
@@ -370,7 +370,7 @@ knowledge_nodes:
       別冊ポイント344(倒置の種類: 強制倒置と任意倒置、代名詞主語は倒置不可)参照
   - id: "nrh-029"
     name: "倒置(2) — 強制倒置（否定語文頭の倒置）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       強制倒置: 否定語句が文頭→主節が疑問文型の倒置。
@@ -384,7 +384,7 @@ knowledge_nodes:
       別冊ポイント344(倒置の種類)・347(So+V+S/Nor+V+S)・348(さまざまな強調表現)・349(省略を用いた慣用表現)参照
   - id: "nrh-030"
     name: "there be構文（end-focusの応用）"
-    category: "nrh"
+    category: "品詞・特殊構文"
     priority: "P1"
     notes: |
       there be構文=end-focusの原則の応用。

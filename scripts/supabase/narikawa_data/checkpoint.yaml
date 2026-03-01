@@ -1,14 +1,14 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-01T23:00:00"
+updated_at: "2026-03-02T12:00:00"
 book: "成川の深めて解ける！英文法 INPUT"
 book_slug: "narikawa"
 
 current_state:
-  phase: "Phase 2 完了"
+  phase: "Phase 3 完了"
   current_section: null
-  current_step: "全162セクション構造化完了"
+  current_step: "全体整合性チェック完了"
   last_completed_section: "Nar_15_04"
   last_completed_gate: 5
 
@@ -21,14 +21,13 @@ progress:
   total_sentences: 893
 
 recent_decisions:
-  - "nrh-014〜030: B-14完了。17セクション・17ノード・81英文。全5ゲートPASS。Nar_13_04/13_09/14_02は原本に番号付き例文なし"
-  - "nrh-001〜013: B-13完了。13セクション・13ノード・54英文。全5ゲートPASS。Nar_11_03/11_07は原本に番号付き例文なし"
-  - "nrp-021〜032: B-12完了。12セクション・12ノード・英文58件。全5ゲートPASS"
+  - "Phase 3: category不整合修正 — ch07(nrs→接続詞・関係詞)、ch09(nrp→前置詞・比較)、ch11(nrh→品詞・特殊構文)"
+  - "Phase 3: Cross-chapter prerequisite 1件追加 — nrj-003→nrv-001（Ving用法判別にSVC文型S=C概念が前提）"
+  - "Phase 3: 他のcross-chapter参照（nrp→nrv-012/015）はnotes記録で十分と判断。動詞パターン詳細であり前提知識ではない"
 
 active_concerns: []
 
 next_actions:
-  - "成川 Phase 2 構造化完了。全14バッチ・162セクション・162ノード・893英文"
-  - "Supabase DBインポートの検討"
+  - "成川 Phase 3 完了。Supabase DBインポートへ"
 
 must_reread: []

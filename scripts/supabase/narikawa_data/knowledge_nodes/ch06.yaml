@@ -744,6 +744,8 @@ node_prerequisites:
     prerequisite_id: "nrj-001"
   - node_id: "nrj-003"
     prerequisite_id: "nrj-001"
+  - node_id: "nrj-003"
+    prerequisite_id: "nrv-001"  # Cross-Part: Ving用法判別にSVC文型(S=C)の理解が前提
   - node_id: "nrj-004"
     prerequisite_id: "nrj-001"
   - node_id: "nrj-005"

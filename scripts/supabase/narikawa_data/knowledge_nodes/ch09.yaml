@@ -3,7 +3,7 @@
 knowledge_nodes:
   - id: "nrp-001"
     name: "前置詞byの核心（そば→手段→経由）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       byの基本イメージは「そば」。ここから手段・基準・経由へと展開する。
@@ -17,7 +17,7 @@ knowledge_nodes:
       別冊ポイント211参照
   - id: "nrp-002"
     name: "前置詞byの展開（期限・差・受動態）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       byの「そば」イメージの続き。期限・差・受動態への展開。
@@ -32,7 +32,7 @@ knowledge_nodes:
       別冊ポイント211・212参照
   - id: "nrp-003"
     name: "前置詞inの核心（ワクの中→場所→時間→着用→手段）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       inの基本イメージは「ワクの中」。場所でも時間でもすっぽり収まっている感覚。
@@ -48,7 +48,7 @@ knowledge_nodes:
       別冊ポイント213参照
   - id: "nrp-004"
     name: "前置詞inの展開（方向→分野→状態→活動）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       inの「ワクの中」イメージの続き。方向・分野・状態・活動への展開。
@@ -62,7 +62,7 @@ knowledge_nodes:
       別冊ポイント213参照
   - id: "nrp-005"
     name: "前置詞onの核心（接触/べったり→影響→連続・継続）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       onの基本イメージは「接触 or べったり」。上面だけでなく、下でも側面でもOK。
@@ -75,7 +75,7 @@ knowledge_nodes:
       別冊ポイント214参照
   - id: "nrp-006"
     name: "前置詞onの展開（依存→日付→について→通信→不利益）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       onの「べったり」イメージの続き。依存・日付・専門性・通信・不利益への展開。
@@ -90,7 +90,7 @@ knowledge_nodes:
       別冊ポイント214参照
   - id: "nrp-007"
     name: "前置詞atの核心（一点集中→時点→地点→目盛り→従事→感情原因）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       atの基本イメージは「一点集中」。ピンポイントに「点」を指す。
@@ -106,7 +106,7 @@ knowledge_nodes:
       別冊ポイント215参照
   - id: "nrp-008"
     name: "前置詞fromの核心（出所→出身→起点→原因→原料→判断根拠）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       fromの基本イメージは「出所（でどころ）」。「〜から」の丸暗記では対応できない多様な展開。
@@ -123,7 +123,7 @@ knowledge_nodes:
       別冊ポイント216参照
   - id: "nrp-009"
     name: "前置詞fromの展開（分離→妨害/禁止→区別→保護）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       fromの「出所」から「離れて（分離）」への展開。動詞パターンとの組み合わせが重要。
@@ -136,7 +136,7 @@ knowledge_nodes:
       別冊ポイント216参照
   - id: "nrp-010"
     name: "前置詞toの核心（到達→所属/帰属→適合→付加/付着）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       toの基本イメージは「到達」。fromと対で考えるとよい。右向き矢印（→）のイメージ。
@@ -152,7 +152,7 @@ knowledge_nodes:
 
   - id: "nrp-011"
     name: "前置詞toの展開（結果/目的→限界/制限→to one's感情）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       toの「到達」イメージの続き。結果・目的・限界・制限・感情表現への展開。
@@ -167,7 +167,7 @@ knowledge_nodes:
       別冊ポイント217参照
   - id: "nrp-012"
     name: "前置詞forの核心（意識の向かう先→目的地→目的/用途/利益/賛成→理由）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       forの基本イメージは「意識の向かう先」。到達のtoとの対比が重要。
@@ -186,7 +186,7 @@ knowledge_nodes:
       別冊ポイント218参照
   - id: "nrp-013"
     name: "前置詞forの展開（期間→forとduringの違い→代用/交換→判断基準）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       forの「意識の向かう先」の続き。期間・代用・交換・判断基準への展開。
@@ -200,7 +200,7 @@ knowledge_nodes:
       別冊ポイント218参照
   - id: "nrp-014"
     name: "前置詞ofの核心（分離→3本柱→材料/構成要素）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       ofの基本イメージは「分離」。offと親戚関係。ケーキのイラストで3本柱を理解。
@@ -214,7 +214,7 @@ knowledge_nodes:
       別冊ポイント219参照
   - id: "nrp-015"
     name: "前置詞ofの展開1（原因→行為者/動作主→部分of全体→同格）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       ofの3本柱の続き。原因・行為者・部分of全体・同格への展開。
@@ -231,7 +231,7 @@ knowledge_nodes:
       別冊ポイント219参照
   - id: "nrp-016"
     name: "前置詞ofの展開2（関連/対象→所有→of+抽象名詞→使用上の注意）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       ofの3本柱の最終展開。関連・対象・所有・of+抽象名詞・使用上の注意。
@@ -246,7 +246,7 @@ knowledge_nodes:
       別冊ポイント219参照
   - id: "nrp-017"
     name: "前置詞withの核心と展開（もって→付随/道具/原因/比例→一緒/相手/関係）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       withの基本イメージは「もって、もっている」。手にもてるものだけでなく、気分や原因まで幅広くカバー。
@@ -266,7 +266,7 @@ knowledge_nodes:
       別冊ポイント220参照
   - id: "nrp-018"
     name: "その他の前置詞(1)（over/above/under/below）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       主要前置詞以外の重要前置詞。上下関係を表す4つの前置詞。
@@ -287,7 +287,7 @@ knowledge_nodes:
       別冊ポイント221・222・224参照
   - id: "nrp-019"
     name: "その他の前置詞(2)（beyond/across/between/among/against）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       その他の重要前置詞の続き。距離・方向・関係・対立を表す5つの前置詞。
@@ -308,7 +308,7 @@ knowledge_nodes:
       別冊ポイント223参照
   - id: "nrp-020"
     name: "その他の前置詞(3)（about/into/onto/through）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       その他の重要前置詞の最終回。方向・移動・通過を表す4つの前置詞。
@@ -334,7 +334,7 @@ knowledge_nodes:
   # B-12: Part 10 比較
   - id: "nrp-021"
     name: "比較の基本原則（3形式・対等原則・thanの格）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       比較の3形式: ❶原級(2者が同じ) ❷比較級(2者に差) ❸最上級(3者以上の順番づけ)。
@@ -351,7 +351,7 @@ knowledge_nodes:
       [別冊ポイント240: ラテン比較 — superior/inferior/senior/junior to、prefer A to B、prior to。比較対象にthanではなくtoを用いる]
   - id: "nrp-022"
     name: "原級を用いた表現〈as...as〜〉（品詞・役割・語順・否定）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       2つのasの品詞: 1つ目＝副詞（veryと同位置）、2つ目＝接続詞（または前置詞）。
@@ -364,7 +364,7 @@ knowledge_nodes:
       別冊ポイント230参照
   - id: "nrp-023"
     name: "倍数表現と〈as...as〜〉の注意点（倍数・意味希薄化・A≧B）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       倍数表現: 最初のasの直前に倍数を追加。❶倍数+❷基準+❸対象の語順。
@@ -378,7 +378,7 @@ knowledge_nodes:
       別冊ポイント231参照
   - id: "nrp-024"
     name: "原級を使った重要表現(1)（as any・as ever・強調のas...as）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P2"
     notes: |
       as...as any+単数名: 「どんな◎にも劣らず〜」。最上級に近い主観的表現。
@@ -389,7 +389,7 @@ knowledge_nodes:
       別冊ポイント232❶❷❸参照
   - id: "nrp-025"
     name: "原級を使った重要表現(2)（not so much A as B・not so much as V・as many・as...as can）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P2"
     notes: |
       not so much A as B: 「AというよりむしろB」。notに近いA側を否定、B側にスポットライト。
@@ -401,7 +401,7 @@ knowledge_nodes:
       別冊ポイント232❹❺❻参照
   - id: "nrp-026"
     name: "比較級・最上級の強調（3分類強調・差の表現・no比較級・最上級強調）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       比較級の強調3分類:
@@ -419,7 +419,7 @@ knowledge_nodes:
       別冊ポイント233・234・235参照
   - id: "nrp-027"
     name: "比較級を使った重要表現(1)（the比較級 of the two・all[none]+the+比較級）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P2"
     notes: |
       the+比較級+of the two: 「2者のうちより〜な方」。2者中の片方は自動的に決まる→theが付く。
@@ -433,7 +433,7 @@ knowledge_nodes:
       別冊ポイント236参照
   - id: "nrp-028"
     name: "比較級を使った重要表現(2)（The比較級構文・比例関係・省略・書き換え）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P2"
     notes: |
       The+比較級..., the+比較級〜構文の特徴:
@@ -449,7 +449,7 @@ knowledge_nodes:
       別冊ポイント237参照
   - id: "nrp-029"
     name: "比較級を使った重要表現(3)（still less/let alone・more原級than原級・less...than）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P2"
     notes: |
       否定的内容..., still less/much less/even less/let alone〜: 「まして〜ない」。
@@ -462,7 +462,7 @@ knowledge_nodes:
       別冊ポイント238・239参照
   - id: "nrp-030"
     name: "比較級を使った重要表現(4)（no more than・no less than・not more than・not less than）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P2"
     notes: |
       no more than / no less than:
@@ -477,7 +477,7 @@ knowledge_nodes:
       別冊ポイント241参照
   - id: "nrp-031"
     name: "〈no more...than〜〉の構文（クジラ構文・ホップステップジャンプ）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       no more...than〜（クジラの構文）:
@@ -495,7 +495,7 @@ knowledge_nodes:
       別冊ポイント242参照
   - id: "nrp-032"
     name: "最上級相当表現（比較級/原級を使った最上級表現）"
-    category: "nrp"
+    category: "前置詞・比較"
     priority: "P1"
     notes: |
       最上級相当表現の主要パターン:
