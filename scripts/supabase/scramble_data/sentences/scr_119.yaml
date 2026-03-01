@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-119-p01"
+    section_id: "Scr_119"
+    drill: 1
+    number: 456
+    role: "exam"
+    english: "You are the very person I wanted to see."
+    japanese: "あなたは私がまさに会いたいと思っていた人です。"
+    notes: "出典: 追手門学院大。4択問題。対話問題（A文を登録: 文法ポイントがA文にあるため）。B: Oh, how can I help you?（そうですか、何かできることはありますか）。very+名詞「まさにその~/ちょうどその~」— 名詞の強調（形容詞用法）。so/tooは副詞なので直接名詞を修飾できない。muchは不可算名詞を修飾するので不適切。"
+  - id: "scr-119-p02"
+    section_id: "Scr_119"
+    drill: 1
+    number: 457
+    role: "exam"
+    english: "I did see a rabbit jumping on my desk!"
+    japanese: "私は、本当にうさぎが私の机に飛び乗るのを見たのです。"
+    notes: "出典: 名古屋学院大。4択問題。do [does/did]+動詞の原形「本当に~する[した]」— 動詞の強調（文の内容が事実であることを強調する助動詞do）。"
+  - id: "scr-119-p03"
+    section_id: "Scr_119"
+    drill: 1
+    number: 458
+    role: "exam"
+    english: "How on earth did you know that?"
+    japanese: "いったいどうしてあなたはそれを知ったのですか。"
+    notes: "出典: 清泉女子大。4択問題。on earth「いったい（全体）」(= in the world) — 疑問詞の強調。疑問詞の直後にon earth/in the world/everなどの語句をつけて疑問詞を強調する。= How in the world did you know that? = How ever did you know that?"
+
+sentence_structures:
+  - sentence_id: "scr-119-p01"
+    label: "overall"
+    value: "S V C rel-clause"
+  - sentence_id: "scr-119-p01"
+    label: "details"
+    value: "<You>(S) are(V) <the very person>(C:very=まさにその) [I wanted to see](rel-clause:接触節/目的格)"
+  - sentence_id: "scr-119-p02"
+    label: "overall"
+    value: "S V O C"
+  - sentence_id: "scr-119-p02"
+    label: "details"
+    value: "<I>(S) did see(V:強調のdo) <a rabbit>(O) <jumping on my desk>(C:現在分詞)"
+  - sentence_id: "scr-119-p03"
+    label: "overall"
+    value: "M V S V O"
+  - sentence_id: "scr-119-p03"
+    label: "details"
+    value: "[How on earth](M:疑問副詞+強調) did <you>(S) know(V) <that>(O)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-119-p01"
+    node_id: "shs-037"
+  - sentence_id: "scr-119-p02"
+    node_id: "shs-037"
+  - sentence_id: "scr-119-p03"
+    node_id: "shs-037"

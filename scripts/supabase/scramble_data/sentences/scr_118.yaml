@@ -1,0 +1,69 @@
+sentences:
+  - id: "scr-118-p01"
+    section_id: "Scr_118"
+    drill: 1
+    number: 452
+    role: "exam"
+    english: "It is this question that I want you to solve."
+    japanese: "君に解いてもらいたいのはほかでもないこの問題なんだ。"
+    notes: "難易度: 頻出。出典: 千葉工大。整序問題。目的語this questionをIt isとthatではさんで強調した文。元の文: I want you to solve this question."
+  - id: "scr-118-p02"
+    section_id: "Scr_118"
+    drill: 1
+    number: 453
+    role: "exam"
+    english: "It is because my phone ran out of battery that I couldn't make a call."
+    japanese: "電話ができなかったのは、充電が切れていたからです。"
+    notes: "難易度: 頻出。出典: 千葉工大。整序問題。副詞節because my phone ran out of batteryを強調した文。It is [was] because...that ~「~なのは…だ[だった]からだ」"
+  - id: "scr-118-p03"
+    section_id: "Scr_118"
+    drill: 1
+    number: 454
+    role: "exam"
+    english: "My father scolded me, but it was my sister who was to blame."
+    japanese: "父は私をしかったが、とがめられるべきなのは姉［妹］だった。"
+    notes: "難易度: 頻出。出典: 千葉工大。4択問題。強調されるものが「人」なのでwhoを使用。It is...who ~「~なのは…である」"
+  - id: "scr-118-p04"
+    section_id: "Scr_118"
+    drill: 1
+    number: 455
+    role: "exam"
+    english: "Who is it that you want to see?"
+    japanese: "あなたが会いたいのは誰ですか。"
+    notes: "出典: 尾道市大。整序問題。疑問詞を含む強調構文。疑問詞が文頭に出てitとisが入れ替わり「疑問詞 + is it that ~?」の形になる。"
+
+sentence_structures:
+  - sentence_id: "scr-118-p01"
+    label: "overall"
+    value: "It V C that-clause"
+  - sentence_id: "scr-118-p01"
+    label: "details"
+    value: "<It>(S:強調構文のit) is(V) <this question>(C:強調対象/目的語) [that I want you to solve](that-clause:強調構文)"
+  - sentence_id: "scr-118-p02"
+    label: "overall"
+    value: "It V M that-clause"
+  - sentence_id: "scr-118-p02"
+    label: "details"
+    value: "<It>(S:強調構文のit) is(V) [because my phone ran out of battery](M:強調対象/副詞節) [that I couldn't make a call](that-clause:強調構文)"
+  - sentence_id: "scr-118-p03"
+    label: "overall"
+    value: "S V O, conj It V C who-clause"
+  - sentence_id: "scr-118-p03"
+    label: "details"
+    value: "<My father>(S) scolded(V) <me>(O), but <it>(S:強調構文のit) was(V) <my sister>(C:強調対象/主語) [who was to blame](who-clause:強調構文)"
+  - sentence_id: "scr-118-p04"
+    label: "overall"
+    value: "Wh V It that-clause"
+  - sentence_id: "scr-118-p04"
+    label: "details"
+    value: "<Who>(Wh:強調対象) is(V) <it>(S:強調構文のit) [that you want to see](that-clause:強調構文)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-118-p01"
+    node_id: "shs-037"
+  - sentence_id: "scr-118-p02"
+    node_id: "shs-037"
+  - sentence_id: "scr-118-p03"
+    node_id: "shs-037"
+  - sentence_id: "scr-118-p04"
+    node_id: "shs-037"

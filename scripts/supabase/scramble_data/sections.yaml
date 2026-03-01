@@ -599,6 +599,42 @@ sections:
     title: "as [so] long asとas [so] far as"
     pages: ""
     type: "grammar"
+  # Part 1 > Ch14 強調・倒置・省略・代用
+  - id: "Scr_118"
+    book: "スクランブル英文法・語法"
+    title: "強調構文"
+    pages: ""
+    type: "grammar"
+  - id: "Scr_119"
+    book: "スクランブル英文法・語法"
+    title: "語句による強調"
+    pages: ""
+    type: "grammar"
+  - id: "Scr_120"
+    book: "スクランブル英文法・語法"
+    title: "強調のための倒置"
+    pages: ""
+    type: "grammar"
+  - id: "Scr_121"
+    book: "スクランブル英文法・語法"
+    title: "慣用的な倒置"
+    pages: ""
+    type: "grammar"
+  - id: "Scr_122"
+    book: "スクランブル英文法・語法"
+    title: "that節の代用のsoとnot"
+    pages: ""
+    type: "grammar"
+  - id: "Scr_123"
+    book: "スクランブル英文法・語法"
+    title: "副詞節中の「S+be動詞」の省略"
+    pages: ""
+    type: "grammar"
+  - id: "Scr_124"
+    book: "スクランブル英文法・語法"
+    title: "慣用的な省略"
+    pages: ""
+    type: "grammar"
   # Part 2 > Ch15 動詞の語法
   - id: "Scr_125"
     book: "スクランブル英文法・語法"
@@ -879,6 +915,28 @@ section_knowledge_nodes:
     seq: 1
   - section_id: "Scr_117"
     node_id: "shs-036"
+    seq: 1
+  # Ch14 強調・倒置・省略・代用
+  - section_id: "Scr_118"
+    node_id: "shs-037"
+    seq: 1
+  - section_id: "Scr_119"
+    node_id: "shs-037"
+    seq: 1
+  - section_id: "Scr_120"
+    node_id: "shs-038"
+    seq: 1
+  - section_id: "Scr_121"
+    node_id: "shs-038"
+    seq: 1
+  - section_id: "Scr_122"
+    node_id: "shs-039"
+    seq: 1
+  - section_id: "Scr_123"
+    node_id: "shs-040"
+    seq: 1
+  - section_id: "Scr_124"
+    node_id: "shs-040"
     seq: 1
   # Ch10 否定
   - section_id: "Scr_072"
@@ -1166,3 +1224,6 @@ section_prerequisites:
     prerequisite_id: "Scr_109"
   - section_id: "Scr_116"
     prerequisite_id: "Scr_115"
+  # Ch14 強調・倒置・省略・代用
+  - section_id: "Scr_124"
+    prerequisite_id: "Scr_123"

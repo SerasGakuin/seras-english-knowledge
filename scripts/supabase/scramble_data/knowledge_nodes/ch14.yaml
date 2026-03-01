@@ -1,0 +1,245 @@
+knowledge_nodes:
+  - id: "shs-037"
+    name: "強調構文と語句による強調"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 118+119: 強調構文（It is...that）と語句による強調（very+名詞、do+動詞原形、on earth等）。
+
+      【強調構文 It is...that ~】
+      強調したい文の要素をIt isとthatではさんで強調する表現。
+      (1) 強調できる要素は、主語、目的語などとして働く名詞（句・節）か副詞（句・節）だけ。動詞と形容詞は強調できない。
+      (2) 強調されるものが「人」ならwho [whom]、「人以外」ならwhichをthatの代わりに用いることもある。
+      (3) 疑問詞を含む強調構文: 疑問詞 + is it that ~? の形になる。
+
+      [図表: PU!87 強調構文と形式主語構文の見分け方（4パターン分類表）]
+      (1) It is + 副詞 + that ~ → 強調構文
+      (2) It is + 形容詞 + that ~ → 形式主語構文
+      (3) It is + 名詞 + that + 名詞が欠けた文 → 強調構文
+      (4) It is + 名詞 + that + 完全な文 → 形式主語構文
+
+      【語句による強調】
+      ・very + 名詞「まさにその~/ちょうどその~」— 名詞の強調（形容詞用法）
+        例: at that very moment「ちょうどその時」, in this very town「まさにこの町で」
+        ※ so, tooは副詞なので直接名詞を修飾できない。muchは不可算名詞を修飾するので人には不適切。
+      ・do [does/did] + 動詞の原形「本当に~する[した]」— 動詞の強調（強調の助動詞do）
+      ・on earth / in the world / ever — 疑問詞の強調
+        疑問詞の直後に置いて「いったい（全体）」の意味を加える。
+
+  - id: "shs-038"
+    name: "倒置の用法"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 120+121: 強調のための倒置と慣用的な倒置。
+
+      【強調のための倒置】
+      否定語（never/little/rarely/seldom等）を文頭に出すと、主語＋動詞の語順が「(助)動詞＋主語」と逆転する（疑問文と同じ語順）。
+      ・littleは文頭に出すと「少しも~ない」という強い否定を表す（通常は「ほとんど~ない」）。
+      ・only + 副詞句・副詞節を文頭に出す場合も倒置が起こる。
+        〈重要〉only+時の副詞（句・節）→「~の時になって初めて[やっと]」
+      ・Not only...but (also) ~ が文と文を結ぶ場合、Not onlyが文頭に出るとNot onlyの後ろが倒置になる。
+
+      【慣用的な倒置】
+      ・so + 助動詞[be動詞] + S「Sもまたそうだ」— 前の肯定の内容を受ける
+        一般動詞 → do/does/did、be動詞 → is/am/are/was/were
+        例: "I'm a student." "So am I."
+      ・neither + 助動詞[be動詞] + S「Sもまたそうでない」— 前の否定の内容を受ける
+      ・nor + 助動詞[be動詞] + S「Sもまたそうでない」— 前の否定の内容を受ける
+        norの後ろに節を続ける場合は「nor + 疑問文の語順」に並べる。
+
+      [PU!88 neitherとnorの使い分け]
+      neither = 副詞 → 接続詞andと共起可能（and neither is the second）
+      nor = 接続詞 → 接続詞andがある場合は使えない
+
+  - id: "shs-039"
+    name: "that節の代用のsoとnot"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 122: that節の代用のsoとnot。
+
+      hope/be afraid/think/supposeなどの目的語が、肯定のthat節ならsoを、否定のthat節ならnotを代用する。
+
+      [PU!89 I hope ~ と I am afraid ~ の4つの用法]
+      Will it rain?（雨が降るでしょうか）に対する4つの応答:
+      ① I hope so.「降ってほしいですね」
+      ② I hope not.「降らなければいいなあ」
+      ③ I am afraid so.「残念ながら降るでしょうね」
+      ④ I am afraid not.「残念ながら降らないでしょうね」
+      ※ so = that it will rain / not = that it will not rain
+
+      hopeとbe afraidの否定形の特殊ルール:
+      ・I hope not.（○）/ I don't hope so.（×）
+      ・I'm afraid not.（○）/ I'm not afraid so.（×）
+
+      think/supposeの否定形:
+      ・I don't think [suppose] so. = I think [suppose] not.（2形式可能）
+      ・thinkはI don't think so.のほうがふつう
+
+      問465-467は全て対話問題。Bの応答のみ登録（decision #6）。
+
+  - id: "shs-040"
+    name: "省略の用法"
+    category: "品詞・構文"
+    priority: "P1"
+    notes: |
+      Theme 123+124: 副詞節中の「S+be動詞」の省略と慣用的な省略。
+
+      【副詞節中のS+be動詞の省略】
+      副詞節において「S+be動詞」が省略されることがある。
+      特に副詞節中の主語が主節の主語と同一である場合に多い。
+      主な接続詞: while/when/though [although]/once/if/unless
+
+      [PU!90 副詞節中の省略例]
+      ① while doing「~している間」— while (S is) doing
+      ② when+前置詞句「~の時」— when (they were) in school
+      ③ though+形容詞「~だけれども」— though (I am) tired
+      ④ once done「いったん~されたら」— once (it is) signed
+      ※ ③のif necessaryは慣用的省略（→Theme 124/PU!91）にも該当
+      ※ ④ → 問421（Ch13 時の接続詞）参照
+
+      【慣用的な省略（if節）】
+      if節では、主節の主語とif節の主語が違う場合でも、慣用的に「S+V」が省略されることが多い。
+      挿入句として使われる重要表現が多いので要注意。
+
+      [PU!91 慣用的な省略7表現]
+      □ if any「たとえあるにしても」— few/littleの後で使用。「もしあるならば」の意味もある。
+      □ if anything「どちらかと言えば/むしろ」(= rather)。if anyと同様「たとえあったとしても」の意味もある。
+      □ if ever「たとえあるにしても」— seldom/rarelyの後で使用。
+      □ A, if not B「Bとは言わないまでもA / Bでないにしても A」。
+        if notには「もしそうでなければ」の意味もある。
+      □ if possible「できるなら/できたら」— if (it is) possibleの省略。
+      □ if necessary「必要ならば」— if (it is) necessaryの省略。
+      □ if so「もしそうならば」— if (S did) soの省略。
+
+understanding_goals:
+  # shs-037: 強調構文と語句による強調
+  - node_id: "shs-037"
+    seq: 1
+    goal: "It is...that [who/which]の強調構文の形と制約を理解し、主語・目的語・副詞を強調する文を作れる"
+  - node_id: "shs-037"
+    seq: 2
+    goal: "疑問詞を含む強調構文（疑問詞 + is it that ~?）の語順を正しく組み立てられる"
+  - node_id: "shs-037"
+    seq: 3
+    goal: "強調構文と形式主語構文を...の部分の品詞に着目して見分けられる"
+  - node_id: "shs-037"
+    seq: 4
+    goal: "very+名詞、do/does/did+動詞原形、on earth/in the worldの3種類の語句強調を使い分けられる"
+  # shs-038: 倒置の用法
+  - node_id: "shs-038"
+    seq: 1
+    goal: "否定語（never/little/rarely/seldom等）を文頭に出した倒置文の語順を正しく作れる"
+  - node_id: "shs-038"
+    seq: 2
+    goal: "only+副詞（句・節）を文頭に出した場合の倒置語順を正しく作れる"
+  - node_id: "shs-038"
+    seq: 3
+    goal: "Not only...but alsoが文と文を結ぶ場合の倒置パターンを理解できる"
+  - node_id: "shs-038"
+    seq: 4
+    goal: "so/neither/nor + 助動詞[be動詞] + Sの慣用的倒置を使い分けられる"
+  - node_id: "shs-038"
+    seq: 5
+    goal: "neitherとnorの品詞の違い（副詞vs接続詞）に基づく使い分けを判断できる"
+  # shs-039: that節の代用のsoとnot
+  - node_id: "shs-039"
+    seq: 1
+    goal: "hope/be afraid/think/supposeなどで肯定のthat節をsoで代用する方法を理解できる"
+  - node_id: "shs-039"
+    seq: 2
+    goal: "否定のthat節をnotで代用する形（I hope not. / I'm afraid not.）を正しく使える"
+  - node_id: "shs-039"
+    seq: 3
+    goal: "hopeとbe afraidの否定形の制約（×I don't hope so. / ×I'm not afraid so.）を判断できる"
+  # shs-040: 省略の用法
+  - node_id: "shs-040"
+    seq: 1
+    goal: "副詞節中の「S+be動詞」が省略される条件と主な接続詞パターンを理解できる"
+  - node_id: "shs-040"
+    seq: 2
+    goal: "while/when/though/once/if等の後のS+be省略を文脈から正しく補える"
+  - node_id: "shs-040"
+    seq: 3
+    goal: "if any/if ever/if anythingなどの慣用的省略表現の意味と使用場面を区別できる"
+  - node_id: "shs-040"
+    seq: 4
+    goal: "A, if not Bの構造と意味を理解し、if notの2つの意味を区別できる"
+  - node_id: "shs-040"
+    seq: 5
+    goal: "if possible/if necessary/if soの省略される部分を正しく補い、意味を理解できる"
+
+check_points:
+  # shs-037: 強調構文と語句による強調
+  - node_id: "shs-037"
+    seq: 1
+    question: "強調構文 It is...that ~ で強調できる要素は何か？強調できないものは？"
+    answer: "強調できるのは主語・目的語などの名詞（句・節）と副詞（句・節）のみ。動詞と形容詞は強調できない。"
+  - node_id: "shs-037"
+    seq: 2
+    question: "強調されるものが「人」の場合、thatの代わりに何を使えるか？「人以外」の場合は？"
+    answer: "「人」→ who [whom]。「人以外」→ which。"
+  - node_id: "shs-037"
+    seq: 3
+    question: "強調構文と形式主語構文はどう見分けるか？（4パターン）"
+    answer: "It is+副詞+that→強調構文。It is+形容詞+that→形式主語構文。It is+名詞+that+不完全な文→強調構文。It is+名詞+that+完全な文→形式主語構文。"
+  - node_id: "shs-037"
+    seq: 4
+    question: "very+名詞、do/does/did+動詞原形、on earth/in the worldの3種類の語句強調の意味は？"
+    answer: "very+名詞「まさにその~/ちょうどその~」（形容詞用法）。do [does/did]+動詞原形「本当に~する[した]」（強調の助動詞）。on earth/in the world/ever「いったい（全体）」（疑問詞の直後に置く）。"
+  # shs-038: 倒置の用法
+  - node_id: "shs-038"
+    seq: 1
+    question: "never/littleなどの否定語を文頭に出すと語順はどうなるか？"
+    answer: "疑問文と同じ語順に倒置される（(助)動詞＋主語）。littleは文頭倒置で「少しも~ない」という強い否定になる。"
+  - node_id: "shs-038"
+    seq: 2
+    question: "only+時の副詞（句・節）を文頭に出すとどうなるか？"
+    answer: "倒置が起こり疑問文の語順になる。「~の時になって初めて[やっと]」と訳す。onlyは否定に近い意味を持つため。"
+  - node_id: "shs-038"
+    seq: 3
+    question: "Not only...but alsoが文と文を結ぶ場合のNot only文頭の語順は？"
+    answer: "Not onlyの後ろが倒置（疑問文の語順）になる。but also以下は通常の語順のまま。"
+  - node_id: "shs-038"
+    seq: 4
+    question: "so+助動詞[be動詞]+Sはどういう意味を表すか？使い分けのルールは？"
+    answer: "前の肯定の内容を受けて「Sもまたそうだ」。一般動詞にはdo/does/did、be動詞にはis/am/are/was/wereを使う。"
+  - node_id: "shs-038"
+    seq: 5
+    question: "neitherとnorの使い分けは？接続詞andとの共起はどうなるか？"
+    answer: "neither=副詞→接続詞andと共起可能（and neither do they）。nor=接続詞→接続詞andがある場合は使えない。"
+  # shs-039: that節の代用のsoとnot
+  - node_id: "shs-039"
+    seq: 1
+    question: "I hope so. / I hope not.はそれぞれどういう意味か？否定の注意点は？"
+    answer: "I hope so.「そうであることを願う/そうだといいね」。I hope not.「そうでないことを願う」。×I don't hope so.の形は不可。"
+  - node_id: "shs-039"
+    seq: 2
+    question: "I'm afraid so. / I'm afraid not.はそれぞれどういう意味か？"
+    answer: "I'm afraid so.「残念ながらそうだと思う」。I'm afraid not.「残念ながらそうでないと思う」。×I'm not afraid so.は不可。"
+  - node_id: "shs-039"
+    seq: 3
+    question: "think/supposeの否定はどう表すか？"
+    answer: "I don't think [suppose] so. = I think [suppose] not.の2形式が可能。ただしthinkはI don't think so.のほうがふつう。"
+  # shs-040: 省略の用法
+  - node_id: "shs-040"
+    seq: 1
+    question: "副詞節中の「S+be動詞」が省略されるのはどういう場合か？主な接続詞は？"
+    answer: "副詞節中の主語が主節の主語と同一の場合に多い。while doing/when+形容詞/though+形容詞/once done/if done等の形になる。"
+  - node_id: "shs-040"
+    seq: 2
+    question: "if any / if everはどういう意味で、どんな語の後に使われるか？"
+    answer: "if any: few/littleの後で「たとえあるにしても」。if ever: seldom/rarelyの後で「たとえあるにしても」。if anyは「もしあるならば」の意味もある。"
+  - node_id: "shs-040"
+    seq: 3
+    question: "if anythingの意味は？"
+    answer: "「どちらかと言えば/むしろ」(= rather)。if anyと同様の「たとえあったとしても」の意味もある。"
+  - node_id: "shs-040"
+    seq: 4
+    question: "A, if not Bはどういう意味か？if notの2つの意味は？"
+    answer: "「Bとは言わないまでもA」。if notには(1)「~とは言わないまでも」(2)「もしそうでなければ」の2つの意味がある。"
+  - node_id: "shs-040"
+    seq: 5
+    question: "if possible / if necessary / if soで省略されている部分は何か？"
+    answer: "if possible = if it is possible「できたら」。if necessary = if it is necessary「必要ならば」。if so = if S did so「もしそうならば」。"

@@ -1,0 +1,53 @@
+sentences:
+  - id: "scr-122-p01"
+    section_id: "Scr_122"
+    drill: 1
+    number: 465
+    role: "exam"
+    english: "I hope so."
+    japanese: "行けたらいいな。"
+    notes: "出典: センター。4択問題。対話問題 — A: Will you be able to come to the concert?（コンサートに来られる？）。soはhopeの目的語である肯定のthat節の代用。I hope so. = I hope that I will be able to come to the concert."
+  - id: "scr-122-p02"
+    section_id: "Scr_122"
+    drill: 1
+    number: 466
+    role: "exam"
+    english: "I am afraid not."
+    japanese: "残念ながら来ないと思います。"
+    notes: "難易度: 頻出。出典: センター。4択問題。対話問題 — A: Do you think he's coming?（彼は来ると思いますか）。notはbe afraidの目的語である否定のthat節の代用。I am afraid not. = I am afraid that he is not coming. 〈発展〉think/supposeはI think [suppose] not. = I don't think [suppose] so.の2形式が使えるが、thinkは後者のほうがふつう。"
+  - id: "scr-122-p03"
+    section_id: "Scr_122"
+    drill: 1
+    number: 467
+    role: "exam"
+    english: "I hope not."
+    japanese: "そうならないことを願います。"
+    notes: "難易度: 頻出。出典: センター。4択問題。対話問題 — A: Frank drives much too fast. Someday he'll have a terrible accident.（フランクはあまりにもスピードを出しすぎる。いつかひどい事故を起こすでしょうね）。I hope not. = I hope that he will not have a terrible accident. × I don't hope so.の形は不可。④ I'm afraid not.だと「残念ながら事故を起こさないと思う」の意味になり不適切。"
+
+sentence_structures:
+  - sentence_id: "scr-122-p01"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-122-p01"
+    label: "details"
+    value: "<I>(S) hope(V) <so>(O:肯定のthat節の代用)"
+  - sentence_id: "scr-122-p02"
+    label: "overall"
+    value: "S V C O"
+  - sentence_id: "scr-122-p02"
+    label: "details"
+    value: "<I>(S) am afraid(V:be afraid) <not>(O:否定のthat節の代用)"
+  - sentence_id: "scr-122-p03"
+    label: "overall"
+    value: "S V O"
+  - sentence_id: "scr-122-p03"
+    label: "details"
+    value: "<I>(S) hope(V) <not>(O:否定のthat節の代用)"
+
+sentence_knowledge_tags:
+  - sentence_id: "scr-122-p01"
+    node_id: "shs-039"
+  - sentence_id: "scr-122-p02"
+    node_id: "shs-039"
+  - sentence_id: "scr-122-p03"
+    node_id: "shs-039"

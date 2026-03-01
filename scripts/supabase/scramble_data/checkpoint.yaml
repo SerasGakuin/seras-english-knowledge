@@ -7,19 +7,30 @@ book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 2 — B08完了、B09着手前"
+  phase: "Phase 2 — B09完了（Part 1完了）、B10着手前"
   current_section: null
   current_step: null
-  last_completed_section: "Scr_117"
+  last_completed_section: "Scr_124"
   last_completed_gate: 5
 
 progress:
   total_sections: 271
-  completed: 118
+  completed: 125
   in_progress: 0
-  remaining: 153
-  total_nodes: 87
-  total_sentences: 594
+  remaining: 146
+  total_nodes: 91
+  total_sentences: 630
+
+b09_results:
+  ch14_sections: ["Scr_118", "Scr_119", "Scr_120", "Scr_121", "Scr_122", "Scr_123", "Scr_124"]
+  ch14_nodes: ["shs-037", "shs-038", "shs-039", "shs-040"]
+  ch14_sentences: 36
+  ch14_merges:
+    - "Theme 118+119 → shs-037（強調構文と語句による強調）"
+    - "Theme 120+121 → shs-038（倒置の用法）"
+    - "Theme 123+124 → shs-040（省略の用法）"
+  metrics:
+    ch14_node_section_ratio: 0.571
 
 b08_results:
   ch13_sections: ["Scr_102", "Scr_103", "Scr_104", "Scr_105", "Scr_106", "Scr_107", "Scr_108", "Scr_109", "Scr_110", "Scr_111", "Scr_112", "Scr_113", "Scr_114", "Scr_115", "Scr_116", "Scr_117"]
@@ -158,10 +169,10 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
-  - "B09: Ch14 強調・倒置・省略(Scr_118-124) → ノードID shs-037〜"
-  - "原本: Part1_Ch14_強調・倒置・省略・代用.md を読む"
-  - "章区切り → ワークフロー.md + 設計書.md 再読込"
-  - "B09完了 = Part 1完了マイルストーン → 大規模レビュー"
+  - "★ Part 1 完了マイルストーン: 定量レビュー実施"
+  - "B10: Ch15 動詞の語法 前半(Scr_126-138) → ノードID sgh-002〜"
+  - "原本: Part2_Ch15_動詞の語法.md を読む（103KB最大ファイル）"
+  - "Part 2開始 → ワークフロー.md + 設計書.md 再読込"
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

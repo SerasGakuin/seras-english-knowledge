@@ -1185,6 +1185,76 @@ sections:
     gates_passed: [1, 2, 3, 4, 5]
     reviewed_at: "2026-03-01"
     notes: "shs-036(単独)。問449-451=3exam, 解説例文(as long as条件)1件=1example; PU!86(判別法)はnotes記録"
+  Scr_118:
+    title: "強調構文"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 4
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-037(Theme118+119統合)。問452-455=4exam(頻出×3); PU!87(強調構文vs形式主語構文の見分け方4パターン)はnotes記録"
+  Scr_119:
+    title: "語句による強調"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-037(Theme118+119統合)。問456-458=3exam; 問456対話問題はA文登録(文法ポイントがA文にあるため)"
+  Scr_120:
+    title: "強調のための倒置"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-038(Theme120+121統合)。問459-461=3exam(頻出×2), Theme冒頭例文+問460解説〈重要〉例文=2example"
+  Scr_121:
+    title: "慣用的な倒置"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 5
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-038(Theme120+121統合)。問462-464=3exam(頻出×3), 問464解説〈重要〉例文+PU!88例文=2example; PU!88(neither vs norの使い分け)"
+  Scr_122:
+    title: "that節の代用のsoとnot"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 3
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-039(単独)。問465-467=3exam(頻出×2), 全て対話問題→B文のみ登録(decision#6); PU!89(I hope~/I'm afraid~の4用法)はnotes記録"
+  Scr_123:
+    title: "副詞節中の「S+be動詞」の省略"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 1
+    sentences_created: 6
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-040(Theme123+124統合)。問468-469=2exam(頻出×2), PU!90例文4件=4example; PU!90③は慣用省略(PU!91)にも該当"
+  Scr_124:
+    title: "慣用的な省略"
+    type: "grammar"
+    pages: ""
+    status: "completed"
+    knowledge_nodes_created: 0
+    sentences_created: 10
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-01"
+    notes: "shs-040(Theme123+124統合)。問470-473=4exam, 解説〈発展〉例文3件+PU!91例文3件=6example; PU!91(慣用的な省略7表現)の全情報をnotes+examplesで保存"
   Scr_125:
     title: "自動詞と他動詞──前置詞の有無"
     type: "usage"
@@ -1197,9 +1267,9 @@ sections:
     notes: "パイロット。sgh-001。PU!92(他動詞14語)/PU!93(自動詞7語)はnotes記録"
 
 summary:
-  total_sections: 118
-  completed: 118
+  total_sections: 125
+  completed: 125
   in_progress: 0
   not_started: 0
-  total_knowledge_nodes: 87
-  total_sentences: 594
+  total_knowledge_nodes: 91
+  total_sentences: 630
