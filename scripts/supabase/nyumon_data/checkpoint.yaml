@@ -1,12 +1,12 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-03T05:00:00"
+updated_at: "2026-03-02T18:00:00"
 book: "入門英文問題精講"
 book_slug: "nyumon"
 
 current_state:
-  phase: "Phase 2 完了"
+  phase: "Phase 3 完了"
   current_section: "完了"
   current_step: "完了"
   last_completed_section: "Ny_72"
@@ -20,19 +20,33 @@ progress:
   total_nodes: 70
   total_sentences: 210
 
-recent_decisions:
-  - "Ny_71: nta-013（not only...but alsoの倒置と英語のリズム）— 英文3文"
-  - "Ny_72: nta-014（否定的副詞の前置による倒置）— 英文2文、出典: 熊本大学"
-  - "Batch 29: 2ノード/2セクション = 1.0（最終バッチ）"
-  - "Phase 2G: 14ノード(nta-001〜014)/16セクション = 0.88"
+final_data:
+  knowledge_nodes: 70
+  understanding_goals: 247
+  check_points: 246
+  node_prerequisites: 90
+  knowledge_references: 70
+  sections: 85
+  section_prerequisites: 72
+  section_knowledge_nodes: 87
+  sentences: 210
+  sentence_structures: 532
+  sentence_knowledge_tags: 213
+  cross_book_links: 44
 
-active_concerns:
-  - "nbk-001, nbk-002 は tagged sentences なし（基本講義ノードでは想定内）"
+supabase_totals:
+  knowledge_nodes: 279
+  sentences: 1612
+  sections: 191
+  cross_book_links: 116
 
-next_actions:
-  - "Phase 2 全85セクション完了 → Phase 3（全体整合性チェック）へ進む"
-  - "Phase 3: prerequisites一括見直し、validate.py全体実行、粒度定量チェック、参考書間リンク候補抽出、importスクリプト作成"
-
-must_reread:
-  - "docs/design/構造化共通ワークフロー.md"
-  - "docs/design/参考書別設計書_入門英文問題精講.md"
+phase3_progress:
+  step1_section_prerequisites: "完了"
+  step2_node_prerequisites_review: "完了"
+  step3_validate_all: "完了（全13チェック通過）"
+  step4_quantitative_check: "完了（全体比率0.82、nks 0.50/nhk 0.62 は意図的統合）"
+  step5_cross_book_links: "完了（44件: hajime 15件 + hijii 29件）"
+  step6_import_script: "完了（import_nyumon.py）"
+  step7_book_registry: "完了（book_registry.py に nyumon 追加）"
+  step8_supabase_import: "完了（verify_supabase.py 全チェック通過）"
+  step9_docs_update: "完了（ROADMAP.md 更新）"
