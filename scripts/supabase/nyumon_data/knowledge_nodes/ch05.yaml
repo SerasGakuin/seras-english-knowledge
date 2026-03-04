@@ -320,8 +320,9 @@ check_points:
     answer: "as〜asの as〜 部分が2つあり、neither A nor B で結ばれた形。最後のasは接続詞で、共通要素が省略されている。solitary an activity は副詞asの影響で形容詞が冠詞の前に出た語順（通常は a solitary activity）。「単純でも孤独な活動でもない」。"
 
 node_prerequisites:
+  # 比較: 文構造（何と何を比較するか）の理解が前提
   - node_id: "nhk-001"
-    prerequisite_id: "nbk-001"
+    prerequisite_id: "nbk-006"
 
   - node_id: "nhk-002"
     prerequisite_id: "nhk-001"

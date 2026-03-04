@@ -203,38 +203,56 @@ def check_07_section_nodes_exist(sections_data, node_ids) -> List[str]:
     return errors
 
 
-def check_08_circular_deps(prereqs) -> List[str]:
-    """CHECK-08: no circular dependencies in prerequisites."""
+def _detect_cycles(graph: Dict[str, Set[str]], label: str) -> List[str]:
+    """Generic DFS cycle detection on a directed graph."""
     errors = []
-    # Build adjacency list
-    graph: Dict[str, Set[str]] = {}
-    for p in prereqs:
-        nid = p.get("node_id", "")
-        pid = p.get("prerequisite_id", "")
-        if nid not in graph:
-            graph[nid] = set()
-        graph[nid].add(pid)
-
-    # DFS cycle detection
     visited: Set[str] = set()
     in_stack: Set[str] = set()
 
     def dfs(node: str) -> bool:
         if node in in_stack:
-            return True  # cycle
+            return True
         if node in visited:
             return False
         visited.add(node)
         in_stack.add(node)
         for dep in graph.get(node, set()):
             if dfs(dep):
-                errors.append(f"CHECK-08: circular dependency involving node '{node}' -> '{dep}'")
+                errors.append(f"CHECK-08: circular {label} dependency involving '{node}' -> '{dep}'")
                 return True
         in_stack.discard(node)
         return False
 
     for node in graph:
         dfs(node)
+
+    return errors
+
+
+def check_08_circular_deps(prereqs, sections_data=None) -> List[str]:
+    """CHECK-08: no circular dependencies in node or section prerequisites."""
+    errors = []
+
+    # Node prerequisites
+    node_graph: Dict[str, Set[str]] = {}
+    for p in prereqs:
+        nid = p.get("node_id", "")
+        pid = p.get("prerequisite_id", "")
+        if nid not in node_graph:
+            node_graph[nid] = set()
+        node_graph[nid].add(pid)
+    errors.extend(_detect_cycles(node_graph, "node"))
+
+    # Section prerequisites
+    if sections_data:
+        sec_graph: Dict[str, Set[str]] = {}
+        for sp in sections_data.get("section_prerequisites", []):
+            sid = sp.get("section_id", "")
+            pid = sp.get("prerequisite_section_id", "")
+            if sid not in sec_graph:
+                sec_graph[sid] = set()
+            sec_graph[sid].add(pid)
+        errors.extend(_detect_cycles(sec_graph, "section"))
 
     return errors
 
@@ -394,7 +412,7 @@ def main():
         ("CHECK-05", "No empty knowledge_tags", lambda: check_05_empty_tags(sentences, tags)),
         ("CHECK-06", "Nodes without sentences", lambda: check_06_nodes_without_sentences(nodes, tags, sections_data)),
         ("CHECK-07", "Section nodes exist", lambda: check_07_section_nodes_exist(sections_data, node_ids)),
-        ("CHECK-08", "No circular dependencies", lambda: check_08_circular_deps(prereqs)),
+        ("CHECK-08", "No circular dependencies", lambda: check_08_circular_deps(prereqs, sections_data)),
         ("CHECK-09", "ID naming consistency", lambda: check_09_id_naming(nodes, sentences, sections_data)),
         ("CHECK-10", "Manifest consistency", lambda: check_10_manifest_consistency(manifest_data, nodes, sentences, sections_data)),
         ("CHECK-11", "Goals count (3-6/node)", lambda: check_11_goals_count(nodes, goals)),

@@ -345,6 +345,9 @@ check_points:
     answer: "I have experienced city life in New York and Tokyo. 完了形の分詞構文は現在完了の文を分詞構文にしたもの。"
 
 node_prerequisites:
+  # 動名詞: 動詞と主語の理解が前提
+  - node_id: "njd-001"
+    prerequisite_id: "nbk-002"
   - node_id: "njd-001"
     prerequisite_id: "nbk-005"
   - node_id: "njd-002"
