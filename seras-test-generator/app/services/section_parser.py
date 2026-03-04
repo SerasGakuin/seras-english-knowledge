@@ -1,7 +1,9 @@
 """Section range parser: multi-book support.
 
-hajime: '1-1~1-5' -> ['Ch01_01', ..., 'Ch01_05']
-hijii:  '1~5'     -> ['Hij_01_1', 'Hij_01_2', 'Hij_02', ..., 'Hij_05']
+hajime:   '1-1~1-5' -> ['Ch01_01', ..., 'Ch01_05']
+hijii:    '1~5'     -> ['Hij_01_1', 'Hij_01_2', 'Hij_02', ..., 'Hij_05']
+kakushin: '1~6'     -> ['Kaku_01', ..., 'Kaku_06']
+          '7'       -> ['Kaku_07a', 'Kaku_07b']
 """
 
 import re
@@ -13,6 +15,8 @@ from app.services.data_loader import DataStore
 _HAJIME_RANGE = re.compile(r"^(\d+)-(\d+)~(\d+)-(\d+)$")
 _HIJII_RANGE = re.compile(r"^(\d+)~(\d+)$")
 _HIJII_SINGLE = re.compile(r"^(\d+)$")
+_KAKUSHIN_RANGE = re.compile(r"^(\d+)~(\d+)$")
+_KAKUSHIN_SINGLE = re.compile(r"^(\d+)$")
 
 
 def parse_sections(
@@ -44,6 +48,8 @@ def parse_sections(
         return _parse_hajime(stripped, data_store)
     elif book_slug == "hijii":
         return _parse_hijii(stripped, data_store)
+    elif book_slug == "kakushin":
+        return _parse_kakushin(stripped, data_store)
     else:
         raise BookNotFoundError(book_slug)
 
@@ -151,6 +157,82 @@ def _expand_hijii_themes(
     for theme in range(start, end + 1):
         prefix = f"Hij_{theme:02d}"
         matched = [sid for sid in all_sections if sid == prefix or sid.startswith(prefix + "_")]
+        if not matched:
+            raise SectionNotFoundError(
+                detail=f"No sections found for theme {theme} (prefix '{prefix}')"
+            )
+        result.extend(matched)
+
+    return result
+
+
+def _parse_kakushin(raw: str, data_store: DataStore) -> list[str]:
+    """Parse kakushin-style range: '1~6' or '7' or '1~6,7'.
+
+    Theme number T maps to all sections matching 'Kaku_{T:02d}' prefix.
+    Split themes (e.g., Kaku_07a, Kaku_07b) are automatically included.
+    """
+    parts = [p.strip() for p in raw.split(",")]
+    result: list[str] = []
+    for part in parts:
+        result.extend(_parse_kakushin_single(part, data_store))
+    # Deduplicate while preserving order, then sort
+    seen: set[str] = set()
+    unique: list[str] = []
+    for sid in result:
+        if sid not in seen:
+            seen.add(sid)
+            unique.append(sid)
+    return sorted(unique)
+
+
+def _parse_kakushin_single(part: str, data_store: DataStore) -> list[str]:
+    # Try range pattern first: "1~6"
+    range_match = _KAKUSHIN_RANGE.match(part)
+    if range_match:
+        start = int(range_match.group(1))
+        end = int(range_match.group(2))
+        if start > end:
+            raise InvalidSectionRangeError(
+                detail=f"Reversed range: '{part}'. Start must be <= end."
+            )
+        return _expand_kakushin_themes(start, end, data_store)
+
+    # Try single theme: "7"
+    single_match = _KAKUSHIN_SINGLE.match(part)
+    if single_match:
+        theme = int(single_match.group(1))
+        return _expand_kakushin_themes(theme, theme, data_store)
+
+    raise InvalidSectionRangeError(
+        detail=f"Invalid section range format: '{part}'. "
+        "Expected format for kakushin: 'T1~T2' (e.g., '1~6') or single theme 'T' (e.g., '7')"
+    )
+
+
+def _expand_kakushin_themes(
+    start: int, end: int, data_store: DataStore
+) -> list[str]:
+    """Expand theme range to matching section IDs from DB.
+
+    Kaku_07a, Kaku_07b are both matched by theme 7.
+    Uses 2-digit zero-padding to prevent prefix collisions (Kaku_01 vs Kaku_10).
+    """
+    book_name = "英文法の核心"
+    all_sections = data_store.get_all_section_ids(book=book_name)
+
+    result: list[str] = []
+    for theme in range(start, end + 1):
+        prefix = f"Kaku_{theme:02d}"
+        matched = [
+            sid for sid in all_sections
+            if sid == prefix  # exact match (Kaku_01)
+            or (
+                sid.startswith(prefix)
+                and len(sid) > len(prefix)
+                and sid[len(prefix)].isalpha()  # alpha suffix only (Kaku_07a)
+            )
+        ]
         if not matched:
             raise SectionNotFoundError(
                 detail=f"No sections found for theme {theme} (prefix '{prefix}')"

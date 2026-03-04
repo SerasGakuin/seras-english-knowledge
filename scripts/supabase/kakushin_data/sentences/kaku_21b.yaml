@@ -1,0 +1,108 @@
+# Kaku_21b: 関係詞（関係副詞・判別・制限/非制限）
+# 例文3 + 非制限3 + 入試1 = 7文
+
+sentences:
+  # === 例文（関係副詞） ===
+  - id: "kaku-21b-e01"
+    book: "英文法の核心"
+    section_id: "Kaku_21b"
+    page: "p.317"
+    role: "example"
+    english: "This is the hospital where Kate works as a nurse."
+    japanese: "ここは、ケイトが看護師として働いている病院です。"
+    sentence_structures:
+      overall: "S V C [where S V M]"
+      details: "This(S) is(V) the hospital(C) [where Kate(S) works(V) as a nurse(M)]."
+    notes: "関係副詞whereの基本例。副詞there（= at it）がwhereに変化。whereの後ろは「完全」な形。①which Kate works at / ②at which Kate works / ③where Kate works — 3通りとも形容詞節をつくり同じ意味。"
+
+  - id: "kaku-21b-e02"
+    book: "英文法の核心"
+    section_id: "Kaku_21b"
+    page: "p.318"
+    role: "example"
+    english: "The reason why you were late is not important."
+    japanese: "あなたが遅刻した理由は重要ではないのです。"
+    sentence_structures:
+      overall: "S [why S V C] V C"
+      details: "The reason(S) [why you(S) were(V) late(C)] is(V) not important(C)."
+    notes: "関係副詞whyの例。先行詞はreason（reasonのみ）。関係副詞は元々「副詞」なので格変化なし。"
+
+  - id: "kaku-21b-e03"
+    book: "英文法の核心"
+    section_id: "Kaku_21b"
+    page: "p.319"
+    role: "example"
+    english: "This is how Kento met Riko."
+    japanese: "このようにして、ケントはリコに出会ったのです。"
+    sentence_structures:
+      overall: "S V C [how S V O]"
+      details: "This(S) is(V) [how(関係副詞/先行詞the way省略) Kento(S) met(V) Riko(O)](C)."
+    notes: "関係副詞howの例。the wayが省略された決まり文句。×the way howは並ばない（howの先行詞がwayなのは明らかすぎてクドいため）。直訳「これが〜する方法だ」。This is the way Kento met Riko. でもOK。"
+
+  # === 例文（制限/非制限用法） ===
+  - id: "kaku-21b-e04"
+    book: "英文法の核心"
+    section_id: "Kaku_21b"
+    page: "p.322"
+    role: "example"
+    english: "He has two sons, who went to college."
+    japanese: "彼には息子が2人いて、（その2人とも）大学に行ったんだ。"
+    sentence_structures:
+      overall: "S V O, [who V M]"
+      details: "He(S) has(V) two sons(O), [who(非制限/主格) went(V) to college(M)]."
+    notes: "非制限用法の例。コンマあり→「補足説明」。息子は2人だけで、その2人とも大学に行った。制限用法（コンマなし）と比較するとコンマ1つで意味が大きく変わる。"
+
+  - id: "kaku-21b-e05"
+    book: "英文法の核心"
+    section_id: "Kaku_21b"
+    page: "p.322"
+    role: "example"
+    english: "He has two sons who went to college."
+    japanese: "彼には、大学に行った息子が2人いるんだ。"
+    sentence_structures:
+      overall: "S V O [who V M]"
+      details: "He(S) has(V) two sons(O) [who(制限/主格) went(V) to college(M)]."
+    notes: "制限用法の例。コンマなし→「限定」。「大学に行った2人の息子」と説明→大学に行かなかった息子がいる可能性大。非制限用法（コンマあり）との意味の違いに注意。"
+
+  - id: "kaku-21b-e06"
+    book: "英文法の核心"
+    section_id: "Kaku_21b"
+    page: "p.323"
+    role: "example"
+    english: "She passed the exam, which was a big surprise."
+    japanese: "彼女は試験に合格したが、それはすごいサプライズだった。"
+    sentence_structures:
+      overall: "S V O, [which V C]"
+      details: "She(S) passed(V) the exam(O), [which(非制限/先行詞=前文全体) was(V) a big surprise(C)]."
+    notes: "非制限用法whichの特殊用法。whichの先行詞は直前の名詞ではなく「前の文全体（She passed the exam）」。非制限用法のwhichに限り「文・文の一部」を先行詞にできる。訳すときは「そのことは・それは」でOK。"
+
+  # === 入試問題 ===
+  - id: "kaku-21b-x01"
+    book: "英文法の核心"
+    section_id: "Kaku_21b"
+    page: "p.334"
+    role: "exam"
+    english: "New York is a city which is popular with tourists."
+    japanese: "ニューヨークは旅行者に人気の都市だよ。"
+    sentence_structures:
+      overall: "S V C [which V C M]"
+      details: "New York(S) is(V) a city(C) [which(主格) is(V) popular(C) with tourists(M)]."
+    notes: "出典: 東北学院大学。入試問題(2)。関係代名詞と関係副詞の区別がポイント。空所後はisの主語が欠けた「不完全な形」→関係代名詞③whichが正解。直前のa cityにつられて「場所」を表す関係副詞①whereにひっかからないよう注意。関係副詞の後ろは「完全な形」がくる。"
+
+sentence_knowledge_tags:
+  # kta-018: 関係副詞と完全/不完全の判別
+  - sentence_id: "kaku-21b-e01"
+    node_id: "kta-018"
+  - sentence_id: "kaku-21b-e02"
+    node_id: "kta-018"
+  - sentence_id: "kaku-21b-e03"
+    node_id: "kta-018"
+  - sentence_id: "kaku-21b-x01"
+    node_id: "kta-018"
+  # kta-019: 制限用法と非制限用法
+  - sentence_id: "kaku-21b-e04"
+    node_id: "kta-019"
+  - sentence_id: "kaku-21b-e05"
+    node_id: "kta-019"
+  - sentence_id: "kaku-21b-e06"
+    node_id: "kta-019"

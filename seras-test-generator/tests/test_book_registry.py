@@ -20,6 +20,13 @@ class TestGetBookConfig:
         assert config.db_book_name == "肘井の読解のための英文法"
         assert config.section_prefix == "Hij"
 
+    def test_kakushin(self) -> None:
+        config = get_book_config("kakushin")
+        assert config.slug == "kakushin"
+        assert config.full_name == "英文法の核心"
+        assert config.db_book_name == "英文法の核心"
+        assert config.section_prefix == "Kaku"
+
     def test_unknown_raises(self) -> None:
         with pytest.raises(BookNotFoundError):
             get_book_config("unknown")
@@ -29,3 +36,4 @@ class TestGetBookConfig:
             get_book_config("foo")
         assert "hajime" in str(exc_info.value.detail)
         assert "hijii" in str(exc_info.value.detail)
+        assert "kakushin" in str(exc_info.value.detail)

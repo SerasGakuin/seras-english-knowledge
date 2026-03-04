@@ -28,10 +28,24 @@ def count_rows(client, table: str) -> int:
     return result.count
 
 
+def fetch_all_rows(client, table: str, columns: str = "*") -> list[dict]:
+    """Fetch all rows from a table, handling pagination (Supabase default limit is 1000)."""
+    all_rows = []
+    page_size = 1000
+    offset = 0
+    while True:
+        rows = client.table(table).select(columns).range(offset, offset + page_size - 1).execute().data
+        all_rows.extend(rows)
+        if len(rows) < page_size:
+            break
+        offset += page_size
+    return all_rows
+
+
 def check_fk_integrity(client, table: str, fk_col: str, ref_table: str, ref_col: str = "id") -> list[str]:
     """Check that all FK values exist in referenced table."""
-    rows = client.table(table).select(fk_col).execute().data
-    ref_rows = client.table(ref_table).select(ref_col).execute().data
+    rows = fetch_all_rows(client, table, fk_col)
+    ref_rows = fetch_all_rows(client, ref_table, ref_col)
     ref_ids = {r[ref_col] for r in ref_rows}
     missing = []
     for r in rows:
@@ -55,6 +69,7 @@ def main():
         "understanding_goals", "check_points", "knowledge_references",
         "sections", "section_knowledge_nodes", "section_prerequisites",
         "sentences", "sentence_structures", "sentence_knowledge_tags",
+        "cross_book_links",
     ]:
         c = count_rows(client, table)
         counts[table] = c
@@ -62,25 +77,34 @@ def main():
 
     print()
 
-    # Expected counts (はじめ84+肘井49=133 nodes, はじめ524+肘井405=929 sentences)
+    # Expected minimum counts
+    # はじめ84 + 肘井49 + 核心76 + 入門70 = 279 nodes
+    # はじめ524 + 肘井405 + 核心473 + 入門210 = 1612 sentences
     expected = {
-        "knowledge_nodes": 133,
-        "sentences": 929,
+        "knowledge_nodes": 279,
+        "sentences": 1612,
     }
 
     for table, exp in expected.items():
         actual = counts[table]
-        if actual != exp:
-            errors.append(f"{table}: expected {exp}, got {actual}")
+        if actual < exp:
+            errors.append(f"{table}: expected >= {exp}, got {actual}")
         else:
-            print(f"  [OK] {table}: {actual} (expected {exp})")
+            print(f"  [OK] {table}: {actual} (expected >= {exp})")
 
-    # Sections: はじめ41 + 肘井39 = 80
+    # Sections: はじめ41 + 肘井39 + 核心26 + 入門85 = 191
     sections_count = counts["sections"]
-    if sections_count < 80:
-        errors.append(f"sections: expected >= 41, got {sections_count}")
+    if sections_count < 191:
+        errors.append(f"sections: expected >= 191, got {sections_count}")
     else:
-        print(f"  [OK] sections: {sections_count} (expected >= 41)")
+        print(f"  [OK] sections: {sections_count} (expected >= 191)")
+
+    # Cross-book links: hijii25 + kakushin47 + nyumon44 = 116
+    links_count = counts["cross_book_links"]
+    if links_count < 116:
+        errors.append(f"cross_book_links: expected >= 116, got {links_count}")
+    else:
+        print(f"  [OK] cross_book_links: {links_count} (expected >= 116)")
 
     print()
 

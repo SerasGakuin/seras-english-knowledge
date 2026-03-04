@@ -265,7 +265,7 @@ sentences:
     section_id: "Kaku_18a"
     page: "p.262"
     role: "example"
-    english: "Ms. Oka is the taller of the two women standing by the window."
+    english: "Ms.Oka is the taller of the two women standing by the window."
     japanese: "岡さんは、窓際に立っている2人の女性のうち背が高いほうです。"
     sentence_structures:
       overall: "S V C M"

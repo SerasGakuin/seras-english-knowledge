@@ -1,0 +1,263 @@
+# 参考書間リンク: 英文法の核心 ↔ はじめの英文読解ドリル / 肘井の読解のための英文法
+#
+# link_type:
+#   same_concept: ほぼ同じ知識を扱っている
+#   extends:      一方が他方を詳細化・発展させている
+#   prerequisite: 一方が他方の前提知識になっている
+
+cross_book_links:
+  # ==========================================================
+  # kakushin ↔ hajime: same_concept（文の要素・文型）
+  # ==========================================================
+  - source_node: "kvt-001"
+    target_node: "strc-001"
+    link_type: "same_concept"
+    notes: "文の要素SVOCM — 核心は3フェイズ（品詞→句・節→文型）、はじめはSVOCMの定義"
+
+  - source_node: "kvt-002"
+    target_node: "strc-006"
+    link_type: "same_concept"
+    notes: "自動詞/他動詞の判別 — 核心は「何を？テスト」、はじめは品詞による文型判断"
+
+  - source_node: "kvt-003"
+    target_node: "strc-007"
+    link_type: "same_concept"
+    notes: "第1・第2文型 — 核心はSV/SVCの特徴と動詞の意味予測、はじめは5文型の意味"
+
+  - source_node: "kvt-004"
+    target_node: "strc-014"
+    link_type: "same_concept"
+    notes: "第4文型SVOO — 核心は「与える/奪う」の意味予測、はじめはSVOO動詞リスト"
+
+  - source_node: "kvt-005"
+    target_node: "strc-015"
+    link_type: "same_concept"
+    notes: "第5文型SVOC（使役・知覚動詞） — 両書ともSVOC動詞を体系化"
+
+  - source_node: "kvt-006"
+    target_node: "vtyp-007"
+    link_type: "same_concept"
+    notes: "SVOCの発展動詞（SV人to~・help） — はじめはSVO+to do動詞リスト"
+
+  # ==========================================================
+  # kakushin ↔ hajime: same_concept（準動詞）
+  # ==========================================================
+  - source_node: "kjd-001"
+    target_node: "clau-004"
+    link_type: "same_concept"
+    notes: "不定詞の3用法判別 — 核心は名詞的・形容詞的・副詞的の体系化、はじめは名詞句の構造"
+
+  - source_node: "kjd-002"
+    target_node: "clau-031"
+    link_type: "same_concept"
+    notes: "副詞的用法の4つの意味 — 核心は目的・結果・感情の理由・限定、はじめは目的と結果"
+
+  - source_node: "kjd-003"
+    target_node: "subj-003"
+    link_type: "same_concept"
+    notes: "不定詞の意味上の主語 — 核心はfor人to~・否定形・完了不定詞、はじめは主語付き不定詞の訳出"
+
+  - source_node: "kjd-007"
+    target_node: "clau-004"
+    link_type: "same_concept"
+    notes: "動名詞の基本 — 核心は名詞としての働き・バリエーション、はじめは名詞句の構造（動名詞）"
+
+  - source_node: "kjd-011"
+    target_node: "clau-034"
+    link_type: "same_concept"
+    notes: "分詞の形容詞的用法 — 核心は名詞修飾と-ing/p.p.判別、はじめは分詞の形容詞句"
+
+  - source_node: "kjd-014"
+    target_node: "clau-032"
+    link_type: "same_concept"
+    notes: "分詞構文の正体と見抜き方 — 核心は-ingの副詞的用法、はじめは分詞構文の構造"
+
+  - source_node: "kjd-015"
+    target_node: "clau-039"
+    link_type: "same_concept"
+    notes: "分詞構文の意味（位置で決まる） — はじめは分詞構文の訳出パターン"
+
+  - source_node: "kjd-016"
+    target_node: "subj-005"
+    link_type: "same_concept"
+    notes: "分詞構文のバリエーション（意味上の主語） — はじめは独立分詞構文"
+
+  # ==========================================================
+  # kakushin ↔ hajime: same_concept（句と節・接続詞・関係詞）
+  # ==========================================================
+  - source_node: "khs-014"
+    target_node: "clau-033"
+    link_type: "same_concept"
+    notes: "従属接続詞の副詞節 — 核心は形・前置詞との区別・主要接続詞、はじめは副詞節の構造"
+
+  - source_node: "khs-015"
+    target_node: "clau-007"
+    link_type: "same_concept"
+    notes: "名詞節をつくる接続詞（that/if/whether） — はじめは名詞節の構造（接続詞that/whether/if）"
+
+  - source_node: "khs-016"
+    target_node: "clau-040"
+    link_type: "same_concept"
+    notes: "so~that構文 — 核心は結果/程度・目的の判別、はじめはso/such...that構文"
+
+  - source_node: "kta-016"
+    target_node: "clau-029"
+    link_type: "same_concept"
+    notes: "関係代名詞の基本 — 核心はマクロ・ミクロの視点・格変化、はじめは関係代名詞の4格"
+
+  - source_node: "kta-017"
+    target_node: "clau-030"
+    link_type: "same_concept"
+    notes: "関係代名詞の省略・所有格・前置詞＋関係代名詞 — はじめは前置詞+関係代名詞の形容詞節"
+
+  - source_node: "kta-018"
+    target_node: "clau-036"
+    link_type: "same_concept"
+    notes: "関係副詞と完全/不完全の判別 — はじめは関係副詞の形容詞節と書き換え"
+
+  - source_node: "kta-020"
+    target_node: "clau-005"
+    link_type: "same_concept"
+    notes: "関係代名詞whatと接続詞thatの区別 — はじめは名詞節の構造（関係代名詞what）"
+
+  # ==========================================================
+  # kakushin ↔ hajime: same_concept（構文・テクニック）
+  # ==========================================================
+  - source_node: "kta-004"
+    target_node: "vtyp-019"
+    link_type: "same_concept"
+    notes: "受動態の核心 — 核心は形のバリエーションと使う理由、はじめは受動態の文型別変換パターン"
+
+  - source_node: "kta-007"
+    target_node: "vtyp-020"
+    link_type: "same_concept"
+    notes: "byを使わない受動態（4分類の前置詞） — はじめはSVO+前置詞句型の受動態変換パターン"
+
+  - source_node: "khs-013"
+    target_node: "read-011"
+    link_type: "same_concept"
+    notes: "等位接続詞 — 核心は2種類の区別・andの構造、はじめは並列と共通のパターン"
+
+  # ==========================================================
+  # kakushin ↔ hajime: extends
+  # ==========================================================
+  - source_node: "kjd-004"
+    target_node: "clau-004"
+    link_type: "extends"
+    notes: "核心はto不定詞の「未来志向」とtoをとる動詞3分類を体系化。はじめは名詞句の構造"
+
+  - source_node: "kjd-008"
+    target_node: "clau-004"
+    link_type: "extends"
+    notes: "核心は-ingをとる動詞の3イメージ（反復/中断/逃避）を体系化。はじめは動名詞の名詞句"
+
+  - source_node: "kvt-013"
+    target_node: "clau-033"
+    link_type: "extends"
+    notes: "核心は仮定法の5公式を体系化。はじめは副詞節の構造（ifを含む）"
+
+  - source_node: "kta-008"
+    target_node: "clau-028"
+    link_type: "extends"
+    notes: "核心は比較の3段階と形ルールを詳細に体系化。はじめは形容詞句の構造に比較の例を含む"
+
+  # ==========================================================
+  # kakushin ↔ hijii: same_concept
+  # ==========================================================
+  - source_node: "kvt-001"
+    target_node: "hsv-000"
+    link_type: "same_concept"
+    notes: "文の要素の基礎概念 — 核心は3フェイズ、肘井はSVの発見"
+
+  - source_node: "kvt-004"
+    target_node: "hvp-001"
+    link_type: "same_concept"
+    notes: "第4文型SVOO — 両書ともSVOOの構造と動詞リスト"
+
+  - source_node: "kvt-005"
+    target_node: "hvp-002"
+    link_type: "same_concept"
+    notes: "第5文型SVOC（使役・知覚動詞） — 両書ともSVOCの使役・知覚を扱う"
+
+  - source_node: "kvt-006"
+    target_node: "hvp-003"
+    link_type: "same_concept"
+    notes: "SVOCの発展動詞（SV人to~） — 肘井はSVO to do型"
+
+  - source_node: "kjd-001"
+    target_node: "hid-001"
+    link_type: "same_concept"
+    notes: "不定詞の3用法 — 核心は体系的判別、肘井はto doの識別テクニック"
+
+  - source_node: "kjd-007"
+    target_node: "hch-001"
+    link_type: "same_concept"
+    notes: "動名詞の名詞としての働き — 肘井は名詞句（動名詞・不定詞の名詞的用法）"
+
+  - source_node: "kjd-011"
+    target_node: "hid-002"
+    link_type: "same_concept"
+    notes: "分詞の名詞修飾と-ing/p.p.判別 — 肘井は-ingの識別（現在分詞の形容詞用法）"
+
+  - source_node: "kjd-014"
+    target_node: "hch-012"
+    link_type: "same_concept"
+    notes: "分詞構文 — 核心は-ingの副詞的用法、肘井は副詞句（分詞構文）"
+
+  - source_node: "khs-014"
+    target_node: "hch-007"
+    link_type: "same_concept"
+    notes: "従属接続詞の副詞節 — 核心は形・前置詞との区別、肘井は副詞節②（転用接続詞）"
+
+  - source_node: "khs-015"
+    target_node: "hch-003"
+    link_type: "same_concept"
+    notes: "名詞節をつくる接続詞 — 核心はthat/if/whether、肘井は名詞節（what/that/疑問詞）"
+
+  - source_node: "kta-016"
+    target_node: "hch-005"
+    link_type: "same_concept"
+    notes: "関係代名詞 — 核心はマクロ・ミクロの視点、肘井は形容詞節（関係代名詞・関係副詞）"
+
+  - source_node: "kta-020"
+    target_node: "hch-003"
+    link_type: "same_concept"
+    notes: "関係代名詞whatと接続詞thatの区別 — 肘井は名詞節（what/that/疑問詞の名詞節）"
+
+  - source_node: "kta-021"
+    target_node: "hco-010"
+    link_type: "same_concept"
+    notes: "複合関係詞(-ever) — 両書とも-everの形・意味・用法を扱う"
+
+  - source_node: "kta-004"
+    target_node: "hvp-011"
+    link_type: "same_concept"
+    notes: "受動態 — 核心はby以外の前置詞4分類、肘井はby以外の前置詞を使う受動態"
+
+  - source_node: "kta-008"
+    target_node: "hco-008"
+    link_type: "same_concept"
+    notes: "比較の3段階の形とルール — 肘井は比較（原級・比較級・最上級）"
+
+  - source_node: "kta-011"
+    target_node: "hco-009"
+    link_type: "same_concept"
+    notes: "no比較級than~の攻略法 — 肘井は比較（慣用表現）"
+
+  # ==========================================================
+  # kakushin ↔ hijii: extends
+  # ==========================================================
+  - source_node: "kjd-012"
+    target_node: "hid-002"
+    link_type: "extends"
+    notes: "核心は感情動詞の-ing/p.p.使い分けを詳細化。肘井は-ingの識別（動名詞/進行形）"
+
+  - source_node: "kvt-008"
+    target_node: "hch-007"
+    link_type: "extends"
+    notes: "核心は時・条件を表す副詞節の現在形ルールを詳細化。肘井は副詞節の概念"
+
+  - source_node: "kvt-013"
+    target_node: "hco-011"
+    link_type: "extends"
+    notes: "核心は仮定法の5公式を体系化。肘井は仮定法if節の倒置"

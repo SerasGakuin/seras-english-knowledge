@@ -158,6 +158,7 @@ knowledge_nodes:
       (2) 範囲のof/in使い分け: of＝複数を示す語句（数字・all・代名詞・the year）、in＝場所・集団（the world, family等）。
       [図表: 表 — 最上級の範囲 of/in の使い分け（p.257）]
       (3) the最上級 名詞 that I have ever p.p.「今まで〜した中で一番の名詞だ」
+      参考書内参照: →p.11「theの解説」（テーマ01 冠詞）
 
   - id: "kta-009"
     name: "比較の重要表現（書き換え・実質最上級・強調）"
@@ -241,6 +242,291 @@ knowledge_nodes:
       ■ noとnotの違いまとめ
       no = 「矢印2つ」（①逆+②同じ）→ 感情・主張が入る
       not = 「除外」→ 普通に直訳するだけ
+
+  # === Kaku_19: 疑問詞 ===
+  - id: "kta-013"
+    name: "疑問詞の3品詞と入試表現（品詞判別・What is S like?・How）"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      核心: 疑問詞の品詞（代名詞・形容詞・副詞）を区別する
+      前提知識との差分: 中学では「what=何、where=どこ」と訳語中心。高校では「品詞」を意識して捉え直す。この感覚が関係詞の基礎になる。
+      ■ 疑問代名詞（who/whom/whose/which/what）
+      名詞・代名詞と同じくS・O・Cになる。
+      whatの後には「名詞が欠けている」感覚が大切（doの目的語が文頭に出たなど）。
+      What made you so angry?ではwhatが主語。
+      ■ 疑問形容詞（which/what）
+      直後の名詞を修飾する形容詞の働き。"what + 名詞" "which + 名詞"。
+      What kind of jobのように、疑問形容詞+名詞で1つの名詞のカタマリになる。
+      ■ 疑問副詞（when/where/why/how）
+      副詞の働き（名詞以外を修飾）。後ろに完全な形がくる（名詞が欠けない）。
+      この感覚が関係副詞の基礎になる。
+      ■ What is S like?「Sってどんな感じ？」
+      whatは疑問代名詞（後ろに名詞欠落）、likeは前置詞（〜のような）。
+      元はS is like 名詞で、名詞→whatに変化して文頭へ。
+      What is it like to~?「〜するってどんな感じ？」: itは仮主語、to~が真主語。
+      ■ セットのHow＝「程度」
+      How + 形容詞・副詞のセットで「どのくらい～か」。
+      [図表: 表 — How+形容詞・副詞の例（How long/How old/How much/How far/How soon/How often）（p.279）]
+      How soonは「あとどれくらいで」。答え方: In ten minutes.のように「経過のin（〜後に）」を使う。×「〜以内に」ではない。
+      ■ 単独のHow＝「方法・状態」
+      「方法（どのような方法で）」: How do I get to~?
+      「状態（どのような状態で）」: How are you?
+
+  - id: "kta-014"
+    name: "疑問詞を使った提案表現と「なぜ？」のバリエーション"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      ■ whyを使った提案表現（反語の発想）
+      [図表: 表 — why提案3パターン（①Why don't you~?「〜したらどう？」②Why don't we~?「〜しようよ」③Why not~?「①②どちらの意味でも使える」）（p.280）]
+      すべて反語の発想: 「なぜ〜しないの→いや、すべきだから〜したら？」。
+      ■ whyを使わない提案表現
+      ・Would you like to~?（直訳「〜したいですか」→「〜しませんか」）
+      ・What do you say to -ing?（動名詞の慣用表現）
+      ・How about -ing?「〜するのはどう？」
+      注意: How about~の後は名詞・動名詞(-ing)。原形は不可。
+      参考書内参照: →p.208「動名詞の慣用表現」（テーマ14 動名詞）
+      ■ why以外の「なぜ？」
+      ・How come SV?「どうしてSはVするの？」: SVの語順（普通の疑問文と違う）。
+      　元はHow did it come that SV?で省略後にthat以下のSVが残った。How+comeのセットではない。
+      ・What VS~for?「何のためにVするの？」: 普通の疑問文なのでVSの語順。
+
+  - id: "kta-015"
+    name: "間接疑問文・否定疑問文・付加疑問文"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      ■ 間接疑問文
+      普通の文の中に疑問文を埋め込んだもの。
+      最重要ルール: 間接疑問文では倒置が起きない（普通の語順SVのまま）。
+      ×when does the movie start → ◎when the movie starts
+      長文読解では目的語が「名詞のカタマリになる」ことも重要。
+      ■ 疑問詞+to~「疑問詞～すべきか」
+      名詞のカタマリをつくる。what to do「何をすべきか」/ where to live「どこに住むべきか」/ how to~「〜の仕方」。
+      疑問形容詞+名詞+to~の形もある: what clothes to wear / which dress to buy。
+      疑問詞+to~ = 疑問詞 S should~（元は間接疑問文→名詞のカタマリ）。
+      ■ 否定疑問文
+      Don't you~?のようにnotを伴う疑問文。
+      攻略法: notを無視する。Don't you like~? → Do you like~?に脳内変換して答える。
+      英語は「事実に合わせる」: 肯定の事実→Yes、否定の事実→No。日本語は「相手に合わせる」ので逆になる。
+      ■ 付加疑問文
+      文末に "～, 動詞＋主語?" を付加。主節の肯定/否定を入れ替え、主語は代名詞に変換。
+      ①主節が肯定→否定をくっつける: This picture is beautiful, isn't it?
+      ②主節が否定→肯定をくっつける: You didn't sleep, did you?
+      ■ 命令文・Let'sの付加疑問文（特殊ルール）
+      命令文, will you?「〜してくれるかな？」: 肯定・否定に関係なく常にwill you?。
+      Let's~, shall we?「〜しましょうね」: Shall we~?=Let's~の書き換え。
+
+  # === Kaku_21a: 関係詞（純粋関係詞グループ: 関係代名詞・所有格・前置詞＋関係代名詞・that） ===
+  - id: "kta-016"
+    name: "関係代名詞の基本（マクロ・ミクロの視点・格変化・2文接続・構造把握）"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      核心: 「何節か？」「完全か、不完全か？」という2つの視点（マクロ・ミクロ）から関係詞を攻略する
+      前提知識との差分: 中学では「空所の直後に動詞があれば主格、主語＋動詞があれば目的格」で解けてしまう。高校範囲では関係副詞も出てくるため、その発想を一度ゼロにして「構造（完全・不完全）」から判断しなければならない。関係詞攻略のカギは関係代名詞にある。
+      ■ マクロの視点: 文全体の中で「何節をつくるの？」
+      関係詞を3つの派閥（グループ）に分けて考える:
+      (1) 純粋関係詞グループ → 形容詞節をつくる（関係代名詞who/which/whom/that/whose + 関係副詞when/where/why/how + 前置詞＋関係代名詞）
+      (2) whatグループ → 名詞節をつくる（関係代名詞what / 関係形容詞what）
+      (3) -everグループ → 形容詞節だけはつくらない（名詞節 or 副詞節）
+      [図表: 表 — 関係詞3派閥の分類と特徴（p.300-301）]
+      ■ ミクロの視点: 関係詞節の中で「後ろは完全 or 不完全？」
+      関係代名詞 → 後ろは不完全（名詞が欠ける）
+      関係副詞 → 後ろは完全
+      前置詞＋関係代名詞 → 後ろは完全
+      ■ 関係代名詞は「形容詞の働き」
+      関係代名詞の働きは「直前の名詞を修飾する」こと = 形容詞節をつくる。
+      関係代名詞自体には「日本語訳」は存在しない。「〜するところの」という訳は応急処置にすぎず、「働き」を意識するのが本質。
+      [図表: 表 — 関係代名詞の格変化（人: who/whom/whose、物: which/which/whose）（p.302）]
+      ※ whose以外（who・whom・which）は「thatで代用可能」
+      ■ 2つの文をつなげる手順
+      ① 探して、変える: 同じものを指す語句を探して下線を引き、代名詞のほうを関係代名詞に変換する
+      ② 動かして、くっつける: 関係代名詞を文頭へ移動、先行詞（最初に下線を引いた名詞）の直後にくっつける
+      [図表: 表 — 2文接続の手順（p.302）]
+      ■ 単純接続パターン（先行詞が文末付近）
+      主格: I have an aunt who lives in Kobe.（Sheが主格→who）
+      目的格: These are the cookies which he made.（themが目的格→which、文頭へ移動必要、後ろに名詞が欠ける）
+      ■ 割り込みパターン（先行詞が文の途中）
+      主格: The watch which belongs to my dad is broken.（関係詞カタマリが文の途中に割り込む）
+      目的格: The book which Minami is reading now is a romance novel.
+      ■ 構造把握の方法
+      ① 関係詞を見た瞬間、[　]がスタート
+      ② 2個目の動詞の直前で[　]を閉じる（2個目がなければピリオドまで）
+      [図表: 表 — 形容詞節の構造把握方法（p.306-307）]
+      動詞のカウント: 関係詞が出たらカウント開始（前の動詞はノーカウント）。動詞のカタマリ（進行形・完了形・不定詞・受動態）は1つの動詞扱い。
+      ■ 主格の応用: whoの後ろにSVがくる形
+      "( ) SV v" の形 → that節の中のSが欠けているパターン。
+      例: the one ( ) I think rescued the kitten → I think {that} φ rescued... → rescuedの主語が欠けている → 主格whoが正解（立命館大）
+      「I thinkは挿入」という解法は完全なこじつけ。挿入なら前後にコンマが必要（〜, I think, 〜の形）。
+      参考書内参照: →p.174「後置修飾は英語の大きな特徴」（テーマ12 不定詞）
+      参考書内参照: →p.72「他動詞」（テーマ07 文型）
+
+  - id: "kta-017"
+    name: "関係代名詞の省略・所有格whose・前置詞＋関係代名詞・that"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      核心: 「名詞＋SV」を見たら省略、前置詞＋関係代名詞は後ろが「完全」、thatは「前置詞・コンマの前にこない」
+      ■ 目的格の関係代名詞は省略可能
+      省略できるのは「目的格」だけ。
+      見抜き方: 「名詞+SV」を見たら関係代名詞の省略と判断。
+      省略されても後ろは「目的語が欠けた不完全な形」のまま。
+      [図表: 表 — 関係代名詞が省略されるプロセス（p.309-310）]
+      例: This is the toy Andy bought φ yesterday. → toyの後にSV（Andy bought）が来る→省略あり
+      ■ 所有格を使って文をつなげる
+      手順は主格・目的格と同じ。所有格（her/his/my等）→ whoseに変換。
+      "whose 名詞" が1つのカタマリなので、まとめて前に出す。
+      例: She is a writer whose novels everyone knows.（her novels → whose novels）
+      ※ 文頭のSheも「同じ人」を指すが下線は引かない。代名詞の後に関係代名詞は続かない（代名詞は修飾されない。× pretty sheの形はありえない）。
+      ■ whoseと結びつきやすい名詞
+      whoseの直後には「無冠詞の名詞」がくる（元が所有格my/your等なので冠詞がつかない）。
+      入試頻出: 「何かの一部」を表す名詞。
+      家族の一部: father/mother/parents/brother/sister/son/daughter
+      体の一部: eyes/hair/ears/nose/name
+      [図表: 表 — whoseと結びつきやすい名詞（p.311）]
+      ■ 「前置詞＋関係代名詞」の考え方
+      in which / of whom のような形。2つの文を1つにする作業で理解。
+      2通りの発想:
+      ① whichだけ前に出す → 前置詞が後ろに残る → 後ろは「不完全」
+      ② in whichをセットで前に出す → 後ろは「完全」（副詞句ごと移動するので文に影響なし）
+      例: Yokohama is the city which he was born in φ. （不完全）
+          Yokohama is the city in which he was born. （完全）
+      意味は同じだが、構造は決定的に違う。
+      [図表: 表 — 関係代名詞vs前置詞＋関係代名詞の構造の違い（p.313）]
+      ■ 前置詞＋関係代名詞の注意点3つ
+      ☑ 前置詞の後は「目的格」: ×with who → ◎with whom、×with that
+      ☑ 「前置詞＋関係代名詞」では省略不可: ×in which省略（inだけ残って変な形に）。前置詞が後ろに残った場合は省略OK。
+      ☑ 「前置詞から」形容詞節になる: ◎the city [in which he was born]。×the city in [which he was born]
+      ■ 関係代名詞that
+      thatは「オールマイティー」: whose以外ならthatでOK（主格・目的格どちらも代用可能）。トランプのジョーカーのイメージ。
+      ■ thatが使えない2つのケース
+      ① "前置詞+that" はダメ: ×for that → ◎for which
+      ② 「非制限用法（直前にコンマを置く用法）」はダメ
+      まとめ: 「関係代名詞thatの前には前置詞・コンマはこない」
+      参考書内参照: →p.319「完全・不完全の詳細判別」（テーマ21b）
+      参考書内参照: →p.322「非制限用法」（テーマ21b）
+
+  # === Kaku_21b: 関係詞（関係副詞・判別・制限/非制限） ===
+  - id: "kta-018"
+    name: "関係副詞と完全/不完全の判別"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      核心: 関係代名詞と関係副詞の判別は「後ろの形（完全 or 不完全）」で決める
+      ■ 関係副詞の基本
+      関係副詞（where/when/why/how）は「形容詞節」をつくり、後ろは「完全」な形がくる。
+      「関係副詞だから副詞節」と考えるのは誤り。関係代名詞と同じく形容詞節。
+      元々「副詞（there/then等）」だったものが関係副詞に変化し、副詞が移動しても文構造に影響がないため後ろは完全。
+      ■ 関係副詞の使い分け
+      [図表: 表 — 関係副詞4つの使い分け（where=場所/when=時間/why=理由reason/how=様態way）（p.317）]
+      関係副詞は元々「副詞」なので「格の変化」はない。代名詞に格変化はあるが副詞にはない。
+      ■ 関係副詞の省略ルール3つ
+      ① 関係副詞は省略できる（目的格と同様）
+      ② 先行詞を省略できる（ただし両方省略はNG）
+      ③ the way howは並ばない（×the way how〜）→ the wayかhowのどちらかを必ず省略
+      理由: howの先行詞がwayなのは明らかすぎて「そのやり方の方法」のようにクドくなるため。
+      This is how〜「このようにして〜」（the wayが省略された決まり文句。直訳「これが〜する方法だ」）
+      ■ 判別の核心: 「前」ではなく「後ろ」に注目
+      中学では「前を見て先行詞が人ならwho、物ならwhich」だが、高校では「後ろの形（完全 or 不完全）」で判断。
+      [図表: 表 — 判別3パターン（①関係代名詞+不完全 ②関係副詞+完全 ③前置詞+関代+完全）（p.319）]
+      ■ 「不完全」のパターン（これを先に理解するほうが確実）
+      (1) Sが欠ける: 〜( )V の形 → 主格の関係代名詞
+      (2) that節中のSが欠ける: 〜( )SV v の形 → 主格の関係代名詞
+      (3) 他動詞のOが欠ける: 〜( )SV(他動詞) の形 → 目的格の関係代名詞
+      (4) 前置詞のOが欠ける: 〜( )〜前置詞. の形 → 目的格の関係代名詞
+      ※「関係詞が苦手」な人は「他動詞の感覚が弱い」だけ。
+      ■ 「完全」のパターン（不完全じゃなければ全部完全）
+      (1) 自動詞がくる: 第1文型SV / 第2文型SVC
+      (2) 他動詞でOあり / 受動態: 第3文型SVO完成 / S be+p.p.（名詞不要で完全）
+      [図表: 表 — 関係代名詞と関係副詞の共通点（形容詞節）と相違点（不完全vs完全）（p.320）]
+      参考書内参照: →p.72「他動詞」（テーマ07 文型）
+
+  - id: "kta-019"
+    name: "制限用法と非制限用法（コンマの有無で意味が変わる）"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      核心: コンマの有無（制限用法 vs 非制限用法）で関係詞節の意味が変わる。
+      ■ 制限用法と非制限用法
+      制限用法（限定用法）: 普通の使い方。名詞を「制限・限定」する。用語を覚える必要はなく、今までの普通の使い方。
+      非制限用法: 関係詞の直前にコンマを置く形（〜, who ...）。前の名詞を「制限しない」で、コンマの後で「補足説明」を加える感覚。「〜で、そしてそれは（その人は）……」という感じ。
+      ■ コンマの有無で意味が変わる
+      He has two sons, who went to college.（非制限用法: 息子は2人いて、その2人とも大学に行った。他に息子はいない）
+      He has two sons who went to college.（制限用法: 大学に行った息子が2人いる。大学に行かなかった息子がいる可能性大）
+      ■ 非制限用法whichの特殊用法
+      whichが非制限用法で使われるとき限定: 直前の「文・文の一部」を先行詞にできる。
+      ある文に対しての「補足説明・コメント」と考えればよい。
+      She passed the exam, which was a big surprise.（whichの先行詞は前の文全体）
+      whichの意味は厳密には「彼女が試験に合格したことは」だが、訳すときは「そのことは・それは」でOK。
+      参考書内参照: →p.315「thatが使えない2つのケース②非制限用法」（テーマ21a）
+
+  # === Kaku_21c: 関係詞（what・-everグループ・入試問題） ===
+  - id: "kta-020"
+    name: "関係代名詞whatと接続詞thatの区別（名詞節の後ろの形）"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      ■ 関係代名詞whatの2つの特徴（マクロ・ミクロの視点）
+      (1) マクロの視点: 「名詞節」をつくる
+      「先行詞を含む」=「名詞を含む」→「名詞のカタマリになる」。名詞節をつくるという発想のほうが英文を読むとき直観的にわかる。
+      the thing which I want → what I want（the thingを含む名詞のカタマリ）
+      名詞のカタマリなので当然「もの・こと」と訳せる。
+      (2) ミクロの視点: 後ろには「不完全」がくる
+      あくまで「関係代名詞」なので後ろは不完全な形。
+      [図表: 表 — 純粋関係詞グループとwhatの比較（形容詞節vs名詞節、どちらも不完全）（p.323）]
+      ■ 接続詞thatとの区別
+      共通点: どちらも名詞節をつくり「こと」と訳せる
+      相違点: 後ろの形が違う
+      [図表: 表 — what vs that（what=名詞節+不完全 / that=名詞節+完全）（p.324）]
+      例: What I really like is ... → likeの目的語が欠けている（不完全）
+      例: That he will come here is certain. → he will come hereは完全な形（comeは自動詞、hereは副詞）
+      ■ what I am型の慣用表現
+      what I am「現在の私」（直訳「今現在、私があるところのもの」）/ what I was・what I used to be「過去の私」/ what she looks like「彼女の外見」（直訳「彼女が見えるところのもの」）
+      She is not what she was.「彼女は昔の彼女ではない」（変わっちゃったと意訳も可）
+      My parents have made me what I am.「両親のおかげで今の私がある」（make OCの形）
+      ■ その他の慣用表現（副詞的に使われる）
+      what we[you] call・what is called「いわゆる〜」/ what is more「さらに」/ what is better[worse]「さらに良い[悪い]ことに」
+      My sister is (what is called) a bookworm.「ウチの妹はいわゆる本の虫だ」
+      副詞のように使われるので、( )で括って考えればOK。入試ではこの品詞の意識までは問われない。
+
+  - id: "kta-021"
+    name: "複合関係詞(-ever)の形・意味・分解"
+    category: "その他の重要単元"
+    priority: "P1"
+    notes: |
+      ■ 複合関係詞（-ever）の「形」
+      複合関係代名詞: whoever / whomever / whichever / whatever
+      複合関係副詞: whenever / wherever / however
+      ※thateverは存在しない。whyeverは存在するが一生見ない。
+      ■ マクロの視点: 「形容詞節だけはつくらない」
+      純粋関係詞=形容詞節、what=名詞節に対し、-ever=「形容詞節以外」（名詞節 or 副詞節）。
+      名詞節か副詞節かは暗記せず、英文の構造からその場で判断。
+      目的語の位置にあれば名詞節、SV,の後に余分なら副詞節。
+      ※複合関係副詞は厳密には副詞節のみだが、「形容詞節以外」と覚えればOK。
+      [図表: 表 — 複合関係代名詞と複合関係副詞の比較（何節/後ろの形）（p.327）]
+      ■ ミクロの視点: 後ろの形
+      複合関係代名詞→後ろは「不完全」、複合関係副詞→後ろは「完全」。
+      「複合」を取ってしまえば関係代名詞・関係副詞と同じ発想。
+      ■ 意味: 「譲歩」（たとえ〜でも）
+      [図表: 表 — 複合関係詞の訳し方一覧（名詞節/副詞節）（p.327）]
+      名詞節: 「たとえ〜でも、その人/それ」（名詞化して訳す）
+      副詞節: 「たとえ〜でも」
+      複合関係詞には「訳語がある」点が通常の関係詞と異なる。しかも疑問詞の訳し方に似ている。
+      [図表: 表 — 複合関係詞の特徴まとめ（p.329）]
+      ■ howeverの形に注意
+      However 形・副 sv, SV.「たとえどれくらい〜であっても」
+      直後に形容詞・副詞がくっつく形。howeverは「わがまま副詞」で形容詞・副詞を引っ張り出す。
+      形容詞（補語）が前に移動→後ろが「不完全に見える」形になるが、名詞が不足しているわけではない。
+      参考書内参照: →p.49「わがまま副詞」（テーマ05 副詞）
+      ■ 副詞節の分解: no matter + 疑問詞
+      副詞節をつくる場合: 3語（no matter 疑問詞）に分解可能。
+      whoever = no matter who / however = no matter how
+      ※複合関係詞はすべて（代名詞・副詞に関係なく）分解可能。
+      ■ 名詞節の分解: anyone who / anything that
+      名詞節をつくる場合: whoever = anyone who、whomever = anyone whom
+      前置詞byの後でもby whoever（×by whomever）→ 分解するとby anyone who worked...でwhoと動詞がつながるから。
 
 understanding_goals:
   # kta-001
@@ -338,6 +624,132 @@ understanding_goals:
   - node_id: "kta-012"
     seq: 3
     goal: "noとnotの違い（矢印2つ vs 除外）を説明できる"
+  # kta-013
+  - node_id: "kta-013"
+    seq: 1
+    goal: "疑問代名詞の後に「名詞が欠けている」感覚を説明できる"
+  - node_id: "kta-013"
+    seq: 2
+    goal: "疑問形容詞（which/what+名詞）と疑問代名詞の違いを判別できる"
+  - node_id: "kta-013"
+    seq: 3
+    goal: "疑問副詞の後に完全な形がくる理由を説明できる"
+  - node_id: "kta-013"
+    seq: 4
+    goal: "What is S like? の文構造（whatは疑問代名詞、likeは前置詞）を分析できる"
+  - node_id: "kta-013"
+    seq: 5
+    goal: "Howのセット使用（程度）と単独使用（方法・状態）を区別できる"
+  # kta-014
+  - node_id: "kta-014"
+    seq: 1
+    goal: "Why don't you~/Why don't we~/Why not~? の意味を反語の発想から説明できる"
+  - node_id: "kta-014"
+    seq: 2
+    goal: "whyを使わない提案表現（Would you like to~/How about -ing?/What do you say to -ing?）を使い分けられる"
+  - node_id: "kta-014"
+    seq: 3
+    goal: "How come SV? の語順がSVになる理由と由来を説明できる"
+  # kta-015
+  - node_id: "kta-015"
+    seq: 1
+    goal: "間接疑問文で倒置が起きない（SVの語順になる）ルールを適用できる"
+  - node_id: "kta-015"
+    seq: 2
+    goal: "疑問詞+to~が名詞のカタマリになることを理解し、文中の目的語を特定できる"
+  - node_id: "kta-015"
+    seq: 3
+    goal: "否定疑問文に対する答え方をnotを無視する方法で正しく処理できる"
+  - node_id: "kta-015"
+    seq: 4
+    goal: "付加疑問文の作り方（肯定↔否定入れ替え、主語を代名詞に変換）を適用できる"
+  - node_id: "kta-015"
+    seq: 5
+    goal: "命令文, will you? / Let's~, shall we? の形を正しく選べる"
+  # kta-016
+  - node_id: "kta-016"
+    seq: 1
+    goal: "関係詞の3派閥（純粋関係詞・what・-ever）が何節をつくるか説明できる"
+  - node_id: "kta-016"
+    seq: 2
+    goal: "関係代名詞の格変化表（人: who/whom/whose、物: which/which/whose）を正しく選べる"
+  - node_id: "kta-016"
+    seq: 3
+    goal: "2つの文を関係代名詞（主格・目的格）を使って1つにつなげられる"
+  - node_id: "kta-016"
+    seq: 4
+    goal: "関係詞を含む英文の形容詞節を[ ]でくくり、構造を把握できる"
+  - node_id: "kta-016"
+    seq: 5
+    goal: "( ) SV v の形で「that節の中のSが欠ける」パターンを見抜き、主格whoを選べる"
+  # kta-017
+  - node_id: "kta-017"
+    seq: 1
+    goal: "「名詞+SV」の形を見て関係代名詞の省略を見抜ける"
+  - node_id: "kta-017"
+    seq: 2
+    goal: "所有格whoseを使って2つの文を正しくつなげられる"
+  - node_id: "kta-017"
+    seq: 3
+    goal: "前置詞＋関係代名詞（in which等）の文と、whichだけ前に出す文の構造の違い（完全vs不完全）を説明できる"
+  - node_id: "kta-017"
+    seq: 4
+    goal: "関係代名詞thatが使えない2つのケース（前置詞+that、非制限用法）を判別できる"
+  # kta-018
+  - node_id: "kta-018"
+    seq: 1
+    goal: "関係副詞4つ（where/when/why/how）の先行詞を正しく対応づけられる"
+  - node_id: "kta-018"
+    seq: 2
+    goal: "関係副詞の後ろが「完全」になる理由を説明できる"
+  - node_id: "kta-018"
+    seq: 3
+    goal: "the way howが並ばない理由と省略ルールを適用できる"
+  - node_id: "kta-018"
+    seq: 4
+    goal: "後ろの形（完全 or 不完全）から関係代名詞と関係副詞を判別できる"
+  - node_id: "kta-018"
+    seq: 5
+    goal: "不完全の4パターン（S欠/that節S欠/他動詞O欠/前置詞O欠）を即座に識別できる"
+  # kta-019
+  - node_id: "kta-019"
+    seq: 1
+    goal: "制限用法と非制限用法の意味の違いを説明できる"
+  - node_id: "kta-019"
+    seq: 2
+    goal: "コンマの有無で解釈が変わる英文を正しく和訳できる"
+  - node_id: "kta-019"
+    seq: 3
+    goal: "非制限用法whichが文・文の一部を先行詞にするパターンを理解できる"
+  # kta-020
+  - node_id: "kta-020"
+    seq: 1
+    goal: "関係代名詞whatが名詞節をつくることを「先行詞を含む」から説明できる"
+  - node_id: "kta-020"
+    seq: 2
+    goal: "what（不完全）vs that（完全）の判別を後ろの形から行える"
+  - node_id: "kta-020"
+    seq: 3
+    goal: "what I am型の慣用表現の意味を直訳から導出できる"
+  - node_id: "kta-020"
+    seq: 4
+    goal: "what is called / what is more などの副詞的慣用表現を識別できる"
+  # kta-021
+  - node_id: "kta-021"
+    seq: 1
+    goal: "複合関係詞が「形容詞節だけはつくらない」ことを説明できる"
+  - node_id: "kta-021"
+    seq: 2
+    goal: "複合関係代名詞と複合関係副詞の後ろの形の違いを判別できる"
+  - node_id: "kta-021"
+    seq: 3
+    goal: "複合関係詞の意味を「譲歩（たとえ〜でも）」で統一的に理解できる"
+  - node_id: "kta-021"
+    seq: 4
+    goal: "However 形・副 sv, SV. の形を正しく組み立てられる"
+  - node_id: "kta-021"
+    seq: 5
+    goal: "-everを分解（no matter / anyone who等）して名詞節と副詞節を判別できる"
   # kta-004
   - node_id: "kta-004"
     seq: 1
@@ -585,6 +997,179 @@ check_points:
     seq: 4
     question: "be known to/for/asの使い分けは？"
     answer: "to〜「〜に知られている」/ for〜「〜で知られている」（理由のfor）/ as〜「〜として知られている」。"
+  # kta-013
+  - node_id: "kta-013"
+    seq: 1
+    question: "What do you want to do? でwhatの後に何が欠けているか？"
+    answer: "doの目的語が欠けている。doは他動詞で本来後ろに名詞がくるが、疑問代名詞whatに変化して文頭に出た。"
+  - node_id: "kta-013"
+    seq: 2
+    question: "What kind of jobのwhatは疑問代名詞か疑問形容詞か？"
+    answer: "疑問形容詞。直後の名詞(kind of job)を修飾している。疑問代名詞なら単独でS/O/Cになる。"
+  - node_id: "kta-013"
+    seq: 3
+    question: "疑問副詞whereの後にはなぜ完全な形がくるのか？"
+    answer: "副詞は名詞以外を修飾するので、名詞が欠ける必要がない。この感覚は関係副詞の基礎になる。"
+  - node_id: "kta-013"
+    seq: 4
+    question: "What is S like? のlikeの品詞は何か？"
+    answer: "前置詞（「〜のような」）。元はS is like 名詞で、名詞→疑問代名詞whatに変化して文頭に出た。"
+  - node_id: "kta-013"
+    seq: 5
+    question: "How soonの答え方で使う前置詞は何か？"
+    answer: "経過のin（In ten minutes.「あと10分で」）。×「〜以内に」ではない。"
+  # kta-014
+  - node_id: "kta-014"
+    seq: 1
+    question: "Why not take a rest? はどういう意味か？"
+    answer: "「休憩をとったらどう？」。反語で「なぜ休憩をとらないの？→とったら？」。Why don't you~/Why don't we~のどちらの意味でも使える。"
+  - node_id: "kta-014"
+    seq: 2
+    question: "How about~の後にくる形は？原形は使えるか？"
+    answer: "名詞・動名詞(-ing)。原形は不可（×How about stay）。"
+  - node_id: "kta-014"
+    seq: 3
+    question: "How come SV? の語順がSVになる理由は？"
+    answer: "元はHow did it come that SV?で、省略後にthat以下のSVだけが残った。How+comeのセットではない。"
+  - node_id: "kta-014"
+    seq: 4
+    question: "What do you say to -ing? のtoの後が-ingになる理由は？"
+    answer: "このtoは前置詞（不定詞のtoではない）。前置詞の後は名詞・動名詞がくる。"
+  # kta-015
+  - node_id: "kta-015"
+    seq: 1
+    question: "Do you know when does the movie start? のどこが間違いか？"
+    answer: "間接疑問文は倒置が起きない。×does the movie start→◎the movie starts。SVの語順にする。"
+  - node_id: "kta-015"
+    seq: 2
+    question: "疑問詞+to~は何と書き換えられるか？"
+    answer: "疑問詞 S should~。元は間接疑問文なので名詞のカタマリになる。"
+  - node_id: "kta-015"
+    seq: 3
+    question: "Don't you like~? にYesと答えたとき、好きか嫌いか？"
+    answer: "好き。notを無視してDo you like~?として答える。英語は事実に合わせてYes/Noを選ぶ。"
+  - node_id: "kta-015"
+    seq: 4
+    question: "命令文の付加疑問文はどう作る？"
+    answer: "命令文, will you?「〜してくれるかな？」。肯定・否定に関係なく常にwill you?。"
+  - node_id: "kta-015"
+    seq: 5
+    question: "Let's~の付加疑問文はどう作る？"
+    answer: "Let's~, shall we?「〜しましょうね」。Shall we~?=Let's~の書き換え。"
+  # kta-016
+  - node_id: "kta-016"
+    seq: 1
+    question: "関係代名詞の後ろは完全？不完全？理由は？"
+    answer: "不完全。関係代名詞は名詞（代名詞）から変化したもの。元々あった名詞が関係代名詞として前に移動するので、後ろは名詞が欠けた（ポコッと抜けた）不完全な形になる。"
+  - node_id: "kta-016"
+    seq: 2
+    question: "These are the cookies which he made. でwhichの後ろはなぜ不完全か？"
+    answer: "themがwhichに変わって前に出たから、madeの目的語が欠けている。×These are the cookies which he made them. のようにthemを残してはいけない。"
+  - node_id: "kta-016"
+    seq: 3
+    question: "割り込みパターン：The watch which belongs to my dad is broken. でなぜ×The watch is broken which...にならないか？"
+    answer: "関係代名詞は先行詞の「直後」にくっつけるのがルール。先行詞The watchの直後に割り込む形になる。"
+  - node_id: "kta-016"
+    seq: 4
+    question: "構造把握: 形容詞節の[ ]をどこで閉じるか？"
+    answer: "2個目の動詞の直前で閉じる。2個目の動詞が出てこなければピリオドまで。動詞のカタマリ（進行形・完了形・受動態等）は1つの動詞扱い。"
+  - node_id: "kta-016"
+    seq: 5
+    question: "the one ( ) I think rescued the kitten. にwhoとwhomどちらが入るか？"
+    answer: "who（主格）。I think {that} φ rescued...で、rescuedの主語φが欠けている。「I thinkは挿入だから消す」という解法は完全なこじつけ。"
+  # kta-017
+  - node_id: "kta-017"
+    seq: 1
+    question: "This is the toy Andy bought yesterday. で何が省略されているか？"
+    answer: "目的格の関係代名詞which（またはthat）。toy（名詞）+ Andy bought（SV）の形なので「名詞+SV→省略あり」と判断。boughtの目的語が欠けた不完全な形。"
+  - node_id: "kta-017"
+    seq: 2
+    question: "whoseと結びつきやすい名詞のパターンは？"
+    answer: "「何かの一部」を表す名詞。家族の一部（father/mother/parents/son/daughter）、体の一部（eyes/hair/ears/nose/name）。先行詞に「所有されている」ものがくる。whoseの直後には「無冠詞の名詞」がくる（所有格my/your等と同じ）。"
+  - node_id: "kta-017"
+    seq: 3
+    question: "Yokohama is the city which he was born in. と Yokohama is the city in which he was born. の構造の違いは？"
+    answer: "前者はwhichだけ前に出す → inの後ろが欠けて「不完全」。後者はin whichをセットで前に出す → 副詞句が移動しただけなので「完全」。意味は同じだが構造は決定的に違う。"
+  - node_id: "kta-017"
+    seq: 4
+    question: "「前置詞＋関係代名詞」で関係代名詞の省略はできるか？"
+    answer: "できない。×in ~~which~~ he was born → inだけ残って変な形に。ただし、前置詞が後ろに残った場合（which he was born in）は省略可能。"
+  - node_id: "kta-017"
+    seq: 5
+    question: "関係代名詞thatが使えない2つのケースは？"
+    answer: "① 前置詞+that はダメ（×for that → ◎for which）。② 非制限用法（直前にコンマ）はダメ。まとめ: thatの前には前置詞・コンマはこない。"
+  # kta-018
+  - node_id: "kta-018"
+    seq: 1
+    question: "関係副詞whereの後ろはなぜ「完全」になるのか？"
+    answer: "副詞there（= at it）がwhereに変化しただけ。副詞が移動しても文の要素は欠けない。完全・不完全は「名詞が欠けているかどうか」で判断する。"
+  - node_id: "kta-018"
+    seq: 2
+    question: "the way howは使えるか？なぜか？"
+    answer: "使えない。howの先行詞がwayなのは明らかすぎる（「そのやり方の方法」はクドい）。the wayかhowのどちらかを必ず省略する。"
+  - node_id: "kta-018"
+    seq: 3
+    question: "先行詞がa cityのとき、必ずwhereを使うか？"
+    answer: "使わない。「前（先行詞）」ではなく「後ろ（完全 or 不完全）」に注目する。後ろが不完全（S/O欠け）ならwhich、後ろが完全ならwhere（またはin which）。"
+  - node_id: "kta-018"
+    seq: 4
+    question: "～( ) I live. の空所にはwhereとwhichのどちらが入るか？"
+    answer: "where（または in which）。liveは自動詞で後ろは「完全」（第1文型SV）。"
+  - node_id: "kta-018"
+    seq: 5
+    question: "～( ) I visited. の空所にはwhereとwhichのどちらが入るか？"
+    answer: "which。visitedは他動詞で目的語が欠けた「不完全」な形。関係詞が苦手な人は「他動詞の感覚が弱い」だけ。"
+  # kta-019
+  - node_id: "kta-019"
+    seq: 1
+    question: "He has two sons, who went to college. と He has two sons who went to college. の意味の違いは？"
+    answer: "コンマあり（非制限用法）: 「息子が2人いて、2人とも大学に行った」（息子は2人だけ）。コンマなし（制限用法）: 「大学に行った息子が2人いる」（大学に行かなかった息子がいる可能性大）。"
+  - node_id: "kta-019"
+    seq: 2
+    question: "She passed the exam, which was a big surprise. のwhichの先行詞は何か？"
+    answer: "前の文全体（She passed the exam = 彼女が試験に合格したこと）。非制限用法のwhichのみ文・文の一部を先行詞にできる。訳すときは「そのことは・それは」でOK。"
+  - node_id: "kta-019"
+    seq: 3
+    question: "非制限用法（コンマ付き）でthatを使えるか？"
+    answer: "使えない。thatの前にはコンマはこない（p.315で学んだルール）。who, which, where, when等は非制限用法で使用可能。"
+  # kta-020
+  - node_id: "kta-020"
+    seq: 1
+    question: "関係代名詞whatと接続詞thatの共通点と相違点は？"
+    answer: "共通点: どちらも名詞節をつくり「こと」と訳せる。相違点: 後ろの形が違う。what=不完全（関係代名詞なので名詞が欠ける）、that=完全な文がくる。"
+  - node_id: "kta-020"
+    seq: 2
+    question: "What I really like is ... のwhatの後ろが不完全な理由は？"
+    answer: "likeは他動詞なので目的語が必要だが、その目的語が欠けている。whatは関係代名詞なので後ろは常に不完全な形になる。"
+  - node_id: "kta-020"
+    seq: 3
+    question: "what I am / what I was の意味は？ She is not what she was. をどう訳す？"
+    answer: "what I am「現在の私」、what I was・what I used to be「過去の私」。She is not what she was.「彼女は昔の彼女ではない」（=彼女は変わった）。"
+  - node_id: "kta-020"
+    seq: 4
+    question: "what is called の品詞的な働きは？ My sister is what is called a bookworm. でどう機能している？"
+    answer: "副詞のように使われる慣用表現。My sister is (what is called) a bookworm.のように括弧で括って考えればOK。意味は「いわゆる〜」。入試ではこの品詞の意識までは問われない。"
+  # kta-021
+  - node_id: "kta-021"
+    seq: 1
+    question: "複合関係詞は何節をつくるか？ 名詞節か副詞節かの判別方法は？"
+    answer: "「形容詞節だけはつくらない」＝名詞節 or 副詞節。判別は暗記ではなく英文構造からその場で判断。目的語の位置にあれば名詞節、SV,の後に余分ならば副詞節。"
+  - node_id: "kta-021"
+    seq: 2
+    question: "However 形・副 sv, SV. の形で後ろが不完全に見える理由は？"
+    answer: "形容詞（補語）がhoweverに引っ張り出されて前に移動したから。厳密には「名詞が不足」ではないので「不完全に見える」だけ。howeverは「わがまま副詞」に属する（→p.49）。"
+  - node_id: "kta-021"
+    seq: 3
+    question: "副詞節をつくる場合、複合関係詞はどう分解できる？"
+    answer: "3語（no matter + 疑問詞）に分解可能。whoever = no matter who、however = no matter how。複合関係詞はすべて（代名詞・副詞に関係なく）分解可能。"
+  - node_id: "kta-021"
+    seq: 4
+    question: "by whoever worked with him でwhomeverにならない理由は？"
+    answer: "分解するとby anyone who worked with himで、whoと動詞workedがつながるから。前置詞byの後だからといってwhomeverにはならない。"
+  - node_id: "kta-021"
+    seq: 5
+    question: "複合関係詞の意味の共通点は？ 名詞節と副詞節で訳し方はどう変わる？"
+    answer: "すべて「譲歩」（たとえ〜でも）の意味。名詞節なら「たとえ〜でも、その人/それ」と名詞化して訳す。副詞節なら「たとえ〜でも」。訳語がある点・疑問詞の訳し方に似ている点が通常の関係詞と異なる。"
 
 node_prerequisites:
   - node_id: "kta-009"
@@ -601,6 +1186,20 @@ node_prerequisites:
     prerequisite_id: "kta-004"
   - node_id: "kta-007"
     prerequisite_id: "kta-004"
+  - node_id: "kta-014"
+    prerequisite_id: "kta-013"
+  - node_id: "kta-015"
+    prerequisite_id: "kta-013"
+  - node_id: "kta-017"
+    prerequisite_id: "kta-016"
+  - node_id: "kta-018"
+    prerequisite_id: "kta-016"
+  - node_id: "kta-019"
+    prerequisite_id: "kta-018"
+  - node_id: "kta-020"
+    prerequisite_id: "kta-016"
+  - node_id: "kta-021"
+    prerequisite_id: "kta-020"
 
 knowledge_references:
   - node_id: "kta-001"
@@ -654,3 +1253,42 @@ knowledge_references:
     book: "英文法の核心"
     section_id: "Kaku_18b"
     pages: "p.269-271"
+  # Kaku_19
+  - node_id: "kta-013"
+    book: "英文法の核心"
+    section_id: "Kaku_19"
+    pages: "p.276-280"
+  - node_id: "kta-014"
+    book: "英文法の核心"
+    section_id: "Kaku_19"
+    pages: "p.280-281"
+  - node_id: "kta-015"
+    book: "英文法の核心"
+    section_id: "Kaku_19"
+    pages: "p.281-288"
+  # Kaku_21a
+  - node_id: "kta-016"
+    book: "英文法の核心"
+    section_id: "Kaku_21a"
+    pages: "p.300-309"
+  - node_id: "kta-017"
+    book: "英文法の核心"
+    section_id: "Kaku_21a"
+    pages: "p.309-315"
+  # Kaku_21b
+  - node_id: "kta-018"
+    book: "英文法の核心"
+    section_id: "Kaku_21b"
+    pages: "p.316-321"
+  - node_id: "kta-019"
+    book: "英文法の核心"
+    section_id: "Kaku_21b"
+    pages: "p.321-322"
+  - node_id: "kta-020"
+    book: "英文法の核心"
+    section_id: "Kaku_21c"
+    pages: "p.323-326"
+  - node_id: "kta-021"
+    book: "英文法の核心"
+    section_id: "Kaku_21c"
+    pages: "p.326-331"

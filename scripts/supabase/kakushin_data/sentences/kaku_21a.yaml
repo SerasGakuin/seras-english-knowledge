@@ -1,0 +1,108 @@
+# Kaku_21a: 関係詞（純粋関係詞グループ: 関係代名詞・所有格・前置詞＋関係代名詞・that）
+# 例文3 + CHECK3 + 入試1 = 7文
+
+sentences:
+  # === 例文 ===
+  - id: "kaku-21a-e01"
+    book: "英文法の核心"
+    section_id: "Kaku_21a"
+    page: "p.302"
+    role: "example"
+    english: "This is the Italian restaurant which opened last month."
+    japanese: "ここが先月オープンしたイタリアンレストランです。"
+    sentence_structures:
+      overall: "S V C [which V M]"
+      details: "This(S) is(V) the Italian restaurant(C) [which(主格) opened(V) last month(M)]."
+    notes: "関係代名詞whichが形容詞節をつくる基本例。whichに日本語訳は存在せず、前の名詞を修飾する「働き」があるだけ。which opened last monthがthe Italian restaurantを後ろから修飾。"
+
+  - id: "kaku-21a-e02"
+    book: "英文法の核心"
+    section_id: "Kaku_21a"
+    page: "p.311"
+    role: "example"
+    english: "I talked with a girl whose parents are immigrants."
+    japanese: "両親が移民である女の子と話をしました。"
+    sentence_structures:
+      overall: "S V M [whose 名詞 V C]"
+      details: "I(S) talked(V) with a girl(M) [whose parents(S) are(V) immigrants(C)]."
+    notes: "所有格whoseの例。whoseの直後には「無冠詞の名詞」がくる（所有格my/your等と同じ）。parentsは「家族の一部」でwhoseと結びつきやすい名詞。※immigrant「移民」"
+
+  - id: "kaku-21a-e03"
+    book: "英文法の核心"
+    section_id: "Kaku_21a"
+    page: "p.315"
+    role: "example"
+    english: "The curry that he made was too spicy for me."
+    japanese: "彼がつくったカレーは、私には辛すぎました。"
+    sentence_structures:
+      overall: "S [that S V] V C M"
+      details: "The curry(S) [that(目的格) he(S) made(V) φ] was(V) too spicy(C) for me(M)."
+    notes: "関係代名詞thatの例。このthatはwhichでもOK。madeの後ろの名詞（目的語）が欠けた不完全な形。thatは「オールマイティー」で、whose以外の関係代名詞の代用が可能。"
+
+  # === CHECK ===
+  - id: "kaku-21a-c01"
+    book: "英文法の核心"
+    section_id: "Kaku_21a"
+    page: "p.332"
+    role: "check"
+    english: "The man who I believed was from Osaka was from Hyogo."
+    japanese: "大阪出身だと私が思っていたその男性は、兵庫出身だった。"
+    sentence_structures:
+      overall: "S [who S V V M] V M"
+      details: "The man(S) [who(主格) I(S) believed(V) {that} φ was(V) from Osaka(M)] was(V) from Hyogo(M)."
+    notes: "CHECK(1)。( ) I believed was from Osakaの形 → I believed {that} φ was from Osakaで、wasの主語φが欠けている→主格whoが正解。「I thinkは挿入」という解法はこじつけ。「( ) SV v」の形で「that節中のSが欠けるパターン」。"
+
+  - id: "kaku-21a-c02"
+    book: "英文法の核心"
+    section_id: "Kaku_21a"
+    page: "p.332"
+    role: "check"
+    english: "I lost the paper on which I wrote his name."
+    japanese: "彼の名前を書いた紙をなくしてしまった。"
+    sentence_structures:
+      overall: "S V O [on which S V O]"
+      details: "I(S) lost(V) the paper(O) [on which(前置詞+関係代名詞) I(S) wrote(V) his name(O)]."
+    notes: "CHECK(2)。空所後I wrote his nameはSVOの「完全な形」（主語も目的語も欠けていない）→「前置詞＋関係代名詞」のon whichが正解。元々はwrite his name on the paper「紙に彼の名前を書く」という形。"
+
+  - id: "kaku-21a-c03"
+    book: "英文法の核心"
+    section_id: "Kaku_21a"
+    page: "p.332"
+    role: "check"
+    english: "I emailed the man that I met at the meeting."
+    japanese: "ミーティングのときに会った男性にメールしました。"
+    sentence_structures:
+      overall: "S V O [that S V M]"
+      details: "I(S) emailed(V) the man(O) [that(目的格) I(S) met(V) φ at the meeting(M)]."
+    notes: "CHECK(3)。空所後I met at the meetingは、他動詞metの目的語が欠けた「不完全な形」→「目的格の関係代名詞」thatが正解。日本文「〜のときに」につられて①whenを選ばないよう注意（whenは関係副詞で後ろに完全な文がくる）。"
+
+  # === 入試問題 ===
+  - id: "kaku-21a-x01"
+    book: "英文法の核心"
+    section_id: "Kaku_21a"
+    page: "p.334"
+    role: "exam"
+    english: "Sometimes the man who lives in the next-door apartment helps me with my homework."
+    japanese: "時々、隣の（アパートの）部屋に住んでいる男性が僕の宿題を手伝ってくれる。"
+    sentence_structures:
+      overall: "M S [who V M] V O M"
+      details: "Sometimes(M) the man(S) [who(主格) lives(V) in the next-door apartment(M)] helps(V) me(O) with my homework(M)."
+    notes: "出典: 慶応大学。入試問題(1)。空所後はlivesの主語が欠けている→「主格」の関係代名詞③whoが正解。先行詞the manなので人→who。the man [who lives in the next-door apartment]が文の主語になる。help 人 with~「人の〜を手伝う」の形。"
+
+sentence_knowledge_tags:
+  # kta-016: 関係代名詞の基本（全体像・格変化・2文接続・構造把握）
+  - sentence_id: "kaku-21a-e01"
+    node_id: "kta-016"
+  - sentence_id: "kaku-21a-c01"
+    node_id: "kta-016"
+  - sentence_id: "kaku-21a-c03"
+    node_id: "kta-016"
+  - sentence_id: "kaku-21a-x01"
+    node_id: "kta-016"
+  # kta-017: 省略・whose・前置詞＋関係代名詞・that
+  - sentence_id: "kaku-21a-e02"
+    node_id: "kta-017"
+  - sentence_id: "kaku-21a-e03"
+    node_id: "kta-017"
+  - sentence_id: "kaku-21a-c02"
+    node_id: "kta-017"

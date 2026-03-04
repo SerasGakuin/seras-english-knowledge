@@ -34,6 +34,18 @@ BOOKS: dict[str, BookConfig] = {
         db_book_name="肘井の読解のための英文法",
         section_prefix="Hij",
     ),
+    "kakushin": BookConfig(
+        slug="kakushin",
+        full_name="英文法の核心",
+        db_book_name="英文法の核心",
+        section_prefix="Kaku",
+    ),
+    "nyumon": BookConfig(
+        slug="nyumon",
+        full_name="入門英文問題精講",
+        db_book_name="入門英文問題精講",
+        section_prefix="Ny_",
+    ),
 }
 
 

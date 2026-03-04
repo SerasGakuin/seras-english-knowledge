@@ -217,12 +217,12 @@ sections:
     title: "疑問詞"
     type: "grammar_lecture"
     pages: "p.276-291"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 3
+    sentences_created: 29
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "kta-013/014/015。疑問詞3品詞（関係詞の基礎）・提案表現・間接疑問文・否定疑問文・付加疑問文"
   Kaku_20:
     title: "否定"
     type: "grammar_lecture"
@@ -237,37 +237,37 @@ sections:
     title: "関係詞（純粋関係詞: 関係代名詞・所有格・前置詞＋関係代名詞・that）"
     type: "grammar_lecture"
     pages: "p.300-315"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 2
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "kta-016/017。初期3ノード計画→タグ最低3文基準でkta-017/018を統合して2ノードに。CHECK3問+入試1問はPDF画像から復元（書き起こしMDはp.330で終了）"
   Kaku_21b:
     title: "関係詞（関係副詞・判別・制限/非制限）"
     type: "grammar_lecture"
     pages: "p.316-322"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 2
+    sentences_created: 7
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "kta-018/019。Gate4でページ番号修正（e01-e03各+1, e06 p.322→p.323）。Gate3軽微修正（e03 overall空白, kta-019核心行追加）"
   Kaku_21c:
     title: "関係詞（what・-everグループ・入試問題）"
     type: "grammar_lecture"
     pages: "p.323-335"
-    status: "not_started"
-    knowledge_nodes_created: 0
-    sentences_created: 0
-    gates_passed: []
-    reviewed_at: null
-    notes: ""
+    status: "completed"
+    knowledge_nodes_created: 2
+    sentences_created: 13
+    gates_passed: [1, 2, 3, 4, 5]
+    reviewed_at: "2026-03-02"
+    notes: "kta-020/021。p.331の内容はPDF画像から復元（MDはp.330で終了）。入試(3)獨協大学+(4)立命館大学。Gate3: node/section比2.0（sentences/node比6.5は過去セクションと同等水準で問題なし）"
 
 summary:
   total_sections: 26
-  completed: 21
+  completed: 26
   in_progress: 0
-  not_started: 5
-  total_knowledge_nodes: 67
-  total_sentences: 417
+  not_started: 0
+  total_knowledge_nodes: 76
+  total_sentences: 473

@@ -89,6 +89,56 @@ class TestParseHijiiErrors:
             parse_sections("abc", data_store, book_slug="hijii")
 
 
+class TestParseKakushinNormal:
+    def test_single_theme(self, data_store: DataStore) -> None:
+        result = parse_sections("1", data_store, book_slug="kakushin")
+        assert result == ["Kaku_01"]
+
+    def test_split_theme(self, data_store: DataStore) -> None:
+        result = parse_sections("7", data_store, book_slug="kakushin")
+        assert result == ["Kaku_07a", "Kaku_07b"]
+
+    def test_range(self, data_store: DataStore) -> None:
+        result = parse_sections("1~6", data_store, book_slug="kakushin")
+        assert len(result) == 6
+        assert result[0] == "Kaku_01"
+        assert result[-1] == "Kaku_06"
+
+    def test_comma_separated(self, data_store: DataStore) -> None:
+        result = parse_sections("1~6,7", data_store, book_slug="kakushin")
+        assert len(result) == 8  # 6 + 07a + 07b
+        assert "Kaku_07a" in result
+        assert "Kaku_07b" in result
+
+    def test_sorted_output(self, data_store: DataStore) -> None:
+        result = parse_sections("1~6", data_store, book_slug="kakushin")
+        assert result == sorted(result)
+
+    def test_no_prefix_collision(self, data_store: DataStore) -> None:
+        """Theme 1 should not match Kaku_10."""
+        result = parse_sections("1", data_store, book_slug="kakushin")
+        assert result == ["Kaku_01"]
+        assert "Kaku_10" not in result
+
+    def test_triple_split_theme(self, data_store: DataStore) -> None:
+        result = parse_sections("21", data_store, book_slug="kakushin")
+        assert result == ["Kaku_21a", "Kaku_21b", "Kaku_21c"]
+
+
+class TestParseKakushinErrors:
+    def test_reversed_range(self, data_store: DataStore) -> None:
+        with pytest.raises(InvalidSectionRangeError):
+            parse_sections("7~1", data_store, book_slug="kakushin")
+
+    def test_nonexistent_theme(self, data_store: DataStore) -> None:
+        with pytest.raises(SectionNotFoundError):
+            parse_sections("99", data_store, book_slug="kakushin")
+
+    def test_invalid_format(self, data_store: DataStore) -> None:
+        with pytest.raises(InvalidSectionRangeError):
+            parse_sections("abc", data_store, book_slug="kakushin")
+
+
 class TestParseBookErrors:
     def test_unknown_book(self, data_store: DataStore) -> None:
         with pytest.raises(BookNotFoundError):

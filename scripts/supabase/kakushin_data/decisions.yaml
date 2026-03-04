@@ -77,3 +77,9 @@ decisions:
     question: "入試問題(1)「What do you do?」（麻布大学）はe02と同一文。重複登録するか？"
     decision: "重複登録しない。e02のnotesに「入試問題(麻布大学)でも出題」と記録。decision #1の先例に従う。"
     decided_by: "リード"
+  - id: 14
+    date: "2026-03-02"
+    section: "Kaku_19"
+    question: "kta-015（間接疑問文・否定疑問文・付加疑問文）を3ノードに分割すべきか？Gate 3レビューが分割を推奨。"
+    decision: "分割しない。否定疑問文の紐づく英文が2文（e18, c02）のみで、ノード抽出ルール「③紐づく英文が3文以上あるか」に違反する。3トピックとも「疑問文の応用形式」で書籍も連続して扱い、understanding_goals(5)とcheck_points(5)で全トピックをカバー済み。"
+    decided_by: "リード"

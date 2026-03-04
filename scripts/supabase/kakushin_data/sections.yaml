@@ -339,6 +339,37 @@ section_knowledge_nodes:
   - section_id: "Kaku_18b"
     node_id: "kta-012"
     seq: 2
+  # Kaku_19
+  - section_id: "Kaku_19"
+    node_id: "kta-013"
+    seq: 1
+  - section_id: "Kaku_19"
+    node_id: "kta-014"
+    seq: 2
+  - section_id: "Kaku_19"
+    node_id: "kta-015"
+    seq: 3
+  # Kaku_21a
+  - section_id: "Kaku_21a"
+    node_id: "kta-016"
+    seq: 1
+  - section_id: "Kaku_21a"
+    node_id: "kta-017"
+    seq: 2
+  # Kaku_21b
+  - section_id: "Kaku_21b"
+    node_id: "kta-018"
+    seq: 1
+  - section_id: "Kaku_21b"
+    node_id: "kta-019"
+    seq: 2
+  # Kaku_21c
+  - section_id: "Kaku_21c"
+    node_id: "kta-020"
+    seq: 1
+  - section_id: "Kaku_21c"
+    node_id: "kta-021"
+    seq: 2
   # Kaku_07a
   - section_id: "Kaku_07a"
     node_id: "kvt-001"

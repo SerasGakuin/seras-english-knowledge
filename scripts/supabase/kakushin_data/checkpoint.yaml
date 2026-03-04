@@ -2,24 +2,43 @@
 # checkpoint.yaml — 作業状態スナップショット
 # コンテキストコンパクション後に必ず読む
 
-updated_at: "2026-03-02T02:00:00"
+updated_at: "2026-03-02T06:00:00"
 book: "英文法の核心"
 book_slug: "kakushin"
 
 current_state:
-  phase: "Phase 2 — Batch 7 完了"
+  phase: "Phase 2 — 全バッチ完了"
   current_section: null
   current_step: null
-  last_completed_section: "Kaku_18b"
+  last_completed_section: "Kaku_21c"
   last_completed_gate: 5
 
 progress:
   total_sections: 26
-  completed: 21
+  completed: 26
   in_progress: 0
-  remaining: 5
-  total_nodes: 67
-  total_sentences: 417
+  remaining: 0
+  total_nodes: 76
+  total_sentences: 473
+
+batch8_results:
+  sections_completed:
+    - section: "Kaku_19"
+      nodes: ["kta-013", "kta-014", "kta-015"]
+      sentences: 29
+    - section: "Kaku_21a"
+      nodes: ["kta-016", "kta-017"]
+      sentences: 7
+    - section: "Kaku_21b"
+      nodes: ["kta-018", "kta-019"]
+      sentences: 7
+    - section: "Kaku_21c"
+      nodes: ["kta-020", "kta-021"]
+      sentences: 13
+  metrics:
+    batch_node_section_ratio: 2.5
+    batch_sentences: 56
+    cumulative_node_section_ratio: 2.92
 
 batch7_results:
   sections_completed:
@@ -135,6 +154,18 @@ pilot_results:
       nodes: ["kvt-001", "kvt-002", "kvt-003"]
       sentences: 9
 
+final_summary:
+  total_sections: 26
+  total_nodes: 76
+  total_sentences: 473
+  node_section_ratio: 2.92
+  node_categories:
+    khs: 16  # Part 1 品詞
+    kvt: 22  # Part 2 動詞や時制
+    kjd: 17  # Part 3 準動詞
+    kta: 21  # Part 4 その他の重要単元
+  status: "Phase 2 完了 — 全26セクション構造化完了"
+
 recent_decisions:
   - "decision #12: Kaku_08 CHECK(1)「What do you do?」はe02と同一文 → 重複登録しない"
   - "decision #13: Kaku_08 入試問題(1)「What do you do?」(麻布大学)はe02と同一文 → 重複登録しない"
@@ -142,12 +173,5 @@ recent_decisions:
 active_concerns: []
 
 next_actions:
-  - "Batch 8: Kaku_19（疑問詞, p.276-291）"
-  - "Kaku_21a（関係詞・純粋関係詞, p.300-315）"
-  - "Kaku_21b（関係副詞・判別・制限/非制限, p.316-322）"
-  - "Part 4 → kta-013から続番。カテゴリ: その他の重要単元"
-  - "残り5セクション: Kaku_19, 21a, 21b, 21c（+ Kaku_17, 18a, 18b, 20は完了済み）"
-
-must_reread:
-  - "docs/design/構造化共通ワークフロー.md"
-  - "docs/design/参考書別設計書_核心.md"
+  - "英文法の核心の構造化は完了"
+  - "コミット＆push"

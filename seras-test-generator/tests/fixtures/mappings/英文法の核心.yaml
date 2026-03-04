@@ -1,0 +1,245 @@
+book: 英文法の核心
+sections:
+  - id: Kaku_01
+    title: "冠詞"
+    pages: "p.10-16"
+    type: grammar_lecture
+    knowledge_nodes:
+      - khs-001
+      - khs-002
+
+  - id: Kaku_02
+    title: "名詞"
+    pages: "p.17-24"
+    type: grammar_lecture
+    knowledge_nodes:
+      - khs-003
+      - khs-004
+
+  - id: Kaku_03
+    title: "代名詞"
+    pages: "p.25-34"
+    type: grammar_lecture
+    knowledge_nodes:
+      - khs-005
+      - khs-006
+      - khs-007
+
+  - id: Kaku_04
+    title: "形容詞"
+    pages: "p.35-43"
+    type: grammar_lecture
+    knowledge_nodes:
+      - khs-008
+      - khs-009
+
+  - id: Kaku_05
+    title: "副詞"
+    pages: "p.44-54"
+    type: grammar_lecture
+    knowledge_nodes:
+      - khs-010
+      - khs-011
+      - khs-012
+
+  - id: Kaku_06
+    title: "接続詞"
+    pages: "p.55-70"
+    type: grammar_lecture
+    knowledge_nodes:
+      - khs-013
+      - khs-014
+      - khs-015
+      - khs-016
+
+  - id: Kaku_07a
+    title: "文型（自動詞と他動詞・品詞と文型・第1〜2文型）"
+    pages: "p.71-82"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kvt-001
+      - kvt-002
+      - kvt-003
+
+  - id: Kaku_07b
+    title: "文型（第3〜5文型・使役知覚・入試問題）"
+    pages: "p.83-99"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kvt-004
+      - kvt-005
+      - kvt-006
+    prerequisites:
+      - Kaku_07a
+
+  - id: Kaku_08
+    title: "現在形"
+    pages: "p.100-110"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kvt-007
+      - kvt-008
+      - kvt-009
+
+  - id: Kaku_09
+    title: "完了形"
+    pages: "p.111-123"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kvt-010
+      - kvt-011
+      - kvt-012
+
+  - id: Kaku_10
+    title: "仮定法"
+    pages: "p.124-140"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kvt-013
+      - kvt-014
+      - kvt-015
+
+  - id: Kaku_11a
+    title: "助動詞（will〜can）"
+    pages: "p.141-148"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kvt-016
+      - kvt-017
+      - kvt-018
+
+  - id: Kaku_11b
+    title: "助動詞（would〜should・その他・助動詞have p.p.・入試問題）"
+    pages: "p.149-168"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kvt-019
+      - kvt-020
+      - kvt-021
+      - kvt-022
+    prerequisites:
+      - Kaku_11a
+
+  - id: Kaku_12
+    title: "不定詞(1)"
+    pages: "p.169-186"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kjd-001
+      - kjd-002
+      - kjd-003
+
+  - id: Kaku_13
+    title: "不定詞(2)"
+    pages: "p.187-197"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kjd-004
+      - kjd-005
+      - kjd-006
+    prerequisites:
+      - Kaku_12
+
+  - id: Kaku_14
+    title: "動名詞"
+    pages: "p.198-213"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kjd-007
+      - kjd-008
+      - kjd-009
+      - kjd-010
+
+  - id: Kaku_15
+    title: "分詞"
+    pages: "p.214-224"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kjd-011
+      - kjd-012
+      - kjd-013
+
+  - id: Kaku_16
+    title: "分詞構文"
+    pages: "p.225-237"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kjd-014
+      - kjd-015
+      - kjd-016
+      - kjd-017
+
+  - id: Kaku_17
+    title: "受動態"
+    pages: "p.238-251"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kta-004
+      - kta-005
+      - kta-006
+      - kta-007
+
+  - id: Kaku_18a
+    title: "比較（原級・比較級・最上級・重要表現）"
+    pages: "p.252-265"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kta-008
+      - kta-009
+      - kta-010
+
+  - id: Kaku_18b
+    title: "比較（no比較級than・熟語・入試問題）"
+    pages: "p.266-275"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kta-011
+      - kta-012
+    prerequisites:
+      - Kaku_18a
+
+  - id: Kaku_19
+    title: "疑問詞"
+    pages: "p.276-291"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kta-013
+      - kta-014
+      - kta-015
+
+  - id: Kaku_20
+    title: "否定"
+    pages: "p.292-299"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kta-001
+      - kta-002
+      - kta-003
+
+  - id: Kaku_21a
+    title: "関係詞（純粋関係詞: 関係代名詞・所有格・前置詞＋関係代名詞・that）"
+    pages: "p.300-315"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kta-016
+      - kta-017
+
+  - id: Kaku_21b
+    title: "関係詞（関係副詞・判別・制限/非制限）"
+    pages: "p.316-322"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kta-018
+      - kta-019
+    prerequisites:
+      - Kaku_21a
+
+  - id: Kaku_21c
+    title: "関係詞（what・-everグループ・入試問題）"
+    pages: "p.323-335"
+    type: grammar_lecture
+    knowledge_nodes:
+      - kta-020
+      - kta-021
+    prerequisites:
+      - Kaku_21b
