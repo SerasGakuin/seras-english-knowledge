@@ -1,0 +1,33 @@
+sentences:
+  - id: "tst-01-e01"
+    section_id: "Test_01"
+    drill: 0
+    number: 1
+    role: "example"
+    english: "This is a test sentence."
+    japanese: "これはテスト文です。"
+    notes: ""
+  - id: "tst-01-e02"
+    section_id: "Test_01"
+    drill: 0
+    number: 2
+    role: "example"
+    english: "Another test sentence."
+    japanese: "もう一つのテスト文。"
+    notes: "テスト用注記"
+
+sentence_structures:
+  - sentence_id: "tst-01-e01"
+    label: "S"
+    content: "This"
+    seq: 1
+  - sentence_id: "tst-01-e01"
+    label: "V"
+    content: "is"
+    seq: 2
+
+sentence_knowledge_tags:
+  - sentence_id: "tst-01-e01"
+    node_id: "tst-001"
+  - sentence_id: "tst-01-e02"
+    node_id: "tst-002"

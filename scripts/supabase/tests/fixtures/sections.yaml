@@ -1,0 +1,26 @@
+sections:
+  - id: "Test_01"
+    book: "テスト参考書"
+    title: "テストセクション1"
+    pages: "p.1-10"
+    type: "grammar_lecture"
+  - id: "Test_02"
+    book: "テスト参考書"
+    title: "テストセクション2"
+    pages: "p.11-20"
+    type: "grammar_lecture"
+
+section_knowledge_nodes:
+  - section_id: "Test_01"
+    node_id: "tst-001"
+    seq: 1
+  - section_id: "Test_01"
+    node_id: "tst-002"
+    seq: 2
+  - section_id: "Test_02"
+    node_id: "tst-002"
+    seq: 1
+
+section_prerequisites:
+  - section_id: "Test_02"
+    prerequisite_id: "Test_01"

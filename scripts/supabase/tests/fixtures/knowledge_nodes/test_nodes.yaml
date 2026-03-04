@@ -1,0 +1,33 @@
+knowledge_nodes:
+  - id: "tst-001"
+    name: "テスト知識ノード1"
+    category: "テスト"
+    priority: "P1"
+    notes: "テスト用ノート1"
+  - id: "tst-002"
+    name: "テスト知識ノード2"
+    category: "テスト"
+    priority: "P2"
+    notes: "テスト用ノート2"
+
+understanding_goals:
+  - node_id: "tst-001"
+    goal: "テストゴール1"
+    seq: 1
+  - node_id: "tst-002"
+    goal: "テストゴール2"
+    seq: 1
+
+check_points:
+  - node_id: "tst-001"
+    point: "テストチェックポイント1"
+    seq: 1
+
+node_prerequisites:
+  - node_id: "tst-002"
+    prerequisite_id: "tst-001"
+
+knowledge_references:
+  - node_id: "tst-001"
+    reference: "テスト参照1"
+    seq: 1
