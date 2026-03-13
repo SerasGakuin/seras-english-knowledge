@@ -1,152 +1,177 @@
 knowledge_nodes:
-  - id: "sgi-011"
-    name: "重要多義語①② — bear/figure/miss/company/due/run"
-    category: "語い"
-    priority: "P2"
-    notes: |
-      Theme 200+201統合。共通語補充形式で多義語の識別力を問う。
-      【bear】(a)耐える(=stand) (b)クマ (c)実をつける/子を産む (d)心に抱く。
-      bear fruit「実をつける/実を結ぶ」。
-      【figure】figure out〜「理解する」(=understand)(⇨903)、名「人の姿/人物/数字」。
-      more than A can〜「Aが〜できないほど（の）」(⇨284)。
-      【miss】基本義「〜しそこなう」。乗りそこなう(⇔catch)/見つけそこなう/寂しく思う。
-      miss the point/miss classes/miss lunchも重要。入試では「寂しく思う」が狙われる。
-      【company】会社/一緒にいること/来客/仲間。
-      enjoy A's company「Aと一緒にいると楽しい」。expect company「客が来る予定」。
-      be known by A「Aによってわかる」(⇨PU!12)。
-      【due】due to〜「〜のために」(⇨1279)/期日が来て/be due to do「〜する予定」/生まれる予定で。
-      〈プラスα〉「到着予定で」: The train is due at 6 p.m.
-      【run】経営する(=manage)/in the long run「結局」/滑るように動く/立候補する。
-      〈プラスα〉「上演される」: run in theaters。
-  - id: "sgi-012"
-    name: "重要多義語③④ — line/mean/cover/face/effect/case"
-    category: "語い"
-    priority: "P2"
-    notes: |
-      Theme 202+203統合。共通語補充形式で多義語の識別力を問う。
-      【line】職業(line of work)/方針(take a strong line)/電話(on another line)/列(in line)。
-      【mean】形:けちな(=stingy)/みすぼらしい。動:つもりで言う/mean to do「〜するつもり」(⇨509)。
-      I mean what I say.「本気で言っている」。
-      【cover】覆う/距離を行く/費用をまかなう/範囲を扱う。(b)(d)の意味に注意。
-      【face】in the face of〜「〜に直面して」(⇨1304)/〜に面する/直面する(=confront)/文字盤。
-      be faced with〜「〜に直面している」が頻出。
-      【effect】to the effect that〜「〜という趣旨の」/影響(=influence)/take effect「効く」。
-      have an effect on〜「〜に影響を与える」(⇨1067)。adolescent「思春期の少年・少女」。
-      【case】場合/(just) in case「万一に備えて」(⇨1221,445)/症状;患者/真相・事実。
-      be the case「事実である」。as is often the case「よくあることだが」(⇨378)。
-      【PU!178 fine/right】fine:元気な/細かい/罰金(⇨612)。right:正しい/右/正義/権利/ちょうど。
-      【PU!179 leave】許可/休暇/去る/置き忘れる/〜のままにしておく。
-  - id: "sgi-013"
-    name: "重要多義語⑤ — count/term/last"
-    category: "語い"
-    priority: "P2"
-    notes: |
-      Theme 204。共通語補充形式で多義語の識別力を問う。
-      【count】数える/勘定に入れる(=include)/count on〜「頼りにする」(⇨971)/重要である(=matter)。
-      count for much/nothing「とても重要/全く重要でない」。
-      【term(s)】学期;期間;任期/in〜terms「〜の観点から」(=in terms of〜⇨1288)/間柄/条件。
-      be on〜terms (with...)「…と〜の仲である」(⇨600・601)。
-      【last】この前の/the last A to do「決して〜しないA」(⇨280)/at long last「やっとのことで」/続く(=continue)。
-      〈プラスα〉last「続く」: How long will this cold weather last?
-      【PU!180 work】勤めている/動く・作動する/うまく行く・効く/作品(a work of art)。
-      【PU!181 sense】感覚/良識/意味(in a sense⇨1257)/感じる。
-      【PU!181 point】言い分/要点/程度(up to a point)/point out that〜「指摘する」。
+- id: sgi-011
+  name: 重要多義語①② — bear/figure/miss/company/due/run
+  category: 語い
+  priority: P2
+  notes: 'Theme 200+201統合。共通語補充形式で多義語の識別力を問う。
 
+    【bear】(a)耐える(=stand) (b)クマ (c)実をつける/子を産む (d)心に抱く。
+
+    bear fruit「実をつける/実を結ぶ」。
+
+    【figure】figure out〜「理解する」(=understand)(⇨903)、名「人の姿/人物/数字」。
+
+    more than A can〜「Aが〜できないほど（の）」(⇨284)。
+
+    【miss】基本義「〜しそこなう」。乗りそこなう(⇔catch)/見つけそこなう/寂しく思う。
+
+    miss the point/miss classes/miss lunchも重要。入試では「寂しく思う」が狙われる。
+
+    【company】会社/一緒にいること/来客/仲間。
+
+    enjoy A''s company「Aと一緒にいると楽しい」。expect company「客が来る予定」。
+
+    be known by A「Aによってわかる」(⇨PU!12)。
+
+    【due】due to〜「〜のために」(⇨1279)/期日が来て/be due to do「〜する予定」/生まれる予定で。
+
+    〈プラスα〉「到着予定で」: The train is due at 6 p.m.
+
+    【run】経営する(=manage)/in the long run「結局」/滑るように動く/立候補する。
+
+    〈プラスα〉「上演される」: run in theaters。
+
+    '
+- id: sgi-012
+  name: 重要多義語③④ — line/mean/cover/face/effect/case
+  category: 語い
+  priority: P2
+  notes: 'Theme 202+203統合。共通語補充形式で多義語の識別力を問う。
+
+    【line】職業(line of work)/方針(take a strong line)/電話(on another line)/列(in line)。
+
+    【mean】形:けちな(=stingy)/みすぼらしい。動:つもりで言う/mean to do「〜するつもり」(⇨509)。
+
+    I mean what I say.「本気で言っている」。
+
+    【cover】覆う/距離を行く/費用をまかなう/範囲を扱う。(b)(d)の意味に注意。
+
+    【face】in the face of〜「〜に直面して」(⇨1304)/〜に面する/直面する(=confront)/文字盤。
+
+    be faced with〜「〜に直面している」が頻出。
+
+    【effect】to the effect that〜「〜という趣旨の」/影響(=influence)/take effect「効く」。
+
+    have an effect on〜「〜に影響を与える」(⇨1067)。adolescent「思春期の少年・少女」。
+
+    【case】場合/(just) in case「万一に備えて」(⇨1221,445)/症状;患者/真相・事実。
+
+    be the case「事実である」。as is often the case「よくあることだが」(⇨378)。
+
+    【PU!178 fine/right】fine:元気な/細かい/罰金(⇨612)。right:正しい/右/正義/権利/ちょうど。
+
+    【PU!179 leave】許可/休暇/去る/置き忘れる/〜のままにしておく。
+
+    '
+- id: sgi-013
+  name: 重要多義語⑤ — count/term/last
+  category: 語い
+  priority: P2
+  notes: 'Theme 204。共通語補充形式で多義語の識別力を問う。
+
+    【count】数える/勘定に入れる(=include)/count on〜「頼りにする」(⇨971)/重要である(=matter)。
+
+    count for much/nothing「とても重要/全く重要でない」。
+
+    【term(s)】学期;期間;任期/in〜terms「〜の観点から」(=in terms of〜⇨1288)/間柄/条件。
+
+    be on〜terms (with...)「…と〜の仲である」(⇨600・601)。
+
+    【last】この前の/the last A to do「決して〜しないA」(⇨280)/at long last「やっとのことで」/続く(=continue)。
+
+    〈プラスα〉last「続く」: How long will this cold weather last?
+
+    【PU!180 work】勤めている/動く・作動する/うまく行く・効く/作品(a work of art)。
+
+    【PU!181 sense】感覚/良識/意味(in a sense⇨1257)/感じる。
+
+    【PU!181 point】言い分/要点/程度(up to a point)/point out that〜「指摘する」。
+
+    '
 understanding_goals:
-  - node_id: "sgi-011"
-    seq: 1
-    goal: "bear/miss/figureの多義性を識別し、共通語補充問題で正答できる"
-  - node_id: "sgi-011"
-    seq: 2
-    goal: "company/due/runの多義性を識別し、共通語補充問題で正答できる"
-  - node_id: "sgi-011"
-    seq: 3
-    goal: "bear fruit/figure out/due to/in the long run等の重要成句を把握できる"
-  - node_id: "sgi-012"
-    seq: 1
-    goal: "line/mean/coverの多義性を識別し、共通語補充問題で正答できる"
-  - node_id: "sgi-012"
-    seq: 2
-    goal: "face/effect/caseの多義性を識別し、共通語補充問題で正答できる"
-  - node_id: "sgi-012"
-    seq: 3
-    goal: "PU!178(fine/right)/PU!179(leave)の多義性を把握できる"
-  - node_id: "sgi-013"
-    seq: 1
-    goal: "count/term/lastの多義性を識別し、共通語補充問題で正答できる"
-  - node_id: "sgi-013"
-    seq: 2
-    goal: "count for much/in terms of/the last A to do等の重要成句を把握できる"
-  - node_id: "sgi-013"
-    seq: 3
-    goal: "PU!180(work)/PU!181(sense/point)の多義性を把握できる"
-
+- node_id: sgi-011
+  seq: 1
+  goal: bear/miss/figureの多義性を識別し、共通語補充問題で正答できる
+- node_id: sgi-011
+  seq: 2
+  goal: company/due/runの多義性を識別し、共通語補充問題で正答できる
+- node_id: sgi-011
+  seq: 3
+  goal: bear fruit/figure out/due to/in the long run等の重要成句を把握できる
+- node_id: sgi-012
+  seq: 1
+  goal: line/mean/coverの多義性を識別し、共通語補充問題で正答できる
+- node_id: sgi-012
+  seq: 2
+  goal: face/effect/caseの多義性を識別し、共通語補充問題で正答できる
+- node_id: sgi-012
+  seq: 3
+  goal: PU!178(fine/right)/PU!179(leave)の多義性を把握できる
+- node_id: sgi-013
+  seq: 1
+  goal: count/term/lastの多義性を識別し、共通語補充問題で正答できる
+- node_id: sgi-013
+  seq: 2
+  goal: count for much/in terms of/the last A to do等の重要成句を把握できる
+- node_id: sgi-013
+  seq: 3
+  goal: PU!180(work)/PU!181(sense/point)の多義性を把握できる
 check_points:
-  - node_id: "sgi-011"
-    seq: 1
-    question: "bearの「耐える」以外の重要な意味を3つ挙げよ。bear fruitの意味は？"
-    answer: "クマ/（花・実を）つける/（恨みなどを）心に抱く。bear fruit=「実をつける/（努力が）実を結ぶ」。"
-  - node_id: "sgi-011"
-    seq: 2
-    question: "missの基本義は何か？入試で特に狙われる意味は？"
-    answer: "基本義は「〜しそこなう」（乗りそこなう/見つけそこなう等）。入試では「（人が）いなくて寂しく思う」が狙われる。"
-  - node_id: "sgi-011"
-    seq: 3
-    question: "companyの「会社」以外の重要な意味を2つ挙げよ。enjoy A's companyは？"
-    answer: "一緒にいること/来客/仲間。enjoy A's company=「Aと一緒にいると楽しい」。"
-  - node_id: "sgi-011"
-    seq: 4
-    question: "dueの4つの主要な用法と意味は？"
-    answer: "due to〜「〜のために」/期日が来て/be due to do「〜する予定」/「（子が）生まれる予定で/到着予定で」。"
-  - node_id: "sgi-012"
-    seq: 1
-    question: "lineの「線/行」以外の意味を3つ挙げよ。"
-    answer: "職業・職種(line of work)/方針(take a strong line)/電話(on another line)/列(in line)。"
-  - node_id: "sgi-012"
-    seq: 2
-    question: "meanの形容詞としての意味は？mean to doの意味は？"
-    answer: "形:けちな(=stingy)/みすぼらしい。mean to do=「〜するつもりである」。"
-  - node_id: "sgi-012"
-    seq: 3
-    question: "faceの動詞用法で頻出の意味は？be faced with〜は？"
-    answer: "「（問題・危険などに）直面する」(=confront)。be faced with〜=「〜に直面している」。"
-  - node_id: "sgi-012"
-    seq: 4
-    question: "caseの「場合」以外の重要な意味は？be the caseは？"
-    answer: "症状・患者/真相・事実。be the case=「事実である」。as is often the case=「よくあることだが」。"
-  - node_id: "sgi-013"
-    seq: 1
-    question: "countの「数える」以外の重要な意味を2つ挙げよ。count for nothingは？"
-    answer: "勘定に入れる(=include)/重要である(=matter)。count for nothing=「全く重要でない」。"
-  - node_id: "sgi-013"
-    seq: 2
-    question: "termの4つの主要な意味は？in terms of〜の意味は？"
-    answer: "学期・期間/観点(in〜terms)/間柄(be on〜terms)/条件。in terms of〜=「〜の観点から」。"
-  - node_id: "sgi-013"
-    seq: 3
-    question: "lastの動詞としての意味は？the last A to doの意味は？"
-    answer: "「（ある期間）もつ/続く」(=continue)。the last A to do=「決して〜しないA/最も〜しそうにないA」。"
-
+- node_id: sgi-011
+  seq: 1
+  question: bearの「耐える」以外の重要な意味を3つ挙げよ。bear fruitの意味は？
+  answer: クマ/（花・実を）つける/（恨みなどを）心に抱く。bear fruit=「実をつける/（努力が）実を結ぶ」。
+- node_id: sgi-011
+  seq: 2
+  question: missの基本義は何か？入試で特に狙われる意味は？
+  answer: 基本義は「〜しそこなう」（乗りそこなう/見つけそこなう等）。入試では「（人が）いなくて寂しく思う」が狙われる。
+- node_id: sgi-011
+  seq: 3
+  question: companyの「会社」以外の重要な意味を2つ挙げよ。enjoy A's companyは？
+  answer: 一緒にいること/来客/仲間。enjoy A's company=「Aと一緒にいると楽しい」。
+- node_id: sgi-011
+  seq: 4
+  question: dueの4つの主要な用法と意味は？
+  answer: due to〜「〜のために」/期日が来て/be due to do「〜する予定」/「（子が）生まれる予定で/到着予定で」。
+- node_id: sgi-012
+  seq: 1
+  question: lineの「線/行」以外の意味を3つ挙げよ。
+  answer: 職業・職種(line of work)/方針(take a strong line)/電話(on another line)/列(in line)。
+- node_id: sgi-012
+  seq: 2
+  question: meanの形容詞としての意味は？mean to doの意味は？
+  answer: 形:けちな(=stingy)/みすぼらしい。mean to do=「〜するつもりである」。
+- node_id: sgi-012
+  seq: 3
+  question: faceの動詞用法で頻出の意味は？be faced with〜は？
+  answer: 「（問題・危険などに）直面する」(=confront)。be faced with〜=「〜に直面している」。
+- node_id: sgi-012
+  seq: 4
+  question: caseの「場合」以外の重要な意味は？be the caseは？
+  answer: 症状・患者/真相・事実。be the case=「事実である」。as is often the case=「よくあることだが」。
+- node_id: sgi-013
+  seq: 1
+  question: countの「数える」以外の重要な意味を2つ挙げよ。count for nothingは？
+  answer: 勘定に入れる(=include)/重要である(=matter)。count for nothing=「全く重要でない」。
+- node_id: sgi-013
+  seq: 2
+  question: termの4つの主要な意味は？in terms of〜の意味は？
+  answer: 学期・期間/観点(in〜terms)/間柄(be on〜terms)/条件。in terms of〜=「〜の観点から」。
+- node_id: sgi-013
+  seq: 3
+  question: lastの動詞としての意味は？the last A to doの意味は？
+  answer: 「（ある期間）もつ/続く」(=continue)。the last A to do=「決して〜しないA/最も〜しそうにないA」。
 node_prerequisites: []
-
 knowledge_references:
-  - node_id: "sgi-011"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_200"
-    pages: ""
-  - node_id: "sgi-011"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_201"
-    pages: ""
-  - node_id: "sgi-012"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_202"
-    pages: ""
-  - node_id: "sgi-012"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_203"
-    pages: ""
-  - node_id: "sgi-013"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_204"
-    pages: ""
+- node_id: sgi-011
+  book: スクランブル英文法・語法
+  section_id: Scr_200
+  pages: ''
+- node_id: sgi-012
+  book: スクランブル英文法・語法
+  section_id: Scr_202
+  pages: ''
+- node_id: sgi-013
+  book: スクランブル英文法・語法
+  section_id: Scr_204
+  pages: ''

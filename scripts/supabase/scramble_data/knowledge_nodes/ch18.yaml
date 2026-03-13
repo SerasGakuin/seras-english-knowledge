@@ -1,253 +1,295 @@
 knowledge_nodes:
-  - id: "sgh-031"
-    name: "-lyの有無で意味が異なる副詞と名詞に見える副詞"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 169+170 統合。形容詞と同形の副詞と-lyのついた副詞で意味が異なるもの、および名詞と間違えやすい副詞（前置詞不要）を扱う。
+- id: sgh-031
+  name: -lyの有無で意味が異なる副詞と名詞に見える副詞
+  category: 語法
+  priority: P1
+  notes: 'Theme 169+170 統合。形容詞と同形の副詞と-lyのついた副詞で意味が異なるもの、および名詞と間違えやすい副詞（前置詞不要）を扱う。
 
-      【-lyの有無による意味の違い（Theme 169）】
-      〈頻出〉① late「遅く」⇔ lately「最近」（= recently）
-      ② hard「一生懸命に」⇔ hardly「ほとんど〜ない」
-      ③ near「近くに」⇔ nearly「ほとんど」（= almost）
-      ④ pretty「かなり」⇔ prettily「きれいに」
-      注意: lately/recentlyは現在完了時制（過去時制も可）、these days/nowadaysは現在時制で用いるのが通例。
-      選択肢情報: later「後で」、latest「最新の」、closely「綿密に」、scarcely「ほとんど〜ない」
-      参照: ⇨問266（hardly/scarcely）、⇨問202（much+比較級の強調）
 
-      【名詞と間違えやすい副詞（Theme 170）】
-      home/abroadなどは副詞なので前置詞toは不要。
-      ×get to home → ○get home / ×go to abroad → ○go abroad
-      ただし所有格・冠詞がつくとhomeは名詞: get to his home
-      比較: get home（帰着に焦点、時間語句を伴う）/ go home（帰る行為に焦点）/ come home（家にいる人の視点）
+    【-lyの有無による意味の違い（Theme 169）】
 
-      PU!153 名詞と間違えやすい副詞（前置詞不要）:
-      □ home「家に/へ・自国に/へ」□ abroad「外国に/で/へ」
-      □ outdoors「屋外で」⇔ indoors「屋内で」
-      □ upstairs「上の階で/へ」⇔ downstairs「下の階で/へ」
-      □ downtown「繁華街へ/で」□ overseas「海外に/で/へ」
+    〈頻出〉① late「遅く」⇔ lately「最近」（= recently）
 
-      問661-666は書き起こしに問題文なし→exam英文0件。解説例文のみ登録。
+    ② hard「一生懸命に」⇔ hardly「ほとんど〜ない」
 
-  - id: "sgh-032"
-    name: "接続副詞と文修飾の副詞"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 171+172 統合。接続詞の働きをする副詞（接続副詞）と、文全体を修飾する副詞（文修飾副詞）を扱う。
+    ③ near「近くに」⇔ nearly「ほとんど」（= almost）
 
-      【接続副詞（Theme 171）】
-      however/therefore等は本来副詞だが、等位接続詞のように前後の節をつなぐ。
-      and/butと併用されることもある。
+    ④ pretty「かなり」⇔ prettily「きれいに」
 
-      PU!154 つなぎ語句(1):
-      逆接: however「しかしながら」/ nevertheless/nonetheless「それにもかかわらず」/ all the same / still「それでも」/ though「けれども」
-      対比: on the other hand「他方」/ instead「代わりに」/ in [by] contrast「それとは対照的に」
-      結果: therefore / so「それゆえに」/ consequently「その結果」/ accordingly「したがって」
+    注意: lately/recentlyは現在完了時制（過去時制も可）、these days/nowadaysは現在時制で用いるのが通例。
 
-      PU!155 つなぎ語句(2):
-      追加: besides / in addition / moreover / furthermore / what is more「その上」/ then「それに」
-      例示: for example / for instance「たとえば」
-      換言: that is (to say)「すなわち」/ in other words「言い換えれば」
-      参照: ⇨問359（what is more）、⇨問100（代不定詞の否定形）
+    選択肢情報: later「後で」、latest「最新の」、closely「綿密に」、scarcely「ほとんど〜ない」
 
-      【文修飾の副詞（Theme 172）】
-      文全体を修飾する副詞。通例文頭に置かれ、話し手の判断や確信度を表す。
-      It is + 形容詞 + that SVで書き換えられるものが多い。
-      例: Luckily we got home. = It was lucky that we got home.
+    参照: ⇨問266（hardly/scarcely）、⇨問202（much+比較級の強調）
 
-      PU!156 代表的な文修飾の副詞:
-      □ naturally「当然ながら」□ surely/certainly「確かに」
-      □ evidently/obviously/clearly「明らかに」
-      □ fortunately/luckily「幸運にも」⇔ unfortunately/unluckily「不運にも」
-      □ apparently「見たところでは〜らしい」□ wisely「賢明にも」
 
-  - id: "sgh-033"
-    name: "already/yet/stillとago/beforeの使い分け"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 173+174 統合。「もう/まだ」を表す副詞と「〜前」を表す副詞の使い分け。
+    【名詞と間違えやすい副詞（Theme 170）】
 
-      【already/yet/still（Theme 173）】
-      PU!157 使い分け:
-      already: 肯定文「もう〜した」/ 疑問文「もう〜したのか」（驚き）
-      yet: 否定文「まだ〜していない」（文末）/ 疑問文「もう〜したか」（文末）
-      still: 肯定文「まだ〜している」（継続）/ 否定文「まだ〜していない」（still〜not語順、いら立ち）
-      注意: yet/alreadyの疑問文での位置に注意。already=文中、yet=文末。
-      注意: still + 否定 = still isn't（stillが先、notが後）。
+    home/abroadなどは副詞なので前置詞toは不要。
 
-      【ago/before（Theme 174）】
-      ago「（今から）〜前に」→ 過去形とともに用いる。×現在完了形
-      before「（過去のある時点から）〜前に」→ 過去完了形とともに用いる。×ago + 過去完了
-      before単独「以前に」→ 現在完了形・過去形どちらも可。
+    ×get to home → ○get home / ×go to abroad → ○go abroad
 
-  - id: "sgh-034"
-    name: "almostとmostの使い分け"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 175。almostは副詞で直接名詞を修飾できない。mostは形容詞・名詞の用法がある。
+    ただし所有格・冠詞がつくとhomeは名詞: get to his home
 
-      PU!158 使い分け:
-      【限定されない場合】
-      almost all + 名詞 = most + 名詞「ほとんどの〜」
-      例: almost all students = most students
+    比較: get home（帰着に焦点、時間語句を伴う）/ go home（帰る行為に焦点）/ come home（家にいる人の視点）
 
-      【限定された特定の場合】
-      almost all (of) the [one's] + 名詞 = most of the [one's] + 名詞「〜のほとんど」
-      例: almost all (of) the students = most of the students
-      注意: most of の後の名詞には必ず the/one's がつく。×most of students
-      注意: 所有格と限定詞は続けて使えない。×most his students（→ most of his students）
 
-      almost + 動詞「あやうく〜するところで（実際は〜していない）」
-      例: I almost broke the cup.
+    PU!153 名詞と間違えやすい副詞（前置詞不要）:
 
-      参照: ⇨Theme 159（所有格+限定詞の制約）、⇨PU!42（at most「せいぜい」）
+    □ home「家に/へ・自国に/へ」□ abroad「外国に/で/へ」
 
+    □ outdoors「屋外で」⇔ indoors「屋内で」
+
+    □ upstairs「上の階で/へ」⇔ downstairs「下の階で/へ」
+
+    □ downtown「繁華街へ/で」□ overseas「海外に/で/へ」
+
+
+    問661-666は書き起こしに問題文なし→exam英文0件。解説例文のみ登録。
+
+    '
+- id: sgh-032
+  name: 接続副詞と文修飾の副詞
+  category: 語法
+  priority: P1
+  notes: 'Theme 171+172 統合。接続詞の働きをする副詞（接続副詞）と、文全体を修飾する副詞（文修飾副詞）を扱う。
+
+
+    【接続副詞（Theme 171）】
+
+    however/therefore等は本来副詞だが、等位接続詞のように前後の節をつなぐ。
+
+    and/butと併用されることもある。
+
+
+    PU!154 つなぎ語句(1):
+
+    逆接: however「しかしながら」/ nevertheless/nonetheless「それにもかかわらず」/ all the same / still「それでも」/ though「けれども」
+
+    対比: on the other hand「他方」/ instead「代わりに」/ in [by] contrast「それとは対照的に」
+
+    結果: therefore / so「それゆえに」/ consequently「その結果」/ accordingly「したがって」
+
+
+    PU!155 つなぎ語句(2):
+
+    追加: besides / in addition / moreover / furthermore / what is more「その上」/ then「それに」
+
+    例示: for example / for instance「たとえば」
+
+    換言: that is (to say)「すなわち」/ in other words「言い換えれば」
+
+    参照: ⇨問359（what is more）、⇨問100（代不定詞の否定形）
+
+
+    【文修飾の副詞（Theme 172）】
+
+    文全体を修飾する副詞。通例文頭に置かれ、話し手の判断や確信度を表す。
+
+    It is + 形容詞 + that SVで書き換えられるものが多い。
+
+    例: Luckily we got home. = It was lucky that we got home.
+
+
+    PU!156 代表的な文修飾の副詞:
+
+    □ naturally「当然ながら」□ surely/certainly「確かに」
+
+    □ evidently/obviously/clearly「明らかに」
+
+    □ fortunately/luckily「幸運にも」⇔ unfortunately/unluckily「不運にも」
+
+    □ apparently「見たところでは〜らしい」□ wisely「賢明にも」
+
+    '
+- id: sgh-033
+  name: already/yet/stillとago/beforeの使い分け
+  category: 語法
+  priority: P1
+  notes: 'Theme 173+174 統合。「もう/まだ」を表す副詞と「〜前」を表す副詞の使い分け。
+
+
+    【already/yet/still（Theme 173）】
+
+    PU!157 使い分け:
+
+    already: 肯定文「もう〜した」/ 疑問文「もう〜したのか」（驚き）
+
+    yet: 否定文「まだ〜していない」（文末）/ 疑問文「もう〜したか」（文末）
+
+    still: 肯定文「まだ〜している」（継続）/ 否定文「まだ〜していない」（still〜not語順、いら立ち）
+
+    注意: yet/alreadyの疑問文での位置に注意。already=文中、yet=文末。
+
+    注意: still + 否定 = still isn''t（stillが先、notが後）。
+
+
+    【ago/before（Theme 174）】
+
+    ago「（今から）〜前に」→ 過去形とともに用いる。×現在完了形
+
+    before「（過去のある時点から）〜前に」→ 過去完了形とともに用いる。×ago + 過去完了
+
+    before単独「以前に」→ 現在完了形・過去形どちらも可。
+
+    '
+- id: sgh-034
+  name: almostとmostの使い分け
+  category: 語法
+  priority: P1
+  notes: 'Theme 175。almostは副詞で直接名詞を修飾できない。mostは形容詞・名詞の用法がある。
+
+
+    PU!158 使い分け:
+
+    【限定されない場合】
+
+    almost all + 名詞 = most + 名詞「ほとんどの〜」
+
+    例: almost all students = most students
+
+
+    【限定された特定の場合】
+
+    almost all (of) the [one''s] + 名詞 = most of the [one''s] + 名詞「〜のほとんど」
+
+    例: almost all (of) the students = most of the students
+
+    注意: most of の後の名詞には必ず the/one''s がつく。×most of students
+
+    注意: 所有格と限定詞は続けて使えない。×most his students（→ most of his students）
+
+
+    almost + 動詞「あやうく〜するところで（実際は〜していない）」
+
+    例: I almost broke the cup.
+
+
+    参照: ⇨Theme 159（所有格+限定詞の制約）、⇨PU!42（at most「せいぜい」）
+
+    '
 understanding_goals:
-  - node_id: "sgh-031"
-    seq: 1
-    goal: "late/lately、hard/hardlyなど-lyの有無で意味が異なる副詞の対を区別できる"
-  - node_id: "sgh-031"
-    seq: 2
-    goal: "home/abroad等が副詞であり前置詞toが不要であることを理解できる"
-  - node_id: "sgh-031"
-    seq: 3
-    goal: "lately/recentlyとthese days/nowadaysの時制使い分けができる"
-  - node_id: "sgh-031"
-    seq: 4
-    goal: "get home/go home/come homeの意味の違いを説明できる"
-
-  - node_id: "sgh-032"
-    seq: 1
-    goal: "however/therefore/besides等の接続副詞を逆接・追加・結果に分類できる"
-  - node_id: "sgh-032"
-    seq: 2
-    goal: "接続副詞が等位接続詞と異なりセミコロンやピリオドで前文と区切られることを理解できる"
-  - node_id: "sgh-032"
-    seq: 3
-    goal: "文修飾の副詞（luckily/evidently/unfortunately等）を文頭で正しく使える"
-  - node_id: "sgh-032"
-    seq: 4
-    goal: "文修飾の副詞をIt is+形容詞+that SVの形に書き換えられる"
-
-  - node_id: "sgh-033"
-    seq: 1
-    goal: "already/yet/stillを肯定文・否定文・疑問文で正しく使い分けられる"
-  - node_id: "sgh-033"
-    seq: 2
-    goal: "yetとalreadyの疑問文での位置の違い（yet=文末、already=文中で驚き）を理解できる"
-  - node_id: "sgh-033"
-    seq: 3
-    goal: "agoは過去形、beforeは過去完了形とともに用いることを区別できる"
-  - node_id: "sgh-033"
-    seq: 4
-    goal: "still + 否定の語順（still isn't/still hasn't）を正しく使える"
-
-  - node_id: "sgh-034"
-    seq: 1
-    goal: "almostが副詞で直接名詞を修飾できないことを理解し、almost allの形を使える"
-  - node_id: "sgh-034"
-    seq: 2
-    goal: "almost all + 名詞とmost + 名詞が同義であることを理解できる"
-  - node_id: "sgh-034"
-    seq: 3
-    goal: "most of the/one's + 名詞の形でtheやone'sが必須であることを理解できる"
-
+- node_id: sgh-031
+  seq: 1
+  goal: late/lately、hard/hardlyなど-lyの有無で意味が異なる副詞の対を区別できる
+- node_id: sgh-031
+  seq: 2
+  goal: home/abroad等が副詞であり前置詞toが不要であることを理解できる
+- node_id: sgh-031
+  seq: 3
+  goal: lately/recentlyとthese days/nowadaysの時制使い分けができる
+- node_id: sgh-031
+  seq: 4
+  goal: get home/go home/come homeの意味の違いを説明できる
+- node_id: sgh-032
+  seq: 1
+  goal: however/therefore/besides等の接続副詞を逆接・追加・結果に分類できる
+- node_id: sgh-032
+  seq: 2
+  goal: 接続副詞が等位接続詞と異なりセミコロンやピリオドで前文と区切られることを理解できる
+- node_id: sgh-032
+  seq: 3
+  goal: 文修飾の副詞（luckily/evidently/unfortunately等）を文頭で正しく使える
+- node_id: sgh-032
+  seq: 4
+  goal: 文修飾の副詞をIt is+形容詞+that SVの形に書き換えられる
+- node_id: sgh-033
+  seq: 1
+  goal: already/yet/stillを肯定文・否定文・疑問文で正しく使い分けられる
+- node_id: sgh-033
+  seq: 2
+  goal: yetとalreadyの疑問文での位置の違い（yet=文末、already=文中で驚き）を理解できる
+- node_id: sgh-033
+  seq: 3
+  goal: agoは過去形、beforeは過去完了形とともに用いることを区別できる
+- node_id: sgh-033
+  seq: 4
+  goal: still + 否定の語順（still isn't/still hasn't）を正しく使える
+- node_id: sgh-034
+  seq: 1
+  goal: almostが副詞で直接名詞を修飾できないことを理解し、almost allの形を使える
+- node_id: sgh-034
+  seq: 2
+  goal: almost all + 名詞とmost + 名詞が同義であることを理解できる
+- node_id: sgh-034
+  seq: 3
+  goal: most of the/one's + 名詞の形でtheやone'sが必須であることを理解できる
 check_points:
-  - node_id: "sgh-031"
-    seq: 1
-    question: "lateとlatelyの意味の違いは？"
-    answer: "late「遅く」、lately「最近」（= recently）。latelyは現在完了時制で用いるのが通例。"
-  - node_id: "sgh-031"
-    seq: 2
-    question: "hardとhardlyの意味の違いは？"
-    answer: "hard「一生懸命に」、hardly「ほとんど〜ない」。意味が全く異なる。"
-  - node_id: "sgh-031"
-    seq: 3
-    question: "「家に帰る」はgo to homeか、go homeか？"
-    answer: "go home。homeは副詞なので前置詞toは不要。ただし所有格・冠詞がつくとhomeは名詞（go to his home）。"
-  - node_id: "sgh-031"
-    seq: 4
-    question: "abroad, home以外に前置詞不要の副詞を3つ挙げよ。"
-    answer: "outdoors/indoors, upstairs/downstairs, downtown, overseasなど。"
-
-  - node_id: "sgh-032"
-    seq: 1
-    question: "however, therefore, besidesはそれぞれ何を表す接続副詞か？"
-    answer: "however「しかしながら」（逆接）、therefore「それゆえに」（結果）、besides「その上」（追加）。"
-  - node_id: "sgh-032"
-    seq: 2
-    question: "nevertheless/nonetheless/all the same/stillに共通する意味は？"
-    answer: "いずれも「それにもかかわらず」（逆接）を表す。"
-  - node_id: "sgh-032"
-    seq: 3
-    question: "文修飾の副詞とは何か？ 例を3つ挙げよ。"
-    answer: "文全体を修飾し話し手の判断を表す副詞。例: luckily「幸運にも」、evidently「明らかに」、unfortunately「不運にも」。"
-  - node_id: "sgh-032"
-    seq: 4
-    question: "Luckily we got home. をIt is...that構文で書き換えると？"
-    answer: "It was lucky that we got home before it started to rain."
-
-  - node_id: "sgh-033"
-    seq: 1
-    question: "否定文で「まだ〜していない」を表すのはyetかstillか？ 位置の違いは？"
-    answer: "どちらも可。yetは文末（haven't done yet）、stillはnot の前（still hasn't done）。stillを使うといら立ちのニュアンスが出る。"
-  - node_id: "sgh-033"
-    seq: 2
-    question: "疑問文でalreadyとyetの使い分けは？"
-    answer: "yetは文末で「もう〜したか」（普通の疑問）。alreadyは文中で「もう〜したのか」（驚きのニュアンス）。"
-  - node_id: "sgh-033"
-    seq: 3
-    question: "ten years agoとtwo years beforeの違いは？"
-    answer: "ago「今から〜前」→過去形で使用。before「過去のある時点から〜前」→過去完了形で使用。agoは現在完了形・過去完了形と使えない。"
-  - node_id: "sgh-033"
-    seq: 4
-    question: "before を単独で「以前に」の意味で使う場合、どの時制と使えるか？"
-    answer: "現在完了形でも過去形でも使える。例: I have seen the picture before. / I saw the picture before."
-
-  - node_id: "sgh-034"
-    seq: 1
-    question: "「ほとんどの学生」を almost を使って表すには？"
-    answer: "almost all students。almostは副詞なので直接名詞を修飾できず、×almost studentsは不可。"
-  - node_id: "sgh-034"
-    seq: 2
-    question: "most of students は正しいか？"
-    answer: "不可。most of の後には the や one's が必要。most of the students / most of his students が正しい。"
-  - node_id: "sgh-034"
-    seq: 3
-    question: "I almost missed the train. の意味は？"
-    answer: "あやうく列車に乗り遅れるところだった（実際は乗れた）。almost + 動詞で「もう少しで〜するところで」の意味。"
-
+- node_id: sgh-031
+  seq: 1
+  question: lateとlatelyの意味の違いは？
+  answer: late「遅く」、lately「最近」（= recently）。latelyは現在完了時制で用いるのが通例。
+- node_id: sgh-031
+  seq: 2
+  question: hardとhardlyの意味の違いは？
+  answer: hard「一生懸命に」、hardly「ほとんど〜ない」。意味が全く異なる。
+- node_id: sgh-031
+  seq: 3
+  question: 「家に帰る」はgo to homeか、go homeか？
+  answer: go home。homeは副詞なので前置詞toは不要。ただし所有格・冠詞がつくとhomeは名詞（go to his home）。
+- node_id: sgh-031
+  seq: 4
+  question: abroad, home以外に前置詞不要の副詞を3つ挙げよ。
+  answer: outdoors/indoors, upstairs/downstairs, downtown, overseasなど。
+- node_id: sgh-032
+  seq: 1
+  question: however, therefore, besidesはそれぞれ何を表す接続副詞か？
+  answer: however「しかしながら」（逆接）、therefore「それゆえに」（結果）、besides「その上」（追加）。
+- node_id: sgh-032
+  seq: 2
+  question: nevertheless/nonetheless/all the same/stillに共通する意味は？
+  answer: いずれも「それにもかかわらず」（逆接）を表す。
+- node_id: sgh-032
+  seq: 3
+  question: 文修飾の副詞とは何か？ 例を3つ挙げよ。
+  answer: '文全体を修飾し話し手の判断を表す副詞。例: luckily「幸運にも」、evidently「明らかに」、unfortunately「不運にも」。'
+- node_id: sgh-032
+  seq: 4
+  question: Luckily we got home. をIt is...that構文で書き換えると？
+  answer: It was lucky that we got home before it started to rain.
+- node_id: sgh-033
+  seq: 1
+  question: 否定文で「まだ〜していない」を表すのはyetかstillか？ 位置の違いは？
+  answer: どちらも可。yetは文末（haven't done yet）、stillはnot の前（still hasn't done）。stillを使うといら立ちのニュアンスが出る。
+- node_id: sgh-033
+  seq: 2
+  question: 疑問文でalreadyとyetの使い分けは？
+  answer: yetは文末で「もう〜したか」（普通の疑問）。alreadyは文中で「もう〜したのか」（驚きのニュアンス）。
+- node_id: sgh-033
+  seq: 3
+  question: ten years agoとtwo years beforeの違いは？
+  answer: ago「今から〜前」→過去形で使用。before「過去のある時点から〜前」→過去完了形で使用。agoは現在完了形・過去完了形と使えない。
+- node_id: sgh-033
+  seq: 4
+  question: before を単独で「以前に」の意味で使う場合、どの時制と使えるか？
+  answer: '現在完了形でも過去形でも使える。例: I have seen the picture before. / I saw the picture before.'
+- node_id: sgh-034
+  seq: 1
+  question: 「ほとんどの学生」を almost を使って表すには？
+  answer: almost all students。almostは副詞なので直接名詞を修飾できず、×almost studentsは不可。
+- node_id: sgh-034
+  seq: 2
+  question: most of students は正しいか？
+  answer: 不可。most of の後には the や one's が必要。most of the students / most of his students が正しい。
+- node_id: sgh-034
+  seq: 3
+  question: I almost missed the train. の意味は？
+  answer: あやうく列車に乗り遅れるところだった（実際は乗れた）。almost + 動詞で「もう少しで〜するところで」の意味。
 node_prerequisites: []
-
 knowledge_references:
-  - node_id: "sgh-031"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_169"
-    pages: ""
-  - node_id: "sgh-031"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_170"
-    pages: ""
-  - node_id: "sgh-032"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_171"
-    pages: ""
-  - node_id: "sgh-032"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_172"
-    pages: ""
-  - node_id: "sgh-033"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_173"
-    pages: ""
-  - node_id: "sgh-033"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_174"
-    pages: ""
-  - node_id: "sgh-034"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_175"
-    pages: ""
+- node_id: sgh-031
+  book: スクランブル英文法・語法
+  section_id: Scr_169
+  pages: ''
+- node_id: sgh-032
+  book: スクランブル英文法・語法
+  section_id: Scr_171
+  pages: ''
+- node_id: sgh-033
+  book: スクランブル英文法・語法
+  section_id: Scr_173
+  pages: ''
+- node_id: sgh-034
+  book: スクランブル英文法・語法
+  section_id: Scr_175
+  pages: ''

@@ -1,149 +1,147 @@
 sentences:
-  - id: "scr-077-p01"
-    section_id: "Scr_077"
-    drill: 1
-    number: 280
-    role: "exam"
-    english: "She is the last person to do such a thing."
-    japanese: "彼女がそんなことをするとは思えません。"
-    notes: "難易度: 頻出。出典: 白百合女子大。整序問題。the last A to do =「決して～しないA/最も～しそうにないA」。= the last person who would do"
-  - id: "scr-077-p02"
-    section_id: "Scr_077"
-    drill: 1
-    number: 281
-    role: "exam"
-    english: "Their manners were anything but pleasant."
-    japanese: "彼らのマナーは決して感じのよいものではなかった。"
-    notes: "難易度: 頻出。出典: 仏教大。anything but ～ =「決して～でない」（= by no means）。but =「～以外の」前置詞"
-  - id: "scr-077-p03"
-    section_id: "Scr_077"
-    drill: 1
-    number: 282
-    role: "exam"
-    english: "Bill told me that he's far from smart."
-    japanese: "自分は決して利口ではないとビルは私に言った。"
-    notes: "難易度: 頻出。出典: 中央大。far from ～ =「決して～でない」（= anything but）。= not smart at all（⇨ PU!54）"
-  - id: "scr-077-p04"
-    section_id: "Scr_077"
-    drill: 1
-    number: 283
-    role: "exam"
-    english: "Surprisingly, this drug is free from side effects."
-    japanese: "驚くべきことに、この薬には全く副作用がありません。"
-    notes: "難易度: 頻出。出典: 中央大。free from [of] ～ =「～がない」。望ましくないものがない場合に用いる。= does not have side effects（⇨ PU!54）"
-  - id: "scr-077-p05"
-    section_id: "Scr_077"
-    drill: 1
-    number: 284
-    role: "exam"
-    english: "The pain was more than I could bear."
-    japanese: "その痛みは耐えられないほどでした。"
-    notes: "出典なし。整序問題。more than A can ～ =「Aが～できないほど(の)」。肯定形だが否定的に訳す"
-  - id: "scr-077-p06"
-    section_id: "Scr_077"
-    drill: 1
-    number: 285
-    role: "exam"
-    english: "Although I speak some French, I have yet to visit France."
-    japanese: "私はフランス語をいくらか話せるが、まだフランスを訪れていない。"
-    notes: "難易度: 頻出、発展。出典: 立命館大。have yet to do =「まだ～していない」。= be yet to do（⇨ 問101）。have/be yet to be done も可"
-  - id: "scr-077-p07"
-    section_id: "Scr_077"
-    drill: 1
-    number: 286
-    role: "exam"
-    english: "The problem of how to prevent war remains to be solved."
-    japanese: "戦争をいかにして防止するかという問題はいまだ解決されていない。"
-    notes: "難易度: 発展。出典: 中央大。整序問題。remain to be done =「まだ～されていない」（⇨ PU!55）"
-  - id: "scr-077-e01"
-    section_id: "Scr_077"
-    drill: 0
-    number: null
-    role: "example"
-    english: "This report is far from satisfactory."
-    japanese: "この報告書は決して十分ではない。"
-    notes: "PU!54(1)。far from B → A is not B at all（SVCの否定）"
-  - id: "scr-077-e02"
-    section_id: "Scr_077"
-    drill: 0
-    number: null
-    role: "example"
-    english: "He is free from any fear."
-    japanese: "彼には何の不安もない。"
-    notes: "PU!54(2)。free from B → A does not have B（SVOの否定）。= He has no fear."
-
+- id: scr-077-p01
+  section_id: Scr_077
+  drill: 1
+  number: 280
+  role: exam
+  english: She is the last person to do such a thing.
+  japanese: 彼女がそんなことをするとは思えません。
+  notes: '難易度: 頻出。出典: 白百合女子大。整序問題。the last A to do =「決して～しないA/最も～しそうにないA」。= the last person who would do'
+- id: scr-077-p02
+  section_id: Scr_077
+  drill: 1
+  number: 281
+  role: exam
+  english: Their manners were anything but pleasant.
+  japanese: 彼らのマナーは決して感じのよいものではなかった。
+  notes: '難易度: 頻出。出典: 仏教大。anything but ～ =「決して～でない」（= by no means）。but =「～以外の」前置詞'
+- id: scr-077-p03
+  section_id: Scr_077
+  drill: 1
+  number: 282
+  role: exam
+  english: Bill told me that he's far from smart.
+  japanese: 自分は決して利口ではないとビルは私に言った。
+  notes: '難易度: 頻出。出典: 中央大。far from ～ =「決して～でない」（= anything but）。= not smart at all（⇨ PU!54）'
+- id: scr-077-p04
+  section_id: Scr_077
+  drill: 1
+  number: 283
+  role: exam
+  english: Surprisingly, this drug is free from side effects.
+  japanese: 驚くべきことに、この薬には全く副作用がありません。
+  notes: '難易度: 頻出。出典: 中央大。free from [of] ～ =「～がない」。望ましくないものがない場合に用いる。= does not have side effects（⇨ PU!54）'
+- id: scr-077-p05
+  section_id: Scr_077
+  drill: 1
+  number: 284
+  role: exam
+  english: The pain was more than I could bear.
+  japanese: その痛みは耐えられないほどでした。
+  notes: 出典なし。整序問題。more than A can ～ =「Aが～できないほど(の)」。肯定形だが否定的に訳す
+- id: scr-077-p06
+  section_id: Scr_077
+  drill: 1
+  number: 285
+  role: exam
+  english: Although I speak some French, I have yet to visit France.
+  japanese: 私はフランス語をいくらか話せるが、まだフランスを訪れていない。
+  notes: '難易度: 頻出、発展。出典: 立命館大。have yet to do =「まだ～していない」。= be yet to do（⇨ 問101）。have/be yet to be done も可'
+- id: scr-077-p07
+  section_id: Scr_077
+  drill: 1
+  number: 286
+  role: exam
+  english: The problem of how to prevent war remains to be solved.
+  japanese: 戦争をいかにして防止するかという問題はいまだ解決されていない。
+  notes: '難易度: 発展。出典: 中央大。整序問題。remain to be done =「まだ～されていない」（⇨ PU!55）'
+- id: scr-077-e01
+  section_id: Scr_077
+  drill: 0
+  number: 1
+  role: example
+  english: This report is far from satisfactory.
+  japanese: この報告書は決して十分ではない。
+  notes: PU!54(1)。far from B → A is not B at all（SVCの否定）
+- id: scr-077-e02
+  section_id: Scr_077
+  drill: 0
+  number: 2
+  role: example
+  english: He is free from any fear.
+  japanese: 彼には何の不安もない。
+  notes: PU!54(2)。free from B → A does not have B（SVOの否定）。= He has no fear.
 sentence_structures:
-  - sentence_id: "scr-077-p01"
-    label: "overall"
-    value: "S V C"
-  - sentence_id: "scr-077-p01"
-    label: "details"
-    value: "<She>(S) is(V) <the last person to do such a thing>(C)"
-  - sentence_id: "scr-077-p02"
-    label: "overall"
-    value: "S V C"
-  - sentence_id: "scr-077-p02"
-    label: "details"
-    value: "<Their manners>(S) were(V) [anything but pleasant](C:否定表現)"
-  - sentence_id: "scr-077-p03"
-    label: "overall"
-    value: "S V O"
-  - sentence_id: "scr-077-p03"
-    label: "details"
-    value: "<Bill>(S) told(V) <me>(O1) [that he's far from smart](O2:that節)"
-  - sentence_id: "scr-077-p04"
-    label: "overall"
-    value: "S V C"
-  - sentence_id: "scr-077-p04"
-    label: "details"
-    value: "[Surprisingly](M), <this drug>(S) is(V) [free from side effects](C:否定表現)"
-  - sentence_id: "scr-077-p05"
-    label: "overall"
-    value: "S V C"
-  - sentence_id: "scr-077-p05"
-    label: "details"
-    value: "<The pain>(S) was(V) [more than I could bear](C)"
-  - sentence_id: "scr-077-p06"
-    label: "overall"
-    value: "S V O"
-  - sentence_id: "scr-077-p06"
-    label: "details"
-    value: "[Although I speak some French](M:譲歩), <I>(S) have yet to visit(V) <France>(O)"
-  - sentence_id: "scr-077-p07"
-    label: "overall"
-    value: "S V C"
-  - sentence_id: "scr-077-p07"
-    label: "details"
-    value: "<The problem of how to prevent war>(S) remains(V) [to be solved](C:不定詞)"
-  - sentence_id: "scr-077-e01"
-    label: "overall"
-    value: "S V C"
-  - sentence_id: "scr-077-e01"
-    label: "details"
-    value: "<This report>(S) is(V) [far from satisfactory](C:否定表現)"
-  - sentence_id: "scr-077-e02"
-    label: "overall"
-    value: "S V C"
-  - sentence_id: "scr-077-e02"
-    label: "details"
-    value: "<He>(S) is(V) [free from any fear](C:否定表現)"
-
+- sentence_id: scr-077-p01
+  label: overall
+  value: S V C
+- sentence_id: scr-077-p01
+  label: details
+  value: <She>(S) is(V) <the last person to do such a thing>(C)
+- sentence_id: scr-077-p02
+  label: overall
+  value: S V C
+- sentence_id: scr-077-p02
+  label: details
+  value: <Their manners>(S) were(V) [anything but pleasant](C:否定表現)
+- sentence_id: scr-077-p03
+  label: overall
+  value: S V O
+- sentence_id: scr-077-p03
+  label: details
+  value: <Bill>(S) told(V) <me>(O1) [that he's far from smart](O2:that節)
+- sentence_id: scr-077-p04
+  label: overall
+  value: S V C
+- sentence_id: scr-077-p04
+  label: details
+  value: '[Surprisingly](M), <this drug>(S) is(V) [free from side effects](C:否定表現)'
+- sentence_id: scr-077-p05
+  label: overall
+  value: S V C
+- sentence_id: scr-077-p05
+  label: details
+  value: <The pain>(S) was(V) [more than I could bear](C)
+- sentence_id: scr-077-p06
+  label: overall
+  value: S V O
+- sentence_id: scr-077-p06
+  label: details
+  value: '[Although I speak some French](M:譲歩), <I>(S) have yet to visit(V) <France>(O)'
+- sentence_id: scr-077-p07
+  label: overall
+  value: S V C
+- sentence_id: scr-077-p07
+  label: details
+  value: <The problem of how to prevent war>(S) remains(V) [to be solved](C:不定詞)
+- sentence_id: scr-077-e01
+  label: overall
+  value: S V C
+- sentence_id: scr-077-e01
+  label: details
+  value: <This report>(S) is(V) [far from satisfactory](C:否定表現)
+- sentence_id: scr-077-e02
+  label: overall
+  value: S V C
+- sentence_id: scr-077-e02
+  label: details
+  value: <He>(S) is(V) [free from any fear](C:否定表現)
 sentence_knowledge_tags:
-  - sentence_id: "scr-077-p01"
-    node_id: "shs-009"
-  - sentence_id: "scr-077-p02"
-    node_id: "shs-009"
-  - sentence_id: "scr-077-p03"
-    node_id: "shs-009"
-  - sentence_id: "scr-077-p04"
-    node_id: "shs-009"
-  - sentence_id: "scr-077-p05"
-    node_id: "shs-009"
-  - sentence_id: "scr-077-p06"
-    node_id: "shs-009"
-  - sentence_id: "scr-077-p07"
-    node_id: "shs-009"
-  - sentence_id: "scr-077-e01"
-    node_id: "shs-009"
-  - sentence_id: "scr-077-e02"
-    node_id: "shs-009"
+- sentence_id: scr-077-p01
+  node_id: shs-009
+- sentence_id: scr-077-p02
+  node_id: shs-009
+- sentence_id: scr-077-p03
+  node_id: shs-009
+- sentence_id: scr-077-p04
+  node_id: shs-009
+- sentence_id: scr-077-p05
+  node_id: shs-009
+- sentence_id: scr-077-p06
+  node_id: shs-009
+- sentence_id: scr-077-p07
+  node_id: shs-009
+- sentence_id: scr-077-e01
+  node_id: shs-009
+- sentence_id: scr-077-e02
+  node_id: shs-009

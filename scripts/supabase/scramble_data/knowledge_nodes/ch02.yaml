@@ -1,400 +1,438 @@
-# Ch02 受動態 — sdv-006〜sdv-013
-
 knowledge_nodes:
-  - id: "sdv-006"
-    name: "受動態の基本"
-    category: "動詞・時制"
-    priority: "P1"
-    notes: |
-      Theme 8: 受動態の基本（問題29-30）
-      ■ 受動態の基本形: be + done（過去分詞）
-      能動態の目的語(O)を主語(S)にし、動詞部分を be done にする。
-      能動態の主語は by をつけて be done の後に置く。
-      ■ by A の省略:
-      ・動作主が一般の人々（we/you/they等）の場合 → 省略
-      ・前後の文脈から動作主が明らかな場合 → 省略
-      ■ 助動詞を含む文の受動態: 助動詞 + be done
-      助動詞はそのまま、後の動詞が be done になる（⇨問30: must be controlled）
-      〈語句〉at any cost「どんなに費用をかけても／どんなことをしても」
+- id: sdv-006
+  name: 受動態の基本
+  category: 動詞・時制
+  priority: P1
+  notes: 'Theme 8: 受動態の基本（問題29-30）
 
-  - id: "sdv-007"
-    name: "完了形の受動態と進行形の受動態"
-    category: "動詞・時制"
-    priority: "P1"
-    notes: |
-      Theme 9: 完了形の受動態／進行形の受動態（問題31-32）
-      ■ 完了形の受動態: have been done
-      （⇨問31: has been sung — 継続を表す現在完了形の受動態）
-      ■ 進行形の受動態: be being done 「～されているところだ」
-      （⇨問32: is being constructed）
-      〈選択肢〉問32: construct「～を建設する」は他動詞。目的語がないので完了形(has/had)は不可。
+    ■ 受動態の基本形: be + done（過去分詞）
 
-  - id: "sdv-008"
-    name: "群動詞の受動態"
-    category: "動詞・時制"
-    priority: "P1"
-    notes: |
-      Theme 10: 群動詞の受動態（問題33-34）
-      ■ 群動詞（2語以上で1つの動詞と同じ働き）をひとまとまりとして扱う。
-      ■ ポイント: 末尾の前置詞を落とさない。
-      ・laugh at ~ → be laughed at (by ~)
-      ・take care of ~ → be taken care of (by ~)
-      ■「動詞＋名詞＋前置詞」型の群動詞で名詞に修飾語がある場合:
-      動詞の後の名詞を主語にした受動態と、前置詞の後の名詞を主語にした受動態の2通りが可能。
-      ・You must take good care of your health.
-        → Good care must be taken of your health.
-        → Your health must be taken good care of.
-      Power Up! 8〈発展〉: 受動態の訳し方 — 日本語では能動態で言うところを英語では受動態で表現することが多い。訳して自然な日本語にならなければ、能動態に直して訳す。特に助動詞を含む受動態がそうである。
+    能動態の目的語(O)を主語(S)にし、動詞部分を be done にする。
 
-  - id: "sdv-009"
-    name: "使役動詞・知覚動詞の受動態"
-    category: "動詞・時制"
-    priority: "P1"
-    notes: |
-      Theme 11: 使役動詞・知覚動詞の受動態（問題35-36）
-      ■ 使役動詞 make の受動態:
-      make A do → A is made to do（原形不定詞が to 不定詞になる）
-      ■ 知覚動詞 see の受動態:
-      see A do → A is seen to do（同上）
-      ■ 受動態にできる知覚動詞: see, hear, observe
-      その他の知覚動詞（watch, feel等）はふつう能動態で用いる。
-      ■ have / let は受動態にしない:
-      let は allow で代用する（I was allowed to go to college.）
+    能動態の主語は by をつけて be done の後に置く。
 
-  - id: "sdv-010"
-    name: "目的語がthat節の場合の受動態"
-    category: "動詞・時制"
-    priority: "P1"
-    notes: |
-      Theme 12: 目的語がthat節の場合の受動態（問題37-38）
-      ■ They say that S + V の2つの受動態:
-      (1) It is said that S + V（形式主語 it を用いる）
-      (2) S is said to do ~（that節中の主語を文の主語にする）
-      ■ V が過去形/現在完了形の場合:
-      S is said to have done（完了不定詞を用いる）
-      ■ Power Up! 9: この形をとる動詞:
-      say, believe(⇨問38), expect, think, report, know
+    ■ by A の省略:
 
-  - id: "sdv-011"
-    name: "動作と状態を明確にする表現"
-    category: "動詞・時制"
-    priority: "P2"
-    notes: |
-      Theme 13: 動作/状態を明確にする表現（問題39-40）
-      受動態は「～される」(動作)と「～されている」(状態)の両方を表しうる。
-      ■ 動作を明確にする: be の代わりに get / become を使う
-      get + 過去分詞「～される」— 特に事故など予期しないことに用いることが多い
-      （⇨問39: got stolen）
-      ■ 状態を明確にする: be の代わりに remain / lie / stay を使う
-      remain + 過去分詞「～されたままである」
-      （⇨問40: remained closed; 参照: 問53 remain seated）
+    ・動作主が一般の人々（we/you/they等）の場合 → 省略
 
-  - id: "sdv-012"
-    name: "能動態と間違えやすい受動態"
-    category: "動詞・時制"
-    priority: "P1"
-    notes: |
-      Theme 14: 感情・心理状態を表す受動態（問題41-43）+ Theme 15: 被害を表す受動態（問題44-46）
-      日本語では能動態で表現するが、英語では受動態で表現するものがある。
-      受動態にした場合、動作主は by 以外の前置詞で示されることも多い。
-      慣用表現として覚えるべき。
-      ■ Power Up! 10: 感情・心理状態の受動態:
-      be surprised [astonished/amazed] at ~「～に驚く」
-      be shocked「ショックを受ける」 / be excited about [at] ~「～に興奮する」(⇨問41)
-      be amused「面白がる」 / be disappointed「失望する」
-      be concerned about ~「～を心配する」
-      be satisfied with ~「～に満足する」(⇨問42)
-      be interested in ~「～に興味がある」
-      be convinced of ~「～を確信する」
-      be absorbed in ~「～に夢中になっている」(= be lost in)(⇨問43)
-      ■ Power Up! 11: 被害の受動態:
-      be injured [hurt]「（事故で）けがをする」 / be wounded「（武器で）負傷する」
-      be delayed「（電車等が）遅れる」(⇨問44)
-      be killed「（事故・戦争で）死ぬ」(= die)(⇨問45)
-      be caught in ~「（雨・渋滞等に）あう」(⇨問46)
-      be defeated [beaten]「負ける」
+    ・前後の文脈から動作主が明らかな場合 → 省略
 
-  - id: "sdv-013"
-    name: "受動態に由来する慣用表現"
-    category: "動詞・時制"
-    priority: "P1"
-    notes: |
-      Theme 16: その他の受動態に由来する慣用表現（問題47-53）
-      ■ Power Up! 12: be known と結びつく4つの前置詞:
-      (1) be known to A「Aに知られている」(⇨問47) — 対象
-      (2) be known by A「Aによってわかる」— 判断の基準
-      (3) be known for A「Aで知られている」(⇨問48) [主語≠A]
-      (4) be known as A「Aとして知られている」 [主語＝A]
-      ■ Power Up! 13: その他の慣用表現:
-      be filled with ~「～で満たされている」(= be full of ~)(⇨問49)
-      be covered with ~「～で覆われている」
-      be engaged in ~「～に従事している」
-      be involved in ~「～にかかわっている」(⇨問50)
-      be crowded with ~「～で混雑している」
-      be confronted with ~「～に直面している」
-      be [get] married (to ~)「（～と）結婚している[する]」(⇨問51)
-      be based on ~「～に基づいている」
-      be dressed in ~「～を着ている」(⇨問52)
-      be [remain] seated「座る[座っている]」(⇨問53)
-      〈語句〉come to do「～するようになる」(問47)
-      〈語句〉judging by [from] ~「～から判断すると」(問49)
-      参照: Theme 13（get married = 動作の受動態, remain seated = 状態の受動態）
+    ■ 助動詞を含む文の受動態: 助動詞 + be done
 
+    助動詞はそのまま、後の動詞が be done になる（⇨問30: must be controlled）
+
+    〈語句〉at any cost「どんなに費用をかけても／どんなことをしても」
+
+    '
+- id: sdv-007
+  name: 完了形の受動態と進行形の受動態
+  category: 動詞・時制
+  priority: P1
+  notes: 'Theme 9: 完了形の受動態／進行形の受動態（問題31-32）
+
+    ■ 完了形の受動態: have been done
+
+    （⇨問31: has been sung — 継続を表す現在完了形の受動態）
+
+    ■ 進行形の受動態: be being done 「～されているところだ」
+
+    （⇨問32: is being constructed）
+
+    〈選択肢〉問32: construct「～を建設する」は他動詞。目的語がないので完了形(has/had)は不可。
+
+    '
+- id: sdv-008
+  name: 群動詞の受動態
+  category: 動詞・時制
+  priority: P1
+  notes: "Theme 10: 群動詞の受動態（問題33-34）\n■ 群動詞（2語以上で1つの動詞と同じ働き）をひとまとまりとして扱う。\n■ ポイント: 末尾の前置詞を落とさない。\n・laugh at ~ → be laughed at (by ~)\n・take care of ~ → be taken care of (by ~)\n■「動詞＋名詞＋前置詞」型の群動詞で名詞に修飾語がある場合:\n\
+    動詞の後の名詞を主語にした受動態と、前置詞の後の名詞を主語にした受動態の2通りが可能。\n・You must take good care of your health.\n  → Good care must be taken of your health.\n  → Your health must be taken good care of.\nPower Up! 8〈発展〉: 受動態の訳し方\
+    \ — 日本語では能動態で言うところを英語では受動態で表現することが多い。訳して自然な日本語にならなければ、能動態に直して訳す。特に助動詞を含む受動態がそうである。\n"
+- id: sdv-009
+  name: 使役動詞・知覚動詞の受動態
+  category: 動詞・時制
+  priority: P1
+  notes: 'Theme 11: 使役動詞・知覚動詞の受動態（問題35-36）
+
+    ■ 使役動詞 make の受動態:
+
+    make A do → A is made to do（原形不定詞が to 不定詞になる）
+
+    ■ 知覚動詞 see の受動態:
+
+    see A do → A is seen to do（同上）
+
+    ■ 受動態にできる知覚動詞: see, hear, observe
+
+    その他の知覚動詞（watch, feel等）はふつう能動態で用いる。
+
+    ■ have / let は受動態にしない:
+
+    let は allow で代用する（I was allowed to go to college.）
+
+    '
+- id: sdv-010
+  name: 目的語がthat節の場合の受動態
+  category: 動詞・時制
+  priority: P1
+  notes: 'Theme 12: 目的語がthat節の場合の受動態（問題37-38）
+
+    ■ They say that S + V の2つの受動態:
+
+    (1) It is said that S + V（形式主語 it を用いる）
+
+    (2) S is said to do ~（that節中の主語を文の主語にする）
+
+    ■ V が過去形/現在完了形の場合:
+
+    S is said to have done（完了不定詞を用いる）
+
+    ■ Power Up! 9: この形をとる動詞:
+
+    say, believe(⇨問38), expect, think, report, know
+
+    '
+- id: sdv-011
+  name: 動作と状態を明確にする表現
+  category: 動詞・時制
+  priority: P2
+  notes: 'Theme 13: 動作/状態を明確にする表現（問題39-40）
+
+    受動態は「～される」(動作)と「～されている」(状態)の両方を表しうる。
+
+    ■ 動作を明確にする: be の代わりに get / become を使う
+
+    get + 過去分詞「～される」— 特に事故など予期しないことに用いることが多い
+
+    （⇨問39: got stolen）
+
+    ■ 状態を明確にする: be の代わりに remain / lie / stay を使う
+
+    remain + 過去分詞「～されたままである」
+
+    （⇨問40: remained closed; 参照: 問53 remain seated）
+
+    '
+- id: sdv-012
+  name: 能動態と間違えやすい受動態
+  category: 動詞・時制
+  priority: P1
+  notes: 'Theme 14: 感情・心理状態を表す受動態（問題41-43）+ Theme 15: 被害を表す受動態（問題44-46）
+
+    日本語では能動態で表現するが、英語では受動態で表現するものがある。
+
+    受動態にした場合、動作主は by 以外の前置詞で示されることも多い。
+
+    慣用表現として覚えるべき。
+
+    ■ Power Up! 10: 感情・心理状態の受動態:
+
+    be surprised [astonished/amazed] at ~「～に驚く」
+
+    be shocked「ショックを受ける」 / be excited about [at] ~「～に興奮する」(⇨問41)
+
+    be amused「面白がる」 / be disappointed「失望する」
+
+    be concerned about ~「～を心配する」
+
+    be satisfied with ~「～に満足する」(⇨問42)
+
+    be interested in ~「～に興味がある」
+
+    be convinced of ~「～を確信する」
+
+    be absorbed in ~「～に夢中になっている」(= be lost in)(⇨問43)
+
+    ■ Power Up! 11: 被害の受動態:
+
+    be injured [hurt]「（事故で）けがをする」 / be wounded「（武器で）負傷する」
+
+    be delayed「（電車等が）遅れる」(⇨問44)
+
+    be killed「（事故・戦争で）死ぬ」(= die)(⇨問45)
+
+    be caught in ~「（雨・渋滞等に）あう」(⇨問46)
+
+    be defeated [beaten]「負ける」
+
+    '
+- id: sdv-013
+  name: 受動態に由来する慣用表現
+  category: 動詞・時制
+  priority: P1
+  notes: 'Theme 16: その他の受動態に由来する慣用表現（問題47-53）
+
+    ■ Power Up! 12: be known と結びつく4つの前置詞:
+
+    (1) be known to A「Aに知られている」(⇨問47) — 対象
+
+    (2) be known by A「Aによってわかる」— 判断の基準
+
+    (3) be known for A「Aで知られている」(⇨問48) [主語≠A]
+
+    (4) be known as A「Aとして知られている」 [主語＝A]
+
+    ■ Power Up! 13: その他の慣用表現:
+
+    be filled with ~「～で満たされている」(= be full of ~)(⇨問49)
+
+    be covered with ~「～で覆われている」
+
+    be engaged in ~「～に従事している」
+
+    be involved in ~「～にかかわっている」(⇨問50)
+
+    be crowded with ~「～で混雑している」
+
+    be confronted with ~「～に直面している」
+
+    be [get] married (to ~)「（～と）結婚している[する]」(⇨問51)
+
+    be based on ~「～に基づいている」
+
+    be dressed in ~「～を着ている」(⇨問52)
+
+    be [remain] seated「座る[座っている]」(⇨問53)
+
+    〈語句〉come to do「～するようになる」(問47)
+
+    〈語句〉judging by [from] ~「～から判断すると」(問49)
+
+    参照: Theme 13（get married = 動作の受動態, remain seated = 状態の受動態）
+
+    '
 understanding_goals:
-  # sdv-006
-  - node_id: "sdv-006"
-    seq: 1
-    goal: "能動態から受動態への書き換えができる"
-  - node_id: "sdv-006"
-    seq: 2
-    goal: "by A が省略される条件（一般の人々・文脈から明らか）を説明できる"
-  - node_id: "sdv-006"
-    seq: 3
-    goal: "助動詞を含む文の受動態（助動詞 + be done）を正しく作れる"
-  # sdv-007
-  - node_id: "sdv-007"
-    seq: 1
-    goal: "完了形の受動態（have been done）を正しく作れる"
-  - node_id: "sdv-007"
-    seq: 2
-    goal: "進行形の受動態（be being done）を正しく作れる"
-  - node_id: "sdv-007"
-    seq: 3
-    goal: "完了形の受動態と進行形の受動態を文脈に応じて区別できる"
-  # sdv-008
-  - node_id: "sdv-008"
-    seq: 1
-    goal: "群動詞の受動態で末尾の前置詞を落とさず正しく作れる"
-  - node_id: "sdv-008"
-    seq: 2
-    goal: "動詞＋名詞＋前置詞型の群動詞で2通りの受動態を理解できる"
-  - node_id: "sdv-008"
-    seq: 3
-    goal: "受動態の英文を自然な日本語に訳すために能動態に直して訳す判断ができる"
-  # sdv-009
-  - node_id: "sdv-009"
-    seq: 1
-    goal: "make A do の受動態（A is made to do）を正しく作れる"
-  - node_id: "sdv-009"
-    seq: 2
-    goal: "see A do の受動態（A is seen to do）を正しく作れる"
-  - node_id: "sdv-009"
-    seq: 3
-    goal: "have/let が受動態にならないことを理解し、let の代用（allow）を使える"
-  # sdv-010
-  - node_id: "sdv-010"
-    seq: 1
-    goal: "They say that S+V の2つの受動態（It is said... / S is said to...）を作れる"
-  - node_id: "sdv-010"
-    seq: 2
-    goal: "that節のVが過去形の場合に完了不定詞（to have done）を使えることを理解できる"
-  - node_id: "sdv-010"
-    seq: 3
-    goal: "say以外にこの形をとる動詞（believe, expect, think, report, know）を挙げられる"
-  # sdv-011
-  - node_id: "sdv-011"
-    seq: 1
-    goal: "get + 過去分詞で動作の受動態を表現できる"
-  - node_id: "sdv-011"
-    seq: 2
-    goal: "remain + 過去分詞で状態の受動態を表現できる"
-  - node_id: "sdv-011"
-    seq: 3
-    goal: "受動態が動作と状態のどちらを表すかを文脈から判断できる"
-  # sdv-012
-  - node_id: "sdv-012"
-    seq: 1
-    goal: "感情・心理を表す受動態表現（be surprised at, be satisfied with等）を正しく使える"
-  - node_id: "sdv-012"
-    seq: 2
-    goal: "被害を表す受動態表現（be injured, be killed, be caught in等）を正しく使える"
-  - node_id: "sdv-012"
-    seq: 3
-    goal: "受動態で用いられる前置詞（at, with, in, about等）を正しく選べる"
-  - node_id: "sdv-012"
-    seq: 4
-    goal: "日本語で能動態で表現するものを英語の受動態に変換できる"
-  # sdv-013
-  - node_id: "sdv-013"
-    seq: 1
-    goal: "be known to/for/by/as の4つの用法を使い分けられる"
-  - node_id: "sdv-013"
-    seq: 2
-    goal: "be filled with, be involved in 等の慣用表現と正しい前置詞を選べる"
-  - node_id: "sdv-013"
-    seq: 3
-    goal: "get married to, be dressed in, remain seated 等の慣用表現を正しく使える"
-
+- node_id: sdv-006
+  seq: 1
+  goal: 能動態から受動態への書き換えができる
+- node_id: sdv-006
+  seq: 2
+  goal: by A が省略される条件（一般の人々・文脈から明らか）を説明できる
+- node_id: sdv-006
+  seq: 3
+  goal: 助動詞を含む文の受動態（助動詞 + be done）を正しく作れる
+- node_id: sdv-007
+  seq: 1
+  goal: 完了形の受動態（have been done）を正しく作れる
+- node_id: sdv-007
+  seq: 2
+  goal: 進行形の受動態（be being done）を正しく作れる
+- node_id: sdv-007
+  seq: 3
+  goal: 完了形の受動態と進行形の受動態を文脈に応じて区別できる
+- node_id: sdv-008
+  seq: 1
+  goal: 群動詞の受動態で末尾の前置詞を落とさず正しく作れる
+- node_id: sdv-008
+  seq: 2
+  goal: 動詞＋名詞＋前置詞型の群動詞で2通りの受動態を理解できる
+- node_id: sdv-008
+  seq: 3
+  goal: 受動態の英文を自然な日本語に訳すために能動態に直して訳す判断ができる
+- node_id: sdv-009
+  seq: 1
+  goal: make A do の受動態（A is made to do）を正しく作れる
+- node_id: sdv-009
+  seq: 2
+  goal: see A do の受動態（A is seen to do）を正しく作れる
+- node_id: sdv-009
+  seq: 3
+  goal: have/let が受動態にならないことを理解し、let の代用（allow）を使える
+- node_id: sdv-010
+  seq: 1
+  goal: They say that S+V の2つの受動態（It is said... / S is said to...）を作れる
+- node_id: sdv-010
+  seq: 2
+  goal: that節のVが過去形の場合に完了不定詞（to have done）を使えることを理解できる
+- node_id: sdv-010
+  seq: 3
+  goal: say以外にこの形をとる動詞（believe, expect, think, report, know）を挙げられる
+- node_id: sdv-011
+  seq: 1
+  goal: get + 過去分詞で動作の受動態を表現できる
+- node_id: sdv-011
+  seq: 2
+  goal: remain + 過去分詞で状態の受動態を表現できる
+- node_id: sdv-011
+  seq: 3
+  goal: 受動態が動作と状態のどちらを表すかを文脈から判断できる
+- node_id: sdv-012
+  seq: 1
+  goal: 感情・心理を表す受動態表現（be surprised at, be satisfied with等）を正しく使える
+- node_id: sdv-012
+  seq: 2
+  goal: 被害を表す受動態表現（be injured, be killed, be caught in等）を正しく使える
+- node_id: sdv-012
+  seq: 3
+  goal: 受動態で用いられる前置詞（at, with, in, about等）を正しく選べる
+- node_id: sdv-012
+  seq: 4
+  goal: 日本語で能動態で表現するものを英語の受動態に変換できる
+- node_id: sdv-013
+  seq: 1
+  goal: be known to/for/by/as の4つの用法を使い分けられる
+- node_id: sdv-013
+  seq: 2
+  goal: be filled with, be involved in 等の慣用表現と正しい前置詞を選べる
+- node_id: sdv-013
+  seq: 3
+  goal: get married to, be dressed in, remain seated 等の慣用表現を正しく使える
 check_points:
-  # sdv-006
-  - node_id: "sdv-006"
-    seq: 1
-    question: "受動態の基本形はどのような形か？"
-    answer: "be + done（過去分詞）。能動態の目的語を主語にし、元の主語は by をつけて後に置く。"
-  - node_id: "sdv-006"
-    seq: 2
-    question: "by A が省略されるのはどのような場合か？"
-    answer: "動作主が一般の人々（we/you/they等）の場合、または前後の文脈から動作主が明らかな場合。"
-  - node_id: "sdv-006"
-    seq: 3
-    question: "助動詞を含む文を受動態にするとどうなるか？"
-    answer: "助動詞はそのままで、後の動詞が be done になる（例: must be controlled）。"
-  # sdv-007
-  - node_id: "sdv-007"
-    seq: 1
-    question: "完了形の受動態はどのような形か？"
-    answer: "have been done（例: This song has been sung by many singers.）"
-  - node_id: "sdv-007"
-    seq: 2
-    question: "進行形の受動態はどのような形か？"
-    answer: "be being done「～されているところだ」（例: A new building is being constructed.）"
-  - node_id: "sdv-007"
-    seq: 3
-    question: "A new building (has / is being) constructed on campus. の正しい形は？"
-    answer: "is being。construct は他動詞で目的語がないので受動態。「建てられている」は進行形の受動態。"
-  # sdv-008
-  - node_id: "sdv-008"
-    seq: 1
-    question: "laugh at ~ の受動態はどうなるか？"
-    answer: "be laughed at (by ~)。群動詞をひとまとまりとして扱い、末尾の前置詞を落とさない。"
-  - node_id: "sdv-008"
-    seq: 2
-    question: "take care of ~ の受動態はどうなるか？"
-    answer: "be taken care of (by ~)。「動詞+名詞+前置詞」型も末尾の前置詞を落とさない。"
-  - node_id: "sdv-008"
-    seq: 3
-    question: "受動態の英文を日本語に訳す際、不自然になる場合はどうするか？"
-    answer: "能動態に直して訳す（例: It must be done. → すぐにそれをしなければならない）。"
-  # sdv-009
-  - node_id: "sdv-009"
-    seq: 1
-    question: "make A do を受動態にするとどうなるか？"
-    answer: "A is made to do。原形不定詞が to 不定詞になる。"
-  - node_id: "sdv-009"
-    seq: 2
-    question: "see A do を受動態にするとどうなるか？"
-    answer: "A is seen to do。make と同様に原形不定詞が to 不定詞になる。"
-  - node_id: "sdv-009"
-    seq: 3
-    question: "let を受動態にするにはどうするか？"
-    answer: "let は受動態にしない。allow で代用する（I was allowed to go.）。have も受動態にしない。"
-  # sdv-010
-  - node_id: "sdv-010"
-    seq: 1
-    question: "They say that S + V の2通りの受動態は何か？"
-    answer: "(1) It is said that S + V (2) S is said to do ~"
-  - node_id: "sdv-010"
-    seq: 2
-    question: "They say that he lived here. を S is said to ... の形にするとどうなるか？"
-    answer: "He is said to have lived here.（that節のVが過去形の場合、完了不定詞を用いる）"
-  - node_id: "sdv-010"
-    seq: 3
-    question: "say 以外にこの受動態の形をとる動詞を3つ挙げよ。"
-    answer: "believe, expect, think, report, know のいずれか3つ。"
-  # sdv-011
-  - node_id: "sdv-011"
-    seq: 1
-    question: "受動態の「動作」を明確にするには be の代わりに何を使うか？"
-    answer: "get / become を使う。特に get は事故など予期しないことに用いることが多い。"
-  - node_id: "sdv-011"
-    seq: 2
-    question: "受動態の「状態」を明確にするには be の代わりに何を使うか？"
-    answer: "remain / lie / stay を使う（例: remain closed「閉鎖されたままである」）。"
-  - node_id: "sdv-011"
-    seq: 3
-    question: "The road remained (closing / closed) for a week. の正しい形は？"
-    answer: "closed。remain + 過去分詞で「～されたままである」(状態)を表す。"
-  # sdv-012
-  - node_id: "sdv-012"
-    seq: 1
-    question: "「～に驚く」を英語の受動態で表すとどうなるか？"
-    answer: "be surprised [astonished / amazed] at ~"
-  - node_id: "sdv-012"
-    seq: 2
-    question: "be excited / be satisfied / be absorbed の後に続く前置詞はそれぞれ何か？"
-    answer: "be excited about [at] ~ / be satisfied with ~ / be absorbed in ~"
-  - node_id: "sdv-012"
-    seq: 3
-    question: "「けがをする」「死ぬ（事故で）」「にわか雨にあう」を受動態で表すと？"
-    answer: "be injured [hurt] / be killed / be caught in a shower"
-  - node_id: "sdv-012"
-    seq: 4
-    question: "なぜ感情・被害の表現で英語は受動態を使うのか？"
-    answer: "日本語では「驚く」「死ぬ」と能動態だが、英語では surprise, kill 等が他動詞（～を驚かせる、～を殺す）なので、主語が感情・被害の対象の場合は受動態になる。"
-  # sdv-013
-  - node_id: "sdv-013"
-    seq: 1
-    question: "be known to / for / by / as の意味の違いは何か？"
-    answer: "to A「Aに知られている」/ for A「Aで知られている」(主語≠A) / by A「Aによってわかる」(判断基準) / as A「Aとして知られている」(主語=A)"
-  - node_id: "sdv-013"
-    seq: 2
-    question: "be filled with ~ と be full of ~ の関係は？"
-    answer: "同義。「～で満たされている」。filled は fill（～を満たす）の受動態。"
-  - node_id: "sdv-013"
-    seq: 3
-    question: "get married to ~ と be married to ~ の違いは？"
-    answer: "get married to ~ は「結婚する」(動作)。be married to ~ は「結婚している」(状態)。get は動作を明確にする。"
-  - node_id: "sdv-013"
-    seq: 4
-    question: "Please remain (sat / seated). の正しい形は？"
-    answer: "seated。seat は「～を着席させる」という他動詞なので、「座る」は be seated。remain + seated で「座っている」(状態)。"
-
+- node_id: sdv-006
+  seq: 1
+  question: 受動態の基本形はどのような形か？
+  answer: be + done（過去分詞）。能動態の目的語を主語にし、元の主語は by をつけて後に置く。
+- node_id: sdv-006
+  seq: 2
+  question: by A が省略されるのはどのような場合か？
+  answer: 動作主が一般の人々（we/you/they等）の場合、または前後の文脈から動作主が明らかな場合。
+- node_id: sdv-006
+  seq: 3
+  question: 助動詞を含む文を受動態にするとどうなるか？
+  answer: '助動詞はそのままで、後の動詞が be done になる（例: must be controlled）。'
+- node_id: sdv-007
+  seq: 1
+  question: 完了形の受動態はどのような形か？
+  answer: 'have been done（例: This song has been sung by many singers.）'
+- node_id: sdv-007
+  seq: 2
+  question: 進行形の受動態はどのような形か？
+  answer: 'be being done「～されているところだ」（例: A new building is being constructed.）'
+- node_id: sdv-007
+  seq: 3
+  question: A new building (has / is being) constructed on campus. の正しい形は？
+  answer: is being。construct は他動詞で目的語がないので受動態。「建てられている」は進行形の受動態。
+- node_id: sdv-008
+  seq: 1
+  question: laugh at ~ の受動態はどうなるか？
+  answer: be laughed at (by ~)。群動詞をひとまとまりとして扱い、末尾の前置詞を落とさない。
+- node_id: sdv-008
+  seq: 2
+  question: take care of ~ の受動態はどうなるか？
+  answer: be taken care of (by ~)。「動詞+名詞+前置詞」型も末尾の前置詞を落とさない。
+- node_id: sdv-008
+  seq: 3
+  question: 受動態の英文を日本語に訳す際、不自然になる場合はどうするか？
+  answer: '能動態に直して訳す（例: It must be done. → すぐにそれをしなければならない）。'
+- node_id: sdv-009
+  seq: 1
+  question: make A do を受動態にするとどうなるか？
+  answer: A is made to do。原形不定詞が to 不定詞になる。
+- node_id: sdv-009
+  seq: 2
+  question: see A do を受動態にするとどうなるか？
+  answer: A is seen to do。make と同様に原形不定詞が to 不定詞になる。
+- node_id: sdv-009
+  seq: 3
+  question: let を受動態にするにはどうするか？
+  answer: let は受動態にしない。allow で代用する（I was allowed to go.）。have も受動態にしない。
+- node_id: sdv-010
+  seq: 1
+  question: They say that S + V の2通りの受動態は何か？
+  answer: (1) It is said that S + V (2) S is said to do ~
+- node_id: sdv-010
+  seq: 2
+  question: They say that he lived here. を S is said to ... の形にするとどうなるか？
+  answer: He is said to have lived here.（that節のVが過去形の場合、完了不定詞を用いる）
+- node_id: sdv-010
+  seq: 3
+  question: say 以外にこの受動態の形をとる動詞を3つ挙げよ。
+  answer: believe, expect, think, report, know のいずれか3つ。
+- node_id: sdv-011
+  seq: 1
+  question: 受動態の「動作」を明確にするには be の代わりに何を使うか？
+  answer: get / become を使う。特に get は事故など予期しないことに用いることが多い。
+- node_id: sdv-011
+  seq: 2
+  question: 受動態の「状態」を明確にするには be の代わりに何を使うか？
+  answer: 'remain / lie / stay を使う（例: remain closed「閉鎖されたままである」）。'
+- node_id: sdv-011
+  seq: 3
+  question: The road remained (closing / closed) for a week. の正しい形は？
+  answer: closed。remain + 過去分詞で「～されたままである」(状態)を表す。
+- node_id: sdv-012
+  seq: 1
+  question: 「～に驚く」を英語の受動態で表すとどうなるか？
+  answer: be surprised [astonished / amazed] at ~
+- node_id: sdv-012
+  seq: 2
+  question: be excited / be satisfied / be absorbed の後に続く前置詞はそれぞれ何か？
+  answer: be excited about [at] ~ / be satisfied with ~ / be absorbed in ~
+- node_id: sdv-012
+  seq: 3
+  question: 「けがをする」「死ぬ（事故で）」「にわか雨にあう」を受動態で表すと？
+  answer: be injured [hurt] / be killed / be caught in a shower
+- node_id: sdv-012
+  seq: 4
+  question: なぜ感情・被害の表現で英語は受動態を使うのか？
+  answer: 日本語では「驚く」「死ぬ」と能動態だが、英語では surprise, kill 等が他動詞（～を驚かせる、～を殺す）なので、主語が感情・被害の対象の場合は受動態になる。
+- node_id: sdv-013
+  seq: 1
+  question: be known to / for / by / as の意味の違いは何か？
+  answer: to A「Aに知られている」/ for A「Aで知られている」(主語≠A) / by A「Aによってわかる」(判断基準) / as A「Aとして知られている」(主語=A)
+- node_id: sdv-013
+  seq: 2
+  question: be filled with ~ と be full of ~ の関係は？
+  answer: 同義。「～で満たされている」。filled は fill（～を満たす）の受動態。
+- node_id: sdv-013
+  seq: 3
+  question: get married to ~ と be married to ~ の違いは？
+  answer: get married to ~ は「結婚する」(動作)。be married to ~ は「結婚している」(状態)。get は動作を明確にする。
+- node_id: sdv-013
+  seq: 4
+  question: Please remain (sat / seated). の正しい形は？
+  answer: seated。seat は「～を着席させる」という他動詞なので、「座る」は be seated。remain + seated で「座っている」(状態)。
 node_prerequisites:
-  - node_id: "sdv-006"
-    prerequisite_id: "sdv-001"
-  - node_id: "sdv-007"
-    prerequisite_id: "sdv-006"
-  - node_id: "sdv-007"
-    prerequisite_id: "sdv-002"
-  - node_id: "sdv-007"
-    prerequisite_id: "sdv-003"
-  - node_id: "sdv-008"
-    prerequisite_id: "sdv-006"
-  - node_id: "sdv-009"
-    prerequisite_id: "sdv-006"
-  - node_id: "sdv-010"
-    prerequisite_id: "sdv-006"
-  - node_id: "sdv-011"
-    prerequisite_id: "sdv-006"
-  - node_id: "sdv-012"
-    prerequisite_id: "sdv-006"
-  - node_id: "sdv-013"
-    prerequisite_id: "sdv-006"
-
+- node_id: sdv-006
+  prerequisite_id: sdv-001
+- node_id: sdv-007
+  prerequisite_id: sdv-006
+- node_id: sdv-007
+  prerequisite_id: sdv-002
+- node_id: sdv-007
+  prerequisite_id: sdv-003
+- node_id: sdv-008
+  prerequisite_id: sdv-006
+- node_id: sdv-009
+  prerequisite_id: sdv-006
+- node_id: sdv-010
+  prerequisite_id: sdv-006
+- node_id: sdv-011
+  prerequisite_id: sdv-006
+- node_id: sdv-012
+  prerequisite_id: sdv-006
+- node_id: sdv-013
+  prerequisite_id: sdv-006
 knowledge_references:
-  - node_id: "sdv-006"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_008"
-    pages: ""
-  - node_id: "sdv-007"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_009"
-    pages: ""
-  - node_id: "sdv-008"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_010"
-    pages: ""
-  - node_id: "sdv-009"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_011"
-    pages: ""
-  - node_id: "sdv-010"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_012"
-    pages: ""
-  - node_id: "sdv-011"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_013"
-    pages: ""
-  - node_id: "sdv-012"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_014"
-    pages: ""
-  - node_id: "sdv-012"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_015"
-    pages: ""
-  - node_id: "sdv-013"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_016"
-    pages: ""
+- node_id: sdv-006
+  book: スクランブル英文法・語法
+  section_id: Scr_008
+  pages: ''
+- node_id: sdv-007
+  book: スクランブル英文法・語法
+  section_id: Scr_009
+  pages: ''
+- node_id: sdv-008
+  book: スクランブル英文法・語法
+  section_id: Scr_010
+  pages: ''
+- node_id: sdv-009
+  book: スクランブル英文法・語法
+  section_id: Scr_011
+  pages: ''
+- node_id: sdv-010
+  book: スクランブル英文法・語法
+  section_id: Scr_012
+  pages: ''
+- node_id: sdv-011
+  book: スクランブル英文法・語法
+  section_id: Scr_013
+  pages: ''
+- node_id: sdv-012
+  book: スクランブル英文法・語法
+  section_id: Scr_014
+  pages: ''
+- node_id: sdv-013
+  book: スクランブル英文法・語法
+  section_id: Scr_016
+  pages: ''

@@ -1,309 +1,306 @@
 knowledge_nodes:
-  - id: "sgh-019"
-    name: "不可算名詞の用法"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 151。日本語の感覚では数えられるように思える名詞でも、英語では不可算名詞のものがある。a/anはつかず、複数形にもならない。数量はmuch [a lot of] / littleで表す（many/fewは使えない）。some/anyは可算・不可算の両方に使える。不可算名詞を数えるにはa piece ofを用いる（a piece of advice, three pieces of furniture）。
-      Power Up! 129: 入試によく出る不可算名詞 — information, luck, news, homework, work, advice, progress, money, fun, damage, knowledge, furniture。関連: furniture(集合名詞/個々はtable等で可算), machinery(machineは可算), poetry(poemは可算), baggage [luggage](bagは可算), scenery(sceneは可算)。
-      funは不可算名詞で、強調はvery funではなくa lot of fun / good [great] funとする。be fun / It is fun to do [doing] / have funの形で使うことが多い。
-      most of the Aが主語の場合、動詞はAに一致させる（A=不可算→単数、A=複数→複数）。
-      参照: PU! 51（部分否定, 問595のnot much）。
+- id: sgh-019
+  name: 不可算名詞の用法
+  category: 語法
+  priority: P1
+  notes: 'Theme 151。日本語の感覚では数えられるように思える名詞でも、英語では不可算名詞のものがある。a/anはつかず、複数形にもならない。数量はmuch [a lot of] / littleで表す（many/fewは使えない）。some/anyは可算・不可算の両方に使える。不可算名詞を数えるにはa piece ofを用いる（a piece of advice, three pieces
+    of furniture）。
 
-  - id: "sgh-020"
-    name: "複数形に注意すべき名詞"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 152。相手が必要なので必ず複数形をとる慣用表現と、意味によって常に複数形をとる名詞がある。
-      Power Up! 130: 相手が必要なので常に複数形をとる慣用表現 — make friends (with ~)「(~と)友達になる」、be on ... terms with ~「~と…の間柄である」、shake hands (with ~)「(~と)握手する」、change trains [buses/planes]「乗り換える」、change [exchange] seats (with ~)「(~と)席を替える」、exchange views [opinions]「意見交換する」、take turns (at [in]) doing「交替で~する」。
-      Power Up! 131: 意味によって常に複数形をとる名詞 — airs(気取り/put on airs), arms(武器), customs(関税/税関), forces(軍隊), letters(文学/a man of letters), goods(商品), means(手段/資産), manners(礼儀作法), pains(骨折り/take pains), spirits(気分/be in high spirits)。
-      meansは「手段」の意味では単複同形（Every possible means has been tried. / All possible means have been tried.）。「資産」の意味では複数扱い（His means are small. / live within [beyond] one's means）。
-      参照: 問600→850(c)、問602→PU! 20（have no choice but to do）。
+    Power Up! 129: 入試によく出る不可算名詞 — information, luck, news, homework, work, advice, progress, money, fun, damage, knowledge, furniture。関連: furniture(集合名詞/個々はtable等で可算), machinery(machineは可算), poetry(poemは可算),
+    baggage [luggage](bagは可算), scenery(sceneは可算)。
 
-  - id: "sgh-021"
-    name: "「客」「料金・お金」を表す名詞の使い分け"
-    category: "語法"
-    priority: "P2"
-    notes: |
-      Theme 153+154。「客」と「料金・お金」を表す名詞の使い分け。
-      Power Up! 132「客」を表す名詞: customer(店の顧客), visitor(訪問客), tourist(観光客), client(弁護士などへの依頼人), passenger(乗客), guest(招待客/ホテルの宿泊客), audience(劇などの観客/聴衆), patient(患者), spectator(スポーツなどの観客)。
-      Power Up! 133「料金・お金」を表す名詞: charge(サービス料金/公共料金), fare(乗り物の運賃), toll(通行料), fee(専門職への謝礼/入場料), allowance(手当/小遣い), tuition(授業料), cost(費用/経費), price(商品の値段), fine [penalty](罰金), rent(家賃/賃貸料), admission(入場料), pay(給料), commission(手数料), tax(税金), profit(利益), cash(現金), check(小切手), bill(請求書/勘定書)。
-      the cost of living「生活費」。参照: 問612→394（命令文+otherwise）。
+    funは不可算名詞で、強調はvery funではなくa lot of fun / good [great] funとする。be fun / It is fun to do [doing] / have funの形で使うことが多い。
 
-  - id: "sgh-022"
-    name: "「仕事・職業」「予約・約束」を表す名詞の使い分け"
-    category: "語法"
-    priority: "P2"
-    notes: |
-      Theme 155+156。「仕事・職業」と「予約・約束」を表す名詞の使い分け。
-      Power Up! 134「仕事・職業」を表す名詞: work(仕事/不可算), job(特定の仕事/可算), labor(骨の折れる仕事), business(商売/事業), task(課せられた仕事), occupation(職業), assignment(割り当てられた仕事/宿題), profession(知的・専門的な職業), career(長期的な職業/経歴), trade(商売/手を使う職業)。workは「作品/著作」の意味では可算名詞（a work of art「芸術作品」）。do a good job「うまくやってのける」。
-      Power Up! 135「予約・約束」を表す名詞: promise(一般的な約束), appointment(診察などの予約/面会の約束), reservation(切符・部屋・座席の予約), booking(予約=reservation), subscription(予約購読), engagement(婚約/面会の約束)。promiseには「将来の見込み/有望」の意味もある。
+    most of the Aが主語の場合、動詞はAに一致させる（A=不可算→単数、A=複数→複数）。
 
-  - id: "sgh-023"
-    name: "catch A by the armの表現"
-    category: "語法"
-    priority: "P2"
-    notes: |
-      Theme 157。「動詞+A+前置詞+the+身体部位」の表現。英語らしい表現で、「Aを~した」と大まかに言って、具体的な身体部位を前置詞句で述べる。身体の一部には通例theがつく（口語ではA'sとすることもある）。前置詞によって3タイプに分かれる。
-      Power Up! 136: (1) by型 — catch [take/hold/grasp] A by the arm「Aの腕をつかむ」、pull A by the sleeve「Aの袖を引く」。(2) on型 — strike [hit] A on the head「Aの頭をなぐる」、pat [tap] A on the shoulder「Aの肩を軽くたたく」、kiss A on the cheek「Aの頬にキスする」。(3) in型 — look [stare] A in the eye(s) [face]「Aの目[顔]をじっと見る」。
-      〈重要〉look A in the eye(s) のlookは他動詞。×look at A in the eye(s)としない。
-      動詞のニュアンス差: catch(動いているものをつかむ) / take(動かないものを手に取る) / hold(つかんでいる) / grasp [grip](しっかりとつかむ)。strike(手や棒で強く打つ) / hit(ねらって強く打つ) / pat [tap](手のひらで優しく[軽く]たたく)。
+    参照: PU! 51（部分否定, 問595のnot much）。
 
-  - id: "sgh-024"
-    name: "注意すべき冠詞の位置とa friend of mineの形"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 158+159。(1) 冠詞の位置: ふつうは「a [an] + 形容詞 + 名詞」（a pretty girl）、veryがついても「a [an] + very + 形容詞 + 名詞」（a very pretty girl）。ただし副詞がso/as/too/howの場合は「so [as/too/how] + 形容詞 + a [an] + 名詞」の語順（so pretty a girl）。文語表現だが入試頻出。suchの場合は「such + a [an](+ 形容詞) + 名詞」（such a pretty girl = so pretty a girl）。日常会話ではsoよりsuchのほうがふつう。〈発展〉複数名詞の場合は×so funny movies、°such funny movies。Power Up! 137参照。
-      (2) a friend of mineの形: 所有格はa/this/that/some/any/most/noなどと並べて使えない。名詞の場合は「of + 所有格」の形を名詞の後につける（this book of Mary's）。代名詞の場合は「of + 所有代名詞（mine/ours/yours/hers/his/theirs）」の形を名詞の後につける（a friend of mine「私の友人の1人」）。Power Up! 138参照。
+    '
+- id: sgh-020
+  name: 複数形に注意すべき名詞
+  category: 語法
+  priority: P1
+  notes: 'Theme 152。相手が必要なので必ず複数形をとる慣用表現と、意味によって常に複数形をとる名詞がある。
 
-  - id: "sgh-025"
-    name: "by the+単位名詞とby+交通・通信手段"
-    category: "語法"
-    priority: "P2"
-    notes: |
-      Theme 160+161。(1) by the+単位名詞: 「by the + 単位を表す名詞」で「~単位で/~ぎめで」。必ずtheを用いる点に注意。by the hour「時間単位で」、by the day [week/month]「日給[週給/月給]制で」、by the pound「ポンド単位で」。
-      (2) by+交通・通信手段: 「by + 交通・通信の手段を表す名詞」では名詞は無冠詞・単数形。by car, by train, by bus, by ship, by phone, by email等。ただし名詞に冠詞や所有格がつくと前置詞はbyではなくin/onを用いる。in his car（小型の乗り物はin）、on a bus（大型の乗り物はon）、on my motorcycle（またがる乗り物はon）。
-      「電話で」はon [over] the phoneでも可（theがつく）。on the Internet [internet/net]「インターネットで」も重要。
-      Power Up! 139: by car, by train, by bus, by subway [tube], by air (=by plane), by sea, by bicycle, by ship, by phone, by email, by letter, by wire, by mail [post]。
-      参照: 問632→1096（contact）。
+    Power Up! 130: 相手が必要なので常に複数形をとる慣用表現 — make friends (with ~)「(~と)友達になる」、be on ... terms with ~「~と…の間柄である」、shake hands (with ~)「(~と)握手する」、change trains [buses/planes]「乗り換える」、change [exchange] seats (with
+    ~)「(~と)席を替える」、exchange views [opinions]「意見交換する」、take turns (at [in]) doing「交替で~する」。
 
+    Power Up! 131: 意味によって常に複数形をとる名詞 — airs(気取り/put on airs), arms(武器), customs(関税/税関), forces(軍隊), letters(文学/a man of letters), goods(商品), means(手段/資産), manners(礼儀作法), pains(骨折り/take pains), spirits(気分/be
+    in high spirits)。
+
+    meansは「手段」の意味では単複同形（Every possible means has been tried. / All possible means have been tried.）。「資産」の意味では複数扱い（His means are small. / live within [beyond] one''s means）。
+
+    参照: 問600→850(c)、問602→PU! 20（have no choice but to do）。
+
+    '
+- id: sgh-021
+  name: 「客」「料金・お金」を表す名詞の使い分け
+  category: 語法
+  priority: P2
+  notes: 'Theme 153+154。「客」と「料金・お金」を表す名詞の使い分け。
+
+    Power Up! 132「客」を表す名詞: customer(店の顧客), visitor(訪問客), tourist(観光客), client(弁護士などへの依頼人), passenger(乗客), guest(招待客/ホテルの宿泊客), audience(劇などの観客/聴衆), patient(患者), spectator(スポーツなどの観客)。
+
+    Power Up! 133「料金・お金」を表す名詞: charge(サービス料金/公共料金), fare(乗り物の運賃), toll(通行料), fee(専門職への謝礼/入場料), allowance(手当/小遣い), tuition(授業料), cost(費用/経費), price(商品の値段), fine [penalty](罰金), rent(家賃/賃貸料), admission(入場料),
+    pay(給料), commission(手数料), tax(税金), profit(利益), cash(現金), check(小切手), bill(請求書/勘定書)。
+
+    the cost of living「生活費」。参照: 問612→394（命令文+otherwise）。
+
+    '
+- id: sgh-022
+  name: 「仕事・職業」「予約・約束」を表す名詞の使い分け
+  category: 語法
+  priority: P2
+  notes: 'Theme 155+156。「仕事・職業」と「予約・約束」を表す名詞の使い分け。
+
+    Power Up! 134「仕事・職業」を表す名詞: work(仕事/不可算), job(特定の仕事/可算), labor(骨の折れる仕事), business(商売/事業), task(課せられた仕事), occupation(職業), assignment(割り当てられた仕事/宿題), profession(知的・専門的な職業), career(長期的な職業/経歴), trade(商売/手を使う職業)。workは「作品/著作」の意味では可算名詞（a
+    work of art「芸術作品」）。do a good job「うまくやってのける」。
+
+    Power Up! 135「予約・約束」を表す名詞: promise(一般的な約束), appointment(診察などの予約/面会の約束), reservation(切符・部屋・座席の予約), booking(予約=reservation), subscription(予約購読), engagement(婚約/面会の約束)。promiseには「将来の見込み/有望」の意味もある。
+
+    '
+- id: sgh-023
+  name: catch A by the armの表現
+  category: 語法
+  priority: P2
+  notes: 'Theme 157。「動詞+A+前置詞+the+身体部位」の表現。英語らしい表現で、「Aを~した」と大まかに言って、具体的な身体部位を前置詞句で述べる。身体の一部には通例theがつく（口語ではA''sとすることもある）。前置詞によって3タイプに分かれる。
+
+    Power Up! 136: (1) by型 — catch [take/hold/grasp] A by the arm「Aの腕をつかむ」、pull A by the sleeve「Aの袖を引く」。(2) on型 — strike [hit] A on the head「Aの頭をなぐる」、pat [tap] A on the shoulder「Aの肩を軽くたたく」、kiss A on the
+    cheek「Aの頬にキスする」。(3) in型 — look [stare] A in the eye(s) [face]「Aの目[顔]をじっと見る」。
+
+    〈重要〉look A in the eye(s) のlookは他動詞。×look at A in the eye(s)としない。
+
+    動詞のニュアンス差: catch(動いているものをつかむ) / take(動かないものを手に取る) / hold(つかんでいる) / grasp [grip](しっかりとつかむ)。strike(手や棒で強く打つ) / hit(ねらって強く打つ) / pat [tap](手のひらで優しく[軽く]たたく)。
+
+    '
+- id: sgh-024
+  name: 注意すべき冠詞の位置とa friend of mineの形
+  category: 語法
+  priority: P1
+  notes: 'Theme 158+159。(1) 冠詞の位置: ふつうは「a [an] + 形容詞 + 名詞」（a pretty girl）、veryがついても「a [an] + very + 形容詞 + 名詞」（a very pretty girl）。ただし副詞がso/as/too/howの場合は「so [as/too/how] + 形容詞 + a [an] + 名詞」の語順（so pretty
+    a girl）。文語表現だが入試頻出。suchの場合は「such + a [an](+ 形容詞) + 名詞」（such a pretty girl = so pretty a girl）。日常会話ではsoよりsuchのほうがふつう。〈発展〉複数名詞の場合は×so funny movies、°such funny movies。Power Up! 137参照。
+
+    (2) a friend of mineの形: 所有格はa/this/that/some/any/most/noなどと並べて使えない。名詞の場合は「of + 所有格」の形を名詞の後につける（this book of Mary''s）。代名詞の場合は「of + 所有代名詞（mine/ours/yours/hers/his/theirs）」の形を名詞の後につける（a friend of mine「私の友人の1人」）。Power
+    Up! 138参照。
+
+    '
+- id: sgh-025
+  name: by the+単位名詞とby+交通・通信手段
+  category: 語法
+  priority: P2
+  notes: 'Theme 160+161。(1) by the+単位名詞: 「by the + 単位を表す名詞」で「~単位で/~ぎめで」。必ずtheを用いる点に注意。by the hour「時間単位で」、by the day [week/month]「日給[週給/月給]制で」、by the pound「ポンド単位で」。
+
+    (2) by+交通・通信手段: 「by + 交通・通信の手段を表す名詞」では名詞は無冠詞・単数形。by car, by train, by bus, by ship, by phone, by email等。ただし名詞に冠詞や所有格がつくと前置詞はbyではなくin/onを用いる。in his car（小型の乗り物はin）、on a bus（大型の乗り物はon）、on my motorcycle（またがる乗り物はon）。
+
+    「電話で」はon [over] the phoneでも可（theがつく）。on the Internet [internet/net]「インターネットで」も重要。
+
+    Power Up! 139: by car, by train, by bus, by subway [tube], by air (=by plane), by sea, by bicycle, by ship, by phone, by email, by letter, by wire, by mail [post]。
+
+    参照: 問632→1096（contact）。
+
+    '
 understanding_goals:
-  # sgh-019
-  - node_id: "sgh-019"
-    seq: 1
-    goal: "代表的な不可算名詞（information, furniture, news, advice, fun, homework等）を見分けられる"
-  - node_id: "sgh-019"
-    seq: 2
-    goal: "不可算名詞に対してa/an・複数形を使わない判断ができる"
-  - node_id: "sgh-019"
-    seq: 3
-    goal: "不可算名詞の数量表現（much/little, a piece of等）を正しく選択できる"
-  - node_id: "sgh-019"
-    seq: 4
-    goal: "funの特殊な用法（不可算名詞、強調形はa lot of fun）を理解できる"
-  # sgh-020
-  - node_id: "sgh-020"
-    seq: 1
-    goal: "相手が必要なため必ず複数形をとる慣用表現（make friends, be on ... terms等）を正しく使える"
-  - node_id: "sgh-020"
-    seq: 2
-    goal: "意味によって常に複数形をとる名詞（arms, customs, goods, spirits等）を識別できる"
-  - node_id: "sgh-020"
-    seq: 3
-    goal: "meansが単複同形であることを理解し、単数・複数扱いを使い分けられる"
-  # sgh-021
-  - node_id: "sgh-021"
-    seq: 1
-    goal: "「客」を表す名詞（customer, guest, client, passenger, patient, spectator等）を場面に応じて使い分けられる"
-  - node_id: "sgh-021"
-    seq: 2
-    goal: "「料金・お金」を表す名詞（fare, cost, fine, rent, fee, charge等）を場面に応じて使い分けられる"
-  - node_id: "sgh-021"
-    seq: 3
-    goal: "the cost of livingなどの重要表現を理解できる"
-  # sgh-022
-  - node_id: "sgh-022"
-    seq: 1
-    goal: "work（不可算）とjob（可算）の違いを理解し正しく使い分けられる"
-  - node_id: "sgh-022"
-    seq: 2
-    goal: "occupation, profession, careerなどの「職業」を表す名詞を場面に応じて使い分けられる"
-  - node_id: "sgh-022"
-    seq: 3
-    goal: "promise, appointment, reservationの使い分けを理解し正しく選択できる"
-  # sgh-023
-  - node_id: "sgh-023"
-    seq: 1
-    goal: "「動詞+A+前置詞+the+身体部位」の表現で、前置詞by/on/inの使い分けができる"
-  - node_id: "sgh-023"
-    seq: 2
-    goal: "身体部位にtheがつくことを理解し正しく使える"
-  - node_id: "sgh-023"
-    seq: 3
-    goal: "look A in the eye(s) のlookが他動詞であることを理解できる"
-  # sgh-024
-  - node_id: "sgh-024"
-    seq: 1
-    goal: "so/as/too/how + 形容詞 + a [an] + 名詞の語順を正しく使える"
-  - node_id: "sgh-024"
-    seq: 2
-    goal: "such + a [an] (+ 形容詞) + 名詞の語順を理解し、so構文との書き換えができる"
-  - node_id: "sgh-024"
-    seq: 3
-    goal: "所有格とa/this/that等が並べられない場合にa friend of mine型の表現を使える"
-  - node_id: "sgh-024"
-    seq: 4
-    goal: "名詞の所有格（Mary's）と所有代名詞（mine）の使い分けを理解できる"
-  # sgh-025
-  - node_id: "sgh-025"
-    seq: 1
-    goal: "by the + 単位名詞の形と意味（~単位で）を理解し、theが必要であることを覚えられる"
-  - node_id: "sgh-025"
-    seq: 2
-    goal: "by + 交通手段の名詞が無冠詞・単数形であることを理解できる"
-  - node_id: "sgh-025"
-    seq: 3
-    goal: "交通手段の名詞に冠詞・所有格がつく場合にin/onを使い分けられる"
-
+- node_id: sgh-019
+  seq: 1
+  goal: 代表的な不可算名詞（information, furniture, news, advice, fun, homework等）を見分けられる
+- node_id: sgh-019
+  seq: 2
+  goal: 不可算名詞に対してa/an・複数形を使わない判断ができる
+- node_id: sgh-019
+  seq: 3
+  goal: 不可算名詞の数量表現（much/little, a piece of等）を正しく選択できる
+- node_id: sgh-019
+  seq: 4
+  goal: funの特殊な用法（不可算名詞、強調形はa lot of fun）を理解できる
+- node_id: sgh-020
+  seq: 1
+  goal: 相手が必要なため必ず複数形をとる慣用表現（make friends, be on ... terms等）を正しく使える
+- node_id: sgh-020
+  seq: 2
+  goal: 意味によって常に複数形をとる名詞（arms, customs, goods, spirits等）を識別できる
+- node_id: sgh-020
+  seq: 3
+  goal: meansが単複同形であることを理解し、単数・複数扱いを使い分けられる
+- node_id: sgh-021
+  seq: 1
+  goal: 「客」を表す名詞（customer, guest, client, passenger, patient, spectator等）を場面に応じて使い分けられる
+- node_id: sgh-021
+  seq: 2
+  goal: 「料金・お金」を表す名詞（fare, cost, fine, rent, fee, charge等）を場面に応じて使い分けられる
+- node_id: sgh-021
+  seq: 3
+  goal: the cost of livingなどの重要表現を理解できる
+- node_id: sgh-022
+  seq: 1
+  goal: work（不可算）とjob（可算）の違いを理解し正しく使い分けられる
+- node_id: sgh-022
+  seq: 2
+  goal: occupation, profession, careerなどの「職業」を表す名詞を場面に応じて使い分けられる
+- node_id: sgh-022
+  seq: 3
+  goal: promise, appointment, reservationの使い分けを理解し正しく選択できる
+- node_id: sgh-023
+  seq: 1
+  goal: 「動詞+A+前置詞+the+身体部位」の表現で、前置詞by/on/inの使い分けができる
+- node_id: sgh-023
+  seq: 2
+  goal: 身体部位にtheがつくことを理解し正しく使える
+- node_id: sgh-023
+  seq: 3
+  goal: look A in the eye(s) のlookが他動詞であることを理解できる
+- node_id: sgh-024
+  seq: 1
+  goal: so/as/too/how + 形容詞 + a [an] + 名詞の語順を正しく使える
+- node_id: sgh-024
+  seq: 2
+  goal: such + a [an] (+ 形容詞) + 名詞の語順を理解し、so構文との書き換えができる
+- node_id: sgh-024
+  seq: 3
+  goal: 所有格とa/this/that等が並べられない場合にa friend of mine型の表現を使える
+- node_id: sgh-024
+  seq: 4
+  goal: 名詞の所有格（Mary's）と所有代名詞（mine）の使い分けを理解できる
+- node_id: sgh-025
+  seq: 1
+  goal: by the + 単位名詞の形と意味（~単位で）を理解し、theが必要であることを覚えられる
+- node_id: sgh-025
+  seq: 2
+  goal: by + 交通手段の名詞が無冠詞・単数形であることを理解できる
+- node_id: sgh-025
+  seq: 3
+  goal: 交通手段の名詞に冠詞・所有格がつく場合にin/onを使い分けられる
 check_points:
-  # sgh-019
-  - node_id: "sgh-019"
-    seq: 1
-    question: "information, furniture, news, advice, homeworkの共通点は？"
-    answer: "すべて不可算名詞。a/anはつかず、複数形にならない。"
-  - node_id: "sgh-019"
-    seq: 2
-    question: "不可算名詞の「多少」を表すにはmany/fewとmuch/littleのどちらを使うか？"
-    answer: "much [a lot of] / littleを使う。many/fewは可算名詞用。ただしsome/anyは両方に使える。"
-  - node_id: "sgh-019"
-    seq: 3
-    question: "不可算名詞を「1つの~」と数えるにはどうするか？"
-    answer: "a piece ofを用いる（a piece of advice「1つの忠告」、three pieces of furniture「家具3点」）。"
-  - node_id: "sgh-019"
-    seq: 4
-    question: "funの強調形として正しいのはvery funとa lot of funのどちら？"
-    answer: "a lot of fun [good/great fun]。funは不可算名詞なのでvery funとは言わない。"
-  # sgh-020
-  - node_id: "sgh-020"
-    seq: 1
-    question: "「友達になる」「握手する」「交替で~する」を英語で言うと複数形はどこに使うか？"
-    answer: "make friends, shake hands, take turnsのように、相手が必要な行為は名詞が必ず複数形になる。"
-  - node_id: "sgh-020"
-    seq: 2
-    question: "arms, customs, goods, spiritsが複数形のときの意味は？"
-    answer: "arms=武器, customs=関税/税関, goods=商品, spirits=気分。単数形とは異なる意味になる。"
-  - node_id: "sgh-020"
-    seq: 3
-    question: "meansの数の扱いは？"
-    answer: "「手段」の意味では単複同形で、単数・複数どちらにも扱える（Every possible means has... / All possible means have...）。「資産」の意味では複数扱い。"
-  # sgh-021
-  - node_id: "sgh-021"
-    seq: 1
-    question: "customer, guest, client, patientはそれぞれどのような「客」か？"
-    answer: "customer=店の顧客、guest=招待客/ホテルの宿泊客、client=弁護士などへの依頼人、patient=患者。"
-  - node_id: "sgh-021"
-    seq: 2
-    question: "spectatorとaudienceの違いは？"
-    answer: "spectator=スポーツなどの観客、audience=劇などの観客/聴衆。"
-  - node_id: "sgh-021"
-    seq: 3
-    question: "fare, cost, fine, rentの違いは？"
-    answer: "fare=乗り物の運賃、cost=費用/経費、fine=罰金、rent=家賃/賃貸料。"
-  - node_id: "sgh-021"
-    seq: 4
-    question: "feeとchargeの違いは？"
-    answer: "fee=専門職への謝礼/入場料、charge=サービス料金/公共料金。"
-  # sgh-022
-  - node_id: "sgh-022"
-    seq: 1
-    question: "workとjobの違いは？"
-    answer: "work=仕事（不可算名詞）、job=特定の仕事（可算名詞）。ただしworkは「作品/著作」の意味では可算（a work of art）。"
-  - node_id: "sgh-022"
-    seq: 2
-    question: "occupationとprofessionの違いは？"
-    answer: "occupation=職業（一般的）、profession=知的・専門的な職業。"
-  - node_id: "sgh-022"
-    seq: 3
-    question: "promiseとappointmentとreservationの違いは？"
-    answer: "promise=一般的な約束、appointment=診察などの予約/面会の約束、reservation=切符・部屋・座席の予約。"
-  - node_id: "sgh-022"
-    seq: 4
-    question: "do a good jobの意味は？"
-    answer: "「うまくやってのける」。jobは可算名詞なのでaがつく。"
-  # sgh-023
-  - node_id: "sgh-023"
-    seq: 1
-    question: "catch A by the arm, pat A on the shoulder, look A in the eyeの前置詞の使い分けは？"
-    answer: "つかむ系(catch/take/hold/grasp)→by、たたく系(strike/hit/pat/tap/kiss)→on、見る系(look/stare)→in。"
-  - node_id: "sgh-023"
-    seq: 2
-    question: "この表現で身体部位につく冠詞は？"
-    answer: "通例theがつく（所有格ではない）。口語ではA'sとすることもある。"
-  - node_id: "sgh-023"
-    seq: 3
-    question: "look A in the eye(s)で注意すべき点は？"
-    answer: "lookは他動詞として使う。×look at A in the eye(s)としない。"
-  # sgh-024
-  - node_id: "sgh-024"
-    seq: 1
-    question: "「こんなに面白い映画」をso/suchそれぞれで言うと？"
-    answer: "so funny a movie / such a funny movie。soの場合は形容詞がa/anの前に来る。"
-  - node_id: "sgh-024"
-    seq: 2
-    question: "副詞がso/as/too/howの場合、冠詞はどこに置くか？"
-    answer: "「so [as/too/how] + 形容詞 + a [an] + 名詞」の語順。通常の「a + 形容詞 + 名詞」とは逆になる。"
-  - node_id: "sgh-024"
-    seq: 3
-    question: "「私の友人の1人」を英語で言うと？"
-    answer: "a friend of mine（×a my friend / ×my a friend）。所有格はa/this等と並べられないため。"
-  - node_id: "sgh-024"
-    seq: 4
-    question: "「メアリーのこの本」を英語で言うと？"
-    answer: "this book of Mary's（×Mary's this book）。名詞の場合はof+所有格を使う。"
-  # sgh-025
-  - node_id: "sgh-025"
-    seq: 1
-    question: "「時間単位で」を英語で言うと？"
-    answer: "by the hour。「by the + 単位名詞」では必ずtheを用いる。"
-  - node_id: "sgh-025"
-    seq: 2
-    question: "by carとin his carの違いは？"
-    answer: "by car（無冠詞）は一般的な手段を表す。名詞に冠詞や所有格がつくとbyではなくin/onを使う。"
-  - node_id: "sgh-025"
-    seq: 3
-    question: "大型の乗り物と小型の乗り物でin/onのどちらを使うか？"
-    answer: "小型の乗り物（車など）はin、大型の乗り物（バス・電車など）やまたがる乗り物（バイク・自転車）はon。"
-  - node_id: "sgh-025"
-    seq: 4
-    question: "「電話で」をby以外で言うと？"
-    answer: "on [over] the phone（theがつくことに注意）。"
-
+- node_id: sgh-019
+  seq: 1
+  question: information, furniture, news, advice, homeworkの共通点は？
+  answer: すべて不可算名詞。a/anはつかず、複数形にならない。
+- node_id: sgh-019
+  seq: 2
+  question: 不可算名詞の「多少」を表すにはmany/fewとmuch/littleのどちらを使うか？
+  answer: much [a lot of] / littleを使う。many/fewは可算名詞用。ただしsome/anyは両方に使える。
+- node_id: sgh-019
+  seq: 3
+  question: 不可算名詞を「1つの~」と数えるにはどうするか？
+  answer: a piece ofを用いる（a piece of advice「1つの忠告」、three pieces of furniture「家具3点」）。
+- node_id: sgh-019
+  seq: 4
+  question: funの強調形として正しいのはvery funとa lot of funのどちら？
+  answer: a lot of fun [good/great fun]。funは不可算名詞なのでvery funとは言わない。
+- node_id: sgh-020
+  seq: 1
+  question: 「友達になる」「握手する」「交替で~する」を英語で言うと複数形はどこに使うか？
+  answer: make friends, shake hands, take turnsのように、相手が必要な行為は名詞が必ず複数形になる。
+- node_id: sgh-020
+  seq: 2
+  question: arms, customs, goods, spiritsが複数形のときの意味は？
+  answer: arms=武器, customs=関税/税関, goods=商品, spirits=気分。単数形とは異なる意味になる。
+- node_id: sgh-020
+  seq: 3
+  question: meansの数の扱いは？
+  answer: 「手段」の意味では単複同形で、単数・複数どちらにも扱える（Every possible means has... / All possible means have...）。「資産」の意味では複数扱い。
+- node_id: sgh-021
+  seq: 1
+  question: customer, guest, client, patientはそれぞれどのような「客」か？
+  answer: customer=店の顧客、guest=招待客/ホテルの宿泊客、client=弁護士などへの依頼人、patient=患者。
+- node_id: sgh-021
+  seq: 2
+  question: spectatorとaudienceの違いは？
+  answer: spectator=スポーツなどの観客、audience=劇などの観客/聴衆。
+- node_id: sgh-021
+  seq: 3
+  question: fare, cost, fine, rentの違いは？
+  answer: fare=乗り物の運賃、cost=費用/経費、fine=罰金、rent=家賃/賃貸料。
+- node_id: sgh-021
+  seq: 4
+  question: feeとchargeの違いは？
+  answer: fee=専門職への謝礼/入場料、charge=サービス料金/公共料金。
+- node_id: sgh-022
+  seq: 1
+  question: workとjobの違いは？
+  answer: work=仕事（不可算名詞）、job=特定の仕事（可算名詞）。ただしworkは「作品/著作」の意味では可算（a work of art）。
+- node_id: sgh-022
+  seq: 2
+  question: occupationとprofessionの違いは？
+  answer: occupation=職業（一般的）、profession=知的・専門的な職業。
+- node_id: sgh-022
+  seq: 3
+  question: promiseとappointmentとreservationの違いは？
+  answer: promise=一般的な約束、appointment=診察などの予約/面会の約束、reservation=切符・部屋・座席の予約。
+- node_id: sgh-022
+  seq: 4
+  question: do a good jobの意味は？
+  answer: 「うまくやってのける」。jobは可算名詞なのでaがつく。
+- node_id: sgh-023
+  seq: 1
+  question: catch A by the arm, pat A on the shoulder, look A in the eyeの前置詞の使い分けは？
+  answer: つかむ系(catch/take/hold/grasp)→by、たたく系(strike/hit/pat/tap/kiss)→on、見る系(look/stare)→in。
+- node_id: sgh-023
+  seq: 2
+  question: この表現で身体部位につく冠詞は？
+  answer: 通例theがつく（所有格ではない）。口語ではA'sとすることもある。
+- node_id: sgh-023
+  seq: 3
+  question: look A in the eye(s)で注意すべき点は？
+  answer: lookは他動詞として使う。×look at A in the eye(s)としない。
+- node_id: sgh-024
+  seq: 1
+  question: 「こんなに面白い映画」をso/suchそれぞれで言うと？
+  answer: so funny a movie / such a funny movie。soの場合は形容詞がa/anの前に来る。
+- node_id: sgh-024
+  seq: 2
+  question: 副詞がso/as/too/howの場合、冠詞はどこに置くか？
+  answer: 「so [as/too/how] + 形容詞 + a [an] + 名詞」の語順。通常の「a + 形容詞 + 名詞」とは逆になる。
+- node_id: sgh-024
+  seq: 3
+  question: 「私の友人の1人」を英語で言うと？
+  answer: a friend of mine（×a my friend / ×my a friend）。所有格はa/this等と並べられないため。
+- node_id: sgh-024
+  seq: 4
+  question: 「メアリーのこの本」を英語で言うと？
+  answer: this book of Mary's（×Mary's this book）。名詞の場合はof+所有格を使う。
+- node_id: sgh-025
+  seq: 1
+  question: 「時間単位で」を英語で言うと？
+  answer: by the hour。「by the + 単位名詞」では必ずtheを用いる。
+- node_id: sgh-025
+  seq: 2
+  question: by carとin his carの違いは？
+  answer: by car（無冠詞）は一般的な手段を表す。名詞に冠詞や所有格がつくとbyではなくin/onを使う。
+- node_id: sgh-025
+  seq: 3
+  question: 大型の乗り物と小型の乗り物でin/onのどちらを使うか？
+  answer: 小型の乗り物（車など）はin、大型の乗り物（バス・電車など）やまたがる乗り物（バイク・自転車）はon。
+- node_id: sgh-025
+  seq: 4
+  question: 「電話で」をby以外で言うと？
+  answer: on [over] the phone（theがつくことに注意）。
 node_prerequisites: []
-
 knowledge_references:
-  - node_id: "sgh-019"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_151"
-    pages: ""
-  - node_id: "sgh-020"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_152"
-    pages: ""
-  - node_id: "sgh-021"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_153"
-    pages: ""
-  - node_id: "sgh-021"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_154"
-    pages: ""
-  - node_id: "sgh-022"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_155"
-    pages: ""
-  - node_id: "sgh-022"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_156"
-    pages: ""
-  - node_id: "sgh-023"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_157"
-    pages: ""
-  - node_id: "sgh-024"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_158"
-    pages: ""
-  - node_id: "sgh-024"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_159"
-    pages: ""
-  - node_id: "sgh-025"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_160"
-    pages: ""
-  - node_id: "sgh-025"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_161"
-    pages: ""
+- node_id: sgh-019
+  book: スクランブル英文法・語法
+  section_id: Scr_151
+  pages: ''
+- node_id: sgh-020
+  book: スクランブル英文法・語法
+  section_id: Scr_152
+  pages: ''
+- node_id: sgh-021
+  book: スクランブル英文法・語法
+  section_id: Scr_153
+  pages: ''
+- node_id: sgh-022
+  book: スクランブル英文法・語法
+  section_id: Scr_155
+  pages: ''
+- node_id: sgh-023
+  book: スクランブル英文法・語法
+  section_id: Scr_157
+  pages: ''
+- node_id: sgh-024
+  book: スクランブル英文法・語法
+  section_id: Scr_158
+  pages: ''
+- node_id: sgh-025
+  book: スクランブル英文法・語法
+  section_id: Scr_160
+  pages: ''

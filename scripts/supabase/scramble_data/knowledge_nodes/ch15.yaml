@@ -1,970 +1,1191 @@
-# Ch15 動詞の語法 — B10: Scr_125-138 + B11: Scr_139-150（Theme 125-150）
-
 knowledge_nodes:
-  - id: "sgh-001"
-    name: "自動詞と他動詞──前置詞の有無"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 125: 自動詞と他動詞──前置詞の有無（問題474-480）
-      ■ 他動詞（前置詞不要）— 自動詞と間違えやすい他動詞14語（PU!92）:
-      approach「〜に近づく」, attend「〜に出席する」, discuss「〜について議論する」,
-      obey「〜に従う」, marry「〜と結婚する」, leave「〜を去る」,
-      mention「〜に言及する」(= refer to), answer「〜に答える」(= reply to),
-      resemble「〜に似ている」, oppose「〜に反対する」(= object to),
-      enter「〜に入る」(= go into), reach「〜に着く」(= arrive at/in),
-      survive「〜を切り抜けて生き残る」, search「(場所)を捜す」(cf. search for「(物)を捜し求める」)
-      ■ 自動詞（前置詞必要）— 他動詞と間違えやすい自動詞7語（PU!93）:
-      apologize (to A) for B「(Aに)Bのことで謝る」, complain (to A) of/about B「(Aに)Bについて不平を言う」,
-      graduate from〜「〜を卒業する」, object to〜「〜に反対する」,
-      participate in〜「〜に参加する」, argue with A (about/over B)「(Bについて)Aと口論する」,
-      hope for〜「〜を望む」
-      ■ marry の3語法（〈重要〉）:
-      (1) A marry B「AはBと結婚する」
-      (2) A get [is] married to B「AはBと結婚する[している]」
-      (3) A and B get [are] married「AとBは結婚する[している]」
-      ■ hope の注意点:
-      (代)名詞が続くとき自動詞用法で for が必要。
-      他動詞の hope は to do [×doing] または that 節を目的語にとる。
-      参照: Theme 121（object to）, Theme 497（hope の to do / that 節）, Theme 543（hope の語法詳細）, Theme 168, Theme 735（survive）
+- id: sgh-001
+  name: 自動詞と他動詞──前置詞の有無
+  category: 語法
+  priority: P1
+  notes: 'Theme 125: 自動詞と他動詞──前置詞の有無（問題474-480）
 
-  - id: "sgh-002"
-    name: "自・他で活用と意味がまぎらわしい動詞（lie/lay, rise/raise）"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 126: 自・他で活用と意味がまぎらわしい動詞（問題481-487）
-      ■ lie/lay の活用（PU!94）:
-      - lie（自動詞）「横たわる/横になる」: lie - lay - lain - lying
-      - lay（他動詞）「〜を横たえる」: lay - laid - laid - laying
-      - lie「うそをつく」（別動詞）: lie - lied - lied - lying（規則変化）
-      ■ rise/raise の活用（PU!95）:
-      - rise（自動詞）「上がる/昇る」: rise - rose - risen - rising
-      - raise（他動詞）「〜を上げる」: raise - raised - raised - raising
-      ■ 〈プラスα〉lie + C（形容詞/doing/done）「〜の状態で横になっている/〜の状態にある」
-      ■ lay an egg「卵を産む」は連語で暗記
-      ■ lay oneself「横になる」(= lie)（⇨ Theme 89）
-      ■ raise の多義: 身体の一部を上げる / 価格・料金を上げる
-      ■ 判別法: 後ろに目的語があれば他動詞（lay/raise）、なければ自動詞（lie/rise）
-      参照: Theme 89（lay oneself = 再帰代名詞）, Theme 487（raise の受動態）
+    ■ 他動詞（前置詞不要）— 自動詞と間違えやすい他動詞14語（PU!92）:
 
-  - id: "sgh-003"
-    name: "動名詞・不定詞を目的語にとる動詞の区別"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 127+128+129: 動名詞/不定詞を目的語にとる動詞の区別（問題488-509）
-      ■ 動名詞だけを目的語にとる動詞「メガフェップスはデカイ」（PU!96）:
-      mind/miss/enjoy/give up/admit/finish/escape/postpone(put off)/stop/
-      suggest/deny/evade/consider/avoid/imagine の16語
-      ■ 不定詞だけを目的語にとる動詞（PU!97）:
-      afford/attempt/decide/expect/fail/hope/learn/manage/offer/plan/
-      pretend/promise/refuse/wish の14語
-      ■ 不定詞の to は「行きつく先/方向」→ 「これから〜しよう」という意欲・意図を表す動詞が多い
-      ■ not [never] fail to do「必ず〜する」（PU!98〈発展〉）:
-      - not fail to do: 1回限りの特定の行為
-      - never fail to do: 習慣的な行為
-      ■ rememberタイプ — 動名詞=過去、不定詞=未来（PU!99(1)）:
-      remember doing「〜したことを覚えている」/ remember to do「忘れずに〜する」
-      forget doing「〜したことを忘れる」/ forget to do「〜することを忘れる」
-      regret doing「〜したことを後悔する」/ regret to do「残念ながら〜する」
-      ■ needタイプ — 動名詞=受動、不定詞=能動（PU!99(2)）:
-      need doing「〜される必要がある」(= need to be done)
-      want doing「〜される必要がある」(= need doing)
-      deserve doing「〜されるだけの価値がある」(= deserve to be done)
-      ■ その他（PU!100）:
-      try doing「試しに〜してみる」/ try to do「〜しようと努力する」
-      mean doing「〜することを意味する」/ mean to do「〜するつもりである」(= intend to do)
-      go on doing「〜し続ける」/ go on to do「さらに続けて〜する」(= proceed to do)
-      ■ stop doing「〜するのをやめる」vs stop to do「〜するために立ち止まる」
-      — to do は目的語でなく「目的」の副詞的用法の不定詞
-      ■ 〈重要〉Would [Do] you mind doing?「〜していただけませんか」は頻出
-      ■ decide on doing も可（decide to do の代替）
-      ■ pretend not to do の語順（not は to の前）
-      参照: Theme 480（hope for）, Theme 487（raise）, Theme 89（lay oneself）,
-      Theme 906（give up）, Theme 922（put off）, Theme 996（succeed in doing）,
-      Theme 1081（take place）, Theme 543（hope）, Theme 189（as soon as possible）
+    approach「〜に近づく」, attend「〜に出席する」, discuss「〜について議論する」,
 
-  - id: "sgh-004"
-    name: "A of Bパターンの動詞（分離・剥奪のofと関連のof）"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 130+131: A of B パターンの動詞（問題510-515）
-      ■ 分離・剥奪・除去の of（PU!101）:
-      rob A of B「AからBを奪う」, deprive A of B「AからB（権利・能力等）を奪う」,
-      relieve A of B「AからBを取り除いて楽にさせる」,
-      cure A of B「A（人）のB（病気）を治す」,
-      clear A of B「A（場所）からB（じゃまな物）を取り除く」
-      ■ 関連の of（PU!102）:
-      remind A of B「AにBを思い出させる」, inform A of B「AにBを知らせる」,
-      convince A of B「AにBを確信させる」, persuade A of B「AにBを納得させる」,
-      warn A of B「AにBを警告する」, suspect A of B「AにBの嫌疑をかける」
-      ■ 〈重要〉rob vs steal の目的語の違い:
-      rob の目的語は「人・場所」/ steal の目的語は「物」
-      rob A(人) of B(物) ↔ steal B(物) from A(場所)
-      ■ remind の追加用法（〈発展〉）:
-      remind A to do「Aに〜するよう注意する」
-      remind A that〜「Aに〜と注意する」
-      ■ deprive は受動態で頻出: A is deprived of B「AはBを奪われる」
-      ■ convince A of B → 受動態: A is convinced of B「AはBを確信している」(= A is sure of B)
-      参照: Theme 1161（be sure of）
+    obey「〜に従う」, marry「〜と結婚する」, leave「〜を去る」,
 
-  - id: "sgh-005"
-    name: "regard A as Bタイプの動詞"
-    category: "語法"
-    priority: "P2"
-    notes: |
-      Theme 132: regard A as B タイプの動詞（問題516-518）
-      ■ regard A as B タイプの動詞（PU!103）:
-      regard A as B「AをBとみなす」(= consider A (to be) B)
-      look on [upon] A as B「AをBとみなす」
-      think of A as B「AをBとみなす」
-      see [view] A as B「AをBとみなす」
-      refer to A as B「AをBと呼ぶ/言う」
-      ■ as は「〜（である）と / 〜として」の意味。Bは名詞・形容詞
-      ■ A = B の補語的関係（him = a friend）
-      ■ refer to A as B の受動態: A is referred to as B「AはBと呼ばれている」— to を忘れない
-      ■ refer to〜「〜を参照する / 〜に言及する」も重要
-      参照: Theme 1009（refer to）
+    mention「〜に言及する」(= refer to), answer「〜に答える」(= reply to),
 
-  - id: "sgh-006"
-    name: "A from Bパターンの動詞（prevent from・distinguish from）"
-    category: "語法"
-    priority: "P2"
-    notes: |
-      Theme 133+134: A from B パターンの動詞（問題519-522）
-      ■ prevent A from doing タイプ（PU!104）:
-      prevent [keep/stop/hinder] A from doing「Aが〜するのを妨げる/Aに〜させない」
-      discourage A from doing「Aが〜するのを思いとどまらせる」
-      ⇔ encourage A to do「Aが〜するよう励ます/促す」
-      ■ keep/stop は prevent より口語的
-      ■ 「抑制・防止」の from「〜から / 〜しないように」
-      ■ distinguish A from B タイプ（PU!105）:
-      distinguish A from B「AとBを見分ける/区別する」(= distinguish between A and B)
-      tell A from B「AとBを見分ける」
-      know A from B「AとBを見分ける」— Do you know...? の形（×Can you know...?）
+    resemble「〜に似ている」, oppose「〜に反対する」(= object to),
 
-  - id: "sgh-007"
-    name: "A with/for/into Bパターンの動詞"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 135+136+137: A with/for/into B パターンの動詞（問題523-528）
-      ■ provide A with B タイプ（PU!106）:
-      provide A with B = provide B for [to] A「AにBを供給する/与える」
-      supply A with B = supply B for [to] A「AにBを供給する」
-      equip A with B「AにB（機器・装置・備品）を備え付ける」
-      present A with B = present B to A「AにBを贈る」
-      ■ blame A for B タイプ（PU!107）:
-      blame A for B「AをBで責める / BをAのせいにする」
-      excuse [forgive] A for B「AのB（行為）を許す」
-      punish A for B「AをBで罰する」
-      thank A for B「AにBの礼を言う」
-      praise A for B「AのBをほめる」
-      admire A for B「AのBに感心する」
-      ■ 〈注意〉accuse A of B は blame とほぼ同意だが前置詞が of — 入試で狙われやすい
-      ■ 賞罰を表す動詞は前置詞 for と結びつきやすい
-      ■ talk A into B [doing] タイプ（PU!108）:
-      talk [persuade] A into B [doing]「Aを説得してBさせる」
-      ⇔ talk [persuade] A out of B [doing]「Aを説得してBをやめさせる」
-      change [turn] A into B「AをBに変える」
-      make A into B「AをBにする」— 受動態: A is made into B
-      translate [put] A into B「AをBに翻訳する」
-      ■ present A with B の受動態: A is presented with B「AはBを贈られる」
-      参照: Theme 526（accuse A of B）
+    enter「〜に入る」(= go into), reach「〜に着く」(= arrive at/in),
 
-  - id: "sgh-008"
-    name: "SVOOの形をとる動詞・とらない動詞"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 138: SVOOの形をとる動詞/とらない動詞（問題529-535）
-      ■ SVOOの形をとる注意すべき動詞（PU!109）:
-      cause A B「AにBをもたらす」, charge A B「AにB（金額）を請求する」,
-      cost A B「AにB（犠牲・費用）を払わせる」, deny A B「AにBを与えない」,
-      save A B「AのB（労力）を省く」, spare A B「AにBをさく / AのBを省く」,
-      take A B「Aが（〜するのに）B（時間・労力）を必要とする」,
-      tell A B「AにBを話す」, wish A B「AにB（幸運・成功等）を祈る」
-      ■ SVOOの形をとらない注意すべき動詞（PU!110）:
-      admit / explain / introduce / say / suggest / confess
-      — 相手を示すときは to A を使う（explain B to A, say B to A 等）
-      ■ 〈重要〉It costs A B to do「Aが〜するのにB（費用）がかかる」（⇨ 292）
-      ■ 〈重要〉spare A B の2義:
-      (1)「AにB（時間）をさく」(= spare B for A)
-      (2)「AのB（手間）を省く」(= save A B)
-      ■ save [spare] A the trouble of doing「Aの〜する手間を省く」
-      ■ explain の語順注意:
-      Bが短い場合: explain B to A
-      Bがthat節/wh-節の場合: explain to A that〜 / explain to A wh-〜（to Aを先に置く）
-      ■ tell A B vs say — tell はSVOO可、say はSVOO不可（頻出混同ポイント）
-      ■ tell A that〜「Aに〜ということを話す」も重要（⇨ 574）
-      参照: Theme 292（It costs）, Theme 574（tell A that〜）, Theme 570（suggest）
+    survive「〜を切り抜けて生き残る」, search「(場所)を捜す」(cf. search for「(物)を捜し求める」)
 
-  - id: "sgh-009"
-    name: "SVC・SVOCの形をとる動詞"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 139: SVC・SVOCの形をとる動詞（問題536-541）
-      ■ SVC動詞 — Cには主に形容詞[分詞]（PU!111）:
-      (1) beタイプ（状態）: be/lie/sit/stand/keep(⇨536)/remain/stay
-      (2) becomeタイプ（変化）: become/grow/get/turn/go(⇨538)/come(⇨539)
-      (3) lookタイプ（外見）: appear/look/seem
-      (4) feelタイプ（知覚）: feel/taste/smell(⇨537)/sound
-      ■ go+形容詞=好ましくない状態への変化: go wrong/go bad/go bankrupt
-      ■ come+形容詞=好ましい状態への変化: come true/come alive/come right
-      ■ SVOC動詞 — Cが形容詞・名詞の場合（PU!112）:
-      (1) makeタイプ「OをCにする」: make(⇨540)/get/keep/leave/name/call/choose/elect/appoint
-      (2) thinkタイプ「OをCと思う」: think/suppose/consider/find(⇨541)/believe
-      ■ Cに不定詞・分詞が来る場合は Theme 140〜144 参照
-      参照: PU!111, PU!112
+    ■ 自動詞（前置詞必要）— 他動詞と間違えやすい自動詞7語（PU!93）:
 
-  - id: "sgh-010"
-    name: "SVO to doの形をとる動詞"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 140: SVO to doの形をとる動詞（問題542-548）
-      ■ OとCの間に「OがCする」というS+Vの関係が隠されている
-      ■ SVO to do動詞13語（PU!113）:
-      tell/advise(⇨542)/want(⇨543)/expect(⇨543)/ask(⇨543)/
-      force[compel/oblige]/get(⇨544)/allow/permit/
-      cause(⇨545)/encourage(⇨546)/enable(⇨547)/persuade(⇨548)
-      ■ SVO to do不可の動詞10語（PU!114）:
-      suggest[propose]/hope(⇨543)/admit/excuse/forgive/
-      say/explain/inform/prohibit/demand
-      ■ 〈重要〉hope は hope for A to do の形（⇨ 480）
-      ■ get A to do = have A do（⇨ 544）
-      ■ force A to do = make A do
-      ■ discourage A from doing ⇔ encourage A to do（⇨ 520）
-      参照: Theme 480, 519, 520
+    apologize (to A) for B「(Aに)Bのことで謝る」, complain (to A) of/about B「(Aに)Bについて不平を言う」,
 
-  - id: "sgh-011"
-    name: "SVO do / SVO+分詞の形をとる動詞（知覚動詞・使役動詞）"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 141+142+143: SVO do / SVO+分詞の形をとる動詞（問題549-566）
-      ■ SVO do — 使役動詞（PU!115）:
-      make A do「（強制的に）Aに〜させる」(= force A to do)(⇨550)
-      have A do「（自分でしないで）Aに〜させる/してもらう」(= get A to do)(⇨549)
-      let A do「（望み通り[勝手に]）Aに〜させる」(= allow A to do)(⇨551)
-      ■ SVO do — 知覚動詞（PU!116）:
-      see A do(⇨554)/watch A do(⇨555)/hear A do(⇨553)/feel A do
-      ■ help A (to) do: do/to do両方可、目的語Aの省略も可能(⇨552)
-      ■ 知覚動詞 + A do/doing/doneの違い（PU!118）:
-      do = 動作の始めから終わりまで全体を見る
-      doing = 動作の途中[部分]を見る
-      done = Aが〜される（受動関係）
-      ■ SVO+分詞 — 知覚動詞（PU!117）:
-      see/hear/feel A doing/done / find A doing/done(⇨560) / catch A doing(⇨561)
-      watch A doing / notice A doing
-      ■ find/catchはdo不可: ×find[catch] A do → ○find[catch] A doing
-      ■ find oneself doing「気づくと〜している」が頻出(⇨560)
-      ■ SVO+分詞 — 使役動詞（PU!119）:
-      have[get] A done: (1)使役(⇨562) (2)被害(⇨564) (3)完了(⇨565)
-      have[get] A doing: 「Aに〜させる[させておく]」（出題少）
-      make A done: make oneself understood(⇨566)/make oneself heard
-      ■ make/letは現在分詞を目的格補語にとらない（×make A doing / ×let A doing/done）
-      ■ 書き換え: have A done = get A done / have A do = get A to do
-      参照: Theme 544, 549-566, 1168, PU!28
+    graduate from〜「〜を卒業する」, object to〜「〜に反対する」,
 
-  - id: "sgh-012"
-    name: "SVO+分詞の持続状態動詞（keep/leave）"
-    category: "語法"
-    priority: "P2"
-    notes: |
-      Theme 144: SVO+分詞──持続状態を表す動詞（問題567-569）
-      ■ keep/leave A doing/done（PU!121）:
-      keep A doing/done「Aを〜している[された]状態にしておく」（意図的に維持）(⇨567,568)
-      leave A doing/done「Aを〜している[された]ままにしておく」（放置）(⇨569)
-      ■ keepとleaveの違い: keep=意図的に維持、leave=放置
-      ■ keep A waitingが最頻出: 「Aを待たせておく」
-      ■ doing（能動）/done（受動）は目的語Aとの意味関係で判断
-      参照: PU!121
+    participate in〜「〜に参加する」, argue with A (about/over B)「(Bについて)Aと口論する」,
 
-  - id: "sgh-013"
-    name: "that節で原形/should+原形を用いる動詞"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 145: that節で原形または「should+原形」を用いる動詞（問題570-572）
-      ■ 「提案・要求・命令」を表す動詞のthat節中で原形またはshould+原形を用いる（PU!122）:
-      suggest[propose](⇨570)/order[command]/demand[require](⇨572)/
-      advise/insist(⇨571)/recommend
-      ■ 主節が過去形でもthat節中は原形を用いる（時制の一致を受けない）
-      ■ 〈発展〉suggestを「〜とそれとなく言う」の意味で用いる場合はこの形をとらない:
-      He suggested that I was wrong.（×that I (should) be wrong.）
-      ■ insistも「主張」の場合はこの形をとらない（「要求」の場合のみ）
-      ■ the key to one's car「車の鍵」— toは「〜の」の意味（⇨ 704）
-      参照: Theme 704
+    hope for〜「〜を望む」
 
-  - id: "sgh-014"
-    name: "tell/say/speak/talkの使い分け"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 146: tell/say/speak/talkの使い分け（問題573-578）
-      ■ tell — 基本的に他動詞「人にある内容を伝える」（PU!123）:
-      tell A B「AにBを話す」(⇨532) / tell A about B(⇨573) /
-      tell A that節[wh-節](⇨574) / tell A to do(⇨575)
-      伝える相手が必要。例外: tell a lie[joke/story/truth]
-      ■ say — 基本的に他動詞「ある内容を言う/述べる」（PU!123）:
-      say A to B / say (to B) "A" / say that節(⇨576)
-      直接話法の被伝達部はsayのみ。×say me that → ○tell me that
-      ■ speak — 基本的に自動詞「言葉を話す/演説する」（PU!124）:
-      speak to A(⇨577) / speak to A about B
-      他動詞は言語に限定: speak English / speak a word
-      受動態: A is spoken to by 〜（⇨ Theme 10）
-      ■ talk — 基本的に自動詞「おしゃべりをする/話し合う」（PU!124）:
-      talk about A(⇨578)(= discuss A) / talk to[with] A about B
-      例外: talk A into doing(⇨527) ⇔ talk A out of doing
-      ■ 人を目的語にとれるのはtellのみ（頻出ポイント）
-      参照: Theme 10, 480, 527, 532
+    ■ marry の3語法（〈重要〉）:
 
-  - id: "sgh-015"
-    name: "borrow/lend/rent/useの使い分け"
-    category: "語法"
-    priority: "P1"
-    notes: |
-      Theme 147: borrow/lend/rent/useの使い分け（問題579-582）
-      ■ borrow/lend/rent/useの使い分け（PU!125）:
-      borrow A (from B)「(Bから)A(物・金)を(無料で)借りる」(⇨579) — 移動可能なもの
-      lend A B / lend B to A「A(人)にB(物・金)を(無料で)貸す」(⇨580)
-      rent A (from B)「(Bから)A(家・土地)を(有料で)借りる」(⇨581) — 有料の貸借
-      rent A B / rent B to A「A(人)にB(家・土地)を(有料で)貸す」
-      use A「A(トイレ・電話)を(一時的に)借りる」(⇨582) — 移動不可能なもの
-      ■ borrowは移動可能なものを無料で借りる
-      ■ rentはborrowと異なり有料
-      ■ 携帯電話はborrowも可
-      ■ loan「(お金・物)を貸す」
+    (1) A marry B「AはBと結婚する」
 
-  - id: "sgh-016"
-    name: "forgive/permit/allow/admitの使い分け"
-    category: "語法"
-    priority: "P2"
-    notes: |
-      Theme 148: forgive/permit/allow/admitの使い分け（問題583-586）
-      ■ forgive/permit/allow/admitの使い分け（PU!126）:
-      forgive[excuse] A for B「A(人)のB(罪・過ち)を許す」(⇨583) — すでに犯した罪・過ち
-      permit[allow] A to do「A(人)が〜するのを許す」(⇨584,585) — これからあることをする許可
-      admit: (1)admit that〜「(仕方なく)〜と認める」(⇨586) (2)admit A into B「AをBに入れる」
-      ■ forgive/excuseはSVO to do不可（×forgive A to do）→ for Bの形
-      ■ permit/allowはSVO to doの形（⇨ PU!113）
-      ■ admit/excuse/forgiveはSVO to do不可（⇨ PU!114）
-      参照: PU!113, PU!114
+    (2) A get [is] married to B「AはBと結婚する[している]」
 
-  - id: "sgh-017"
-    name: "doubt/suspectの使い分け"
-    category: "語法"
-    priority: "P2"
-    notes: |
-      Theme 149: doubt/suspectの使い分け（問題587-589）
-      ■ doubt/suspectの使い分け（PU!127）:
-      doubt if[whether]節「〜かどうか疑わしく思う」（疑わしさ）
-      doubt that節「〜であることを疑う→〜ではないと思う」(⇨587)（強い不信）(= don't think)
-      don't doubt that節「〜だと思う」(⇨588)(= think)
-      suspect that節「〜ではないかと疑う→〜だと思う」(⇨589)(= think)
-      ■ doubt = that節の内容を否定 / suspect = that節の内容を肯定
-      ■ doubt/suspectは心理状態動詞→進行形不可（⇨ PU!3）
-      ■ doubt肯定文ではif[whether]節、否定文ではthat節をとる
-      参照: PU!3
+    (3) A and B get [are] married「AとBは結婚する[している]」
 
-  - id: "sgh-018"
-    name: "go with/match/suit/fitの使い分け"
-    category: "語法"
-    priority: "P2"
-    notes: |
-      Theme 150: go with/match/suit/fitの使い分け（問題590-592）
-      ■ go with/match/suit/fitの使い分け（PU!128）:
-      A go with[match] B「A(物)がB(別の物)に合う/調和する」(⇨590) — A,Bとも物
-      A suit B「A(衣服・色・髪型)がB(人)に似合う」(⇨591) — Bは人（色・スタイル）
-      A fit B「A(衣服のサイズ)がB(人)に合う」(⇨592) — Bは人（サイズ・形）
-      ■ go with/matchは人を目的語にとれない（×match me → ○match my suit）
-      ■ suitとfitの違い: suit=色・スタイルの似合い、fit=サイズの合い
-      ■ suit = That dress looks good[nice] on you.
+    ■ hope の注意点:
 
+    (代)名詞が続くとき自動詞用法で for が必要。
+
+    他動詞の hope は to do [×doing] または that 節を目的語にとる。
+
+    参照: Theme 121（object to）, Theme 497（hope の to do / that 節）, Theme 543（hope の語法詳細）, Theme 168, Theme 735（survive）
+
+    '
+- id: sgh-002
+  name: 自・他で活用と意味がまぎらわしい動詞（lie/lay, rise/raise）
+  category: 語法
+  priority: P1
+  notes: 'Theme 126: 自・他で活用と意味がまぎらわしい動詞（問題481-487）
+
+    ■ lie/lay の活用（PU!94）:
+
+    - lie（自動詞）「横たわる/横になる」: lie - lay - lain - lying
+
+    - lay（他動詞）「〜を横たえる」: lay - laid - laid - laying
+
+    - lie「うそをつく」（別動詞）: lie - lied - lied - lying（規則変化）
+
+    ■ rise/raise の活用（PU!95）:
+
+    - rise（自動詞）「上がる/昇る」: rise - rose - risen - rising
+
+    - raise（他動詞）「〜を上げる」: raise - raised - raised - raising
+
+    ■ 〈プラスα〉lie + C（形容詞/doing/done）「〜の状態で横になっている/〜の状態にある」
+
+    ■ lay an egg「卵を産む」は連語で暗記
+
+    ■ lay oneself「横になる」(= lie)（⇨ Theme 89）
+
+    ■ raise の多義: 身体の一部を上げる / 価格・料金を上げる
+
+    ■ 判別法: 後ろに目的語があれば他動詞（lay/raise）、なければ自動詞（lie/rise）
+
+    参照: Theme 89（lay oneself = 再帰代名詞）, Theme 487（raise の受動態）
+
+    '
+- id: sgh-003
+  name: 動名詞・不定詞を目的語にとる動詞の区別
+  category: 語法
+  priority: P1
+  notes: 'Theme 127+128+129: 動名詞/不定詞を目的語にとる動詞の区別（問題488-509）
+
+    ■ 動名詞だけを目的語にとる動詞「メガフェップスはデカイ」（PU!96）:
+
+    mind/miss/enjoy/give up/admit/finish/escape/postpone(put off)/stop/
+
+    suggest/deny/evade/consider/avoid/imagine の16語
+
+    ■ 不定詞だけを目的語にとる動詞（PU!97）:
+
+    afford/attempt/decide/expect/fail/hope/learn/manage/offer/plan/
+
+    pretend/promise/refuse/wish の14語
+
+    ■ 不定詞の to は「行きつく先/方向」→ 「これから〜しよう」という意欲・意図を表す動詞が多い
+
+    ■ not [never] fail to do「必ず〜する」（PU!98〈発展〉）:
+
+    - not fail to do: 1回限りの特定の行為
+
+    - never fail to do: 習慣的な行為
+
+    ■ rememberタイプ — 動名詞=過去、不定詞=未来（PU!99(1)）:
+
+    remember doing「〜したことを覚えている」/ remember to do「忘れずに〜する」
+
+    forget doing「〜したことを忘れる」/ forget to do「〜することを忘れる」
+
+    regret doing「〜したことを後悔する」/ regret to do「残念ながら〜する」
+
+    ■ needタイプ — 動名詞=受動、不定詞=能動（PU!99(2)）:
+
+    need doing「〜される必要がある」(= need to be done)
+
+    want doing「〜される必要がある」(= need doing)
+
+    deserve doing「〜されるだけの価値がある」(= deserve to be done)
+
+    ■ その他（PU!100）:
+
+    try doing「試しに〜してみる」/ try to do「〜しようと努力する」
+
+    mean doing「〜することを意味する」/ mean to do「〜するつもりである」(= intend to do)
+
+    go on doing「〜し続ける」/ go on to do「さらに続けて〜する」(= proceed to do)
+
+    ■ stop doing「〜するのをやめる」vs stop to do「〜するために立ち止まる」
+
+    — to do は目的語でなく「目的」の副詞的用法の不定詞
+
+    ■ 〈重要〉Would [Do] you mind doing?「〜していただけませんか」は頻出
+
+    ■ decide on doing も可（decide to do の代替）
+
+    ■ pretend not to do の語順（not は to の前）
+
+    参照: Theme 480（hope for）, Theme 487（raise）, Theme 89（lay oneself）,
+
+    Theme 906（give up）, Theme 922（put off）, Theme 996（succeed in doing）,
+
+    Theme 1081（take place）, Theme 543（hope）, Theme 189（as soon as possible）
+
+    '
+- id: sgh-004
+  name: A of Bパターンの動詞（分離・剥奪のofと関連のof）
+  category: 語法
+  priority: P1
+  notes: 'Theme 130+131: A of B パターンの動詞（問題510-515）
+
+    ■ 分離・剥奪・除去の of（PU!101）:
+
+    rob A of B「AからBを奪う」, deprive A of B「AからB（権利・能力等）を奪う」,
+
+    relieve A of B「AからBを取り除いて楽にさせる」,
+
+    cure A of B「A（人）のB（病気）を治す」,
+
+    clear A of B「A（場所）からB（じゃまな物）を取り除く」
+
+    ■ 関連の of（PU!102）:
+
+    remind A of B「AにBを思い出させる」, inform A of B「AにBを知らせる」,
+
+    convince A of B「AにBを確信させる」, persuade A of B「AにBを納得させる」,
+
+    warn A of B「AにBを警告する」, suspect A of B「AにBの嫌疑をかける」
+
+    ■ 〈重要〉rob vs steal の目的語の違い:
+
+    rob の目的語は「人・場所」/ steal の目的語は「物」
+
+    rob A(人) of B(物) ↔ steal B(物) from A(場所)
+
+    ■ remind の追加用法（〈発展〉）:
+
+    remind A to do「Aに〜するよう注意する」
+
+    remind A that〜「Aに〜と注意する」
+
+    ■ deprive は受動態で頻出: A is deprived of B「AはBを奪われる」
+
+    ■ convince A of B → 受動態: A is convinced of B「AはBを確信している」(= A is sure of B)
+
+    参照: Theme 1161（be sure of）
+
+    '
+- id: sgh-005
+  name: regard A as Bタイプの動詞
+  category: 語法
+  priority: P2
+  notes: 'Theme 132: regard A as B タイプの動詞（問題516-518）
+
+    ■ regard A as B タイプの動詞（PU!103）:
+
+    regard A as B「AをBとみなす」(= consider A (to be) B)
+
+    look on [upon] A as B「AをBとみなす」
+
+    think of A as B「AをBとみなす」
+
+    see [view] A as B「AをBとみなす」
+
+    refer to A as B「AをBと呼ぶ/言う」
+
+    ■ as は「〜（である）と / 〜として」の意味。Bは名詞・形容詞
+
+    ■ A = B の補語的関係（him = a friend）
+
+    ■ refer to A as B の受動態: A is referred to as B「AはBと呼ばれている」— to を忘れない
+
+    ■ refer to〜「〜を参照する / 〜に言及する」も重要
+
+    参照: Theme 1009（refer to）
+
+    '
+- id: sgh-006
+  name: A from Bパターンの動詞（prevent from・distinguish from）
+  category: 語法
+  priority: P2
+  notes: 'Theme 133+134: A from B パターンの動詞（問題519-522）
+
+    ■ prevent A from doing タイプ（PU!104）:
+
+    prevent [keep/stop/hinder] A from doing「Aが〜するのを妨げる/Aに〜させない」
+
+    discourage A from doing「Aが〜するのを思いとどまらせる」
+
+    ⇔ encourage A to do「Aが〜するよう励ます/促す」
+
+    ■ keep/stop は prevent より口語的
+
+    ■ 「抑制・防止」の from「〜から / 〜しないように」
+
+    ■ distinguish A from B タイプ（PU!105）:
+
+    distinguish A from B「AとBを見分ける/区別する」(= distinguish between A and B)
+
+    tell A from B「AとBを見分ける」
+
+    know A from B「AとBを見分ける」— Do you know...? の形（×Can you know...?）
+
+    '
+- id: sgh-007
+  name: A with/for/into Bパターンの動詞
+  category: 語法
+  priority: P1
+  notes: 'Theme 135+136+137: A with/for/into B パターンの動詞（問題523-528）
+
+    ■ provide A with B タイプ（PU!106）:
+
+    provide A with B = provide B for [to] A「AにBを供給する/与える」
+
+    supply A with B = supply B for [to] A「AにBを供給する」
+
+    equip A with B「AにB（機器・装置・備品）を備え付ける」
+
+    present A with B = present B to A「AにBを贈る」
+
+    ■ blame A for B タイプ（PU!107）:
+
+    blame A for B「AをBで責める / BをAのせいにする」
+
+    excuse [forgive] A for B「AのB（行為）を許す」
+
+    punish A for B「AをBで罰する」
+
+    thank A for B「AにBの礼を言う」
+
+    praise A for B「AのBをほめる」
+
+    admire A for B「AのBに感心する」
+
+    ■ 〈注意〉accuse A of B は blame とほぼ同意だが前置詞が of — 入試で狙われやすい
+
+    ■ 賞罰を表す動詞は前置詞 for と結びつきやすい
+
+    ■ talk A into B [doing] タイプ（PU!108）:
+
+    talk [persuade] A into B [doing]「Aを説得してBさせる」
+
+    ⇔ talk [persuade] A out of B [doing]「Aを説得してBをやめさせる」
+
+    change [turn] A into B「AをBに変える」
+
+    make A into B「AをBにする」— 受動態: A is made into B
+
+    translate [put] A into B「AをBに翻訳する」
+
+    ■ present A with B の受動態: A is presented with B「AはBを贈られる」
+
+    参照: Theme 526（accuse A of B）
+
+    '
+- id: sgh-008
+  name: SVOOの形をとる動詞・とらない動詞
+  category: 語法
+  priority: P1
+  notes: 'Theme 138: SVOOの形をとる動詞/とらない動詞（問題529-535）
+
+    ■ SVOOの形をとる注意すべき動詞（PU!109）:
+
+    cause A B「AにBをもたらす」, charge A B「AにB（金額）を請求する」,
+
+    cost A B「AにB（犠牲・費用）を払わせる」, deny A B「AにBを与えない」,
+
+    save A B「AのB（労力）を省く」, spare A B「AにBをさく / AのBを省く」,
+
+    take A B「Aが（〜するのに）B（時間・労力）を必要とする」,
+
+    tell A B「AにBを話す」, wish A B「AにB（幸運・成功等）を祈る」
+
+    ■ SVOOの形をとらない注意すべき動詞（PU!110）:
+
+    admit / explain / introduce / say / suggest / confess
+
+    — 相手を示すときは to A を使う（explain B to A, say B to A 等）
+
+    ■ 〈重要〉It costs A B to do「Aが〜するのにB（費用）がかかる」（⇨ 292）
+
+    ■ 〈重要〉spare A B の2義:
+
+    (1)「AにB（時間）をさく」(= spare B for A)
+
+    (2)「AのB（手間）を省く」(= save A B)
+
+    ■ save [spare] A the trouble of doing「Aの〜する手間を省く」
+
+    ■ explain の語順注意:
+
+    Bが短い場合: explain B to A
+
+    Bがthat節/wh-節の場合: explain to A that〜 / explain to A wh-〜（to Aを先に置く）
+
+    ■ tell A B vs say — tell はSVOO可、say はSVOO不可（頻出混同ポイント）
+
+    ■ tell A that〜「Aに〜ということを話す」も重要（⇨ 574）
+
+    参照: Theme 292（It costs）, Theme 574（tell A that〜）, Theme 570（suggest）
+
+    '
+- id: sgh-009
+  name: SVC・SVOCの形をとる動詞
+  category: 語法
+  priority: P1
+  notes: 'Theme 139: SVC・SVOCの形をとる動詞（問題536-541）
+
+    ■ SVC動詞 — Cには主に形容詞[分詞]（PU!111）:
+
+    (1) beタイプ（状態）: be/lie/sit/stand/keep(⇨536)/remain/stay
+
+    (2) becomeタイプ（変化）: become/grow/get/turn/go(⇨538)/come(⇨539)
+
+    (3) lookタイプ（外見）: appear/look/seem
+
+    (4) feelタイプ（知覚）: feel/taste/smell(⇨537)/sound
+
+    ■ go+形容詞=好ましくない状態への変化: go wrong/go bad/go bankrupt
+
+    ■ come+形容詞=好ましい状態への変化: come true/come alive/come right
+
+    ■ SVOC動詞 — Cが形容詞・名詞の場合（PU!112）:
+
+    (1) makeタイプ「OをCにする」: make(⇨540)/get/keep/leave/name/call/choose/elect/appoint
+
+    (2) thinkタイプ「OをCと思う」: think/suppose/consider/find(⇨541)/believe
+
+    ■ Cに不定詞・分詞が来る場合は Theme 140〜144 参照
+
+    参照: PU!111, PU!112
+
+    '
+- id: sgh-010
+  name: SVO to doの形をとる動詞
+  category: 語法
+  priority: P1
+  notes: 'Theme 140: SVO to doの形をとる動詞（問題542-548）
+
+    ■ OとCの間に「OがCする」というS+Vの関係が隠されている
+
+    ■ SVO to do動詞13語（PU!113）:
+
+    tell/advise(⇨542)/want(⇨543)/expect(⇨543)/ask(⇨543)/
+
+    force[compel/oblige]/get(⇨544)/allow/permit/
+
+    cause(⇨545)/encourage(⇨546)/enable(⇨547)/persuade(⇨548)
+
+    ■ SVO to do不可の動詞10語（PU!114）:
+
+    suggest[propose]/hope(⇨543)/admit/excuse/forgive/
+
+    say/explain/inform/prohibit/demand
+
+    ■ 〈重要〉hope は hope for A to do の形（⇨ 480）
+
+    ■ get A to do = have A do（⇨ 544）
+
+    ■ force A to do = make A do
+
+    ■ discourage A from doing ⇔ encourage A to do（⇨ 520）
+
+    参照: Theme 480, 519, 520
+
+    '
+- id: sgh-011
+  name: SVO do / SVO+分詞の形をとる動詞（知覚動詞・使役動詞）
+  category: 語法
+  priority: P1
+  notes: 'Theme 141+142+143: SVO do / SVO+分詞の形をとる動詞（問題549-566）
+
+    ■ SVO do — 使役動詞（PU!115）:
+
+    make A do「（強制的に）Aに〜させる」(= force A to do)(⇨550)
+
+    have A do「（自分でしないで）Aに〜させる/してもらう」(= get A to do)(⇨549)
+
+    let A do「（望み通り[勝手に]）Aに〜させる」(= allow A to do)(⇨551)
+
+    ■ SVO do — 知覚動詞（PU!116）:
+
+    see A do(⇨554)/watch A do(⇨555)/hear A do(⇨553)/feel A do
+
+    ■ help A (to) do: do/to do両方可、目的語Aの省略も可能(⇨552)
+
+    ■ 知覚動詞 + A do/doing/doneの違い（PU!118）:
+
+    do = 動作の始めから終わりまで全体を見る
+
+    doing = 動作の途中[部分]を見る
+
+    done = Aが〜される（受動関係）
+
+    ■ SVO+分詞 — 知覚動詞（PU!117）:
+
+    see/hear/feel A doing/done / find A doing/done(⇨560) / catch A doing(⇨561)
+
+    watch A doing / notice A doing
+
+    ■ find/catchはdo不可: ×find[catch] A do → ○find[catch] A doing
+
+    ■ find oneself doing「気づくと〜している」が頻出(⇨560)
+
+    ■ SVO+分詞 — 使役動詞（PU!119）:
+
+    have[get] A done: (1)使役(⇨562) (2)被害(⇨564) (3)完了(⇨565)
+
+    have[get] A doing: 「Aに〜させる[させておく]」（出題少）
+
+    make A done: make oneself understood(⇨566)/make oneself heard
+
+    ■ make/letは現在分詞を目的格補語にとらない（×make A doing / ×let A doing/done）
+
+    ■ 書き換え: have A done = get A done / have A do = get A to do
+
+    参照: Theme 544, 549-566, 1168, PU!28
+
+    '
+- id: sgh-012
+  name: SVO+分詞の持続状態動詞（keep/leave）
+  category: 語法
+  priority: P2
+  notes: 'Theme 144: SVO+分詞──持続状態を表す動詞（問題567-569）
+
+    ■ keep/leave A doing/done（PU!121）:
+
+    keep A doing/done「Aを〜している[された]状態にしておく」（意図的に維持）(⇨567,568)
+
+    leave A doing/done「Aを〜している[された]ままにしておく」（放置）(⇨569)
+
+    ■ keepとleaveの違い: keep=意図的に維持、leave=放置
+
+    ■ keep A waitingが最頻出: 「Aを待たせておく」
+
+    ■ doing（能動）/done（受動）は目的語Aとの意味関係で判断
+
+    参照: PU!121
+
+    '
+- id: sgh-013
+  name: that節で原形/should+原形を用いる動詞
+  category: 語法
+  priority: P1
+  notes: 'Theme 145: that節で原形または「should+原形」を用いる動詞（問題570-572）
+
+    ■ 「提案・要求・命令」を表す動詞のthat節中で原形またはshould+原形を用いる（PU!122）:
+
+    suggest[propose](⇨570)/order[command]/demand[require](⇨572)/
+
+    advise/insist(⇨571)/recommend
+
+    ■ 主節が過去形でもthat節中は原形を用いる（時制の一致を受けない）
+
+    ■ 〈発展〉suggestを「〜とそれとなく言う」の意味で用いる場合はこの形をとらない:
+
+    He suggested that I was wrong.（×that I (should) be wrong.）
+
+    ■ insistも「主張」の場合はこの形をとらない（「要求」の場合のみ）
+
+    ■ the key to one''s car「車の鍵」— toは「〜の」の意味（⇨ 704）
+
+    参照: Theme 704
+
+    '
+- id: sgh-014
+  name: tell/say/speak/talkの使い分け
+  category: 語法
+  priority: P1
+  notes: 'Theme 146: tell/say/speak/talkの使い分け（問題573-578）
+
+    ■ tell — 基本的に他動詞「人にある内容を伝える」（PU!123）:
+
+    tell A B「AにBを話す」(⇨532) / tell A about B(⇨573) /
+
+    tell A that節[wh-節](⇨574) / tell A to do(⇨575)
+
+    伝える相手が必要。例外: tell a lie[joke/story/truth]
+
+    ■ say — 基本的に他動詞「ある内容を言う/述べる」（PU!123）:
+
+    say A to B / say (to B) "A" / say that節(⇨576)
+
+    直接話法の被伝達部はsayのみ。×say me that → ○tell me that
+
+    ■ speak — 基本的に自動詞「言葉を話す/演説する」（PU!124）:
+
+    speak to A(⇨577) / speak to A about B
+
+    他動詞は言語に限定: speak English / speak a word
+
+    受動態: A is spoken to by 〜（⇨ Theme 10）
+
+    ■ talk — 基本的に自動詞「おしゃべりをする/話し合う」（PU!124）:
+
+    talk about A(⇨578)(= discuss A) / talk to[with] A about B
+
+    例外: talk A into doing(⇨527) ⇔ talk A out of doing
+
+    ■ 人を目的語にとれるのはtellのみ（頻出ポイント）
+
+    参照: Theme 10, 480, 527, 532
+
+    '
+- id: sgh-015
+  name: borrow/lend/rent/useの使い分け
+  category: 語法
+  priority: P1
+  notes: 'Theme 147: borrow/lend/rent/useの使い分け（問題579-582）
+
+    ■ borrow/lend/rent/useの使い分け（PU!125）:
+
+    borrow A (from B)「(Bから)A(物・金)を(無料で)借りる」(⇨579) — 移動可能なもの
+
+    lend A B / lend B to A「A(人)にB(物・金)を(無料で)貸す」(⇨580)
+
+    rent A (from B)「(Bから)A(家・土地)を(有料で)借りる」(⇨581) — 有料の貸借
+
+    rent A B / rent B to A「A(人)にB(家・土地)を(有料で)貸す」
+
+    use A「A(トイレ・電話)を(一時的に)借りる」(⇨582) — 移動不可能なもの
+
+    ■ borrowは移動可能なものを無料で借りる
+
+    ■ rentはborrowと異なり有料
+
+    ■ 携帯電話はborrowも可
+
+    ■ loan「(お金・物)を貸す」
+
+    '
+- id: sgh-016
+  name: forgive/permit/allow/admitの使い分け
+  category: 語法
+  priority: P2
+  notes: 'Theme 148: forgive/permit/allow/admitの使い分け（問題583-586）
+
+    ■ forgive/permit/allow/admitの使い分け（PU!126）:
+
+    forgive[excuse] A for B「A(人)のB(罪・過ち)を許す」(⇨583) — すでに犯した罪・過ち
+
+    permit[allow] A to do「A(人)が〜するのを許す」(⇨584,585) — これからあることをする許可
+
+    admit: (1)admit that〜「(仕方なく)〜と認める」(⇨586) (2)admit A into B「AをBに入れる」
+
+    ■ forgive/excuseはSVO to do不可（×forgive A to do）→ for Bの形
+
+    ■ permit/allowはSVO to doの形（⇨ PU!113）
+
+    ■ admit/excuse/forgiveはSVO to do不可（⇨ PU!114）
+
+    参照: PU!113, PU!114
+
+    '
+- id: sgh-017
+  name: doubt/suspectの使い分け
+  category: 語法
+  priority: P2
+  notes: 'Theme 149: doubt/suspectの使い分け（問題587-589）
+
+    ■ doubt/suspectの使い分け（PU!127）:
+
+    doubt if[whether]節「〜かどうか疑わしく思う」（疑わしさ）
+
+    doubt that節「〜であることを疑う→〜ではないと思う」(⇨587)（強い不信）(= don''t think)
+
+    don''t doubt that節「〜だと思う」(⇨588)(= think)
+
+    suspect that節「〜ではないかと疑う→〜だと思う」(⇨589)(= think)
+
+    ■ doubt = that節の内容を否定 / suspect = that節の内容を肯定
+
+    ■ doubt/suspectは心理状態動詞→進行形不可（⇨ PU!3）
+
+    ■ doubt肯定文ではif[whether]節、否定文ではthat節をとる
+
+    参照: PU!3
+
+    '
+- id: sgh-018
+  name: go with/match/suit/fitの使い分け
+  category: 語法
+  priority: P2
+  notes: 'Theme 150: go with/match/suit/fitの使い分け（問題590-592）
+
+    ■ go with/match/suit/fitの使い分け（PU!128）:
+
+    A go with[match] B「A(物)がB(別の物)に合う/調和する」(⇨590) — A,Bとも物
+
+    A suit B「A(衣服・色・髪型)がB(人)に似合う」(⇨591) — Bは人（色・スタイル）
+
+    A fit B「A(衣服のサイズ)がB(人)に合う」(⇨592) — Bは人（サイズ・形）
+
+    ■ go with/matchは人を目的語にとれない（×match me → ○match my suit）
+
+    ■ suitとfitの違い: suit=色・スタイルの似合い、fit=サイズの合い
+
+    ■ suit = That dress looks good[nice] on you.
+
+    '
 understanding_goals:
-  - node_id: "sgh-001"
-    seq: 1
-    goal: "discuss / marry / resemble / attend 等が他動詞であり前置詞が不要であることを判断できる"
-  - node_id: "sgh-001"
-    seq: 2
-    goal: "apologize to A for B / graduate from / hope for 等が自動詞であり前置詞が必要であることを判断できる"
-  - node_id: "sgh-001"
-    seq: 3
-    goal: "marry の3つの語法（marry B / get married to B / get married）を正しく使い分けられる"
-  - node_id: "sgh-001"
-    seq: 4
-    goal: "他動詞を自動詞と混同する典型的な誤り（×discuss about, ×resemble to 等）を指摘できる"
-  - node_id: "sgh-002"
-    seq: 1
-    goal: "lie（横たわる）とlay（横たえる）の活用を正しく区別できる"
-  - node_id: "sgh-002"
-    seq: 2
-    goal: "rise（上がる）とraise（上げる）の活用を正しく区別できる"
-  - node_id: "sgh-002"
-    seq: 3
-    goal: "目的語の有無から自動詞（lie/rise）と他動詞（lay/raise）を判別できる"
-  - node_id: "sgh-002"
-    seq: 4
-    goal: "lie + C（形容詞/doing/done）の用法を理解し使うことができる"
-  - node_id: "sgh-003"
-    seq: 1
-    goal: "動名詞のみを目的語にとる動詞（メガフェップス16語）を列挙できる"
-  - node_id: "sgh-003"
-    seq: 2
-    goal: "不定詞のみを目的語にとる動詞（14語）を列挙できる"
-  - node_id: "sgh-003"
-    seq: 3
-    goal: "remember/forget/regret の動名詞（過去）と不定詞（未来）の意味の違いを説明できる"
-  - node_id: "sgh-003"
-    seq: 4
-    goal: "need doing が「〜される必要がある」という受動的意味を持つことを理解できる"
-  - node_id: "sgh-003"
-    seq: 5
-    goal: "try/mean/go on の動名詞と不定詞の意味の違いを説明できる"
-  - node_id: "sgh-004"
-    seq: 1
-    goal: "rob A of B / deprive A of B / relieve A of B の意味と用法を使い分けられる"
-  - node_id: "sgh-004"
-    seq: 2
-    goal: "remind A of B / inform A of B / convince A of B の意味と用法を使い分けられる"
-  - node_id: "sgh-004"
-    seq: 3
-    goal: "rob と steal の構文の違い（目的語が人か物か）を説明できる"
-  - node_id: "sgh-004"
-    seq: 4
-    goal: "「分離・剥奪」の of と「関連」の of の意味的区別ができる"
-  - node_id: "sgh-005"
-    seq: 1
-    goal: "regard A as B / look on A as B / think of A as B 等の同意パターンを列挙できる"
-  - node_id: "sgh-005"
-    seq: 2
-    goal: "refer to A as B の用法と受動態を正しく使える"
-  - node_id: "sgh-005"
-    seq: 3
-    goal: "A = B の補語的関係を理解し、as の意味を説明できる"
-  - node_id: "sgh-006"
-    seq: 1
-    goal: "prevent/keep/stop/hinder A from doing の用法を理解し使い分けられる"
-  - node_id: "sgh-006"
-    seq: 2
-    goal: "discourage A from doing と encourage A to do の対比を説明できる"
-  - node_id: "sgh-006"
-    seq: 3
-    goal: "distinguish/tell/know A from B の同意パターンを使い分けられる"
-  - node_id: "sgh-007"
-    seq: 1
-    goal: "provide/supply A with B の用法と書き換え（provide B for/to A）を使い分けられる"
-  - node_id: "sgh-007"
-    seq: 2
-    goal: "blame A for B と accuse A of B の前置詞の違いを区別できる"
-  - node_id: "sgh-007"
-    seq: 3
-    goal: "talk A into doing / talk A out of doing の用法を理解できる"
-  - node_id: "sgh-007"
-    seq: 4
-    goal: "make/change/translate A into B の用法を使い分けられる"
-  - node_id: "sgh-008"
-    seq: 1
-    goal: "cost/spare/save 等のSVOO型動詞を正しく使える"
-  - node_id: "sgh-008"
-    seq: 2
-    goal: "explain/suggest/say 等がSVOOをとらないことを判断できる"
-  - node_id: "sgh-008"
-    seq: 3
-    goal: "explain B to A / explain to A that〜 の語順を正しく使い分けられる"
-  - node_id: "sgh-008"
-    seq: 4
-    goal: "spare A B の2つの意味（時間をさく/手間を省く）を区別できる"
-  - node_id: "sgh-009"
-    seq: 1
-    goal: "SVC動詞の4タイプ（be/become/look/feel）を分類し、各タイプの代表動詞を列挙できる"
-  - node_id: "sgh-009"
-    seq: 2
-    goal: "SVC動詞の補語Cには形容詞[分詞]が来ることを理解し、副詞との誤用を見抜ける"
-  - node_id: "sgh-009"
-    seq: 3
-    goal: "go+形容詞とcome+形容詞の意味の違い（好ましくない/好ましい変化）を説明できる"
-  - node_id: "sgh-009"
-    seq: 4
-    goal: "SVOC動詞の2タイプ（make/think）を分類し、代表動詞を列挙できる"
-  - node_id: "sgh-010"
-    seq: 1
-    goal: "SVO to doの形をとる代表動詞13語を列挙できる"
-  - node_id: "sgh-010"
-    seq: 2
-    goal: "SVO to doの形をとらない動詞10語を識別できる（特にsuggest, hope）"
-  - node_id: "sgh-010"
-    seq: 3
-    goal: "get A to doとhave A doの書き換え関係を説明できる"
-  - node_id: "sgh-010"
-    seq: 4
-    goal: "encourage A to doとdiscourage A from doingの対比を説明できる"
-  - node_id: "sgh-011"
-    seq: 1
-    goal: "使役動詞3つ（make/have/let）のSVO doの意味の違いを説明できる"
-  - node_id: "sgh-011"
-    seq: 2
-    goal: "知覚動詞のSVO do/doing/doneの使い分けを説明できる"
-  - node_id: "sgh-011"
-    seq: 3
-    goal: "have[get] A doneの3つの意味（使役・被害・完了）を区別できる"
-  - node_id: "sgh-011"
-    seq: 4
-    goal: "make/letが分詞を目的格補語にとれない制約を理解している"
-  - node_id: "sgh-011"
-    seq: 5
-    goal: "find/catch A doingの形と、do不可の制約を理解している"
-  - node_id: "sgh-012"
-    seq: 1
-    goal: "keep A doing/doneとleave A doing/doneの意味の違いを説明できる"
-  - node_id: "sgh-012"
-    seq: 2
-    goal: "keep A waitingの形を最頻出表現として使える"
-  - node_id: "sgh-012"
-    seq: 3
-    goal: "doing（能動）/done（受動）の選択を目的語との関係から判断できる"
-  - node_id: "sgh-013"
-    seq: 1
-    goal: "that節で原形/should+原形を用いる動詞6語を列挙できる"
-  - node_id: "sgh-013"
-    seq: 2
-    goal: "主節が過去形でもthat節中は原形を用いることを理解している"
-  - node_id: "sgh-013"
-    seq: 3
-    goal: "suggestの意味による使い分け（提案→原形、遠回し→通常形）を識別できる"
-  - node_id: "sgh-014"
-    seq: 1
-    goal: "tell/say/speak/talkの基本的な自動詞・他動詞の区別を説明できる"
-  - node_id: "sgh-014"
-    seq: 2
-    goal: "人を目的語にとれるのがtellのみであることを理解している"
-  - node_id: "sgh-014"
-    seq: 3
-    goal: "say that節とtell A that節の構文上の違いを説明できる"
-  - node_id: "sgh-014"
-    seq: 4
-    goal: "speak/talkの使い分け（speak=話す/演説、talk=おしゃべり/話し合う）を説明できる"
-  - node_id: "sgh-015"
-    seq: 1
-    goal: "borrow（無料で借りる）/lend（無料で貸す）/rent（有料で借りる・貸す）/use（一時的に借りる）の区別ができる"
-  - node_id: "sgh-015"
-    seq: 2
-    goal: "borrow/lendの無料とrentの有料の違いを説明できる"
-  - node_id: "sgh-015"
-    seq: 3
-    goal: "移動不可能なもの（トイレ等）にはuseを使うことを知っている"
-  - node_id: "sgh-016"
-    seq: 1
-    goal: "forgive/excuseの「すでに犯した罪を許す」とpermit/allowの「これからの行為を許す」の違いを説明できる"
-  - node_id: "sgh-016"
-    seq: 2
-    goal: "forgive A for B / permit A to doの構文の違いを使い分けられる"
-  - node_id: "sgh-016"
-    seq: 3
-    goal: "admitの2つの意味（認める/入ることを許す）を区別できる"
-  - node_id: "sgh-017"
-    seq: 1
-    goal: "doubt that節とsuspect that節の意味の違いを説明できる"
-  - node_id: "sgh-017"
-    seq: 2
-    goal: "doubt if/whether節とdoubt that節の違いを説明できる"
-  - node_id: "sgh-017"
-    seq: 3
-    goal: "doubt/suspectが進行形をとれない理由を理解している"
-  - node_id: "sgh-018"
-    seq: 1
-    goal: "go with/matchの目的語が「物」のみであることを理解している"
-  - node_id: "sgh-018"
-    seq: 2
-    goal: "suitとfitの違い（色・スタイル vs サイズ・形）を説明できる"
-  - node_id: "sgh-018"
-    seq: 3
-    goal: "go with/match/suit/fitの4語を適切に使い分けられる"
-
+- node_id: sgh-001
+  seq: 1
+  goal: discuss / marry / resemble / attend 等が他動詞であり前置詞が不要であることを判断できる
+- node_id: sgh-001
+  seq: 2
+  goal: apologize to A for B / graduate from / hope for 等が自動詞であり前置詞が必要であることを判断できる
+- node_id: sgh-001
+  seq: 3
+  goal: marry の3つの語法（marry B / get married to B / get married）を正しく使い分けられる
+- node_id: sgh-001
+  seq: 4
+  goal: 他動詞を自動詞と混同する典型的な誤り（×discuss about, ×resemble to 等）を指摘できる
+- node_id: sgh-002
+  seq: 1
+  goal: lie（横たわる）とlay（横たえる）の活用を正しく区別できる
+- node_id: sgh-002
+  seq: 2
+  goal: rise（上がる）とraise（上げる）の活用を正しく区別できる
+- node_id: sgh-002
+  seq: 3
+  goal: 目的語の有無から自動詞（lie/rise）と他動詞（lay/raise）を判別できる
+- node_id: sgh-002
+  seq: 4
+  goal: lie + C（形容詞/doing/done）の用法を理解し使うことができる
+- node_id: sgh-003
+  seq: 1
+  goal: 動名詞のみを目的語にとる動詞（メガフェップス16語）を列挙できる
+- node_id: sgh-003
+  seq: 2
+  goal: 不定詞のみを目的語にとる動詞（14語）を列挙できる
+- node_id: sgh-003
+  seq: 3
+  goal: remember/forget/regret の動名詞（過去）と不定詞（未来）の意味の違いを説明できる
+- node_id: sgh-003
+  seq: 4
+  goal: need doing が「〜される必要がある」という受動的意味を持つことを理解できる
+- node_id: sgh-003
+  seq: 5
+  goal: try/mean/go on の動名詞と不定詞の意味の違いを説明できる
+- node_id: sgh-004
+  seq: 1
+  goal: rob A of B / deprive A of B / relieve A of B の意味と用法を使い分けられる
+- node_id: sgh-004
+  seq: 2
+  goal: remind A of B / inform A of B / convince A of B の意味と用法を使い分けられる
+- node_id: sgh-004
+  seq: 3
+  goal: rob と steal の構文の違い（目的語が人か物か）を説明できる
+- node_id: sgh-004
+  seq: 4
+  goal: 「分離・剥奪」の of と「関連」の of の意味的区別ができる
+- node_id: sgh-005
+  seq: 1
+  goal: regard A as B / look on A as B / think of A as B 等の同意パターンを列挙できる
+- node_id: sgh-005
+  seq: 2
+  goal: refer to A as B の用法と受動態を正しく使える
+- node_id: sgh-005
+  seq: 3
+  goal: A = B の補語的関係を理解し、as の意味を説明できる
+- node_id: sgh-006
+  seq: 1
+  goal: prevent/keep/stop/hinder A from doing の用法を理解し使い分けられる
+- node_id: sgh-006
+  seq: 2
+  goal: discourage A from doing と encourage A to do の対比を説明できる
+- node_id: sgh-006
+  seq: 3
+  goal: distinguish/tell/know A from B の同意パターンを使い分けられる
+- node_id: sgh-007
+  seq: 1
+  goal: provide/supply A with B の用法と書き換え（provide B for/to A）を使い分けられる
+- node_id: sgh-007
+  seq: 2
+  goal: blame A for B と accuse A of B の前置詞の違いを区別できる
+- node_id: sgh-007
+  seq: 3
+  goal: talk A into doing / talk A out of doing の用法を理解できる
+- node_id: sgh-007
+  seq: 4
+  goal: make/change/translate A into B の用法を使い分けられる
+- node_id: sgh-008
+  seq: 1
+  goal: cost/spare/save 等のSVOO型動詞を正しく使える
+- node_id: sgh-008
+  seq: 2
+  goal: explain/suggest/say 等がSVOOをとらないことを判断できる
+- node_id: sgh-008
+  seq: 3
+  goal: explain B to A / explain to A that〜 の語順を正しく使い分けられる
+- node_id: sgh-008
+  seq: 4
+  goal: spare A B の2つの意味（時間をさく/手間を省く）を区別できる
+- node_id: sgh-009
+  seq: 1
+  goal: SVC動詞の4タイプ（be/become/look/feel）を分類し、各タイプの代表動詞を列挙できる
+- node_id: sgh-009
+  seq: 2
+  goal: SVC動詞の補語Cには形容詞[分詞]が来ることを理解し、副詞との誤用を見抜ける
+- node_id: sgh-009
+  seq: 3
+  goal: go+形容詞とcome+形容詞の意味の違い（好ましくない/好ましい変化）を説明できる
+- node_id: sgh-009
+  seq: 4
+  goal: SVOC動詞の2タイプ（make/think）を分類し、代表動詞を列挙できる
+- node_id: sgh-010
+  seq: 1
+  goal: SVO to doの形をとる代表動詞13語を列挙できる
+- node_id: sgh-010
+  seq: 2
+  goal: SVO to doの形をとらない動詞10語を識別できる（特にsuggest, hope）
+- node_id: sgh-010
+  seq: 3
+  goal: get A to doとhave A doの書き換え関係を説明できる
+- node_id: sgh-010
+  seq: 4
+  goal: encourage A to doとdiscourage A from doingの対比を説明できる
+- node_id: sgh-011
+  seq: 1
+  goal: 使役動詞3つ（make/have/let）のSVO doの意味の違いを説明できる
+- node_id: sgh-011
+  seq: 2
+  goal: 知覚動詞のSVO do/doing/doneの使い分けを説明できる
+- node_id: sgh-011
+  seq: 3
+  goal: have[get] A doneの3つの意味（使役・被害・完了）を区別できる
+- node_id: sgh-011
+  seq: 4
+  goal: make/letが分詞を目的格補語にとれない制約を理解している
+- node_id: sgh-011
+  seq: 5
+  goal: find/catch A doingの形と、do不可の制約を理解している
+- node_id: sgh-012
+  seq: 1
+  goal: keep A doing/doneとleave A doing/doneの意味の違いを説明できる
+- node_id: sgh-012
+  seq: 2
+  goal: keep A waitingの形を最頻出表現として使える
+- node_id: sgh-012
+  seq: 3
+  goal: doing（能動）/done（受動）の選択を目的語との関係から判断できる
+- node_id: sgh-013
+  seq: 1
+  goal: that節で原形/should+原形を用いる動詞6語を列挙できる
+- node_id: sgh-013
+  seq: 2
+  goal: 主節が過去形でもthat節中は原形を用いることを理解している
+- node_id: sgh-013
+  seq: 3
+  goal: suggestの意味による使い分け（提案→原形、遠回し→通常形）を識別できる
+- node_id: sgh-014
+  seq: 1
+  goal: tell/say/speak/talkの基本的な自動詞・他動詞の区別を説明できる
+- node_id: sgh-014
+  seq: 2
+  goal: 人を目的語にとれるのがtellのみであることを理解している
+- node_id: sgh-014
+  seq: 3
+  goal: say that節とtell A that節の構文上の違いを説明できる
+- node_id: sgh-014
+  seq: 4
+  goal: speak/talkの使い分け（speak=話す/演説、talk=おしゃべり/話し合う）を説明できる
+- node_id: sgh-015
+  seq: 1
+  goal: borrow（無料で借りる）/lend（無料で貸す）/rent（有料で借りる・貸す）/use（一時的に借りる）の区別ができる
+- node_id: sgh-015
+  seq: 2
+  goal: borrow/lendの無料とrentの有料の違いを説明できる
+- node_id: sgh-015
+  seq: 3
+  goal: 移動不可能なもの（トイレ等）にはuseを使うことを知っている
+- node_id: sgh-016
+  seq: 1
+  goal: forgive/excuseの「すでに犯した罪を許す」とpermit/allowの「これからの行為を許す」の違いを説明できる
+- node_id: sgh-016
+  seq: 2
+  goal: forgive A for B / permit A to doの構文の違いを使い分けられる
+- node_id: sgh-016
+  seq: 3
+  goal: admitの2つの意味（認める/入ることを許す）を区別できる
+- node_id: sgh-017
+  seq: 1
+  goal: doubt that節とsuspect that節の意味の違いを説明できる
+- node_id: sgh-017
+  seq: 2
+  goal: doubt if/whether節とdoubt that節の違いを説明できる
+- node_id: sgh-017
+  seq: 3
+  goal: doubt/suspectが進行形をとれない理由を理解している
+- node_id: sgh-018
+  seq: 1
+  goal: go with/matchの目的語が「物」のみであることを理解している
+- node_id: sgh-018
+  seq: 2
+  goal: suitとfitの違い（色・スタイル vs サイズ・形）を説明できる
+- node_id: sgh-018
+  seq: 3
+  goal: go with/match/suit/fitの4語を適切に使い分けられる
 check_points:
-  - node_id: "sgh-001"
-    seq: 1
-    question: "discuss の後ろに about は必要か？"
-    answer: "不要。discuss は他動詞用法のみなので前置詞なしで目的語を直接とる（×discuss about）。"
-  - node_id: "sgh-001"
-    seq: 2
-    question: "apologize の後ろに人と理由を続けるとき、どの前置詞を使うか？"
-    answer: "apologize to A for B。謝る相手には to、理由には for。"
-  - node_id: "sgh-001"
-    seq: 3
-    question: "marry の3つの語法を書け。"
-    answer: "(1) A marry B (2) A get/is married to B (3) A and B get/are married"
-  - node_id: "sgh-001"
-    seq: 4
-    question: "hope の後ろに名詞を続けるとき、前置詞は何が必要か？"
-    answer: "for が必要。hope for ~「~を望む」。hope は名詞が続くとき自動詞用法。"
-  - node_id: "sgh-001"
-    seq: 5
-    question: "「〜を卒業する」は英語で何というか？"
-    answer: "graduate from ~。graduate は自動詞用法なので from が必要。"
-  - node_id: "sgh-002"
-    seq: 1
-    question: "lie（横たわる）の活用を書け。"
-    answer: "lie - lay - lain - lying。自動詞。過去形 lay は他動詞 lay の原形と同形なので注意。"
-  - node_id: "sgh-002"
-    seq: 2
-    question: "lay（横たえる）の活用を書け。"
-    answer: "lay - laid - laid - laying。他動詞。後ろに目的語が来る。"
-  - node_id: "sgh-002"
-    seq: 3
-    question: "rise と raise の違いは何か？"
-    answer: "rise は自動詞「上がる/昇る」(rise-rose-risen)、raise は他動詞「〜を上げる」(raise-raised-raised)。後ろに目的語があれば raise。"
-  - node_id: "sgh-002"
-    seq: 4
-    question: "lie には同形の別動詞があるが何か？活用は？"
-    answer: "lie「うそをつく」(= tell a lie)。活用は規則的: lie - lied - lied - lying。"
-  - node_id: "sgh-003"
-    seq: 1
-    question: "enjoy の後ろは doing と to do のどちらか？覚え方は？"
-    answer: "doing のみ。「メガフェップスはデカイ」(mind/miss/enjoy/give up/admit/finish/escape/postpone(put off)/stop/suggest/deny/evade/consider/avoid/imagine)で暗記。"
-  - node_id: "sgh-003"
-    seq: 2
-    question: "decide の後ろは doing と to do のどちらか？不定詞をとる動詞の特徴は？"
-    answer: "to do のみ。不定詞の to は「行きつく先/方向」→「これから〜しよう」という意欲・意図を表す積極的な動詞が多い。"
-  - node_id: "sgh-003"
-    seq: 3
-    question: "remember doing と remember to do の違いは？"
-    answer: "doing = 過去「〜したことを覚えている」。to do = 未来「忘れずに〜する」。forget/regret も同パターン。"
-  - node_id: "sgh-003"
-    seq: 4
-    question: "need doing はどういう意味か？"
-    answer: "「〜される必要がある」(= need to be done)。動名詞が受動的意味を持つ。want doing / deserve doing も同パターン。"
-  - node_id: "sgh-003"
-    seq: 5
-    question: "not fail to do と never fail to do の違いは？"
-    answer: "どちらも「必ず〜する」。not fail to do は1回限りの特定の行為、never fail to do は習慣的な行為に用いる。"
-  - node_id: "sgh-004"
-    seq: 1
-    question: "rob と steal の構文の違いは？"
-    answer: "rob A(人・場所) of B(物) / steal B(物) from A(場所)。rob の目的語は人・場所、steal の目的語は物。"
-  - node_id: "sgh-004"
-    seq: 2
-    question: "remind A of B の意味は？追加の用法は？"
-    answer: "「AにBを思い出させる」。無生物主語で頻出。追加用法: remind A to do / remind A that〜。"
-  - node_id: "sgh-004"
-    seq: 3
-    question: "convince A of B の受動態は？"
-    answer: "A is convinced of B「AはBを確信している」(= A is sure of B)。"
-  - node_id: "sgh-004"
-    seq: 4
-    question: "「分離・剥奪の of」を使う動詞を3つ挙げよ。"
-    answer: "rob A of B / deprive A of B / relieve A of B。cure A of B / clear A of B も同パターン。"
-  - node_id: "sgh-005"
-    seq: 1
-    question: "regard A as B の as は何を意味するか？"
-    answer: "「〜（である）と / 〜として」の意味。Bは名詞・形容詞。A = Bの補語的関係。"
-  - node_id: "sgh-005"
-    seq: 2
-    question: "refer to A as B の受動態は？"
-    answer: "A is referred to as B「AはBと呼ばれている」。to を忘れないこと。"
-  - node_id: "sgh-005"
-    seq: 3
-    question: "regard A as B と同じ意味のパターンを4つ挙げよ。"
-    answer: "look on/upon A as B / think of A as B / see/view A as B / consider A (to be) B。"
-  - node_id: "sgh-006"
-    seq: 1
-    question: "prevent A from doing の同意表現は？"
-    answer: "keep/stop/hinder A from doing。keep/stop のほうが口語的。"
-  - node_id: "sgh-006"
-    seq: 2
-    question: "discourage A from doing の反意表現は？"
-    answer: "encourage A to do「Aが〜するよう励ます/促す」。前置詞パターンが異なることに注意。"
-  - node_id: "sgh-006"
-    seq: 3
-    question: "distinguish A from B の3つの言い換えは？"
-    answer: "distinguish between A and B / tell A from B / know A from B。know は Do you know...? の形（×Can you know）。"
-  - node_id: "sgh-007"
-    seq: 1
-    question: "provide A with B を書き換えると？"
-    answer: "provide B for [to] A。目的語がBの場合、前置詞が for/to に変わる。supply も同パターン。"
-  - node_id: "sgh-007"
-    seq: 2
-    question: "blame A for B と accuse A of B の前置詞の違いは？"
-    answer: "blame は for、accuse は of。意味はほぼ同じ「責める/非難する」だが前置詞が異なるため入試頻出。"
-  - node_id: "sgh-007"
-    seq: 3
-    question: "talk A into doing の反意表現は？"
-    answer: "talk A out of doing「Aを説得して〜するのをやめさせる」。persuade も同パターン。"
-  - node_id: "sgh-007"
-    seq: 4
-    question: "present A with B の受動態は？"
-    answer: "A is presented with B「AはBを贈られる」。"
-  - node_id: "sgh-008"
-    seq: 1
-    question: "cost A B の意味は？"
-    answer: "「AにB（犠牲・損失・費用）を払わせる」。It costs A B to do「Aが〜するのにBがかかる」も重要。"
-  - node_id: "sgh-008"
-    seq: 2
-    question: "explain はSVOOをとれるか？正しい語順は？"
-    answer: "とれない。explain B to A の形にする。×explain me it → ○explain it to me。"
-  - node_id: "sgh-008"
-    seq: 3
-    question: "explain の目的語がthat節のとき語順はどうなるか？"
-    answer: "explain to A that〜。目的語が長い場合は to A を先に置く。wh-節も同様。"
-  - node_id: "sgh-008"
-    seq: 4
-    question: "spare A B の2つの意味は？"
-    answer: "(1)「AにB（時間）をさく」(= spare B for A)。(2)「AのB（手間）を省く」(= save A B)。"
-  - node_id: "sgh-009"
-    seq: 1
-    question: "SVCのCに来るのは形容詞か副詞か？"
-    answer: "形容詞[分詞]。副詞は不可。keep quiet(○) / keep quietly(×)。"
-  - node_id: "sgh-009"
-    seq: 2
-    question: "go wrong / go bad の go+形容詞はどんな変化を表すか？"
-    answer: "好ましくない状態への変化。go bad「腐る」/ go bankrupt「破産する」。"
-  - node_id: "sgh-009"
-    seq: 3
-    question: "come true の come+形容詞はどんな変化を表すか？"
-    answer: "好ましい状態への変化。come alive「生き生きとする」/ come right「うまくいく」。"
-  - node_id: "sgh-009"
-    seq: 4
-    question: "find O C の意味は？"
-    answer: "「OがCだとわかる/OをCだと思う」。O=Cの関係が成立。discoverは人を目的語にとるので不可。"
-  - node_id: "sgh-010"
-    seq: 1
-    question: "suggest/hope はSVO to doの形をとれるか？"
-    answer: "とれない。suggestはthat節、hopeはhope for A to doの形。"
-  - node_id: "sgh-010"
-    seq: 2
-    question: "get A to doと同義のSVO do形式の表現は？"
-    answer: "have A do。get A to do = have A do「Aに〜させる/してもらう」。"
-  - node_id: "sgh-010"
-    seq: 3
-    question: "force A to doと同義のSVO do形式の表現は？"
-    answer: "make A do。force[compel/oblige] A to do = make A do「強制的にAに〜させる」。"
-  - node_id: "sgh-010"
-    seq: 4
-    question: "cause A to doの主語は何が多いか？"
-    answer: "無生物主語（原因を表す）。「（主語が原因で）Aに〜させる/Aは〜する」。"
-  - node_id: "sgh-011"
-    seq: 1
-    question: "make A doとlet A doの強制力の違いは？"
-    answer: "make=「強制的に〜させる」、let=「望み通り[勝手に]〜させる」。have A doはその中間で「当然の立場の人に〜してもらう」。"
-  - node_id: "sgh-011"
-    seq: 2
-    question: "see A doとsee A doingの違いは？"
-    answer: "do=動作の始めから終わりまで全体を見る。doing=動作の途中[部分]を見る。"
-  - node_id: "sgh-011"
-    seq: 3
-    question: "have A doneの3つの意味は？"
-    answer: "(1)使役「Aを〜してもらう」(2)被害「Aを〜される」(3)完了「（自分が）Aを〜してしまう」。get A doneも同様。"
-  - node_id: "sgh-011"
-    seq: 4
-    question: "make oneself understoodの意味は？"
-    answer: "「自分の考え[言うこと]を人に理解してもらう」。make A doneの成句表現。make oneself heardも同類。"
-  - node_id: "sgh-011"
-    seq: 5
-    question: "find A doは正しいか？"
-    answer: "正しくない(×)。find A doing/doneの形のみ。catch A doingも同様にdoは不可。"
-  - node_id: "sgh-012"
-    seq: 1
-    question: "keep A doing/doneとleave A doing/doneの違いは？"
-    answer: "keep=「意図的に〜の状態にしておく」、leave=「〜の状態のまま放置する」。"
-  - node_id: "sgh-012"
-    seq: 2
-    question: "keep A waitingはどんな意味？"
-    answer: "「Aを待たせておく」。keep A doingの最頻出形。I'm sorry to have kept you waiting.が定番。"
-  - node_id: "sgh-012"
-    seq: 3
-    question: "leave A doneの例としてleave A closedはどう訳すか？"
-    answer: "「Aを閉じたままにしておく（放置する）」。目的語Aとcloseの受動関係からdoneを選ぶ。"
-  - node_id: "sgh-013"
-    seq: 1
-    question: "suggest that S ( ) + 原形の( )に入る語は？"
-    answer: "should（省略可、その場合は原形のみ）。提案・要求・命令の動詞のthat節中で用いる。"
-  - node_id: "sgh-013"
-    seq: 2
-    question: "insist/demandはthat節で原形を用いるか？"
-    answer: "「要求」の意味の場合は原形/should+原形を用いる。insistが「主張」の意味の場合は通常の時制。"
-  - node_id: "sgh-013"
-    seq: 3
-    question: "suggestを「遠回しに言う」の意味で使う場合、that節の動詞はどうなるか？"
-    answer: "通常の時制を用いる。He suggested that I was wrong.(○) / that I (should) be wrong.(×)"
-  - node_id: "sgh-013"
-    seq: 4
-    question: "that節で原形を用いる動詞を6つ挙げよ。"
-    answer: "suggest[propose]/order[command]/demand[require]/advise/insist/recommend。"
-  - node_id: "sgh-014"
-    seq: 1
-    question: "tell/say/speak/talkのうち、人を目的語にとれるのはどれか？"
-    answer: "tellのみ。tell A about B / tell A that節 / tell A to doの形。"
-  - node_id: "sgh-014"
-    seq: 2
-    question: "say me thatは正しいか？"
-    answer: "正しくない。sayは人を目的語にとれない。tell me thatが正しい。"
-  - node_id: "sgh-014"
-    seq: 3
-    question: "speakが他動詞として使える場合の目的語は？"
-    answer: "言語に限られる。speak English / speak a word。それ以外は自動詞。"
-  - node_id: "sgh-014"
-    seq: 4
-    question: "talk about AとdiscussはAの文法的な違いは？"
-    answer: "talkは自動詞（talk about A）、discussは他動詞（discuss A / ×discuss about A）。"
-  - node_id: "sgh-015"
-    seq: 1
-    question: "borrowとlendの意味の違いは？"
-    answer: "borrow=「（無料で）借りる」、lend=「（無料で）貸す」。方向が逆。"
-  - node_id: "sgh-015"
-    seq: 2
-    question: "家やアパートを借りる場合に使う動詞は？"
-    answer: "rent。有料の貸借に使う。borrow/lendは無料の貸借。"
-  - node_id: "sgh-015"
-    seq: 3
-    question: "トイレを借りたい場合、Can I borrow the bathroom?は正しいか？"
-    answer: "正しくない。移動不可能なものにはuseを使う。Can I use the bathroom?が正しい。"
-  - node_id: "sgh-016"
-    seq: 1
-    question: "forgiveとpermitの意味の違いは？"
-    answer: "forgive=「すでに犯した罪・過ちを許す」（forgive A for B）。permit=「これからあることをする許可を与える」（permit A to do）。"
-  - node_id: "sgh-016"
-    seq: 2
-    question: "forgive/excuseはSVO to doの形をとれるか？"
-    answer: "とれない。forgive A for B / excuse A for Bの形。SVO to doはpermit/allowのみ。"
-  - node_id: "sgh-016"
-    seq: 3
-    question: "admitの2つの意味は？"
-    answer: "(1)「（仕方なく）〜と認める」admit that〜。(2)「（入ること）を認める/許す」admit A into B。"
-  - node_id: "sgh-017"
-    seq: 1
-    question: "doubt that節とsuspect that節の意味はどう違うか？"
-    answer: "doubt=「〜ではないと思う」(that節の内容を否定)。suspect=「〜だと思う」(that節の内容を肯定)。"
-  - node_id: "sgh-017"
-    seq: 2
-    question: "doubt if/whether節の意味は？"
-    answer: "「〜かどうか疑わしく思う」。doubt肯定文ではif/whether節、doubt that節は「強い不信」。"
-  - node_id: "sgh-017"
-    seq: 3
-    question: "I am doubting / I am suspectingは正しいか？"
-    answer: "正しくない。doubt/suspectは心理状態動詞なので進行形不可。"
-  - node_id: "sgh-018"
-    seq: 1
-    question: "These shoes don't match me.は正しいか？"
-    answer: "正しくない。match/go withは物同士の調和で、人を目的語にとれない。match my suitなどが正しい。"
-  - node_id: "sgh-018"
-    seq: 2
-    question: "suitとfitの違いは？"
-    answer: "suit=「色・スタイルが似合う」、fit=「サイズ・形が合う」。どちらもBは人。"
-  - node_id: "sgh-018"
-    seq: 3
-    question: "go withとmatchの関係は？"
-    answer: "ほぼ同義。A go with B = A match B「A(物)がB(別の物)に合う/調和する」。"
-
+- node_id: sgh-001
+  seq: 1
+  question: discuss の後ろに about は必要か？
+  answer: 不要。discuss は他動詞用法のみなので前置詞なしで目的語を直接とる（×discuss about）。
+- node_id: sgh-001
+  seq: 2
+  question: apologize の後ろに人と理由を続けるとき、どの前置詞を使うか？
+  answer: apologize to A for B。謝る相手には to、理由には for。
+- node_id: sgh-001
+  seq: 3
+  question: marry の3つの語法を書け。
+  answer: (1) A marry B (2) A get/is married to B (3) A and B get/are married
+- node_id: sgh-001
+  seq: 4
+  question: hope の後ろに名詞を続けるとき、前置詞は何が必要か？
+  answer: for が必要。hope for ~「~を望む」。hope は名詞が続くとき自動詞用法。
+- node_id: sgh-001
+  seq: 5
+  question: 「〜を卒業する」は英語で何というか？
+  answer: graduate from ~。graduate は自動詞用法なので from が必要。
+- node_id: sgh-002
+  seq: 1
+  question: lie（横たわる）の活用を書け。
+  answer: lie - lay - lain - lying。自動詞。過去形 lay は他動詞 lay の原形と同形なので注意。
+- node_id: sgh-002
+  seq: 2
+  question: lay（横たえる）の活用を書け。
+  answer: lay - laid - laid - laying。他動詞。後ろに目的語が来る。
+- node_id: sgh-002
+  seq: 3
+  question: rise と raise の違いは何か？
+  answer: rise は自動詞「上がる/昇る」(rise-rose-risen)、raise は他動詞「〜を上げる」(raise-raised-raised)。後ろに目的語があれば raise。
+- node_id: sgh-002
+  seq: 4
+  question: lie には同形の別動詞があるが何か？活用は？
+  answer: 'lie「うそをつく」(= tell a lie)。活用は規則的: lie - lied - lied - lying。'
+- node_id: sgh-003
+  seq: 1
+  question: enjoy の後ろは doing と to do のどちらか？覚え方は？
+  answer: doing のみ。「メガフェップスはデカイ」(mind/miss/enjoy/give up/admit/finish/escape/postpone(put off)/stop/suggest/deny/evade/consider/avoid/imagine)で暗記。
+- node_id: sgh-003
+  seq: 2
+  question: decide の後ろは doing と to do のどちらか？不定詞をとる動詞の特徴は？
+  answer: to do のみ。不定詞の to は「行きつく先/方向」→「これから〜しよう」という意欲・意図を表す積極的な動詞が多い。
+- node_id: sgh-003
+  seq: 3
+  question: remember doing と remember to do の違いは？
+  answer: doing = 過去「〜したことを覚えている」。to do = 未来「忘れずに〜する」。forget/regret も同パターン。
+- node_id: sgh-003
+  seq: 4
+  question: need doing はどういう意味か？
+  answer: 「〜される必要がある」(= need to be done)。動名詞が受動的意味を持つ。want doing / deserve doing も同パターン。
+- node_id: sgh-003
+  seq: 5
+  question: not fail to do と never fail to do の違いは？
+  answer: どちらも「必ず〜する」。not fail to do は1回限りの特定の行為、never fail to do は習慣的な行為に用いる。
+- node_id: sgh-004
+  seq: 1
+  question: rob と steal の構文の違いは？
+  answer: rob A(人・場所) of B(物) / steal B(物) from A(場所)。rob の目的語は人・場所、steal の目的語は物。
+- node_id: sgh-004
+  seq: 2
+  question: remind A of B の意味は？追加の用法は？
+  answer: '「AにBを思い出させる」。無生物主語で頻出。追加用法: remind A to do / remind A that〜。'
+- node_id: sgh-004
+  seq: 3
+  question: convince A of B の受動態は？
+  answer: A is convinced of B「AはBを確信している」(= A is sure of B)。
+- node_id: sgh-004
+  seq: 4
+  question: 「分離・剥奪の of」を使う動詞を3つ挙げよ。
+  answer: rob A of B / deprive A of B / relieve A of B。cure A of B / clear A of B も同パターン。
+- node_id: sgh-005
+  seq: 1
+  question: regard A as B の as は何を意味するか？
+  answer: 「〜（である）と / 〜として」の意味。Bは名詞・形容詞。A = Bの補語的関係。
+- node_id: sgh-005
+  seq: 2
+  question: refer to A as B の受動態は？
+  answer: A is referred to as B「AはBと呼ばれている」。to を忘れないこと。
+- node_id: sgh-005
+  seq: 3
+  question: regard A as B と同じ意味のパターンを4つ挙げよ。
+  answer: look on/upon A as B / think of A as B / see/view A as B / consider A (to be) B。
+- node_id: sgh-006
+  seq: 1
+  question: prevent A from doing の同意表現は？
+  answer: keep/stop/hinder A from doing。keep/stop のほうが口語的。
+- node_id: sgh-006
+  seq: 2
+  question: discourage A from doing の反意表現は？
+  answer: encourage A to do「Aが〜するよう励ます/促す」。前置詞パターンが異なることに注意。
+- node_id: sgh-006
+  seq: 3
+  question: distinguish A from B の3つの言い換えは？
+  answer: distinguish between A and B / tell A from B / know A from B。know は Do you know...? の形（×Can you know）。
+- node_id: sgh-007
+  seq: 1
+  question: provide A with B を書き換えると？
+  answer: provide B for [to] A。目的語がBの場合、前置詞が for/to に変わる。supply も同パターン。
+- node_id: sgh-007
+  seq: 2
+  question: blame A for B と accuse A of B の前置詞の違いは？
+  answer: blame は for、accuse は of。意味はほぼ同じ「責める/非難する」だが前置詞が異なるため入試頻出。
+- node_id: sgh-007
+  seq: 3
+  question: talk A into doing の反意表現は？
+  answer: talk A out of doing「Aを説得して〜するのをやめさせる」。persuade も同パターン。
+- node_id: sgh-007
+  seq: 4
+  question: present A with B の受動態は？
+  answer: A is presented with B「AはBを贈られる」。
+- node_id: sgh-008
+  seq: 1
+  question: cost A B の意味は？
+  answer: 「AにB（犠牲・損失・費用）を払わせる」。It costs A B to do「Aが〜するのにBがかかる」も重要。
+- node_id: sgh-008
+  seq: 2
+  question: explain はSVOOをとれるか？正しい語順は？
+  answer: とれない。explain B to A の形にする。×explain me it → ○explain it to me。
+- node_id: sgh-008
+  seq: 3
+  question: explain の目的語がthat節のとき語順はどうなるか？
+  answer: explain to A that〜。目的語が長い場合は to A を先に置く。wh-節も同様。
+- node_id: sgh-008
+  seq: 4
+  question: spare A B の2つの意味は？
+  answer: (1)「AにB（時間）をさく」(= spare B for A)。(2)「AのB（手間）を省く」(= save A B)。
+- node_id: sgh-009
+  seq: 1
+  question: SVCのCに来るのは形容詞か副詞か？
+  answer: 形容詞[分詞]。副詞は不可。keep quiet(○) / keep quietly(×)。
+- node_id: sgh-009
+  seq: 2
+  question: go wrong / go bad の go+形容詞はどんな変化を表すか？
+  answer: 好ましくない状態への変化。go bad「腐る」/ go bankrupt「破産する」。
+- node_id: sgh-009
+  seq: 3
+  question: come true の come+形容詞はどんな変化を表すか？
+  answer: 好ましい状態への変化。come alive「生き生きとする」/ come right「うまくいく」。
+- node_id: sgh-009
+  seq: 4
+  question: find O C の意味は？
+  answer: 「OがCだとわかる/OをCだと思う」。O=Cの関係が成立。discoverは人を目的語にとるので不可。
+- node_id: sgh-010
+  seq: 1
+  question: suggest/hope はSVO to doの形をとれるか？
+  answer: とれない。suggestはthat節、hopeはhope for A to doの形。
+- node_id: sgh-010
+  seq: 2
+  question: get A to doと同義のSVO do形式の表現は？
+  answer: have A do。get A to do = have A do「Aに〜させる/してもらう」。
+- node_id: sgh-010
+  seq: 3
+  question: force A to doと同義のSVO do形式の表現は？
+  answer: make A do。force[compel/oblige] A to do = make A do「強制的にAに〜させる」。
+- node_id: sgh-010
+  seq: 4
+  question: cause A to doの主語は何が多いか？
+  answer: 無生物主語（原因を表す）。「（主語が原因で）Aに〜させる/Aは〜する」。
+- node_id: sgh-011
+  seq: 1
+  question: make A doとlet A doの強制力の違いは？
+  answer: make=「強制的に〜させる」、let=「望み通り[勝手に]〜させる」。have A doはその中間で「当然の立場の人に〜してもらう」。
+- node_id: sgh-011
+  seq: 2
+  question: see A doとsee A doingの違いは？
+  answer: do=動作の始めから終わりまで全体を見る。doing=動作の途中[部分]を見る。
+- node_id: sgh-011
+  seq: 3
+  question: have A doneの3つの意味は？
+  answer: (1)使役「Aを〜してもらう」(2)被害「Aを〜される」(3)完了「（自分が）Aを〜してしまう」。get A doneも同様。
+- node_id: sgh-011
+  seq: 4
+  question: make oneself understoodの意味は？
+  answer: 「自分の考え[言うこと]を人に理解してもらう」。make A doneの成句表現。make oneself heardも同類。
+- node_id: sgh-011
+  seq: 5
+  question: find A doは正しいか？
+  answer: 正しくない(×)。find A doing/doneの形のみ。catch A doingも同様にdoは不可。
+- node_id: sgh-012
+  seq: 1
+  question: keep A doing/doneとleave A doing/doneの違いは？
+  answer: keep=「意図的に〜の状態にしておく」、leave=「〜の状態のまま放置する」。
+- node_id: sgh-012
+  seq: 2
+  question: keep A waitingはどんな意味？
+  answer: 「Aを待たせておく」。keep A doingの最頻出形。I'm sorry to have kept you waiting.が定番。
+- node_id: sgh-012
+  seq: 3
+  question: leave A doneの例としてleave A closedはどう訳すか？
+  answer: 「Aを閉じたままにしておく（放置する）」。目的語Aとcloseの受動関係からdoneを選ぶ。
+- node_id: sgh-013
+  seq: 1
+  question: suggest that S ( ) + 原形の( )に入る語は？
+  answer: should（省略可、その場合は原形のみ）。提案・要求・命令の動詞のthat節中で用いる。
+- node_id: sgh-013
+  seq: 2
+  question: insist/demandはthat節で原形を用いるか？
+  answer: 「要求」の意味の場合は原形/should+原形を用いる。insistが「主張」の意味の場合は通常の時制。
+- node_id: sgh-013
+  seq: 3
+  question: suggestを「遠回しに言う」の意味で使う場合、that節の動詞はどうなるか？
+  answer: 通常の時制を用いる。He suggested that I was wrong.(○) / that I (should) be wrong.(×)
+- node_id: sgh-013
+  seq: 4
+  question: that節で原形を用いる動詞を6つ挙げよ。
+  answer: suggest[propose]/order[command]/demand[require]/advise/insist/recommend。
+- node_id: sgh-014
+  seq: 1
+  question: tell/say/speak/talkのうち、人を目的語にとれるのはどれか？
+  answer: tellのみ。tell A about B / tell A that節 / tell A to doの形。
+- node_id: sgh-014
+  seq: 2
+  question: say me thatは正しいか？
+  answer: 正しくない。sayは人を目的語にとれない。tell me thatが正しい。
+- node_id: sgh-014
+  seq: 3
+  question: speakが他動詞として使える場合の目的語は？
+  answer: 言語に限られる。speak English / speak a word。それ以外は自動詞。
+- node_id: sgh-014
+  seq: 4
+  question: talk about AとdiscussはAの文法的な違いは？
+  answer: talkは自動詞（talk about A）、discussは他動詞（discuss A / ×discuss about A）。
+- node_id: sgh-015
+  seq: 1
+  question: borrowとlendの意味の違いは？
+  answer: borrow=「（無料で）借りる」、lend=「（無料で）貸す」。方向が逆。
+- node_id: sgh-015
+  seq: 2
+  question: 家やアパートを借りる場合に使う動詞は？
+  answer: rent。有料の貸借に使う。borrow/lendは無料の貸借。
+- node_id: sgh-015
+  seq: 3
+  question: トイレを借りたい場合、Can I borrow the bathroom?は正しいか？
+  answer: 正しくない。移動不可能なものにはuseを使う。Can I use the bathroom?が正しい。
+- node_id: sgh-016
+  seq: 1
+  question: forgiveとpermitの意味の違いは？
+  answer: forgive=「すでに犯した罪・過ちを許す」（forgive A for B）。permit=「これからあることをする許可を与える」（permit A to do）。
+- node_id: sgh-016
+  seq: 2
+  question: forgive/excuseはSVO to doの形をとれるか？
+  answer: とれない。forgive A for B / excuse A for Bの形。SVO to doはpermit/allowのみ。
+- node_id: sgh-016
+  seq: 3
+  question: admitの2つの意味は？
+  answer: (1)「（仕方なく）〜と認める」admit that〜。(2)「（入ること）を認める/許す」admit A into B。
+- node_id: sgh-017
+  seq: 1
+  question: doubt that節とsuspect that節の意味はどう違うか？
+  answer: doubt=「〜ではないと思う」(that節の内容を否定)。suspect=「〜だと思う」(that節の内容を肯定)。
+- node_id: sgh-017
+  seq: 2
+  question: doubt if/whether節の意味は？
+  answer: 「〜かどうか疑わしく思う」。doubt肯定文ではif/whether節、doubt that節は「強い不信」。
+- node_id: sgh-017
+  seq: 3
+  question: I am doubting / I am suspectingは正しいか？
+  answer: 正しくない。doubt/suspectは心理状態動詞なので進行形不可。
+- node_id: sgh-018
+  seq: 1
+  question: These shoes don't match me.は正しいか？
+  answer: 正しくない。match/go withは物同士の調和で、人を目的語にとれない。match my suitなどが正しい。
+- node_id: sgh-018
+  seq: 2
+  question: suitとfitの違いは？
+  answer: suit=「色・スタイルが似合う」、fit=「サイズ・形が合う」。どちらもBは人。
+- node_id: sgh-018
+  seq: 3
+  question: go withとmatchの関係は？
+  answer: ほぼ同義。A go with B = A match B「A(物)がB(別の物)に合う/調和する」。
 node_prerequisites:
-  - node_id: "sgh-002"
-    prerequisite_id: "sgh-001"
-
+- node_id: sgh-002
+  prerequisite_id: sgh-001
 knowledge_references:
-  - node_id: "sgh-001"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_125"
-    pages: ""
-  - node_id: "sgh-002"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_126"
-    pages: ""
-  - node_id: "sgh-003"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_127"
-    pages: ""
-  - node_id: "sgh-003"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_128"
-    pages: ""
-  - node_id: "sgh-003"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_129"
-    pages: ""
-  - node_id: "sgh-004"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_130"
-    pages: ""
-  - node_id: "sgh-004"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_131"
-    pages: ""
-  - node_id: "sgh-005"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_132"
-    pages: ""
-  - node_id: "sgh-006"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_133"
-    pages: ""
-  - node_id: "sgh-006"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_134"
-    pages: ""
-  - node_id: "sgh-007"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_135"
-    pages: ""
-  - node_id: "sgh-007"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_136"
-    pages: ""
-  - node_id: "sgh-007"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_137"
-    pages: ""
-  - node_id: "sgh-008"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_138"
-    pages: ""
-  - node_id: "sgh-009"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_139"
-    pages: ""
-  - node_id: "sgh-010"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_140"
-    pages: ""
-  - node_id: "sgh-011"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_141"
-    pages: ""
-  - node_id: "sgh-011"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_142"
-    pages: ""
-  - node_id: "sgh-011"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_143"
-    pages: ""
-  - node_id: "sgh-012"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_144"
-    pages: ""
-  - node_id: "sgh-013"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_145"
-    pages: ""
-  - node_id: "sgh-014"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_146"
-    pages: ""
-  - node_id: "sgh-015"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_147"
-    pages: ""
-  - node_id: "sgh-016"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_148"
-    pages: ""
-  - node_id: "sgh-017"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_149"
-    pages: ""
-  - node_id: "sgh-018"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_150"
-    pages: ""
+- node_id: sgh-001
+  book: スクランブル英文法・語法
+  section_id: Scr_125
+  pages: ''
+- node_id: sgh-002
+  book: スクランブル英文法・語法
+  section_id: Scr_126
+  pages: ''
+- node_id: sgh-003
+  book: スクランブル英文法・語法
+  section_id: Scr_127
+  pages: ''
+- node_id: sgh-004
+  book: スクランブル英文法・語法
+  section_id: Scr_130
+  pages: ''
+- node_id: sgh-005
+  book: スクランブル英文法・語法
+  section_id: Scr_132
+  pages: ''
+- node_id: sgh-006
+  book: スクランブル英文法・語法
+  section_id: Scr_133
+  pages: ''
+- node_id: sgh-007
+  book: スクランブル英文法・語法
+  section_id: Scr_135
+  pages: ''
+- node_id: sgh-008
+  book: スクランブル英文法・語法
+  section_id: Scr_138
+  pages: ''
+- node_id: sgh-009
+  book: スクランブル英文法・語法
+  section_id: Scr_139
+  pages: ''
+- node_id: sgh-010
+  book: スクランブル英文法・語法
+  section_id: Scr_140
+  pages: ''
+- node_id: sgh-011
+  book: スクランブル英文法・語法
+  section_id: Scr_141
+  pages: ''
+- node_id: sgh-012
+  book: スクランブル英文法・語法
+  section_id: Scr_144
+  pages: ''
+- node_id: sgh-013
+  book: スクランブル英文法・語法
+  section_id: Scr_145
+  pages: ''
+- node_id: sgh-014
+  book: スクランブル英文法・語法
+  section_id: Scr_146
+  pages: ''
+- node_id: sgh-015
+  book: スクランブル英文法・語法
+  section_id: Scr_147
+  pages: ''
+- node_id: sgh-016
+  book: スクランブル英文法・語法
+  section_id: Scr_148
+  pages: ''
+- node_id: sgh-017
+  book: スクランブル英文法・語法
+  section_id: Scr_149
+  pages: ''
+- node_id: sgh-018
+  book: スクランブル英文法・語法
+  section_id: Scr_150
+  pages: ''

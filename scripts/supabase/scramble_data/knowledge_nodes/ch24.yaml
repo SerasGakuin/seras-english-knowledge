@@ -1,467 +1,503 @@
 knowledge_nodes:
-  - id: "sid-001"
-    name: "動詞＋副詞 — 自動詞の働きをするもの①②"
-    category: "イディオム"
-    priority: "P1"
-    notes: |
-      Theme 210+211統合。「動詞+副詞」で自動詞として働くイディオム。
-      【Theme 210】show up/turn up「現れる」(=appear)、break out「勃発する」、break down「故障する」、break up「終わる/別れる」、come about「起こる」(=happen)、come out「出版される」(=be published)、come to「意識を取り戻す」(=become conscious。come to oneselfの省略形)、hold out「持ちこたえる/続く」(=last)、stand out「目立つ」。
-      PU!187: 自動詞表現と他動詞表現を対にして覚える（come/bring）。come about⇔bring about、come out⇔bring out、come to an end⇔bring〜to an end、come to light⇔bring〜to light。
-      プラスα: turn upには他動詞用法「（音量など）を大きくする」(⇔turn down⇨935)もある。break upには「（友情・関係が）終わる」の意味も。hold outには他動詞用法「〜を差し出す」もある。outstanding(形)「目立った/傑出した」。
-      【Theme 211】turn out (to be)〜「〜であることがわかる」(=prove)、cut in/break in「口をはさむ」(=interrupt)、pass away「亡くなる」(=die)、stay up/sit up「寝ずに起きている」、watch out/look out「気をつける」、set in「（季節・天候が）始まる」、set out/set off「出発する」(=start)、go off「爆発する」(=explode)、take off「離陸する」(⇔land)、pull up「（車が）止まる」(=stop)。
-      プラスα: watch [look] out for〜「〜に気をつける」。set out [off] for〜「〜に向けて出発する」。go offには「（銃が）発射される」「（警報が）鳴り出す」の意味も。take offには他動詞用法「（服を）脱ぐ」(⇔put on⇨923)もある。pull upには他動詞用法「（車を）止める」もある。
-      慣句参照: Why not do?「〜してはどうですか」(⇨261)。in the long run「結局は」(⇨1222)。
+- id: sid-001
+  name: 動詞＋副詞 — 自動詞の働きをするもの①②
+  category: イディオム
+  priority: P1
+  notes: 'Theme 210+211統合。「動詞+副詞」で自動詞として働くイディオム。
 
-  - id: "sid-002"
-    name: "動詞＋副詞 — 他動詞の働きをするもの①②"
-    category: "イディオム"
-    priority: "P1"
-    notes: |
-      Theme 212+213統合。「動詞+副詞」で他動詞として働くイディオム。
-      【Theme 212】bring about〜「〜を引き起こす」(=cause。自動詞come about⇨883)、bring up〜「〜を育てる」(=raise/rear。自動詞grow upと混同注意)、make up〜「〜をでっち上げる」(=invent⇨740)、make out〜/figure out〜「〜を理解する」(=understand)、pick up〜「〜を車で迎えに行く/〜を身につける/〜を買う」、pick out〜「〜を選ぶ」(=select。和製英語ピックアップに注意)、give up〜「〜をあきらめる」(=abandon)、look up〜「〜を調べる」。
-      PU!188: 「動詞+代名詞+副詞」の語順。目的語が代名詞の場合、必ず動詞と副詞の間に置く（look it up ○, look up it ×）。名詞ならどちらの語順も可。
-      プラスα: grow up(自)「育つ」との比較。make upの自動詞用法「仲直りする/化粧する」。figure out〜=solve「〜を解決する」。pick up〜の3意味：①車で迎える ②（言語・知識を）身につける ③手に入れる/買う。give up doing「（悪習を）やめる」(⇨PU!96)。
-      【Theme 213】carry out〜「〜を実行する」(=perform/accomplish)、carry on〜「〜を続ける」(=continue。carry on with〜も同意)、cut down〜「〜を減らす」(=reduce。cut down on〜も同意)、leave〜behind「〜を置き忘れる」、leave out〜「〜を除外する」(=omit)、rule out〜「〜を除外する/否定する」(=exclude)、take in〜「〜を理解する」(=understand)/「〜をだます」(=deceive)、take on〜「〜を引き受ける」(=undertake)/「〜を雇う」/「〜を帯びる」(=assume)、take over〜「〜を引き継ぐ」(=succeed to⇨997)、take up〜「〜を占める」(=occupy)/「〜を始める」、show off〜「〜を見せびらかす」(=display)。
-      プラスα: carry it outの語順に注意(⇨PU!188)。take inの「だます」用法(He was taken in by the fraud.)。take onの「雇う」用法(The company took on five new employees.)。take upの「始める」用法(I'm thinking of taking up a new hobby.)。
+    【Theme 210】show up/turn up「現れる」(=appear)、break out「勃発する」、break down「故障する」、break up「終わる/別れる」、come about「起こる」(=happen)、come out「出版される」(=be published)、come to「意識を取り戻す」(=become conscious。come to oneselfの省略形)、hold
+    out「持ちこたえる/続く」(=last)、stand out「目立つ」。
 
-  - id: "sid-003"
-    name: "動詞＋副詞 — 他動詞の働きをするもの③④"
-    category: "イディオム"
-    priority: "P1"
-    notes: |
-      Theme 214+215統合。「動詞+副詞」で他動詞として働くイディオム（続き）。
-      【Theme 214】lay off〜「〜を一時解雇する」、put aside〜「〜を蓄える」(=save。put by/lay aside/set asideも同意)、put away〜「〜を片づける」(=tidy)/「〜を蓄える」(=put aside)、put off〜「〜を延期する」(=postpone)、put on〜「〜を着る」(⇔take off⇨897)、try on〜「〜を試着する」、wear out〜「〜を疲れ果てさせる/〜をすり減らす」、put down〜「〜を書き留める」(=write down)、hold back〜「（感情を）抑える」(=restrain)、set up〜「〜を設立する」(=establish)、see〜off「〜を見送る」(⇔meet)。
-      PU!189: onとoffの反意表現。get on a bus⇔get off a bus、turn on⇔turn off、put on⇔take off。put off〜は「延期する」の意味で使うのがふつう。
-      プラスα: put away〜の「蓄える」用法。hold backの自動詞用法「しり込みする」(=hesitate)。see〜offは名詞目的語でもsee her offの語順がふつう。
-      【Theme 215】hand in〜/turn in〜「〜を提出する」(=submit)、turn on〜「〜をつける」/turn off〜「〜を消す」、put out〜「（火を）消す」(=extinguish。go outは自動詞「消える」)、turn down〜「〜を拒絶する」(=refuse/reject)/「（音量を）小さくする」(⇔turn up⇨879)、work out〜「〜を解く」(=solve)、keep up〜「〜を維持する」(=maintain)、call off〜「〜を中止する」(=cancel)、call up〜「〜に電話する」(=ring up)、let〜down「〜を失望させる」(=disappoint)、take off〜「（期間の）休みをとる」(take a day off)。
-      プラスα: hand in/give in《英》は手渡し提出、send inは郵送提出、turn in《米》はどちらも。switch on[off]も「つける[消す]」の意味。work outの自動詞用法「うまくいく」。take offの3用法：①離陸する ②脱ぐ ③休みをとる。
+    PU!187: 自動詞表現と他動詞表現を対にして覚える（come/bring）。come about⇔bring about、come out⇔bring out、come to an end⇔bring〜to an end、come to light⇔bring〜to light。
 
-  - id: "sid-004"
-    name: "動詞＋前置詞①② — ask for/look after/take after/result in等"
-    category: "イディオム"
-    priority: "P1"
-    notes: |
-      Theme 216+217統合。「動詞+前置詞」のイディオム（前半）。
-      【Theme 216】ask for〜「〜を求める」(=request)。ask A for B「AにBを求める」。look after〜/care for〜「〜の世話をする」(=take care of)。care for〜は否定・疑問文で「〜を好む」(=like)。look for〜「〜を探す」(=search for)。take after〜「〜に似ている」(=resemble。血縁の年上の人に用いる)。look into〜「〜を調べる」(=investigate)/look over〜「〜にざっと目を通す」(=check)。take to〜「〜を好きになる」(=come to like)/「〜にふける」。account for〜「〜を説明する」(=explain)/「〜を占める」(〈重要〉)。add to〜「〜を増やす」(=increase)。add A to B「AをBに加える」。tell on〜「〜にこたえる」(=affect)。answer for〜「〜の責任を負う」(=be responsible for)。
-      PU!190: 「調べる」のイディオム。look into/look over/look up(⇨907)。go over[through]〜「〜をよく調べる」(=examine carefully)(⇨991)。
-      プラスα: account for〜の「占める」用法（tourism revenue accounts for at least 20% of GDP）。
-      【Theme 217】insist on[upon]〜「〜を強く主張する」。insist on A('s) doing。persist in〜「〜に固執する」。stick to〜/cling to〜「〜に固執する」。前置詞の違い: insistはon、persistはin、stick[cling]はto。stand for〜「〜を表す」(=represent/mean)/「〜を支持する」。stand by〜「〜の味方をする」(=support)。call for〜「〜を必要とする」(=require)。call on〜「（人を）訪ねる」(=visit。場所ならcall at)。call on A for[to do]「Aに〜を求める」。result in〜「〜という結果になる」(=lead to/bring about/give rise to)。result from〜「〜の結果として起こる」。A result from B = B result in A。consist in〜「〜にある」(=lie in)。consist of〜「〜から成り立つ」(=be composed of)。
+    プラスα: turn upには他動詞用法「（音量など）を大きくする」(⇔turn down⇨935)もある。break upには「（友情・関係が）終わる」の意味も。hold outには他動詞用法「〜を差し出す」もある。outstanding(形)「目立った/傑出した」。
 
-  - id: "sid-005"
-    name: "動詞＋前置詞③④ — depend on/deal with/agree with/apply for等"
-    category: "イディオム"
-    priority: "P1"
-    notes: |
-      Theme 218+219統合。「動詞+前置詞」のイディオム（中盤）。
-      【Theme 218】come by〜「〜を手に入れる」(=get/obtain)。run into〜「〜に偶然出会う/〜にぶつかる」(=bump into)。come across〜「〜を偶然見つける/〜に偶然出会う」(=run across。come acrossは物を見つける意味が多い)。depend on[upon]〜/rely on/count on/turn[look] to〜 (A for B)「（Bを）Aに頼る」。depend on〜（無生物主語）「〜次第である/〜によって決まる」。deal with〜「〜を扱う/〜に対処する」(=handle)。deal in〜「〜を商品として扱う」。cope with〜「〜にうまく対処する」(=deal with〜successfully)。aim at〜「〜をめざす」。aim A at B「AをBに向ける」。pay for〜「〜の代金を支払う」。pay A for B「Bの代金としてAを支払う」。
-      プラスα: run into/come across/run acrossの比較。depend on/rely on/count on/turn toのグループ。cope with=deal with successfully。
-      【Theme 219】agree with〜「（人）と意見が一致する」/「（気候・食べ物が）〜に合う」(⇨731)。agree to〜「（計画・提案に）同意する」。wait on[upon]〜「〜に仕える/〜に応対する」(=serve)。yield to〜「〜に屈する」(=submit to/give in to⇨1031)。major in〜「〜を専攻する」(=specialize in)。amount to〜「総計〜になる」(=total)/「結局〜になる/〜に等しい」。long for〜「〜を切望する」。apply for〜「〜を申し込む」(=ask for)。apply to〜「〜に当てはまる」(=be true of⇨1141)。get over〜「〜を乗り越える」(=overcome)/「〜から回復する」(=recover from)。act on〜「〜に作用する」/「〜に従って行動する」。
-      プラスα: Have you been waited on?「ご用をお伺いしていますか」。amount toの「等しい」用法。apply forとapply toの意味の違い。act onの2義。
+    【Theme 211】turn out (to be)〜「〜であることがわかる」(=prove)、cut in/break in「口をはさむ」(=interrupt)、pass away「亡くなる」(=die)、stay up/sit up「寝ずに起きている」、watch out/look out「気をつける」、set in「（季節・天候が）始まる」、set out/set off「出発する」(=start)、go
+    off「爆発する」(=explode)、take off「離陸する」(⇔land)、pull up「（車が）止まる」(=stop)。
 
-  - id: "sid-006"
-    name: "動詞＋前置詞⑤⑥ — go through/believe in/occur to/lead to等"
-    category: "イディオム"
-    priority: "P1"
-    notes: |
-      Theme 220+221統合。「動詞+前置詞」のイディオム（後半）。
-      【Theme 220】fall on〜「（記念日が）〜にあたる」。approve of〜「〜に賛成する」(⇔disapprove of)。go through〜「〜を経験する」(=experience/undergo)/「〜をよく調べる」(⇨PU!190)。believe in〜「〜の存在を信じる/〜の価値を信じる」(cf. believe〜「〜の言うことを信じる」)。make for〜「〜の方へ進む」(=head for)/「〜に寄与する」(=contribute to)。hear from〜「〜から便りがある」(⇔write to)。hear of〜「〜のうわさを耳にする」。succeed in〜「〜に成功する」(⇔fail in)。succeed in doing=manage to do(⇨501)。succeed to〜「〜を相続する/〜のあとを継ぐ」(=inherit。take over⇨916と言い換え可能)。refrain from〜「〜を慎む」(=keep from)。break into〜「〜に押し入る」/「急に〜し始める」(=burst into)。adapt to〜「〜に順応する」(=adjust to)。adapt A to B/adapt oneself to〜。adopt「採用する」との混同注意。
-      プラスα: believe inとbelieve〜の違い。make forの「寄与する」用法。hear from/hear ofの使い分け。succeed in/succeed toの使い分け。adapt/adoptのつづり混同注意。
-      【Theme 221】occur to〜「（考えが）〜の心に浮かぶ」(=strike)。It occurs to A that節。hit on[upon]〜「〜を思いつく」（人が主語）。do without〜/dispense with〜「〜なしですます」(=go without)。dispenseではwithを用いる点に注意。part with〜「（物を）手放す」/part from〜「（人と）別れる」。lead to〜「〜につながる/〜を引き起こす」(=cause/bring about/result in/give rise to)。die of[from]〜「〜が原因で死ぬ」(of=内的要因, from=外的要因、ただし現在は区別不明確)。send for〜「〜を呼びにやる」(go for〜は自分で行く)。get to〜「〜に到着する」(=arrive at/reach)。refer to〜「〜を参照する」(=consult)/「〜に言及する」。refer to A as B「AをBと呼ぶ」(⇨518)。resort to〜「〜に訴える/〜に頼る」。set about〜「〜に取りかかる」(=go about)。set about doing=set out to do。suffer from〜「〜で苦しむ」。
+    プラスα: watch [look] out for〜「〜に気をつける」。set out [off] for〜「〜に向けて出発する」。go offには「（銃が）発射される」「（警報が）鳴り出す」の意味も。take offには他動詞用法「（服を）脱ぐ」(⇔put on⇨923)もある。pull upには他動詞用法「（車を）止める」もある。
 
-  - id: "sid-007"
-    name: "動詞＋副詞＋前置詞①② — put up with/come up with/keep up with等"
-    category: "イディオム"
-    priority: "P1"
-    notes: |
-      Theme 222+223統合。「動詞+副詞+前置詞」の3語イディオム。
-      【Theme 222】put up with〜「〜を我慢する」(=endure/stand/bear/tolerate)。do away with〜「〜を廃止する」(=abolish)。look up to〜「〜を尊敬する」(=respect)。look down on[upon]〜「〜を見下す」(=despise)。make up for〜「〜の埋め合わせをする」(=compensate for)。speak ill[badly] of〜「〜を悪く言う」(=criticize)⇔speak well[highly] of〜(=praise)。think ill/well ofも同様。go in for〜「（競技に）参加する」(=take part in)/「（趣味として）〜をする」。live up to〜「（期待に）応える」(=meet/satisfy)/「（主義に）従って生きる」。stand up for〜「〜を擁護する」(=defend/support)。put up at〜「〜に泊まる」(=stay at)。go on with〜「〜を続ける」(=continue)。go on doing「〜し続ける」(=keep on doing)。get down to〜「〜に本気で取り組む」。
-      PU!191: 「すっかり/完全に」のoutとup。fill out[up]「記入する」、wear out「疲れ果てさせる」、be tired[worn] out、die out「死に絶える」、speak out[up]「思い切って意見を言う」、break up「終わる」、eat up「食べつくす」、use up「使い果たす」、dry up「干上がる」、end up。
-      プラスα: speak/thinkの代用。live up toの2義。
-      参考書内参照: ⇨871 considerate(look up toの例文)、⇨160 It is time+仮定法過去(get down toの例文)。
-      【Theme 223】come up with〜「〜を思いつく」(=think of/hit on)/「〜を提案する」(=propose)。catch up with〜「〜に追いつく」(=overtake)。keep up with〜「〜に遅れずについていく」。get through (with)〜「〜をやり終える」(=finish)。drop in[by] at[on]〜「〜に立ち寄る」(=stop by at)。at+場所、on+人。get along with〜「〜とうまくやる」(=get on with)。give in to〜「〜に屈する」(=yield to⇨982/give way to⇨1061)。come home to〜「〜にしみじみこたえる」。bring A home to B「AをBに痛切に感じさせる」。end up (by) doing「結局〜することになる」。end upの後にはin/as/withも続く。run out of〜「〜を使い果たす」。run short of〜(⇨1121)も類似。
+    慣句参照: Why not do?「〜してはどうですか」(⇨261)。in the long run「結局は」(⇨1222)。
 
-  - id: "sid-008"
-    name: "動詞＋A＋前置詞＋B — take A for B/owe A to B/devote A to B等"
-    category: "イディオム"
-    priority: "P2"
-    notes: |
-      Theme 224単独。「動詞+A+前置詞+B」の構文をとるイディオム。
-      take A for B「AをBだと思う/AをBと間違える」(=mistake A for B)。exchange A for B「AをBと交換する」。congratulate A on[upon] B「AのBを祝う」(cf. celebrateの目的語は「祝い事」であり「人」ではない)。help A with B「AのBを手伝う」。owe A to B「AはBのおかげである」(元の意味は「A（金）をBに借りている」)。share A with B「AをBと共有する」。leave A for B「Aを出発してBに向かう」(=start from A for B)。leave for〜「〜に向けて出発する」。spend A on B「A（時間・金）をBに費やす」。spend A (in) doing(⇨124)。name A after[for] B「Bにちなんで名付ける」。name A B after[for] C「Cにちなんで名前Bをつける」。devote A to B「AをBにささげる」。devote oneself to〜「〜に専念する」=be devoted to〜。attribute A to B「AをBのせいにする」(=ascribe A to B)。
+    '
+- id: sid-002
+  name: 動詞＋副詞 — 他動詞の働きをするもの①②
+  category: イディオム
+  priority: P1
+  notes: 'Theme 212+213統合。「動詞+副詞」で他動詞として働くイディオム。
 
-  - id: "sid-009"
-    name: "特定の名詞を用いる群動詞①②③ — take part in/make use of/give rise to等"
-    category: "イディオム"
-    priority: "P1"
-    notes: |
-      Theme 225+226+227統合。特定の名詞を含む群動詞（前半）。
-      【Theme 225】take part in〜「〜に参加する」(=participate in/join in)。get on A's nerves「Aをいらいらさせる」(=irritate。nervesは複数形)。go out of one's way to do/take the trouble to do「わざわざ〜する」。have trouble doing「〜するのに苦労する」(⇨123)と区別。take pride in〜「〜を誇りに思う」(=be proud of/pride oneself on)。前置詞の違い: pride(名)→in、proud(形)→of、pride(動)→on。catch sight of〜「〜を見つける」(=catch a glimpse of)⇔lose sight of〜「〜を見失う」。make use of〜「〜を利用する」(=use/utilize)。make much[full/good] use of「十分に利用」、make the best use of「最大限に利用」。take advantage of〜「〜を利用する」(=make use of)/「〜につけ込む」(=impose on)。put〜to use「〜を利用する」。find fault with〜「〜のあら探しをする」(=criticize)。take hold of〜「〜をつかむ」(catch/get/seize hold ofも可)。
-      【Theme 226】lose one's temper「腹を立てる」(=get angry)⇔keep one's temper「平静を保つ」。give rise to〜「〜を引き起こす」(=cause/bring about)。give birth to〜「〜を産む」/「〜を引き起こす」(=give rise to)。give way to〜「〜に屈する」(=yield to/give in to)。give way「崩れる」(=collapse)。take the place of〜「〜に取って代わる」(=replace)。代名詞ならtake A's place。keep an[one's] eye on〜「〜から目を離さない」(=watch)。come to an end「終わる」。bring〜to an end=put an end to〜「〜を終わらせる」。come of age「成年に達する」。have no idea「わからない」。have an effect[influence] on〜「〜に影響を与える」。take delight in〜「〜を楽しむ」(=take pleasure in)。
-      PU!192: do(益・害を与える)のその他の熟語。do (A) more harm than good「益よりむしろ害を与える」、do A damage「損害を与える」、do A justice「公平に評価する」。
-      【Theme 227】do A good「Aのためになる」(=do good to A)⇔do A harm「Aの害になる」(=do harm to A)。do A a favor「Aの頼みを聞き入れる」。ask a favor of A「Aに頼みごとをする」。learn A by heart「Aを暗記する」(=memorize)。keep[bear] A in mind「Aを覚えておく」。Aがthat節など長い場合はkeep in mind Aの語順。have A in mind「Aを考えている」。have A in common「Aを共通に持つ」(A=much/a lot/something/little/nothing)。take A into account/take A into consideration「Aを考慮に入れる」(=consider)。take account of〜/allow for〜も同意。take A by surprise「Aの不意を打つ/驚かせる」。
-      参考書内参照: ⇨151 all things considered、⇨123 have trouble doing。
+    【Theme 212】bring about〜「〜を引き起こす」(=cause。自動詞come about⇨883)、bring up〜「〜を育てる」(=raise/rear。自動詞grow upと混同注意)、make up〜「〜をでっち上げる」(=invent⇨740)、make out〜/figure out〜「〜を理解する」(=understand)、pick up〜「〜を車で迎えに行く/〜を身につける/〜を買う」、pick
+    out〜「〜を選ぶ」(=select。和製英語ピックアップに注意)、give up〜「〜をあきらめる」(=abandon)、look up〜「〜を調べる」。
 
-  - id: "sid-010"
-    name: "特定の名詞を用いる群動詞④⑤⑥ — take place/make sense/make up one's mind等"
-    category: "イディオム"
-    priority: "P1"
-    notes: |
-      Theme 228+229+230統合。特定の名詞を含む群動詞（後半）。
-      【Theme 228】make much of〜「〜を重視する」(=value)⇔make light[little] of〜「〜を軽視する」。take place「（行事が）行われる」(=be held)/「（事件が）起こる」(=happen)。take one's time「ゆっくりやる」⇔lose no time「すぐに〜する」。kill time「時間をつぶす」。make sense「理解できる/筋が通る」。make sense of〜「〜を理解する」。take care of〜「〜の世話をする」(=look after⇨943/care for⇨944)。see much[a lot] of〜「〜とよく会う」(see something/little/nothing of)。do the dishes「皿洗いをする」。make a face「顔をしかめる」(=frown)。put on weight「太る」(=gain weight)⇔lose weight「やせる」。think better of〜「〜を考え直してやめる」。
-      PU!193: do+the[one's]+名詞。do the dishes/do one's room/do the laundry/do one's face/do the shopping[cooking/cleaning]。
-      【Theme 229】make fun of〜/make a fool of〜/pull one's leg「〜をからかう」(=ridicule/laugh at/tease)。pull one's legは「足を引っ張る/邪魔する」の意味では用いない。make up one's mind「決心する」(=decide)。後ろにwh-節/to do/that節/about[on]が続く。bring A to light「Aを明るみに出す」(=reveal)⇔come to light「明るみに出る」(⇨PU!187)。get in touch with〜「〜と連絡をとる」(=contact)。keep in touch with〜「〜と連絡をとり合う」。一時的ならget、継続的ならkeep。have[get] one's (own) way「自分の思い通りにする」。hold one's tongue「黙っている」(=keep silent)。hold one's breath「息を止める」。make progress「進歩する」(progressは不可算名詞⇨PU!129)。make one's way「進む」(=proceed)。
-      PU!194: make one's wayのバリエーション。feel one's way「手探りで進む」、force one's way「無理やり進む」、elbow[shoulder] one's way「押しのけて進む」、find one's way「やっとたどり着く」。
-      【Theme 230】pay attention to〜/take notice of〜「〜に注意を払う」(=attend to/look out for⇨893)。play a part[role] in〜「〜において役割を果たす」(active/important/major等の形容詞を伴うことが多い)。pay[make] a visit to〜「〜を訪問する」(=pay〜a visit)。make a[one's] living「生計を立てる」(earn/get/gain a livingも可)。keep early[good] hours「早寝早起き」⇔keep late[bad] hours「夜ふかし」。keep regular hours「規則正しい生活」。keep one's word「約束を守る」(=keep one's promise)⇔break one's word[promise]「約束を破る」。make (both) ends meet「収支を合わせる」(=live within one's income)。have words (with〜)「口論する」(=quarrel)。have a word with〜「ちょっと話をする」と混同注意。have a look at〜「〜を見る」(=look at/take a look at)。
-      PU!195: have a+動詞派生名詞。have a look at/have a dream/have a rest/have a drink/have a try/have a walk。takeにも同様の用法。
+    PU!188: 「動詞+代名詞+副詞」の語順。目的語が代名詞の場合、必ず動詞と副詞の間に置く（look it up ○, look up it ×）。名詞ならどちらの語順も可。
 
-  - id: "sid-011"
-    name: "その他の動詞中心の重要イディオム"
-    category: "イディオム"
-    priority: "P2"
-    notes: |
-      Theme 231単独。上記のパターンに分類しにくいその他の重要イディオム。
-      get rid of〜「〜を取り除く」(=remove)/「〜を捨てる」(=discard/dispose of)。目的語で訳が変わる: get rid of a cold「風邪を治す」、get rid of bad habits「悪癖を直す」、get rid of the old custom「慣習を廃止する」(=abolish)。let go of〜「〜から手を離す」(=release)。make believe「ふりをする」(=pretend)。make do with〜「〜で間に合わす」(=do with)。take it easy「気楽に考える」⇔take it seriously「真剣に考える」。take it easyは別れの挨拶にも用いる。make sure (that)節「必ず〜するようにする/〜を確かめる」(=see to it that⇨302)。make sure of+名詞も可。make it「成功する」(=succeed)/「たどり着く」/「間に合う」/「都合をつける」。hold good「有効である」(=hold true)。fall[come] short of〜「〜に達しない」。run short of〜「〜が不足する」(進行形が多い。まだ完全になくなってはいない)。run out of〜(⇨1034)「〜を使い果たす」との違い。
+    プラスα: grow up(自)「育つ」との比較。make upの自動詞用法「仲直りする/化粧する」。figure out〜=solve「〜を解決する」。pick up〜の3意味：①車で迎える ②（言語・知識を）身につける ③手に入れる/買う。give up doing「（悪習を）やめる」(⇨PU!96)。
 
+    【Theme 213】carry out〜「〜を実行する」(=perform/accomplish)、carry on〜「〜を続ける」(=continue。carry on with〜も同意)、cut down〜「〜を減らす」(=reduce。cut down on〜も同意)、leave〜behind「〜を置き忘れる」、leave out〜「〜を除外する」(=omit)、rule out〜「〜を除外する/否定する」(=exclude)、take
+    in〜「〜を理解する」(=understand)/「〜をだます」(=deceive)、take on〜「〜を引き受ける」(=undertake)/「〜を雇う」/「〜を帯びる」(=assume)、take over〜「〜を引き継ぐ」(=succeed to⇨997)、take up〜「〜を占める」(=occupy)/「〜を始める」、show off〜「〜を見せびらかす」(=display)。
+
+    プラスα: carry it outの語順に注意(⇨PU!188)。take inの「だます」用法(He was taken in by the fraud.)。take onの「雇う」用法(The company took on five new employees.)。take upの「始める」用法(I''m thinking of taking up a new hobby.)。
+
+    '
+- id: sid-003
+  name: 動詞＋副詞 — 他動詞の働きをするもの③④
+  category: イディオム
+  priority: P1
+  notes: 'Theme 214+215統合。「動詞+副詞」で他動詞として働くイディオム（続き）。
+
+    【Theme 214】lay off〜「〜を一時解雇する」、put aside〜「〜を蓄える」(=save。put by/lay aside/set asideも同意)、put away〜「〜を片づける」(=tidy)/「〜を蓄える」(=put aside)、put off〜「〜を延期する」(=postpone)、put on〜「〜を着る」(⇔take off⇨897)、try on〜「〜を試着する」、wear
+    out〜「〜を疲れ果てさせる/〜をすり減らす」、put down〜「〜を書き留める」(=write down)、hold back〜「（感情を）抑える」(=restrain)、set up〜「〜を設立する」(=establish)、see〜off「〜を見送る」(⇔meet)。
+
+    PU!189: onとoffの反意表現。get on a bus⇔get off a bus、turn on⇔turn off、put on⇔take off。put off〜は「延期する」の意味で使うのがふつう。
+
+    プラスα: put away〜の「蓄える」用法。hold backの自動詞用法「しり込みする」(=hesitate)。see〜offは名詞目的語でもsee her offの語順がふつう。
+
+    【Theme 215】hand in〜/turn in〜「〜を提出する」(=submit)、turn on〜「〜をつける」/turn off〜「〜を消す」、put out〜「（火を）消す」(=extinguish。go outは自動詞「消える」)、turn down〜「〜を拒絶する」(=refuse/reject)/「（音量を）小さくする」(⇔turn up⇨879)、work out〜「〜を解く」(=solve)、keep
+    up〜「〜を維持する」(=maintain)、call off〜「〜を中止する」(=cancel)、call up〜「〜に電話する」(=ring up)、let〜down「〜を失望させる」(=disappoint)、take off〜「（期間の）休みをとる」(take a day off)。
+
+    プラスα: hand in/give in《英》は手渡し提出、send inは郵送提出、turn in《米》はどちらも。switch on[off]も「つける[消す]」の意味。work outの自動詞用法「うまくいく」。take offの3用法：①離陸する ②脱ぐ ③休みをとる。
+
+    '
+- id: sid-004
+  name: 動詞＋前置詞①② — ask for/look after/take after/result in等
+  category: イディオム
+  priority: P1
+  notes: 'Theme 216+217統合。「動詞+前置詞」のイディオム（前半）。
+
+    【Theme 216】ask for〜「〜を求める」(=request)。ask A for B「AにBを求める」。look after〜/care for〜「〜の世話をする」(=take care of)。care for〜は否定・疑問文で「〜を好む」(=like)。look for〜「〜を探す」(=search for)。take after〜「〜に似ている」(=resemble。血縁の年上の人に用いる)。look
+    into〜「〜を調べる」(=investigate)/look over〜「〜にざっと目を通す」(=check)。take to〜「〜を好きになる」(=come to like)/「〜にふける」。account for〜「〜を説明する」(=explain)/「〜を占める」(〈重要〉)。add to〜「〜を増やす」(=increase)。add A to B「AをBに加える」。tell on〜「〜にこたえる」(=affect)。answer
+    for〜「〜の責任を負う」(=be responsible for)。
+
+    PU!190: 「調べる」のイディオム。look into/look over/look up(⇨907)。go over[through]〜「〜をよく調べる」(=examine carefully)(⇨991)。
+
+    プラスα: account for〜の「占める」用法（tourism revenue accounts for at least 20% of GDP）。
+
+    【Theme 217】insist on[upon]〜「〜を強く主張する」。insist on A(''s) doing。persist in〜「〜に固執する」。stick to〜/cling to〜「〜に固執する」。前置詞の違い: insistはon、persistはin、stick[cling]はto。stand for〜「〜を表す」(=represent/mean)/「〜を支持する」。stand
+    by〜「〜の味方をする」(=support)。call for〜「〜を必要とする」(=require)。call on〜「（人を）訪ねる」(=visit。場所ならcall at)。call on A for[to do]「Aに〜を求める」。result in〜「〜という結果になる」(=lead to/bring about/give rise to)。result from〜「〜の結果として起こる」。A
+    result from B = B result in A。consist in〜「〜にある」(=lie in)。consist of〜「〜から成り立つ」(=be composed of)。
+
+    '
+- id: sid-005
+  name: 動詞＋前置詞③④ — depend on/deal with/agree with/apply for等
+  category: イディオム
+  priority: P1
+  notes: 'Theme 218+219統合。「動詞+前置詞」のイディオム（中盤）。
+
+    【Theme 218】come by〜「〜を手に入れる」(=get/obtain)。run into〜「〜に偶然出会う/〜にぶつかる」(=bump into)。come across〜「〜を偶然見つける/〜に偶然出会う」(=run across。come acrossは物を見つける意味が多い)。depend on[upon]〜/rely on/count on/turn[look] to〜 (A
+    for B)「（Bを）Aに頼る」。depend on〜（無生物主語）「〜次第である/〜によって決まる」。deal with〜「〜を扱う/〜に対処する」(=handle)。deal in〜「〜を商品として扱う」。cope with〜「〜にうまく対処する」(=deal with〜successfully)。aim at〜「〜をめざす」。aim A at B「AをBに向ける」。pay for〜「〜の代金を支払う」。pay
+    A for B「Bの代金としてAを支払う」。
+
+    プラスα: run into/come across/run acrossの比較。depend on/rely on/count on/turn toのグループ。cope with=deal with successfully。
+
+    【Theme 219】agree with〜「（人）と意見が一致する」/「（気候・食べ物が）〜に合う」(⇨731)。agree to〜「（計画・提案に）同意する」。wait on[upon]〜「〜に仕える/〜に応対する」(=serve)。yield to〜「〜に屈する」(=submit to/give in to⇨1031)。major in〜「〜を専攻する」(=specialize in)。amount
+    to〜「総計〜になる」(=total)/「結局〜になる/〜に等しい」。long for〜「〜を切望する」。apply for〜「〜を申し込む」(=ask for)。apply to〜「〜に当てはまる」(=be true of⇨1141)。get over〜「〜を乗り越える」(=overcome)/「〜から回復する」(=recover from)。act on〜「〜に作用する」/「〜に従って行動する」。
+
+    プラスα: Have you been waited on?「ご用をお伺いしていますか」。amount toの「等しい」用法。apply forとapply toの意味の違い。act onの2義。
+
+    '
+- id: sid-006
+  name: 動詞＋前置詞⑤⑥ — go through/believe in/occur to/lead to等
+  category: イディオム
+  priority: P1
+  notes: 'Theme 220+221統合。「動詞+前置詞」のイディオム（後半）。
+
+    【Theme 220】fall on〜「（記念日が）〜にあたる」。approve of〜「〜に賛成する」(⇔disapprove of)。go through〜「〜を経験する」(=experience/undergo)/「〜をよく調べる」(⇨PU!190)。believe in〜「〜の存在を信じる/〜の価値を信じる」(cf. believe〜「〜の言うことを信じる」)。make for〜「〜の方へ進む」(=head
+    for)/「〜に寄与する」(=contribute to)。hear from〜「〜から便りがある」(⇔write to)。hear of〜「〜のうわさを耳にする」。succeed in〜「〜に成功する」(⇔fail in)。succeed in doing=manage to do(⇨501)。succeed to〜「〜を相続する/〜のあとを継ぐ」(=inherit。take over⇨916と言い換え可能)。refrain
+    from〜「〜を慎む」(=keep from)。break into〜「〜に押し入る」/「急に〜し始める」(=burst into)。adapt to〜「〜に順応する」(=adjust to)。adapt A to B/adapt oneself to〜。adopt「採用する」との混同注意。
+
+    プラスα: believe inとbelieve〜の違い。make forの「寄与する」用法。hear from/hear ofの使い分け。succeed in/succeed toの使い分け。adapt/adoptのつづり混同注意。
+
+    【Theme 221】occur to〜「（考えが）〜の心に浮かぶ」(=strike)。It occurs to A that節。hit on[upon]〜「〜を思いつく」（人が主語）。do without〜/dispense with〜「〜なしですます」(=go without)。dispenseではwithを用いる点に注意。part with〜「（物を）手放す」/part from〜「（人と）別れる」。lead
+    to〜「〜につながる/〜を引き起こす」(=cause/bring about/result in/give rise to)。die of[from]〜「〜が原因で死ぬ」(of=内的要因, from=外的要因、ただし現在は区別不明確)。send for〜「〜を呼びにやる」(go for〜は自分で行く)。get to〜「〜に到着する」(=arrive at/reach)。refer to〜「〜を参照する」(=consult)/「〜に言及する」。refer
+    to A as B「AをBと呼ぶ」(⇨518)。resort to〜「〜に訴える/〜に頼る」。set about〜「〜に取りかかる」(=go about)。set about doing=set out to do。suffer from〜「〜で苦しむ」。
+
+    '
+- id: sid-007
+  name: 動詞＋副詞＋前置詞①② — put up with/come up with/keep up with等
+  category: イディオム
+  priority: P1
+  notes: 'Theme 222+223統合。「動詞+副詞+前置詞」の3語イディオム。
+
+    【Theme 222】put up with〜「〜を我慢する」(=endure/stand/bear/tolerate)。do away with〜「〜を廃止する」(=abolish)。look up to〜「〜を尊敬する」(=respect)。look down on[upon]〜「〜を見下す」(=despise)。make up for〜「〜の埋め合わせをする」(=compensate for)。speak
+    ill[badly] of〜「〜を悪く言う」(=criticize)⇔speak well[highly] of〜(=praise)。think ill/well ofも同様。go in for〜「（競技に）参加する」(=take part in)/「（趣味として）〜をする」。live up to〜「（期待に）応える」(=meet/satisfy)/「（主義に）従って生きる」。stand up
+    for〜「〜を擁護する」(=defend/support)。put up at〜「〜に泊まる」(=stay at)。go on with〜「〜を続ける」(=continue)。go on doing「〜し続ける」(=keep on doing)。get down to〜「〜に本気で取り組む」。
+
+    PU!191: 「すっかり/完全に」のoutとup。fill out[up]「記入する」、wear out「疲れ果てさせる」、be tired[worn] out、die out「死に絶える」、speak out[up]「思い切って意見を言う」、break up「終わる」、eat up「食べつくす」、use up「使い果たす」、dry up「干上がる」、end up。
+
+    プラスα: speak/thinkの代用。live up toの2義。
+
+    参考書内参照: ⇨871 considerate(look up toの例文)、⇨160 It is time+仮定法過去(get down toの例文)。
+
+    【Theme 223】come up with〜「〜を思いつく」(=think of/hit on)/「〜を提案する」(=propose)。catch up with〜「〜に追いつく」(=overtake)。keep up with〜「〜に遅れずについていく」。get through (with)〜「〜をやり終える」(=finish)。drop in[by] at[on]〜「〜に立ち寄る」(=stop
+    by at)。at+場所、on+人。get along with〜「〜とうまくやる」(=get on with)。give in to〜「〜に屈する」(=yield to⇨982/give way to⇨1061)。come home to〜「〜にしみじみこたえる」。bring A home to B「AをBに痛切に感じさせる」。end up (by) doing「結局〜することになる」。end
+    upの後にはin/as/withも続く。run out of〜「〜を使い果たす」。run short of〜(⇨1121)も類似。
+
+    '
+- id: sid-008
+  name: 動詞＋A＋前置詞＋B — take A for B/owe A to B/devote A to B等
+  category: イディオム
+  priority: P2
+  notes: 'Theme 224単独。「動詞+A+前置詞+B」の構文をとるイディオム。
+
+    take A for B「AをBだと思う/AをBと間違える」(=mistake A for B)。exchange A for B「AをBと交換する」。congratulate A on[upon] B「AのBを祝う」(cf. celebrateの目的語は「祝い事」であり「人」ではない)。help A with B「AのBを手伝う」。owe A to B「AはBのおかげである」(元の意味は「A（金）をBに借りている」)。share
+    A with B「AをBと共有する」。leave A for B「Aを出発してBに向かう」(=start from A for B)。leave for〜「〜に向けて出発する」。spend A on B「A（時間・金）をBに費やす」。spend A (in) doing(⇨124)。name A after[for] B「Bにちなんで名付ける」。name A B after[for] C「Cにちなんで名前Bをつける」。devote
+    A to B「AをBにささげる」。devote oneself to〜「〜に専念する」=be devoted to〜。attribute A to B「AをBのせいにする」(=ascribe A to B)。
+
+    '
+- id: sid-009
+  name: 特定の名詞を用いる群動詞①②③ — take part in/make use of/give rise to等
+  category: イディオム
+  priority: P1
+  notes: 'Theme 225+226+227統合。特定の名詞を含む群動詞（前半）。
+
+    【Theme 225】take part in〜「〜に参加する」(=participate in/join in)。get on A''s nerves「Aをいらいらさせる」(=irritate。nervesは複数形)。go out of one''s way to do/take the trouble to do「わざわざ〜する」。have trouble doing「〜するのに苦労する」(⇨123)と区別。take
+    pride in〜「〜を誇りに思う」(=be proud of/pride oneself on)。前置詞の違い: pride(名)→in、proud(形)→of、pride(動)→on。catch sight of〜「〜を見つける」(=catch a glimpse of)⇔lose sight of〜「〜を見失う」。make use of〜「〜を利用する」(=use/utilize)。make
+    much[full/good] use of「十分に利用」、make the best use of「最大限に利用」。take advantage of〜「〜を利用する」(=make use of)/「〜につけ込む」(=impose on)。put〜to use「〜を利用する」。find fault with〜「〜のあら探しをする」(=criticize)。take hold of〜「〜をつかむ」(catch/get/seize
+    hold ofも可)。
+
+    【Theme 226】lose one''s temper「腹を立てる」(=get angry)⇔keep one''s temper「平静を保つ」。give rise to〜「〜を引き起こす」(=cause/bring about)。give birth to〜「〜を産む」/「〜を引き起こす」(=give rise to)。give way to〜「〜に屈する」(=yield to/give
+    in to)。give way「崩れる」(=collapse)。take the place of〜「〜に取って代わる」(=replace)。代名詞ならtake A''s place。keep an[one''s] eye on〜「〜から目を離さない」(=watch)。come to an end「終わる」。bring〜to an end=put an end to〜「〜を終わらせる」。come
+    of age「成年に達する」。have no idea「わからない」。have an effect[influence] on〜「〜に影響を与える」。take delight in〜「〜を楽しむ」(=take pleasure in)。
+
+    PU!192: do(益・害を与える)のその他の熟語。do (A) more harm than good「益よりむしろ害を与える」、do A damage「損害を与える」、do A justice「公平に評価する」。
+
+    【Theme 227】do A good「Aのためになる」(=do good to A)⇔do A harm「Aの害になる」(=do harm to A)。do A a favor「Aの頼みを聞き入れる」。ask a favor of A「Aに頼みごとをする」。learn A by heart「Aを暗記する」(=memorize)。keep[bear] A in mind「Aを覚えておく」。Aがthat節など長い場合はkeep
+    in mind Aの語順。have A in mind「Aを考えている」。have A in common「Aを共通に持つ」(A=much/a lot/something/little/nothing)。take A into account/take A into consideration「Aを考慮に入れる」(=consider)。take account of〜/allow for〜も同意。take
+    A by surprise「Aの不意を打つ/驚かせる」。
+
+    参考書内参照: ⇨151 all things considered、⇨123 have trouble doing。
+
+    '
+- id: sid-010
+  name: 特定の名詞を用いる群動詞④⑤⑥ — take place/make sense/make up one's mind等
+  category: イディオム
+  priority: P1
+  notes: 'Theme 228+229+230統合。特定の名詞を含む群動詞（後半）。
+
+    【Theme 228】make much of〜「〜を重視する」(=value)⇔make light[little] of〜「〜を軽視する」。take place「（行事が）行われる」(=be held)/「（事件が）起こる」(=happen)。take one''s time「ゆっくりやる」⇔lose no time「すぐに〜する」。kill time「時間をつぶす」。make sense「理解できる/筋が通る」。make
+    sense of〜「〜を理解する」。take care of〜「〜の世話をする」(=look after⇨943/care for⇨944)。see much[a lot] of〜「〜とよく会う」(see something/little/nothing of)。do the dishes「皿洗いをする」。make a face「顔をしかめる」(=frown)。put on weight「太る」(=gain
+    weight)⇔lose weight「やせる」。think better of〜「〜を考え直してやめる」。
+
+    PU!193: do+the[one''s]+名詞。do the dishes/do one''s room/do the laundry/do one''s face/do the shopping[cooking/cleaning]。
+
+    【Theme 229】make fun of〜/make a fool of〜/pull one''s leg「〜をからかう」(=ridicule/laugh at/tease)。pull one''s legは「足を引っ張る/邪魔する」の意味では用いない。make up one''s mind「決心する」(=decide)。後ろにwh-節/to do/that節/about[on]が続く。bring
+    A to light「Aを明るみに出す」(=reveal)⇔come to light「明るみに出る」(⇨PU!187)。get in touch with〜「〜と連絡をとる」(=contact)。keep in touch with〜「〜と連絡をとり合う」。一時的ならget、継続的ならkeep。have[get] one''s (own) way「自分の思い通りにする」。hold one''s
+    tongue「黙っている」(=keep silent)。hold one''s breath「息を止める」。make progress「進歩する」(progressは不可算名詞⇨PU!129)。make one''s way「進む」(=proceed)。
+
+    PU!194: make one''s wayのバリエーション。feel one''s way「手探りで進む」、force one''s way「無理やり進む」、elbow[shoulder] one''s way「押しのけて進む」、find one''s way「やっとたどり着く」。
+
+    【Theme 230】pay attention to〜/take notice of〜「〜に注意を払う」(=attend to/look out for⇨893)。play a part[role] in〜「〜において役割を果たす」(active/important/major等の形容詞を伴うことが多い)。pay[make] a visit to〜「〜を訪問する」(=pay〜a visit)。make
+    a[one''s] living「生計を立てる」(earn/get/gain a livingも可)。keep early[good] hours「早寝早起き」⇔keep late[bad] hours「夜ふかし」。keep regular hours「規則正しい生活」。keep one''s word「約束を守る」(=keep one''s promise)⇔break one''s word[promise]「約束を破る」。make
+    (both) ends meet「収支を合わせる」(=live within one''s income)。have words (with〜)「口論する」(=quarrel)。have a word with〜「ちょっと話をする」と混同注意。have a look at〜「〜を見る」(=look at/take a look at)。
+
+    PU!195: have a+動詞派生名詞。have a look at/have a dream/have a rest/have a drink/have a try/have a walk。takeにも同様の用法。
+
+    '
+- id: sid-011
+  name: その他の動詞中心の重要イディオム
+  category: イディオム
+  priority: P2
+  notes: 'Theme 231単独。上記のパターンに分類しにくいその他の重要イディオム。
+
+    get rid of〜「〜を取り除く」(=remove)/「〜を捨てる」(=discard/dispose of)。目的語で訳が変わる: get rid of a cold「風邪を治す」、get rid of bad habits「悪癖を直す」、get rid of the old custom「慣習を廃止する」(=abolish)。let go of〜「〜から手を離す」(=release)。make
+    believe「ふりをする」(=pretend)。make do with〜「〜で間に合わす」(=do with)。take it easy「気楽に考える」⇔take it seriously「真剣に考える」。take it easyは別れの挨拶にも用いる。make sure (that)節「必ず〜するようにする/〜を確かめる」(=see to it that⇨302)。make sure of+名詞も可。make
+    it「成功する」(=succeed)/「たどり着く」/「間に合う」/「都合をつける」。hold good「有効である」(=hold true)。fall[come] short of〜「〜に達しない」。run short of〜「〜が不足する」(進行形が多い。まだ完全になくなってはいない)。run out of〜(⇨1034)「〜を使い果たす」との違い。
+
+    '
 understanding_goals:
-  - node_id: "sid-001"
-    seq: 1
-    goal: "「動詞+副詞」型で自動詞の働きをする主要イディオム（show up, break out, turn out等）の意味と用法を説明できる"
-  - node_id: "sid-001"
-    seq: 2
-    goal: "come/bringの自動詞表現と他動詞表現を対にして使い分けられる"
-  - node_id: "sid-001"
-    seq: 3
-    goal: "同じ群動詞の自動詞用法と他動詞用法の違いを識別できる（turn up, hold out, take off等）"
-  - node_id: "sid-002"
-    seq: 1
-    goal: "「動詞+副詞」型で他動詞の働きをする主要イディオム（bring about, carry out, take in等）の意味を正しく選択できる"
-  - node_id: "sid-002"
-    seq: 2
-    goal: "代名詞を目的語とする場合の語順ルール（動詞+代名詞+副詞）を正しく適用できる"
-  - node_id: "sid-002"
-    seq: 3
-    goal: "多義的な群動詞（pick up, take up, make up等）の複数の意味を文脈から判別できる"
-  - node_id: "sid-003"
-    seq: 1
-    goal: "put/turn/callを用いた「動詞+副詞」型他動詞イディオムの意味を正しく識別できる"
-  - node_id: "sid-003"
-    seq: 2
-    goal: "on/offの反意表現（put on⇔take off, turn on⇔turn off等）を正しく使い分けられる"
-  - node_id: "sid-003"
-    seq: 3
-    goal: "同一の群動詞が持つ複数の意味を区別できる（turn down=拒絶する/音量を下げる、take off=離陸/脱ぐ/休む等）"
-  - node_id: "sid-004"
-    seq: 1
-    goal: "「動詞+前置詞」型の主要イディオム（look after, account for, result in等）の意味を正しく選択できる"
-  - node_id: "sid-004"
-    seq: 2
-    goal: "固執を表す3動詞（insist on, persist in, stick to）の前置詞の違いを正しく使い分けられる"
-  - node_id: "sid-004"
-    seq: 3
-    goal: "result in〜とresult from〜の因果関係の方向の違いを説明できる"
-  - node_id: "sid-005"
-    seq: 1
-    goal: "「頼る」を表す群動詞グループ（depend on, rely on, count on, turn to）を使い分けられる"
-  - node_id: "sid-005"
-    seq: 2
-    goal: "前置詞の違いで意味が変わるイディオム（agree with/to, deal with/in, apply for/to等）を正しく区別できる"
-  - node_id: "sid-005"
-    seq: 3
-    goal: "「動詞+前置詞」型イディオムの適切な前置詞を選択できる"
-  - node_id: "sid-006"
-    seq: 1
-    goal: "「動詞+前置詞」型の主要イディオム（go through, lead to, refer to等）の意味を正しく選択できる"
-  - node_id: "sid-006"
-    seq: 2
-    goal: "succeed in/succeed toの意味の違いを正しく区別できる"
-  - node_id: "sid-006"
-    seq: 3
-    goal: "occur to/do without/part with等の前置詞を正しく選択できる"
-  - node_id: "sid-007"
-    seq: 1
-    goal: "「動詞+副詞+前置詞」型の主要3語イディオム（put up with, come up with, keep up with等）を正しく使える"
-  - node_id: "sid-007"
-    seq: 2
-    goal: "look up to⇔look down on, speak well of⇔speak ill ofの反意表現を使い分けられる"
-  - node_id: "sid-007"
-    seq: 3
-    goal: "end upの後に続く形（doing/in/as/with）を正しく選択できる"
-  - node_id: "sid-008"
-    seq: 1
-    goal: "「動詞+A+前置詞+B」構文の主要イディオム（take A for B, owe A to B, devote A to B等）の前置詞を正しく選択できる"
-  - node_id: "sid-008"
-    seq: 2
-    goal: "congratulate A on B⇔celebrate+祝い事の使い分けができる"
-  - node_id: "sid-008"
-    seq: 3
-    goal: "spend A on B/name A after Bなどの構文で適切な前置詞を選択できる"
-  - node_id: "sid-009"
-    seq: 1
-    goal: "利用・活用を表す群動詞（make use of, take advantage of, put to use）の違いを説明できる"
-  - node_id: "sid-009"
-    seq: 2
-    goal: "特定名詞を含む主要群動詞（take part in, give rise to, take A into account等）の意味を正しく選択できる"
-  - node_id: "sid-009"
-    seq: 3
-    goal: "do A good/harm/a favor等のdo構文を正しく使える"
-  - node_id: "sid-009"
-    seq: 4
-    goal: "keep/bear/have+A+in mind/commonの構文を区別して使える"
-  - node_id: "sid-010"
-    seq: 1
-    goal: "特定名詞を含む主要群動詞（make up one's mind, take place, make sense等）を正しく使える"
-  - node_id: "sid-010"
-    seq: 2
-    goal: "have words（口論）とhave a word with（ちょっと話す）の違いを区別できる"
-  - node_id: "sid-010"
-    seq: 3
-    goal: "pull one's legが「からかう」であり「足を引っ張る」ではないことを理解している"
-  - node_id: "sid-010"
-    seq: 4
-    goal: "pay attention to/take notice of/play a role in等の適切な名詞を選択できる"
-  - node_id: "sid-011"
-    seq: 1
-    goal: "get rid of, make believe, make it等のその他の重要イディオムの意味を正しく選択できる"
-  - node_id: "sid-011"
-    seq: 2
-    goal: "run short of〜（不足）とrun out of〜（使い果たす）の程度の違いを区別できる"
-  - node_id: "sid-011"
-    seq: 3
-    goal: "make sure/make it/take it easy等の多義的イディオムの文脈に応じた意味を判別できる"
-
+- node_id: sid-001
+  seq: 1
+  goal: 「動詞+副詞」型で自動詞の働きをする主要イディオム（show up, break out, turn out等）の意味と用法を説明できる
+- node_id: sid-001
+  seq: 2
+  goal: come/bringの自動詞表現と他動詞表現を対にして使い分けられる
+- node_id: sid-001
+  seq: 3
+  goal: 同じ群動詞の自動詞用法と他動詞用法の違いを識別できる（turn up, hold out, take off等）
+- node_id: sid-002
+  seq: 1
+  goal: 「動詞+副詞」型で他動詞の働きをする主要イディオム（bring about, carry out, take in等）の意味を正しく選択できる
+- node_id: sid-002
+  seq: 2
+  goal: 代名詞を目的語とする場合の語順ルール（動詞+代名詞+副詞）を正しく適用できる
+- node_id: sid-002
+  seq: 3
+  goal: 多義的な群動詞（pick up, take up, make up等）の複数の意味を文脈から判別できる
+- node_id: sid-003
+  seq: 1
+  goal: put/turn/callを用いた「動詞+副詞」型他動詞イディオムの意味を正しく識別できる
+- node_id: sid-003
+  seq: 2
+  goal: on/offの反意表現（put on⇔take off, turn on⇔turn off等）を正しく使い分けられる
+- node_id: sid-003
+  seq: 3
+  goal: 同一の群動詞が持つ複数の意味を区別できる（turn down=拒絶する/音量を下げる、take off=離陸/脱ぐ/休む等）
+- node_id: sid-004
+  seq: 1
+  goal: 「動詞+前置詞」型の主要イディオム（look after, account for, result in等）の意味を正しく選択できる
+- node_id: sid-004
+  seq: 2
+  goal: 固執を表す3動詞（insist on, persist in, stick to）の前置詞の違いを正しく使い分けられる
+- node_id: sid-004
+  seq: 3
+  goal: result in〜とresult from〜の因果関係の方向の違いを説明できる
+- node_id: sid-005
+  seq: 1
+  goal: 「頼る」を表す群動詞グループ（depend on, rely on, count on, turn to）を使い分けられる
+- node_id: sid-005
+  seq: 2
+  goal: 前置詞の違いで意味が変わるイディオム（agree with/to, deal with/in, apply for/to等）を正しく区別できる
+- node_id: sid-005
+  seq: 3
+  goal: 「動詞+前置詞」型イディオムの適切な前置詞を選択できる
+- node_id: sid-006
+  seq: 1
+  goal: 「動詞+前置詞」型の主要イディオム（go through, lead to, refer to等）の意味を正しく選択できる
+- node_id: sid-006
+  seq: 2
+  goal: succeed in/succeed toの意味の違いを正しく区別できる
+- node_id: sid-006
+  seq: 3
+  goal: occur to/do without/part with等の前置詞を正しく選択できる
+- node_id: sid-007
+  seq: 1
+  goal: 「動詞+副詞+前置詞」型の主要3語イディオム（put up with, come up with, keep up with等）を正しく使える
+- node_id: sid-007
+  seq: 2
+  goal: look up to⇔look down on, speak well of⇔speak ill ofの反意表現を使い分けられる
+- node_id: sid-007
+  seq: 3
+  goal: end upの後に続く形（doing/in/as/with）を正しく選択できる
+- node_id: sid-008
+  seq: 1
+  goal: 「動詞+A+前置詞+B」構文の主要イディオム（take A for B, owe A to B, devote A to B等）の前置詞を正しく選択できる
+- node_id: sid-008
+  seq: 2
+  goal: congratulate A on B⇔celebrate+祝い事の使い分けができる
+- node_id: sid-008
+  seq: 3
+  goal: spend A on B/name A after Bなどの構文で適切な前置詞を選択できる
+- node_id: sid-009
+  seq: 1
+  goal: 利用・活用を表す群動詞（make use of, take advantage of, put to use）の違いを説明できる
+- node_id: sid-009
+  seq: 2
+  goal: 特定名詞を含む主要群動詞（take part in, give rise to, take A into account等）の意味を正しく選択できる
+- node_id: sid-009
+  seq: 3
+  goal: do A good/harm/a favor等のdo構文を正しく使える
+- node_id: sid-009
+  seq: 4
+  goal: keep/bear/have+A+in mind/commonの構文を区別して使える
+- node_id: sid-010
+  seq: 1
+  goal: 特定名詞を含む主要群動詞（make up one's mind, take place, make sense等）を正しく使える
+- node_id: sid-010
+  seq: 2
+  goal: have words（口論）とhave a word with（ちょっと話す）の違いを区別できる
+- node_id: sid-010
+  seq: 3
+  goal: pull one's legが「からかう」であり「足を引っ張る」ではないことを理解している
+- node_id: sid-010
+  seq: 4
+  goal: pay attention to/take notice of/play a role in等の適切な名詞を選択できる
+- node_id: sid-011
+  seq: 1
+  goal: get rid of, make believe, make it等のその他の重要イディオムの意味を正しく選択できる
+- node_id: sid-011
+  seq: 2
+  goal: run short of〜（不足）とrun out of〜（使い果たす）の程度の違いを区別できる
+- node_id: sid-011
+  seq: 3
+  goal: make sure/make it/take it easy等の多義的イディオムの文脈に応じた意味を判別できる
 check_points:
-  - node_id: "sid-001"
-    seq: 1
-    question: "break out / break down / break up はそれぞれ何を意味するか？"
-    answer: "break out「（戦争・火災が）勃発する」、break down「（車・機械が）故障する」、break up「（会議・関係が）終わる」。"
-  - node_id: "sid-001"
-    seq: 2
-    question: "come about の他動詞表現は何か？"
-    answer: "bring about〜「〜を引き起こす」。come about⇔bring about、come out⇔bring out、come to an end⇔bring〜to an end、come to light⇔bring〜to light。"
-  - node_id: "sid-001"
-    seq: 3
-    question: "turn out (to be)〜 はどういう意味か？"
-    answer: "「〜であることがわかる」（= prove (to be)）。"
-  - node_id: "sid-001"
-    seq: 4
-    question: "take off の自動詞用法と他動詞用法をそれぞれ述べよ。"
-    answer: "自動詞: 「（飛行機が）離陸する」(⇔land)。他動詞: 「（服を）脱ぐ」(⇔put on)、「（期間の）休みをとる」(take a day off)。"
-  - node_id: "sid-002"
-    seq: 1
-    question: "「動詞+副詞」型の他動詞で、目的語が代名詞の場合の語順ルールは？"
-    answer: "必ず「動詞+代名詞+副詞」の語順（例: look it up ○、look up it ×）。名詞なら両方の語順が可能。"
-  - node_id: "sid-002"
-    seq: 2
-    question: "pick up〜の主な3つの意味は？"
-    answer: "①車で迎えに行く ②（言語・知識を）身につける ③手に入れる/買う。「選ぶ」の意味はなく、それはpick out。"
-  - node_id: "sid-002"
-    seq: 3
-    question: "take in〜 の2つの意味は？"
-    answer: "①〜を理解する（= understand）②〜をだます（= deceive）。"
-  - node_id: "sid-003"
-    seq: 1
-    question: "put on〜 と take off〜 はどのような反意関係か？"
-    answer: "put on〜「〜を着る/身につける」⇔ take off〜「〜を脱ぐ」。PU!189: on/offは反意表現をつくる（get on⇔get off、turn on⇔turn off）。"
-  - node_id: "sid-003"
-    seq: 2
-    question: "turn down〜 の2つの意味は？"
-    answer: "①「〜を拒絶する」（= refuse/reject）②「（音量など）を小さくする」（⇔ turn up）。"
-  - node_id: "sid-003"
-    seq: 3
-    question: "hand in〜 と turn in〜 の違いは？"
-    answer: "どちらも「〜を提出する」（= submit）。hand in/give in《英》は手渡し提出、send inは郵送提出、turn in《米》はどちらの場合にも使える。"
-  - node_id: "sid-004"
-    seq: 1
-    question: "account for〜 の2つの意味は？"
-    answer: "①（人が）〜の理由を説明する（= explain）②〜（の割合）を占める。どちらも入試頻出。"
-  - node_id: "sid-004"
-    seq: 2
-    question: "insist on / persist in / stick to に共通する意味と、各動詞の前置詞の違いは？"
-    answer: "すべて「固執する/主張する」の意味。insistはon、persistはin、stick[cling]はto。"
-  - node_id: "sid-004"
-    seq: 3
-    question: "result in〜 と result from〜 の因果関係の違いは？"
-    answer: "result in〜「〜という結果になる」（A→結果B）、result from〜「〜の結果として起こる」（原因B→A）。A result from B = B result in A。"
-  - node_id: "sid-005"
-    seq: 1
-    question: "「頼る」を表す4つの群動詞は？"
-    answer: "depend on[upon]〜 / rely on[upon]〜 / count on[upon]〜 / turn[look] to〜。いずれも A (for B)「（Bを）Aに頼る」の形をとる。"
-  - node_id: "sid-005"
-    seq: 2
-    question: "agree with〜 と agree to〜 の違いは？"
-    answer: "agree with〜「（人）と意見が一致する/（食べ物が）合う」、agree to〜「（計画・提案に）同意する/承諾する」。"
-  - node_id: "sid-005"
-    seq: 3
-    question: "apply for〜 と apply to〜 の違いは？"
-    answer: "apply for〜「〜を申し込む」（= ask for）、apply to〜「（規則などが）〜に当てはまる」（= be true of）。"
-  - node_id: "sid-006"
-    seq: 1
-    question: "succeed in〜 と succeed to〜 の違いは？"
-    answer: "succeed in〜「〜に成功する」（succeed in doing = manage to do）。succeed to〜「〜を相続する/〜のあとを継ぐ」（= inherit/take over）。"
-  - node_id: "sid-006"
-    seq: 2
-    question: "occur to〜 と hit on〜 の主語の違いは？"
-    answer: "occur to〜: 考え・アイデアが主語で「人の心に浮かぶ」（It occurs to A that節）。hit on〜: 人が主語で「〜を思いつく」。A good idea occurred to me. = I hit on a good idea."
-  - node_id: "sid-006"
-    seq: 3
-    question: "do without〜 と dispense with〜 はどちらも同じ意味だが、前置詞の違いは？"
-    answer: "do without〜 / dispense with〜。どちらも「〜なしですます」だが、doはwithout、dispenseはwithを用いる。"
-  - node_id: "sid-007"
-    seq: 1
-    question: "put up with〜 の同意表現を4つ挙げよ。"
-    answer: "endure / stand / bear / tolerate。すべて「〜を我慢する」の意味。"
-  - node_id: "sid-007"
-    seq: 2
-    question: "look up to〜 と look down on〜 はそれぞれ何を意味するか？"
-    answer: "look up to〜「〜を尊敬する」（= respect）、look down on[upon]〜「〜を見下す」（= despise）。"
-  - node_id: "sid-007"
-    seq: 3
-    question: "end up の後にはどのような形が続くか？"
-    answer: "(by) doing「最後には〜することになる」のほか、in「〜に」/ as「〜として」/ with「〜で」などが続く。He ended up (as) a lawyer [in hospital]."
-  - node_id: "sid-008"
-    seq: 1
-    question: "congratulate と celebrate の目的語の違いは？"
-    answer: "congratulate A on B: Aは「人」、Bは「成功・幸運」。celebrate: 目的語は「特別な日・祝い事」であり「人」ではない。"
-  - node_id: "sid-008"
-    seq: 2
-    question: "owe A to B の2つの意味は？"
-    answer: "①AはBのおかげである ②A（金）をBに借りている。"
-  - node_id: "sid-008"
-    seq: 3
-    question: "devote A to B / devote oneself to〜 はどういう意味か？"
-    answer: "devote A to B「A（努力・時間）をBにささげる」。devote oneself to〜 = be devoted to〜「〜に専念する」。"
-  - node_id: "sid-009"
-    seq: 1
-    question: "take pride in〜 / be proud of〜 / pride oneself on〜 の前置詞の違いは？"
-    answer: "pride(名詞)→in、proud(形容詞)→of、pride(動詞)→on。すべて「〜を誇りに思う」の意味。"
-  - node_id: "sid-009"
-    seq: 2
-    question: "give rise to / give birth to / give way to はそれぞれ何を意味するか？"
-    answer: "give rise to〜「〜を引き起こす」、give birth to〜「〜を産む」（/引き起こす）、give way to〜「〜に屈する」（give wayのみ=「崩れる」）。"
-  - node_id: "sid-009"
-    seq: 3
-    question: "take A into account と take A into consideration の同意表現は？"
-    answer: "take account of〜 / allow for〜 / consider。すべて「〜を考慮に入れる」。"
-  - node_id: "sid-010"
-    seq: 1
-    question: "have words (with〜) と have a word with〜 の違いは？"
-    answer: "have words (with〜)「（〜と）口論する」（= quarrel）。have a word with〜「〜とちょっと話をする」。aの有無で意味が全く異なる。"
-  - node_id: "sid-010"
-    seq: 2
-    question: "pull one's leg の正しい意味は？"
-    answer: "「〜をからかう」（= tease/ridicule）。「足を引っ張る/邪魔する」の意味では用いない。"
-  - node_id: "sid-010"
-    seq: 3
-    question: "make up one's mind の後にはどのような形が続くか？"
-    answer: "wh-節（what to order）、to do、that節、about[on]+名詞。すべて「〜を決心する」（= decide）。"
-  - node_id: "sid-010"
-    seq: 4
-    question: "keep early hours ⇔ keep late hours は何を意味するか？"
-    answer: "keep early[good] hours「早寝早起きをする」⇔ keep late[bad] hours「夜ふかしをする」。keep regular hours「規則正しい生活をする」もある。"
-  - node_id: "sid-011"
-    seq: 1
-    question: "run short of〜 と run out of〜 の違いは？"
-    answer: "run short of〜「〜が不足する」（まだ完全になくなっていない、進行形が多い）。run out of〜「〜を使い果たす」（完全になくなる）。"
-  - node_id: "sid-011"
-    seq: 2
-    question: "make it の主な意味を3つ挙げよ。"
-    answer: "①成功する（= succeed）②（目的地に）たどり着く ③（日時の）都合をつける。itは漠然とした状況を指す。"
-  - node_id: "sid-011"
-    seq: 3
-    question: "take it easy はどのような場面で用いるか？"
-    answer: "①「気楽に考える/ゆっくりやる」（⇔ take it seriously「真剣に考える」）②別れの挨拶として用いる（'See you tomorrow.' 'Take it easy.'）。"
-
+- node_id: sid-001
+  seq: 1
+  question: break out / break down / break up はそれぞれ何を意味するか？
+  answer: break out「（戦争・火災が）勃発する」、break down「（車・機械が）故障する」、break up「（会議・関係が）終わる」。
+- node_id: sid-001
+  seq: 2
+  question: come about の他動詞表現は何か？
+  answer: bring about〜「〜を引き起こす」。come about⇔bring about、come out⇔bring out、come to an end⇔bring〜to an end、come to light⇔bring〜to light。
+- node_id: sid-001
+  seq: 3
+  question: turn out (to be)〜 はどういう意味か？
+  answer: 「〜であることがわかる」（= prove (to be)）。
+- node_id: sid-001
+  seq: 4
+  question: take off の自動詞用法と他動詞用法をそれぞれ述べよ。
+  answer: '自動詞: 「（飛行機が）離陸する」(⇔land)。他動詞: 「（服を）脱ぐ」(⇔put on)、「（期間の）休みをとる」(take a day off)。'
+- node_id: sid-002
+  seq: 1
+  question: 「動詞+副詞」型の他動詞で、目的語が代名詞の場合の語順ルールは？
+  answer: '必ず「動詞+代名詞+副詞」の語順（例: look it up ○、look up it ×）。名詞なら両方の語順が可能。'
+- node_id: sid-002
+  seq: 2
+  question: pick up〜の主な3つの意味は？
+  answer: ①車で迎えに行く ②（言語・知識を）身につける ③手に入れる/買う。「選ぶ」の意味はなく、それはpick out。
+- node_id: sid-002
+  seq: 3
+  question: take in〜 の2つの意味は？
+  answer: ①〜を理解する（= understand）②〜をだます（= deceive）。
+- node_id: sid-003
+  seq: 1
+  question: put on〜 と take off〜 はどのような反意関係か？
+  answer: 'put on〜「〜を着る/身につける」⇔ take off〜「〜を脱ぐ」。PU!189: on/offは反意表現をつくる（get on⇔get off、turn on⇔turn off）。'
+- node_id: sid-003
+  seq: 2
+  question: turn down〜 の2つの意味は？
+  answer: ①「〜を拒絶する」（= refuse/reject）②「（音量など）を小さくする」（⇔ turn up）。
+- node_id: sid-003
+  seq: 3
+  question: hand in〜 と turn in〜 の違いは？
+  answer: どちらも「〜を提出する」（= submit）。hand in/give in《英》は手渡し提出、send inは郵送提出、turn in《米》はどちらの場合にも使える。
+- node_id: sid-004
+  seq: 1
+  question: account for〜 の2つの意味は？
+  answer: ①（人が）〜の理由を説明する（= explain）②〜（の割合）を占める。どちらも入試頻出。
+- node_id: sid-004
+  seq: 2
+  question: insist on / persist in / stick to に共通する意味と、各動詞の前置詞の違いは？
+  answer: すべて「固執する/主張する」の意味。insistはon、persistはin、stick[cling]はto。
+- node_id: sid-004
+  seq: 3
+  question: result in〜 と result from〜 の因果関係の違いは？
+  answer: result in〜「〜という結果になる」（A→結果B）、result from〜「〜の結果として起こる」（原因B→A）。A result from B = B result in A。
+- node_id: sid-005
+  seq: 1
+  question: 「頼る」を表す4つの群動詞は？
+  answer: depend on[upon]〜 / rely on[upon]〜 / count on[upon]〜 / turn[look] to〜。いずれも A (for B)「（Bを）Aに頼る」の形をとる。
+- node_id: sid-005
+  seq: 2
+  question: agree with〜 と agree to〜 の違いは？
+  answer: agree with〜「（人）と意見が一致する/（食べ物が）合う」、agree to〜「（計画・提案に）同意する/承諾する」。
+- node_id: sid-005
+  seq: 3
+  question: apply for〜 と apply to〜 の違いは？
+  answer: apply for〜「〜を申し込む」（= ask for）、apply to〜「（規則などが）〜に当てはまる」（= be true of）。
+- node_id: sid-006
+  seq: 1
+  question: succeed in〜 と succeed to〜 の違いは？
+  answer: succeed in〜「〜に成功する」（succeed in doing = manage to do）。succeed to〜「〜を相続する/〜のあとを継ぐ」（= inherit/take over）。
+- node_id: sid-006
+  seq: 2
+  question: occur to〜 と hit on〜 の主語の違いは？
+  answer: 'occur to〜: 考え・アイデアが主語で「人の心に浮かぶ」（It occurs to A that節）。hit on〜: 人が主語で「〜を思いつく」。A good idea occurred to me. = I hit on a good idea.'
+- node_id: sid-006
+  seq: 3
+  question: do without〜 と dispense with〜 はどちらも同じ意味だが、前置詞の違いは？
+  answer: do without〜 / dispense with〜。どちらも「〜なしですます」だが、doはwithout、dispenseはwithを用いる。
+- node_id: sid-007
+  seq: 1
+  question: put up with〜 の同意表現を4つ挙げよ。
+  answer: endure / stand / bear / tolerate。すべて「〜を我慢する」の意味。
+- node_id: sid-007
+  seq: 2
+  question: look up to〜 と look down on〜 はそれぞれ何を意味するか？
+  answer: look up to〜「〜を尊敬する」（= respect）、look down on[upon]〜「〜を見下す」（= despise）。
+- node_id: sid-007
+  seq: 3
+  question: end up の後にはどのような形が続くか？
+  answer: (by) doing「最後には〜することになる」のほか、in「〜に」/ as「〜として」/ with「〜で」などが続く。He ended up (as) a lawyer [in hospital].
+- node_id: sid-008
+  seq: 1
+  question: congratulate と celebrate の目的語の違いは？
+  answer: 'congratulate A on B: Aは「人」、Bは「成功・幸運」。celebrate: 目的語は「特別な日・祝い事」であり「人」ではない。'
+- node_id: sid-008
+  seq: 2
+  question: owe A to B の2つの意味は？
+  answer: ①AはBのおかげである ②A（金）をBに借りている。
+- node_id: sid-008
+  seq: 3
+  question: devote A to B / devote oneself to〜 はどういう意味か？
+  answer: devote A to B「A（努力・時間）をBにささげる」。devote oneself to〜 = be devoted to〜「〜に専念する」。
+- node_id: sid-009
+  seq: 1
+  question: take pride in〜 / be proud of〜 / pride oneself on〜 の前置詞の違いは？
+  answer: pride(名詞)→in、proud(形容詞)→of、pride(動詞)→on。すべて「〜を誇りに思う」の意味。
+- node_id: sid-009
+  seq: 2
+  question: give rise to / give birth to / give way to はそれぞれ何を意味するか？
+  answer: give rise to〜「〜を引き起こす」、give birth to〜「〜を産む」（/引き起こす）、give way to〜「〜に屈する」（give wayのみ=「崩れる」）。
+- node_id: sid-009
+  seq: 3
+  question: take A into account と take A into consideration の同意表現は？
+  answer: take account of〜 / allow for〜 / consider。すべて「〜を考慮に入れる」。
+- node_id: sid-010
+  seq: 1
+  question: have words (with〜) と have a word with〜 の違いは？
+  answer: have words (with〜)「（〜と）口論する」（= quarrel）。have a word with〜「〜とちょっと話をする」。aの有無で意味が全く異なる。
+- node_id: sid-010
+  seq: 2
+  question: pull one's leg の正しい意味は？
+  answer: 「〜をからかう」（= tease/ridicule）。「足を引っ張る/邪魔する」の意味では用いない。
+- node_id: sid-010
+  seq: 3
+  question: make up one's mind の後にはどのような形が続くか？
+  answer: wh-節（what to order）、to do、that節、about[on]+名詞。すべて「〜を決心する」（= decide）。
+- node_id: sid-010
+  seq: 4
+  question: keep early hours ⇔ keep late hours は何を意味するか？
+  answer: keep early[good] hours「早寝早起きをする」⇔ keep late[bad] hours「夜ふかしをする」。keep regular hours「規則正しい生活をする」もある。
+- node_id: sid-011
+  seq: 1
+  question: run short of〜 と run out of〜 の違いは？
+  answer: run short of〜「〜が不足する」（まだ完全になくなっていない、進行形が多い）。run out of〜「〜を使い果たす」（完全になくなる）。
+- node_id: sid-011
+  seq: 2
+  question: make it の主な意味を3つ挙げよ。
+  answer: ①成功する（= succeed）②（目的地に）たどり着く ③（日時の）都合をつける。itは漠然とした状況を指す。
+- node_id: sid-011
+  seq: 3
+  question: take it easy はどのような場面で用いるか？
+  answer: ①「気楽に考える/ゆっくりやる」（⇔ take it seriously「真剣に考える」）②別れの挨拶として用いる（'See you tomorrow.' 'Take it easy.'）。
 node_prerequisites:
-  - node_id: "sid-002"
-    prerequisite_id: "sid-001"
-  - node_id: "sid-003"
-    prerequisite_id: "sid-002"
-
+- node_id: sid-002
+  prerequisite_id: sid-001
+- node_id: sid-003
+  prerequisite_id: sid-002
 knowledge_references:
-  - node_id: "sid-001"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_210"
-    pages: ""
-  - node_id: "sid-001"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_211"
-    pages: ""
-  - node_id: "sid-002"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_212"
-    pages: ""
-  - node_id: "sid-002"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_213"
-    pages: ""
-  - node_id: "sid-003"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_214"
-    pages: ""
-  - node_id: "sid-003"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_215"
-    pages: ""
-  - node_id: "sid-004"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_216"
-    pages: ""
-  - node_id: "sid-004"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_217"
-    pages: ""
-  - node_id: "sid-005"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_218"
-    pages: ""
-  - node_id: "sid-005"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_219"
-    pages: ""
-  - node_id: "sid-006"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_220"
-    pages: ""
-  - node_id: "sid-006"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_221"
-    pages: ""
-  - node_id: "sid-007"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_222"
-    pages: ""
-  - node_id: "sid-007"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_223"
-    pages: ""
-  - node_id: "sid-008"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_224"
-    pages: ""
-  - node_id: "sid-009"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_225"
-    pages: ""
-  - node_id: "sid-009"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_226"
-    pages: ""
-  - node_id: "sid-009"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_227"
-    pages: ""
-  - node_id: "sid-010"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_228"
-    pages: ""
-  - node_id: "sid-010"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_229"
-    pages: ""
-  - node_id: "sid-010"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_230"
-    pages: ""
-  - node_id: "sid-011"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_231"
-    pages: ""
+- node_id: sid-001
+  book: スクランブル英文法・語法
+  section_id: Scr_210
+  pages: ''
+- node_id: sid-002
+  book: スクランブル英文法・語法
+  section_id: Scr_212
+  pages: ''
+- node_id: sid-003
+  book: スクランブル英文法・語法
+  section_id: Scr_214
+  pages: ''
+- node_id: sid-004
+  book: スクランブル英文法・語法
+  section_id: Scr_216
+  pages: ''
+- node_id: sid-005
+  book: スクランブル英文法・語法
+  section_id: Scr_218
+  pages: ''
+- node_id: sid-006
+  book: スクランブル英文法・語法
+  section_id: Scr_220
+  pages: ''
+- node_id: sid-007
+  book: スクランブル英文法・語法
+  section_id: Scr_222
+  pages: ''
+- node_id: sid-008
+  book: スクランブル英文法・語法
+  section_id: Scr_224
+  pages: ''
+- node_id: sid-009
+  book: スクランブル英文法・語法
+  section_id: Scr_225
+  pages: ''
+- node_id: sid-010
+  book: スクランブル英文法・語法
+  section_id: Scr_228
+  pages: ''
+- node_id: sid-011
+  book: スクランブル英文法・語法
+  section_id: Scr_231
+  pages: ''

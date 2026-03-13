@@ -1,620 +1,703 @@
 knowledge_nodes:
-  - id: "shs-027"
-    name: "等位接続詞の基本と命令文+and/or"
-    category: "品詞・構文"
-    priority: "P1"
-    notes: |
-      Theme 102+103: 等位接続詞の基本用法と命令文+and/orの構文。
+- id: shs-027
+  name: 等位接続詞の基本と命令文+and/or
+  category: 品詞・構文
+  priority: P1
+  notes: 'Theme 102+103: 等位接続詞の基本用法と命令文+and/orの構文。
 
-      等位接続詞は文法上対等の働きをする語と語、句と句、節と節を結びつける。
-      and / but / or 以外に so「それで/だから」/ for「というのは〜だから」/ nor「また〜ない」がある。
 
-      and/but/orが何と何を結んでいるかを見抜くことが英文構造を正しく理解する上で大切。
-      3つ以上のものを結ぶ場合は最後の語句の前にandを置く。
+    等位接続詞は文法上対等の働きをする語と語、句と句、節と節を結びつける。
 
-      so は本来副詞だが、接続詞として前の文の結果を表す用法がある。
-      ...(,) so (that) 〜「それで〜/だから〜」
+    and / but / or 以外に so「それで/だから」/ for「というのは〜だから」/ nor「また〜ない」がある。
 
-      命令文+and/or:
-      命令文+and「〜しなさい、そうすれば…」= If you do X, ...
-      命令文+or「〜しなさい、さもないと…」= If you don't do X, ...
-      orの代わりにotherwiseを用いることもある。
-      命令文の代わりにYou must / have to / should / had betterなどを用いることも多い。
-      名詞句+and/orの変形バージョンもある（例: A little more effort, and ...）。
 
-  - id: "shs-028"
-    name: "等位接続詞を用いた相関的表現"
-    category: "品詞・構文"
-    priority: "P1"
-    notes: |
-      Theme 104: 等位接続詞を用いた相関的表現と動詞の一致。
+    and/but/orが何と何を結んでいるかを見抜くことが英文構造を正しく理解する上で大切。
 
-      PU!75: 動詞をA, Bどちらに一致させるか？
-      [図表: 相関的表現と動詞の一致ルール]
-      both A and B「AもBも」→ 複数扱い
-      either A or B「AかBかどちらか」→ Bに一致（動詞に近いほう）
-      neither A nor B「AもBも〜ない」→ Bに一致（= not either A or B）
-      not A but B「Aではなく B」→ Bに一致（意味の重点がBに）
-      not only A but (also) B「Aだけでなく Bもまた」→ Bに一致
-      ＊A as well as B「Bだけでなく Aも」→ Aに一致（= not only B but also Aだが動詞一致は異なる）（→ 194）
+    3つ以上のものを結ぶ場合は最後の語句の前にandを置く。
 
-      not only A but also Bの変形:
-      onlyの代わりにmerely / simply / justを用いることもある。
-      alsoの代わりにas wellを用いることもある。
 
-      not because A but because B「Aだからではなく Bだから」
-      = not A but Bにbecauseが結びついた構文。
+    so は本来副詞だが、接続詞として前の文の結果を表す用法がある。
 
-  - id: "shs-029"
-    name: "名詞節を導くthatとwhether/if"
-    category: "品詞・構文"
-    priority: "P1"
-    notes: |
-      Theme 105+106: 名詞節を導くthatとwhether/ifの用法と使い分け。
+    ...(,) so (that) 〜「それで〜/だから〜」
 
-      thatは名詞節を導いて「〜ということ」を表す。
-      (1) 主語: That there was a problem ... is self-evident.
-      (2) 目的語: 動詞の目的語としてのthat節（省略可）
-      (3) 補語: The trouble is that 〜「困ったことに〜」（主語を副詞的に訳す）
-      (4) 同格: the fact that 〜「〜という事実」— 直前の名詞の内容を説明
 
-      例外的にthat節が前置詞の目的語になる場合:
-      in that 〜「〜という点で/〜だから」(= because)
-      except that 〜「〜ということを除いて」
+    命令文+and/or:
 
-      PU!76: 名詞節を導くwhetherとifの用法比較
-      [図表: whether/ifが使える位置の対照表]
-      whether節: 主語○ / 形式主語の真主語○ / 動詞の目的語○ / 前置詞の目的語○ / 補語○ / 同格○
-      if節:       主語× / 形式主語の真主語○ / 動詞の目的語○ / 前置詞の目的語× / 補語× / 同格×
-      ＊if節は動詞の目的語と形式主語での真主語としてしか使えない。
-      ＊口語ではwhetherよりifが好まれる。
-      ＊or notは省略可。ifを使うときはor notをつけないことが多い。
+    命令文+and「〜しなさい、そうすれば…」= If you do X, ...
 
-  - id: "shs-030"
-    name: "接続詞asとwhileの用法"
-    category: "品詞・構文"
-    priority: "P1"
-    notes: |
-      Theme 107+108: 接続詞asの多義性とwhileの用法。
+    命令文+or「〜しなさい、さもないと…」= If you don''t do X, ...
 
-      PU!77: 接続詞asの用法（6つ）
-      (1) 時・同時状況「〜する時（に）/〜と同時に」＊whenより同時性が強い
-      (2) 比例「〜するにつれて」＊通例、比較級と一緒に用いる
-      (3) 原因・理由「〜なので」＊この意味ではbecause/sinceを多く用いる
-      (4) 譲歩「〜だけれど」＊形容詞[副詞/名詞]+as S+Vの形（→ Theme 113）
-      (5) 様態「（〜する）ように/〜の通りに」
-      (6) 直前の名詞を限定「（〜する）ような/（〜した）時の」
+    orの代わりにotherwiseを用いることもある。
 
-      慣用表現:
-      as it is「そのまま（に）/あるがまま（に）」
-      leave 〜 as it is「〜をそのままにしておく」
-      ＊itは指すものに応じて他の人称代名詞にもなる: as they are等。
-      口語ではthe wayがasと同じように用いられる: the way you want it to
+    命令文の代わりにYou must / have to / should / had betterなどを用いることも多い。
 
-      whileの用法（3つ）:
-      (1) 時「〜する間/〜している間」
-          while節内では動作動詞の進行形か状態動詞を使うことが多い。
-          duringは前置詞（後ろに名詞）、whileは接続詞（後ろにS+V）。
-      (2) 対比「〜なのに対して/〜である一方」(= whereas)
-          some 〜 others ...の表現と共に用いることも多い。
-      (3) 譲歩「〜だけれども/〜なのに」(= although/though)
-          この場合while節は主節の前に置かれるのが一般的。
+    名詞句+and/orの変形バージョンもある（例: A little more effort, and ...）。
 
-  - id: "shs-031"
-    name: "時を表す接続詞と重要表現"
-    category: "品詞・構文"
-    priority: "P1"
-    notes: |
-      Theme 109+110+111: 時を表す接続詞の基本用法、重要表現、「〜するとすぐに」の表現。
+    '
+- id: shs-028
+  name: 等位接続詞を用いた相関的表現
+  category: 品詞・構文
+  priority: P1
+  notes: 'Theme 104: 等位接続詞を用いた相関的表現と動詞の一致。
 
-      基本の時の接続詞:
-      before 〜「〜する前に/〜しないうちに」
-      ＊否定的に訳すほうが自然な場合がある。
-      〈重要〉before節は時の副詞節→未来のことでも現在形（→ Theme 7）。
 
-      since 〜「〜して以来」— 過去の始点を表す。
-      主節は現在完了形、since節には過去形を用いる。
+    PU!75: 動詞をA, Bどちらに一致させるか？
 
-      until [till] 〜「〜するまで（ずっと）」— 動作・状態の継続期間。
-      ＊untilとtillは基本的に違いなし。
-      発展: ..., until [till] 〜「…して、ついに〜」（前から訳す）。
+    [図表: 相関的表現と動詞の一致ルール]
 
-      by the time 〜「〜するまでには」— 完了の期限。
-      〈比較〉by the time（完了の期限）≠ until（継続期間）。
+    both A and B「AもBも」→ 複数扱い
 
-      each [every] time 〜「〜するたびに/〜する時はいつも」(= whenever)
-      once 〜「いったん[ひとたび]〜すると」— 時＋条件。
+    either A or B「AかBかどちらか」→ Bに一致（動詞に近いほう）
 
-      PU!78: timeを用いた接続詞表現
-      by the time / each [every] time / (the) next time / the first time / the last time
+    neither A nor B「AもBも〜ない」→ Bに一致（= not either A or B）
 
-      PU!79: 「〜するたびに」の表現
-      Each [Every] time〜 / Whenever〜 / When〜always / never〜without doing
+    not A but B「Aではなく B」→ Bに一致（意味の重点がBに）
 
-      「Sが〜してから…になる」の書き換え（PU!80）:
-      ① It is [has been]+時間+since+S+過去形
-      ② 時間+have [has] passed since+S+過去形
-      ③ S+過去形...+時間+ago
-      ④ S have [has] been+形容詞+for+時間
-      ＊die(動作動詞)→be dead(状態) の書き換えに注意。
+    not only A but (also) B「Aだけでなく Bもまた」→ Bに一致
 
-      It will not [won't] be long before 〜「まもなく〜するだろう」
-      発展: It is+時間+before 〜「〜するまでに…がかかる」
+    ＊A as well as B「Bだけでなく Aも」→ Aに一致（= not only B but also Aだが動詞一致は異なる）（→ 194）
 
-      It is not until [till] 〜 that ...「〜して初めて…する」
-      = not...until [till] 〜のnotとuntil節をIt isとthatの間に入れて強調。
-      倒置形: Not until 〜 did S V ...
-      参照: get rid of 〜「厄介なものを取り除く」(= remove)（→ 1112）
 
-      「〜するとすぐに」の表現（PU!81）:
-      as soon as 〜 — 最もよく使う表現。
-      the moment 〜 (= at the moment when) — the instant / the minuteも同様。
-      directly 〜《英》— immediately / instantlyも同様。副詞だが接続詞として使う。
-      hardly [scarcely] 〜 when [before] ...「〜するとすぐに…」
-      ＊「〜」は過去完了形、「...」は過去形。倒置形が入試で重要。
-      no sooner 〜 than ...「〜するとすぐに…」
-      ＊比較構文なのでwhenではなくthanを用いる点に注意。倒置形が超頻出。
-      参照: see A do「Aが〜するのを見る」（→ 554）、代不定詞（→ 100）
+    not only A but also Bの変形:
 
-  - id: "shs-032"
-    name: "理由を表す接続詞"
-    category: "品詞・構文"
-    priority: "P1"
-    notes: |
-      Theme 112: 理由を表す接続詞の使い分け。
+    onlyの代わりにmerely / simply / justを用いることもある。
 
-      because 〜: 直接的な理由。
-      not...because 〜「〜だからといって…ではない」
-      ＊notはbecause以下全体を否定する。ふつうbecauseの前にコンマは置かれない。
-      ＊not...simply [merely / just] because 〜「（単に）〜というだけで…ではない」の形が多い。
+    alsoの代わりにas wellを用いることもある。
 
-      since 〜「〜なので/〜である以上」: 聞き手も知っている理由。
 
-      for 〜「というのは〜だから」: 直前に述べたことの理由を追加的に述べる。
-      ＊文頭では使えない。
+    not because A but because B「Aだからではなく Bだから」
 
-      now (that) 〜「（今や）〜なので/〜である以上」: 時＋理由。
-      ＊口語ではthatはしばしば省略される。
+    = not A but Bにbecauseが結びついた構文。
 
-  - id: "shs-033"
-    name: "譲歩を表す接続詞"
-    category: "品詞・構文"
-    priority: "P1"
-    notes: |
-      Theme 113: 譲歩を表す接続詞の用法と使い分け。
+    '
+- id: shs-029
+  name: 名詞節を導くthatとwhether/if
+  category: 品詞・構文
+  priority: P1
+  notes: 'Theme 105+106: 名詞節を導くthatとwhether/ifの用法と使い分け。
 
-      although 〜「〜だけれども」(= though 〜)
 
-      even if 〜「たとえ〜でも」— 仮定＋譲歩。
-      ＊ifだけでeven ifの意味を表すことがある。
+    thatは名詞節を導いて「〜ということ」を表す。
 
-      PU!82: even ifとeven thoughの使い分け
-      even if「たとえ〜でも」— 後ろに仮定的な事柄が来ることが多い。
-      even though「〜ではあるが」— 後ろに事実が来ることが多い。
+    (1) 主語: That there was a problem ... is self-evident.
 
-      形容詞[副詞/名詞]+as+S+V「Sは〜だけれども」
-      = Though S+V+形容詞 の書き換え。
-      ＊文頭に名詞が来る場合は無冠詞: child as he is「彼は子どもながらも」
-      〈発展〉文脈によっては「理由」を表す場合もある:
-      Rich as she is, she can afford to ...「お金持ちなので〜」
+    (2) 目的語: 動詞の目的語としてのthat節（省略可）
 
-      whether 〜 or ...「〜であろうと…であろうと」
-      whether 〜 or not「〜であろうとなかろうと」
-      ＊名詞節のwhetherについてはTheme 106を参照。
+    (3) 補語: The trouble is that 〜「困ったことに〜」（主語を副詞的に訳す）
 
-  - id: "shs-034"
-    name: "条件を表す接続詞"
-    category: "品詞・構文"
-    priority: "P1"
-    notes: |
-      Theme 114: 条件を表す接続詞とifの代用語。
+    (4) 同格: the fact that 〜「〜という事実」— 直前の名詞の内容を説明
 
-      unless 〜「〜でない限り(= except that)/もし〜でなければ(= if...not)」
-      ＊否定の条件を表し、節内で仮定法は用いない。
 
-      PU!83: unlessとif...notの違い
-      unlessはif...notより使用範囲が狭い。
-      感情表現（be surprised if...not等）ではunlessは使えない。
-      意味の違いが生じる場合もある:
-      if he doesn't come「彼が来なければ（私は出る）」
-      unless he comes「彼が来るなら（私は出ない）」— 除外の意味
+    例外的にthat節が前置詞の目的語になる場合:
 
-      PU!84: ifの代用語
-      unless 〜「〜でない限り/もし〜でなければ」
-      provided [providing] (that) 〜「もし〜ならば/〜という条件で」
-      suppose [supposing] (that) 〜「もし〜ならば」
-      as [so] long as 〜「〜しさえすれば/〜ならば」（→ Theme 117）
-      on condition (that) 〜「〜という条件で/〜ならば」
-      ＊仮定法の文で使えるのはsuppose [supposing] (that)のみ。
-      参照: in advance「前もって/あらかじめ」（→ 1210）
+    in that 〜「〜という点で/〜だから」(= because)
 
-  - id: "shs-035"
-    name: "目的・程度・結果を表す接続詞"
-    category: "品詞・構文"
-    priority: "P1"
-    notes: |
-      Theme 115+116: 目的を表す接続詞と程度・結果を表す接続詞。
+    except that 〜「〜ということを除いて」
 
-      「目的」の接続詞:
-      so that S can [will / may] do 〜「〜するために」
-      ＊can/willは口語調、mayは改まった表現。口語ではthat省略可。
-      in order that S can [will / may] do 〜 — 同じ意味だが硬い表現。thatは省略しない。
 
-      for fear (that) S should [may / might] do 〜「〜しないように」
-      ＊日常的にはso that S can't/won't doを用いる。
-      〈発展〉同意表現: lest S (should)+原形 — 文語調だが入試には出る。
+    PU!76: 名詞節を導くwhetherとifの用法比較
 
-      in case S (should) do 〜「〜するといけないから/〜の場合に備えて」
-      〈発展〉「もし[万一]〜ならば」(= if)の意味もある。
+    [図表: whether/ifが使える位置の対照表]
 
-      「程度・結果」の接続詞:
-      so...(that) 〜「とても…なので〜/〜するほど…」
-      ＊soは程度・強意の副詞で、後ろに形容詞・副詞を伴う。口語ではthat省略可。
-      ＊否定表現: not so...that 〜「〜するほど…（でない）」— 後ろから前に訳す。
-      ＊名詞を伴う場合: so+形容詞+a [an]+名詞（→ PU!85）
+    whether節: 主語○ / 形式主語の真主語○ / 動詞の目的語○ / 前置詞の目的語○ / 補語○ / 同格○
 
-      such...(that) 〜「とても…なので〜/〜するほど…」
-      ＊suchの後ろにa [an]+形容詞+名詞の形が来る。
+    if節:       主語× / 形式主語の真主語○ / 動詞の目的語○ / 前置詞の目的語× / 補語× / 同格×
 
-      PU!85: so...thatとsuch...thatの使い分け
-      so+形容詞[副詞]+that / so+形容詞+a [an]+名詞+that
-      such+a [an](+形容詞)+名詞+that
+    ＊if節は動詞の目的語と形式主語での真主語としてしか使えない。
 
-      S is such that 〜「Sはたいへんなものなので〜」
-      ＊suchが名詞を伴わず、such = so greatと解釈。
-      倒置形: Such [So great] is+S+that 〜
-      参照: cannot help doing「〜せずにはいられない」（→ 74）
+    ＊口語ではwhetherよりifが好まれる。
 
-  - id: "shs-036"
-    name: "as [so] long asとas [so] far as"
-    category: "品詞・構文"
-    priority: "P1"
-    notes: |
-      Theme 117: as [so] long asとas [so] far asの使い分け。
+    ＊or notは省略可。ifを使うときはor notをつけないことが多い。
 
-      ともに「〜する限り」と訳されることが多いが、意味・用法は異なる。
+    '
+- id: shs-030
+  name: 接続詞asとwhileの用法
+  category: 品詞・構文
+  priority: P1
+  notes: "Theme 107+108: 接続詞asの多義性とwhileの用法。\n\nPU!77: 接続詞asの用法（6つ）\n(1) 時・同時状況「〜する時（に）/〜と同時に」＊whenより同時性が強い\n(2) 比例「〜するにつれて」＊通例、比較級と一緒に用いる\n(3) 原因・理由「〜なので」＊この意味ではbecause/sinceを多く用いる\n(4) 譲歩「〜だけれど」＊形容詞[副詞/名詞]+as\
+    \ S+Vの形（→ Theme 113）\n(5) 様態「（〜する）ように/〜の通りに」\n(6) 直前の名詞を限定「（〜する）ような/（〜した）時の」\n\n慣用表現:\nas it is「そのまま（に）/あるがまま（に）」\nleave 〜 as it is「〜をそのままにしておく」\n＊itは指すものに応じて他の人称代名詞にもなる: as they are等。\n口語ではthe wayがasと同じように用いられる:\
+    \ the way you want it to\n\nwhileの用法（3つ）:\n(1) 時「〜する間/〜している間」\n    while節内では動作動詞の進行形か状態動詞を使うことが多い。\n    duringは前置詞（後ろに名詞）、whileは接続詞（後ろにS+V）。\n(2) 対比「〜なのに対して/〜である一方」(= whereas)\n    some 〜 others ...の表現と共に用いることも多い。\n\
+    (3) 譲歩「〜だけれども/〜なのに」(= although/though)\n    この場合while節は主節の前に置かれるのが一般的。\n"
+- id: shs-031
+  name: 時を表す接続詞と重要表現
+  category: 品詞・構文
+  priority: P1
+  notes: 'Theme 109+110+111: 時を表す接続詞の基本用法、重要表現、「〜するとすぐに」の表現。
 
-      as [so] long as:
-      (1) 時間の制限「〜する限りは/〜する間は」(= while)
-      (2) 条件「〜しさえすれば/〜ならば」(= only if)
-      ＊条件の意味は時間の制限から派生:
-      「ルールを守る間は→守りさえすれば」のように理解する。
 
-      as [so] far as:
-      範囲の制限「〜する限りでは/〜の範囲内では」
+    基本の時の接続詞:
 
-      PU!86: as [so] far asは3つの表現で覚える
-      (1) as [so] far as I know「私の知る限りでは」
-      (2) as [so] far as A is concerned「Aに関する限りでは」(= as far as A go)
-      (3) as [so] far as the eye can see「見渡す限り/目の届く限り」
+    before 〜「〜する前に/〜しないうちに」
 
+    ＊否定的に訳すほうが自然な場合がある。
+
+    〈重要〉before節は時の副詞節→未来のことでも現在形（→ Theme 7）。
+
+
+    since 〜「〜して以来」— 過去の始点を表す。
+
+    主節は現在完了形、since節には過去形を用いる。
+
+
+    until [till] 〜「〜するまで（ずっと）」— 動作・状態の継続期間。
+
+    ＊untilとtillは基本的に違いなし。
+
+    発展: ..., until [till] 〜「…して、ついに〜」（前から訳す）。
+
+
+    by the time 〜「〜するまでには」— 完了の期限。
+
+    〈比較〉by the time（完了の期限）≠ until（継続期間）。
+
+
+    each [every] time 〜「〜するたびに/〜する時はいつも」(= whenever)
+
+    once 〜「いったん[ひとたび]〜すると」— 時＋条件。
+
+
+    PU!78: timeを用いた接続詞表現
+
+    by the time / each [every] time / (the) next time / the first time / the last time
+
+
+    PU!79: 「〜するたびに」の表現
+
+    Each [Every] time〜 / Whenever〜 / When〜always / never〜without doing
+
+
+    「Sが〜してから…になる」の書き換え（PU!80）:
+
+    ① It is [has been]+時間+since+S+過去形
+
+    ② 時間+have [has] passed since+S+過去形
+
+    ③ S+過去形...+時間+ago
+
+    ④ S have [has] been+形容詞+for+時間
+
+    ＊die(動作動詞)→be dead(状態) の書き換えに注意。
+
+
+    It will not [won''t] be long before 〜「まもなく〜するだろう」
+
+    発展: It is+時間+before 〜「〜するまでに…がかかる」
+
+
+    It is not until [till] 〜 that ...「〜して初めて…する」
+
+    = not...until [till] 〜のnotとuntil節をIt isとthatの間に入れて強調。
+
+    倒置形: Not until 〜 did S V ...
+
+    参照: get rid of 〜「厄介なものを取り除く」(= remove)（→ 1112）
+
+
+    「〜するとすぐに」の表現（PU!81）:
+
+    as soon as 〜 — 最もよく使う表現。
+
+    the moment 〜 (= at the moment when) — the instant / the minuteも同様。
+
+    directly 〜《英》— immediately / instantlyも同様。副詞だが接続詞として使う。
+
+    hardly [scarcely] 〜 when [before] ...「〜するとすぐに…」
+
+    ＊「〜」は過去完了形、「...」は過去形。倒置形が入試で重要。
+
+    no sooner 〜 than ...「〜するとすぐに…」
+
+    ＊比較構文なのでwhenではなくthanを用いる点に注意。倒置形が超頻出。
+
+    参照: see A do「Aが〜するのを見る」（→ 554）、代不定詞（→ 100）
+
+    '
+- id: shs-032
+  name: 理由を表す接続詞
+  category: 品詞・構文
+  priority: P1
+  notes: 'Theme 112: 理由を表す接続詞の使い分け。
+
+
+    because 〜: 直接的な理由。
+
+    not...because 〜「〜だからといって…ではない」
+
+    ＊notはbecause以下全体を否定する。ふつうbecauseの前にコンマは置かれない。
+
+    ＊not...simply [merely / just] because 〜「（単に）〜というだけで…ではない」の形が多い。
+
+
+    since 〜「〜なので/〜である以上」: 聞き手も知っている理由。
+
+
+    for 〜「というのは〜だから」: 直前に述べたことの理由を追加的に述べる。
+
+    ＊文頭では使えない。
+
+
+    now (that) 〜「（今や）〜なので/〜である以上」: 時＋理由。
+
+    ＊口語ではthatはしばしば省略される。
+
+    '
+- id: shs-033
+  name: 譲歩を表す接続詞
+  category: 品詞・構文
+  priority: P1
+  notes: 'Theme 113: 譲歩を表す接続詞の用法と使い分け。
+
+
+    although 〜「〜だけれども」(= though 〜)
+
+
+    even if 〜「たとえ〜でも」— 仮定＋譲歩。
+
+    ＊ifだけでeven ifの意味を表すことがある。
+
+
+    PU!82: even ifとeven thoughの使い分け
+
+    even if「たとえ〜でも」— 後ろに仮定的な事柄が来ることが多い。
+
+    even though「〜ではあるが」— 後ろに事実が来ることが多い。
+
+
+    形容詞[副詞/名詞]+as+S+V「Sは〜だけれども」
+
+    = Though S+V+形容詞 の書き換え。
+
+    ＊文頭に名詞が来る場合は無冠詞: child as he is「彼は子どもながらも」
+
+    〈発展〉文脈によっては「理由」を表す場合もある:
+
+    Rich as she is, she can afford to ...「お金持ちなので〜」
+
+
+    whether 〜 or ...「〜であろうと…であろうと」
+
+    whether 〜 or not「〜であろうとなかろうと」
+
+    ＊名詞節のwhetherについてはTheme 106を参照。
+
+    '
+- id: shs-034
+  name: 条件を表す接続詞
+  category: 品詞・構文
+  priority: P1
+  notes: 'Theme 114: 条件を表す接続詞とifの代用語。
+
+
+    unless 〜「〜でない限り(= except that)/もし〜でなければ(= if...not)」
+
+    ＊否定の条件を表し、節内で仮定法は用いない。
+
+
+    PU!83: unlessとif...notの違い
+
+    unlessはif...notより使用範囲が狭い。
+
+    感情表現（be surprised if...not等）ではunlessは使えない。
+
+    意味の違いが生じる場合もある:
+
+    if he doesn''t come「彼が来なければ（私は出る）」
+
+    unless he comes「彼が来るなら（私は出ない）」— 除外の意味
+
+
+    PU!84: ifの代用語
+
+    unless 〜「〜でない限り/もし〜でなければ」
+
+    provided [providing] (that) 〜「もし〜ならば/〜という条件で」
+
+    suppose [supposing] (that) 〜「もし〜ならば」
+
+    as [so] long as 〜「〜しさえすれば/〜ならば」（→ Theme 117）
+
+    on condition (that) 〜「〜という条件で/〜ならば」
+
+    ＊仮定法の文で使えるのはsuppose [supposing] (that)のみ。
+
+    参照: in advance「前もって/あらかじめ」（→ 1210）
+
+    '
+- id: shs-035
+  name: 目的・程度・結果を表す接続詞
+  category: 品詞・構文
+  priority: P1
+  notes: 'Theme 115+116: 目的を表す接続詞と程度・結果を表す接続詞。
+
+
+    「目的」の接続詞:
+
+    so that S can [will / may] do 〜「〜するために」
+
+    ＊can/willは口語調、mayは改まった表現。口語ではthat省略可。
+
+    in order that S can [will / may] do 〜 — 同じ意味だが硬い表現。thatは省略しない。
+
+
+    for fear (that) S should [may / might] do 〜「〜しないように」
+
+    ＊日常的にはso that S can''t/won''t doを用いる。
+
+    〈発展〉同意表現: lest S (should)+原形 — 文語調だが入試には出る。
+
+
+    in case S (should) do 〜「〜するといけないから/〜の場合に備えて」
+
+    〈発展〉「もし[万一]〜ならば」(= if)の意味もある。
+
+
+    「程度・結果」の接続詞:
+
+    so...(that) 〜「とても…なので〜/〜するほど…」
+
+    ＊soは程度・強意の副詞で、後ろに形容詞・副詞を伴う。口語ではthat省略可。
+
+    ＊否定表現: not so...that 〜「〜するほど…（でない）」— 後ろから前に訳す。
+
+    ＊名詞を伴う場合: so+形容詞+a [an]+名詞（→ PU!85）
+
+
+    such...(that) 〜「とても…なので〜/〜するほど…」
+
+    ＊suchの後ろにa [an]+形容詞+名詞の形が来る。
+
+
+    PU!85: so...thatとsuch...thatの使い分け
+
+    so+形容詞[副詞]+that / so+形容詞+a [an]+名詞+that
+
+    such+a [an](+形容詞)+名詞+that
+
+
+    S is such that 〜「Sはたいへんなものなので〜」
+
+    ＊suchが名詞を伴わず、such = so greatと解釈。
+
+    倒置形: Such [So great] is+S+that 〜
+
+    参照: cannot help doing「〜せずにはいられない」（→ 74）
+
+    '
+- id: shs-036
+  name: as [so] long asとas [so] far as
+  category: 品詞・構文
+  priority: P1
+  notes: 'Theme 117: as [so] long asとas [so] far asの使い分け。
+
+
+    ともに「〜する限り」と訳されることが多いが、意味・用法は異なる。
+
+
+    as [so] long as:
+
+    (1) 時間の制限「〜する限りは/〜する間は」(= while)
+
+    (2) 条件「〜しさえすれば/〜ならば」(= only if)
+
+    ＊条件の意味は時間の制限から派生:
+
+    「ルールを守る間は→守りさえすれば」のように理解する。
+
+
+    as [so] far as:
+
+    範囲の制限「〜する限りでは/〜の範囲内では」
+
+
+    PU!86: as [so] far asは3つの表現で覚える
+
+    (1) as [so] far as I know「私の知る限りでは」
+
+    (2) as [so] far as A is concerned「Aに関する限りでは」(= as far as A go)
+
+    (3) as [so] far as the eye can see「見渡す限り/目の届く限り」
+
+    '
 understanding_goals:
-  # shs-027: 等位接続詞の基本と命令文+and/or
-  - node_id: "shs-027"
-    seq: 1
-    goal: "等位接続詞and/but/or/so/for/norの役割と使い分けを説明できる"
-  - node_id: "shs-027"
-    seq: 2
-    goal: "andが何と何を結んでいるかを見抜き、文法上対等なものを結ぶ原則を理解できる"
-  - node_id: "shs-027"
-    seq: 3
-    goal: "「命令文+and」と「命令文+or」をifを使って書き換えられる"
-  - node_id: "shs-027"
-    seq: 4
-    goal: "命令文に準ずる表現や名詞句+and/orの構文を識別できる"
-  # shs-028: 等位接続詞を用いた相関的表現
-  - node_id: "shs-028"
-    seq: 1
-    goal: "both A and B / either A or B / neither A nor Bの意味と動詞の一致を説明できる"
-  - node_id: "shs-028"
-    seq: 2
-    goal: "not A but B / not only A but also Bの意味と動詞の一致を説明できる"
-  - node_id: "shs-028"
-    seq: 3
-    goal: "not because A but because Bの構文を正しく使える"
-  # shs-029: 名詞節を導くthatとwhether/if
-  - node_id: "shs-029"
-    seq: 1
-    goal: "thatが導く名詞節の4つの用法（主語・目的語・補語・同格）を識別できる"
-  - node_id: "shs-029"
-    seq: 2
-    goal: "in thatとexcept thatの意味と用法を説明できる"
-  - node_id: "shs-029"
-    seq: 3
-    goal: "whetherとifの用法の違い（使える位置の制限）を説明できる"
-  # shs-030: 接続詞asとwhileの用法
-  - node_id: "shs-030"
-    seq: 1
-    goal: "接続詞asの主要な用法（時・比例・理由・譲歩・様態・限定）を識別できる"
-  - node_id: "shs-030"
-    seq: 2
-    goal: "as it isなどのas慣用表現を使える"
-  - node_id: "shs-030"
-    seq: 3
-    goal: "whileの3つの用法（時・対比・譲歩）を区別できる"
-  # shs-031: 時を表す接続詞と重要表現
-  - node_id: "shs-031"
-    seq: 1
-    goal: "before/since/until/by the timeの意味の違いを説明できる"
-  - node_id: "shs-031"
-    seq: 2
-    goal: "each/every time, onceなどの接続詞的表現を使える"
-  - node_id: "shs-031"
-    seq: 3
-    goal: "「Sが〜してから…になる」の4つの書き換えパターンを使える"
-  - node_id: "shs-031"
-    seq: 4
-    goal: "It will not be long before〜 / It is not until〜that...の構文を理解できる"
-  - node_id: "shs-031"
-    seq: 5
-    goal: "hardly/scarcely〜when... / no sooner〜than...の構文と倒置形を正しく使える"
-  - node_id: "shs-031"
-    seq: 6
-    goal: "「〜するとすぐに」の各表現を使い分けられる"
-  # shs-032: 理由を表す接続詞
-  - node_id: "shs-032"
-    seq: 1
-    goal: "because/since/forの使い分けを説明できる"
-  - node_id: "shs-032"
-    seq: 2
-    goal: "not...because〜「〜だからといって…ではない」の構文を理解できる"
-  - node_id: "shs-032"
-    seq: 3
-    goal: "now (that)の意味と用法を説明できる"
-  # shs-033: 譲歩を表す接続詞
-  - node_id: "shs-033"
-    seq: 1
-    goal: "although/even if/even thoughの違いを説明できる"
-  - node_id: "shs-033"
-    seq: 2
-    goal: "形容詞+as+S+Vの譲歩構文を使える"
-  - node_id: "shs-033"
-    seq: 3
-    goal: "whether〜or...の譲歩の用法を理解できる"
-  # shs-034: 条件を表す接続詞
-  - node_id: "shs-034"
-    seq: 1
-    goal: "unlessの意味と用法を説明できる"
-  - node_id: "shs-034"
-    seq: 2
-    goal: "provided/supposeなどのifの代用表現を使える"
-  - node_id: "shs-034"
-    seq: 3
-    goal: "unlessとif...notの違いを理解できる"
-  # shs-035: 目的・程度・結果を表す接続詞
-  - node_id: "shs-035"
-    seq: 1
-    goal: "so that S can/will/may do「〜するために」の構文を使える"
-  - node_id: "shs-035"
-    seq: 2
-    goal: "for fear (that) / in case / lest「〜しないように」の構文を使える"
-  - node_id: "shs-035"
-    seq: 3
-    goal: "so...that〜とsuch...that〜の使い分けと語順を正しく使える"
-  - node_id: "shs-035"
-    seq: 4
-    goal: "S is such that〜の構文とその倒置形を理解できる"
-  # shs-036: as [so] long asとas [so] far as
-  - node_id: "shs-036"
-    seq: 1
-    goal: "as [so] long asの2つの意味（時間の制限・条件）を区別できる"
-  - node_id: "shs-036"
-    seq: 2
-    goal: "as [so] far asの「範囲の制限」の意味と主要な表現を使える"
-  - node_id: "shs-036"
-    seq: 3
-    goal: "as long asとas far asを混同せずに使い分けられる"
-
+- node_id: shs-027
+  seq: 1
+  goal: 等位接続詞and/but/or/so/for/norの役割と使い分けを説明できる
+- node_id: shs-027
+  seq: 2
+  goal: andが何と何を結んでいるかを見抜き、文法上対等なものを結ぶ原則を理解できる
+- node_id: shs-027
+  seq: 3
+  goal: 「命令文+and」と「命令文+or」をifを使って書き換えられる
+- node_id: shs-027
+  seq: 4
+  goal: 命令文に準ずる表現や名詞句+and/orの構文を識別できる
+- node_id: shs-028
+  seq: 1
+  goal: both A and B / either A or B / neither A nor Bの意味と動詞の一致を説明できる
+- node_id: shs-028
+  seq: 2
+  goal: not A but B / not only A but also Bの意味と動詞の一致を説明できる
+- node_id: shs-028
+  seq: 3
+  goal: not because A but because Bの構文を正しく使える
+- node_id: shs-029
+  seq: 1
+  goal: thatが導く名詞節の4つの用法（主語・目的語・補語・同格）を識別できる
+- node_id: shs-029
+  seq: 2
+  goal: in thatとexcept thatの意味と用法を説明できる
+- node_id: shs-029
+  seq: 3
+  goal: whetherとifの用法の違い（使える位置の制限）を説明できる
+- node_id: shs-030
+  seq: 1
+  goal: 接続詞asの主要な用法（時・比例・理由・譲歩・様態・限定）を識別できる
+- node_id: shs-030
+  seq: 2
+  goal: as it isなどのas慣用表現を使える
+- node_id: shs-030
+  seq: 3
+  goal: whileの3つの用法（時・対比・譲歩）を区別できる
+- node_id: shs-031
+  seq: 1
+  goal: before/since/until/by the timeの意味の違いを説明できる
+- node_id: shs-031
+  seq: 2
+  goal: each/every time, onceなどの接続詞的表現を使える
+- node_id: shs-031
+  seq: 3
+  goal: 「Sが〜してから…になる」の4つの書き換えパターンを使える
+- node_id: shs-031
+  seq: 4
+  goal: It will not be long before〜 / It is not until〜that...の構文を理解できる
+- node_id: shs-031
+  seq: 5
+  goal: hardly/scarcely〜when... / no sooner〜than...の構文と倒置形を正しく使える
+- node_id: shs-031
+  seq: 6
+  goal: 「〜するとすぐに」の各表現を使い分けられる
+- node_id: shs-032
+  seq: 1
+  goal: because/since/forの使い分けを説明できる
+- node_id: shs-032
+  seq: 2
+  goal: not...because〜「〜だからといって…ではない」の構文を理解できる
+- node_id: shs-032
+  seq: 3
+  goal: now (that)の意味と用法を説明できる
+- node_id: shs-033
+  seq: 1
+  goal: although/even if/even thoughの違いを説明できる
+- node_id: shs-033
+  seq: 2
+  goal: 形容詞+as+S+Vの譲歩構文を使える
+- node_id: shs-033
+  seq: 3
+  goal: whether〜or...の譲歩の用法を理解できる
+- node_id: shs-034
+  seq: 1
+  goal: unlessの意味と用法を説明できる
+- node_id: shs-034
+  seq: 2
+  goal: provided/supposeなどのifの代用表現を使える
+- node_id: shs-034
+  seq: 3
+  goal: unlessとif...notの違いを理解できる
+- node_id: shs-035
+  seq: 1
+  goal: so that S can/will/may do「〜するために」の構文を使える
+- node_id: shs-035
+  seq: 2
+  goal: for fear (that) / in case / lest「〜しないように」の構文を使える
+- node_id: shs-035
+  seq: 3
+  goal: so...that〜とsuch...that〜の使い分けと語順を正しく使える
+- node_id: shs-035
+  seq: 4
+  goal: S is such that〜の構文とその倒置形を理解できる
+- node_id: shs-036
+  seq: 1
+  goal: as [so] long asの2つの意味（時間の制限・条件）を区別できる
+- node_id: shs-036
+  seq: 2
+  goal: as [so] far asの「範囲の制限」の意味と主要な表現を使える
+- node_id: shs-036
+  seq: 3
+  goal: as long asとas far asを混同せずに使い分けられる
 check_points:
-  # shs-027: 等位接続詞の基本と命令文+and/or
-  - node_id: "shs-027"
-    seq: 1
-    question: "等位接続詞soとforの違いは何ですか？"
-    answer: "soは結果「それで/だから」を表し文頭でも使えるが、forは直前に述べたことの理由を追加的に述べる「というのは〜だから」で文頭では使えない"
-  - node_id: "shs-027"
-    seq: 2
-    question: "「命令文+and」「命令文+or」はそれぞれどのような条件文に書き換えられますか？"
-    answer: "「命令文+and」= If you do X, ...（肯定条件）、「命令文+or」= If you don't do X, ... / Unless you do X, ...（否定条件）"
-  - node_id: "shs-027"
-    seq: 3
-    question: "命令文+orのorの代わりに使える語は何ですか？"
-    answer: "otherwise（副詞）。例: Leave at once, otherwise you'll be late."
-  # shs-028: 等位接続詞を用いた相関的表現
-  - node_id: "shs-028"
-    seq: 1
-    question: "both A and Bが主語の時、動詞は単数・複数のどちらに一致しますか？"
-    answer: "複数扱い。例: Both you and I are suspected."
-  - node_id: "shs-028"
-    seq: 2
-    question: "either A or B / neither A nor B / not only A but also Bが主語の時、動詞はA・Bのどちらに一致しますか？"
-    answer: "いずれもBに一致する（動詞に近いほう、または意味の重点があるほう）。ただしA as well as Bの場合はAに一致する"
-  - node_id: "shs-028"
-    seq: 3
-    question: "not only A but also Bのonly/alsoを他の語で置き換えるとどうなりますか？"
-    answer: "onlyの代わりにmerely / simply / just、alsoの代わりにas wellを用いることがある。例: not merely A but also B / not only A but B as well"
-  # shs-029: 名詞節を導くthatとwhether/if
-  - node_id: "shs-029"
-    seq: 1
-    question: "that節は原則として前置詞の目的語になれませんが、例外は何ですか？"
-    answer: "in that 〜「〜という点で/〜だから」と except that 〜「〜ということを除いて」の2つ"
-  - node_id: "shs-029"
-    seq: 2
-    question: "whether節が使えてif節が使えない位置はどこですか？"
-    answer: "文頭の主語、前置詞の目的語、補語、同格の4つ。if節は動詞の目的語と形式主語構文での真主語でのみ使える"
-  - node_id: "shs-029"
-    seq: 3
-    question: "the fact that節のthatはどのような用法ですか？"
-    answer: "同格の名詞節を導くthat。直前の名詞（fact）の具体的内容を説明する。「〜という事実」"
-  # shs-030: 接続詞asとwhileの用法
-  - node_id: "shs-030"
-    seq: 1
-    question: "接続詞asの「比例」の用法はどのような構文で使われますか？"
-    answer: "grow [become / get]+比較級の構文と一緒に用いることが多い。例: We grow wiser as we grow older."
-  - node_id: "shs-030"
-    seq: 2
-    question: "「様態」のasと同じ意味で口語で使われる表現は何ですか？"
-    answer: "the way。例: Life doesn't always go the way you want it to."
-  - node_id: "shs-030"
-    seq: 3
-    question: "whileの「対比」の用法と「譲歩」の用法はどう区別しますか？"
-    answer: "「対比」は2つの事柄の違いを述べる(= whereas)。「譲歩」はalthough/thoughと同義で、while節は通常主節の前に置かれる"
-  # shs-031: 時を表す接続詞と重要表現
-  - node_id: "shs-031"
-    seq: 1
-    question: "until [till]とby the timeの違いは何ですか？"
-    answer: "untilは「〜するまで（ずっと）」で動作・状態の継続期間を表す。by the timeは「〜するまでには」で完了の期限を表す"
-  - node_id: "shs-031"
-    seq: 2
-    question: "「彼が亡くなってから3年になる」を4通りで表現してください"
-    answer: "① It is three years since he died. ② Three years have passed since he died. ③ He died three years ago. ④ He has been dead for three years."
-  - node_id: "shs-031"
-    seq: 3
-    question: "It is not until 〜 that ... の倒置形はどのような語順ですか？"
-    answer: "Not until 〜 + 倒置（did S V）... 例: Not until my father came home did he notice he had left his laptop behind."
-  - node_id: "shs-031"
-    seq: 4
-    question: "no sooner 〜 than ... の倒置形はどのような語順ですか？"
-    answer: "No sooner had S done 〜 than S did ... 例: No sooner had I arrived at the station than the train left. ＊比較構文なのでwhenではなくthanを用いる"
-  - node_id: "shs-031"
-    seq: 5
-    question: "「〜するとすぐに」を表す接続詞的表現を4つ以上挙げてください"
-    answer: "as soon as / the moment / the minute / the instant / directly / immediately / instantly / hardly〜when / scarcely〜when / no sooner〜than"
-  # shs-032: 理由を表す接続詞
-  - node_id: "shs-032"
-    seq: 1
-    question: "because/since/forの使い分けのポイントは何ですか？"
-    answer: "becauseは直接的・新しい理由、sinceは聞き手も知っている既知の理由「〜なので」、forは追加的な理由説明「というのは〜だから」で文頭では使えない"
-  - node_id: "shs-032"
-    seq: 2
-    question: "not...because 〜のnotの否定範囲はどこまでですか？"
-    answer: "because以下全体を否定する。「〜だからといって…ではない」。just/simply/merelyと共に用いることが多い"
-  - node_id: "shs-032"
-    seq: 3
-    question: "now (that) はどのような意味を表しますか？"
-    answer: "「（今や）〜なので/〜である以上」で、時と理由の両方のニュアンスを持つ。口語ではthatはしばしば省略"
-  # shs-033: 譲歩を表す接続詞
-  - node_id: "shs-033"
-    seq: 1
-    question: "even ifとeven thoughの違いは何ですか？"
-    answer: "even ifは仮定的な事柄「たとえ〜でも」、even thoughは事実「〜ではあるが」。例: Even if it rains（仮定） / Even though it was raining（事実）"
-  - node_id: "shs-033"
-    seq: 2
-    question: "形容詞+as+S+Vの構文で名詞が文頭に来る場合のルールは？"
-    answer: "無冠詞になる。例: child as he is「彼は子どもながらも」（× a child as he is）。ただし現代英語ではまれ"
-  - node_id: "shs-033"
-    seq: 3
-    question: "形容詞+as+S+Vの構文は「譲歩」以外にどのような意味を表しますか？"
-    answer: "文脈によっては「理由」を表す。例: Rich as she is, she can afford to travel around the world.「お金持ちなので世界中を旅行する余裕がある」"
-  # shs-034: 条件を表す接続詞
-  - node_id: "shs-034"
-    seq: 1
-    question: "unlessとif...notは完全に同じですか？"
-    answer: "同じではない。unlessの方が使用範囲が狭い。感情表現（be surprised if...not等）ではunlessは使えない。また意味の違いが生じる場合もある（unlessは「〜な場合は別として」の除外の意味）"
-  - node_id: "shs-034"
-    seq: 2
-    question: "ifの代用語を4つ以上挙げてください"
-    answer: "unless / provided [providing] (that) / suppose [supposing] (that) / as [so] long as / on condition (that)"
-  - node_id: "shs-034"
-    seq: 3
-    question: "ifの代用語のうち仮定法の文で使えるのはどれですか？"
-    answer: "suppose [supposing] (that) のみ"
-  # shs-035: 目的・程度・結果を表す接続詞
-  - node_id: "shs-035"
-    seq: 1
-    question: "「目的」を表すso thatとin order thatの違いは何ですか？"
-    answer: "so thatは口語調でthat省略可。in order thatは硬い表現でthat省略不可"
-  - node_id: "shs-035"
-    seq: 2
-    question: "for fear (that)とlestの節内ではどのような動詞の形を使いますか？"
-    answer: "for fear (that) S should [may / might / will / would] do。lest S (should)+原形（×lest he fails）。lestは文語調"
-  - node_id: "shs-035"
-    seq: 3
-    question: "so kind a boyとsuch a kind boyの語順の違いは何ですか？"
-    answer: "soは「so+形容詞+a [an]+名詞」、suchは「such+a [an]+形容詞+名詞」。意味は同じ"
-  - node_id: "shs-035"
-    seq: 4
-    question: "in caseの2つの意味は何ですか？"
-    answer: "① 「〜するといけないから/〜の場合に備えて」② 「もし[万一]〜ならば」(= if)"
-  # shs-036: as [so] long asとas [so] far as
-  - node_id: "shs-036"
-    seq: 1
-    question: "as [so] long asの2つの意味は何ですか？"
-    answer: "① 「〜する限りは/〜する間は」(= while) — 時間の制限。② 「〜しさえすれば/〜ならば」(= only if) — 条件"
-  - node_id: "shs-036"
-    seq: 2
-    question: "as [so] far asで頻出の表現を3つ挙げてください"
-    answer: "① as far as I know「私の知る限りでは」② as far as A is concerned「Aに関する限りでは」③ as far as the eye can see「見渡す限り」"
-  - node_id: "shs-036"
-    seq: 3
-    question: "as long asとas far asの根本的な違いは何ですか？"
-    answer: "as long asは時間の制限または条件を表す。as far asは範囲の制限を表す"
-
+- node_id: shs-027
+  seq: 1
+  question: 等位接続詞soとforの違いは何ですか？
+  answer: soは結果「それで/だから」を表し文頭でも使えるが、forは直前に述べたことの理由を追加的に述べる「というのは〜だから」で文頭では使えない
+- node_id: shs-027
+  seq: 2
+  question: 「命令文+and」「命令文+or」はそれぞれどのような条件文に書き換えられますか？
+  answer: 「命令文+and」= If you do X, ...（肯定条件）、「命令文+or」= If you don't do X, ... / Unless you do X, ...（否定条件）
+- node_id: shs-027
+  seq: 3
+  question: 命令文+orのorの代わりに使える語は何ですか？
+  answer: 'otherwise（副詞）。例: Leave at once, otherwise you''ll be late.'
+- node_id: shs-028
+  seq: 1
+  question: both A and Bが主語の時、動詞は単数・複数のどちらに一致しますか？
+  answer: '複数扱い。例: Both you and I are suspected.'
+- node_id: shs-028
+  seq: 2
+  question: either A or B / neither A nor B / not only A but also Bが主語の時、動詞はA・Bのどちらに一致しますか？
+  answer: いずれもBに一致する（動詞に近いほう、または意味の重点があるほう）。ただしA as well as Bの場合はAに一致する
+- node_id: shs-028
+  seq: 3
+  question: not only A but also Bのonly/alsoを他の語で置き換えるとどうなりますか？
+  answer: 'onlyの代わりにmerely / simply / just、alsoの代わりにas wellを用いることがある。例: not merely A but also B / not only A but B as well'
+- node_id: shs-029
+  seq: 1
+  question: that節は原則として前置詞の目的語になれませんが、例外は何ですか？
+  answer: in that 〜「〜という点で/〜だから」と except that 〜「〜ということを除いて」の2つ
+- node_id: shs-029
+  seq: 2
+  question: whether節が使えてif節が使えない位置はどこですか？
+  answer: 文頭の主語、前置詞の目的語、補語、同格の4つ。if節は動詞の目的語と形式主語構文での真主語でのみ使える
+- node_id: shs-029
+  seq: 3
+  question: the fact that節のthatはどのような用法ですか？
+  answer: 同格の名詞節を導くthat。直前の名詞（fact）の具体的内容を説明する。「〜という事実」
+- node_id: shs-030
+  seq: 1
+  question: 接続詞asの「比例」の用法はどのような構文で使われますか？
+  answer: 'grow [become / get]+比較級の構文と一緒に用いることが多い。例: We grow wiser as we grow older.'
+- node_id: shs-030
+  seq: 2
+  question: 「様態」のasと同じ意味で口語で使われる表現は何ですか？
+  answer: 'the way。例: Life doesn''t always go the way you want it to.'
+- node_id: shs-030
+  seq: 3
+  question: whileの「対比」の用法と「譲歩」の用法はどう区別しますか？
+  answer: 「対比」は2つの事柄の違いを述べる(= whereas)。「譲歩」はalthough/thoughと同義で、while節は通常主節の前に置かれる
+- node_id: shs-031
+  seq: 1
+  question: until [till]とby the timeの違いは何ですか？
+  answer: untilは「〜するまで（ずっと）」で動作・状態の継続期間を表す。by the timeは「〜するまでには」で完了の期限を表す
+- node_id: shs-031
+  seq: 2
+  question: 「彼が亡くなってから3年になる」を4通りで表現してください
+  answer: ① It is three years since he died. ② Three years have passed since he died. ③ He died three years ago. ④ He has been dead for three years.
+- node_id: shs-031
+  seq: 3
+  question: It is not until 〜 that ... の倒置形はどのような語順ですか？
+  answer: 'Not until 〜 + 倒置（did S V）... 例: Not until my father came home did he notice he had left his laptop behind.'
+- node_id: shs-031
+  seq: 4
+  question: no sooner 〜 than ... の倒置形はどのような語順ですか？
+  answer: 'No sooner had S done 〜 than S did ... 例: No sooner had I arrived at the station than the train left. ＊比較構文なのでwhenではなくthanを用いる'
+- node_id: shs-031
+  seq: 5
+  question: 「〜するとすぐに」を表す接続詞的表現を4つ以上挙げてください
+  answer: as soon as / the moment / the minute / the instant / directly / immediately / instantly / hardly〜when / scarcely〜when / no sooner〜than
+- node_id: shs-032
+  seq: 1
+  question: because/since/forの使い分けのポイントは何ですか？
+  answer: becauseは直接的・新しい理由、sinceは聞き手も知っている既知の理由「〜なので」、forは追加的な理由説明「というのは〜だから」で文頭では使えない
+- node_id: shs-032
+  seq: 2
+  question: not...because 〜のnotの否定範囲はどこまでですか？
+  answer: because以下全体を否定する。「〜だからといって…ではない」。just/simply/merelyと共に用いることが多い
+- node_id: shs-032
+  seq: 3
+  question: now (that) はどのような意味を表しますか？
+  answer: 「（今や）〜なので/〜である以上」で、時と理由の両方のニュアンスを持つ。口語ではthatはしばしば省略
+- node_id: shs-033
+  seq: 1
+  question: even ifとeven thoughの違いは何ですか？
+  answer: 'even ifは仮定的な事柄「たとえ〜でも」、even thoughは事実「〜ではあるが」。例: Even if it rains（仮定） / Even though it was raining（事実）'
+- node_id: shs-033
+  seq: 2
+  question: 形容詞+as+S+Vの構文で名詞が文頭に来る場合のルールは？
+  answer: '無冠詞になる。例: child as he is「彼は子どもながらも」（× a child as he is）。ただし現代英語ではまれ'
+- node_id: shs-033
+  seq: 3
+  question: 形容詞+as+S+Vの構文は「譲歩」以外にどのような意味を表しますか？
+  answer: '文脈によっては「理由」を表す。例: Rich as she is, she can afford to travel around the world.「お金持ちなので世界中を旅行する余裕がある」'
+- node_id: shs-034
+  seq: 1
+  question: unlessとif...notは完全に同じですか？
+  answer: 同じではない。unlessの方が使用範囲が狭い。感情表現（be surprised if...not等）ではunlessは使えない。また意味の違いが生じる場合もある（unlessは「〜な場合は別として」の除外の意味）
+- node_id: shs-034
+  seq: 2
+  question: ifの代用語を4つ以上挙げてください
+  answer: unless / provided [providing] (that) / suppose [supposing] (that) / as [so] long as / on condition (that)
+- node_id: shs-034
+  seq: 3
+  question: ifの代用語のうち仮定法の文で使えるのはどれですか？
+  answer: suppose [supposing] (that) のみ
+- node_id: shs-035
+  seq: 1
+  question: 「目的」を表すso thatとin order thatの違いは何ですか？
+  answer: so thatは口語調でthat省略可。in order thatは硬い表現でthat省略不可
+- node_id: shs-035
+  seq: 2
+  question: for fear (that)とlestの節内ではどのような動詞の形を使いますか？
+  answer: for fear (that) S should [may / might / will / would] do。lest S (should)+原形（×lest he fails）。lestは文語調
+- node_id: shs-035
+  seq: 3
+  question: so kind a boyとsuch a kind boyの語順の違いは何ですか？
+  answer: soは「so+形容詞+a [an]+名詞」、suchは「such+a [an]+形容詞+名詞」。意味は同じ
+- node_id: shs-035
+  seq: 4
+  question: in caseの2つの意味は何ですか？
+  answer: ① 「〜するといけないから/〜の場合に備えて」② 「もし[万一]〜ならば」(= if)
+- node_id: shs-036
+  seq: 1
+  question: as [so] long asの2つの意味は何ですか？
+  answer: ① 「〜する限りは/〜する間は」(= while) — 時間の制限。② 「〜しさえすれば/〜ならば」(= only if) — 条件
+- node_id: shs-036
+  seq: 2
+  question: as [so] far asで頻出の表現を3つ挙げてください
+  answer: ① as far as I know「私の知る限りでは」② as far as A is concerned「Aに関する限りでは」③ as far as the eye can see「見渡す限り」
+- node_id: shs-036
+  seq: 3
+  question: as long asとas far asの根本的な違いは何ですか？
+  answer: as long asは時間の制限または条件を表す。as far asは範囲の制限を表す
 node_prerequisites:
-  - node_id: "shs-028"
-    prerequisite_id: "shs-027"
-
+- node_id: shs-028
+  prerequisite_id: shs-027
 knowledge_references:
-  - node_id: "shs-027"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_102"
-    pages: ""
-  - node_id: "shs-027"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_103"
-    pages: ""
-  - node_id: "shs-028"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_104"
-    pages: ""
-  - node_id: "shs-029"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_105"
-    pages: ""
-  - node_id: "shs-029"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_106"
-    pages: ""
-  - node_id: "shs-030"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_107"
-    pages: ""
-  - node_id: "shs-030"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_108"
-    pages: ""
-  - node_id: "shs-031"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_109"
-    pages: ""
-  - node_id: "shs-031"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_110"
-    pages: ""
-  - node_id: "shs-031"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_111"
-    pages: ""
-  - node_id: "shs-032"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_112"
-    pages: ""
-  - node_id: "shs-033"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_113"
-    pages: ""
-  - node_id: "shs-034"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_114"
-    pages: ""
-  - node_id: "shs-035"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_115"
-    pages: ""
-  - node_id: "shs-035"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_116"
-    pages: ""
-  - node_id: "shs-036"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_117"
-    pages: ""
+- node_id: shs-027
+  book: スクランブル英文法・語法
+  section_id: Scr_102
+  pages: ''
+- node_id: shs-028
+  book: スクランブル英文法・語法
+  section_id: Scr_104
+  pages: ''
+- node_id: shs-029
+  book: スクランブル英文法・語法
+  section_id: Scr_105
+  pages: ''
+- node_id: shs-030
+  book: スクランブル英文法・語法
+  section_id: Scr_107
+  pages: ''
+- node_id: shs-031
+  book: スクランブル英文法・語法
+  section_id: Scr_109
+  pages: ''
+- node_id: shs-032
+  book: スクランブル英文法・語法
+  section_id: Scr_112
+  pages: ''
+- node_id: shs-033
+  book: スクランブル英文法・語法
+  section_id: Scr_113
+  pages: ''
+- node_id: shs-034
+  book: スクランブル英文法・語法
+  section_id: Scr_114
+  pages: ''
+- node_id: shs-035
+  book: スクランブル英文法・語法
+  section_id: Scr_115
+  pages: ''
+- node_id: shs-036
+  book: スクランブル英文法・語法
+  section_id: Scr_117
+  pages: ''

@@ -1,181 +1,179 @@
 sentences:
-  - id: "scr-190-p01"
-    section_id: "Scr_190"
-    drill: 1
-    number: 769
-    role: "exam"
-    english: "The woman checked if there were any seats available on the flight."
-    japanese: "その女性は飛行機に空席があるかどうか調べた。"
-    notes: "〈頻出〉立命館大。available「入手できる/利用できる」。"
-  - id: "scr-190-e01"
-    section_id: "Scr_190"
-    drill: 0
-    number: null
-    role: "example"
-    english: "Let me know when you're available."
-    japanese: "いつ空いているか教えてください。"
-    notes: "問769プラスα。available「（人が）手が空いている/暇である/面会できる」。"
-  - id: "scr-190-p02"
-    section_id: "Scr_190"
-    drill: 1
-    number: 770
-    role: "exam"
-    english: "I bought a new car at a reasonable price."
-    japanese: "手ごろな値段で新車を手に入れた。"
-    notes: "早大。穴埋め（r-）。reasonable「（料金などが）手ごろな/妥当な」。reason「理性/道理」→ reasonable「理にかなった→妥当な/手ごろな」。"
-  - id: "scr-190-p03"
-    section_id: "Scr_190"
-    drill: 1
-    number: 771
-    role: "exam"
-    english: "The beef was so tough that I could not cut it with my knife."
-    japanese: "その牛肉はかたすぎてナイフで切れなかった。"
-    notes: "立命館大。tough「（肉などが）かたい」⇔ tender「やわらかい」。so...that〜「とても…なので〜」。"
-  - id: "scr-190-p04"
-    section_id: "Scr_190"
-    drill: 1
-    number: 772
-    role: "exam"
-    english: "Sarah is always able to answer the teacher's questions. She is such a smart girl."
-    japanese: "サラはいつも先生の質問に答えることができる。彼女はとても利口な女の子です。"
-    notes: "センター。smart「頭の良い/利口な」。「スマートな/ほっそりした」はslender/slimを使う。"
-  - id: "scr-190-p05"
-    section_id: "Scr_190"
-    drill: 1
-    number: 773
-    role: "exam"
-    english: "(a) The movie will start at 14:00 sharp. (b) Make a sharp left turn at the corner."
-    japanese: "(a) その映画は午後2時ちょうどに始まります。 (b) その角を急角度で左折しなさい。"
-    notes: "国士舘大。共通語句問題。sharp: (a)副詞「きっかりに/ちょうどに」（= exactly/on the dot）、(b)形容詞「（回転・カーブなどが）急な」。"
-  - id: "scr-190-e02"
-    section_id: "Scr_190"
-    drill: 0
-    number: null
-    role: "example"
-    english: "Be careful of the sharp turn ahead."
-    japanese: "この先の急カーブに注意してください。"
-    notes: "問773解説。sharp「急な」の用例。"
-  - id: "scr-190-p06"
-    section_id: "Scr_190"
-    drill: 1
-    number: 774
-    role: "exam"
-    english: "I am afraid my watch is three minutes fast."
-    japanese: "私の時計は3分進んでいると思います。"
-    notes: "札幌大。fast「（時計が）進んで」⇔ slow「（時計が）遅れて」。"
-  - id: "scr-190-e03"
-    section_id: "Scr_190"
-    drill: 0
-    number: null
-    role: "example"
-    english: "I missed the bus because my watch was slow."
-    japanese: "時計が遅れていたせいでバスに乗り遅れた。"
-    notes: "問774解説。slow「（時計が）遅れて」。fastの反意語。"
-  - id: "scr-190-p07"
-    section_id: "Scr_190"
-    drill: 1
-    number: 775
-    role: "exam"
-    english: "The tired boy is fast asleep."
-    japanese: "その疲れた少年はぐっすり眠っている。"
-    notes: "京都女子大。fast「ぐっすり」。fast asleep「ぐっすり眠って」（= sound asleep）。"
-  - id: "scr-190-p08"
-    section_id: "Scr_190"
-    drill: 1
-    number: 776
-    role: "exam"
-    english: "I can't go to the meeting tomorrow. Susan told me you can't either."
-    japanese: "私は明日会合に行けない。スーザンが、あなたも行けないと言っていた。"
-    notes: "〈頻出〉芝浦工大。either〔否定文で〕「〜もまた（…でない）」。肯定文ではtoo/alsoを使う。ただしalso can'tの語順ならalsoも否定文で使える。"
-
+- id: scr-190-p01
+  section_id: Scr_190
+  drill: 1
+  number: 769
+  role: exam
+  english: The woman checked if there were any seats available on the flight.
+  japanese: その女性は飛行機に空席があるかどうか調べた。
+  notes: 〈頻出〉立命館大。available「入手できる/利用できる」。
+- id: scr-190-e01
+  section_id: Scr_190
+  drill: 0
+  number: 1
+  role: example
+  english: Let me know when you're available.
+  japanese: いつ空いているか教えてください。
+  notes: 問769プラスα。available「（人が）手が空いている/暇である/面会できる」。
+- id: scr-190-p02
+  section_id: Scr_190
+  drill: 1
+  number: 770
+  role: exam
+  english: I bought a new car at a reasonable price.
+  japanese: 手ごろな値段で新車を手に入れた。
+  notes: 早大。穴埋め（r-）。reasonable「（料金などが）手ごろな/妥当な」。reason「理性/道理」→ reasonable「理にかなった→妥当な/手ごろな」。
+- id: scr-190-p03
+  section_id: Scr_190
+  drill: 1
+  number: 771
+  role: exam
+  english: The beef was so tough that I could not cut it with my knife.
+  japanese: その牛肉はかたすぎてナイフで切れなかった。
+  notes: 立命館大。tough「（肉などが）かたい」⇔ tender「やわらかい」。so...that〜「とても…なので〜」。
+- id: scr-190-p04
+  section_id: Scr_190
+  drill: 1
+  number: 772
+  role: exam
+  english: Sarah is always able to answer the teacher's questions. She is such a smart girl.
+  japanese: サラはいつも先生の質問に答えることができる。彼女はとても利口な女の子です。
+  notes: センター。smart「頭の良い/利口な」。「スマートな/ほっそりした」はslender/slimを使う。
+- id: scr-190-p05
+  section_id: Scr_190
+  drill: 1
+  number: 773
+  role: exam
+  english: (a) The movie will start at 14:00 sharp. (b) Make a sharp left turn at the corner.
+  japanese: (a) その映画は午後2時ちょうどに始まります。 (b) その角を急角度で左折しなさい。
+  notes: '国士舘大。共通語句問題。sharp: (a)副詞「きっかりに/ちょうどに」（= exactly/on the dot）、(b)形容詞「（回転・カーブなどが）急な」。'
+- id: scr-190-e02
+  section_id: Scr_190
+  drill: 0
+  number: 2
+  role: example
+  english: Be careful of the sharp turn ahead.
+  japanese: この先の急カーブに注意してください。
+  notes: 問773解説。sharp「急な」の用例。
+- id: scr-190-p06
+  section_id: Scr_190
+  drill: 1
+  number: 774
+  role: exam
+  english: I am afraid my watch is three minutes fast.
+  japanese: 私の時計は3分進んでいると思います。
+  notes: 札幌大。fast「（時計が）進んで」⇔ slow「（時計が）遅れて」。
+- id: scr-190-e03
+  section_id: Scr_190
+  drill: 0
+  number: 3
+  role: example
+  english: I missed the bus because my watch was slow.
+  japanese: 時計が遅れていたせいでバスに乗り遅れた。
+  notes: 問774解説。slow「（時計が）遅れて」。fastの反意語。
+- id: scr-190-p07
+  section_id: Scr_190
+  drill: 1
+  number: 775
+  role: exam
+  english: The tired boy is fast asleep.
+  japanese: その疲れた少年はぐっすり眠っている。
+  notes: 京都女子大。fast「ぐっすり」。fast asleep「ぐっすり眠って」（= sound asleep）。
+- id: scr-190-p08
+  section_id: Scr_190
+  drill: 1
+  number: 776
+  role: exam
+  english: I can't go to the meeting tomorrow. Susan told me you can't either.
+  japanese: 私は明日会合に行けない。スーザンが、あなたも行けないと言っていた。
+  notes: 〈頻出〉芝浦工大。either〔否定文で〕「〜もまた（…でない）」。肯定文ではtoo/alsoを使う。ただしalso can'tの語順ならalsoも否定文で使える。
 sentence_structures:
-  - sentence_id: "scr-190-p01"
-    label: "overall"
-    value: "S V O"
-  - sentence_id: "scr-190-p01"
-    label: "details"
-    value: "<The woman>(S) checked(V) <if there were any seats available on the flight>(O:if節)"
-  - sentence_id: "scr-190-e01"
-    label: "overall"
-    value: "V O M"
-  - sentence_id: "scr-190-e01"
-    label: "details"
-    value: "Let(V:使役) <me>(O) know(V) [when you're available](M:時節)"
-  - sentence_id: "scr-190-p02"
-    label: "overall"
-    value: "S V O M"
-  - sentence_id: "scr-190-p02"
-    label: "details"
-    value: "<I>(S) bought(V) <a new car>(O) [at a reasonable price](M)"
-  - sentence_id: "scr-190-p03"
-    label: "overall"
-    value: "S V C M"
-  - sentence_id: "scr-190-p03"
-    label: "details"
-    value: "<The beef>(S) was(V) <so tough>(C:形容詞) [that I could not cut it with my knife](M:結果のthat節)"
-  - sentence_id: "scr-190-p04"
-    label: "overall"
-    value: "S V C / S V C"
-  - sentence_id: "scr-190-p04"
-    label: "details"
-    value: "<Sarah>(S) is always able(V) <to answer the teacher's questions>(C:不定詞) / <She>(S) is(V) <such a smart girl>(C)"
-  - sentence_id: "scr-190-p05"
-    label: "overall"
-    value: "(a) S V M / (b) V O M"
-  - sentence_id: "scr-190-p05"
-    label: "details"
-    value: "(a) <The movie>(S) will start(V) [at 14:00 sharp](M:時) / (b) Make(V:命令文) <a sharp left turn>(O) [at the corner](M:場所)"
-  - sentence_id: "scr-190-e02"
-    label: "overall"
-    value: "V C M"
-  - sentence_id: "scr-190-e02"
-    label: "details"
-    value: "Be(V:命令文) <careful>(C:形容詞) [of the sharp turn ahead](M)"
-  - sentence_id: "scr-190-p06"
-    label: "overall"
-    value: "S V O"
-  - sentence_id: "scr-190-p06"
-    label: "details"
-    value: "<I>(S) am afraid(V) <my watch is three minutes fast>(O:that省略節)"
-  - sentence_id: "scr-190-e03"
-    label: "overall"
-    value: "S V O M"
-  - sentence_id: "scr-190-e03"
-    label: "details"
-    value: "<I>(S) missed(V) <the bus>(O) [because my watch was slow](M:理由節)"
-  - sentence_id: "scr-190-p07"
-    label: "overall"
-    value: "S V C"
-  - sentence_id: "scr-190-p07"
-    label: "details"
-    value: "<The tired boy>(S) is(V) <fast asleep>(C:形容詞)"
-  - sentence_id: "scr-190-p08"
-    label: "overall"
-    value: "S V M / S V O O"
-  - sentence_id: "scr-190-p08"
-    label: "details"
-    value: "<I>(S) can't go(V) [to the meeting tomorrow](M) / <Susan>(S) told(V) <me>(O1) <you can't either>(O2:that省略節)"
-
+- sentence_id: scr-190-p01
+  label: overall
+  value: S V O
+- sentence_id: scr-190-p01
+  label: details
+  value: <The woman>(S) checked(V) <if there were any seats available on the flight>(O:if節)
+- sentence_id: scr-190-e01
+  label: overall
+  value: V O M
+- sentence_id: scr-190-e01
+  label: details
+  value: Let(V:使役) <me>(O) know(V) [when you're available](M:時節)
+- sentence_id: scr-190-p02
+  label: overall
+  value: S V O M
+- sentence_id: scr-190-p02
+  label: details
+  value: <I>(S) bought(V) <a new car>(O) [at a reasonable price](M)
+- sentence_id: scr-190-p03
+  label: overall
+  value: S V C M
+- sentence_id: scr-190-p03
+  label: details
+  value: <The beef>(S) was(V) <so tough>(C:形容詞) [that I could not cut it with my knife](M:結果のthat節)
+- sentence_id: scr-190-p04
+  label: overall
+  value: S V C / S V C
+- sentence_id: scr-190-p04
+  label: details
+  value: <Sarah>(S) is always able(V) <to answer the teacher's questions>(C:不定詞) / <She>(S) is(V) <such a smart girl>(C)
+- sentence_id: scr-190-p05
+  label: overall
+  value: (a) S V M / (b) V O M
+- sentence_id: scr-190-p05
+  label: details
+  value: (a) <The movie>(S) will start(V) [at 14:00 sharp](M:時) / (b) Make(V:命令文) <a sharp left turn>(O) [at the corner](M:場所)
+- sentence_id: scr-190-e02
+  label: overall
+  value: V C M
+- sentence_id: scr-190-e02
+  label: details
+  value: Be(V:命令文) <careful>(C:形容詞) [of the sharp turn ahead](M)
+- sentence_id: scr-190-p06
+  label: overall
+  value: S V O
+- sentence_id: scr-190-p06
+  label: details
+  value: <I>(S) am afraid(V) <my watch is three minutes fast>(O:that省略節)
+- sentence_id: scr-190-e03
+  label: overall
+  value: S V O M
+- sentence_id: scr-190-e03
+  label: details
+  value: <I>(S) missed(V) <the bus>(O) [because my watch was slow](M:理由節)
+- sentence_id: scr-190-p07
+  label: overall
+  value: S V C
+- sentence_id: scr-190-p07
+  label: details
+  value: <The tired boy>(S) is(V) <fast asleep>(C:形容詞)
+- sentence_id: scr-190-p08
+  label: overall
+  value: S V M / S V O O
+- sentence_id: scr-190-p08
+  label: details
+  value: <I>(S) can't go(V) [to the meeting tomorrow](M) / <Susan>(S) told(V) <me>(O1) <you can't either>(O2:that省略節)
 sentence_knowledge_tags:
-  - sentence_id: "scr-190-p01"
-    node_id: "sgi-004"
-  - sentence_id: "scr-190-e01"
-    node_id: "sgi-004"
-  - sentence_id: "scr-190-p02"
-    node_id: "sgi-004"
-  - sentence_id: "scr-190-p03"
-    node_id: "sgi-004"
-  - sentence_id: "scr-190-p04"
-    node_id: "sgi-004"
-  - sentence_id: "scr-190-p05"
-    node_id: "sgi-004"
-  - sentence_id: "scr-190-e02"
-    node_id: "sgi-004"
-  - sentence_id: "scr-190-p06"
-    node_id: "sgi-004"
-  - sentence_id: "scr-190-e03"
-    node_id: "sgi-004"
-  - sentence_id: "scr-190-p07"
-    node_id: "sgi-004"
-  - sentence_id: "scr-190-p08"
-    node_id: "sgi-004"
+- sentence_id: scr-190-p01
+  node_id: sgi-004
+- sentence_id: scr-190-e01
+  node_id: sgi-004
+- sentence_id: scr-190-p02
+  node_id: sgi-004
+- sentence_id: scr-190-p03
+  node_id: sgi-004
+- sentence_id: scr-190-p04
+  node_id: sgi-004
+- sentence_id: scr-190-p05
+  node_id: sgi-004
+- sentence_id: scr-190-e02
+  node_id: sgi-004
+- sentence_id: scr-190-p06
+  node_id: sgi-004
+- sentence_id: scr-190-e03
+  node_id: sgi-004
+- sentence_id: scr-190-p07
+  node_id: sgi-004
+- sentence_id: scr-190-p08
+  node_id: sgi-004

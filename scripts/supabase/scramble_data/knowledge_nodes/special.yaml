@@ -302,22 +302,29 @@ node_prerequisites: []
 knowledge_references:
   - node_id: "sdr-001"
     book: "スクランブル英文法・語法"
-    location: "特別編1-2"
+    section_id: null
+    pages: "特別編1-2"
   - node_id: "sdr-002"
     book: "スクランブル英文法・語法"
-    location: "特別編3"
+    section_id: null
+    pages: "特別編3"
   - node_id: "sdr-003"
     book: "スクランブル英文法・語法"
-    location: "特別編4"
+    section_id: null
+    pages: "特別編4"
   - node_id: "sdr-004"
     book: "スクランブル英文法・語法"
-    location: "特別編5-6"
+    section_id: null
+    pages: "特別編5-6"
   - node_id: "sdr-005"
     book: "スクランブル英文法・語法"
-    location: "特別編7-8"
+    section_id: null
+    pages: "特別編7-8"
   - node_id: "sdr-006"
     book: "スクランブル英文法・語法"
-    location: "特別編9"
+    section_id: null
+    pages: "特別編9"
   - node_id: "sdr-007"
     book: "スクランブル英文法・語法"
-    location: "特別編10"
+    section_id: null
+    pages: "特別編10"

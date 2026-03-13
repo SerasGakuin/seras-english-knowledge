@@ -1,193 +1,211 @@
 knowledge_nodes:
-  - id: "skw-004"
-    name: "電話の会話表現"
-    category: "会話表現"
-    priority: "P1"
-    notes: |
-      Theme 256単独。電話場面の会話表現。
-      This is A (speaking).「こちらAです」(通例I am Aとは言わない)、May I speak to C?=Can I talk to C, please?=I'd like to speak to C, please.「Cさんをお願いします」、C is not in.=C is out.=C is not here.「Cは外出中です」、Is this C?「Cさんですか」、You have the wrong number.「番号違いですよ」(I'm afraid/I'm sorryで語調をやわらげることが多い)、Who's calling, please?=Who is this[it], please?「どちらさまですか」、Can I take a message?「ご伝言をうかがいましょうか」(〈比較〉leave a message「伝言を残す/頼む」)、call〜back「〜に折り返し電話する」(Shall I have him call you back?「折り返し彼に電話させましょうか」)、You are wanted on the phone.=There is someone for you on the phone.「あなたに電話です」、put A through to C「Aの電話をCにつなぐ」(extension「内線（番号）」)、Just a moment[minute/second], please.=Wait a moment, please.「ちょっとお待ちください」、hang up「電話を切る」(受話器をぶら下げる動作から)、hold the line=hold on「(電話を切らないで)待つ」。
-      プラスα: The line is busy.「お話し中です」(⇨764)。
+- id: skw-004
+  name: 電話の会話表現
+  category: 会話表現
+  priority: P1
+  notes: 'Theme 256単独。電話場面の会話表現。
 
-  - id: "skw-005"
-    name: "道案内・乗り物の会話表現"
-    category: "会話表現"
-    priority: "P2"
-    notes: |
-      Theme 257単独。道案内と乗り物に関する会話表現。
-      Excuse me.「失礼ですが」(後ろにbutを入れることも多い。他の用法: ①「ちょっと失礼」人の前を通るとき、②「ごめんなさい」失礼なことをしたとき、③ Excuse me?「もう一度言ってくれますか」=Pardon?)、Could[Would] you tell me the way to A?=Could you tell me how to get to A?「Aに行く道を教えていただけませんか」(Couldのほうが丁寧)、go down A「Aをずっと行く」(downは「に沿って」=along。高低は関係ない)、Turn right[left] at A.「Aを右[左]に曲がってください」、That's right.「その通りです」(=That's for sure. 〈比較〉That's all right.は「いいんですよ」お礼・お詫びへの応答⇨1319)、I'm a stranger (around) here.「この辺は初めてです」(⇨754)、How can I get to A?「Aにはどう行けばいいですか」、get[go] downtown「繁華街へ行く」(downtownは副詞。to downtown不可⇨PU!153)、go by bus「バスで行く」(by+無冠詞名詞⇨161。cf. on a bus)、How often do the buses run?「バスはどのくらいの間隔で？」(⇨242)、every ten minutes=every tenth minute「10分おきに」(⇨324)、Here we are.「さあ着きました」(〈比較〉Here you are.「はい，どうぞ」物を差し出す⇨1353)、see A off「Aを見送る」(⇨929)。
-      I hope〜「(望ましいことを予想して)〜と思う」(〈比較〉I'm afraid〜は望ましくないこと⇨PU!89)。
+    This is A (speaking).「こちらAです」(通例I am Aとは言わない)、May I speak to C?=Can I talk to C, please?=I''d like to speak to C, please.「Cさんをお願いします」、C is not in.=C is out.=C is not here.「Cは外出中です」、Is this C?「Cさんですか」、You
+    have the wrong number.「番号違いですよ」(I''m afraid/I''m sorryで語調をやわらげることが多い)、Who''s calling, please?=Who is this[it], please?「どちらさまですか」、Can I take a message?「ご伝言をうかがいましょうか」(〈比較〉leave a message「伝言を残す/頼む」)、call〜back「〜に折り返し電話する」(Shall
+    I have him call you back?「折り返し彼に電話させましょうか」)、You are wanted on the phone.=There is someone for you on the phone.「あなたに電話です」、put A through to C「Aの電話をCにつなぐ」(extension「内線（番号）」)、Just a moment[minute/second],
+    please.=Wait a moment, please.「ちょっとお待ちください」、hang up「電話を切る」(受話器をぶら下げる動作から)、hold the line=hold on「(電話を切らないで)待つ」。
 
-  - id: "skw-006"
-    name: "健康・病気の会話表現"
-    category: "会話表現"
-    priority: "P2"
-    notes: |
-      Theme 258単独。健康・病気の場面の会話表現。
-      What's the matter (with you)?=What's wrong (with you)?「どうしましたか」(実際に相手の健康を心配して尋ねる表現。How are you?は単なるあいさつ)、Are you feeling all right?「気分は大丈夫？」、How are you feeling?「気分はどうですか」、I've got[I have] a slight cold.「少し風邪をひいています」(have a bad cold「ひどい風邪」)、What seems to be the trouble[problem]?「どうなさいましたか」(医者に最初に聞かれる表現)、come down with〜「(風邪など一時的な病気)にかかる」、have a fever[temperature]「熱がある」、take A's temperature「Aの熱を測る」(ˣtake A's feverとは言わない)、I have a headache[toothache/stomachache].「頭[歯/おなか]が痛い」(haveを使う点に注意)、That's too bad.「それはお気の毒に/それは残念だ」、catch (a) cold「風邪をひく」(しばしば無冠詞だが形容詞を伴う場合はaが必要: catch a bad cold。〈比較〉have a cold「風邪をひいている」は状態)、What a shame[pity]!「それは残念だ」(shame「残念なこと/遺憾なこと」⇨761,1350)、Maybe next time.「また今度ね」。
+    プラスα: The line is busy.「お話し中です」(⇨764)。
 
-  - id: "skw-007"
-    name: "食事・買い物の会話表現"
-    category: "会話表現"
-    priority: "P2"
-    notes: |
-      Theme 259+260統合。食事・レストランと買い物の場面の会話表現。
-      【Theme 259 — 食事・レストラン】Would you like another cup of tea?「もう一杯いかがですか」(⇨1328)、No, thank you[No, thanks].「いいえ，結構です」、I've had enough.「十分いただきました」(プラスα: have had enough of〜「〜はもううんざりだ」)、Would you like〜?「〜はいかがですか」(Do you want〜?の丁寧表現)、help oneself (to)〜「(〜を)自由に取って食べる[飲む]」(⇨337)、Would[Will] you pass (me) the A?「Aを取ってもらえますか」、Here you are.「はい，どうぞ」(物を手渡す表現。手渡す相手に重点→Here you are.、物に重点→Here it is.)、How do you like A?「どのようなAをお好みですか」(ステーキの焼き加減etc。I like my coffee strong./weak⇨768)、Are you ready to order?=May I take[have] your order, please?「ご注文はお決まりですか」、I'd like〜「〜をいただきたい」(wantより丁寧)、Same here, please.=Same for me, please.「私にも同じものを」、How much is the bill?「いくらですか」(Bill, please.「お勘定を」、Let's split the bill.「割り勘にしよう」)、It's on me.「私がおごる」(=This is my treat.=I'll treat you.の方が丁寧)。
-      【Theme 260 — 買い物】May[Can] I help you?「いらっしゃいませ/何にいたしましょうか」(mayのほうが丁寧。プラスα: Are you being served[waited on]?=Have you been served?「ご用件はうけたまわっておりますか」)、I'm just looking.「見ているだけです」、Take your time, please.「どうぞごゆっくり」(⇨1082)、I'm looking for A.「Aを探しています」、have A in mind「Aを考えている」(⇨1075。Do you have anything in mind?「何か決めているものは？」)、What size do you wear?=What is your size?「サイズはいくつですか」、try on〜「〜を試着する」(⇨924)、How much is A?=What[ˣHow much] is the price of A?「Aはいくらですか」(会話ではHow much?だけも多い)、It's a little expensive.「ちょっと高いですね」(高い/安いはexpensive/cheap⇨659)、I'll take it.「それをいただきます」。
+    '
+- id: skw-005
+  name: 道案内・乗り物の会話表現
+  category: 会話表現
+  priority: P2
+  notes: 'Theme 257単独。道案内と乗り物に関する会話表現。
 
-  - id: "skw-008"
-    name: "その他の重要会話表現"
-    category: "会話表現"
-    priority: "P2"
-    notes: |
-      Theme 261単独。その他の重要な日常会話表現。
-      Do you have the time?「今何時ですか」(=What time is it? 〈比較〉Do you have time?「お時間はありますか」theの有無で意味が変わる)、Let me see.「えーと/そうですね」(即座に返答できないときの決まり文句)、right now「ちょうど今/現在」(プラスα:「すぐに/直ちに」の意味も⇨1184)、Guess what!「あのねえ」(意外な話の切り出し)、No kidding!「冗談でしょう」(=You're kidding!/You must be kidding!)、That depends.「状況次第だ/それは時と場合による」(=It (all) depends./Depends.。dependsの後にon (the) circumstances[the case]が省略⇨973)、make it「間に合う/都合をつける」(⇨1119)、That's a shame.「それは残念だ」(shame「残念なこと」⇨761,1350)、Would you mind not doing?「〜するのをやめていただけますか」(⇨1333)、I beg your pardon?「もう一度おっしゃってください」(=Beg your pardon?/Pardon (me)?。相手の発言が聞き取れなかったとき)、ask A if[whether] A would[could] do「Aに〜してくれないかと言う」、What has become of A?=What has happened to A?「Aはどうなったのか」(⇨260)、(It's) None of your business.=Mind your own business.「あなたの知ったことではない」。
+    Excuse me.「失礼ですが」(後ろにbutを入れることも多い。他の用法: ①「ちょっと失礼」人の前を通るとき、②「ごめんなさい」失礼なことをしたとき、③ Excuse me?「もう一度言ってくれますか」=Pardon?)、Could[Would] you tell me the way to A?=Could you tell me how to get to A?「Aに行く道を教えていただけませんか」(Couldのほうが丁寧)、go
+    down A「Aをずっと行く」(downは「に沿って」=along。高低は関係ない)、Turn right[left] at A.「Aを右[左]に曲がってください」、That''s right.「その通りです」(=That''s for sure. 〈比較〉That''s all right.は「いいんですよ」お礼・お詫びへの応答⇨1319)、I''m a stranger (around)
+    here.「この辺は初めてです」(⇨754)、How can I get to A?「Aにはどう行けばいいですか」、get[go] downtown「繁華街へ行く」(downtownは副詞。to downtown不可⇨PU!153)、go by bus「バスで行く」(by+無冠詞名詞⇨161。cf. on a bus)、How often do the buses run?「バスはどのくらいの間隔で？」(⇨242)、every
+    ten minutes=every tenth minute「10分おきに」(⇨324)、Here we are.「さあ着きました」(〈比較〉Here you are.「はい，どうぞ」物を差し出す⇨1353)、see A off「Aを見送る」(⇨929)。
 
+    I hope〜「(望ましいことを予想して)〜と思う」(〈比較〉I''m afraid〜は望ましくないこと⇨PU!89)。
+
+    '
+- id: skw-006
+  name: 健康・病気の会話表現
+  category: 会話表現
+  priority: P2
+  notes: 'Theme 258単独。健康・病気の場面の会話表現。
+
+    What''s the matter (with you)?=What''s wrong (with you)?「どうしましたか」(実際に相手の健康を心配して尋ねる表現。How are you?は単なるあいさつ)、Are you feeling all right?「気分は大丈夫？」、How are you feeling?「気分はどうですか」、I''ve got[I have] a slight
+    cold.「少し風邪をひいています」(have a bad cold「ひどい風邪」)、What seems to be the trouble[problem]?「どうなさいましたか」(医者に最初に聞かれる表現)、come down with〜「(風邪など一時的な病気)にかかる」、have a fever[temperature]「熱がある」、take A''s temperature「Aの熱を測る」(ˣtake
+    A''s feverとは言わない)、I have a headache[toothache/stomachache].「頭[歯/おなか]が痛い」(haveを使う点に注意)、That''s too bad.「それはお気の毒に/それは残念だ」、catch (a) cold「風邪をひく」(しばしば無冠詞だが形容詞を伴う場合はaが必要: catch a bad cold。〈比較〉have a cold「風邪をひいている」は状態)、What
+    a shame[pity]!「それは残念だ」(shame「残念なこと/遺憾なこと」⇨761,1350)、Maybe next time.「また今度ね」。
+
+    '
+- id: skw-007
+  name: 食事・買い物の会話表現
+  category: 会話表現
+  priority: P2
+  notes: 'Theme 259+260統合。食事・レストランと買い物の場面の会話表現。
+
+    【Theme 259 — 食事・レストラン】Would you like another cup of tea?「もう一杯いかがですか」(⇨1328)、No, thank you[No, thanks].「いいえ，結構です」、I''ve had enough.「十分いただきました」(プラスα: have had enough of〜「〜はもううんざりだ」)、Would you like〜?「〜はいかがですか」(Do
+    you want〜?の丁寧表現)、help oneself (to)〜「(〜を)自由に取って食べる[飲む]」(⇨337)、Would[Will] you pass (me) the A?「Aを取ってもらえますか」、Here you are.「はい，どうぞ」(物を手渡す表現。手渡す相手に重点→Here you are.、物に重点→Here it is.)、How do you like A?「どのようなAをお好みですか」(ステーキの焼き加減etc。I
+    like my coffee strong./weak⇨768)、Are you ready to order?=May I take[have] your order, please?「ご注文はお決まりですか」、I''d like〜「〜をいただきたい」(wantより丁寧)、Same here, please.=Same for me, please.「私にも同じものを」、How much is
+    the bill?「いくらですか」(Bill, please.「お勘定を」、Let''s split the bill.「割り勘にしよう」)、It''s on me.「私がおごる」(=This is my treat.=I''ll treat you.の方が丁寧)。
+
+    【Theme 260 — 買い物】May[Can] I help you?「いらっしゃいませ/何にいたしましょうか」(mayのほうが丁寧。プラスα: Are you being served[waited on]?=Have you been served?「ご用件はうけたまわっておりますか」)、I''m just looking.「見ているだけです」、Take your time, please.「どうぞごゆっくり」(⇨1082)、I''m
+    looking for A.「Aを探しています」、have A in mind「Aを考えている」(⇨1075。Do you have anything in mind?「何か決めているものは？」)、What size do you wear?=What is your size?「サイズはいくつですか」、try on〜「〜を試着する」(⇨924)、How much is A?=What[ˣHow
+    much] is the price of A?「Aはいくらですか」(会話ではHow much?だけも多い)、It''s a little expensive.「ちょっと高いですね」(高い/安いはexpensive/cheap⇨659)、I''ll take it.「それをいただきます」。
+
+    '
+- id: skw-008
+  name: その他の重要会話表現
+  category: 会話表現
+  priority: P2
+  notes: 'Theme 261単独。その他の重要な日常会話表現。
+
+    Do you have the time?「今何時ですか」(=What time is it? 〈比較〉Do you have time?「お時間はありますか」theの有無で意味が変わる)、Let me see.「えーと/そうですね」(即座に返答できないときの決まり文句)、right now「ちょうど今/現在」(プラスα:「すぐに/直ちに」の意味も⇨1184)、Guess what!「あのねえ」(意外な話の切り出し)、No
+    kidding!「冗談でしょう」(=You''re kidding!/You must be kidding!)、That depends.「状況次第だ/それは時と場合による」(=It (all) depends./Depends.。dependsの後にon (the) circumstances[the case]が省略⇨973)、make it「間に合う/都合をつける」(⇨1119)、That''s
+    a shame.「それは残念だ」(shame「残念なこと」⇨761,1350)、Would you mind not doing?「〜するのをやめていただけますか」(⇨1333)、I beg your pardon?「もう一度おっしゃってください」(=Beg your pardon?/Pardon (me)?。相手の発言が聞き取れなかったとき)、ask A if[whether] A would[could]
+    do「Aに〜してくれないかと言う」、What has become of A?=What has happened to A?「Aはどうなったのか」(⇨260)、(It''s) None of your business.=Mind your own business.「あなたの知ったことではない」。
+
+    '
 understanding_goals:
-  - node_id: "skw-004"
-    seq: 1
-    goal: "電話での基本的なやりとり（名乗り・取り次ぎ・伝言・間違い電話）の定型表現を使える"
-  - node_id: "skw-004"
-    seq: 2
-    goal: "take a messageとleave a messageの違いを説明できる"
-  - node_id: "skw-004"
-    seq: 3
-    goal: "電話特有の表現（This is A speaking. / hang up / hold the line / put A through to C）を理解している"
-  - node_id: "skw-005"
-    seq: 1
-    goal: "道を尋ねる・教える場面の定型表現を使える"
-  - node_id: "skw-005"
-    seq: 2
-    goal: "Here we are.（着きました）とHere you are.（はい，どうぞ）を区別できる"
-  - node_id: "skw-005"
-    seq: 3
-    goal: "That's right.（その通り）とThat's all right.（いいんですよ）を区別できる"
-  - node_id: "skw-006"
-    seq: 1
-    goal: "体調を尋ねる表現（What's the matter? / What seems to be the trouble?等）を場面に応じて使い分けられる"
-  - node_id: "skw-006"
-    seq: 2
-    goal: "catch a cold（風邪をひく）とhave a cold（風邪をひいている）の違いを説明できる"
-  - node_id: "skw-006"
-    seq: 3
-    goal: "take A's temperatureは可だがtake A's feverは不可であることを知っている"
-  - node_id: "skw-007"
-    seq: 1
-    goal: "レストラン・食事場面の定型表現（注文・勧め・会計）を使える"
-  - node_id: "skw-007"
-    seq: 2
-    goal: "買い物場面の定型表現（接客・試着・値段交渉・購入）を使える"
-  - node_id: "skw-007"
-    seq: 3
-    goal: "Here you are.とHere it is.の使い分け（相手に重点か物に重点か）を説明できる"
-  - node_id: "skw-007"
-    seq: 4
-    goal: "How do you like A?が好みの程度だけでなく調理法等を尋ねる表現としても使えることを理解している"
-  - node_id: "skw-008"
-    seq: 1
-    goal: "Do you have the time?（何時ですか）とDo you have time?（時間はありますか）の違いを説明できる"
-  - node_id: "skw-008"
-    seq: 2
-    goal: "I beg your pardon? が聞き返しの表現であることを理解している"
-  - node_id: "skw-008"
-    seq: 3
-    goal: "That depends. / Guess what! / No kidding! 等の会話の決まり文句を適切な場面で使える"
-
+- node_id: skw-004
+  seq: 1
+  goal: 電話での基本的なやりとり（名乗り・取り次ぎ・伝言・間違い電話）の定型表現を使える
+- node_id: skw-004
+  seq: 2
+  goal: take a messageとleave a messageの違いを説明できる
+- node_id: skw-004
+  seq: 3
+  goal: 電話特有の表現（This is A speaking. / hang up / hold the line / put A through to C）を理解している
+- node_id: skw-005
+  seq: 1
+  goal: 道を尋ねる・教える場面の定型表現を使える
+- node_id: skw-005
+  seq: 2
+  goal: Here we are.（着きました）とHere you are.（はい，どうぞ）を区別できる
+- node_id: skw-005
+  seq: 3
+  goal: That's right.（その通り）とThat's all right.（いいんですよ）を区別できる
+- node_id: skw-006
+  seq: 1
+  goal: 体調を尋ねる表現（What's the matter? / What seems to be the trouble?等）を場面に応じて使い分けられる
+- node_id: skw-006
+  seq: 2
+  goal: catch a cold（風邪をひく）とhave a cold（風邪をひいている）の違いを説明できる
+- node_id: skw-006
+  seq: 3
+  goal: take A's temperatureは可だがtake A's feverは不可であることを知っている
+- node_id: skw-007
+  seq: 1
+  goal: レストラン・食事場面の定型表現（注文・勧め・会計）を使える
+- node_id: skw-007
+  seq: 2
+  goal: 買い物場面の定型表現（接客・試着・値段交渉・購入）を使える
+- node_id: skw-007
+  seq: 3
+  goal: Here you are.とHere it is.の使い分け（相手に重点か物に重点か）を説明できる
+- node_id: skw-007
+  seq: 4
+  goal: How do you like A?が好みの程度だけでなく調理法等を尋ねる表現としても使えることを理解している
+- node_id: skw-008
+  seq: 1
+  goal: Do you have the time?（何時ですか）とDo you have time?（時間はありますか）の違いを説明できる
+- node_id: skw-008
+  seq: 2
+  goal: I beg your pardon? が聞き返しの表現であることを理解している
+- node_id: skw-008
+  seq: 3
+  goal: That depends. / Guess what! / No kidding! 等の会話の決まり文句を適切な場面で使える
 check_points:
-  - node_id: "skw-004"
-    seq: 1
-    question: "電話で「こちらはAです」と名乗るとき、I am A.ではなく何と言うか？"
-    answer: "This is A (speaking). と言う。"
-  - node_id: "skw-004"
-    seq: 2
-    question: "take a message と leave a message の違いは何か？"
-    answer: "take a message は「伝言をうかがう（受ける側）」、leave a message は「伝言を残す・頼む（残す側）」。"
-  - node_id: "skw-004"
-    seq: 3
-    question: "hang up と hold on はそれぞれ何を意味するか？"
-    answer: "hang up は「電話を切る」、hold on (= hold the line) は「電話を切らないで待つ」。"
-  - node_id: "skw-005"
-    seq: 1
-    question: "Here we are. と Here you are. の違いは何か？"
-    answer: "Here we are. は「さあ（目的地に）着きました」。Here you are. は「はい，どうぞ」（物を手渡す表現）。"
-  - node_id: "skw-005"
-    seq: 2
-    question: "That's right. と That's all right. の意味の違いは何か？"
-    answer: "That's right. は「その通りです」（同意）。That's all right. は「いいんですよ」（お礼・お詫びへの応答）。"
-  - node_id: "skw-005"
-    seq: 3
-    question: "go downtown で to は必要か？理由も述べよ。"
-    answer: "不要。downtown は副詞なので to downtown とは言わない。"
-  - node_id: "skw-006"
-    seq: 1
-    question: "catch a cold と have a cold の違いは何か？"
-    answer: "catch a cold は「風邪をひく」（動作）、have a cold は「風邪をひいている」（状態）。"
-  - node_id: "skw-006"
-    seq: 2
-    question: "「熱を測る」は英語で何と言うか？take A's fever は正しいか？"
-    answer: "take A's temperature と言う。take A's fever は不可。"
-  - node_id: "skw-006"
-    seq: 3
-    question: "What's the matter (with you)? は How are you? とどう違うか？"
-    answer: "How are you? は単なるあいさつ。What's the matter? は実際に相手の体調を心配して尋ねる表現。"
-  - node_id: "skw-007"
-    seq: 1
-    question: "Here you are. と Here it is. はどう使い分けるか？"
-    answer: "手渡す相手に重点が置かれる場合は Here you are.、物に重点が置かれる場合は Here it is. を使う。"
-  - node_id: "skw-007"
-    seq: 2
-    question: "It's on me. と I'll treat you. の違いは何か？"
-    answer: "どちらも「おごる」の意味だが、I'll treat you. (= This is my treat.) のほうが It's on me. より丁寧。"
-  - node_id: "skw-007"
-    seq: 3
-    question: "How do you like your coffee? に対して「濃いのが好きです」と答えるには？"
-    answer: "I like it strong. と答える（薄い場合は weak）。"
-  - node_id: "skw-008"
-    seq: 1
-    question: "Do you have the time? と Do you have time? の違いは何か？"
-    answer: "Do you have the time? は「今何時ですか」（= What time is it?）。Do you have time? は「お時間はありますか」。the の有無で意味が変わる。"
-  - node_id: "skw-008"
-    seq: 2
-    question: "That depends. はどういう意味か？またその後に何が省略されているか？"
-    answer: "「状況次第だ/それは時と場合による」。depends の後に on (the) circumstances [the case] が省略されている。"
-  - node_id: "skw-008"
-    seq: 3
-    question: "None of your business. と Mind your own business. はそれぞれ何を意味するか？"
-    answer: "いずれも「あなたの知ったことではない/おせっかいだ」。相手に干渉されたくないときに使う表現。"
-
+- node_id: skw-004
+  seq: 1
+  question: 電話で「こちらはAです」と名乗るとき、I am A.ではなく何と言うか？
+  answer: This is A (speaking). と言う。
+- node_id: skw-004
+  seq: 2
+  question: take a message と leave a message の違いは何か？
+  answer: take a message は「伝言をうかがう（受ける側）」、leave a message は「伝言を残す・頼む（残す側）」。
+- node_id: skw-004
+  seq: 3
+  question: hang up と hold on はそれぞれ何を意味するか？
+  answer: hang up は「電話を切る」、hold on (= hold the line) は「電話を切らないで待つ」。
+- node_id: skw-005
+  seq: 1
+  question: Here we are. と Here you are. の違いは何か？
+  answer: Here we are. は「さあ（目的地に）着きました」。Here you are. は「はい，どうぞ」（物を手渡す表現）。
+- node_id: skw-005
+  seq: 2
+  question: That's right. と That's all right. の意味の違いは何か？
+  answer: That's right. は「その通りです」（同意）。That's all right. は「いいんですよ」（お礼・お詫びへの応答）。
+- node_id: skw-005
+  seq: 3
+  question: go downtown で to は必要か？理由も述べよ。
+  answer: 不要。downtown は副詞なので to downtown とは言わない。
+- node_id: skw-006
+  seq: 1
+  question: catch a cold と have a cold の違いは何か？
+  answer: catch a cold は「風邪をひく」（動作）、have a cold は「風邪をひいている」（状態）。
+- node_id: skw-006
+  seq: 2
+  question: 「熱を測る」は英語で何と言うか？take A's fever は正しいか？
+  answer: take A's temperature と言う。take A's fever は不可。
+- node_id: skw-006
+  seq: 3
+  question: What's the matter (with you)? は How are you? とどう違うか？
+  answer: How are you? は単なるあいさつ。What's the matter? は実際に相手の体調を心配して尋ねる表現。
+- node_id: skw-007
+  seq: 1
+  question: Here you are. と Here it is. はどう使い分けるか？
+  answer: 手渡す相手に重点が置かれる場合は Here you are.、物に重点が置かれる場合は Here it is. を使う。
+- node_id: skw-007
+  seq: 2
+  question: It's on me. と I'll treat you. の違いは何か？
+  answer: どちらも「おごる」の意味だが、I'll treat you. (= This is my treat.) のほうが It's on me. より丁寧。
+- node_id: skw-007
+  seq: 3
+  question: How do you like your coffee? に対して「濃いのが好きです」と答えるには？
+  answer: I like it strong. と答える（薄い場合は weak）。
+- node_id: skw-008
+  seq: 1
+  question: Do you have the time? と Do you have time? の違いは何か？
+  answer: Do you have the time? は「今何時ですか」（= What time is it?）。Do you have time? は「お時間はありますか」。the の有無で意味が変わる。
+- node_id: skw-008
+  seq: 2
+  question: That depends. はどういう意味か？またその後に何が省略されているか？
+  answer: 「状況次第だ/それは時と場合による」。depends の後に on (the) circumstances [the case] が省略されている。
+- node_id: skw-008
+  seq: 3
+  question: None of your business. と Mind your own business. はそれぞれ何を意味するか？
+  answer: いずれも「あなたの知ったことではない/おせっかいだ」。相手に干渉されたくないときに使う表現。
 node_prerequisites:
-  - node_id: "skw-004"
-    prerequisite_id: "skw-003"
-  - node_id: "skw-005"
-    prerequisite_id: "skw-004"
-  - node_id: "skw-006"
-    prerequisite_id: "skw-005"
-  - node_id: "skw-007"
-    prerequisite_id: "skw-006"
-  - node_id: "skw-008"
-    prerequisite_id: "skw-007"
-
+- node_id: skw-004
+  prerequisite_id: skw-003
+- node_id: skw-005
+  prerequisite_id: skw-004
+- node_id: skw-006
+  prerequisite_id: skw-005
+- node_id: skw-007
+  prerequisite_id: skw-006
+- node_id: skw-008
+  prerequisite_id: skw-007
 knowledge_references:
-  - node_id: "skw-004"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_256"
-    pages: ""
-  - node_id: "skw-005"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_257"
-    pages: ""
-  - node_id: "skw-006"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_258"
-    pages: ""
-  - node_id: "skw-007"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_259"
-    pages: ""
-  - node_id: "skw-007"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_260"
-    pages: ""
-  - node_id: "skw-008"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_261"
-    pages: ""
+- node_id: skw-004
+  book: スクランブル英文法・語法
+  section_id: Scr_256
+  pages: ''
+- node_id: skw-005
+  book: スクランブル英文法・語法
+  section_id: Scr_257
+  pages: ''
+- node_id: skw-006
+  book: スクランブル英文法・語法
+  section_id: Scr_258
+  pages: ''
+- node_id: skw-007
+  book: スクランブル英文法・語法
+  section_id: Scr_259
+  pages: ''
+- node_id: skw-008
+  book: スクランブル英文法・語法
+  section_id: Scr_261
+  pages: ''

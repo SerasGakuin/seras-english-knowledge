@@ -1,1621 +1,1411 @@
-# パイロット Phase 1: 3セクション
-
 sections:
-  - id: "Nar_01_01"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "第1〜3文型の判別方法"
-    pages: "p.18-19"
-    type: "concept"
-    notes: ""
-  - id: "Nar_01_16"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "「言う」の意味をもつ動詞"
-    pages: "p.60-62"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_03_01"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "現在形"
-    pages: "p.90-92"
-    type: "concept"
-    notes: ""
-
-  # === Phase 2 B-01: Part 01 前半 ===
-  - id: "Nar_01_02"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "第4〜5文型の判別方法"
-    pages: "p.20-21"
-    type: "concept"
-    notes: ""
-  - id: "Nar_01_03"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "5文型攻略のメリット(1)"
-    pages: "p.22-24"
-    type: "concept"
-    notes: ""
-  - id: "Nar_01_04"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "5文型攻略のメリット(2)"
-    pages: "p.25-27"
-    type: "concept"
-    notes: ""
-  - id: "Nar_01_05"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "〈S+V+O₁+O₂〉をとる重要動詞"
-    pages: "p.28-30"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_01_06"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "〈S+V+O+toV〉をとる重要動詞"
-    pages: "p.31-32"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_01_07"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "使役動詞を用いた〈S+V+O+C〉"
-    pages: "p.33-35"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_01_08"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "知覚動詞を用いた〈S+V+O+C〉"
-    pages: "p.36-38"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_01_09"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "〈S+V+O+C〉をとるその他の重要動詞"
-    pages: "p.39-41"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_01_10"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "自動詞と他動詞"
-    pages: "p.42-44"
-    type: "concept"
-    notes: ""
-  - id: "Nar_01_11"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "パターンで理解する動詞(1) — V+A+with+B"
-    pages: "p.45-47"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_01_12"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "パターンで理解する動詞(2) — V+A+from+B / into+B"
-    pages: "p.48-50"
-    type: "pattern"
-    notes: ""
-
-  # === Phase 2 B-02: Part 01 後半 + Part 02 ===
-  - id: "Nar_01_13"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "パターンで理解する動詞(3) — V+A+for+B / V+A+as+B"
-    pages: "p.51-53"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_01_14"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "パターンで理解する動詞(4) — V+A+of+B / V+A+on+B"
-    pages: "p.54-56"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_01_15"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "パターンで理解する動詞(5) — V+A+to+B"
-    pages: "p.57-59"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_01_17"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "「貸し借り」の意味をもつ動詞"
-    pages: "p.63-65"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_01_18"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "「疑う」の意味をもつ動詞"
-    pages: "p.66-67"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_01_19"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "「合う」の意味をもつ動詞"
-    pages: "p.68-70"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_01_20"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "「盗む、奪う」「書く、描く」の意味をもつ動詞"
-    pages: "p.71-73"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_01_21"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "「思い出す」の意味をもつ動詞"
-    pages: "p.74-75"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_01_22"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "「思いつく」「着用」の意味をもつ動詞"
-    pages: "p.76-77"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_01_23"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "意外な意味をもつ自動詞や他動詞"
-    pages: "p.78-80"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_02_01"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "受動態の意味的特徴"
-    pages: "p.82-84"
-    type: "concept"
-    notes: ""
-  - id: "Nar_02_02"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "受動態の形式的特徴"
-    pages: "p.85-88"
-    type: "concept"
-    notes: ""
-
-  # === Phase 2 B-03: Part 03 時制 ===
-  - id: "Nar_03_02"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "進行形"
-    pages: "p.93-95"
-    type: "concept"
-    notes: ""
-  - id: "Nar_03_03"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "過去形と現在完了形(1)"
-    pages: "p.96-97"
-    type: "concept"
-    notes: ""
-  - id: "Nar_03_04"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "過去形と現在完了形(2)"
-    pages: "p.98-99"
-    type: "concept"
-    notes: ""
-  - id: "Nar_03_05"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "過去完了形"
-    pages: "p.100-102"
-    type: "concept"
-    notes: ""
-  - id: "Nar_03_06"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "未来を表すさまざまな表現(1)"
-    pages: "p.103-105"
-    type: "concept"
-    notes: ""
-  - id: "Nar_03_07"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "未来を表すさまざまな表現(2)"
-    pages: "p.106-109"
-    type: "concept"
-    notes: ""
-  - id: "Nar_03_08"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "時や条件を表す副詞節中の時制、時制の一致"
-    pages: "p.110-113"
-    type: "concept"
-    notes: ""
-  - id: "Nar_03_09"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "動詞の原形について考える(1)"
-    pages: "p.114-115"
-    type: "concept"
-    notes: ""
-  - id: "Nar_03_10"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "動詞の原形について考える(2)"
-    pages: "p.116-118"
-    type: "concept"
-    notes: ""
-
-  # === Phase 2 B-04: Part 04 助動詞 ===
-  - id: "Nar_04_01"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "助動詞とはどういうものか？"
-    pages: "p.120-122"
-    type: "concept"
-    notes: ""
-  - id: "Nar_04_02"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "助動詞may"
-    pages: "p.123-125"
-    type: "concept"
-    notes: ""
-  - id: "Nar_04_03"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "mayを用いた重要表現"
-    pages: "p.126-128"
-    type: "expression"
-    notes: ""
-  - id: "Nar_04_04"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "助動詞can"
-    pages: "p.129-132"
-    type: "concept"
-    notes: ""
-  - id: "Nar_04_05"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "助動詞must"
-    pages: "p.133-135"
-    type: "concept"
-    notes: ""
-  - id: "Nar_04_06"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "助動詞should(1)"
-    pages: "p.136-137"
-    type: "concept"
-    notes: ""
-  - id: "Nar_04_07"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "助動詞should(2)"
-    pages: "p.138-139"
-    type: "concept"
-    notes: ""
-  - id: "Nar_04_08"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "推量の助動詞"
-    pages: "p.140-142"
-    type: "concept"
-    notes: ""
-  - id: "Nar_04_09"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "〈助動詞+have+Vp.p.〉"
-    pages: "p.143-146"
-    type: "concept"
-    notes: ""
-  - id: "Nar_04_10"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "wouldとused toの用法"
-    pages: "p.147-149"
-    type: "concept"
-    notes: ""
-  - id: "Nar_04_11"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "その他の助動詞(1)"
-    pages: "p.150-152"
-    type: "concept"
-    notes: ""
-  - id: "Nar_04_12"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "その他の助動詞(2)"
-    pages: "p.153-156"
-    type: "concept"
-    notes: ""
-
-  # === Phase 2 B-05: Part 05 仮定法 ===
-  - id: "Nar_05_01"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "直説法と仮定法"
-    pages: "p.158-160"
-    type: "concept"
-    notes: ""
-  - id: "Nar_05_02"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "仮定法過去"
-    pages: "p.161-163"
-    type: "concept"
-    notes: ""
-  - id: "Nar_05_03"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "仮定法過去完了、仮定法過去と仮定法過去完了の併用"
-    pages: "p.164-166"
-    type: "concept"
-    notes: ""
-  - id: "Nar_05_04"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "仮定法過去の重要表現"
-    pages: "p.167-168"
-    type: "expression"
-    notes: ""
-  - id: "Nar_05_05"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "ifの省略と倒置"
-    pages: "p.169-170"
-    type: "concept"
-    notes: ""
-  - id: "Nar_05_06"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "if節以外が仮定法の「条件」を表す場合"
-    pages: "p.171-172"
-    type: "concept"
-    notes: ""
-  - id: "Nar_05_07"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "仮定法を使った重要表現(1)"
-    pages: "p.173-175"
-    type: "expression"
-    notes: ""
-  - id: "Nar_05_08"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "仮定法を使った重要表現(2)"
-    pages: "p.176-177"
-    type: "expression"
-    notes: ""
-  - id: "Nar_05_09"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "仮定法を使った重要表現(3)"
-    pages: "p.178-180"
-    type: "expression"
-    notes: ""
-
-  # === Phase 2 B-06: Part 06 前半 ===
-  - id: "Nar_06_01"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "準動詞について"
-    pages: "p.182-184"
-    type: "concept"
-    notes: ""
-  - id: "Nar_06_02"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "不定詞(toV)の3用法"
-    pages: "p.185-187"
-    type: "concept"
-    notes: ""
-  - id: "Nar_06_03"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "Vingの3用法"
-    pages: "p.188-189"
-    type: "concept"
-    notes: ""
-  - id: "Nar_06_04"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "Vp.p.の2用法"
-    pages: "p.190-192"
-    type: "concept"
-    notes: ""
-  - id: "Nar_06_05"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "不定詞の名詞用法vs動名詞(1)"
-    pages: "p.193-196"
-    type: "concept"
-    notes: ""
-  - id: "Nar_06_06"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "不定詞の名詞用法vs動名詞(2)"
-    pages: "p.197-199"
-    type: "concept"
-    notes: ""
-  - id: "Nar_06_07"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "不定詞と分詞の形容詞用法"
-    pages: "p.200-202"
-    type: "concept"
-    notes: ""
-  - id: "Nar_06_08"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "不定詞と分詞の副詞用法(1)"
-    pages: "p.203-206"
-    type: "concept"
-    notes: ""
-  - id: "Nar_06_09"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "不定詞と分詞の副詞用法(2)"
-    pages: "p.207-209"
-    type: "concept"
-    notes: ""
-
-  # B-07: Part 06 後半
-  - id: "Nar_06_10"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "準動詞の意味上の主語(1)"
-    pages: "p.210-212"
-    type: "concept"
-    notes: ""
-  - id: "Nar_06_11"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "準動詞の意味上の主語(2)"
-    pages: "p.213-216"
-    type: "concept"
-    notes: ""
-  - id: "Nar_06_12"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "準動詞の意味上の主語(3)"
-    pages: "p.217-220"
-    type: "concept"
-    notes: ""
-  - id: "Nar_06_13"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "準動詞の時制と否定"
-    pages: "p.221-224"
-    type: "concept"
-    notes: ""
-  - id: "Nar_06_14"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "不定詞を用いた重要表現(1)"
-    pages: "p.225-227"
-    type: "expression"
-    notes: ""
-  - id: "Nar_06_15"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "不定詞を用いた重要表現(2)"
-    pages: "p.228-230"
-    type: "expression"
-    notes: ""
-  - id: "Nar_06_16"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "動名詞を用いた重要表現"
-    pages: "p.231-234"
-    type: "expression"
-    notes: ""
-  - id: "Nar_06_17"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "分詞を用いた重要表現"
-    pages: "p.235-238"
-    type: "expression"
-    notes: ""
-
-  # === Phase 2 B-08: Part 07 接続詞 ===
-  - id: "Nar_07_01"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "等位接続詞(and, but, or)の用法(1)"
-    pages: "p.240-242"
-    type: "concept"
-    notes: ""
-  - id: "Nar_07_02"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "等位接続詞(and, but, or)の用法(2)"
-    pages: "p.243-245"
-    type: "concept"
-    notes: ""
-  - id: "Nar_07_03"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "等位接続詞を用いた重要表現、動詞の一致"
-    pages: "p.246-248"
-    type: "expression"
-    notes: ""
-  - id: "Nar_07_04"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "従属接続詞thatの用法(1)"
-    pages: "p.249-251"
-    type: "concept"
-    notes: ""
-  - id: "Nar_07_05"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "従属接続詞thatの用法(2)"
-    pages: "p.252-254"
-    type: "concept"
-    notes: ""
-  - id: "Nar_07_06"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "従属接続詞whetherとifの用法"
-    pages: "p.255-258"
-    type: "concept"
-    notes: ""
-  - id: "Nar_07_07"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "asの用法"
-    pages: "p.259-261"
-    type: "concept"
-    notes: ""
-  - id: "Nar_07_08"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "「理由」を表す接続詞"
-    pages: "p.262-264"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_07_09"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "「目的・結果」を表す接続詞"
-    pages: "p.265-268"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_07_10"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "「時」を表す接続詞"
-    pages: "p.269-271"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_07_11"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "「条件」を表す接続詞"
-    pages: "p.272-275"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_07_12"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "「逆接・譲歩」を表す接続詞"
-    pages: "p.276-278"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_07_13"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "接続詞 vs. 前置詞"
-    pages: "p.279-281"
-    type: "concept"
-    notes: ""
-  - id: "Nar_07_14"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "接続副詞"
-    pages: "p.282-284"
-    type: "concept"
-    notes: ""
-
-  # === Phase 2 B-09: Part 08 関係詞 ===
-  - id: "Nar_08_01"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "関係詞の働き"
-    pages: "p.286-288"
-    type: "concept"
-    notes: ""
-  - id: "Nar_08_02"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "関係代名詞と関係副詞 — 関係詞決定の手順"
-    pages: "p.289-291"
-    type: "concept"
-    notes: ""
-  - id: "Nar_08_03"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "関係代名詞 who, whom, which の用法"
-    pages: "p.292-294"
-    type: "concept"
-    notes: ""
-  - id: "Nar_08_04"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "関係代名詞 whose の用法"
-    pages: "p.295-297"
-    type: "concept"
-    notes: ""
-  - id: "Nar_08_05"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "関係代名詞 what の用法"
-    pages: "p.298-300"
-    type: "concept"
-    notes: ""
-  - id: "Nar_08_06"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "〈前置詞+関係代名詞〉の用法"
-    pages: "p.301-304"
-    type: "concept"
-    notes: ""
-  - id: "Nar_08_07"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "関係副詞"
-    pages: "p.305-307"
-    type: "concept"
-    notes: ""
-  - id: "Nar_08_08"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "関係形容詞 what、その他の what"
-    pages: "p.308-311"
-    type: "concept"
-    notes: ""
-  - id: "Nar_08_09"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "非制限用法で用いられる関係詞"
-    pages: "p.312-314"
-    type: "concept"
-    notes: ""
-  - id: "Nar_08_10"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "連鎖関係詞"
-    pages: "p.315-317"
-    type: "concept"
-    notes: ""
-  - id: "Nar_08_11"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "その他の関係詞の用法"
-    pages: "p.318-320"
-    type: "concept"
-    notes: ""
-  - id: "Nar_08_12"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "whoever, whichever, whatever の用法"
-    pages: "p.321-324"
-    type: "concept"
-    notes: ""
-  - id: "Nar_08_13"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "whenever, wherever, however の用法"
-    pages: "p.325-328"
-    type: "concept"
-    notes: ""
-  # === Phase 2 B-10: Part 09 前半 前置詞（Nar_09_01〜09_10） ===
-  - id: "Nar_09_01"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "前置詞 by の用法(1)"
-    pages: "p.330-331"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_02"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "前置詞 by の用法(2)"
-    pages: "p.332-333"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_03"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "前置詞 in の用法(1)"
-    pages: "p.334-336"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_04"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "前置詞 in の用法(2)"
-    pages: "p.337-339"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_05"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "前置詞 on の用法(1)"
-    pages: "p.340-341"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_06"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "前置詞 on の用法(2)"
-    pages: "p.342-344"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_07"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "前置詞 at の用法"
-    pages: "p.345-347"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_08"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "前置詞 from の用法(1)"
-    pages: "p.348-349"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_09"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "前置詞 from の用法(2)"
-    pages: "p.350-351"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_10"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "前置詞 to の用法(1)"
-    pages: "p.352-353"
-    type: "pattern"
-    notes: ""
-  # === Phase 2 B-11: Part 09 後半 前置詞 ===
-  - id: "Nar_09_11"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "前置詞 to の用法(2)"
-    pages: "p.354-356"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_12"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "前置詞 for の用法(1)"
-    pages: "p.357-359"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_13"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "前置詞 for の用法(2)"
-    pages: "p.360-362"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_14"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "前置詞 of の用法(1)"
-    pages: "p.363-364"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_15"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "前置詞 of の用法(2)"
-    pages: "p.365-366"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_16"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "前置詞 of の用法(3)"
-    pages: "p.367-369"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_17"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "前置詞 with の用法"
-    pages: "p.370-372"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_18"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "その他の前置詞の用法(1)"
-    pages: "p.373-375"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_19"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "その他の前置詞の用法(2)"
-    pages: "p.376-378"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_09_20"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "その他の前置詞の用法(3)"
-    pages: "p.379-382"
-    type: "pattern"
-    notes: ""
-  # B-12: Part 10 比較
-  - id: "Nar_10_01"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "比較の基本原則"
-    pages: "p.384-386"
-    type: "concept"
-    notes: ""
-  - id: "Nar_10_02"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "原級を用いた表現〈as...as〜〉"
-    pages: "p.387-389"
-    type: "concept"
-    notes: ""
-  - id: "Nar_10_03"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "倍数表現、〈as...as〜〉の注意点"
-    pages: "p.390-392"
-    type: "concept"
-    notes: ""
-  - id: "Nar_10_04"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "原級を使った重要表現(1)"
-    pages: "p.393-395"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_10_05"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "原級を使った重要表現(2)"
-    pages: "p.396-398"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_10_06"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "比較級・最上級の強調"
-    pages: "p.399-401"
-    type: "concept"
-    notes: ""
-  - id: "Nar_10_07"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "比較級を使った重要表現(1)"
-    pages: "p.402-404"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_10_08"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "比較級を使った重要表現(2)"
-    pages: "p.405-408"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_10_09"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "比較級を使った重要表現(3)"
-    pages: "p.409-411"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_10_10"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "比較級を使った重要表現(4)"
-    pages: "p.412-414"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_10_11"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "〈no more...than〜〉の構文"
-    pages: "p.415-417"
-    type: "concept"
-    notes: ""
-  - id: "Nar_10_12"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "最上級相当表現"
-    pages: "p.418-420"
-    type: "pattern"
-    notes: ""
-  # B-13: Part 11 冠詞・名詞
-  - id: "Nar_11_01"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "不定冠詞a[an]の使い方"
-    pages: "p.422-423"
-    type: "concept"
-    notes: ""
-  - id: "Nar_11_02"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "定冠詞theの使い方"
-    pages: "p.424-426"
-    type: "concept"
-    notes: ""
-  - id: "Nar_11_03"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "可算名詞 or 不可算名詞"
-    pages: "p.427-429"
-    type: "concept"
-    notes: "番号付き例文なし（概念解説のみ）"
-  - id: "Nar_11_04"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "「お客」の意味を表すさまざまな名詞"
-    pages: "p.430-431"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_11_05"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "「料金」の意味を表すさまざまな名詞"
-    pages: "p.432-433"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_11_06"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "意味の紛らわしい名詞"
-    pages: "p.434-436"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_11_07"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "注意すべき名詞の使い方"
-    pages: "p.437-438"
-    type: "pattern"
-    notes: "番号付き例文なし（概念解説のみ）"
-  # B-13: Part 12 代名詞
-  - id: "Nar_12_01"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "one, it, thatの用法"
-    pages: "p.440-442"
-    type: "concept"
-    notes: ""
-  - id: "Nar_12_02"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "代名詞の相関的用法 — the otherとthe others"
-    pages: "p.443-444"
-    type: "concept"
-    notes: ""
-  - id: "Nar_12_03"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "代名詞の相関的用法 — anotherとothers"
-    pages: "p.445-446"
-    type: "concept"
-    notes: ""
-  - id: "Nar_12_04"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "2者に対して使う代名詞 — both, either, neither"
-    pages: "p.447-448"
-    type: "concept"
-    notes: ""
-  - id: "Nar_12_05"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "3者以上に対して使う代名詞 — all, any, noneなど"
-    pages: "p.449-450"
-    type: "concept"
-    notes: ""
-  - id: "Nar_12_06"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "itとthat, thisとthatはどう違う？"
-    pages: "p.451-454"
-    type: "concept"
-    notes: ""
-
-  # === Phase 2 B-14: Part 13 形容詞 + Part 14 副詞 + Part 15 特殊構文 ===
-  - id: "Nar_13_01"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "形容詞の働き"
-    pages: "p.456-458"
-    type: "concept"
-    notes: ""
-  - id: "Nar_13_02"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "置かれる位置で意味の異なる形容詞"
-    pages: "p.459-461"
-    type: "concept"
-    notes: ""
-  - id: "Nar_13_03"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "類似品にはご注意(1)"
-    pages: "p.462-464"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_13_04"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "類似品にはご注意(2)"
-    pages: "p.465-466"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_13_05"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "類似品にはご注意(3)"
-    pages: "p.467-468"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_13_06"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "mostやalmostを攻略しよう"
-    pages: "p.469-470"
-    type: "concept"
-    notes: ""
-  - id: "Nar_13_07"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "数量表現"
-    pages: "p.471-473"
-    type: "concept"
-    notes: ""
-  - id: "Nar_13_08"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "特定の名詞と数量表現"
-    pages: "p.474-475"
-    type: "concept"
-    notes: ""
-  - id: "Nar_13_09"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "形容詞の語順"
-    pages: "p.476-478"
-    type: "concept"
-    notes: ""
-  - id: "Nar_14_01"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "副詞の働き"
-    pages: "p.480-481"
-    type: "concept"
-    notes: ""
-  - id: "Nar_14_02"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "「頻度」や「程度」を表す副詞"
-    pages: "p.482-483"
-    type: "concept"
-    notes: ""
-  - id: "Nar_14_03"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "類似品にはご注意"
-    pages: "p.484-486"
-    type: "pattern"
-    notes: ""
-  - id: "Nar_14_04"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "副詞so, too, howとその語順、文修飾の副詞、その他"
-    pages: "p.487-488"
-    type: "concept"
-    notes: ""
-  - id: "Nar_15_01"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "否定について"
-    pages: "p.490-492"
-    type: "concept"
-    notes: ""
-  - id: "Nar_15_02"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "倒置が起こるシステム(1) — 任意倒置"
-    pages: "p.493-495"
-    type: "concept"
-    notes: ""
-  - id: "Nar_15_03"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "倒置が起こるシステム(2) — 強制倒置"
-    pages: "p.496-498"
-    type: "concept"
-    notes: ""
-  - id: "Nar_15_04"
-    book: "成川の深めて解ける！英文法 INPUT"
-    title: "〈there be構文〉について"
-    pages: "p.499-500"
-    type: "concept"
-    notes: ""
-
+- id: Nar_01_01
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 第1〜3文型の判別方法
+  pages: p.18-19
+  type: concept
+- id: Nar_01_16
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 「言う」の意味をもつ動詞
+  pages: p.60-62
+  type: pattern
+- id: Nar_03_01
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 現在形
+  pages: p.90-92
+  type: concept
+- id: Nar_01_02
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 第4〜5文型の判別方法
+  pages: p.20-21
+  type: concept
+- id: Nar_01_03
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 5文型攻略のメリット(1)
+  pages: p.22-24
+  type: concept
+- id: Nar_01_04
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 5文型攻略のメリット(2)
+  pages: p.25-27
+  type: concept
+- id: Nar_01_05
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 〈S+V+O₁+O₂〉をとる重要動詞
+  pages: p.28-30
+  type: pattern
+- id: Nar_01_06
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 〈S+V+O+toV〉をとる重要動詞
+  pages: p.31-32
+  type: pattern
+- id: Nar_01_07
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 使役動詞を用いた〈S+V+O+C〉
+  pages: p.33-35
+  type: pattern
+- id: Nar_01_08
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 知覚動詞を用いた〈S+V+O+C〉
+  pages: p.36-38
+  type: pattern
+- id: Nar_01_09
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 〈S+V+O+C〉をとるその他の重要動詞
+  pages: p.39-41
+  type: pattern
+- id: Nar_01_10
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 自動詞と他動詞
+  pages: p.42-44
+  type: concept
+- id: Nar_01_11
+  book: 成川の深めて解ける！英文法 INPUT
+  title: パターンで理解する動詞(1) — V+A+with+B
+  pages: p.45-47
+  type: pattern
+- id: Nar_01_12
+  book: 成川の深めて解ける！英文法 INPUT
+  title: パターンで理解する動詞(2) — V+A+from+B / into+B
+  pages: p.48-50
+  type: pattern
+- id: Nar_01_13
+  book: 成川の深めて解ける！英文法 INPUT
+  title: パターンで理解する動詞(3) — V+A+for+B / V+A+as+B
+  pages: p.51-53
+  type: pattern
+- id: Nar_01_14
+  book: 成川の深めて解ける！英文法 INPUT
+  title: パターンで理解する動詞(4) — V+A+of+B / V+A+on+B
+  pages: p.54-56
+  type: pattern
+- id: Nar_01_15
+  book: 成川の深めて解ける！英文法 INPUT
+  title: パターンで理解する動詞(5) — V+A+to+B
+  pages: p.57-59
+  type: pattern
+- id: Nar_01_17
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 「貸し借り」の意味をもつ動詞
+  pages: p.63-65
+  type: pattern
+- id: Nar_01_18
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 「疑う」の意味をもつ動詞
+  pages: p.66-67
+  type: pattern
+- id: Nar_01_19
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 「合う」の意味をもつ動詞
+  pages: p.68-70
+  type: pattern
+- id: Nar_01_20
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 「盗む、奪う」「書く、描く」の意味をもつ動詞
+  pages: p.71-73
+  type: pattern
+- id: Nar_01_21
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 「思い出す」の意味をもつ動詞
+  pages: p.74-75
+  type: pattern
+- id: Nar_01_22
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 「思いつく」「着用」の意味をもつ動詞
+  pages: p.76-77
+  type: pattern
+- id: Nar_01_23
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 意外な意味をもつ自動詞や他動詞
+  pages: p.78-80
+  type: pattern
+- id: Nar_02_01
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 受動態の意味的特徴
+  pages: p.82-84
+  type: concept
+- id: Nar_02_02
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 受動態の形式的特徴
+  pages: p.85-88
+  type: concept
+- id: Nar_03_02
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 進行形
+  pages: p.93-95
+  type: concept
+- id: Nar_03_03
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 過去形と現在完了形(1)
+  pages: p.96-97
+  type: concept
+- id: Nar_03_04
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 過去形と現在完了形(2)
+  pages: p.98-99
+  type: concept
+- id: Nar_03_05
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 過去完了形
+  pages: p.100-102
+  type: concept
+- id: Nar_03_06
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 未来を表すさまざまな表現(1)
+  pages: p.103-105
+  type: concept
+- id: Nar_03_07
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 未来を表すさまざまな表現(2)
+  pages: p.106-109
+  type: concept
+- id: Nar_03_08
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 時や条件を表す副詞節中の時制、時制の一致
+  pages: p.110-113
+  type: concept
+- id: Nar_03_09
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 動詞の原形について考える(1)
+  pages: p.114-115
+  type: concept
+- id: Nar_03_10
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 動詞の原形について考える(2)
+  pages: p.116-118
+  type: concept
+- id: Nar_04_01
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 助動詞とはどういうものか？
+  pages: p.120-122
+  type: concept
+- id: Nar_04_02
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 助動詞may
+  pages: p.123-125
+  type: concept
+- id: Nar_04_03
+  book: 成川の深めて解ける！英文法 INPUT
+  title: mayを用いた重要表現
+  pages: p.126-128
+  type: expression
+- id: Nar_04_04
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 助動詞can
+  pages: p.129-132
+  type: concept
+- id: Nar_04_05
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 助動詞must
+  pages: p.133-135
+  type: concept
+- id: Nar_04_06
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 助動詞should(1)
+  pages: p.136-137
+  type: concept
+- id: Nar_04_07
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 助動詞should(2)
+  pages: p.138-139
+  type: concept
+- id: Nar_04_08
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 推量の助動詞
+  pages: p.140-142
+  type: concept
+- id: Nar_04_09
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 〈助動詞+have+Vp.p.〉
+  pages: p.143-146
+  type: concept
+- id: Nar_04_10
+  book: 成川の深めて解ける！英文法 INPUT
+  title: wouldとused toの用法
+  pages: p.147-149
+  type: concept
+- id: Nar_04_11
+  book: 成川の深めて解ける！英文法 INPUT
+  title: その他の助動詞(1)
+  pages: p.150-152
+  type: concept
+- id: Nar_04_12
+  book: 成川の深めて解ける！英文法 INPUT
+  title: その他の助動詞(2)
+  pages: p.153-156
+  type: concept
+- id: Nar_05_01
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 直説法と仮定法
+  pages: p.158-160
+  type: concept
+- id: Nar_05_02
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 仮定法過去
+  pages: p.161-163
+  type: concept
+- id: Nar_05_03
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 仮定法過去完了、仮定法過去と仮定法過去完了の併用
+  pages: p.164-166
+  type: concept
+- id: Nar_05_04
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 仮定法過去の重要表現
+  pages: p.167-168
+  type: expression
+- id: Nar_05_05
+  book: 成川の深めて解ける！英文法 INPUT
+  title: ifの省略と倒置
+  pages: p.169-170
+  type: concept
+- id: Nar_05_06
+  book: 成川の深めて解ける！英文法 INPUT
+  title: if節以外が仮定法の「条件」を表す場合
+  pages: p.171-172
+  type: concept
+- id: Nar_05_07
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 仮定法を使った重要表現(1)
+  pages: p.173-175
+  type: expression
+- id: Nar_05_08
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 仮定法を使った重要表現(2)
+  pages: p.176-177
+  type: expression
+- id: Nar_05_09
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 仮定法を使った重要表現(3)
+  pages: p.178-180
+  type: expression
+- id: Nar_06_01
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 準動詞について
+  pages: p.182-184
+  type: concept
+- id: Nar_06_02
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 不定詞(toV)の3用法
+  pages: p.185-187
+  type: concept
+- id: Nar_06_03
+  book: 成川の深めて解ける！英文法 INPUT
+  title: Vingの3用法
+  pages: p.188-189
+  type: concept
+- id: Nar_06_04
+  book: 成川の深めて解ける！英文法 INPUT
+  title: Vp.p.の2用法
+  pages: p.190-192
+  type: concept
+- id: Nar_06_05
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 不定詞の名詞用法vs動名詞(1)
+  pages: p.193-196
+  type: concept
+- id: Nar_06_06
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 不定詞の名詞用法vs動名詞(2)
+  pages: p.197-199
+  type: concept
+- id: Nar_06_07
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 不定詞と分詞の形容詞用法
+  pages: p.200-202
+  type: concept
+- id: Nar_06_08
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 不定詞と分詞の副詞用法(1)
+  pages: p.203-206
+  type: concept
+- id: Nar_06_09
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 不定詞と分詞の副詞用法(2)
+  pages: p.207-209
+  type: concept
+- id: Nar_06_10
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 準動詞の意味上の主語(1)
+  pages: p.210-212
+  type: concept
+- id: Nar_06_11
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 準動詞の意味上の主語(2)
+  pages: p.213-216
+  type: concept
+- id: Nar_06_12
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 準動詞の意味上の主語(3)
+  pages: p.217-220
+  type: concept
+- id: Nar_06_13
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 準動詞の時制と否定
+  pages: p.221-224
+  type: concept
+- id: Nar_06_14
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 不定詞を用いた重要表現(1)
+  pages: p.225-227
+  type: expression
+- id: Nar_06_15
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 不定詞を用いた重要表現(2)
+  pages: p.228-230
+  type: expression
+- id: Nar_06_16
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 動名詞を用いた重要表現
+  pages: p.231-234
+  type: expression
+- id: Nar_06_17
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 分詞を用いた重要表現
+  pages: p.235-238
+  type: expression
+- id: Nar_07_01
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 等位接続詞(and, but, or)の用法(1)
+  pages: p.240-242
+  type: concept
+- id: Nar_07_02
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 等位接続詞(and, but, or)の用法(2)
+  pages: p.243-245
+  type: concept
+- id: Nar_07_03
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 等位接続詞を用いた重要表現、動詞の一致
+  pages: p.246-248
+  type: expression
+- id: Nar_07_04
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 従属接続詞thatの用法(1)
+  pages: p.249-251
+  type: concept
+- id: Nar_07_05
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 従属接続詞thatの用法(2)
+  pages: p.252-254
+  type: concept
+- id: Nar_07_06
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 従属接続詞whetherとifの用法
+  pages: p.255-258
+  type: concept
+- id: Nar_07_07
+  book: 成川の深めて解ける！英文法 INPUT
+  title: asの用法
+  pages: p.259-261
+  type: concept
+- id: Nar_07_08
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 「理由」を表す接続詞
+  pages: p.262-264
+  type: pattern
+- id: Nar_07_09
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 「目的・結果」を表す接続詞
+  pages: p.265-268
+  type: pattern
+- id: Nar_07_10
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 「時」を表す接続詞
+  pages: p.269-271
+  type: pattern
+- id: Nar_07_11
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 「条件」を表す接続詞
+  pages: p.272-275
+  type: pattern
+- id: Nar_07_12
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 「逆接・譲歩」を表す接続詞
+  pages: p.276-278
+  type: pattern
+- id: Nar_07_13
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 接続詞 vs. 前置詞
+  pages: p.279-281
+  type: concept
+- id: Nar_07_14
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 接続副詞
+  pages: p.282-284
+  type: concept
+- id: Nar_08_01
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 関係詞の働き
+  pages: p.286-288
+  type: concept
+- id: Nar_08_02
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 関係代名詞と関係副詞 — 関係詞決定の手順
+  pages: p.289-291
+  type: concept
+- id: Nar_08_03
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 関係代名詞 who, whom, which の用法
+  pages: p.292-294
+  type: concept
+- id: Nar_08_04
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 関係代名詞 whose の用法
+  pages: p.295-297
+  type: concept
+- id: Nar_08_05
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 関係代名詞 what の用法
+  pages: p.298-300
+  type: concept
+- id: Nar_08_06
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 〈前置詞+関係代名詞〉の用法
+  pages: p.301-304
+  type: concept
+- id: Nar_08_07
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 関係副詞
+  pages: p.305-307
+  type: concept
+- id: Nar_08_08
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 関係形容詞 what、その他の what
+  pages: p.308-311
+  type: concept
+- id: Nar_08_09
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 非制限用法で用いられる関係詞
+  pages: p.312-314
+  type: concept
+- id: Nar_08_10
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 連鎖関係詞
+  pages: p.315-317
+  type: concept
+- id: Nar_08_11
+  book: 成川の深めて解ける！英文法 INPUT
+  title: その他の関係詞の用法
+  pages: p.318-320
+  type: concept
+- id: Nar_08_12
+  book: 成川の深めて解ける！英文法 INPUT
+  title: whoever, whichever, whatever の用法
+  pages: p.321-324
+  type: concept
+- id: Nar_08_13
+  book: 成川の深めて解ける！英文法 INPUT
+  title: whenever, wherever, however の用法
+  pages: p.325-328
+  type: concept
+- id: Nar_09_01
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 前置詞 by の用法(1)
+  pages: p.330-331
+  type: pattern
+- id: Nar_09_02
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 前置詞 by の用法(2)
+  pages: p.332-333
+  type: pattern
+- id: Nar_09_03
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 前置詞 in の用法(1)
+  pages: p.334-336
+  type: pattern
+- id: Nar_09_04
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 前置詞 in の用法(2)
+  pages: p.337-339
+  type: pattern
+- id: Nar_09_05
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 前置詞 on の用法(1)
+  pages: p.340-341
+  type: pattern
+- id: Nar_09_06
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 前置詞 on の用法(2)
+  pages: p.342-344
+  type: pattern
+- id: Nar_09_07
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 前置詞 at の用法
+  pages: p.345-347
+  type: pattern
+- id: Nar_09_08
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 前置詞 from の用法(1)
+  pages: p.348-349
+  type: pattern
+- id: Nar_09_09
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 前置詞 from の用法(2)
+  pages: p.350-351
+  type: pattern
+- id: Nar_09_10
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 前置詞 to の用法(1)
+  pages: p.352-353
+  type: pattern
+- id: Nar_09_11
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 前置詞 to の用法(2)
+  pages: p.354-356
+  type: pattern
+- id: Nar_09_12
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 前置詞 for の用法(1)
+  pages: p.357-359
+  type: pattern
+- id: Nar_09_13
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 前置詞 for の用法(2)
+  pages: p.360-362
+  type: pattern
+- id: Nar_09_14
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 前置詞 of の用法(1)
+  pages: p.363-364
+  type: pattern
+- id: Nar_09_15
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 前置詞 of の用法(2)
+  pages: p.365-366
+  type: pattern
+- id: Nar_09_16
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 前置詞 of の用法(3)
+  pages: p.367-369
+  type: pattern
+- id: Nar_09_17
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 前置詞 with の用法
+  pages: p.370-372
+  type: pattern
+- id: Nar_09_18
+  book: 成川の深めて解ける！英文法 INPUT
+  title: その他の前置詞の用法(1)
+  pages: p.373-375
+  type: pattern
+- id: Nar_09_19
+  book: 成川の深めて解ける！英文法 INPUT
+  title: その他の前置詞の用法(2)
+  pages: p.376-378
+  type: pattern
+- id: Nar_09_20
+  book: 成川の深めて解ける！英文法 INPUT
+  title: その他の前置詞の用法(3)
+  pages: p.379-382
+  type: pattern
+- id: Nar_10_01
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 比較の基本原則
+  pages: p.384-386
+  type: concept
+- id: Nar_10_02
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 原級を用いた表現〈as...as〜〉
+  pages: p.387-389
+  type: concept
+- id: Nar_10_03
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 倍数表現、〈as...as〜〉の注意点
+  pages: p.390-392
+  type: concept
+- id: Nar_10_04
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 原級を使った重要表現(1)
+  pages: p.393-395
+  type: pattern
+- id: Nar_10_05
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 原級を使った重要表現(2)
+  pages: p.396-398
+  type: pattern
+- id: Nar_10_06
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 比較級・最上級の強調
+  pages: p.399-401
+  type: concept
+- id: Nar_10_07
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 比較級を使った重要表現(1)
+  pages: p.402-404
+  type: pattern
+- id: Nar_10_08
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 比較級を使った重要表現(2)
+  pages: p.405-408
+  type: pattern
+- id: Nar_10_09
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 比較級を使った重要表現(3)
+  pages: p.409-411
+  type: pattern
+- id: Nar_10_10
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 比較級を使った重要表現(4)
+  pages: p.412-414
+  type: pattern
+- id: Nar_10_11
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 〈no more...than〜〉の構文
+  pages: p.415-417
+  type: concept
+- id: Nar_10_12
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 最上級相当表現
+  pages: p.418-420
+  type: pattern
+- id: Nar_11_01
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 不定冠詞a[an]の使い方
+  pages: p.422-423
+  type: concept
+- id: Nar_11_02
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 定冠詞theの使い方
+  pages: p.424-426
+  type: concept
+- id: Nar_11_03
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 可算名詞 or 不可算名詞
+  pages: p.427-429
+  type: concept
+- id: Nar_11_04
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 「お客」の意味を表すさまざまな名詞
+  pages: p.430-431
+  type: pattern
+- id: Nar_11_05
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 「料金」の意味を表すさまざまな名詞
+  pages: p.432-433
+  type: pattern
+- id: Nar_11_06
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 意味の紛らわしい名詞
+  pages: p.434-436
+  type: pattern
+- id: Nar_11_07
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 注意すべき名詞の使い方
+  pages: p.437-438
+  type: pattern
+- id: Nar_12_01
+  book: 成川の深めて解ける！英文法 INPUT
+  title: one, it, thatの用法
+  pages: p.440-442
+  type: concept
+- id: Nar_12_02
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 代名詞の相関的用法 — the otherとthe others
+  pages: p.443-444
+  type: concept
+- id: Nar_12_03
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 代名詞の相関的用法 — anotherとothers
+  pages: p.445-446
+  type: concept
+- id: Nar_12_04
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 2者に対して使う代名詞 — both, either, neither
+  pages: p.447-448
+  type: concept
+- id: Nar_12_05
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 3者以上に対して使う代名詞 — all, any, noneなど
+  pages: p.449-450
+  type: concept
+- id: Nar_12_06
+  book: 成川の深めて解ける！英文法 INPUT
+  title: itとthat, thisとthatはどう違う？
+  pages: p.451-454
+  type: concept
+- id: Nar_13_01
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 形容詞の働き
+  pages: p.456-458
+  type: concept
+- id: Nar_13_02
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 置かれる位置で意味の異なる形容詞
+  pages: p.459-461
+  type: concept
+- id: Nar_13_03
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 類似品にはご注意(1)
+  pages: p.462-464
+  type: pattern
+- id: Nar_13_04
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 類似品にはご注意(2)
+  pages: p.465-466
+  type: pattern
+- id: Nar_13_05
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 類似品にはご注意(3)
+  pages: p.467-468
+  type: pattern
+- id: Nar_13_06
+  book: 成川の深めて解ける！英文法 INPUT
+  title: mostやalmostを攻略しよう
+  pages: p.469-470
+  type: concept
+- id: Nar_13_07
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 数量表現
+  pages: p.471-473
+  type: concept
+- id: Nar_13_08
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 特定の名詞と数量表現
+  pages: p.474-475
+  type: concept
+- id: Nar_13_09
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 形容詞の語順
+  pages: p.476-478
+  type: concept
+- id: Nar_14_01
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 副詞の働き
+  pages: p.480-481
+  type: concept
+- id: Nar_14_02
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 「頻度」や「程度」を表す副詞
+  pages: p.482-483
+  type: concept
+- id: Nar_14_03
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 類似品にはご注意
+  pages: p.484-486
+  type: pattern
+- id: Nar_14_04
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 副詞so, too, howとその語順、文修飾の副詞、その他
+  pages: p.487-488
+  type: concept
+- id: Nar_15_01
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 否定について
+  pages: p.490-492
+  type: concept
+- id: Nar_15_02
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 倒置が起こるシステム(1) — 任意倒置
+  pages: p.493-495
+  type: concept
+- id: Nar_15_03
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 倒置が起こるシステム(2) — 強制倒置
+  pages: p.496-498
+  type: concept
+- id: Nar_15_04
+  book: 成川の深めて解ける！英文法 INPUT
+  title: 〈there be構文〉について
+  pages: p.499-500
+  type: concept
 section_knowledge_nodes:
-  - section_id: "Nar_01_01"
-    node_id: "nrv-001"
-    seq: 1
-  - section_id: "Nar_01_16"
-    node_id: "nrv-016"
-    seq: 1
-  - section_id: "Nar_01_02"
-    node_id: "nrv-002"
-    seq: 1
-  - section_id: "Nar_01_03"
-    node_id: "nrv-003"
-    seq: 1
-  - section_id: "Nar_01_04"
-    node_id: "nrv-004"
-    seq: 1
-  - section_id: "Nar_01_05"
-    node_id: "nrv-005"
-    seq: 1
-  - section_id: "Nar_01_06"
-    node_id: "nrv-006"
-    seq: 1
-  - section_id: "Nar_01_07"
-    node_id: "nrv-007"
-    seq: 1
-  - section_id: "Nar_01_08"
-    node_id: "nrv-008"
-    seq: 1
-  - section_id: "Nar_01_09"
-    node_id: "nrv-009"
-    seq: 1
-  - section_id: "Nar_01_10"
-    node_id: "nrv-010"
-    seq: 1
-  - section_id: "Nar_01_11"
-    node_id: "nrv-011"
-    seq: 1
-  - section_id: "Nar_01_12"
-    node_id: "nrv-012"
-    seq: 1
-  - section_id: "Nar_01_13"
-    node_id: "nrv-013"
-    seq: 1
-  - section_id: "Nar_01_14"
-    node_id: "nrv-014"
-    seq: 1
-  - section_id: "Nar_01_15"
-    node_id: "nrv-015"
-    seq: 1
-  - section_id: "Nar_01_17"
-    node_id: "nrv-017"
-    seq: 1
-  - section_id: "Nar_01_18"
-    node_id: "nrv-018"
-    seq: 1
-  - section_id: "Nar_01_19"
-    node_id: "nrv-019"
-    seq: 1
-  - section_id: "Nar_01_20"
-    node_id: "nrv-020"
-    seq: 1
-  - section_id: "Nar_01_21"
-    node_id: "nrv-021"
-    seq: 1
-  - section_id: "Nar_01_22"
-    node_id: "nrv-022"
-    seq: 1
-  - section_id: "Nar_01_23"
-    node_id: "nrv-023"
-    seq: 1
-  - section_id: "Nar_02_01"
-    node_id: "nrv-024"
-    seq: 1
-  - section_id: "Nar_02_02"
-    node_id: "nrv-025"
-    seq: 1
-  - section_id: "Nar_03_01"
-    node_id: "nrt-001"
-    seq: 1
-  - section_id: "Nar_03_02"
-    node_id: "nrt-002"
-    seq: 1
-  - section_id: "Nar_03_03"
-    node_id: "nrt-003"
-    seq: 1
-  - section_id: "Nar_03_04"
-    node_id: "nrt-004"
-    seq: 1
-  - section_id: "Nar_03_05"
-    node_id: "nrt-005"
-    seq: 1
-  - section_id: "Nar_03_06"
-    node_id: "nrt-006"
-    seq: 1
-  - section_id: "Nar_03_07"
-    node_id: "nrt-007"
-    seq: 1
-  - section_id: "Nar_03_08"
-    node_id: "nrt-008"
-    seq: 1
-  - section_id: "Nar_03_09"
-    node_id: "nrt-009"
-    seq: 1
-  - section_id: "Nar_03_10"
-    node_id: "nrt-010"
-    seq: 1
-  - section_id: "Nar_04_01"
-    node_id: "nrt-011"
-    seq: 1
-  - section_id: "Nar_04_02"
-    node_id: "nrt-012"
-    seq: 1
-  - section_id: "Nar_04_03"
-    node_id: "nrt-013"
-    seq: 1
-  - section_id: "Nar_04_04"
-    node_id: "nrt-014"
-    seq: 1
-  - section_id: "Nar_04_05"
-    node_id: "nrt-015"
-    seq: 1
-  - section_id: "Nar_04_06"
-    node_id: "nrt-016"
-    seq: 1
-  - section_id: "Nar_04_07"
-    node_id: "nrt-017"
-    seq: 1
-  - section_id: "Nar_04_08"
-    node_id: "nrt-018"
-    seq: 1
-  - section_id: "Nar_04_09"
-    node_id: "nrt-019"
-    seq: 1
-  - section_id: "Nar_04_10"
-    node_id: "nrt-020"
-    seq: 1
-  - section_id: "Nar_04_11"
-    node_id: "nrt-021"
-    seq: 1
-  - section_id: "Nar_04_12"
-    node_id: "nrt-022"
-    seq: 1
-  - section_id: "Nar_05_01"
-    node_id: "nrt-023"
-    seq: 1
-  - section_id: "Nar_05_02"
-    node_id: "nrt-024"
-    seq: 1
-  - section_id: "Nar_05_03"
-    node_id: "nrt-025"
-    seq: 1
-  - section_id: "Nar_05_04"
-    node_id: "nrt-026"
-    seq: 1
-  - section_id: "Nar_05_05"
-    node_id: "nrt-027"
-    seq: 1
-  - section_id: "Nar_05_06"
-    node_id: "nrt-028"
-    seq: 1
-  - section_id: "Nar_05_07"
-    node_id: "nrt-029"
-    seq: 1
-  - section_id: "Nar_05_08"
-    node_id: "nrt-030"
-    seq: 1
-  - section_id: "Nar_05_09"
-    node_id: "nrt-031"
-    seq: 1
-  # B-06: Part 06 前半
-  - section_id: "Nar_06_01"
-    node_id: "nrj-001"
-    seq: 1
-  - section_id: "Nar_06_02"
-    node_id: "nrj-002"
-    seq: 1
-  - section_id: "Nar_06_03"
-    node_id: "nrj-003"
-    seq: 1
-  - section_id: "Nar_06_04"
-    node_id: "nrj-004"
-    seq: 1
-  - section_id: "Nar_06_05"
-    node_id: "nrj-005"
-    seq: 1
-  - section_id: "Nar_06_06"
-    node_id: "nrj-006"
-    seq: 1
-  - section_id: "Nar_06_07"
-    node_id: "nrj-007"
-    seq: 1
-  - section_id: "Nar_06_08"
-    node_id: "nrj-008"
-    seq: 1
-  - section_id: "Nar_06_09"
-    node_id: "nrj-009"
-    seq: 1
-  # B-07: Part 06 後半
-  - section_id: "Nar_06_10"
-    node_id: "nrj-010"
-    seq: 1
-  - section_id: "Nar_06_11"
-    node_id: "nrj-011"
-    seq: 1
-  - section_id: "Nar_06_12"
-    node_id: "nrj-012"
-    seq: 1
-  - section_id: "Nar_06_13"
-    node_id: "nrj-013"
-    seq: 1
-  - section_id: "Nar_06_14"
-    node_id: "nrj-014"
-    seq: 1
-  - section_id: "Nar_06_15"
-    node_id: "nrj-015"
-    seq: 1
-  - section_id: "Nar_06_16"
-    node_id: "nrj-016"
-    seq: 1
-  - section_id: "Nar_06_17"
-    node_id: "nrj-017"
-    seq: 1
-  # B-08: Part 07 接続詞
-  - section_id: "Nar_07_01"
-    node_id: "nrs-001"
-    seq: 1
-  - section_id: "Nar_07_02"
-    node_id: "nrs-002"
-    seq: 1
-  - section_id: "Nar_07_03"
-    node_id: "nrs-003"
-    seq: 1
-  - section_id: "Nar_07_04"
-    node_id: "nrs-004"
-    seq: 1
-  - section_id: "Nar_07_05"
-    node_id: "nrs-005"
-    seq: 1
-  - section_id: "Nar_07_06"
-    node_id: "nrs-006"
-    seq: 1
-  - section_id: "Nar_07_07"
-    node_id: "nrs-007"
-    seq: 1
-  - section_id: "Nar_07_08"
-    node_id: "nrs-008"
-    seq: 1
-  - section_id: "Nar_07_09"
-    node_id: "nrs-009"
-    seq: 1
-  - section_id: "Nar_07_10"
-    node_id: "nrs-010"
-    seq: 1
-  - section_id: "Nar_07_11"
-    node_id: "nrs-011"
-    seq: 1
-  - section_id: "Nar_07_12"
-    node_id: "nrs-012"
-    seq: 1
-  - section_id: "Nar_07_13"
-    node_id: "nrs-013"
-    seq: 1
-  - section_id: "Nar_07_14"
-    node_id: "nrs-014"
-    seq: 1
-  # B-09: Part 08 関係詞
-  - section_id: "Nar_08_01"
-    node_id: "nrs-015"
-    seq: 1
-  - section_id: "Nar_08_02"
-    node_id: "nrs-016"
-    seq: 1
-  - section_id: "Nar_08_03"
-    node_id: "nrs-017"
-    seq: 1
-  - section_id: "Nar_08_04"
-    node_id: "nrs-018"
-    seq: 1
-  - section_id: "Nar_08_05"
-    node_id: "nrs-019"
-    seq: 1
-  - section_id: "Nar_08_06"
-    node_id: "nrs-020"
-    seq: 1
-  - section_id: "Nar_08_07"
-    node_id: "nrs-021"
-    seq: 1
-  - section_id: "Nar_08_08"
-    node_id: "nrs-022"
-    seq: 1
-  - section_id: "Nar_08_09"
-    node_id: "nrs-023"
-    seq: 1
-  - section_id: "Nar_08_10"
-    node_id: "nrs-024"
-    seq: 1
-  - section_id: "Nar_08_11"
-    node_id: "nrs-025"
-    seq: 1
-  - section_id: "Nar_08_12"
-    node_id: "nrs-026"
-    seq: 1
-  - section_id: "Nar_08_13"
-    node_id: "nrs-027"
-    seq: 1
-  # B-10: Part 09 前半 前置詞
-  - section_id: "Nar_09_01"
-    node_id: "nrp-001"
-    seq: 1
-  - section_id: "Nar_09_02"
-    node_id: "nrp-002"
-    seq: 1
-  - section_id: "Nar_09_03"
-    node_id: "nrp-003"
-    seq: 1
-  - section_id: "Nar_09_04"
-    node_id: "nrp-004"
-    seq: 1
-  - section_id: "Nar_09_05"
-    node_id: "nrp-005"
-    seq: 1
-  - section_id: "Nar_09_06"
-    node_id: "nrp-006"
-    seq: 1
-  - section_id: "Nar_09_07"
-    node_id: "nrp-007"
-    seq: 1
-  - section_id: "Nar_09_08"
-    node_id: "nrp-008"
-    seq: 1
-  - section_id: "Nar_09_09"
-    node_id: "nrp-009"
-    seq: 1
-  - section_id: "Nar_09_10"
-    node_id: "nrp-010"
-    seq: 1
-  # B-11: Part 09 後半 前置詞
-  - section_id: "Nar_09_11"
-    node_id: "nrp-011"
-    seq: 1
-  - section_id: "Nar_09_12"
-    node_id: "nrp-012"
-    seq: 1
-  - section_id: "Nar_09_13"
-    node_id: "nrp-013"
-    seq: 1
-  - section_id: "Nar_09_14"
-    node_id: "nrp-014"
-    seq: 1
-  - section_id: "Nar_09_15"
-    node_id: "nrp-015"
-    seq: 1
-  - section_id: "Nar_09_16"
-    node_id: "nrp-016"
-    seq: 1
-  - section_id: "Nar_09_17"
-    node_id: "nrp-017"
-    seq: 1
-  - section_id: "Nar_09_18"
-    node_id: "nrp-018"
-    seq: 1
-  - section_id: "Nar_09_19"
-    node_id: "nrp-019"
-    seq: 1
-  - section_id: "Nar_09_20"
-    node_id: "nrp-020"
-    seq: 1
-  # B-12: Part 10 比較
-  - section_id: "Nar_10_01"
-    node_id: "nrp-021"
-    seq: 1
-  - section_id: "Nar_10_02"
-    node_id: "nrp-022"
-    seq: 1
-  - section_id: "Nar_10_03"
-    node_id: "nrp-023"
-    seq: 1
-  - section_id: "Nar_10_04"
-    node_id: "nrp-024"
-    seq: 1
-  - section_id: "Nar_10_05"
-    node_id: "nrp-025"
-    seq: 1
-  - section_id: "Nar_10_06"
-    node_id: "nrp-026"
-    seq: 1
-  - section_id: "Nar_10_07"
-    node_id: "nrp-027"
-    seq: 1
-  - section_id: "Nar_10_08"
-    node_id: "nrp-028"
-    seq: 1
-  - section_id: "Nar_10_09"
-    node_id: "nrp-029"
-    seq: 1
-  - section_id: "Nar_10_10"
-    node_id: "nrp-030"
-    seq: 1
-  - section_id: "Nar_10_11"
-    node_id: "nrp-031"
-    seq: 1
-  - section_id: "Nar_10_12"
-    node_id: "nrp-032"
-    seq: 1
-  # B-13: Part 11 冠詞・名詞 + Part 12 代名詞
-  - section_id: "Nar_11_01"
-    node_id: "nrh-001"
-    seq: 1
-  - section_id: "Nar_11_02"
-    node_id: "nrh-002"
-    seq: 1
-  - section_id: "Nar_11_03"
-    node_id: "nrh-003"
-    seq: 1
-  - section_id: "Nar_11_04"
-    node_id: "nrh-004"
-    seq: 1
-  - section_id: "Nar_11_05"
-    node_id: "nrh-005"
-    seq: 1
-  - section_id: "Nar_11_06"
-    node_id: "nrh-006"
-    seq: 1
-  - section_id: "Nar_11_07"
-    node_id: "nrh-007"
-    seq: 1
-  - section_id: "Nar_12_01"
-    node_id: "nrh-008"
-    seq: 1
-  - section_id: "Nar_12_02"
-    node_id: "nrh-009"
-    seq: 1
-  - section_id: "Nar_12_03"
-    node_id: "nrh-010"
-    seq: 1
-  - section_id: "Nar_12_04"
-    node_id: "nrh-011"
-    seq: 1
-  - section_id: "Nar_12_05"
-    node_id: "nrh-012"
-    seq: 1
-  - section_id: "Nar_12_06"
-    node_id: "nrh-013"
-    seq: 1
-
-  # B-14: Part 13 形容詞 + Part 14 副詞 + Part 15 特殊構文
-  - section_id: "Nar_13_01"
-    node_id: "nrh-014"
-    seq: 1
-  - section_id: "Nar_13_02"
-    node_id: "nrh-015"
-    seq: 1
-  - section_id: "Nar_13_03"
-    node_id: "nrh-016"
-    seq: 1
-  - section_id: "Nar_13_04"
-    node_id: "nrh-017"
-    seq: 1
-  - section_id: "Nar_13_05"
-    node_id: "nrh-018"
-    seq: 1
-  - section_id: "Nar_13_06"
-    node_id: "nrh-019"
-    seq: 1
-  - section_id: "Nar_13_07"
-    node_id: "nrh-020"
-    seq: 1
-  - section_id: "Nar_13_08"
-    node_id: "nrh-021"
-    seq: 1
-  - section_id: "Nar_13_09"
-    node_id: "nrh-022"
-    seq: 1
-  - section_id: "Nar_14_01"
-    node_id: "nrh-023"
-    seq: 1
-  - section_id: "Nar_14_02"
-    node_id: "nrh-024"
-    seq: 1
-  - section_id: "Nar_14_03"
-    node_id: "nrh-025"
-    seq: 1
-  - section_id: "Nar_14_04"
-    node_id: "nrh-026"
-    seq: 1
-  - section_id: "Nar_15_01"
-    node_id: "nrh-027"
-    seq: 1
-  - section_id: "Nar_15_02"
-    node_id: "nrh-028"
-    seq: 1
-  - section_id: "Nar_15_03"
-    node_id: "nrh-029"
-    seq: 1
-  - section_id: "Nar_15_04"
-    node_id: "nrh-030"
-    seq: 1
-
+- section_id: Nar_01_01
+  node_id: nrv-001
+  seq: 1
+- section_id: Nar_01_16
+  node_id: nrv-016
+  seq: 1
+- section_id: Nar_01_02
+  node_id: nrv-002
+  seq: 1
+- section_id: Nar_01_03
+  node_id: nrv-003
+  seq: 1
+- section_id: Nar_01_04
+  node_id: nrv-004
+  seq: 1
+- section_id: Nar_01_05
+  node_id: nrv-005
+  seq: 1
+- section_id: Nar_01_06
+  node_id: nrv-006
+  seq: 1
+- section_id: Nar_01_07
+  node_id: nrv-007
+  seq: 1
+- section_id: Nar_01_08
+  node_id: nrv-008
+  seq: 1
+- section_id: Nar_01_09
+  node_id: nrv-009
+  seq: 1
+- section_id: Nar_01_10
+  node_id: nrv-010
+  seq: 1
+- section_id: Nar_01_11
+  node_id: nrv-011
+  seq: 1
+- section_id: Nar_01_12
+  node_id: nrv-012
+  seq: 1
+- section_id: Nar_01_13
+  node_id: nrv-013
+  seq: 1
+- section_id: Nar_01_14
+  node_id: nrv-014
+  seq: 1
+- section_id: Nar_01_15
+  node_id: nrv-015
+  seq: 1
+- section_id: Nar_01_17
+  node_id: nrv-017
+  seq: 1
+- section_id: Nar_01_18
+  node_id: nrv-018
+  seq: 1
+- section_id: Nar_01_19
+  node_id: nrv-019
+  seq: 1
+- section_id: Nar_01_20
+  node_id: nrv-020
+  seq: 1
+- section_id: Nar_01_21
+  node_id: nrv-021
+  seq: 1
+- section_id: Nar_01_22
+  node_id: nrv-022
+  seq: 1
+- section_id: Nar_01_23
+  node_id: nrv-023
+  seq: 1
+- section_id: Nar_02_01
+  node_id: nrv-024
+  seq: 1
+- section_id: Nar_02_02
+  node_id: nrv-025
+  seq: 1
+- section_id: Nar_03_01
+  node_id: nrt-001
+  seq: 1
+- section_id: Nar_03_02
+  node_id: nrt-002
+  seq: 1
+- section_id: Nar_03_03
+  node_id: nrt-003
+  seq: 1
+- section_id: Nar_03_04
+  node_id: nrt-004
+  seq: 1
+- section_id: Nar_03_05
+  node_id: nrt-005
+  seq: 1
+- section_id: Nar_03_06
+  node_id: nrt-006
+  seq: 1
+- section_id: Nar_03_07
+  node_id: nrt-007
+  seq: 1
+- section_id: Nar_03_08
+  node_id: nrt-008
+  seq: 1
+- section_id: Nar_03_09
+  node_id: nrt-009
+  seq: 1
+- section_id: Nar_03_10
+  node_id: nrt-010
+  seq: 1
+- section_id: Nar_04_01
+  node_id: nrt-011
+  seq: 1
+- section_id: Nar_04_02
+  node_id: nrt-012
+  seq: 1
+- section_id: Nar_04_03
+  node_id: nrt-013
+  seq: 1
+- section_id: Nar_04_04
+  node_id: nrt-014
+  seq: 1
+- section_id: Nar_04_05
+  node_id: nrt-015
+  seq: 1
+- section_id: Nar_04_06
+  node_id: nrt-016
+  seq: 1
+- section_id: Nar_04_07
+  node_id: nrt-017
+  seq: 1
+- section_id: Nar_04_08
+  node_id: nrt-018
+  seq: 1
+- section_id: Nar_04_09
+  node_id: nrt-019
+  seq: 1
+- section_id: Nar_04_10
+  node_id: nrt-020
+  seq: 1
+- section_id: Nar_04_11
+  node_id: nrt-021
+  seq: 1
+- section_id: Nar_04_12
+  node_id: nrt-022
+  seq: 1
+- section_id: Nar_05_01
+  node_id: nrt-023
+  seq: 1
+- section_id: Nar_05_02
+  node_id: nrt-024
+  seq: 1
+- section_id: Nar_05_03
+  node_id: nrt-025
+  seq: 1
+- section_id: Nar_05_04
+  node_id: nrt-026
+  seq: 1
+- section_id: Nar_05_05
+  node_id: nrt-027
+  seq: 1
+- section_id: Nar_05_06
+  node_id: nrt-028
+  seq: 1
+- section_id: Nar_05_07
+  node_id: nrt-029
+  seq: 1
+- section_id: Nar_05_08
+  node_id: nrt-030
+  seq: 1
+- section_id: Nar_05_09
+  node_id: nrt-031
+  seq: 1
+- section_id: Nar_06_01
+  node_id: nrj-001
+  seq: 1
+- section_id: Nar_06_02
+  node_id: nrj-002
+  seq: 1
+- section_id: Nar_06_03
+  node_id: nrj-003
+  seq: 1
+- section_id: Nar_06_04
+  node_id: nrj-004
+  seq: 1
+- section_id: Nar_06_05
+  node_id: nrj-005
+  seq: 1
+- section_id: Nar_06_06
+  node_id: nrj-006
+  seq: 1
+- section_id: Nar_06_07
+  node_id: nrj-007
+  seq: 1
+- section_id: Nar_06_08
+  node_id: nrj-008
+  seq: 1
+- section_id: Nar_06_09
+  node_id: nrj-009
+  seq: 1
+- section_id: Nar_06_10
+  node_id: nrj-010
+  seq: 1
+- section_id: Nar_06_11
+  node_id: nrj-011
+  seq: 1
+- section_id: Nar_06_12
+  node_id: nrj-012
+  seq: 1
+- section_id: Nar_06_13
+  node_id: nrj-013
+  seq: 1
+- section_id: Nar_06_14
+  node_id: nrj-014
+  seq: 1
+- section_id: Nar_06_15
+  node_id: nrj-015
+  seq: 1
+- section_id: Nar_06_16
+  node_id: nrj-016
+  seq: 1
+- section_id: Nar_06_17
+  node_id: nrj-017
+  seq: 1
+- section_id: Nar_07_01
+  node_id: nrs-001
+  seq: 1
+- section_id: Nar_07_02
+  node_id: nrs-002
+  seq: 1
+- section_id: Nar_07_03
+  node_id: nrs-003
+  seq: 1
+- section_id: Nar_07_04
+  node_id: nrs-004
+  seq: 1
+- section_id: Nar_07_05
+  node_id: nrs-005
+  seq: 1
+- section_id: Nar_07_06
+  node_id: nrs-006
+  seq: 1
+- section_id: Nar_07_07
+  node_id: nrs-007
+  seq: 1
+- section_id: Nar_07_08
+  node_id: nrs-008
+  seq: 1
+- section_id: Nar_07_09
+  node_id: nrs-009
+  seq: 1
+- section_id: Nar_07_10
+  node_id: nrs-010
+  seq: 1
+- section_id: Nar_07_11
+  node_id: nrs-011
+  seq: 1
+- section_id: Nar_07_12
+  node_id: nrs-012
+  seq: 1
+- section_id: Nar_07_13
+  node_id: nrs-013
+  seq: 1
+- section_id: Nar_07_14
+  node_id: nrs-014
+  seq: 1
+- section_id: Nar_08_01
+  node_id: nrs-015
+  seq: 1
+- section_id: Nar_08_02
+  node_id: nrs-016
+  seq: 1
+- section_id: Nar_08_03
+  node_id: nrs-017
+  seq: 1
+- section_id: Nar_08_04
+  node_id: nrs-018
+  seq: 1
+- section_id: Nar_08_05
+  node_id: nrs-019
+  seq: 1
+- section_id: Nar_08_06
+  node_id: nrs-020
+  seq: 1
+- section_id: Nar_08_07
+  node_id: nrs-021
+  seq: 1
+- section_id: Nar_08_08
+  node_id: nrs-022
+  seq: 1
+- section_id: Nar_08_09
+  node_id: nrs-023
+  seq: 1
+- section_id: Nar_08_10
+  node_id: nrs-024
+  seq: 1
+- section_id: Nar_08_11
+  node_id: nrs-025
+  seq: 1
+- section_id: Nar_08_12
+  node_id: nrs-026
+  seq: 1
+- section_id: Nar_08_13
+  node_id: nrs-027
+  seq: 1
+- section_id: Nar_09_01
+  node_id: nrp-001
+  seq: 1
+- section_id: Nar_09_02
+  node_id: nrp-002
+  seq: 1
+- section_id: Nar_09_03
+  node_id: nrp-003
+  seq: 1
+- section_id: Nar_09_04
+  node_id: nrp-004
+  seq: 1
+- section_id: Nar_09_05
+  node_id: nrp-005
+  seq: 1
+- section_id: Nar_09_06
+  node_id: nrp-006
+  seq: 1
+- section_id: Nar_09_07
+  node_id: nrp-007
+  seq: 1
+- section_id: Nar_09_08
+  node_id: nrp-008
+  seq: 1
+- section_id: Nar_09_09
+  node_id: nrp-009
+  seq: 1
+- section_id: Nar_09_10
+  node_id: nrp-010
+  seq: 1
+- section_id: Nar_09_11
+  node_id: nrp-011
+  seq: 1
+- section_id: Nar_09_12
+  node_id: nrp-012
+  seq: 1
+- section_id: Nar_09_13
+  node_id: nrp-013
+  seq: 1
+- section_id: Nar_09_14
+  node_id: nrp-014
+  seq: 1
+- section_id: Nar_09_15
+  node_id: nrp-015
+  seq: 1
+- section_id: Nar_09_16
+  node_id: nrp-016
+  seq: 1
+- section_id: Nar_09_17
+  node_id: nrp-017
+  seq: 1
+- section_id: Nar_09_18
+  node_id: nrp-018
+  seq: 1
+- section_id: Nar_09_19
+  node_id: nrp-019
+  seq: 1
+- section_id: Nar_09_20
+  node_id: nrp-020
+  seq: 1
+- section_id: Nar_10_01
+  node_id: nrp-021
+  seq: 1
+- section_id: Nar_10_02
+  node_id: nrp-022
+  seq: 1
+- section_id: Nar_10_03
+  node_id: nrp-023
+  seq: 1
+- section_id: Nar_10_04
+  node_id: nrp-024
+  seq: 1
+- section_id: Nar_10_05
+  node_id: nrp-025
+  seq: 1
+- section_id: Nar_10_06
+  node_id: nrp-026
+  seq: 1
+- section_id: Nar_10_07
+  node_id: nrp-027
+  seq: 1
+- section_id: Nar_10_08
+  node_id: nrp-028
+  seq: 1
+- section_id: Nar_10_09
+  node_id: nrp-029
+  seq: 1
+- section_id: Nar_10_10
+  node_id: nrp-030
+  seq: 1
+- section_id: Nar_10_11
+  node_id: nrp-031
+  seq: 1
+- section_id: Nar_10_12
+  node_id: nrp-032
+  seq: 1
+- section_id: Nar_11_01
+  node_id: nrh-001
+  seq: 1
+- section_id: Nar_11_02
+  node_id: nrh-002
+  seq: 1
+- section_id: Nar_11_03
+  node_id: nrh-003
+  seq: 1
+- section_id: Nar_11_04
+  node_id: nrh-004
+  seq: 1
+- section_id: Nar_11_05
+  node_id: nrh-005
+  seq: 1
+- section_id: Nar_11_06
+  node_id: nrh-006
+  seq: 1
+- section_id: Nar_11_07
+  node_id: nrh-007
+  seq: 1
+- section_id: Nar_12_01
+  node_id: nrh-008
+  seq: 1
+- section_id: Nar_12_02
+  node_id: nrh-009
+  seq: 1
+- section_id: Nar_12_03
+  node_id: nrh-010
+  seq: 1
+- section_id: Nar_12_04
+  node_id: nrh-011
+  seq: 1
+- section_id: Nar_12_05
+  node_id: nrh-012
+  seq: 1
+- section_id: Nar_12_06
+  node_id: nrh-013
+  seq: 1
+- section_id: Nar_13_01
+  node_id: nrh-014
+  seq: 1
+- section_id: Nar_13_02
+  node_id: nrh-015
+  seq: 1
+- section_id: Nar_13_03
+  node_id: nrh-016
+  seq: 1
+- section_id: Nar_13_04
+  node_id: nrh-017
+  seq: 1
+- section_id: Nar_13_05
+  node_id: nrh-018
+  seq: 1
+- section_id: Nar_13_06
+  node_id: nrh-019
+  seq: 1
+- section_id: Nar_13_07
+  node_id: nrh-020
+  seq: 1
+- section_id: Nar_13_08
+  node_id: nrh-021
+  seq: 1
+- section_id: Nar_13_09
+  node_id: nrh-022
+  seq: 1
+- section_id: Nar_14_01
+  node_id: nrh-023
+  seq: 1
+- section_id: Nar_14_02
+  node_id: nrh-024
+  seq: 1
+- section_id: Nar_14_03
+  node_id: nrh-025
+  seq: 1
+- section_id: Nar_14_04
+  node_id: nrh-026
+  seq: 1
+- section_id: Nar_15_01
+  node_id: nrh-027
+  seq: 1
+- section_id: Nar_15_02
+  node_id: nrh-028
+  seq: 1
+- section_id: Nar_15_03
+  node_id: nrh-029
+  seq: 1
+- section_id: Nar_15_04
+  node_id: nrh-030
+  seq: 1
 section_prerequisites:
-  - section_id: "Nar_01_02"
-    prerequisite_id: "Nar_01_01"
-  - section_id: "Nar_01_03"
-    prerequisite_id: "Nar_01_02"
-  - section_id: "Nar_01_04"
-    prerequisite_id: "Nar_01_03"
-  - section_id: "Nar_01_11"
-    prerequisite_id: "Nar_01_10"
-  - section_id: "Nar_01_12"
-    prerequisite_id: "Nar_01_11"
-  - section_id: "Nar_01_13"
-    prerequisite_id: "Nar_01_11"
-  - section_id: "Nar_01_14"
-    prerequisite_id: "Nar_01_11"
-  - section_id: "Nar_01_15"
-    prerequisite_id: "Nar_01_11"
-  - section_id: "Nar_02_02"
-    prerequisite_id: "Nar_02_01"
-  - section_id: "Nar_03_04"
-    prerequisite_id: "Nar_03_03"
-  - section_id: "Nar_03_05"
-    prerequisite_id: "Nar_03_04"
-  - section_id: "Nar_03_07"
-    prerequisite_id: "Nar_03_06"
-  - section_id: "Nar_03_10"
-    prerequisite_id: "Nar_03_09"
-  - section_id: "Nar_04_02"
-    prerequisite_id: "Nar_04_01"
-  - section_id: "Nar_04_03"
-    prerequisite_id: "Nar_04_02"
-  - section_id: "Nar_04_07"
-    prerequisite_id: "Nar_04_06"
-  - section_id: "Nar_04_09"
-    prerequisite_id: "Nar_04_08"
-  - section_id: "Nar_04_12"
-    prerequisite_id: "Nar_04_11"
-  - section_id: "Nar_05_02"
-    prerequisite_id: "Nar_05_01"
-  - section_id: "Nar_05_03"
-    prerequisite_id: "Nar_05_01"
-  - section_id: "Nar_05_03"
-    prerequisite_id: "Nar_05_02"
-  - section_id: "Nar_05_05"
-    prerequisite_id: "Nar_05_04"
-  - section_id: "Nar_05_07"
-    prerequisite_id: "Nar_05_05"
-  - section_id: "Nar_05_08"
-    prerequisite_id: "Nar_05_07"
-  - section_id: "Nar_05_09"
-    prerequisite_id: "Nar_05_08"
-  # B-06: Part 06 前半
-  - section_id: "Nar_06_02"
-    prerequisite_id: "Nar_06_01"
-  - section_id: "Nar_06_03"
-    prerequisite_id: "Nar_06_01"
-  - section_id: "Nar_06_04"
-    prerequisite_id: "Nar_06_01"
-  - section_id: "Nar_06_06"
-    prerequisite_id: "Nar_06_05"
-  - section_id: "Nar_06_09"
-    prerequisite_id: "Nar_06_08"
-  # B-07: Part 06 後半
-  - section_id: "Nar_06_11"
-    prerequisite_id: "Nar_06_10"
-  - section_id: "Nar_06_12"
-    prerequisite_id: "Nar_06_11"
-  # B-08: Part 07 接続詞
-  - section_id: "Nar_07_02"
-    prerequisite_id: "Nar_07_01"
-  - section_id: "Nar_07_05"
-    prerequisite_id: "Nar_07_04"
-  - section_id: "Nar_07_12"
-    prerequisite_id: "Nar_07_07"
-  - section_id: "Nar_07_14"
-    prerequisite_id: "Nar_07_12"
-  # B-09: Part 08 関係詞
-  - section_id: "Nar_08_02"
-    prerequisite_id: "Nar_08_01"
-  # B-10: Part 09 前半 前置詞
-  - section_id: "Nar_09_02"
-    prerequisite_id: "Nar_09_01"
-  - section_id: "Nar_09_04"
-    prerequisite_id: "Nar_09_03"
-  - section_id: "Nar_09_06"
-    prerequisite_id: "Nar_09_05"
-  - section_id: "Nar_09_09"
-    prerequisite_id: "Nar_09_08"
-  # B-11: Part 09 後半 前置詞
-  - section_id: "Nar_09_11"
-    prerequisite_id: "Nar_09_10"
-  - section_id: "Nar_09_13"
-    prerequisite_id: "Nar_09_12"
-  - section_id: "Nar_09_15"
-    prerequisite_id: "Nar_09_14"
-  - section_id: "Nar_09_16"
-    prerequisite_id: "Nar_09_15"
-  - section_id: "Nar_09_19"
-    prerequisite_id: "Nar_09_18"
-  - section_id: "Nar_09_20"
-    prerequisite_id: "Nar_09_19"
-  # B-12: Part 10 比較
-  - section_id: "Nar_10_05"
-    prerequisite_id: "Nar_10_04"
-  - section_id: "Nar_10_08"
-    prerequisite_id: "Nar_10_07"
-  - section_id: "Nar_10_09"
-    prerequisite_id: "Nar_10_08"
-  - section_id: "Nar_10_10"
-    prerequisite_id: "Nar_10_09"
-  # B-13: Part 11 冠詞・名詞 + Part 12 代名詞
-  - section_id: "Nar_12_03"
-    prerequisite_id: "Nar_12_02"
-  - section_id: "Nar_12_05"
-    prerequisite_id: "Nar_12_04"
-  # B-14: Part 13 形容詞 + Part 14 副詞 + Part 15 特殊構文
-  - section_id: "Nar_13_04"
-    prerequisite_id: "Nar_13_03"
-  - section_id: "Nar_13_05"
-    prerequisite_id: "Nar_13_04"
-  - section_id: "Nar_15_03"
-    prerequisite_id: "Nar_15_02"
+- section_id: Nar_01_02
+  prerequisite_id: Nar_01_01
+- section_id: Nar_01_03
+  prerequisite_id: Nar_01_02
+- section_id: Nar_01_04
+  prerequisite_id: Nar_01_03
+- section_id: Nar_01_11
+  prerequisite_id: Nar_01_10
+- section_id: Nar_01_12
+  prerequisite_id: Nar_01_11
+- section_id: Nar_01_13
+  prerequisite_id: Nar_01_11
+- section_id: Nar_01_14
+  prerequisite_id: Nar_01_11
+- section_id: Nar_01_15
+  prerequisite_id: Nar_01_11
+- section_id: Nar_02_02
+  prerequisite_id: Nar_02_01
+- section_id: Nar_03_04
+  prerequisite_id: Nar_03_03
+- section_id: Nar_03_05
+  prerequisite_id: Nar_03_04
+- section_id: Nar_03_07
+  prerequisite_id: Nar_03_06
+- section_id: Nar_03_10
+  prerequisite_id: Nar_03_09
+- section_id: Nar_04_02
+  prerequisite_id: Nar_04_01
+- section_id: Nar_04_03
+  prerequisite_id: Nar_04_02
+- section_id: Nar_04_07
+  prerequisite_id: Nar_04_06
+- section_id: Nar_04_09
+  prerequisite_id: Nar_04_08
+- section_id: Nar_04_12
+  prerequisite_id: Nar_04_11
+- section_id: Nar_05_02
+  prerequisite_id: Nar_05_01
+- section_id: Nar_05_03
+  prerequisite_id: Nar_05_01
+- section_id: Nar_05_03
+  prerequisite_id: Nar_05_02
+- section_id: Nar_05_05
+  prerequisite_id: Nar_05_04
+- section_id: Nar_05_07
+  prerequisite_id: Nar_05_05
+- section_id: Nar_05_08
+  prerequisite_id: Nar_05_07
+- section_id: Nar_05_09
+  prerequisite_id: Nar_05_08
+- section_id: Nar_06_02
+  prerequisite_id: Nar_06_01
+- section_id: Nar_06_03
+  prerequisite_id: Nar_06_01
+- section_id: Nar_06_04
+  prerequisite_id: Nar_06_01
+- section_id: Nar_06_06
+  prerequisite_id: Nar_06_05
+- section_id: Nar_06_09
+  prerequisite_id: Nar_06_08
+- section_id: Nar_06_11
+  prerequisite_id: Nar_06_10
+- section_id: Nar_06_12
+  prerequisite_id: Nar_06_11
+- section_id: Nar_07_02
+  prerequisite_id: Nar_07_01
+- section_id: Nar_07_05
+  prerequisite_id: Nar_07_04
+- section_id: Nar_07_12
+  prerequisite_id: Nar_07_07
+- section_id: Nar_07_14
+  prerequisite_id: Nar_07_12
+- section_id: Nar_08_02
+  prerequisite_id: Nar_08_01
+- section_id: Nar_09_02
+  prerequisite_id: Nar_09_01
+- section_id: Nar_09_04
+  prerequisite_id: Nar_09_03
+- section_id: Nar_09_06
+  prerequisite_id: Nar_09_05
+- section_id: Nar_09_09
+  prerequisite_id: Nar_09_08
+- section_id: Nar_09_11
+  prerequisite_id: Nar_09_10
+- section_id: Nar_09_13
+  prerequisite_id: Nar_09_12
+- section_id: Nar_09_15
+  prerequisite_id: Nar_09_14
+- section_id: Nar_09_16
+  prerequisite_id: Nar_09_15
+- section_id: Nar_09_19
+  prerequisite_id: Nar_09_18
+- section_id: Nar_09_20
+  prerequisite_id: Nar_09_19
+- section_id: Nar_10_05
+  prerequisite_id: Nar_10_04
+- section_id: Nar_10_08
+  prerequisite_id: Nar_10_07
+- section_id: Nar_10_09
+  prerequisite_id: Nar_10_08
+- section_id: Nar_10_10
+  prerequisite_id: Nar_10_09
+- section_id: Nar_12_03
+  prerequisite_id: Nar_12_02
+- section_id: Nar_12_05
+  prerequisite_id: Nar_12_04
+- section_id: Nar_13_04
+  prerequisite_id: Nar_13_03
+- section_id: Nar_13_05
+  prerequisite_id: Nar_13_04
+- section_id: Nar_15_03
+  prerequisite_id: Nar_15_02

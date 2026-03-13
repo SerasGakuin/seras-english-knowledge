@@ -1,372 +1,321 @@
-# Ch03 助動詞 — sdv-014〜sdv-020（7ノード）
-
 knowledge_nodes:
-  - id: "sdv-014"
-    name: "can / may / mustの基本用法"
-    category: "動詞・時制"
-    priority: "P1"
-    notes: |
-      Theme 17。can / may / must の基本的な意味を整理。
-      can: ①能力「～できる」②許可「～してもよい」③推量（否定）cannot「～のはずがない」（強い否定の推量）
-      may: ①許可「～してもよい」②推量「～かもしれない」（可能性）③祈願「～でありますように」（文語、May A do! の形）
-      must: ①義務「～しなければならない」②推量 must「～にちがいない」（強い肯定の推量）
-      PU!15: その他のcan/mayの用法。許可のcan（Can I ~?）はMay I ~?より口語的。May I ~?のほうが丁寧。祈願のmay（May your dreams come true!）は文語的。
-      参照: cannot「～のはずがない」⇔ must「～にちがいない」は対照的（問54 vs 問57）
+- id: sdv-014
+  name: can / may / mustの基本用法
+  category: 動詞・時制
+  priority: P1
+  notes: 'Theme 17。can / may / must の基本的な意味を整理。
 
-  - id: "sdv-015"
-    name: "have to doの用法"
-    category: "動詞・時制"
-    priority: "P1"
-    notes: |
-      Theme 18。have to doの各用法。
-      had to do「～しなければならなかった」: 過去・未来ではmustが使えないのでhave toで代用（had to / will have to）。
-      don't have to do「～する必要はない」（= need not do / needn't do / don't need to do）。
-      have only to do「～しさえすればよい」（= only have to do）。書き換え: All you have to do is (to) do（Allの後ろにthat省略、補語のto doは原形doも可）。
-      needの2形態: 助動詞need（否定文・疑問文のみ: need not do）vs 本動詞need（don't need to do）。
-      注意: ① must walk, ③ should walk, ④ need to walk は現在のことを表すので、yesterday のある文では不可。
+    can: ①能力「～できる」②許可「～してもよい」③推量（否定）cannot「～のはずがない」（強い否定の推量）
 
-  - id: "sdv-016"
-    name: "wouldの注意すべき用法"
-    category: "動詞・時制"
-    priority: "P2"
-    notes: |
-      Theme 19。wouldの過去の習慣・拒絶用法。
-      would do「（よく）～したものだ」: 過去の習慣。しばしばoften / sometimes / now and then などの副詞（句）を伴う。
-      would not [wouldn't] do「どうしても～しようとしなかった」: 過去の拒絶。「拒絶」のwill not の過去形。
-      比較: will not「現在の強い意志（拒絶）」→ would not はその過去形。
-      参照: ⇨PU!16（would doとused to doの違い）でTheme 20と関連
+    may: ①許可「～してもよい」②推量「～かもしれない」（可能性）③祈願「～でありますように」（文語、May A do! の形）
 
-  - id: "sdv-017"
-    name: "used toとbe used to"
-    category: "動詞・時制"
-    priority: "P1"
-    notes: |
-      Theme 20。3つの形のまぎらわしいused toの区別。
-      ① used to do「（今はしていないが）以前はよく～したものだ」: 現在と対比された過去の習慣・状態。助動詞→後ろは原形。
-      ② be used to doing [名詞]「～することに慣れている」（= be accustomed to doing）: toは前置詞→後ろは動名詞/名詞。
-      ③ be used to do「～するのに使われる」: 受動態(be used) + 目的の不定詞(to do)。
-      usedの発音: ①② [juːst]、③ [juːzd]。
-      PU!16: would doとused to doの違い:
-      (1) used toは現在と対比（今はしていない）、wouldは回想的に述べるだけで現在との対比なし。
-      (2) used toは過去の習慣的動作・状態どちらにも使える。wouldは状態動詞と結びつかない（動作のみ）。
-        There used to (×would) be a castle on the hill.
-      PU!17: ①②③の区別表。usedの発音の違い。
-      参照: be used to doing の be accustomed to doing は同義（⇨問65）
+    must: ①義務「～しなければならない」②推量 must「～にちがいない」（強い肯定の推量）
 
-  - id: "sdv-018"
-    name: "助動詞+have done（推量・非難・後悔）"
-    category: "動詞・時制"
-    priority: "P1"
-    notes: |
-      Theme 21+22 統合。助動詞の完了形で過去のことに対する現在の判断を表す。
-      【推量（Theme 21 / PU!18）】
-      □ must have done「～したにちがいない」: 確信のある推量
-      □ may have done「～したかもしれない」: 確信の持てない推量。might have doneもほぼ同義。
-      □ cannot [can't] have done「～したはずがない」: 確信のある否定的推量。couldn't have doneもほぼ同義。
-      【非難・後悔（Theme 22 / PU!19）】
-      □ should [ought to] have done「～すべきだったのに」: 過去のことに対する非難・後悔（実際はしなかった）。
-      □ should [ought to] have done「～した[している]はずだ」: 推量の用法もある。by now / by this timeとセットで使われることが多い。
-      □ should not have done「～すべきではなかったのに」（= ought not to have done）: notの位置注意。⇨PU!21
-      □ need not have done「～する必要はなかったのに（実際はした）」
-      比較: needn't have done vs didn't need to do:
-        needn't have hurried = 急ぐ必要がなかったのに（急いだ）
-        didn't need to hurry = 急ぐ必要がなかった（急いだかは不明）
+    PU!15: その他のcan/mayの用法。許可のcan（Can I ~?）はMay I ~?より口語的。May I ~?のほうが丁寧。祈願のmay（May your dreams come true!）は文語的。
 
-  - id: "sdv-019"
-    name: "助動詞を用いた慣用表現①（can / may系）"
-    category: "動詞・時制"
-    priority: "P2"
-    notes: |
-      Theme 23。can / may / might を用いた慣用表現。
-      □ cannot [can't] ~ too ...「いくら…しても～しすぎることはない」: tooの後ろには形容詞/副詞。
-      □ cannot [can't] help doing「～せずにはいられない」: helpは「避ける」(= avoid)の意味。
-        同義: cannot but do《文語》、cannot help but do《米口語》。butの後ろは原形。
-      □ may [might] well do ①「～するのももっともだ」（= It is natural that ~ / have good reason to do）
-        ②「たぶん～だろう」(= It is likely that ~): wellは「十分に」の意味で、may単独より確信が強い。
-      □ may [might] as well do「（気は進まないが）～するほうがよいだろう」: 元はas notが省略。had betterより弱い。mightのほうが多少控えめだが実質差なし。
-      □ might as well A as B「BするくらいならAするほうがましだ / Bするのは A するようなものだ」
-      PU!20（発展）: 「～せずにはいられない」の上級表現:
-        have no choice but to do / There is nothing for it but to do
-        ＊ can/cannotがあればbut do、そうでなければbut to doと覚える。
-      参照: in doing「～する際に」⇨問133
-      参照: do well to do「～するのが賢明である」（選択肢の解説）
+    参照: cannot「～のはずがない」⇔ must「～にちがいない」は対照的（問54 vs 問57）
 
-  - id: "sdv-020"
-    name: "助動詞を用いた慣用表現②（had better / would rather系）"
-    category: "動詞・時制"
-    priority: "P1"
-    notes: |
-      Theme 24。had better / would like / would rather を用いた慣用表現。
-      □ had better do「～するほうがよい / ～しなさい」: 2語で1つの助動詞。後ろは原形。「そうしないと大変な目にあう」含意あり。youが主語の場合は忠告・軽い命令（目下の人や子どもに対して使うことが多い）。
-      □ had better not do「～しないほうがよい」: 否定はbetterの後にnot。
-      □ would like to do「～したいのですが」: want to doより丁寧で遠慮がちな願望。口語で'd like to do。
-      □ would like A to do「Aに～してほしいのですが」: would likeの後に目的語A。
-      □ would rather A than B「Bするよりもむしろ A したい」: A, Bはともに原形。
-      □ would rather do「むしろ～したい」: would rather do than do のthan以下省略形。
-      □ would rather not do「むしろ～したくない」: 否定はratherの後にnot。
-      PU!21: 否定のnotの位置:
-        had better not do / would rather not do / ought not to do
-        ＊ 3つとも否定のnotの位置が異なるので注意。
-      参照: ⇨問577（speak to ~）、⇨問1140（be independent of ~）、⇨問202（much+比較級）、⇨問620（reservation「予約」）
+    '
+- id: sdv-015
+  name: have to doの用法
+  category: 動詞・時制
+  priority: P1
+  notes: 'Theme 18。have to doの各用法。
 
+    had to do「～しなければならなかった」: 過去・未来ではmustが使えないのでhave toで代用（had to / will have to）。
+
+    don''t have to do「～する必要はない」（= need not do / needn''t do / don''t need to do）。
+
+    have only to do「～しさえすればよい」（= only have to do）。書き換え: All you have to do is (to) do（Allの後ろにthat省略、補語のto doは原形doも可）。
+
+    needの2形態: 助動詞need（否定文・疑問文のみ: need not do）vs 本動詞need（don''t need to do）。
+
+    注意: ① must walk, ③ should walk, ④ need to walk は現在のことを表すので、yesterday のある文では不可。
+
+    '
+- id: sdv-016
+  name: wouldの注意すべき用法
+  category: 動詞・時制
+  priority: P2
+  notes: 'Theme 19。wouldの過去の習慣・拒絶用法。
+
+    would do「（よく）～したものだ」: 過去の習慣。しばしばoften / sometimes / now and then などの副詞（句）を伴う。
+
+    would not [wouldn''t] do「どうしても～しようとしなかった」: 過去の拒絶。「拒絶」のwill not の過去形。
+
+    比較: will not「現在の強い意志（拒絶）」→ would not はその過去形。
+
+    参照: ⇨PU!16（would doとused to doの違い）でTheme 20と関連
+
+    '
+- id: sdv-017
+  name: used toとbe used to
+  category: 動詞・時制
+  priority: P1
+  notes: "Theme 20。3つの形のまぎらわしいused toの区別。\n① used to do「（今はしていないが）以前はよく～したものだ」: 現在と対比された過去の習慣・状態。助動詞→後ろは原形。\n② be used to doing [名詞]「～することに慣れている」（= be accustomed to doing）: toは前置詞→後ろは動名詞/名詞。\n③ be used\
+    \ to do「～するのに使われる」: 受動態(be used) + 目的の不定詞(to do)。\nusedの発音: ①② [juːst]、③ [juːzd]。\nPU!16: would doとused to doの違い:\n(1) used toは現在と対比（今はしていない）、wouldは回想的に述べるだけで現在との対比なし。\n(2) used toは過去の習慣的動作・状態どちらにも使える。wouldは状態動詞と結びつかない（動作のみ）。\n\
+    \  There used to (×would) be a castle on the hill.\nPU!17: ①②③の区別表。usedの発音の違い。\n参照: be used to doing の be accustomed to doing は同義（⇨問65）\n"
+- id: sdv-018
+  name: 助動詞+have done（推量・非難・後悔）
+  category: 動詞・時制
+  priority: P1
+  notes: "Theme 21+22 統合。助動詞の完了形で過去のことに対する現在の判断を表す。\n【推量（Theme 21 / PU!18）】\n□ must have done「～したにちがいない」: 確信のある推量\n□ may have done「～したかもしれない」: 確信の持てない推量。might have doneもほぼ同義。\n□ cannot [can't] have done「～したはずがない」:\
+    \ 確信のある否定的推量。couldn't have doneもほぼ同義。\n【非難・後悔（Theme 22 / PU!19）】\n□ should [ought to] have done「～すべきだったのに」: 過去のことに対する非難・後悔（実際はしなかった）。\n□ should [ought to] have done「～した[している]はずだ」: 推量の用法もある。by now /\
+    \ by this timeとセットで使われることが多い。\n□ should not have done「～すべきではなかったのに」（= ought not to have done）: notの位置注意。⇨PU!21\n□ need not have done「～する必要はなかったのに（実際はした）」\n比較: needn't have done vs didn't need to do:\n\
+    \  needn't have hurried = 急ぐ必要がなかったのに（急いだ）\n  didn't need to hurry = 急ぐ必要がなかった（急いだかは不明）\n"
+- id: sdv-019
+  name: 助動詞を用いた慣用表現①（can / may系）
+  category: 動詞・時制
+  priority: P2
+  notes: "Theme 23。can / may / might を用いた慣用表現。\n□ cannot [can't] ~ too ...「いくら…しても～しすぎることはない」: tooの後ろには形容詞/副詞。\n□ cannot [can't] help doing「～せずにはいられない」: helpは「避ける」(= avoid)の意味。\n  同義: cannot but do《文語》、cannot\
+    \ help but do《米口語》。butの後ろは原形。\n□ may [might] well do ①「～するのももっともだ」（= It is natural that ~ / have good reason to do）\n  ②「たぶん～だろう」(= It is likely that ~): wellは「十分に」の意味で、may単独より確信が強い。\n□ may [might]\
+    \ as well do「（気は進まないが）～するほうがよいだろう」: 元はas notが省略。had betterより弱い。mightのほうが多少控えめだが実質差なし。\n□ might as well A as B「BするくらいならAするほうがましだ / Bするのは A するようなものだ」\nPU!20（発展）: 「～せずにはいられない」の上級表現:\n  have no choice but\
+    \ to do / There is nothing for it but to do\n  ＊ can/cannotがあればbut do、そうでなければbut to doと覚える。\n参照: in doing「～する際に」⇨問133\n参照: do well to do「～するのが賢明である」（選択肢の解説）\n"
+- id: sdv-020
+  name: 助動詞を用いた慣用表現②（had better / would rather系）
+  category: 動詞・時制
+  priority: P1
+  notes: "Theme 24。had better / would like / would rather を用いた慣用表現。\n□ had better do「～するほうがよい / ～しなさい」: 2語で1つの助動詞。後ろは原形。「そうしないと大変な目にあう」含意あり。youが主語の場合は忠告・軽い命令（目下の人や子どもに対して使うことが多い）。\n□ had better not do「～しないほうがよい」:\
+    \ 否定はbetterの後にnot。\n□ would like to do「～したいのですが」: want to doより丁寧で遠慮がちな願望。口語で'd like to do。\n□ would like A to do「Aに～してほしいのですが」: would likeの後に目的語A。\n□ would rather A than B「Bするよりもむしろ A したい」: A, Bはともに原形。\n\
+    □ would rather do「むしろ～したい」: would rather do than do のthan以下省略形。\n□ would rather not do「むしろ～したくない」: 否定はratherの後にnot。\nPU!21: 否定のnotの位置:\n  had better not do / would rather not do / ought not to do\n\
+    \  ＊ 3つとも否定のnotの位置が異なるので注意。\n参照: ⇨問577（speak to ~）、⇨問1140（be independent of ~）、⇨問202（much+比較級）、⇨問620（reservation「予約」）\n"
 understanding_goals:
-  # sdv-014
-  - node_id: "sdv-014"
-    seq: 1
-    goal: "can, may, mustの基本的な意味（能力/許可/推量、義務/推量）を区別できる"
-  - node_id: "sdv-014"
-    seq: 2
-    goal: "cannot「～のはずがない」とmust「～にちがいない」の推量の対比を説明できる"
-  - node_id: "sdv-014"
-    seq: 3
-    goal: "may「～かもしれない」の推量における確信の弱さを理解している"
-  - node_id: "sdv-014"
-    seq: 4
-    goal: "Can I ~? と May I ~? の丁寧さの違い、祈願のmayの用法を知っている"
-  # sdv-015
-  - node_id: "sdv-015"
-    seq: 1
-    goal: "mustが使えない時制（過去・未来）でhave toが代用されることを説明できる"
-  - node_id: "sdv-015"
-    seq: 2
-    goal: "don't have to do「不必要」とmust not「禁止」の意味の違いを区別できる"
-  - node_id: "sdv-015"
-    seq: 3
-    goal: "have only to doの意味とAll you have to do is (to) doとの書き換えができる"
-  - node_id: "sdv-015"
-    seq: 4
-    goal: "助動詞needと本動詞needの形の違いを説明できる"
-  # sdv-016
-  - node_id: "sdv-016"
-    seq: 1
-    goal: "would do「過去の習慣」の用法と共起する副詞（句）を理解している"
-  - node_id: "sdv-016"
-    seq: 2
-    goal: "would not do「過去の拒絶」の意味を理解できる"
-  - node_id: "sdv-016"
-    seq: 3
-    goal: "will not「現在の拒絶」との時制の違いを説明できる"
-  # sdv-017
-  - node_id: "sdv-017"
-    seq: 1
-    goal: "① used to do, ② be used to doing, ③ be used to do の3形を正確に区別できる"
-  - node_id: "sdv-017"
-    seq: 2
-    goal: "used toとwould doの違いを2点（現在との対比・状態動詞）で説明できる"
-  - node_id: "sdv-017"
-    seq: 3
-    goal: "各形のtoの後ろの形（原形/動名詞）から用法を判別できる"
-  - node_id: "sdv-017"
-    seq: 4
-    goal: "usedの発音の違い（① ② [juːst] vs ③ [juːzd]）を知っている"
-  # sdv-018
-  - node_id: "sdv-018"
-    seq: 1
-    goal: "助動詞+have doneが「過去のことに対する現在の判断」を表すことを理解している"
-  - node_id: "sdv-018"
-    seq: 2
-    goal: "推量系3つ（must/may/cannot + have done）の確信度を区別できる"
-  - node_id: "sdv-018"
-    seq: 3
-    goal: "should have doneの2つの意味（非難と推量）を文脈から区別できる"
-  - node_id: "sdv-018"
-    seq: 4
-    goal: "needn't have doneとdidn't need to doの意味の違いを説明できる"
-  - node_id: "sdv-018"
-    seq: 5
-    goal: "否定形（should not have done / ought not to have done）の語順を正確に言える"
-  # sdv-019
-  - node_id: "sdv-019"
-    seq: 1
-    goal: "cannot ~ too ...の意味を理解し使える"
-  - node_id: "sdv-019"
-    seq: 2
-    goal: "cannot help doingの意味と同義表現（cannot but do / have no choice but to do等）を区別できる"
-  - node_id: "sdv-019"
-    seq: 3
-    goal: "may well doの2つの意味（もっともだ / たぶん～だろう）を区別できる"
-  - node_id: "sdv-019"
-    seq: 4
-    goal: "may as wellとmight as well A as Bの意味の違いを理解している"
-  # sdv-020
-  - node_id: "sdv-020"
-    seq: 1
-    goal: "had better doの意味とニュアンス（脅し的含意）を理解している"
-  - node_id: "sdv-020"
-    seq: 2
-    goal: "would like to do / would like A to doを使い分けられる"
-  - node_id: "sdv-020"
-    seq: 3
-    goal: "would rather do / would rather A than Bを使い分けられる"
-  - node_id: "sdv-020"
-    seq: 4
-    goal: "had better not / would rather not / ought not toの否定形の語順の違いを正確に言える"
-
+- node_id: sdv-014
+  seq: 1
+  goal: can, may, mustの基本的な意味（能力/許可/推量、義務/推量）を区別できる
+- node_id: sdv-014
+  seq: 2
+  goal: cannot「～のはずがない」とmust「～にちがいない」の推量の対比を説明できる
+- node_id: sdv-014
+  seq: 3
+  goal: may「～かもしれない」の推量における確信の弱さを理解している
+- node_id: sdv-014
+  seq: 4
+  goal: Can I ~? と May I ~? の丁寧さの違い、祈願のmayの用法を知っている
+- node_id: sdv-015
+  seq: 1
+  goal: mustが使えない時制（過去・未来）でhave toが代用されることを説明できる
+- node_id: sdv-015
+  seq: 2
+  goal: don't have to do「不必要」とmust not「禁止」の意味の違いを区別できる
+- node_id: sdv-015
+  seq: 3
+  goal: have only to doの意味とAll you have to do is (to) doとの書き換えができる
+- node_id: sdv-015
+  seq: 4
+  goal: 助動詞needと本動詞needの形の違いを説明できる
+- node_id: sdv-016
+  seq: 1
+  goal: would do「過去の習慣」の用法と共起する副詞（句）を理解している
+- node_id: sdv-016
+  seq: 2
+  goal: would not do「過去の拒絶」の意味を理解できる
+- node_id: sdv-016
+  seq: 3
+  goal: will not「現在の拒絶」との時制の違いを説明できる
+- node_id: sdv-017
+  seq: 1
+  goal: ① used to do, ② be used to doing, ③ be used to do の3形を正確に区別できる
+- node_id: sdv-017
+  seq: 2
+  goal: used toとwould doの違いを2点（現在との対比・状態動詞）で説明できる
+- node_id: sdv-017
+  seq: 3
+  goal: 各形のtoの後ろの形（原形/動名詞）から用法を判別できる
+- node_id: sdv-017
+  seq: 4
+  goal: usedの発音の違い（① ② [juːst] vs ③ [juːzd]）を知っている
+- node_id: sdv-018
+  seq: 1
+  goal: 助動詞+have doneが「過去のことに対する現在の判断」を表すことを理解している
+- node_id: sdv-018
+  seq: 2
+  goal: 推量系3つ（must/may/cannot + have done）の確信度を区別できる
+- node_id: sdv-018
+  seq: 3
+  goal: should have doneの2つの意味（非難と推量）を文脈から区別できる
+- node_id: sdv-018
+  seq: 4
+  goal: needn't have doneとdidn't need to doの意味の違いを説明できる
+- node_id: sdv-018
+  seq: 5
+  goal: 否定形（should not have done / ought not to have done）の語順を正確に言える
+- node_id: sdv-019
+  seq: 1
+  goal: cannot ~ too ...の意味を理解し使える
+- node_id: sdv-019
+  seq: 2
+  goal: cannot help doingの意味と同義表現（cannot but do / have no choice but to do等）を区別できる
+- node_id: sdv-019
+  seq: 3
+  goal: may well doの2つの意味（もっともだ / たぶん～だろう）を区別できる
+- node_id: sdv-019
+  seq: 4
+  goal: may as wellとmight as well A as Bの意味の違いを理解している
+- node_id: sdv-020
+  seq: 1
+  goal: had better doの意味とニュアンス（脅し的含意）を理解している
+- node_id: sdv-020
+  seq: 2
+  goal: would like to do / would like A to doを使い分けられる
+- node_id: sdv-020
+  seq: 3
+  goal: would rather do / would rather A than Bを使い分けられる
+- node_id: sdv-020
+  seq: 4
+  goal: had better not / would rather not / ought not toの否定形の語順の違いを正確に言える
 check_points:
-  # sdv-014
-  - node_id: "sdv-014"
-    seq: 1
-    question: "cannotが「～のはずがない」の意味で使われるのはどのような場面か？"
-    answer: "話者が強い否定の推量をする場面。must「～にちがいない」の対義。"
-  - node_id: "sdv-014"
-    seq: 2
-    question: "mayの推量用法「～かもしれない」はmustの推量と比べてどう違うか？"
-    answer: "mayは確信の持てない推量（可能性）、mustは確信のある推量。"
-  - node_id: "sdv-014"
-    seq: 3
-    question: "\"May your dreams come true!\"のmayはどのような用法か？"
-    answer: "祈願のmay（文語的）。May A do! の形で「Aが～しますように」。"
-  - node_id: "sdv-014"
-    seq: 4
-    question: "canの許可用法とmayの許可用法の違いは？"
-    answer: "Can I ~? は口語的、May I ~? はより丁寧。"
-  # sdv-015
-  - node_id: "sdv-015"
-    seq: 1
-    question: "mustが使えない時制では何を代用するか？"
-    answer: "have to。過去: had to do、未来: will have to do。"
-  - node_id: "sdv-015"
-    seq: 2
-    question: "don't have to doの同義表現は？"
-    answer: "need not do / needn't do / don't need to do（「～する必要はない」）。"
-  - node_id: "sdv-015"
-    seq: 3
-    question: "have only to doはどのような意味か？書き換えは？"
-    answer: "「～しさえすればよい」。= All you have to do is (to) do。"
-  # sdv-016
-  - node_id: "sdv-016"
-    seq: 1
-    question: "would doが「過去の習慣」を表す場合、どのような副詞（句）を伴うことが多いか？"
-    answer: "often, sometimes, now and then など。"
-  - node_id: "sdv-016"
-    seq: 2
-    question: "would not doはどのような意味か？"
-    answer: "「どうしても～しようとしなかった」（過去の拒絶）。will notの過去形。"
-  - node_id: "sdv-016"
-    seq: 3
-    question: "\"This box will not open.\"のwill notはどのような意味か？"
-    answer: "現在の強い意志（拒絶）「どうしても開かない」。無生物主語でも使える。"
-  # sdv-017
-  - node_id: "sdv-017"
-    seq: 1
-    question: "used to doとbe used to doingの最も重要な見分け方は？"
-    answer: "toの後ろが原形なら used to do（以前の習慣）、-ingなら be used to doing（慣れている）。toの品詞が異なる（助動詞の一部 vs 前置詞）。"
-  - node_id: "sdv-017"
-    seq: 2
-    question: "used toとwould doの違いを2つ挙げよ。"
-    answer: "(1) used toは現在と対比（今はしていない）、wouldは回想的に述べるだけ。(2) used toは動作+状態、wouldは動作のみ（状態動詞不可）。"
-  - node_id: "sdv-017"
-    seq: 3
-    question: "\"There used to be a castle.\"のused toをwouldに置き換えられるか？"
-    answer: "不可。beは状態動詞なのでwouldは使えない。"
-  - node_id: "sdv-017"
-    seq: 4
-    question: "① used to doと③ be used to do（受動態）のusedの発音の違いは？"
-    answer: "① [juːst]（ユースト）、③ [juːzd]（ユーズド）。②も[juːst]。"
-  # sdv-018
-  - node_id: "sdv-018"
-    seq: 1
-    question: "must have doneとmay have doneの確信度の違いは？"
-    answer: "must have done「～したにちがいない」（確信ある推量）、may have done「～したかもしれない」（確信の持てない推量）。"
-  - node_id: "sdv-018"
-    seq: 2
-    question: "should have doneの2つの意味は？"
-    answer: "①「～すべきだったのに」（非難・後悔、実際はしなかった）②「～した[している]はずだ」（推量、by nowとセットが多い）。"
-  - node_id: "sdv-018"
-    seq: 3
-    question: "needn't have doneとdidn't need to doの違いは？"
-    answer: "needn't have done = 必要なかったのに実際はした。didn't need to do = 必要なかった（実際にしたかは不明）。"
-  - node_id: "sdv-018"
-    seq: 4
-    question: "cannot have doneの意味は？同義表現は？"
-    answer: "「～したはずがない」（確信のある否定的推量）。couldn't have doneもほぼ同義。"
-  - node_id: "sdv-018"
-    seq: 5
-    question: "should not have doneの同意表現と、その否定語の位置は？"
-    answer: "ought not to have done。notはoughtの直後に置く（×ought to not have done）。"
-  # sdv-019
-  - node_id: "sdv-019"
-    seq: 1
-    question: "cannot ~ too ...はどのような意味か？"
-    answer: "「いくら…しても～しすぎることはない」。tooの後は形容詞/副詞。"
-  - node_id: "sdv-019"
-    seq: 2
-    question: "cannot help doingの同義表現を挙げよ。butを使う場合の後ろの形の違いは？"
-    answer: "cannot but do《文語》、cannot help but do《米口語》、have no choice but to do。can/cannotがあればbut+原形、そうでなければbut+to do。"
-  - node_id: "sdv-019"
-    seq: 3
-    question: "may well doの2つの意味は？"
-    answer: "①「～するのももっともだ」(= It is natural that ~)  ②「たぶん～だろう」(= It is likely that ~)。②のwellは「十分に」でmay単独より確信が強い。"
-  - node_id: "sdv-019"
-    seq: 4
-    question: "might as well A as Bの意味は？"
-    answer: "「BするくらいならAするほうがましだ / Bするのは A するようなものだ」。"
-  # sdv-020
-  - node_id: "sdv-020"
-    seq: 1
-    question: "had better doはどのようなニュアンスを含むか？目上の人に使えるか？"
-    answer: "「そうしないと大変な目にあう」という含意がある。目上の人には使わない（忠告・軽い命令の意味合い）。"
-  - node_id: "sdv-020"
-    seq: 2
-    question: "had better doの否定形は？would rather doの否定形は？"
-    answer: "had better not do（betterの後にnot）。would rather not do（ratherの後にnot）。"
-  - node_id: "sdv-020"
-    seq: 3
-    question: "ought to doの否定形は？had better notとの語順の違いは？"
-    answer: "ought not to do（notはoughtの後、toの前）。had better notはbetterの後にnot。3つとも否定語の位置が異なる。"
-  - node_id: "sdv-020"
-    seq: 4
-    question: "would like to doとwant to doの違いは？"
-    answer: "would like to doのほうが丁寧で遠慮がちな願望の表現。"
-  - node_id: "sdv-020"
-    seq: 5
-    question: "would rather A than Bの形で、AとBはそれぞれ何形か？"
-    answer: "ともに動詞の原形。"
-
+- node_id: sdv-014
+  seq: 1
+  question: cannotが「～のはずがない」の意味で使われるのはどのような場面か？
+  answer: 話者が強い否定の推量をする場面。must「～にちがいない」の対義。
+- node_id: sdv-014
+  seq: 2
+  question: mayの推量用法「～かもしれない」はmustの推量と比べてどう違うか？
+  answer: mayは確信の持てない推量（可能性）、mustは確信のある推量。
+- node_id: sdv-014
+  seq: 3
+  question: '"May your dreams come true!"のmayはどのような用法か？'
+  answer: 祈願のmay（文語的）。May A do! の形で「Aが～しますように」。
+- node_id: sdv-014
+  seq: 4
+  question: canの許可用法とmayの許可用法の違いは？
+  answer: Can I ~? は口語的、May I ~? はより丁寧。
+- node_id: sdv-015
+  seq: 1
+  question: mustが使えない時制では何を代用するか？
+  answer: 'have to。過去: had to do、未来: will have to do。'
+- node_id: sdv-015
+  seq: 2
+  question: don't have to doの同義表現は？
+  answer: need not do / needn't do / don't need to do（「～する必要はない」）。
+- node_id: sdv-015
+  seq: 3
+  question: have only to doはどのような意味か？書き換えは？
+  answer: 「～しさえすればよい」。= All you have to do is (to) do。
+- node_id: sdv-016
+  seq: 1
+  question: would doが「過去の習慣」を表す場合、どのような副詞（句）を伴うことが多いか？
+  answer: often, sometimes, now and then など。
+- node_id: sdv-016
+  seq: 2
+  question: would not doはどのような意味か？
+  answer: 「どうしても～しようとしなかった」（過去の拒絶）。will notの過去形。
+- node_id: sdv-016
+  seq: 3
+  question: '"This box will not open."のwill notはどのような意味か？'
+  answer: 現在の強い意志（拒絶）「どうしても開かない」。無生物主語でも使える。
+- node_id: sdv-017
+  seq: 1
+  question: used to doとbe used to doingの最も重要な見分け方は？
+  answer: toの後ろが原形なら used to do（以前の習慣）、-ingなら be used to doing（慣れている）。toの品詞が異なる（助動詞の一部 vs 前置詞）。
+- node_id: sdv-017
+  seq: 2
+  question: used toとwould doの違いを2つ挙げよ。
+  answer: (1) used toは現在と対比（今はしていない）、wouldは回想的に述べるだけ。(2) used toは動作+状態、wouldは動作のみ（状態動詞不可）。
+- node_id: sdv-017
+  seq: 3
+  question: '"There used to be a castle."のused toをwouldに置き換えられるか？'
+  answer: 不可。beは状態動詞なのでwouldは使えない。
+- node_id: sdv-017
+  seq: 4
+  question: ① used to doと③ be used to do（受動態）のusedの発音の違いは？
+  answer: ① [juːst]（ユースト）、③ [juːzd]（ユーズド）。②も[juːst]。
+- node_id: sdv-018
+  seq: 1
+  question: must have doneとmay have doneの確信度の違いは？
+  answer: must have done「～したにちがいない」（確信ある推量）、may have done「～したかもしれない」（確信の持てない推量）。
+- node_id: sdv-018
+  seq: 2
+  question: should have doneの2つの意味は？
+  answer: ①「～すべきだったのに」（非難・後悔、実際はしなかった）②「～した[している]はずだ」（推量、by nowとセットが多い）。
+- node_id: sdv-018
+  seq: 3
+  question: needn't have doneとdidn't need to doの違いは？
+  answer: needn't have done = 必要なかったのに実際はした。didn't need to do = 必要なかった（実際にしたかは不明）。
+- node_id: sdv-018
+  seq: 4
+  question: cannot have doneの意味は？同義表現は？
+  answer: 「～したはずがない」（確信のある否定的推量）。couldn't have doneもほぼ同義。
+- node_id: sdv-018
+  seq: 5
+  question: should not have doneの同意表現と、その否定語の位置は？
+  answer: ought not to have done。notはoughtの直後に置く（×ought to not have done）。
+- node_id: sdv-019
+  seq: 1
+  question: cannot ~ too ...はどのような意味か？
+  answer: 「いくら…しても～しすぎることはない」。tooの後は形容詞/副詞。
+- node_id: sdv-019
+  seq: 2
+  question: cannot help doingの同義表現を挙げよ。butを使う場合の後ろの形の違いは？
+  answer: cannot but do《文語》、cannot help but do《米口語》、have no choice but to do。can/cannotがあればbut+原形、そうでなければbut+to do。
+- node_id: sdv-019
+  seq: 3
+  question: may well doの2つの意味は？
+  answer: ①「～するのももっともだ」(= It is natural that ~)  ②「たぶん～だろう」(= It is likely that ~)。②のwellは「十分に」でmay単独より確信が強い。
+- node_id: sdv-019
+  seq: 4
+  question: might as well A as Bの意味は？
+  answer: 「BするくらいならAするほうがましだ / Bするのは A するようなものだ」。
+- node_id: sdv-020
+  seq: 1
+  question: had better doはどのようなニュアンスを含むか？目上の人に使えるか？
+  answer: 「そうしないと大変な目にあう」という含意がある。目上の人には使わない（忠告・軽い命令の意味合い）。
+- node_id: sdv-020
+  seq: 2
+  question: had better doの否定形は？would rather doの否定形は？
+  answer: had better not do（betterの後にnot）。would rather not do（ratherの後にnot）。
+- node_id: sdv-020
+  seq: 3
+  question: ought to doの否定形は？had better notとの語順の違いは？
+  answer: ought not to do（notはoughtの後、toの前）。had better notはbetterの後にnot。3つとも否定語の位置が異なる。
+- node_id: sdv-020
+  seq: 4
+  question: would like to doとwant to doの違いは？
+  answer: would like to doのほうが丁寧で遠慮がちな願望の表現。
+- node_id: sdv-020
+  seq: 5
+  question: would rather A than Bの形で、AとBはそれぞれ何形か？
+  answer: ともに動詞の原形。
 node_prerequisites:
-  - node_id: "sdv-015"
-    prerequisite_id: "sdv-014"
-  - node_id: "sdv-016"
-    prerequisite_id: "sdv-014"
-  - node_id: "sdv-017"
-    prerequisite_id: "sdv-016"
-  - node_id: "sdv-018"
-    prerequisite_id: "sdv-014"
-  - node_id: "sdv-019"
-    prerequisite_id: "sdv-014"
-  - node_id: "sdv-020"
-    prerequisite_id: "sdv-014"
-
+- node_id: sdv-015
+  prerequisite_id: sdv-014
+- node_id: sdv-016
+  prerequisite_id: sdv-014
+- node_id: sdv-017
+  prerequisite_id: sdv-016
+- node_id: sdv-018
+  prerequisite_id: sdv-014
+- node_id: sdv-019
+  prerequisite_id: sdv-014
+- node_id: sdv-020
+  prerequisite_id: sdv-014
 knowledge_references:
-  - node_id: "sdv-014"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_017"
-    pages: ""
-  - node_id: "sdv-015"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_018"
-    pages: ""
-  - node_id: "sdv-016"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_019"
-    pages: ""
-  - node_id: "sdv-017"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_020"
-    pages: ""
-  - node_id: "sdv-018"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_021"
-    pages: ""
-  - node_id: "sdv-018"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_022"
-    pages: ""
-  - node_id: "sdv-019"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_023"
-    pages: ""
-  - node_id: "sdv-020"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_024"
-    pages: ""
+- node_id: sdv-014
+  book: スクランブル英文法・語法
+  section_id: Scr_017
+  pages: ''
+- node_id: sdv-015
+  book: スクランブル英文法・語法
+  section_id: Scr_018
+  pages: ''
+- node_id: sdv-016
+  book: スクランブル英文法・語法
+  section_id: Scr_019
+  pages: ''
+- node_id: sdv-017
+  book: スクランブル英文法・語法
+  section_id: Scr_020
+  pages: ''
+- node_id: sdv-018
+  book: スクランブル英文法・語法
+  section_id: Scr_021
+  pages: ''
+- node_id: sdv-019
+  book: スクランブル英文法・語法
+  section_id: Scr_023
+  pages: ''
+- node_id: sdv-020
+  book: スクランブル英文法・語法
+  section_id: Scr_024
+  pages: ''

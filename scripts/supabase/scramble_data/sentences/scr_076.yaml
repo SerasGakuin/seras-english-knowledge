@@ -1,133 +1,131 @@
 sentences:
-  - id: "scr-076-p01"
-    section_id: "Scr_076"
-    drill: 1
-    number: 279
-    role: "exam"
-    english: "I cannot walk along this street without running into someone I know."
-    japanese: "この通りを歩くと、必ず知り合いに出会ってしまう。"
-    notes: "難易度: 頻出。出典: 近畿大。整序問題。cannot ... without doing =「…すると必ず～する」（二重否定→強い肯定）。= Whenever I walk along this street, I run into someone I know. run into ～（⇨ 問967）"
-  - id: "scr-076-e01"
-    section_id: "Scr_076"
-    drill: 0
-    number: null
-    role: "example"
-    english: "In no way is this your fault."
-    japanese: "これがあなたのせいだなんてことは決してない。"
-    notes: "PU!52。in no way =「決して～でない」。文頭に出ると倒置"
-  - id: "scr-076-e02"
-    section_id: "Scr_076"
-    drill: 0
-    number: null
-    role: "example"
-    english: "Under no circumstances should you give up."
-    japanese: "決してあきらめてはならない。"
-    notes: "PU!52。under no circumstances =「決して～でない」。文頭に出ると倒置"
-  - id: "scr-076-e03"
-    section_id: "Scr_076"
-    drill: 0
-    number: null
-    role: "example"
-    english: "It never rains but it pours."
-    japanese: "降れば必ずどしゃ降り（2度あることは3度ある）。"
-    notes: "PU!53①。ことわざ。but =「～しないでは」の接続詞。= It never rains without pouring."
-  - id: "scr-076-e04"
-    section_id: "Scr_076"
-    drill: 0
-    number: null
-    role: "example"
-    english: "Not a week passed without some unexpected problem arising."
-    japanese: "毎週必ず予期せぬ問題が起こった。"
-    notes: "PU!53②。Not a ... without ～「毎～必ず…する」（二重否定）"
-  - id: "scr-076-e05"
-    section_id: "Scr_076"
-    drill: 0
-    number: null
-    role: "example"
-    english: "There is no rose without a thorn."
-    japanese: "とげのないバラはない（バラには必ずとげがある）。"
-    notes: "PU!53③。ことわざ。There is no ... without ～「～のない…はない」（二重否定）"
-  - id: "scr-076-e06"
-    section_id: "Scr_076"
-    drill: 0
-    number: null
-    role: "example"
-    english: "He never fails to show up on time."
-    japanese: "彼は必ず時間通りに現れる。"
-    notes: "PU!53④。never fail to do「必ず～する」（⇨ PU!98）（二重否定）"
-  - id: "scr-076-e07"
-    section_id: "Scr_076"
-    drill: 0
-    number: null
-    role: "example"
-    english: "Rain in this desert is not unusual during the winter months."
-    japanese: "この砂漠で冬の間に雨が降るのはごくふつうのことだ。"
-    notes: "PU!53⑤。not unusual =「ごくふつうの」（二重否定→肯定）"
-
+- id: scr-076-p01
+  section_id: Scr_076
+  drill: 1
+  number: 279
+  role: exam
+  english: I cannot walk along this street without running into someone I know.
+  japanese: この通りを歩くと、必ず知り合いに出会ってしまう。
+  notes: '難易度: 頻出。出典: 近畿大。整序問題。cannot ... without doing =「…すると必ず～する」（二重否定→強い肯定）。= Whenever I walk along this street, I run into someone I know. run into ～（⇨ 問967）'
+- id: scr-076-e01
+  section_id: Scr_076
+  drill: 0
+  number: 1
+  role: example
+  english: In no way is this your fault.
+  japanese: これがあなたのせいだなんてことは決してない。
+  notes: PU!52。in no way =「決して～でない」。文頭に出ると倒置
+- id: scr-076-e02
+  section_id: Scr_076
+  drill: 0
+  number: 2
+  role: example
+  english: Under no circumstances should you give up.
+  japanese: 決してあきらめてはならない。
+  notes: PU!52。under no circumstances =「決して～でない」。文頭に出ると倒置
+- id: scr-076-e03
+  section_id: Scr_076
+  drill: 0
+  number: 3
+  role: example
+  english: It never rains but it pours.
+  japanese: 降れば必ずどしゃ降り（2度あることは3度ある）。
+  notes: PU!53①。ことわざ。but =「～しないでは」の接続詞。= It never rains without pouring.
+- id: scr-076-e04
+  section_id: Scr_076
+  drill: 0
+  number: 4
+  role: example
+  english: Not a week passed without some unexpected problem arising.
+  japanese: 毎週必ず予期せぬ問題が起こった。
+  notes: PU!53②。Not a ... without ～「毎～必ず…する」（二重否定）
+- id: scr-076-e05
+  section_id: Scr_076
+  drill: 0
+  number: 5
+  role: example
+  english: There is no rose without a thorn.
+  japanese: とげのないバラはない（バラには必ずとげがある）。
+  notes: PU!53③。ことわざ。There is no ... without ～「～のない…はない」（二重否定）
+- id: scr-076-e06
+  section_id: Scr_076
+  drill: 0
+  number: 6
+  role: example
+  english: He never fails to show up on time.
+  japanese: 彼は必ず時間通りに現れる。
+  notes: PU!53④。never fail to do「必ず～する」（⇨ PU!98）（二重否定）
+- id: scr-076-e07
+  section_id: Scr_076
+  drill: 0
+  number: 7
+  role: example
+  english: Rain in this desert is not unusual during the winter months.
+  japanese: この砂漠で冬の間に雨が降るのはごくふつうのことだ。
+  notes: PU!53⑤。not unusual =「ごくふつうの」（二重否定→肯定）
 sentence_structures:
-  - sentence_id: "scr-076-p01"
-    label: "overall"
-    value: "S V O"
-  - sentence_id: "scr-076-p01"
-    label: "details"
-    value: "<I>(S) cannot walk along(V) <this street>(O) [without running into someone I know](M:二重否定)"
-  - sentence_id: "scr-076-e01"
-    label: "overall"
-    value: "S V C"
-  - sentence_id: "scr-076-e01"
-    label: "details"
-    value: "[In no way](M:強い否定→倒置) is(V) <this>(S) <your fault>(C)"
-  - sentence_id: "scr-076-e02"
-    label: "overall"
-    value: "S V"
-  - sentence_id: "scr-076-e02"
-    label: "details"
-    value: "[Under no circumstances](M:強い否定→倒置) should <you>(S) give up(V)"
-  - sentence_id: "scr-076-e03"
-    label: "overall"
-    value: "S V S V"
-  - sentence_id: "scr-076-e03"
-    label: "details"
-    value: "<It>(S) never rains(V) [but](接続詞:～しないでは) <it>(S) pours(V)"
-  - sentence_id: "scr-076-e04"
-    label: "overall"
-    value: "S V"
-  - sentence_id: "scr-076-e04"
-    label: "details"
-    value: "[Not a week](S:二重否定) passed(V) [without some unexpected problem arising](M)"
-  - sentence_id: "scr-076-e05"
-    label: "overall"
-    value: "There V S"
-  - sentence_id: "scr-076-e05"
-    label: "details"
-    value: "There is(V) <no rose>(S) [without a thorn](M:二重否定)"
-  - sentence_id: "scr-076-e06"
-    label: "overall"
-    value: "S V"
-  - sentence_id: "scr-076-e06"
-    label: "details"
-    value: "<He>(S) never fails(V) [to show up on time](M:不定詞)"
-  - sentence_id: "scr-076-e07"
-    label: "overall"
-    value: "S V C"
-  - sentence_id: "scr-076-e07"
-    label: "details"
-    value: "<Rain in this desert>(S) is(V) [not unusual](C:二重否定) [during the winter months](M)"
-
+- sentence_id: scr-076-p01
+  label: overall
+  value: S V O
+- sentence_id: scr-076-p01
+  label: details
+  value: <I>(S) cannot walk along(V) <this street>(O) [without running into someone I know](M:二重否定)
+- sentence_id: scr-076-e01
+  label: overall
+  value: S V C
+- sentence_id: scr-076-e01
+  label: details
+  value: '[In no way](M:強い否定→倒置) is(V) <this>(S) <your fault>(C)'
+- sentence_id: scr-076-e02
+  label: overall
+  value: S V
+- sentence_id: scr-076-e02
+  label: details
+  value: '[Under no circumstances](M:強い否定→倒置) should <you>(S) give up(V)'
+- sentence_id: scr-076-e03
+  label: overall
+  value: S V S V
+- sentence_id: scr-076-e03
+  label: details
+  value: <It>(S) never rains(V) [but](接続詞:～しないでは) <it>(S) pours(V)
+- sentence_id: scr-076-e04
+  label: overall
+  value: S V
+- sentence_id: scr-076-e04
+  label: details
+  value: '[Not a week](S:二重否定) passed(V) [without some unexpected problem arising](M)'
+- sentence_id: scr-076-e05
+  label: overall
+  value: There V S
+- sentence_id: scr-076-e05
+  label: details
+  value: There is(V) <no rose>(S) [without a thorn](M:二重否定)
+- sentence_id: scr-076-e06
+  label: overall
+  value: S V
+- sentence_id: scr-076-e06
+  label: details
+  value: <He>(S) never fails(V) [to show up on time](M:不定詞)
+- sentence_id: scr-076-e07
+  label: overall
+  value: S V C
+- sentence_id: scr-076-e07
+  label: details
+  value: <Rain in this desert>(S) is(V) [not unusual](C:二重否定) [during the winter months](M)
 sentence_knowledge_tags:
-  - sentence_id: "scr-076-p01"
-    node_id: "shs-009"
-  - sentence_id: "scr-076-e01"
-    node_id: "shs-009"
-  - sentence_id: "scr-076-e02"
-    node_id: "shs-009"
-  - sentence_id: "scr-076-e03"
-    node_id: "shs-009"
-  - sentence_id: "scr-076-e04"
-    node_id: "shs-009"
-  - sentence_id: "scr-076-e05"
-    node_id: "shs-009"
-  - sentence_id: "scr-076-e06"
-    node_id: "shs-009"
-  - sentence_id: "scr-076-e07"
-    node_id: "shs-009"
+- sentence_id: scr-076-p01
+  node_id: shs-009
+- sentence_id: scr-076-e01
+  node_id: shs-009
+- sentence_id: scr-076-e02
+  node_id: shs-009
+- sentence_id: scr-076-e03
+  node_id: shs-009
+- sentence_id: scr-076-e04
+  node_id: shs-009
+- sentence_id: scr-076-e05
+  node_id: shs-009
+- sentence_id: scr-076-e06
+  node_id: shs-009
+- sentence_id: scr-076-e07
+  node_id: shs-009

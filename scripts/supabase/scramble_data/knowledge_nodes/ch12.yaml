@@ -1,448 +1,397 @@
 knowledge_nodes:
-  - id: "shs-020"
-    name: "関係代名詞who/which/thatの用法"
-    category: "品詞・構文"
-    priority: "P1"
-    notes: |
-      Theme 91: 関係代名詞の先行詞と格変化。
+- id: shs-020
+  name: 関係代名詞who/which/thatの用法
+  category: 品詞・構文
+  priority: P1
+  notes: "Theme 91: 関係代名詞の先行詞と格変化。\n\n関係代名詞は文を結びつける働きと代名詞の働きを兼ねたもので、\n形容詞節を導いて、名詞（先行詞）を後ろから説明（修飾）する。\n\nPU!66: 関係代名詞の先行詞と格変化\n[図表: 先行詞（人/人以外/人+人以外）× 格（主格/所有格/目的格）の対照表]\n人: who / whose / whom[who《口語》]\n\
+    人以外: which / whose[of which] / which\n人+人以外: that / × / that\n\n(1) 主格 who [that]: 先行詞が「人」で、関係詞節内で主語。\n(2) 所有格 whose: 先行詞が「人」「人以外」両方で使える。\n    人以外の場合: whose = the + 名詞 + of which\n(3) 目的格 which [that]:\
+    \ 先行詞が「人以外」で、関係詞節内で目的語。\n    目的格関係代名詞は省略可能。\n(4) 関係代名詞直後の S + V の割り込み:\n    The man who I thought was ...（I thinkが割り込んだ形）\n    whoは was の主語であり、I thought の目的語ではない → 主格 who。\n"
+- id: shs-021
+  name: 前置詞＋関係代名詞
+  category: 品詞・構文
+  priority: P1
+  notes: "Theme 92: 関係代名詞が前置詞の目的語になる場合の3パターン。\n\nPU!67: 前置詞＋関係代名詞と前置詞の後置\n① 前置詞＋関係代名詞: This is the office in which he works.《文語》\n② 前置詞の後置: This is the office which [that] he works in.《口語》\n③ 目的格関係代名詞の省略:\
+    \ This is the office (　) he works in.\n\n注意点:\n＊①の場合、関係代名詞は目的格でも省略できない。\n＊thatの場合は前置詞は必ず後置: ×in that → ○that ... in\n＊in whichのwhichは省略不可: ×in (　) → ○(　) ... in\n＊前置詞＋which [whom] + to do が直前の名詞を修飾する用法もある:\n\
+    \  tools with which to fix（⇨ 問352）\n"
+- id: shs-022
+  name: 関係代名詞whatの用法と慣用表現
+  category: 品詞・構文
+  priority: P1
+  notes: 'Theme 93+94: 関係代名詞whatの基本用法と慣用表現。
 
-      関係代名詞は文を結びつける働きと代名詞の働きを兼ねたもので、
-      形容詞節を導いて、名詞（先行詞）を後ろから説明（修飾）する。
 
-      PU!66: 関係代名詞の先行詞と格変化
-      [図表: 先行詞（人/人以外/人+人以外）× 格（主格/所有格/目的格）の対照表]
-      人: who / whose / whom[who《口語》]
-      人以外: which / whose[of which] / which
-      人+人以外: that / × / that
+    基本:
 
-      (1) 主格 who [that]: 先行詞が「人」で、関係詞節内で主語。
-      (2) 所有格 whose: 先行詞が「人」「人以外」両方で使える。
-          人以外の場合: whose = the + 名詞 + of which
-      (3) 目的格 which [that]: 先行詞が「人以外」で、関係詞節内で目的語。
-          目的格関係代名詞は省略可能。
-      (4) 関係代名詞直後の S + V の割り込み:
-          The man who I thought was ...（I thinkが割り込んだ形）
-          whoは was の主語であり、I thought の目的語ではない → 主格 who。
+    whatはその中に先行詞を含んだ特殊な関係代名詞。
 
-  - id: "shs-021"
-    name: "前置詞＋関係代名詞"
-    category: "品詞・構文"
-    priority: "P1"
-    notes: |
-      Theme 92: 関係代名詞が前置詞の目的語になる場合の3パターン。
+    what = the thing(s) which「～すること[もの]」
 
-      PU!67: 前置詞＋関係代名詞と前置詞の後置
-      ① 前置詞＋関係代名詞: This is the office in which he works.《文語》
-      ② 前置詞の後置: This is the office which [that] he works in.《口語》
-      ③ 目的格関係代名詞の省略: This is the office (　) he works in.
+    名詞節を導き、文中で主語・目的語・補語となる。
 
-      注意点:
-      ＊①の場合、関係代名詞は目的格でも省略できない。
-      ＊thatの場合は前置詞は必ず後置: ×in that → ○that ... in
-      ＊in whichのwhichは省略不可: ×in (　) → ○(　) ... in
-      ＊前置詞＋which [whom] + to do が直前の名詞を修飾する用法もある:
-        tools with which to fix（⇨ 問352）
+    what自体は、what節内で主語・目的語・補語の名詞の働きをする。
 
-  - id: "shs-022"
-    name: "関係代名詞whatの用法と慣用表現"
-    category: "品詞・構文"
-    priority: "P1"
-    notes: |
-      Theme 93+94: 関係代名詞whatの基本用法と慣用表現。
 
-      基本:
-      whatはその中に先行詞を含んだ特殊な関係代名詞。
-      what = the thing(s) which「～すること[もの]」
-      名詞節を導き、文中で主語・目的語・補語となる。
-      what自体は、what節内で主語・目的語・補語の名詞の働きをする。
+    PU!68: whatとthatの使い分け
 
-      PU!68: whatとthatの使い分け
-      後ろに主語や目的語の欠けた不完全な文が続く → what
-      後ろに完全な文が続く → that
+    後ろに主語や目的語の欠けた不完全な文が続く → what
 
-      慣用表現:
-      what (few [little]) + 名詞「(少ないながらも)～するすべての…」
-      ＊関係形容詞としての what。= all the + 名詞 + that
-      what S is「現在のS」⇔ what S used to be [was]「昔のS」
-      what S has「Sの財産」⇔ what S is「Sの人柄」
-      what is more「その上/おまけに」(= besides / in addition)
-      what is worse「さらに悪いことには」⇔ what is better「さらに良いことには」
-      what is called「いわゆる」(= what we [you/they] call)
-      比較: so-called「いわゆる/～とやら」[時に不信・軽蔑の意を含む]
-      A is to B what C is to D「AとBの関係はCとDの関係と同じだ」(= as)
+    後ろに完全な文が続く → that
 
-      PU!69: what + S + be動詞 の意味
-      what S is「現在のS」 / what S has「Sの財産」
-      what S is「Sの人柄」 / what S really is「Sの真の姿」
-      ⇔ what S appears [seems] to be「Sの見かけの姿」
-      what S will be「将来のS」 / what S should be「Sのあるべき姿」
 
-  - id: "shs-023"
-    name: "関係副詞の用法"
-    category: "品詞・構文"
-    priority: "P1"
-    notes: |
-      Theme 95+96: 関係副詞の基本用法と注意すべき用法。
+    慣用表現:
 
-      関係副詞は先行詞と節をつなぐ接続詞の働きと副詞の働きを兼ねるもの。
-      where / when / why / how の4つ。
+    what (few [little]) + 名詞「(少ないながらも)～するすべての…」
 
-      PU!70: 関係副詞の種類と先行詞
-      [図表: 先行詞と関係副詞の対応表]
-      場所(place, house等) → where [= in/at which]
-      時(time, day等) → when [= on/at which]
-      理由(reasonのみ) → why [= for which]
-      なし → how [= the way]
+    ＊関係形容詞としての what。= all the + 名詞 + that
 
-      PU!71: 関係副詞whereと関係代名詞whichの使い分け
-      「場所」が先行詞でも関係詞はwhereとは限らない:
-      代名詞の働き(主語/目的語)→ 後ろは不完全な文 → which
-      副詞の働き(文の主要素にならない)→ 後ろは完全な文 → where
-      ＊ただし、I was born に in がついていれば which。
-        Kyoto is the city which (*where) I was born in.
+    what S is「現在のS」⇔ what S used to be [was]「昔のS」
 
-      howは常に先行詞なしで用いる。（×the way how）
-      This is how 節「このようにして～」
-      = This is the way (関係副詞なし) / the way in which / the way that ...
+    what S has「Sの財産」⇔ what S is「Sの人柄」
 
-      関係副詞の注意すべき用法:
-      whereの先行詞が「場所」以外の場合:
-      case「場合/事例」/ situation「状況」/ point「点」なども先行詞になる。
+    what is more「その上/おまけに」(= besides / in addition)
 
-      先行詞の省略:
-      the place / the time / the reason が省略されることがある。
-      where → 「～する場所」の名詞節
-      That's why 節「そういうわけで～」
-      cf. That's because 節「それは～だからだ」
-      「理由 + That's why + 結果」=「結果 + That's because + 理由」
+    what is worse「さらに悪いことには」⇔ what is better「さらに良いことには」
 
-  - id: "shs-024"
-    name: "非制限用法の関係詞"
-    category: "品詞・構文"
-    priority: "P1"
-    notes: |
-      Theme 97+98: 非制限用法の関係詞とwhichの特別な用法。
+    what is called「いわゆる」(= what we [you/they] call)
 
-      基本:
-      (1) 関係詞の前にコンマを置いて、先行詞について説明を付け加える用法。
-      (2) 非制限用法のある関係詞:
-          関係代名詞: who / whom / which / whose
-          関係副詞: where / when
-          ＊that / why / how にはこの用法はない。
-      (3) 非制限用法では目的格関係代名詞でも省略できない。
+    比較: so-called「いわゆる/～とやら」[時に不信・軽蔑の意を含む]
 
-      PU!72: 非制限用法の意味のとり方
-      関係代名詞 → 「接続詞 + 代名詞」に置き換え
-      関係副詞 → 「接続詞 + 副詞」に置き換え
-      原則として前から後ろへ順に訳す。
-      , who (= because he) / , when (= and then) / , where (= and there)
+    A is to B what C is to D「AとBの関係はCとDの関係と同じだ」(= as)
 
-      「A of + 関係代名詞」の非制限用法:
-      ..., all of whom 〜 = ..., and all of them 〜
-      Aには all / most / some / many / both / neither 等が入る。
 
-      whichの特別な非制限用法:
-      (1) 前の節全体を先行詞とする which:
-          ..., which was good news = ..., and that [it] was good news
-          ＊接続詞なしでitは文をつなげない。thatとwhatは非制限用法不可。
-      (2) 前の節の一部を先行詞とする which:
-          ..., which I find to be difficult = ..., but I find it to be difficult
-      (3) 関係形容詞 which《文語》:
-          ..., which advice we followed = ..., and we followed that advice
-          「前置詞 + which + 名詞」の形もある。
+    PU!69: what + S + be動詞 の意味
 
-  - id: "shs-025"
-    name: "関係代名詞としてのas/but/thanの用法"
-    category: "品詞・構文"
-    priority: "P2"
-    notes: |
-      Theme 99: 関係代名詞としてのas / but / thanの用法。
+    what S is「現在のS」 / what S has「Sの財産」
 
-      (1) such ... as ～「～するような…」:
-      asはsuch / the sameなどと相関的に用いられる。
-      the same ... as [that]「…と同じ～」
-      ＊現在では as と that の区別なく使われる。
+    what S is「Sの人柄」 / what S really is「Sの真の姿」
 
-      (2) as is often the case (with ～)「(～には)よくあることだが」
-      = as is usual (with ～)
-      ＊asにも非制限用法のwhichと同様に節全体を先行詞とする用法がある。
-      ＊which節は必ず主節の後に置かれるが、as節は前後・挿入いずれも可能。
+    ⇔ what S appears [seems] to be「Sの見かけの姿」
 
-      (3) 関係代名詞としての but (= that ～ not)《文語》:
-      常に否定語とともに用い、二重否定「～しないものはない」を表す。
-      There is no one but has weaknesses.
-      = There is no one that [who] doesn't have weaknesses.
+    what S will be「将来のS」 / what S should be「Sのあるべき姿」
 
-      (4) 関係代名詞としての than:
-      先行詞が比較級の形容詞を伴う場合に用いられる。
-      more medicine than is necessary（必要以上の薬）
+    '
+- id: shs-023
+  name: 関係副詞の用法
+  category: 品詞・構文
+  priority: P1
+  notes: "Theme 95+96: 関係副詞の基本用法と注意すべき用法。\n\n関係副詞は先行詞と節をつなぐ接続詞の働きと副詞の働きを兼ねるもの。\nwhere / when / why / how の4つ。\n\nPU!70: 関係副詞の種類と先行詞\n[図表: 先行詞と関係副詞の対応表]\n場所(place, house等) → where [= in/at which]\n時(time,\
+    \ day等) → when [= on/at which]\n理由(reasonのみ) → why [= for which]\nなし → how [= the way]\n\nPU!71: 関係副詞whereと関係代名詞whichの使い分け\n「場所」が先行詞でも関係詞はwhereとは限らない:\n代名詞の働き(主語/目的語)→ 後ろは不完全な文 → which\n副詞の働き(文の主要素にならない)→\
+    \ 後ろは完全な文 → where\n＊ただし、I was born に in がついていれば which。\n  Kyoto is the city which (*where) I was born in.\n\nhowは常に先行詞なしで用いる。（×the way how）\nThis is how 節「このようにして～」\n= This is the way (関係副詞なし) / the\
+    \ way in which / the way that ...\n\n関係副詞の注意すべき用法:\nwhereの先行詞が「場所」以外の場合:\ncase「場合/事例」/ situation「状況」/ point「点」なども先行詞になる。\n\n先行詞の省略:\nthe place / the time / the reason が省略されることがある。\nwhere → 「～する場所」の名詞節\n\
+    That's why 節「そういうわけで～」\ncf. That's because 節「それは～だからだ」\n「理由 + That's why + 結果」=「結果 + That's because + 理由」\n"
+- id: shs-024
+  name: 非制限用法の関係詞
+  category: 品詞・構文
+  priority: P1
+  notes: "Theme 97+98: 非制限用法の関係詞とwhichの特別な用法。\n\n基本:\n(1) 関係詞の前にコンマを置いて、先行詞について説明を付け加える用法。\n(2) 非制限用法のある関係詞:\n    関係代名詞: who / whom / which / whose\n    関係副詞: where / when\n    ＊that / why / how にはこの用法はない。\n\
+    (3) 非制限用法では目的格関係代名詞でも省略できない。\n\nPU!72: 非制限用法の意味のとり方\n関係代名詞 → 「接続詞 + 代名詞」に置き換え\n関係副詞 → 「接続詞 + 副詞」に置き換え\n原則として前から後ろへ順に訳す。\n, who (= because he) / , when (= and then) / , where (= and there)\n\n「A of +\
+    \ 関係代名詞」の非制限用法:\n..., all of whom 〜 = ..., and all of them 〜\nAには all / most / some / many / both / neither 等が入る。\n\nwhichの特別な非制限用法:\n(1) 前の節全体を先行詞とする which:\n    ..., which was good news = ..., and\
+    \ that [it] was good news\n    ＊接続詞なしでitは文をつなげない。thatとwhatは非制限用法不可。\n(2) 前の節の一部を先行詞とする which:\n    ..., which I find to be difficult = ..., but I find it to be difficult\n(3) 関係形容詞 which《文語》:\n    ...,\
+    \ which advice we followed = ..., and we followed that advice\n    「前置詞 + which + 名詞」の形もある。\n"
+- id: shs-025
+  name: 関係代名詞としてのas/but/thanの用法
+  category: 品詞・構文
+  priority: P2
+  notes: 'Theme 99: 関係代名詞としてのas / but / thanの用法。
 
-  - id: "shs-026"
-    name: "複合関係詞の用法"
-    category: "品詞・構文"
-    priority: "P1"
-    notes: |
-      Theme 100+101: 複合関係代名詞・複合関係副詞の用法。
 
-      PU!73: whoever / whichever / whatever の用法
-      (1) 名詞節を導く用法:
-      whoever「～する人は誰でも」(= anyone [anybody] who)
-      whichever「～するものはどれ[どちら]でも」(= any [either] (～) that)
-      whatever「～するものは何でも」(= anything (that))
-      ＊名詞節を導く場合は「any ～」で書き換え可能。
+    (1) such ... as ～「～するような…」:
 
-      (2)「譲歩」の副詞節を導く用法:
-      whoever「誰が～しても」(= no matter who)
-      whichever「どちらが[を]～しても」(= no matter which)
-      whatever「何が[を]～しても」(= no matter what)
-      ＊「譲歩」の副詞節を導く場合は「no matter ～」で書き換え可能。
+    asはsuch / the sameなどと相関的に用いられる。
 
-      複合関係形容詞:
-      whatever + 名詞「～するどんなAでも」(= any A (that))
-      whichever + 名詞 も同様。
+    the same ... as [that]「…と同じ～」
 
-      PU!74: whenever / wherever / however の用法
-      (1)「時・場所」の副詞節を導く用法:
-      whenever「～する時はいつでも」(= (at) any time (when))
-      wherever「～するところはどこでも」(= (at/in/to) any place (where))
+    ＊現在では as と that の区別なく使われる。
 
-      (2)「譲歩」の副詞節を導く用法:
-      whenever「いつ～しても」(= no matter when)
-      wherever「どこで[へ]～しても」(= no matter where)
-      however + 形容詞[副詞]「どんなに～でも」(= no matter how + 形容詞[副詞])
-      ＊however は通例「however + 形容詞[副詞] + SV」の語順。
-      ×However I walked fast → ○However fast I walked
-      ＊「no matter ～」に書き換えられるのは「譲歩」の場合だけ。
 
-      識別法（PU!71と同様）:
-      代名詞の働き(主語/目的語)→ 後ろは不完全な文 → 複合関係代名詞
-      副詞の働き → 後ろは完全な文 → 複合関係副詞
+    (2) as is often the case (with ～)「(～には)よくあることだが」
 
+    = as is usual (with ～)
+
+    ＊asにも非制限用法のwhichと同様に節全体を先行詞とする用法がある。
+
+    ＊which節は必ず主節の後に置かれるが、as節は前後・挿入いずれも可能。
+
+
+    (3) 関係代名詞としての but (= that ～ not)《文語》:
+
+    常に否定語とともに用い、二重否定「～しないものはない」を表す。
+
+    There is no one but has weaknesses.
+
+    = There is no one that [who] doesn''t have weaknesses.
+
+
+    (4) 関係代名詞としての than:
+
+    先行詞が比較級の形容詞を伴う場合に用いられる。
+
+    more medicine than is necessary（必要以上の薬）
+
+    '
+- id: shs-026
+  name: 複合関係詞の用法
+  category: 品詞・構文
+  priority: P1
+  notes: 'Theme 100+101: 複合関係代名詞・複合関係副詞の用法。
+
+
+    PU!73: whoever / whichever / whatever の用法
+
+    (1) 名詞節を導く用法:
+
+    whoever「～する人は誰でも」(= anyone [anybody] who)
+
+    whichever「～するものはどれ[どちら]でも」(= any [either] (～) that)
+
+    whatever「～するものは何でも」(= anything (that))
+
+    ＊名詞節を導く場合は「any ～」で書き換え可能。
+
+
+    (2)「譲歩」の副詞節を導く用法:
+
+    whoever「誰が～しても」(= no matter who)
+
+    whichever「どちらが[を]～しても」(= no matter which)
+
+    whatever「何が[を]～しても」(= no matter what)
+
+    ＊「譲歩」の副詞節を導く場合は「no matter ～」で書き換え可能。
+
+
+    複合関係形容詞:
+
+    whatever + 名詞「～するどんなAでも」(= any A (that))
+
+    whichever + 名詞 も同様。
+
+
+    PU!74: whenever / wherever / however の用法
+
+    (1)「時・場所」の副詞節を導く用法:
+
+    whenever「～する時はいつでも」(= (at) any time (when))
+
+    wherever「～するところはどこでも」(= (at/in/to) any place (where))
+
+
+    (2)「譲歩」の副詞節を導く用法:
+
+    whenever「いつ～しても」(= no matter when)
+
+    wherever「どこで[へ]～しても」(= no matter where)
+
+    however + 形容詞[副詞]「どんなに～でも」(= no matter how + 形容詞[副詞])
+
+    ＊however は通例「however + 形容詞[副詞] + SV」の語順。
+
+    ×However I walked fast → ○However fast I walked
+
+    ＊「no matter ～」に書き換えられるのは「譲歩」の場合だけ。
+
+
+    識別法（PU!71と同様）:
+
+    代名詞の働き(主語/目的語)→ 後ろは不完全な文 → 複合関係代名詞
+
+    副詞の働き → 後ろは完全な文 → 複合関係副詞
+
+    '
 understanding_goals:
-  - node_id: "shs-020"
-    seq: 1
-    goal: "先行詞が人・人以外・両方の場合に使う関係代名詞を正しく選択できる"
-  - node_id: "shs-020"
-    seq: 2
-    goal: "関係代名詞の格（主格/所有格/目的格）を関係詞節の構造から判断できる"
-  - node_id: "shs-020"
-    seq: 3
-    goal: "目的格関係代名詞の省略とS+V割り込みパターンを見抜ける"
-
-  - node_id: "shs-021"
-    seq: 1
-    goal: "前置詞＋関係代名詞の3つのパターン（前置、後置、省略）を正しく使い分けできる"
-  - node_id: "shs-021"
-    seq: 2
-    goal: "thatの前に前置詞を置けないルールを理解できる"
-  - node_id: "shs-021"
-    seq: 3
-    goal: "前置詞＋which＋to doの形容詞用法を理解できる"
-
-  - node_id: "shs-022"
-    seq: 1
-    goal: "whatが先行詞を含む関係代名詞であることを理解し、whatとthatを使い分けできる"
-  - node_id: "shs-022"
-    seq: 2
-    goal: "what S is / what S used to be / what is moreなどの慣用表現を正しく使える"
-  - node_id: "shs-022"
-    seq: 3
-    goal: "what (few/little) + 名詞の関係形容詞用法を理解できる"
-
-  - node_id: "shs-023"
-    seq: 1
-    goal: "関係副詞where/when/why/howの先行詞と用法を正しく選択できる"
-  - node_id: "shs-023"
-    seq: 2
-    goal: "whereとwhichの使い分け（完全な文vs不完全な文）ができる"
-  - node_id: "shs-023"
-    seq: 3
-    goal: "関係副詞の先行詞省略パターン（That's why/This is how等）を理解できる"
-
-  - node_id: "shs-024"
-    seq: 1
-    goal: "非制限用法で使える関係詞と使えない関係詞を区別できる"
-  - node_id: "shs-024"
-    seq: 2
-    goal: "前の節全体・一部を先行詞とするwhichの非制限用法を理解できる"
-  - node_id: "shs-024"
-    seq: 3
-    goal: "A of whom/whichの非制限用法パターンを正しく使える"
-
-  - node_id: "shs-025"
-    seq: 1
-    goal: "such ... as / the same ... as の関係代名詞asを正しく使える"
-  - node_id: "shs-025"
-    seq: 2
-    goal: "as is often the case の意味と用法を理解できる"
-  - node_id: "shs-025"
-    seq: 3
-    goal: "関係代名詞but / thanの文語的用法を理解できる"
-
-  - node_id: "shs-026"
-    seq: 1
-    goal: "whoever/whatever/whicheverの名詞節用法と譲歩の副詞節用法を区別できる"
-  - node_id: "shs-026"
-    seq: 2
-    goal: "whenever/wherever/howeverの用法を正しく使える"
-  - node_id: "shs-026"
-    seq: 3
-    goal: "however + 形容詞[副詞]の語順規則を理解できる"
-
+- node_id: shs-020
+  seq: 1
+  goal: 先行詞が人・人以外・両方の場合に使う関係代名詞を正しく選択できる
+- node_id: shs-020
+  seq: 2
+  goal: 関係代名詞の格（主格/所有格/目的格）を関係詞節の構造から判断できる
+- node_id: shs-020
+  seq: 3
+  goal: 目的格関係代名詞の省略とS+V割り込みパターンを見抜ける
+- node_id: shs-021
+  seq: 1
+  goal: 前置詞＋関係代名詞の3つのパターン（前置、後置、省略）を正しく使い分けできる
+- node_id: shs-021
+  seq: 2
+  goal: thatの前に前置詞を置けないルールを理解できる
+- node_id: shs-021
+  seq: 3
+  goal: 前置詞＋which＋to doの形容詞用法を理解できる
+- node_id: shs-022
+  seq: 1
+  goal: whatが先行詞を含む関係代名詞であることを理解し、whatとthatを使い分けできる
+- node_id: shs-022
+  seq: 2
+  goal: what S is / what S used to be / what is moreなどの慣用表現を正しく使える
+- node_id: shs-022
+  seq: 3
+  goal: what (few/little) + 名詞の関係形容詞用法を理解できる
+- node_id: shs-023
+  seq: 1
+  goal: 関係副詞where/when/why/howの先行詞と用法を正しく選択できる
+- node_id: shs-023
+  seq: 2
+  goal: whereとwhichの使い分け（完全な文vs不完全な文）ができる
+- node_id: shs-023
+  seq: 3
+  goal: 関係副詞の先行詞省略パターン（That's why/This is how等）を理解できる
+- node_id: shs-024
+  seq: 1
+  goal: 非制限用法で使える関係詞と使えない関係詞を区別できる
+- node_id: shs-024
+  seq: 2
+  goal: 前の節全体・一部を先行詞とするwhichの非制限用法を理解できる
+- node_id: shs-024
+  seq: 3
+  goal: A of whom/whichの非制限用法パターンを正しく使える
+- node_id: shs-025
+  seq: 1
+  goal: such ... as / the same ... as の関係代名詞asを正しく使える
+- node_id: shs-025
+  seq: 2
+  goal: as is often the case の意味と用法を理解できる
+- node_id: shs-025
+  seq: 3
+  goal: 関係代名詞but / thanの文語的用法を理解できる
+- node_id: shs-026
+  seq: 1
+  goal: whoever/whatever/whicheverの名詞節用法と譲歩の副詞節用法を区別できる
+- node_id: shs-026
+  seq: 2
+  goal: whenever/wherever/howeverの用法を正しく使える
+- node_id: shs-026
+  seq: 3
+  goal: however + 形容詞[副詞]の語順規則を理解できる
 check_points:
-  - node_id: "shs-020"
-    seq: 1
-    question: "先行詞が「人以外」で所有格の関係代名詞はどう表すか？"
-    answer: "whose または the + 名詞 + of which の2パターン。whose tuition is high / the tuition of which is high。"
-  - node_id: "shs-020"
-    seq: 2
-    question: "目的格関係代名詞はどんな時に省略できるか？"
-    answer: "関係詞節の中で目的語の働きをしている場合に省略可能。ただし前置詞＋関係代名詞の形では省略不可。"
-  - node_id: "shs-020"
-    seq: 3
-    question: "The man who I thought was ... のwhoは何格か？ なぜか？"
-    answer: "主格。whoはI thoughtの目的語ではなく、wasの主語。I thought が割り込んでいる形。"
-
-  - node_id: "shs-021"
-    seq: 1
-    question: "This is the office in that he works. は正しいか？"
-    answer: "不可。thatの前に前置詞は置けない。in which か that ... in の形にする。"
-  - node_id: "shs-021"
-    seq: 2
-    question: "前置詞＋関係代名詞の形で関係代名詞を省略できるか？"
-    answer: "不可。in whichのwhichは省略できない。前置詞を後置して文末に置けば省略可能（the office (　) he works in）。"
-  - node_id: "shs-021"
-    seq: 3
-    question: "tools with which to fix の構造は？"
-    answer: "前置詞＋which＋to不定詞の形。直前の名詞toolsを修飾する。= tools to fix ... with。"
-
-  - node_id: "shs-022"
-    seq: 1
-    question: "whatとthatの使い分け方は？"
-    answer: "後ろに主語・目的語が欠けた不完全な文 → what。後ろに完全な文 → that。"
-  - node_id: "shs-022"
-    seq: 2
-    question: "what S is / what S used to be の意味は？"
-    answer: "what S is =「現在のS」/ what S used to be [was] =「昔のS」。what S is には「Sの人柄」の意味もある。"
-  - node_id: "shs-022"
-    seq: 3
-    question: "what is called の意味は？ 類似表現は？"
-    answer: "「いわゆる」(= what we [you/they] call)。so-called も「いわゆる」だが、不信・軽蔑の意を含むことがある。"
-  - node_id: "shs-022"
-    seq: 4
-    question: "what little money I have の意味は？ 書き換えは？"
-    answer: "「わずかだが持っているすべてのお金」。= all the little money that I have。関係形容詞としてのwhat。"
-
-  - node_id: "shs-023"
-    seq: 1
-    question: "whereとwhichの使い分けの基準は？"
-    answer: "後ろが完全な文（副詞の働き）→ where。後ろが不完全な文（目的語が欠ける等、代名詞の働き）→ which。"
-  - node_id: "shs-023"
-    seq: 2
-    question: "the way how は正しいか？"
-    answer: "不可。howは常に先行詞なしで用いる。This is how ... = This is the way (in which / that) ...。"
-  - node_id: "shs-023"
-    seq: 3
-    question: "That's why 節と That's because 節の違いは？"
-    answer: "That's why 節 = 「そういうわけで～（結果）」。That's because 節 = 「それは～だからだ（理由）」。理由→why→結果、結果→because→理由。"
-
-  - node_id: "shs-024"
-    seq: 1
-    question: "非制限用法で使えない関係詞は？"
-    answer: "that / why / how。非制限用法は who/whom/which/whose と where/when のみ。"
-  - node_id: "shs-024"
-    seq: 2
-    question: "前の節全体を先行詞とする which の例は？ itで代用できるか？"
-    answer: "..., which was good news = ..., and that [it] was good news。接続詞なしでitは文をつなげないので it 単独は不可。"
-  - node_id: "shs-024"
-    seq: 3
-    question: "..., all of whom ～ の構造は？"
-    answer: "A of whom/which がセットで関係詞節の先頭に置かれた非制限用法。= ..., and all of them ～。"
-  - node_id: "shs-024"
-    seq: 4
-    question: "非制限用法の関係詞はどう訳すのが原則か？"
-    answer: "「接続詞＋代名詞[副詞]」に置き換え、前から後ろへ順に訳す。例: , who = because he / , when = and then / , where = and there。"
-
-  - node_id: "shs-025"
-    seq: 1
-    question: "such ... as ～ と the same ... as ～ のasの品詞は？"
-    answer: "関係代名詞。such/the same と相関的に用い、先行詞を修飾する形容詞節を導く。"
-  - node_id: "shs-025"
-    seq: 2
-    question: "as is often the case の as の位置は？ whichとの違いは？"
-    answer: "as節は主節の前後・挿入いずれも可能。which節は必ず主節の後に置かれる。"
-  - node_id: "shs-025"
-    seq: 3
-    question: "There is no one but has weaknesses. の意味は？"
-    answer: "「欠点のない人はいない」。but = that ... not（否定の関係代名詞）。二重否定で肯定の意味。《文語》"
-  - node_id: "shs-025"
-    seq: 4
-    question: "more medicine than is necessary の than の品詞は？"
-    answer: "関係代名詞。先行詞が比較級の形容詞を伴う場合に用いられる。than は主語の働きをしている。"
-
-  - node_id: "shs-026"
-    seq: 1
-    question: "whoever/whatever が名詞節を導く場合と副詞節を導く場合の見分け方は？"
-    answer: "名詞節 = any ～ で書き換え可能（文中で主語・目的語等）。副詞節（譲歩）= no matter ～ で書き換え可能。"
-  - node_id: "shs-026"
-    seq: 2
-    question: "however fast I walked は正しい語順か？ However I walked fast はどうか？"
-    answer: "however fast I walked が正しい。however は「however + 形容詞[副詞] + SV」の語順。However I walked fast は誤り。"
-  - node_id: "shs-026"
-    seq: 3
-    question: "no matter ～ で書き換えられるのはどんな場合か？"
-    answer: "「譲歩」の副詞節を導く場合のみ。名詞節（「～する人は誰でも」等）の場合は不可。"
-
+- node_id: shs-020
+  seq: 1
+  question: 先行詞が「人以外」で所有格の関係代名詞はどう表すか？
+  answer: whose または the + 名詞 + of which の2パターン。whose tuition is high / the tuition of which is high。
+- node_id: shs-020
+  seq: 2
+  question: 目的格関係代名詞はどんな時に省略できるか？
+  answer: 関係詞節の中で目的語の働きをしている場合に省略可能。ただし前置詞＋関係代名詞の形では省略不可。
+- node_id: shs-020
+  seq: 3
+  question: The man who I thought was ... のwhoは何格か？ なぜか？
+  answer: 主格。whoはI thoughtの目的語ではなく、wasの主語。I thought が割り込んでいる形。
+- node_id: shs-021
+  seq: 1
+  question: This is the office in that he works. は正しいか？
+  answer: 不可。thatの前に前置詞は置けない。in which か that ... in の形にする。
+- node_id: shs-021
+  seq: 2
+  question: 前置詞＋関係代名詞の形で関係代名詞を省略できるか？
+  answer: 不可。in whichのwhichは省略できない。前置詞を後置して文末に置けば省略可能（the office (　) he works in）。
+- node_id: shs-021
+  seq: 3
+  question: tools with which to fix の構造は？
+  answer: 前置詞＋which＋to不定詞の形。直前の名詞toolsを修飾する。= tools to fix ... with。
+- node_id: shs-022
+  seq: 1
+  question: whatとthatの使い分け方は？
+  answer: 後ろに主語・目的語が欠けた不完全な文 → what。後ろに完全な文 → that。
+- node_id: shs-022
+  seq: 2
+  question: what S is / what S used to be の意味は？
+  answer: what S is =「現在のS」/ what S used to be [was] =「昔のS」。what S is には「Sの人柄」の意味もある。
+- node_id: shs-022
+  seq: 3
+  question: what is called の意味は？ 類似表現は？
+  answer: 「いわゆる」(= what we [you/they] call)。so-called も「いわゆる」だが、不信・軽蔑の意を含むことがある。
+- node_id: shs-022
+  seq: 4
+  question: what little money I have の意味は？ 書き換えは？
+  answer: 「わずかだが持っているすべてのお金」。= all the little money that I have。関係形容詞としてのwhat。
+- node_id: shs-023
+  seq: 1
+  question: whereとwhichの使い分けの基準は？
+  answer: 後ろが完全な文（副詞の働き）→ where。後ろが不完全な文（目的語が欠ける等、代名詞の働き）→ which。
+- node_id: shs-023
+  seq: 2
+  question: the way how は正しいか？
+  answer: 不可。howは常に先行詞なしで用いる。This is how ... = This is the way (in which / that) ...。
+- node_id: shs-023
+  seq: 3
+  question: That's why 節と That's because 節の違いは？
+  answer: That's why 節 = 「そういうわけで～（結果）」。That's because 節 = 「それは～だからだ（理由）」。理由→why→結果、結果→because→理由。
+- node_id: shs-024
+  seq: 1
+  question: 非制限用法で使えない関係詞は？
+  answer: that / why / how。非制限用法は who/whom/which/whose と where/when のみ。
+- node_id: shs-024
+  seq: 2
+  question: 前の節全体を先行詞とする which の例は？ itで代用できるか？
+  answer: '..., which was good news = ..., and that [it] was good news。接続詞なしでitは文をつなげないので it 単独は不可。'
+- node_id: shs-024
+  seq: 3
+  question: '..., all of whom ～ の構造は？'
+  answer: A of whom/which がセットで関係詞節の先頭に置かれた非制限用法。= ..., and all of them ～。
+- node_id: shs-024
+  seq: 4
+  question: 非制限用法の関係詞はどう訳すのが原則か？
+  answer: '「接続詞＋代名詞[副詞]」に置き換え、前から後ろへ順に訳す。例: , who = because he / , when = and then / , where = and there。'
+- node_id: shs-025
+  seq: 1
+  question: such ... as ～ と the same ... as ～ のasの品詞は？
+  answer: 関係代名詞。such/the same と相関的に用い、先行詞を修飾する形容詞節を導く。
+- node_id: shs-025
+  seq: 2
+  question: as is often the case の as の位置は？ whichとの違いは？
+  answer: as節は主節の前後・挿入いずれも可能。which節は必ず主節の後に置かれる。
+- node_id: shs-025
+  seq: 3
+  question: There is no one but has weaknesses. の意味は？
+  answer: 「欠点のない人はいない」。but = that ... not（否定の関係代名詞）。二重否定で肯定の意味。《文語》
+- node_id: shs-025
+  seq: 4
+  question: more medicine than is necessary の than の品詞は？
+  answer: 関係代名詞。先行詞が比較級の形容詞を伴う場合に用いられる。than は主語の働きをしている。
+- node_id: shs-026
+  seq: 1
+  question: whoever/whatever が名詞節を導く場合と副詞節を導く場合の見分け方は？
+  answer: 名詞節 = any ～ で書き換え可能（文中で主語・目的語等）。副詞節（譲歩）= no matter ～ で書き換え可能。
+- node_id: shs-026
+  seq: 2
+  question: however fast I walked は正しい語順か？ However I walked fast はどうか？
+  answer: however fast I walked が正しい。however は「however + 形容詞[副詞] + SV」の語順。However I walked fast は誤り。
+- node_id: shs-026
+  seq: 3
+  question: no matter ～ で書き換えられるのはどんな場合か？
+  answer: 「譲歩」の副詞節を導く場合のみ。名詞節（「～する人は誰でも」等）の場合は不可。
 node_prerequisites:
-  - node_id: "shs-021"
-    prerequisite_id: "shs-020"
-  - node_id: "shs-024"
-    prerequisite_id: "shs-020"
-  - node_id: "shs-025"
-    prerequisite_id: "shs-020"
-
+- node_id: shs-021
+  prerequisite_id: shs-020
+- node_id: shs-024
+  prerequisite_id: shs-020
+- node_id: shs-025
+  prerequisite_id: shs-020
 knowledge_references:
-  - node_id: "shs-020"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_091"
-    pages: ""
-  - node_id: "shs-021"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_092"
-    pages: ""
-  - node_id: "shs-022"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_093"
-    pages: ""
-  - node_id: "shs-022"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_094"
-    pages: ""
-  - node_id: "shs-023"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_095"
-    pages: ""
-  - node_id: "shs-023"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_096"
-    pages: ""
-  - node_id: "shs-024"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_097"
-    pages: ""
-  - node_id: "shs-024"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_098"
-    pages: ""
-  - node_id: "shs-025"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_099"
-    pages: ""
-  - node_id: "shs-026"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_100"
-    pages: ""
-  - node_id: "shs-026"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_101"
-    pages: ""
+- node_id: shs-020
+  book: スクランブル英文法・語法
+  section_id: Scr_091
+  pages: ''
+- node_id: shs-021
+  book: スクランブル英文法・語法
+  section_id: Scr_092
+  pages: ''
+- node_id: shs-022
+  book: スクランブル英文法・語法
+  section_id: Scr_093
+  pages: ''
+- node_id: shs-023
+  book: スクランブル英文法・語法
+  section_id: Scr_095
+  pages: ''
+- node_id: shs-024
+  book: スクランブル英文法・語法
+  section_id: Scr_097
+  pages: ''
+- node_id: shs-025
+  book: スクランブル英文法・語法
+  section_id: Scr_099
+  pages: ''
+- node_id: shs-026
+  book: スクランブル英文法・語法
+  section_id: Scr_100
+  pages: ''

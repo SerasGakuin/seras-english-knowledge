@@ -1,423 +1,504 @@
-# Ch07 仮定法（Theme 46-53）
-
 knowledge_nodes:
-  - id: "skh-001"
-    name: "仮定法過去"
-    category: "仮定法・比較"
-    priority: "P1"
-    notes: |
-      Theme 46: 仮定法過去（問題158-160）
-      ■ 基本形: If + S + 過去形〜, S' + 助動詞の過去形 + 原形 ...
-      「もし（今）〜なら、…だろう（に）」— 現在の事実に反すること・可能性の低いことを仮定・想像する。
-      過去形の動詞を使うので「仮定法過去」と呼ばれるが、内容は現在のことを表す。
-      ■ if 節中の be 動詞:
-      主語の人称・数に関係なく were を使うのが原則。口語では主語が I や3人称単数なら was も可。
-      ■ 主節の助動詞:
-      would / could / might + 原形。if 節が過去形なら主節は「助動詞の過去形 + 原形」。
-      ■ It is time + S + 仮定法過去:
-      「（まだ〜していないが）Sはもう〜してよいころだ」
-      time の前に high「とっくに」や about「そろそろ」がつくことがある。
+- id: skh-001
+  name: 仮定法過去
+  category: 仮定法・比較
+  priority: P1
+  notes: 'Theme 46: 仮定法過去（問題158-160）
 
-  - id: "skh-002"
-    name: "仮定法過去完了"
-    category: "仮定法・比較"
-    priority: "P1"
-    notes: |
-      Theme 47: 仮定法過去完了（問題161-163）
-      ■ 基本形: If + S + had done 〜, S' + 助動詞の過去形 + have done ...
-      「もし（あの時）〜だったら、…だっただろう（に）」— 過去の事実に反することを仮定・想像する。
-      入試では仮定法過去完了に関する出題が最も多い。
-      ■ if 節: 過去完了形（had done）
-      ■ 主節: 助動詞の過去形 + have done（would/could/might have done）
-      ■ ミックス型（仮定法過去完了 + 仮定法過去）:
-      「もし（あの時）〜だったら、（今は）…だろうに」
-      if 節は仮定法過去完了、主節は仮定法過去。問題文中の時を表す副詞要素に注目する。
-      例: if 節〔last year（過去）〕— 主節〔now（現在）〕
-      ■ PU!29 直説法か仮定法かの識別:
-      「ありそうなこと」は仮定法ではなく直説法（事実をそのまま述べる）で表す。
-      例: If it stops raining soon, shall we go out for a walk?（直説法）
-      参照: Theme 7（時・条件を表す副詞節中の時制）
+    ■ 基本形: If + S + 過去形〜, S'' + 助動詞の過去形 + 原形 ...
 
-  - id: "skh-003"
-    name: "shouldとwere toを用いた仮定法"
-    category: "仮定法・比較"
-    priority: "P2"
-    notes: |
-      Theme 48: shouldとwere toを用いた仮定法（問題164-165）
-      ■ If + S + should do 〜「万一〜ならば〔すれば〕」:
-      「まあ、ないと思うが、万一〜ならば」のニュアンス。
-      絶対にあり得ないと思われることには用いない。
-      主節: 助動詞の現在形[過去形] + 原形、または命令文。
-      ■ If + S + were to do 〜「仮に〜ならば〔すれば〕」:
-      絶対にあり得ないと思われることにも、あり得ることにも用いる。
-      主節: 必ず「助動詞の過去形 + 原形」が来る。
-      ■ should と were to の違い:
-      should: 可能性は低いがゼロではない（主節に命令文も可）
-      were to: あり得ないことにも使える（主節は必ず助動詞の過去形 + 原形）
+    「もし（今）〜なら、…だろう（に）」— 現在の事実に反すること・可能性の低いことを仮定・想像する。
 
-  - id: "skh-004"
-    name: "願望を表す仮定法"
-    category: "仮定法・比較"
-    priority: "P1"
-    notes: |
-      Theme 49: 願望を表す仮定法（問題166-170）
-      ■ wish + S + 仮定法過去「Sが〜ならよいのに（と思う）」:
-      現在の事実と反対の願望。wish + S + could 〜「Sが〜できたらよいのに」。
-      ■ wish + S + would 〜「Sが〜してくれたらよいのに（と思う）」:
-      未来のことに対する願望。意志未来のwillが仮定法過去の形wouldになったもの。
-      ■ wish + S + 仮定法過去完了「Sが〜ならよかったのに（と思う）」:
-      過去の事実と反対の願望。
-      注意: want/likeはthat節を目的語にとらない。hopeはthat節を取るが仮定法は不可。
-      比較: I hope I can help you.（手伝えればいいのですが）— hopeは直説法。
-      ■ If only + S + 仮定法！「Sが〜ならよいのに〔よかったのに〕」:
-      if節だけで独立的に用いられる。If only = I wish。
-      仮定法過去（現在の願望）にも仮定法過去完了（過去の願望）にも使える。
-      ■ would rather + S + 仮定法「（むしろ）Sに〜してほしい」:
-      would rather が that 節を伴うとき、節内には仮定法を用いる。
-      I would rather you didn't 〜「〜しないでほしい」の形での出題が多い。
-      thatは通例省略される。
-      参照: 問82, 83（would rather + 原形 / than を伴う場合）
+    過去形の動詞を使うので「仮定法過去」と呼ばれるが、内容は現在のことを表す。
 
-  - id: "skh-005"
-    name: "If it were not forなどの表現"
-    category: "仮定法・比較"
-    priority: "P1"
-    notes: |
-      Theme 50: If it were not forなどの表現（問題171-174）
-      ■ If it were not for 〜「もし〜がなければ」（仮定法過去）
-      ■ If it had not been for 〜「もし〜がなかったら」（仮定法過去完了）
-      ■ Without 〜 / But for 〜:
-      「もし〜がなければ[なかったら]」— 仮定法過去・過去完了の両方に使える。
-      主節の動詞形で時制を判断する。
-      ■ With 〜「もし〜があれば[あったら]」:
-      Without 〜 と対になる表現。
-      ■ PU!30 「もし〜がなければ[なかったら]」の表し方:
-      仮定法過去: If it were not for ~ = Were it not for ~ = But for [Without] ~
-      仮定法過去完了: If it had not been for ~ = Had it not been for ~ = But for [Without] ~
-      参照: Theme 52（ifを省略した倒置形）
+    ■ if 節中の be 動詞:
 
-  - id: "skh-006"
-    name: "as if + 仮定法"
-    category: "仮定法・比較"
-    priority: "P1"
-    notes: |
-      Theme 51: as if [as though] + 仮定法（問題175-176）
-      ■ as if [as though] + 仮定法過去「まるで〜のように」:
-      「実際にはそうでないが、まるで〜する〔である〕かのように」
-      注意: 仮定法は時制の一致が行われないので、主節の動詞の時制が現在でも過去でも
-      as if の後ろの動詞の形は変わらない。
-      例: He talks [talked / will talk] as if he knew everything.
-      ■ as if [as though] + 仮定法過去完了「まるで〜した〔であった〕かのように」:
-      例: He looks as if he had seen something horrible.
-      ■ as if [as though] + 直説法「〜のようだ」:
-      事実をそのまま述べる場合。特に look [seem / appear] + as if 〜 の形で多い。
-      例: You look as though you have been crying.
-      ■ PU!31（発展）as if の後の省略:
-      as if の後の「S + V」が省略されて、副詞句 / to不定詞 / 分詞が続くこともある。
-      例: He looked at me as if (he wanted) to ask something.
-      例: There she sat as if (she had been) paralyzed by his words.
+    主語の人称・数に関係なく were を使うのが原則。口語では主語が I や3人称単数なら was も可。
 
-  - id: "skh-007"
-    name: "ifを省略した仮定法とif節の代用"
-    category: "仮定法・比較"
-    priority: "P1"
-    notes: |
-      Theme 52+53: ifを省略した仮定法 / if節の代用（問題177-183）
-      ■ ifの省略と倒置:
-      仮定法のifを省略すると倒置（疑問文と同じ語順）が起こる。
-      主語の前に置かれるのは原則として Were / Had / Should の3つ。
-      ×Did I know it ← If I knew it（一般動詞の過去形は倒置不可）
-      ■ 倒置の3パターン:
-      Were I you ← If I were you
-      Had I known ← If I had known
-      Should anything happen ← If anything should happen
-      Were it not for ~ ← If it were not for ~ (参照: 問171)
-      Had it not been for ~ ← If it had not been for ~ (参照: PU!30)
-      Were S to do ← If S were to do（参照: 問165）
-      注意: ifを省略した条件節が主節の後に置かれ、コンマなしの場合は特に注意。
-      英文読解でも重要。
-      ■ 主語がif節の代わりをする場合:
-      例: A secret agency would never let you know ...（主語に仮定の意味）
-      ■ otherwise「さもなければ」がif節の代わりをする場合:
-      例: I ran to the station. Otherwise, I would have missed the train.
-      Otherwise = If I had not run to the station
-      ■ to不定詞がif節の代わりをする場合:
-      例: To hear him speak in French, you would think him a Frenchman.
-      To hear = If you heard
-      ■ if節も代用表現もない場合の仮定法:
-      主節だけで構成される場合もある。助動詞の過去形が仮定法の目印。
-      PU!32（発展）: The town has changed a lot — you wouldn't recognize it now.
-      ■ PU!33 副詞otherwiseの3つの意味:
-      1.「さもなければ」(= if ~ not) — 仮定法と共起
-      2.「別のやり方で」(= differently) — He thinks otherwise.
-      3.「その他の点では」(= in other ways) — The room is small, but otherwise it's quite comfortable.
+    ■ 主節の助動詞:
 
+    would / could / might + 原形。if 節が過去形なら主節は「助動詞の過去形 + 原形」。
+
+    ■ It is time + S + 仮定法過去:
+
+    「（まだ〜していないが）Sはもう〜してよいころだ」
+
+    time の前に high「とっくに」や about「そろそろ」がつくことがある。
+
+    '
+- id: skh-002
+  name: 仮定法過去完了
+  category: 仮定法・比較
+  priority: P1
+  notes: 'Theme 47: 仮定法過去完了（問題161-163）
+
+    ■ 基本形: If + S + had done 〜, S'' + 助動詞の過去形 + have done ...
+
+    「もし（あの時）〜だったら、…だっただろう（に）」— 過去の事実に反することを仮定・想像する。
+
+    入試では仮定法過去完了に関する出題が最も多い。
+
+    ■ if 節: 過去完了形（had done）
+
+    ■ 主節: 助動詞の過去形 + have done（would/could/might have done）
+
+    ■ ミックス型（仮定法過去完了 + 仮定法過去）:
+
+    「もし（あの時）〜だったら、（今は）…だろうに」
+
+    if 節は仮定法過去完了、主節は仮定法過去。問題文中の時を表す副詞要素に注目する。
+
+    例: if 節〔last year（過去）〕— 主節〔now（現在）〕
+
+    ■ PU!29 直説法か仮定法かの識別:
+
+    「ありそうなこと」は仮定法ではなく直説法（事実をそのまま述べる）で表す。
+
+    例: If it stops raining soon, shall we go out for a walk?（直説法）
+
+    参照: Theme 7（時・条件を表す副詞節中の時制）
+
+    '
+- id: skh-003
+  name: shouldとwere toを用いた仮定法
+  category: 仮定法・比較
+  priority: P2
+  notes: 'Theme 48: shouldとwere toを用いた仮定法（問題164-165）
+
+    ■ If + S + should do 〜「万一〜ならば〔すれば〕」:
+
+    「まあ、ないと思うが、万一〜ならば」のニュアンス。
+
+    絶対にあり得ないと思われることには用いない。
+
+    主節: 助動詞の現在形[過去形] + 原形、または命令文。
+
+    ■ If + S + were to do 〜「仮に〜ならば〔すれば〕」:
+
+    絶対にあり得ないと思われることにも、あり得ることにも用いる。
+
+    主節: 必ず「助動詞の過去形 + 原形」が来る。
+
+    ■ should と were to の違い:
+
+    should: 可能性は低いがゼロではない（主節に命令文も可）
+
+    were to: あり得ないことにも使える（主節は必ず助動詞の過去形 + 原形）
+
+    '
+- id: skh-004
+  name: 願望を表す仮定法
+  category: 仮定法・比較
+  priority: P1
+  notes: 'Theme 49: 願望を表す仮定法（問題166-170）
+
+    ■ wish + S + 仮定法過去「Sが〜ならよいのに（と思う）」:
+
+    現在の事実と反対の願望。wish + S + could 〜「Sが〜できたらよいのに」。
+
+    ■ wish + S + would 〜「Sが〜してくれたらよいのに（と思う）」:
+
+    未来のことに対する願望。意志未来のwillが仮定法過去の形wouldになったもの。
+
+    ■ wish + S + 仮定法過去完了「Sが〜ならよかったのに（と思う）」:
+
+    過去の事実と反対の願望。
+
+    注意: want/likeはthat節を目的語にとらない。hopeはthat節を取るが仮定法は不可。
+
+    比較: I hope I can help you.（手伝えればいいのですが）— hopeは直説法。
+
+    ■ If only + S + 仮定法！「Sが〜ならよいのに〔よかったのに〕」:
+
+    if節だけで独立的に用いられる。If only = I wish。
+
+    仮定法過去（現在の願望）にも仮定法過去完了（過去の願望）にも使える。
+
+    ■ would rather + S + 仮定法「（むしろ）Sに〜してほしい」:
+
+    would rather が that 節を伴うとき、節内には仮定法を用いる。
+
+    I would rather you didn''t 〜「〜しないでほしい」の形での出題が多い。
+
+    thatは通例省略される。
+
+    参照: 問82, 83（would rather + 原形 / than を伴う場合）
+
+    '
+- id: skh-005
+  name: If it were not forなどの表現
+  category: 仮定法・比較
+  priority: P1
+  notes: 'Theme 50: If it were not forなどの表現（問題171-174）
+
+    ■ If it were not for 〜「もし〜がなければ」（仮定法過去）
+
+    ■ If it had not been for 〜「もし〜がなかったら」（仮定法過去完了）
+
+    ■ Without 〜 / But for 〜:
+
+    「もし〜がなければ[なかったら]」— 仮定法過去・過去完了の両方に使える。
+
+    主節の動詞形で時制を判断する。
+
+    ■ With 〜「もし〜があれば[あったら]」:
+
+    Without 〜 と対になる表現。
+
+    ■ PU!30 「もし〜がなければ[なかったら]」の表し方:
+
+    仮定法過去: If it were not for ~ = Were it not for ~ = But for [Without] ~
+
+    仮定法過去完了: If it had not been for ~ = Had it not been for ~ = But for [Without] ~
+
+    参照: Theme 52（ifを省略した倒置形）
+
+    '
+- id: skh-006
+  name: as if + 仮定法
+  category: 仮定法・比較
+  priority: P1
+  notes: 'Theme 51: as if [as though] + 仮定法（問題175-176）
+
+    ■ as if [as though] + 仮定法過去「まるで〜のように」:
+
+    「実際にはそうでないが、まるで〜する〔である〕かのように」
+
+    注意: 仮定法は時制の一致が行われないので、主節の動詞の時制が現在でも過去でも
+
+    as if の後ろの動詞の形は変わらない。
+
+    例: He talks [talked / will talk] as if he knew everything.
+
+    ■ as if [as though] + 仮定法過去完了「まるで〜した〔であった〕かのように」:
+
+    例: He looks as if he had seen something horrible.
+
+    ■ as if [as though] + 直説法「〜のようだ」:
+
+    事実をそのまま述べる場合。特に look [seem / appear] + as if 〜 の形で多い。
+
+    例: You look as though you have been crying.
+
+    ■ PU!31（発展）as if の後の省略:
+
+    as if の後の「S + V」が省略されて、副詞句 / to不定詞 / 分詞が続くこともある。
+
+    例: He looked at me as if (he wanted) to ask something.
+
+    例: There she sat as if (she had been) paralyzed by his words.
+
+    '
+- id: skh-007
+  name: ifを省略した仮定法とif節の代用
+  category: 仮定法・比較
+  priority: P1
+  notes: 'Theme 52+53: ifを省略した仮定法 / if節の代用（問題177-183）
+
+    ■ ifの省略と倒置:
+
+    仮定法のifを省略すると倒置（疑問文と同じ語順）が起こる。
+
+    主語の前に置かれるのは原則として Were / Had / Should の3つ。
+
+    ×Did I know it ← If I knew it（一般動詞の過去形は倒置不可）
+
+    ■ 倒置の3パターン:
+
+    Were I you ← If I were you
+
+    Had I known ← If I had known
+
+    Should anything happen ← If anything should happen
+
+    Were it not for ~ ← If it were not for ~ (参照: 問171)
+
+    Had it not been for ~ ← If it had not been for ~ (参照: PU!30)
+
+    Were S to do ← If S were to do（参照: 問165）
+
+    注意: ifを省略した条件節が主節の後に置かれ、コンマなしの場合は特に注意。
+
+    英文読解でも重要。
+
+    ■ 主語がif節の代わりをする場合:
+
+    例: A secret agency would never let you know ...（主語に仮定の意味）
+
+    ■ otherwise「さもなければ」がif節の代わりをする場合:
+
+    例: I ran to the station. Otherwise, I would have missed the train.
+
+    Otherwise = If I had not run to the station
+
+    ■ to不定詞がif節の代わりをする場合:
+
+    例: To hear him speak in French, you would think him a Frenchman.
+
+    To hear = If you heard
+
+    ■ if節も代用表現もない場合の仮定法:
+
+    主節だけで構成される場合もある。助動詞の過去形が仮定法の目印。
+
+    PU!32（発展）: The town has changed a lot — you wouldn''t recognize it now.
+
+    ■ PU!33 副詞otherwiseの3つの意味:
+
+    1.「さもなければ」(= if ~ not) — 仮定法と共起
+
+    2.「別のやり方で」(= differently) — He thinks otherwise.
+
+    3.「その他の点では」(= in other ways) — The room is small, but otherwise it''s quite comfortable.
+
+    '
 understanding_goals:
-  - node_id: "skh-001"
-    seq: 1
-    goal: "仮定法過去の基本形（If + S + 過去形, S' + 助動詞の過去形 + 原形）を正確に書ける"
-  - node_id: "skh-001"
-    seq: 2
-    goal: "仮定法過去が「現在の事実に反する仮定」を表すことを説明できる"
-  - node_id: "skh-001"
-    seq: 3
-    goal: "if 節中の be 動詞は were が原則であることを理解している"
-  - node_id: "skh-001"
-    seq: 4
-    goal: "It is time + S + 仮定法過去 の意味と用法を説明できる"
-  # skh-002
-  - node_id: "skh-002"
-    seq: 1
-    goal: "仮定法過去完了の基本形（If + S + had done, S' + 助動詞の過去形 + have done）を正確に書ける"
-  - node_id: "skh-002"
-    seq: 2
-    goal: "仮定法過去完了が「過去の事実に反する仮定」を表すことを説明できる"
-  - node_id: "skh-002"
-    seq: 3
-    goal: "仮定法過去完了と仮定法過去のミックス型の構造と意味を説明できる"
-  - node_id: "skh-002"
-    seq: 4
-    goal: "直説法と仮定法を正しく識別できる"
-  # skh-003
-  - node_id: "skh-003"
-    seq: 1
-    goal: "If + S + should do の意味（万一〜ならば）と主節の形を説明できる"
-  - node_id: "skh-003"
-    seq: 2
-    goal: "If + S + were to do の意味（仮に〜ならば）と主節の形を説明できる"
-  - node_id: "skh-003"
-    seq: 3
-    goal: "shouldとwere toの使い分け（可能性・主節の制約）を説明できる"
-  # skh-004
-  - node_id: "skh-004"
-    seq: 1
-    goal: "wish + 仮定法過去（現在の願望）と wish + 仮定法過去完了（過去の願望）を使い分けられる"
-  - node_id: "skh-004"
-    seq: 2
-    goal: "wish + S + would 〜 が未来の願望を表すことを説明できる"
-  - node_id: "skh-004"
-    seq: 3
-    goal: "If only + 仮定法の意味と用法を説明できる"
-  - node_id: "skh-004"
-    seq: 4
-    goal: "would rather + S + 仮定法の意味と用法を説明できる"
-  - node_id: "skh-004"
-    seq: 5
-    goal: "wish/hope/want/likeの後ろに取れる節の違いを区別できる"
-  # skh-005
-  - node_id: "skh-005"
-    seq: 1
-    goal: "If it were not for 〜 / If it had not been for 〜 の意味と使い分けを説明できる"
-  - node_id: "skh-005"
-    seq: 2
-    goal: "Without / But for 〜 が仮定法過去・過去完了の両方に使えることを理解している"
-  - node_id: "skh-005"
-    seq: 3
-    goal: "With 〜 が仮定の意味（もし〜があれば）を表す場合を説明できる"
-  - node_id: "skh-005"
-    seq: 4
-    goal: "6つの同義表現（If it were not for / Were it not for / Without / But for 等）を書き出せる"
-  # skh-006
-  - node_id: "skh-006"
-    seq: 1
-    goal: "as if + 仮定法過去と as if + 仮定法過去完了の意味の違いを説明できる"
-  - node_id: "skh-006"
-    seq: 2
-    goal: "as if の後の仮定法は時制の一致を受けないことを理解している"
-  - node_id: "skh-006"
-    seq: 3
-    goal: "as if + 直説法が使われる場合（look/seem/appear + as if）を説明できる"
-  - node_id: "skh-006"
-    seq: 4
-    goal: "as if の後のS+Vが省略されるパターンを理解している"
-  # skh-007
-  - node_id: "skh-007"
-    seq: 1
-    goal: "ifを省略した仮定法の倒置形（Were/Had/Should）を正確に作れる"
-  - node_id: "skh-007"
-    seq: 2
-    goal: "主語・otherwise・to不定詞がif節の代わりをする場合を識別できる"
-  - node_id: "skh-007"
-    seq: 3
-    goal: "if節も代用表現もない仮定法を、助動詞の過去形から見抜ける"
-  - node_id: "skh-007"
-    seq: 4
-    goal: "otherwiseの3つの意味（さもなければ/別のやり方で/その他の点では）を区別できる"
-
+- node_id: skh-001
+  seq: 1
+  goal: 仮定法過去の基本形（If + S + 過去形, S' + 助動詞の過去形 + 原形）を正確に書ける
+- node_id: skh-001
+  seq: 2
+  goal: 仮定法過去が「現在の事実に反する仮定」を表すことを説明できる
+- node_id: skh-001
+  seq: 3
+  goal: if 節中の be 動詞は were が原則であることを理解している
+- node_id: skh-001
+  seq: 4
+  goal: It is time + S + 仮定法過去 の意味と用法を説明できる
+- node_id: skh-002
+  seq: 1
+  goal: 仮定法過去完了の基本形（If + S + had done, S' + 助動詞の過去形 + have done）を正確に書ける
+- node_id: skh-002
+  seq: 2
+  goal: 仮定法過去完了が「過去の事実に反する仮定」を表すことを説明できる
+- node_id: skh-002
+  seq: 3
+  goal: 仮定法過去完了と仮定法過去のミックス型の構造と意味を説明できる
+- node_id: skh-002
+  seq: 4
+  goal: 直説法と仮定法を正しく識別できる
+- node_id: skh-003
+  seq: 1
+  goal: If + S + should do の意味（万一〜ならば）と主節の形を説明できる
+- node_id: skh-003
+  seq: 2
+  goal: If + S + were to do の意味（仮に〜ならば）と主節の形を説明できる
+- node_id: skh-003
+  seq: 3
+  goal: shouldとwere toの使い分け（可能性・主節の制約）を説明できる
+- node_id: skh-004
+  seq: 1
+  goal: wish + 仮定法過去（現在の願望）と wish + 仮定法過去完了（過去の願望）を使い分けられる
+- node_id: skh-004
+  seq: 2
+  goal: wish + S + would 〜 が未来の願望を表すことを説明できる
+- node_id: skh-004
+  seq: 3
+  goal: If only + 仮定法の意味と用法を説明できる
+- node_id: skh-004
+  seq: 4
+  goal: would rather + S + 仮定法の意味と用法を説明できる
+- node_id: skh-004
+  seq: 5
+  goal: wish/hope/want/likeの後ろに取れる節の違いを区別できる
+- node_id: skh-005
+  seq: 1
+  goal: If it were not for 〜 / If it had not been for 〜 の意味と使い分けを説明できる
+- node_id: skh-005
+  seq: 2
+  goal: Without / But for 〜 が仮定法過去・過去完了の両方に使えることを理解している
+- node_id: skh-005
+  seq: 3
+  goal: With 〜 が仮定の意味（もし〜があれば）を表す場合を説明できる
+- node_id: skh-005
+  seq: 4
+  goal: 6つの同義表現（If it were not for / Were it not for / Without / But for 等）を書き出せる
+- node_id: skh-006
+  seq: 1
+  goal: as if + 仮定法過去と as if + 仮定法過去完了の意味の違いを説明できる
+- node_id: skh-006
+  seq: 2
+  goal: as if の後の仮定法は時制の一致を受けないことを理解している
+- node_id: skh-006
+  seq: 3
+  goal: as if + 直説法が使われる場合（look/seem/appear + as if）を説明できる
+- node_id: skh-006
+  seq: 4
+  goal: as if の後のS+Vが省略されるパターンを理解している
+- node_id: skh-007
+  seq: 1
+  goal: ifを省略した仮定法の倒置形（Were/Had/Should）を正確に作れる
+- node_id: skh-007
+  seq: 2
+  goal: 主語・otherwise・to不定詞がif節の代わりをする場合を識別できる
+- node_id: skh-007
+  seq: 3
+  goal: if節も代用表現もない仮定法を、助動詞の過去形から見抜ける
+- node_id: skh-007
+  seq: 4
+  goal: otherwiseの3つの意味（さもなければ/別のやり方で/その他の点では）を区別できる
 check_points:
-  - node_id: "skh-001"
-    seq: 1
-    question: "仮定法過去の if 節と主節の動詞形をそれぞれ答えよ。"
-    answer: "if 節: 過去形。主節: 助動詞の過去形（would/could/might）+ 原形。"
-  - node_id: "skh-001"
-    seq: 2
-    question: "仮定法過去は「過去」のことを表すか？"
-    answer: "いいえ。名前に「過去」とあるが、表すのは現在の事実に反する仮定・想像。"
-  - node_id: "skh-001"
-    seq: 3
-    question: "If I (be) in your situation のように仮定法過去の if 節で be 動詞を使う場合、何を入れるか？"
-    answer: "were。主語の人称・数に関係なく were が原則（口語では was も可）。"
-  - node_id: "skh-001"
-    seq: 4
-    question: "It is time we started packing. はどういう意味か？"
-    answer: "もう荷造りを始める時間だ（まだ始めていないが、始めるべきだ）。It is time + S + 仮定法過去。"
-  # skh-002
-  - node_id: "skh-002"
-    seq: 1
-    question: "仮定法過去完了の if 節と主節の動詞形をそれぞれ答えよ。"
-    answer: "if 節: 過去完了形（had done）。主節: 助動詞の過去形 + have done。"
-  - node_id: "skh-002"
-    seq: 2
-    question: "If I had attended the seminar last year, I would be able to speak English more fluently now. はなぜミックス型か？"
-    answer: "if 節が過去の仮定（last year→仮定法過去完了）、主節が現在の仮定（now→仮定法過去）だから。"
-  - node_id: "skh-002"
-    seq: 3
-    question: "If it stops raining soon, shall we go out for a walk? は仮定法か直説法か？"
-    answer: "直説法。「ありそうなこと」は仮定法ではなく直説法で表す。stopsは条件の副詞節中で未来を表す現在形。"
-  - node_id: "skh-002"
-    seq: 4
-    question: "仮定法過去完了の主節に来る助動詞の過去形を3つ挙げよ。"
-    answer: "would have done, could have done, might have done。"
-  # skh-003
-  - node_id: "skh-003"
-    seq: 1
-    question: "If + S + should do は「絶対にあり得ないこと」に使えるか？"
-    answer: "使えない。可能性は低いがゼロではない場合に使う（「万一〜ならば」）。"
-  - node_id: "skh-003"
-    seq: 2
-    question: "If + S + were to do の主節にはどのような制約があるか？"
-    answer: "必ず「助動詞の過去形 + 原形」が来る。shouldの場合と異なり命令文は不可。"
-  - node_id: "skh-003"
-    seq: 3
-    question: "If you should have any questions, please let me know. の主節が命令文だが、これは正しいか？"
-    answer: "正しい。shouldを用いた仮定法では主節に命令文も可能。"
-  # skh-004
-  - node_id: "skh-004"
-    seq: 1
-    question: "I wish I (know) her telephone number. の空所を埋めよ。"
-    answer: "knew。現在の事実に反する願望なので仮定法過去。"
-  - node_id: "skh-004"
-    seq: 2
-    question: "I wish we had reserved a table. の wish を hope に変えられるか？"
-    answer: "変えられない。hopeはthat節を取るが、節内に仮定法は用いない。"
-  - node_id: "skh-004"
-    seq: 3
-    question: "If only I knew her number. を I wish で書き換えよ。"
-    answer: "I wish I knew her number. If only = I wish。"
-  - node_id: "skh-004"
-    seq: 4
-    question: "I'd rather you (not help) me. の空所を正しい形にせよ。"
-    answer: "didn't help。would rather + S + 仮定法過去。否定は didn't + 原形。"
-  - node_id: "skh-004"
-    seq: 5
-    question: "wish + S + would 〜 はどのような願望を表すか？"
-    answer: "未来のことに対する願望。「Sが〜してくれたらよいのに」。意志未来のwillが仮定法の形wouldになったもの。"
-  # skh-005
-  - node_id: "skh-005"
-    seq: 1
-    question: "「もし〜がなければ」を表す仮定法過去の表現を3つ挙げよ。"
-    answer: "If it were not for ~ / Were it not for ~ / Without [But for] ~。"
-  - node_id: "skh-005"
-    seq: 2
-    question: "「もし〜がなかったら」を表す仮定法過去完了の表現を3つ挙げよ。"
-    answer: "If it had not been for ~ / Had it not been for ~ / Without [But for] ~。"
-  - node_id: "skh-005"
-    seq: 3
-    question: "Without / But for は仮定法過去と仮定法過去完了のどちらに使えるか？"
-    answer: "両方に使える。主節の動詞形で時制を判断する。"
-  - node_id: "skh-005"
-    seq: 4
-    question: "With a little more effort, he would have been a member of our team. の With はどのような意味か？"
-    answer: "「もし〜があったら」の意味。Without の対義表現。仮定の意味を表す。"
-  # skh-006
-  - node_id: "skh-006"
-    seq: 1
-    question: "He talks as if he knew everything. の as if 以下はなぜ仮定法過去か？"
-    answer: "「実際には知らないが、まるで知っているかのように」— 現在の事実に反する仮定だから。"
-  - node_id: "skh-006"
-    seq: 2
-    question: "主節の動詞が He talked (過去) に変わった場合、as if 以下の動詞形は変わるか？"
-    answer: "変わらない。仮定法は時制の一致を受けないので、knew のまま。"
-  - node_id: "skh-006"
-    seq: 3
-    question: "It looks as if it is going to snow. の as if 以下は仮定法か直説法か？"
-    answer: "直説法。事実をそのまま述べている。look/seem/appear + as if で直説法が来ることがある。"
-  # skh-007
-  - node_id: "skh-007"
-    seq: 1
-    question: "If I were you を if を省略した形に書き換えよ。"
-    answer: "Were I you。ifを省略すると疑問文と同じ語順（倒置）になる。"
-  - node_id: "skh-007"
-    seq: 2
-    question: "ifの省略で主語の前に置かれる語は原則としてどの3つか？"
-    answer: "Were / Had / Should。一般動詞の過去形は倒置不可。"
-  - node_id: "skh-007"
-    seq: 3
-    question: "I ran to the station. Otherwise, I would have missed the train. の otherwise は何の代わりか？"
-    answer: "If I had not run to the station の代わり。「さもなければ」の意味。"
-  - node_id: "skh-007"
-    seq: 4
-    question: "To hear him speak in French, you would think him a Frenchman. の To hear は何の代わりか？"
-    answer: "If you heard him speak in French の代わり。to不定詞がif節を代用している。"
-  - node_id: "skh-007"
-    seq: 5
-    question: "He thinks otherwise. の otherwise はどの意味か？"
-    answer: "「別のやり方で」(= differently)。「彼はそうは考えない」の意味。仮定法のotherwise（さもなければ）とは異なる。"
-
+- node_id: skh-001
+  seq: 1
+  question: 仮定法過去の if 節と主節の動詞形をそれぞれ答えよ。
+  answer: 'if 節: 過去形。主節: 助動詞の過去形（would/could/might）+ 原形。'
+- node_id: skh-001
+  seq: 2
+  question: 仮定法過去は「過去」のことを表すか？
+  answer: いいえ。名前に「過去」とあるが、表すのは現在の事実に反する仮定・想像。
+- node_id: skh-001
+  seq: 3
+  question: If I (be) in your situation のように仮定法過去の if 節で be 動詞を使う場合、何を入れるか？
+  answer: were。主語の人称・数に関係なく were が原則（口語では was も可）。
+- node_id: skh-001
+  seq: 4
+  question: It is time we started packing. はどういう意味か？
+  answer: もう荷造りを始める時間だ（まだ始めていないが、始めるべきだ）。It is time + S + 仮定法過去。
+- node_id: skh-002
+  seq: 1
+  question: 仮定法過去完了の if 節と主節の動詞形をそれぞれ答えよ。
+  answer: 'if 節: 過去完了形（had done）。主節: 助動詞の過去形 + have done。'
+- node_id: skh-002
+  seq: 2
+  question: If I had attended the seminar last year, I would be able to speak English more fluently now. はなぜミックス型か？
+  answer: if 節が過去の仮定（last year→仮定法過去完了）、主節が現在の仮定（now→仮定法過去）だから。
+- node_id: skh-002
+  seq: 3
+  question: If it stops raining soon, shall we go out for a walk? は仮定法か直説法か？
+  answer: 直説法。「ありそうなこと」は仮定法ではなく直説法で表す。stopsは条件の副詞節中で未来を表す現在形。
+- node_id: skh-002
+  seq: 4
+  question: 仮定法過去完了の主節に来る助動詞の過去形を3つ挙げよ。
+  answer: would have done, could have done, might have done。
+- node_id: skh-003
+  seq: 1
+  question: If + S + should do は「絶対にあり得ないこと」に使えるか？
+  answer: 使えない。可能性は低いがゼロではない場合に使う（「万一〜ならば」）。
+- node_id: skh-003
+  seq: 2
+  question: If + S + were to do の主節にはどのような制約があるか？
+  answer: 必ず「助動詞の過去形 + 原形」が来る。shouldの場合と異なり命令文は不可。
+- node_id: skh-003
+  seq: 3
+  question: If you should have any questions, please let me know. の主節が命令文だが、これは正しいか？
+  answer: 正しい。shouldを用いた仮定法では主節に命令文も可能。
+- node_id: skh-004
+  seq: 1
+  question: I wish I (know) her telephone number. の空所を埋めよ。
+  answer: knew。現在の事実に反する願望なので仮定法過去。
+- node_id: skh-004
+  seq: 2
+  question: I wish we had reserved a table. の wish を hope に変えられるか？
+  answer: 変えられない。hopeはthat節を取るが、節内に仮定法は用いない。
+- node_id: skh-004
+  seq: 3
+  question: If only I knew her number. を I wish で書き換えよ。
+  answer: I wish I knew her number. If only = I wish。
+- node_id: skh-004
+  seq: 4
+  question: I'd rather you (not help) me. の空所を正しい形にせよ。
+  answer: didn't help。would rather + S + 仮定法過去。否定は didn't + 原形。
+- node_id: skh-004
+  seq: 5
+  question: wish + S + would 〜 はどのような願望を表すか？
+  answer: 未来のことに対する願望。「Sが〜してくれたらよいのに」。意志未来のwillが仮定法の形wouldになったもの。
+- node_id: skh-005
+  seq: 1
+  question: 「もし〜がなければ」を表す仮定法過去の表現を3つ挙げよ。
+  answer: If it were not for ~ / Were it not for ~ / Without [But for] ~。
+- node_id: skh-005
+  seq: 2
+  question: 「もし〜がなかったら」を表す仮定法過去完了の表現を3つ挙げよ。
+  answer: If it had not been for ~ / Had it not been for ~ / Without [But for] ~。
+- node_id: skh-005
+  seq: 3
+  question: Without / But for は仮定法過去と仮定法過去完了のどちらに使えるか？
+  answer: 両方に使える。主節の動詞形で時制を判断する。
+- node_id: skh-005
+  seq: 4
+  question: With a little more effort, he would have been a member of our team. の With はどのような意味か？
+  answer: 「もし〜があったら」の意味。Without の対義表現。仮定の意味を表す。
+- node_id: skh-006
+  seq: 1
+  question: He talks as if he knew everything. の as if 以下はなぜ仮定法過去か？
+  answer: 「実際には知らないが、まるで知っているかのように」— 現在の事実に反する仮定だから。
+- node_id: skh-006
+  seq: 2
+  question: 主節の動詞が He talked (過去) に変わった場合、as if 以下の動詞形は変わるか？
+  answer: 変わらない。仮定法は時制の一致を受けないので、knew のまま。
+- node_id: skh-006
+  seq: 3
+  question: It looks as if it is going to snow. の as if 以下は仮定法か直説法か？
+  answer: 直説法。事実をそのまま述べている。look/seem/appear + as if で直説法が来ることがある。
+- node_id: skh-007
+  seq: 1
+  question: If I were you を if を省略した形に書き換えよ。
+  answer: Were I you。ifを省略すると疑問文と同じ語順（倒置）になる。
+- node_id: skh-007
+  seq: 2
+  question: ifの省略で主語の前に置かれる語は原則としてどの3つか？
+  answer: Were / Had / Should。一般動詞の過去形は倒置不可。
+- node_id: skh-007
+  seq: 3
+  question: I ran to the station. Otherwise, I would have missed the train. の otherwise は何の代わりか？
+  answer: If I had not run to the station の代わり。「さもなければ」の意味。
+- node_id: skh-007
+  seq: 4
+  question: To hear him speak in French, you would think him a Frenchman. の To hear は何の代わりか？
+  answer: If you heard him speak in French の代わり。to不定詞がif節を代用している。
+- node_id: skh-007
+  seq: 5
+  question: He thinks otherwise. の otherwise はどの意味か？
+  answer: 「別のやり方で」(= differently)。「彼はそうは考えない」の意味。仮定法のotherwise（さもなければ）とは異なる。
 node_prerequisites:
-  - node_id: "skh-002"
-    prerequisite_id: "skh-001"
-  - node_id: "skh-003"
-    prerequisite_id: "skh-001"
-  - node_id: "skh-004"
-    prerequisite_id: "skh-001"
-  - node_id: "skh-004"
-    prerequisite_id: "skh-002"
-  - node_id: "skh-005"
-    prerequisite_id: "skh-001"
-  - node_id: "skh-005"
-    prerequisite_id: "skh-002"
-  - node_id: "skh-006"
-    prerequisite_id: "skh-001"
-  - node_id: "skh-006"
-    prerequisite_id: "skh-002"
-  - node_id: "skh-007"
-    prerequisite_id: "skh-001"
-  - node_id: "skh-007"
-    prerequisite_id: "skh-002"
-  - node_id: "skh-007"
-    prerequisite_id: "skh-005"
-
+- node_id: skh-002
+  prerequisite_id: skh-001
+- node_id: skh-003
+  prerequisite_id: skh-001
+- node_id: skh-004
+  prerequisite_id: skh-001
+- node_id: skh-004
+  prerequisite_id: skh-002
+- node_id: skh-005
+  prerequisite_id: skh-001
+- node_id: skh-005
+  prerequisite_id: skh-002
+- node_id: skh-006
+  prerequisite_id: skh-001
+- node_id: skh-006
+  prerequisite_id: skh-002
+- node_id: skh-007
+  prerequisite_id: skh-001
+- node_id: skh-007
+  prerequisite_id: skh-002
+- node_id: skh-007
+  prerequisite_id: skh-005
 knowledge_references:
-  - node_id: "skh-001"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_046"
-    pages: ""
-  - node_id: "skh-002"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_047"
-    pages: ""
-  - node_id: "skh-003"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_048"
-    pages: ""
-  - node_id: "skh-004"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_049"
-    pages: ""
-  - node_id: "skh-005"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_050"
-    pages: ""
-  - node_id: "skh-006"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_051"
-    pages: ""
-  - node_id: "skh-007"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_052"
-    pages: ""
-  - node_id: "skh-007"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_053"
-    pages: ""
+- node_id: skh-001
+  book: スクランブル英文法・語法
+  section_id: Scr_046
+  pages: ''
+- node_id: skh-002
+  book: スクランブル英文法・語法
+  section_id: Scr_047
+  pages: ''
+- node_id: skh-003
+  book: スクランブル英文法・語法
+  section_id: Scr_048
+  pages: ''
+- node_id: skh-004
+  book: スクランブル英文法・語法
+  section_id: Scr_049
+  pages: ''
+- node_id: skh-005
+  book: スクランブル英文法・語法
+  section_id: Scr_050
+  pages: ''
+- node_id: skh-006
+  book: スクランブル英文法・語法
+  section_id: Scr_051
+  pages: ''
+- node_id: skh-007
+  book: スクランブル英文法・語法
+  section_id: Scr_052
+  pages: ''

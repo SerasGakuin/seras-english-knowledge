@@ -1,133 +1,131 @@
 sentences:
-  - id: "scr-195-p01"
-    section_id: "Scr_195"
-    drill: 1
-    number: 808
-    role: "exam"
-    english: "Whenever I met anyone whom I thought to be of any consequence, I did my best to learn something from him."
-    japanese: "重要だと思う人に会うときはいつも、私はその人から何かを学ぼうとできる限り努めた。"
-    notes: "慶應大。consequence=significance「重要さ/重大さ」(=importance)。of consequence「重要な」(of+抽象名詞=形容詞⇨710)。"
-  - id: "scr-195-e01"
-    section_id: "Scr_195"
-    drill: 0
-    number: null
-    role: "example"
-    english: "She faced the consequence of her actions."
-    japanese: "彼女は自分の行動の結果に向き合った。"
-    notes: "問808プラスα。consequence「結果(=result)/影響(=effect)」の意味も重要。"
-  - id: "scr-195-p02"
-    section_id: "Scr_195"
-    drill: 1
-    number: 809
-    role: "exam"
-    english: "This corner should make a good site for a fast food restaurant."
-    japanese: "この角地はきっとファストフード店に適した用地になるだろう。"
-    notes: "東海大。site=location「用地」(=lot)。"
-  - id: "scr-195-e02"
-    section_id: "Scr_195"
-    drill: 0
-    number: null
-    role: "example"
-    english: "She will make a good wife for him."
-    japanese: "彼女は彼のいい奥さんになるだろう。"
-    notes: "問809語句。make A for B「BにとってAになる」(= make BA)。She will make him a good wife.と書き換え可能。"
-  - id: "scr-195-p03"
-    section_id: "Scr_195"
-    drill: 1
-    number: 810
-    role: "exam"
-    english: "When he was a manager, his first accomplishment was to create better working conditions."
-    japanese: "彼が支配人だったとき、彼が最初に達成したことは、より良い労働環境を作り出すことだった。"
-    notes: "〈発展〉西南学院大。accomplishment=achievement「達成/業績」。動詞はaccomplish=achieve「成し遂げる」。"
-  - id: "scr-195-p04"
-    section_id: "Scr_195"
-    drill: 1
-    number: 811
-    role: "exam"
-    english: "We haven't found any evidence to hold him responsible."
-    japanese: "彼に責任があると考える証拠は何も見つかっていない。"
-    notes: "阪南大。evidence=proof「証拠」。hold A (to be) B「AをBと考える/みなす」。"
-  - id: "scr-195-p05"
-    section_id: "Scr_195"
-    drill: 1
-    number: 812
-    role: "exam"
-    english: "One of the benefits of working remotely is having a flexible schedule."
-    japanese: "リモートワークの利点の1つは、柔軟なスケジュールを立てられることだ。"
-    notes: "benefit=advantage「利点」。"
-  - id: "scr-195-p06"
-    section_id: "Scr_195"
-    drill: 1
-    number: 813
-    role: "exam"
-    english: "We have a scheme for finishing the assignments by next month."
-    japanese: "来月までにその仕事を終える計画です。"
-    notes: "東海大。scheme=plan「計画」。assignment「仕事/任務/宿題」。"
-
+- id: scr-195-p01
+  section_id: Scr_195
+  drill: 1
+  number: 808
+  role: exam
+  english: Whenever I met anyone whom I thought to be of any consequence, I did my best to learn something from him.
+  japanese: 重要だと思う人に会うときはいつも、私はその人から何かを学ぼうとできる限り努めた。
+  notes: 慶應大。consequence=significance「重要さ/重大さ」(=importance)。of consequence「重要な」(of+抽象名詞=形容詞⇨710)。
+- id: scr-195-e01
+  section_id: Scr_195
+  drill: 0
+  number: 1
+  role: example
+  english: She faced the consequence of her actions.
+  japanese: 彼女は自分の行動の結果に向き合った。
+  notes: 問808プラスα。consequence「結果(=result)/影響(=effect)」の意味も重要。
+- id: scr-195-p02
+  section_id: Scr_195
+  drill: 1
+  number: 809
+  role: exam
+  english: This corner should make a good site for a fast food restaurant.
+  japanese: この角地はきっとファストフード店に適した用地になるだろう。
+  notes: 東海大。site=location「用地」(=lot)。
+- id: scr-195-e02
+  section_id: Scr_195
+  drill: 0
+  number: 2
+  role: example
+  english: She will make a good wife for him.
+  japanese: 彼女は彼のいい奥さんになるだろう。
+  notes: 問809語句。make A for B「BにとってAになる」(= make BA)。She will make him a good wife.と書き換え可能。
+- id: scr-195-p03
+  section_id: Scr_195
+  drill: 1
+  number: 810
+  role: exam
+  english: When he was a manager, his first accomplishment was to create better working conditions.
+  japanese: 彼が支配人だったとき、彼が最初に達成したことは、より良い労働環境を作り出すことだった。
+  notes: 〈発展〉西南学院大。accomplishment=achievement「達成/業績」。動詞はaccomplish=achieve「成し遂げる」。
+- id: scr-195-p04
+  section_id: Scr_195
+  drill: 1
+  number: 811
+  role: exam
+  english: We haven't found any evidence to hold him responsible.
+  japanese: 彼に責任があると考える証拠は何も見つかっていない。
+  notes: 阪南大。evidence=proof「証拠」。hold A (to be) B「AをBと考える/みなす」。
+- id: scr-195-p05
+  section_id: Scr_195
+  drill: 1
+  number: 812
+  role: exam
+  english: One of the benefits of working remotely is having a flexible schedule.
+  japanese: リモートワークの利点の1つは、柔軟なスケジュールを立てられることだ。
+  notes: benefit=advantage「利点」。
+- id: scr-195-p06
+  section_id: Scr_195
+  drill: 1
+  number: 813
+  role: exam
+  english: We have a scheme for finishing the assignments by next month.
+  japanese: 来月までにその仕事を終える計画です。
+  notes: 東海大。scheme=plan「計画」。assignment「仕事/任務/宿題」。
 sentence_structures:
-  - sentence_id: "scr-195-p01"
-    label: "overall"
-    value: "M, S V O M"
-  - sentence_id: "scr-195-p01"
-    label: "details"
-    value: "[Whenever I met anyone whom I thought to be of any consequence](M:時節), <I>(S) did(V) <my best>(O) [to learn something from him](M:目的)"
-  - sentence_id: "scr-195-e01"
-    label: "overall"
-    value: "S V O"
-  - sentence_id: "scr-195-e01"
-    label: "details"
-    value: "<She>(S) faced(V) <the consequence of her actions>(O)"
-  - sentence_id: "scr-195-p02"
-    label: "overall"
-    value: "S V O M"
-  - sentence_id: "scr-195-p02"
-    label: "details"
-    value: "<This corner>(S) should make(V) <a good site>(O) [for a fast food restaurant](M)"
-  - sentence_id: "scr-195-e02"
-    label: "overall"
-    value: "S V O M"
-  - sentence_id: "scr-195-e02"
-    label: "details"
-    value: "<She>(S) will make(V) <a good wife>(O) [for him](M)"
-  - sentence_id: "scr-195-p03"
-    label: "overall"
-    value: "M, S V C"
-  - sentence_id: "scr-195-p03"
-    label: "details"
-    value: "[When he was a manager](M:時節), <his first accomplishment>(S) was(V) <to create better working conditions>(C:不定詞)"
-  - sentence_id: "scr-195-p04"
-    label: "overall"
-    value: "S V O M"
-  - sentence_id: "scr-195-p04"
-    label: "details"
-    value: "<We>(S) haven't found(V) <any evidence>(O) [to hold him responsible](M:不定詞形容詞用法)"
-  - sentence_id: "scr-195-p05"
-    label: "overall"
-    value: "S V C"
-  - sentence_id: "scr-195-p05"
-    label: "details"
-    value: "<One of the benefits of working remotely>(S) is(V) <having a flexible schedule>(C:動名詞)"
-  - sentence_id: "scr-195-p06"
-    label: "overall"
-    value: "S V O M"
-  - sentence_id: "scr-195-p06"
-    label: "details"
-    value: "<We>(S) have(V) <a scheme>(O) [for finishing the assignments by next month](M)"
-
+- sentence_id: scr-195-p01
+  label: overall
+  value: M, S V O M
+- sentence_id: scr-195-p01
+  label: details
+  value: '[Whenever I met anyone whom I thought to be of any consequence](M:時節), <I>(S) did(V) <my best>(O) [to learn something from him](M:目的)'
+- sentence_id: scr-195-e01
+  label: overall
+  value: S V O
+- sentence_id: scr-195-e01
+  label: details
+  value: <She>(S) faced(V) <the consequence of her actions>(O)
+- sentence_id: scr-195-p02
+  label: overall
+  value: S V O M
+- sentence_id: scr-195-p02
+  label: details
+  value: <This corner>(S) should make(V) <a good site>(O) [for a fast food restaurant](M)
+- sentence_id: scr-195-e02
+  label: overall
+  value: S V O M
+- sentence_id: scr-195-e02
+  label: details
+  value: <She>(S) will make(V) <a good wife>(O) [for him](M)
+- sentence_id: scr-195-p03
+  label: overall
+  value: M, S V C
+- sentence_id: scr-195-p03
+  label: details
+  value: '[When he was a manager](M:時節), <his first accomplishment>(S) was(V) <to create better working conditions>(C:不定詞)'
+- sentence_id: scr-195-p04
+  label: overall
+  value: S V O M
+- sentence_id: scr-195-p04
+  label: details
+  value: <We>(S) haven't found(V) <any evidence>(O) [to hold him responsible](M:不定詞形容詞用法)
+- sentence_id: scr-195-p05
+  label: overall
+  value: S V C
+- sentence_id: scr-195-p05
+  label: details
+  value: <One of the benefits of working remotely>(S) is(V) <having a flexible schedule>(C:動名詞)
+- sentence_id: scr-195-p06
+  label: overall
+  value: S V O M
+- sentence_id: scr-195-p06
+  label: details
+  value: <We>(S) have(V) <a scheme>(O) [for finishing the assignments by next month](M)
 sentence_knowledge_tags:
-  - sentence_id: "scr-195-p01"
-    node_id: "sgi-007"
-  - sentence_id: "scr-195-e01"
-    node_id: "sgi-007"
-  - sentence_id: "scr-195-p02"
-    node_id: "sgi-007"
-  - sentence_id: "scr-195-e02"
-    node_id: "sgi-007"
-  - sentence_id: "scr-195-p03"
-    node_id: "sgi-007"
-  - sentence_id: "scr-195-p04"
-    node_id: "sgi-007"
-  - sentence_id: "scr-195-p05"
-    node_id: "sgi-007"
-  - sentence_id: "scr-195-p06"
-    node_id: "sgi-007"
+- sentence_id: scr-195-p01
+  node_id: sgi-007
+- sentence_id: scr-195-e01
+  node_id: sgi-007
+- sentence_id: scr-195-p02
+  node_id: sgi-007
+- sentence_id: scr-195-e02
+  node_id: sgi-007
+- sentence_id: scr-195-p03
+  node_id: sgi-007
+- sentence_id: scr-195-p04
+  node_id: sgi-007
+- sentence_id: scr-195-p05
+  node_id: sgi-007
+- sentence_id: scr-195-p06
+  node_id: sgi-007

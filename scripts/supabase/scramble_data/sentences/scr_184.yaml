@@ -1,165 +1,163 @@
 sentences:
-  - id: "scr-184-p01"
-    section_id: "Scr_184"
-    drill: 1
-    number: 726
-    role: "exam"
-    english: "Any dictionary will do as long as it is a French dictionary."
-    japanese: "フランス語の辞書なら、どんな辞書でもかまいません。"
-    notes: "〈頻出〉神戸学院大。do「〔通例willを伴って〕間に合う/十分である」。as [so] long as〜「〜しさえすれば/〜なら」（⇨ 450）。"
-  - id: "scr-184-p02"
-    section_id: "Scr_184"
-    drill: 1
-    number: 727
-    role: "exam"
-    english: "John apparently believes that honesty pays in the long run."
-    japanese: "ジョンは最後には正直は報われると信じているらしい。"
-    notes: "名古屋工大。pay「（物・事が）利益になる/引き合う/割に合う」。apparently「見たところでは（どうも）〜らしい」（⇨ PU!156）。in the long run「結局は/最後には」（⇨ 1222）。"
-  - id: "scr-184-p03"
-    section_id: "Scr_184"
-    drill: 1
-    number: 728
-    role: "exam"
-    english: "Bicycles are selling well these days."
-    japanese: "最近、自転車がよく売れている。"
-    notes: "追手門学院大。sell「（商品が）売れる/売れ行きが〜である」。自動詞のsellはwell/badlyなどの副詞を伴う。sellは能動態で受動の意味を表す動詞の1つ（⇨ PU!165）。these days「最近は」は現在形・現在進行形で使う。"
-  - id: "scr-184-p04"
-    section_id: "Scr_184"
-    drill: 1
-    number: 729
-    role: "exam"
-    english: "He was caught cheating during the examination."
-    japanese: "彼は試験中にカンニングしているところを見つかった。"
-    notes: "穴埋め（c-）。cheat「カンニングする/いかさまをする」。cunningは「悪賢い/ずるい」の意味の形容詞なので不可。catch A doing「Aが〜しているところを見つける」（⇨ 561）。"
-  - id: "scr-184-p05"
-    section_id: "Scr_184"
-    drill: 1
-    number: 730
-    role: "exam"
-    english: "I'm coming."
-    japanese: "今行きます。"
-    notes: "北星学園大。対話問題（A: Dinner is ready!）。come「（相手のほうへ）行く」。呼ばれて相手のほうに行くのでI'm coming.が正解。×I'm going.としないように。"
-  - id: "scr-184-p06"
-    section_id: "Scr_184"
-    drill: 1
-    number: 731
-    role: "exam"
-    english: "I'd better not eat fried oysters. Oily food does not agree with me."
-    japanese: "私はカキフライは食べないほうがよい。油っぽい食べ物は私の体に合わない。"
-    notes: "昭和大。agree「（気候・食べ物が）合う」。agree with+人の形で通例否定文で用いる。had better not do「〜しないほうがよい」（⇨ 79）。"
-  - id: "scr-184-p07"
-    section_id: "Scr_184"
-    drill: 1
-    number: 732
-    role: "exam"
-    english: "(a) The sign here reads, \"Danger.\" (b) She reads three books a week."
-    japanese: "(a) ここにある表示には「危険」と書いてある。 (b) 彼女は1週間に3冊の本を読む。"
-    notes: "〈発展〉早大。共通語句問題。read「〜と書いてある/読める〔解釈される〕」。本来自動詞だが\"...\"を目的語と考え他動詞扱いもある。sayは他動詞の用法（⇨ PU!123）。(a)ではsaysも可、(b)ではsaysは不可。"
-  - id: "scr-184-e01"
-    section_id: "Scr_184"
-    drill: 0
-    number: null
-    role: "example"
-    english: "This wood cuts easily."
-    japanese: "この材木は切りやすい。"
-    notes: "PU!165「能動態で受動の意味を表す動詞」。cut「切れる」。形は能動態でも受動的な意味。"
-  - id: "scr-184-e02"
-    section_id: "Scr_184"
-    drill: 0
-    number: null
-    role: "example"
-    english: "This sweater washes well."
-    japanese: "このセーターは洗濯がきく。"
-    notes: "PU!165「能動態で受動の意味を表す動詞」。wash「洗濯がきく」。well/badlyなどの副詞を伴う。"
-  - id: "scr-184-e03"
-    section_id: "Scr_184"
-    drill: 0
-    number: null
-    role: "example"
-    english: "This door locks automatically."
-    japanese: "このドアは自動的にかぎがかかる。"
-    notes: "PU!165「能動態で受動の意味を表す動詞」。lock「かぎがかかる」。"
-
+- id: scr-184-p01
+  section_id: Scr_184
+  drill: 1
+  number: 726
+  role: exam
+  english: Any dictionary will do as long as it is a French dictionary.
+  japanese: フランス語の辞書なら、どんな辞書でもかまいません。
+  notes: 〈頻出〉神戸学院大。do「〔通例willを伴って〕間に合う/十分である」。as [so] long as〜「〜しさえすれば/〜なら」（⇨ 450）。
+- id: scr-184-p02
+  section_id: Scr_184
+  drill: 1
+  number: 727
+  role: exam
+  english: John apparently believes that honesty pays in the long run.
+  japanese: ジョンは最後には正直は報われると信じているらしい。
+  notes: 名古屋工大。pay「（物・事が）利益になる/引き合う/割に合う」。apparently「見たところでは（どうも）〜らしい」（⇨ PU!156）。in the long run「結局は/最後には」（⇨ 1222）。
+- id: scr-184-p03
+  section_id: Scr_184
+  drill: 1
+  number: 728
+  role: exam
+  english: Bicycles are selling well these days.
+  japanese: 最近、自転車がよく売れている。
+  notes: 追手門学院大。sell「（商品が）売れる/売れ行きが〜である」。自動詞のsellはwell/badlyなどの副詞を伴う。sellは能動態で受動の意味を表す動詞の1つ（⇨ PU!165）。these days「最近は」は現在形・現在進行形で使う。
+- id: scr-184-p04
+  section_id: Scr_184
+  drill: 1
+  number: 729
+  role: exam
+  english: He was caught cheating during the examination.
+  japanese: 彼は試験中にカンニングしているところを見つかった。
+  notes: 穴埋め（c-）。cheat「カンニングする/いかさまをする」。cunningは「悪賢い/ずるい」の意味の形容詞なので不可。catch A doing「Aが〜しているところを見つける」（⇨ 561）。
+- id: scr-184-p05
+  section_id: Scr_184
+  drill: 1
+  number: 730
+  role: exam
+  english: I'm coming.
+  japanese: 今行きます。
+  notes: '北星学園大。対話問題（A: Dinner is ready!）。come「（相手のほうへ）行く」。呼ばれて相手のほうに行くのでI''m coming.が正解。×I''m going.としないように。'
+- id: scr-184-p06
+  section_id: Scr_184
+  drill: 1
+  number: 731
+  role: exam
+  english: I'd better not eat fried oysters. Oily food does not agree with me.
+  japanese: 私はカキフライは食べないほうがよい。油っぽい食べ物は私の体に合わない。
+  notes: 昭和大。agree「（気候・食べ物が）合う」。agree with+人の形で通例否定文で用いる。had better not do「〜しないほうがよい」（⇨ 79）。
+- id: scr-184-p07
+  section_id: Scr_184
+  drill: 1
+  number: 732
+  role: exam
+  english: (a) The sign here reads, "Danger." (b) She reads three books a week.
+  japanese: (a) ここにある表示には「危険」と書いてある。 (b) 彼女は1週間に3冊の本を読む。
+  notes: 〈発展〉早大。共通語句問題。read「〜と書いてある/読める〔解釈される〕」。本来自動詞だが"..."を目的語と考え他動詞扱いもある。sayは他動詞の用法（⇨ PU!123）。(a)ではsaysも可、(b)ではsaysは不可。
+- id: scr-184-e01
+  section_id: Scr_184
+  drill: 0
+  number: 1
+  role: example
+  english: This wood cuts easily.
+  japanese: この材木は切りやすい。
+  notes: PU!165「能動態で受動の意味を表す動詞」。cut「切れる」。形は能動態でも受動的な意味。
+- id: scr-184-e02
+  section_id: Scr_184
+  drill: 0
+  number: 2
+  role: example
+  english: This sweater washes well.
+  japanese: このセーターは洗濯がきく。
+  notes: PU!165「能動態で受動の意味を表す動詞」。wash「洗濯がきく」。well/badlyなどの副詞を伴う。
+- id: scr-184-e03
+  section_id: Scr_184
+  drill: 0
+  number: 3
+  role: example
+  english: This door locks automatically.
+  japanese: このドアは自動的にかぎがかかる。
+  notes: PU!165「能動態で受動の意味を表す動詞」。lock「かぎがかかる」。
 sentence_structures:
-  - sentence_id: "scr-184-p01"
-    label: "overall"
-    value: "S V M"
-  - sentence_id: "scr-184-p01"
-    label: "details"
-    value: "<Any dictionary>(S) will do(V) [as long as it is a French dictionary](M:条件節)"
-  - sentence_id: "scr-184-p02"
-    label: "overall"
-    value: "S V O"
-  - sentence_id: "scr-184-p02"
-    label: "details"
-    value: "<John>(S) apparently(M:文修飾) believes(V) <that honesty pays in the long run>(O:that節)"
-  - sentence_id: "scr-184-p03"
-    label: "overall"
-    value: "S V M M"
-  - sentence_id: "scr-184-p03"
-    label: "details"
-    value: "<Bicycles>(S) are selling(V:現在進行形) [well](M:様態) [these days](M:時)"
-  - sentence_id: "scr-184-p04"
-    label: "overall"
-    value: "S V C M"
-  - sentence_id: "scr-184-p04"
-    label: "details"
-    value: "<He>(S) was caught(V:受動態) <cheating>(C:現在分詞) [during the examination](M:時)"
-  - sentence_id: "scr-184-p05"
-    label: "overall"
-    value: "S V"
-  - sentence_id: "scr-184-p05"
-    label: "details"
-    value: "<I>(S) 'm coming(V:現在進行形)"
-  - sentence_id: "scr-184-p06"
-    label: "overall"
-    value: "S V O / S V M"
-  - sentence_id: "scr-184-p06"
-    label: "details"
-    value: "<I>(S) 'd better not eat(V:had better not) <fried oysters>(O) / <Oily food>(S) does not agree(V) [with me](M)"
-  - sentence_id: "scr-184-p07"
-    label: "overall"
-    value: "(a) S V O / (b) S V O M"
-  - sentence_id: "scr-184-p07"
-    label: "details"
-    value: "(a) <The sign here>(S) reads(V) <\"Danger\">(O) / (b) <She>(S) reads(V) <three books>(O) [a week](M:頻度)"
-  - sentence_id: "scr-184-e01"
-    label: "overall"
-    value: "S V M"
-  - sentence_id: "scr-184-e01"
-    label: "details"
-    value: "<This wood>(S) cuts(V:能動態で受動意味) [easily](M:様態)"
-  - sentence_id: "scr-184-e02"
-    label: "overall"
-    value: "S V M"
-  - sentence_id: "scr-184-e02"
-    label: "details"
-    value: "<This sweater>(S) washes(V:能動態で受動意味) [well](M:様態)"
-  - sentence_id: "scr-184-e03"
-    label: "overall"
-    value: "S V M"
-  - sentence_id: "scr-184-e03"
-    label: "details"
-    value: "<This door>(S) locks(V:能動態で受動意味) [automatically](M:様態)"
-
+- sentence_id: scr-184-p01
+  label: overall
+  value: S V M
+- sentence_id: scr-184-p01
+  label: details
+  value: <Any dictionary>(S) will do(V) [as long as it is a French dictionary](M:条件節)
+- sentence_id: scr-184-p02
+  label: overall
+  value: S V O
+- sentence_id: scr-184-p02
+  label: details
+  value: <John>(S) apparently(M:文修飾) believes(V) <that honesty pays in the long run>(O:that節)
+- sentence_id: scr-184-p03
+  label: overall
+  value: S V M M
+- sentence_id: scr-184-p03
+  label: details
+  value: <Bicycles>(S) are selling(V:現在進行形) [well](M:様態) [these days](M:時)
+- sentence_id: scr-184-p04
+  label: overall
+  value: S V C M
+- sentence_id: scr-184-p04
+  label: details
+  value: <He>(S) was caught(V:受動態) <cheating>(C:現在分詞) [during the examination](M:時)
+- sentence_id: scr-184-p05
+  label: overall
+  value: S V
+- sentence_id: scr-184-p05
+  label: details
+  value: <I>(S) 'm coming(V:現在進行形)
+- sentence_id: scr-184-p06
+  label: overall
+  value: S V O / S V M
+- sentence_id: scr-184-p06
+  label: details
+  value: <I>(S) 'd better not eat(V:had better not) <fried oysters>(O) / <Oily food>(S) does not agree(V) [with me](M)
+- sentence_id: scr-184-p07
+  label: overall
+  value: (a) S V O / (b) S V O M
+- sentence_id: scr-184-p07
+  label: details
+  value: (a) <The sign here>(S) reads(V) <"Danger">(O) / (b) <She>(S) reads(V) <three books>(O) [a week](M:頻度)
+- sentence_id: scr-184-e01
+  label: overall
+  value: S V M
+- sentence_id: scr-184-e01
+  label: details
+  value: <This wood>(S) cuts(V:能動態で受動意味) [easily](M:様態)
+- sentence_id: scr-184-e02
+  label: overall
+  value: S V M
+- sentence_id: scr-184-e02
+  label: details
+  value: <This sweater>(S) washes(V:能動態で受動意味) [well](M:様態)
+- sentence_id: scr-184-e03
+  label: overall
+  value: S V M
+- sentence_id: scr-184-e03
+  label: details
+  value: <This door>(S) locks(V:能動態で受動意味) [automatically](M:様態)
 sentence_knowledge_tags:
-  - sentence_id: "scr-184-p01"
-    node_id: "sgi-001"
-  - sentence_id: "scr-184-p02"
-    node_id: "sgi-001"
-  - sentence_id: "scr-184-p03"
-    node_id: "sgi-001"
-  - sentence_id: "scr-184-p04"
-    node_id: "sgi-001"
-  - sentence_id: "scr-184-p05"
-    node_id: "sgi-001"
-  - sentence_id: "scr-184-p06"
-    node_id: "sgi-001"
-  - sentence_id: "scr-184-p07"
-    node_id: "sgi-001"
-  - sentence_id: "scr-184-e01"
-    node_id: "sgi-001"
-  - sentence_id: "scr-184-e02"
-    node_id: "sgi-001"
-  - sentence_id: "scr-184-e03"
-    node_id: "sgi-001"
+- sentence_id: scr-184-p01
+  node_id: sgi-001
+- sentence_id: scr-184-p02
+  node_id: sgi-001
+- sentence_id: scr-184-p03
+  node_id: sgi-001
+- sentence_id: scr-184-p04
+  node_id: sgi-001
+- sentence_id: scr-184-p05
+  node_id: sgi-001
+- sentence_id: scr-184-p06
+  node_id: sgi-001
+- sentence_id: scr-184-p07
+  node_id: sgi-001
+- sentence_id: scr-184-e01
+  node_id: sgi-001
+- sentence_id: scr-184-e02
+  node_id: sgi-001
+- sentence_id: scr-184-e03
+  node_id: sgi-001

@@ -1,149 +1,147 @@
 sentences:
-  - id: "scr-090-p01"
-    section_id: "Scr_090"
-    drill: 1
-    number: 337
-    role: "exam"
-    english: "Please help yourself to a piece of cheesecake. It's in the refrigerator."
-    japanese: "どうぞチーズケーキを食べてください。冷蔵庫にあります。"
-    notes: "難易度: 基本、頻出。出典: 聖知学院大。help oneself to ～「～を自由に取って食べる[飲む]」"
-  - id: "scr-090-p02"
-    section_id: "Scr_090"
-    drill: 1
-    number: 338
-    role: "exam"
-    english: "We enjoyed ourselves very much at the party."
-    japanese: "そのパーティーはとても楽しかった。"
-    notes: "難易度: 頻出。出典: 立命館大。enjoy oneself「楽しく時を過ごす」（= have a good time）"
-  - id: "scr-090-p03"
-    section_id: "Scr_090"
-    drill: 1
-    number: 339
-    role: "exam"
-    english: "Take off your coat and make yourself at home."
-    japanese: "コートを脱いで、気楽にしてください。"
-    notes: "難易度: 頻出。出典: 中央大。make oneself at home「くつろぐ」（= feel at home [at ease] ⇨ 問1231）"
-  - id: "scr-090-p04"
-    section_id: "Scr_090"
-    drill: 1
-    number: 340
-    role: "exam"
-    english: "Sometimes he spends time by himself."
-    japanese: "彼はひとりだけで時間を過ごすことがあります。"
-    notes: "難易度: 基本。出典: 青山学院大。by oneself「ひとりで」（= alone）/ 独力で"
-  - id: "scr-090-p05"
-    section_id: "Scr_090"
-    drill: 1
-    number: 341
-    role: "exam"
-    english: "Thanks for the offer of help, but I need to do it for myself."
-    japanese: "助けの申し出には感謝するが、これは自分でやる必要があるんだ。"
-    notes: "出典: 立命館大。for oneself「独力で」（自分のために自ら）"
-  - id: "scr-090-p06"
-    section_id: "Scr_090"
-    drill: 1
-    number: 342
-    role: "exam"
-    english: "When I heard him saying bad things about me, I was beside myself with rage."
-    japanese: "彼が私の悪口を言っているのを耳にした時、怒りで我を忘れてしまった。"
-    notes: "出典: 青山学院大。beside oneself「我を忘れて/夢中になって」。hear A doing（⇨ 問557）"
-  - id: "scr-090-p07"
-    section_id: "Scr_090"
-    drill: 1
-    number: 343
-    role: "exam"
-    english: "CO₂ is not a poison in itself."
-    japanese: "二酸化炭素はそれ自体では毒ではない。"
-    notes: "出典: 武蔵大。in oneself「それ自体では/元来」。通例 in itself / in themselves"
-  - id: "scr-090-e01"
-    section_id: "Scr_090"
-    drill: 0
-    number: null
-    role: "example"
-    english: "I want a room to myself."
-    japanese: "自分の個室が欲しい。"
-    notes: "PU!65。to oneself「自分だけに/自分専用に」"
-  - id: "scr-090-e02"
-    section_id: "Scr_090"
-    drill: 0
-    number: null
-    role: "example"
-    english: "Keep the secret to yourself."
-    japanese: "その秘密を胸にしまっておきなさい。"
-    notes: "PU!65。to oneself「心中ひそかに」"
-
+- id: scr-090-p01
+  section_id: Scr_090
+  drill: 1
+  number: 337
+  role: exam
+  english: Please help yourself to a piece of cheesecake. It's in the refrigerator.
+  japanese: どうぞチーズケーキを食べてください。冷蔵庫にあります。
+  notes: '難易度: 基本、頻出。出典: 聖知学院大。help oneself to ～「～を自由に取って食べる[飲む]」'
+- id: scr-090-p02
+  section_id: Scr_090
+  drill: 1
+  number: 338
+  role: exam
+  english: We enjoyed ourselves very much at the party.
+  japanese: そのパーティーはとても楽しかった。
+  notes: '難易度: 頻出。出典: 立命館大。enjoy oneself「楽しく時を過ごす」（= have a good time）'
+- id: scr-090-p03
+  section_id: Scr_090
+  drill: 1
+  number: 339
+  role: exam
+  english: Take off your coat and make yourself at home.
+  japanese: コートを脱いで、気楽にしてください。
+  notes: '難易度: 頻出。出典: 中央大。make oneself at home「くつろぐ」（= feel at home [at ease] ⇨ 問1231）'
+- id: scr-090-p04
+  section_id: Scr_090
+  drill: 1
+  number: 340
+  role: exam
+  english: Sometimes he spends time by himself.
+  japanese: 彼はひとりだけで時間を過ごすことがあります。
+  notes: '難易度: 基本。出典: 青山学院大。by oneself「ひとりで」（= alone）/ 独力で'
+- id: scr-090-p05
+  section_id: Scr_090
+  drill: 1
+  number: 341
+  role: exam
+  english: Thanks for the offer of help, but I need to do it for myself.
+  japanese: 助けの申し出には感謝するが、これは自分でやる必要があるんだ。
+  notes: '出典: 立命館大。for oneself「独力で」（自分のために自ら）'
+- id: scr-090-p06
+  section_id: Scr_090
+  drill: 1
+  number: 342
+  role: exam
+  english: When I heard him saying bad things about me, I was beside myself with rage.
+  japanese: 彼が私の悪口を言っているのを耳にした時、怒りで我を忘れてしまった。
+  notes: '出典: 青山学院大。beside oneself「我を忘れて/夢中になって」。hear A doing（⇨ 問557）'
+- id: scr-090-p07
+  section_id: Scr_090
+  drill: 1
+  number: 343
+  role: exam
+  english: CO₂ is not a poison in itself.
+  japanese: 二酸化炭素はそれ自体では毒ではない。
+  notes: '出典: 武蔵大。in oneself「それ自体では/元来」。通例 in itself / in themselves'
+- id: scr-090-e01
+  section_id: Scr_090
+  drill: 0
+  number: 1
+  role: example
+  english: I want a room to myself.
+  japanese: 自分の個室が欲しい。
+  notes: PU!65。to oneself「自分だけに/自分専用に」
+- id: scr-090-e02
+  section_id: Scr_090
+  drill: 0
+  number: 2
+  role: example
+  english: Keep the secret to yourself.
+  japanese: その秘密を胸にしまっておきなさい。
+  notes: PU!65。to oneself「心中ひそかに」
 sentence_structures:
-  - sentence_id: "scr-090-p01"
-    label: "overall"
-    value: "S V O. S V C"
-  - sentence_id: "scr-090-p01"
-    label: "details"
-    value: "Please help(V) <yourself>(O) [to a piece of cheesecake](M). <It>(S) 's(V) [in the refrigerator](C)"
-  - sentence_id: "scr-090-p02"
-    label: "overall"
-    value: "S V O"
-  - sentence_id: "scr-090-p02"
-    label: "details"
-    value: "<We>(S) enjoyed(V) <ourselves>(O:再帰代名詞) [very much](M) [at the party](M)"
-  - sentence_id: "scr-090-p03"
-    label: "overall"
-    value: "S V O, S V O C"
-  - sentence_id: "scr-090-p03"
-    label: "details"
-    value: "Take off(V) <your coat>(O) and make(V) <yourself>(O) [at home](C)"
-  - sentence_id: "scr-090-p04"
-    label: "overall"
-    value: "S V O"
-  - sentence_id: "scr-090-p04"
-    label: "details"
-    value: "[Sometimes](M) <he>(S) spends(V) <time>(O) [by himself](M)"
-  - sentence_id: "scr-090-p05"
-    label: "overall"
-    value: "S V O"
-  - sentence_id: "scr-090-p05"
-    label: "details"
-    value: "<I>(S) need(V) [to do it for myself](O:不定詞)"
-  - sentence_id: "scr-090-p06"
-    label: "overall"
-    value: "S V O, S V C"
-  - sentence_id: "scr-090-p06"
-    label: "details"
-    value: "[When I heard him saying bad things about me](M:時), <I>(S) was(V) [beside myself](C) [with rage](M)"
-  - sentence_id: "scr-090-p07"
-    label: "overall"
-    value: "S V C"
-  - sentence_id: "scr-090-p07"
-    label: "details"
-    value: "<CO₂>(S) is(V) [not a poison](C) [in itself](M)"
-  - sentence_id: "scr-090-e01"
-    label: "overall"
-    value: "S V O"
-  - sentence_id: "scr-090-e01"
-    label: "details"
-    value: "<I>(S) want(V) <a room>(O) [to myself](M)"
-  - sentence_id: "scr-090-e02"
-    label: "overall"
-    value: "S V O"
-  - sentence_id: "scr-090-e02"
-    label: "details"
-    value: "Keep(V) <the secret>(O) [to yourself](M)"
-
+- sentence_id: scr-090-p01
+  label: overall
+  value: S V O. S V C
+- sentence_id: scr-090-p01
+  label: details
+  value: Please help(V) <yourself>(O) [to a piece of cheesecake](M). <It>(S) 's(V) [in the refrigerator](C)
+- sentence_id: scr-090-p02
+  label: overall
+  value: S V O
+- sentence_id: scr-090-p02
+  label: details
+  value: <We>(S) enjoyed(V) <ourselves>(O:再帰代名詞) [very much](M) [at the party](M)
+- sentence_id: scr-090-p03
+  label: overall
+  value: S V O, S V O C
+- sentence_id: scr-090-p03
+  label: details
+  value: Take off(V) <your coat>(O) and make(V) <yourself>(O) [at home](C)
+- sentence_id: scr-090-p04
+  label: overall
+  value: S V O
+- sentence_id: scr-090-p04
+  label: details
+  value: '[Sometimes](M) <he>(S) spends(V) <time>(O) [by himself](M)'
+- sentence_id: scr-090-p05
+  label: overall
+  value: S V O
+- sentence_id: scr-090-p05
+  label: details
+  value: <I>(S) need(V) [to do it for myself](O:不定詞)
+- sentence_id: scr-090-p06
+  label: overall
+  value: S V O, S V C
+- sentence_id: scr-090-p06
+  label: details
+  value: '[When I heard him saying bad things about me](M:時), <I>(S) was(V) [beside myself](C) [with rage](M)'
+- sentence_id: scr-090-p07
+  label: overall
+  value: S V C
+- sentence_id: scr-090-p07
+  label: details
+  value: <CO₂>(S) is(V) [not a poison](C) [in itself](M)
+- sentence_id: scr-090-e01
+  label: overall
+  value: S V O
+- sentence_id: scr-090-e01
+  label: details
+  value: <I>(S) want(V) <a room>(O) [to myself](M)
+- sentence_id: scr-090-e02
+  label: overall
+  value: S V O
+- sentence_id: scr-090-e02
+  label: details
+  value: Keep(V) <the secret>(O) [to yourself](M)
 sentence_knowledge_tags:
-  - sentence_id: "scr-090-p01"
-    node_id: "shs-019"
-  - sentence_id: "scr-090-p02"
-    node_id: "shs-019"
-  - sentence_id: "scr-090-p03"
-    node_id: "shs-019"
-  - sentence_id: "scr-090-p04"
-    node_id: "shs-019"
-  - sentence_id: "scr-090-p05"
-    node_id: "shs-019"
-  - sentence_id: "scr-090-p06"
-    node_id: "shs-019"
-  - sentence_id: "scr-090-p07"
-    node_id: "shs-019"
-  - sentence_id: "scr-090-e01"
-    node_id: "shs-019"
-  - sentence_id: "scr-090-e02"
-    node_id: "shs-019"
+- sentence_id: scr-090-p01
+  node_id: shs-019
+- sentence_id: scr-090-p02
+  node_id: shs-019
+- sentence_id: scr-090-p03
+  node_id: shs-019
+- sentence_id: scr-090-p04
+  node_id: shs-019
+- sentence_id: scr-090-p05
+  node_id: shs-019
+- sentence_id: scr-090-p06
+  node_id: shs-019
+- sentence_id: scr-090-p07
+  node_id: shs-019
+- sentence_id: scr-090-e01
+  node_id: shs-019
+- sentence_id: scr-090-e02
+  node_id: shs-019

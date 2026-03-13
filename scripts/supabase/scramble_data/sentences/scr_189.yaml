@@ -1,133 +1,131 @@
 sentences:
-  - id: "scr-189-p01"
-    section_id: "Scr_189"
-    drill: 1
-    number: 763
-    role: "exam"
-    english: "I leave early in the morning to avoid the heavy traffic on the way to work."
-    japanese: "通勤中の交通量の多さを避けるため、朝早くに出発する。"
-    notes: "東京経済大。heavy traffic「多い交通量」⇔ light traffic「少ない交通量」。"
-  - id: "scr-189-e01"
-    section_id: "Scr_189"
-    drill: 0
-    number: null
-    role: "example"
-    english: "The traffic is heavy on the street."
-    japanese: "その通りは交通量が多い。"
-    notes: "問763解説。「（交通量の）多い/少ない」はheavy/lightで表す。⇔ The traffic is light.「交通量が少ない」。"
-  - id: "scr-189-p02"
-    section_id: "Scr_189"
-    drill: 1
-    number: 764
-    role: "exam"
-    english: "I tried to call you up, but the line was busy."
-    japanese: "あなたに電話しようとしたが、話し中でした。"
-    notes: "九州産業大。busy「（電話が）話し中で/使用中で」。the line is busy「お話し中です」（⇨ 1342）。"
-  - id: "scr-189-p03"
-    section_id: "Scr_189"
-    drill: 1
-    number: 765
-    role: "exam"
-    english: "The shop handling imported brands seeks the latest fashion."
-    japanese: "輸入ブランドを扱っているその店は、最新のファッションを求めている。"
-    notes: "高知大。latest「最新の」（限定用法の形容詞）（⇨ PU!38）。the latest news「最新のニュース」。the latter「後者の」（⇨ 205）、the late「故〜」と区別。現在分詞handlingは目的語imported brandsを伴うので名詞shopの後ろに置かれる（⇨ 136）。"
-  - id: "scr-189-p04"
-    section_id: "Scr_189"
-    drill: 1
-    number: 766
-    role: "exam"
-    english: "The firefighter had a narrow escape from death at the fire."
-    japanese: "消防士はその火災で九死に一生を得た。"
-    notes: "関西学院大。書き換え問題（原文: The firefighter barely escaped death at the fire.）。have a narrow escape「やっとのことで逃れる/九死に一生を得る」。narrow「辛うじての/ぎりぎりの」。a narrow victory「辛勝」。barely「辛うじて」（= narrowly）。"
-  - id: "scr-189-p05"
-    section_id: "Scr_189"
-    drill: 1
-    number: 767
-    role: "exam"
-    english: "Something's wrong with the car! We must have a flat tire."
-    japanese: "どこか車の調子が悪い。タイヤがパンクしたにちがいない。"
-    notes: "センター。have [get] a flat tire「（車のタイヤが）パンクする」。flat「（タイヤ・風船などが）空気の抜けた/パンクした」。Something is wrong with〜「〜はどこか具合が悪い」（⇨ 333）。"
-  - id: "scr-189-p06"
-    section_id: "Scr_189"
-    drill: 1
-    number: 768
-    role: "exam"
-    english: "I need to drink a cup of strong coffee in order to wake myself up."
-    japanese: "目を覚ますために濃いコーヒーを飲む必要がある。"
-    notes: "青山学院大。strong「（飲み物が）濃い」⇔ weak「薄い」。deep「（色が）濃い」、dense「（霧などが）濃い」（⇨ PU!168）。PU!168: 飲み物 strong/weak、濃度・密度 thick/thin、色 deep/light。霧はdense/heavyも可。色彩語の前ではdarkも可。"
-  - id: "scr-189-e02"
-    section_id: "Scr_189"
-    drill: 0
-    number: null
-    role: "example"
-    english: "I'd like my coffee strong."
-    japanese: "私のコーヒーは濃くしてください。"
-    notes: "問768解説。注文する場合のstrong coffeeの用法。I like strong coffee.「コーヒーは濃いのが好きです」（習性として述べる場合）との違い。"
-
+- id: scr-189-p01
+  section_id: Scr_189
+  drill: 1
+  number: 763
+  role: exam
+  english: I leave early in the morning to avoid the heavy traffic on the way to work.
+  japanese: 通勤中の交通量の多さを避けるため、朝早くに出発する。
+  notes: 東京経済大。heavy traffic「多い交通量」⇔ light traffic「少ない交通量」。
+- id: scr-189-e01
+  section_id: Scr_189
+  drill: 0
+  number: 1
+  role: example
+  english: The traffic is heavy on the street.
+  japanese: その通りは交通量が多い。
+  notes: 問763解説。「（交通量の）多い/少ない」はheavy/lightで表す。⇔ The traffic is light.「交通量が少ない」。
+- id: scr-189-p02
+  section_id: Scr_189
+  drill: 1
+  number: 764
+  role: exam
+  english: I tried to call you up, but the line was busy.
+  japanese: あなたに電話しようとしたが、話し中でした。
+  notes: 九州産業大。busy「（電話が）話し中で/使用中で」。the line is busy「お話し中です」（⇨ 1342）。
+- id: scr-189-p03
+  section_id: Scr_189
+  drill: 1
+  number: 765
+  role: exam
+  english: The shop handling imported brands seeks the latest fashion.
+  japanese: 輸入ブランドを扱っているその店は、最新のファッションを求めている。
+  notes: 高知大。latest「最新の」（限定用法の形容詞）（⇨ PU!38）。the latest news「最新のニュース」。the latter「後者の」（⇨ 205）、the late「故〜」と区別。現在分詞handlingは目的語imported brandsを伴うので名詞shopの後ろに置かれる（⇨ 136）。
+- id: scr-189-p04
+  section_id: Scr_189
+  drill: 1
+  number: 766
+  role: exam
+  english: The firefighter had a narrow escape from death at the fire.
+  japanese: 消防士はその火災で九死に一生を得た。
+  notes: '関西学院大。書き換え問題（原文: The firefighter barely escaped death at the fire.）。have a narrow escape「やっとのことで逃れる/九死に一生を得る」。narrow「辛うじての/ぎりぎりの」。a narrow victory「辛勝」。barely「辛うじて」（= narrowly）。'
+- id: scr-189-p05
+  section_id: Scr_189
+  drill: 1
+  number: 767
+  role: exam
+  english: Something's wrong with the car! We must have a flat tire.
+  japanese: どこか車の調子が悪い。タイヤがパンクしたにちがいない。
+  notes: センター。have [get] a flat tire「（車のタイヤが）パンクする」。flat「（タイヤ・風船などが）空気の抜けた/パンクした」。Something is wrong with〜「〜はどこか具合が悪い」（⇨ 333）。
+- id: scr-189-p06
+  section_id: Scr_189
+  drill: 1
+  number: 768
+  role: exam
+  english: I need to drink a cup of strong coffee in order to wake myself up.
+  japanese: 目を覚ますために濃いコーヒーを飲む必要がある。
+  notes: '青山学院大。strong「（飲み物が）濃い」⇔ weak「薄い」。deep「（色が）濃い」、dense「（霧などが）濃い」（⇨ PU!168）。PU!168: 飲み物 strong/weak、濃度・密度 thick/thin、色 deep/light。霧はdense/heavyも可。色彩語の前ではdarkも可。'
+- id: scr-189-e02
+  section_id: Scr_189
+  drill: 0
+  number: 2
+  role: example
+  english: I'd like my coffee strong.
+  japanese: 私のコーヒーは濃くしてください。
+  notes: 問768解説。注文する場合のstrong coffeeの用法。I like strong coffee.「コーヒーは濃いのが好きです」（習性として述べる場合）との違い。
 sentence_structures:
-  - sentence_id: "scr-189-p01"
-    label: "overall"
-    value: "S V M M"
-  - sentence_id: "scr-189-p01"
-    label: "details"
-    value: "<I>(S) leave(V) [early in the morning](M:時) [to avoid the heavy traffic on the way to work](M:目的)"
-  - sentence_id: "scr-189-e01"
-    label: "overall"
-    value: "S V C M"
-  - sentence_id: "scr-189-e01"
-    label: "details"
-    value: "<The traffic>(S) is(V) <heavy>(C:形容詞) [on the street](M:場所)"
-  - sentence_id: "scr-189-p02"
-    label: "overall"
-    value: "S V O, but S V C"
-  - sentence_id: "scr-189-p02"
-    label: "details"
-    value: "<I>(S) tried(V) <to call you up>(O:不定詞), but <the line>(S) was(V) <busy>(C:形容詞)"
-  - sentence_id: "scr-189-p03"
-    label: "overall"
-    value: "S V O"
-  - sentence_id: "scr-189-p03"
-    label: "details"
-    value: "<The shop handling imported brands>(S) seeks(V) <the latest fashion>(O)"
-  - sentence_id: "scr-189-p04"
-    label: "overall"
-    value: "S V O M"
-  - sentence_id: "scr-189-p04"
-    label: "details"
-    value: "<The firefighter>(S) had(V) <a narrow escape>(O) [from death](M) [at the fire](M:場所)"
-  - sentence_id: "scr-189-p05"
-    label: "overall"
-    value: "S V M / S V O"
-  - sentence_id: "scr-189-p05"
-    label: "details"
-    value: "<Something>(S) 's wrong(V) [with the car](M) / <We>(S) must have(V) <a flat tire>(O)"
-  - sentence_id: "scr-189-p06"
-    label: "overall"
-    value: "S V O M"
-  - sentence_id: "scr-189-p06"
-    label: "details"
-    value: "<I>(S) need(V) <to drink a cup of strong coffee>(O:不定詞句) [in order to wake myself up](M:目的)"
-  - sentence_id: "scr-189-e02"
-    label: "overall"
-    value: "S V O C"
-  - sentence_id: "scr-189-e02"
-    label: "details"
-    value: "<I>(S) 'd like(V) <my coffee>(O) <strong>(C:形容詞)"
-
+- sentence_id: scr-189-p01
+  label: overall
+  value: S V M M
+- sentence_id: scr-189-p01
+  label: details
+  value: <I>(S) leave(V) [early in the morning](M:時) [to avoid the heavy traffic on the way to work](M:目的)
+- sentence_id: scr-189-e01
+  label: overall
+  value: S V C M
+- sentence_id: scr-189-e01
+  label: details
+  value: <The traffic>(S) is(V) <heavy>(C:形容詞) [on the street](M:場所)
+- sentence_id: scr-189-p02
+  label: overall
+  value: S V O, but S V C
+- sentence_id: scr-189-p02
+  label: details
+  value: <I>(S) tried(V) <to call you up>(O:不定詞), but <the line>(S) was(V) <busy>(C:形容詞)
+- sentence_id: scr-189-p03
+  label: overall
+  value: S V O
+- sentence_id: scr-189-p03
+  label: details
+  value: <The shop handling imported brands>(S) seeks(V) <the latest fashion>(O)
+- sentence_id: scr-189-p04
+  label: overall
+  value: S V O M
+- sentence_id: scr-189-p04
+  label: details
+  value: <The firefighter>(S) had(V) <a narrow escape>(O) [from death](M) [at the fire](M:場所)
+- sentence_id: scr-189-p05
+  label: overall
+  value: S V M / S V O
+- sentence_id: scr-189-p05
+  label: details
+  value: <Something>(S) 's wrong(V) [with the car](M) / <We>(S) must have(V) <a flat tire>(O)
+- sentence_id: scr-189-p06
+  label: overall
+  value: S V O M
+- sentence_id: scr-189-p06
+  label: details
+  value: <I>(S) need(V) <to drink a cup of strong coffee>(O:不定詞句) [in order to wake myself up](M:目的)
+- sentence_id: scr-189-e02
+  label: overall
+  value: S V O C
+- sentence_id: scr-189-e02
+  label: details
+  value: <I>(S) 'd like(V) <my coffee>(O) <strong>(C:形容詞)
 sentence_knowledge_tags:
-  - sentence_id: "scr-189-p01"
-    node_id: "sgi-004"
-  - sentence_id: "scr-189-e01"
-    node_id: "sgi-004"
-  - sentence_id: "scr-189-p02"
-    node_id: "sgi-004"
-  - sentence_id: "scr-189-p03"
-    node_id: "sgi-004"
-  - sentence_id: "scr-189-p04"
-    node_id: "sgi-004"
-  - sentence_id: "scr-189-p05"
-    node_id: "sgi-004"
-  - sentence_id: "scr-189-p06"
-    node_id: "sgi-004"
-  - sentence_id: "scr-189-e02"
-    node_id: "sgi-004"
+- sentence_id: scr-189-p01
+  node_id: sgi-004
+- sentence_id: scr-189-e01
+  node_id: sgi-004
+- sentence_id: scr-189-p02
+  node_id: sgi-004
+- sentence_id: scr-189-p03
+  node_id: sgi-004
+- sentence_id: scr-189-p04
+  node_id: sgi-004
+- sentence_id: scr-189-p05
+  node_id: sgi-004
+- sentence_id: scr-189-p06
+  node_id: sgi-004
+- sentence_id: scr-189-e02
+  node_id: sgi-004

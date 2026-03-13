@@ -1,179 +1,192 @@
 knowledge_nodes:
-  - id: "sid-012"
-    name: "be＋形容詞[過去分詞]＋前置詞①②"
-    category: "イディオム"
-    priority: "P1"
-    notes: |
-      Theme 232+233統合。「be+形容詞[過去分詞]+前置詞」のイディオム（前半22表現）。
-      【Theme 232】be short of〜「〜が不足している」(⇔run short of〜⇨1121「動作」)、be lacking in〜「〜に欠けている」(=be wanting in)、be familiar to〜「（人に）よく知られている」、be familiar with〜「（物事を）よく知っている/〜に精通している」(A is familiar with B = B is familiar to A)、be at home with[in]〜「〜に精通している」(=be familiar with)、be acquainted with〜「〜に精通している/〜と知り合いである」、be different from〜「〜と異なる」(=differ from。米口語ではthanも可)、be indifferent to〜「〜に無関心である」(=be unconcerned about[with])、be afraid of〜「〜を恐れる」(⇔be afraid to do「怖くて〜できない」)、be ashamed of〜「〜を恥じている」(⇔be ashamed to do「恥ずかしくて〜できない」)。
-      比較: become[get] acquainted with〜「〜と知り合いになる」。different than（米口語・節が続く場合）。take a chance[chances]「一か八かやる」。
-      【Theme 233】be rich in〜「〜に富んでいる」(=be abundant in/abound in。⇔be poor in〜)、be particular about〜「〜にうるさい/こだわる」、be anxious for〜「〜を切望している」(=wish for)、be anxious about〜/be concerned about〜「〜を心配している」(=be worried about)、be popular with[among]〜「〜に人気がある」、be confronted with〜「〜に直面している」(=be faced with。confront=face⇨846)、be dependent on[upon]〜「〜に依存している」、be independent of〜「〜から独立している」(前置詞ofに注意)、be true of〜「〜に当てはまる」(=apply to)、be true to〜「〜に忠実である」(=be faithful to)、be subject to〜「〜の影響を受けやすい/〜にかかりやすい」。
-      比較: be concerned with〜「〜に関係している/〜に関心がある」(=be interested in)とbe concerned about〜「〜を心配」の区別が重要。true to life「本物そっくりの」。
+- id: sid-012
+  name: be＋形容詞[過去分詞]＋前置詞①②
+  category: イディオム
+  priority: P1
+  notes: 'Theme 232+233統合。「be+形容詞[過去分詞]+前置詞」のイディオム（前半22表現）。
 
-  - id: "sid-013"
-    name: "be＋形容詞[過去分詞]＋前置詞③④"
-    category: "イディオム"
-    priority: "P1"
-    notes: |
-      Theme 234+235統合。「be+形容詞[過去分詞]+前置詞」のイディオム（後半22表現）+ PU!196。
-      【Theme 234】be equal to〜「〜に耐えられる/匹敵する」(元義「〜に等しい」)、be aware of〜「〜に気づいている」(同意: be conscious of〜)、be ignorant of〜「〜を知らない」(=be unaware of)、be tired of〜「〜にあきている」(⇔be tired from〜「〜で疲れている」。混同注意)、be sick of〜「〜にうんざり」(tired ofより強意。be sick and tired ofの形も)、be fed up with〜「〜にうんざり」(=be tired of。feed up A with Bの受身)、be based on[upon]〜「〜に基づいている」、be characteristic of〜「〜に特有である」、be peculiar to〜「〜に特有である」(=be characteristic of)、be content(ed) with〜「〜にまあまあ満足」(⇔be satisfied with〜「完全に満足」⇨42)、be engaged in〜「〜に従事している」(=be occupied with[in]。⇔be engaged to〜「〜と婚約」)。
-      語句: newsは不可算名詞(⇨595)。
-      【Theme 235】be composed of〜/be made up of〜「〜から成る」(=consist of⇨965。ofは材料・構成要素)、be opposed to〜「〜に反対」(=be against。⇔be opposite to〜「〜とは正反対」)、be fond of〜「〜が好き」(=like)、be keen on〜「〜が大好き/〜に夢中」(「〜を熱望」の意味も)、be responsible for〜「〜に責任がある」(=answer for〜⇨953)、be sure of〜「〜を確信している」(=be certain of)、be similar to〜「〜に似ている」(=be akin to)、be good at〜「〜が得意」(⇔be poor at〜/be weak in〜「〜が苦手」)、be interested in〜「〜に興味がある」(have[take] interest in〜も)、be noted for〜「〜で有名」(=be famous for)。
-      PU!196: be sure ofとbe sure to doの違い — He is sure of success.「彼（本人）が成功を確信」vs He is sure to succeed.「彼はきっと成功する（話し手の確信）」。確信の主体が異なる点が重要。
+    【Theme 232】be short of〜「〜が不足している」(⇔run short of〜⇨1121「動作」)、be lacking in〜「〜に欠けている」(=be wanting in)、be familiar to〜「（人に）よく知られている」、be familiar with〜「（物事を）よく知っている/〜に精通している」(A is familiar with B = B is
+    familiar to A)、be at home with[in]〜「〜に精通している」(=be familiar with)、be acquainted with〜「〜に精通している/〜と知り合いである」、be different from〜「〜と異なる」(=differ from。米口語ではthanも可)、be indifferent to〜「〜に無関心である」(=be unconcerned
+    about[with])、be afraid of〜「〜を恐れる」(⇔be afraid to do「怖くて〜できない」)、be ashamed of〜「〜を恥じている」(⇔be ashamed to do「恥ずかしくて〜できない」)。
 
-  - id: "sid-014"
-    name: "be＋形容詞[過去分詞]＋to do"
-    category: "イディオム"
-    priority: "P1"
-    notes: |
-      Theme 236。「be+形容詞[過去分詞]+to do」のイディオム（11表現）。
-      be sure to do/be bound to do「必ず〜する/きっと〜する」(=be certain to do)。boundはbind「束縛する」の過去分詞。〈重要〉be bound for〜「〜行きである」も。be supposed to do「〜することになっている/〜すると思われている」(⇔be not supposed to do「〜してはいけない」)。be willing to do「〜してもよいと思っている」(be ready to doほど積極的でない)。be reluctant to do「〜するのは気が進まない」(=be unwilling to do)。be apt to do「〜しがちである」(=tend to do。liable/prone/inclinedも同意)。be[feel] free to do「自由に〜できる」(Please feel free to doの形が頻出)。be likely to do「〜しそう/可能性が高い」(⇔be unlikely to do)。be about to do「まさに〜しようとしている」(=be on the point of doing。going toより差し迫った未来)。be forced to do「〜せざるを得ない」(=be compelled to do/be obliged to do)。be anxious to do「しきりに〜したがっている」(=be eager to do。⇨be anxious for〜⇨1134)。
+    比較: become[get] acquainted with〜「〜と知り合いになる」。different than（米口語・節が続く場合）。take a chance[chances]「一か八かやる」。
 
-  - id: "sid-015"
-    name: "その他の形容詞・副詞中心のイディオム"
-    category: "イディオム"
-    priority: "P2"
-    notes: |
-      Theme 237。形容詞・副詞を中心としたその他のイディオム（12表現）。
-      be well off「裕福である」(=be rich。⇔be badly off「貧乏」)。〈重要〉比較級 be better off⇔be worse off も頻出。by and large「概して」(=in general⇨1196)。on and off「ときどき/断続的に」(=off and on=sometimes。⇔on and on「どんどん/続けて」)。(every) now and then[again]「ときどき」(=occasionally。seldomとsometimesの間)。so far「今までのところ」(=up to now/till now)。as yet「今までのところ」(否定文で用いることが多い)。right away「すぐに」(=immediately/at once。right nowとも)。once (and) for all「きっぱりと/これを最後に」(=finally/definitely)。next to「ほとんど」(=almost。通例否定語の前。「〜の隣の[に]」の意味も)。be second to none「誰にも劣らない」。let alone〜「〜は言うまでもなく」(=much[still] less⇨208。否定文の後で使う)。
-      語句: go out with〜「〜と付き合う」。hardly「ほとんど〜ない」(⇨266)。
+    【Theme 233】be rich in〜「〜に富んでいる」(=be abundant in/abound in。⇔be poor in〜)、be particular about〜「〜にうるさい/こだわる」、be anxious for〜「〜を切望している」(=wish for)、be anxious about〜/be concerned about〜「〜を心配している」(=be worried
+    about)、be popular with[among]〜「〜に人気がある」、be confronted with〜「〜に直面している」(=be faced with。confront=face⇨846)、be dependent on[upon]〜「〜に依存している」、be independent of〜「〜から独立している」(前置詞ofに注意)、be true of〜「〜に当てはまる」(=apply
+    to)、be true to〜「〜に忠実である」(=be faithful to)、be subject to〜「〜の影響を受けやすい/〜にかかりやすい」。
 
+    比較: be concerned with〜「〜に関係している/〜に関心がある」(=be interested in)とbe concerned about〜「〜を心配」の区別が重要。true to life「本物そっくりの」。
+
+    '
+- id: sid-013
+  name: be＋形容詞[過去分詞]＋前置詞③④
+  category: イディオム
+  priority: P1
+  notes: 'Theme 234+235統合。「be+形容詞[過去分詞]+前置詞」のイディオム（後半22表現）+ PU!196。
+
+    【Theme 234】be equal to〜「〜に耐えられる/匹敵する」(元義「〜に等しい」)、be aware of〜「〜に気づいている」(同意: be conscious of〜)、be ignorant of〜「〜を知らない」(=be unaware of)、be tired of〜「〜にあきている」(⇔be tired from〜「〜で疲れている」。混同注意)、be sick of〜「〜にうんざり」(tired
+    ofより強意。be sick and tired ofの形も)、be fed up with〜「〜にうんざり」(=be tired of。feed up A with Bの受身)、be based on[upon]〜「〜に基づいている」、be characteristic of〜「〜に特有である」、be peculiar to〜「〜に特有である」(=be characteristic of)、be
+    content(ed) with〜「〜にまあまあ満足」(⇔be satisfied with〜「完全に満足」⇨42)、be engaged in〜「〜に従事している」(=be occupied with[in]。⇔be engaged to〜「〜と婚約」)。
+
+    語句: newsは不可算名詞(⇨595)。
+
+    【Theme 235】be composed of〜/be made up of〜「〜から成る」(=consist of⇨965。ofは材料・構成要素)、be opposed to〜「〜に反対」(=be against。⇔be opposite to〜「〜とは正反対」)、be fond of〜「〜が好き」(=like)、be keen on〜「〜が大好き/〜に夢中」(「〜を熱望」の意味も)、be
+    responsible for〜「〜に責任がある」(=answer for〜⇨953)、be sure of〜「〜を確信している」(=be certain of)、be similar to〜「〜に似ている」(=be akin to)、be good at〜「〜が得意」(⇔be poor at〜/be weak in〜「〜が苦手」)、be interested in〜「〜に興味がある」(have[take]
+    interest in〜も)、be noted for〜「〜で有名」(=be famous for)。
+
+    PU!196: be sure ofとbe sure to doの違い — He is sure of success.「彼（本人）が成功を確信」vs He is sure to succeed.「彼はきっと成功する（話し手の確信）」。確信の主体が異なる点が重要。
+
+    '
+- id: sid-014
+  name: be＋形容詞[過去分詞]＋to do
+  category: イディオム
+  priority: P1
+  notes: 'Theme 236。「be+形容詞[過去分詞]+to do」のイディオム（11表現）。
+
+    be sure to do/be bound to do「必ず〜する/きっと〜する」(=be certain to do)。boundはbind「束縛する」の過去分詞。〈重要〉be bound for〜「〜行きである」も。be supposed to do「〜することになっている/〜すると思われている」(⇔be not supposed to do「〜してはいけない」)。be willing
+    to do「〜してもよいと思っている」(be ready to doほど積極的でない)。be reluctant to do「〜するのは気が進まない」(=be unwilling to do)。be apt to do「〜しがちである」(=tend to do。liable/prone/inclinedも同意)。be[feel] free to do「自由に〜できる」(Please feel
+    free to doの形が頻出)。be likely to do「〜しそう/可能性が高い」(⇔be unlikely to do)。be about to do「まさに〜しようとしている」(=be on the point of doing。going toより差し迫った未来)。be forced to do「〜せざるを得ない」(=be compelled to do/be obliged to
+    do)。be anxious to do「しきりに〜したがっている」(=be eager to do。⇨be anxious for〜⇨1134)。
+
+    '
+- id: sid-015
+  name: その他の形容詞・副詞中心のイディオム
+  category: イディオム
+  priority: P2
+  notes: 'Theme 237。形容詞・副詞を中心としたその他のイディオム（12表現）。
+
+    be well off「裕福である」(=be rich。⇔be badly off「貧乏」)。〈重要〉比較級 be better off⇔be worse off も頻出。by and large「概して」(=in general⇨1196)。on and off「ときどき/断続的に」(=off and on=sometimes。⇔on and on「どんどん/続けて」)。(every) now
+    and then[again]「ときどき」(=occasionally。seldomとsometimesの間)。so far「今までのところ」(=up to now/till now)。as yet「今までのところ」(否定文で用いることが多い)。right away「すぐに」(=immediately/at once。right nowとも)。once (and) for all「きっぱりと/これを最後に」(=finally/definitely)。next
+    to「ほとんど」(=almost。通例否定語の前。「〜の隣の[に]」の意味も)。be second to none「誰にも劣らない」。let alone〜「〜は言うまでもなく」(=much[still] less⇨208。否定文の後で使う)。
+
+    語句: go out with〜「〜と付き合う」。hardly「ほとんど〜ない」(⇨266)。
+
+    '
 understanding_goals:
-  - node_id: "sid-012"
-    seq: 1
-    goal: "be familiar to〜とbe familiar with〜の主語と前置詞の使い分けができる"
-  - node_id: "sid-012"
-    seq: 2
-    goal: "be afraid of〜/be ashamed of〜とbe afraid to do/be ashamed to doの意味の違いを説明できる"
-  - node_id: "sid-012"
-    seq: 3
-    goal: "be dependent on〜とbe independent of〜で前置詞が異なることを指摘できる"
-  - node_id: "sid-012"
-    seq: 4
-    goal: "be concerned about〜（心配）とbe concerned with〜（関係・関心）を文脈から区別できる"
-  - node_id: "sid-013"
-    seq: 1
-    goal: "be tired of〜（飽きた）とbe tired from〜（疲れた）の意味の違いを説明できる"
-  - node_id: "sid-013"
-    seq: 2
-    goal: "be sure of〜（本人の確信）とbe sure to do（話し手の確信）の確信主体の違いを説明できる"
-  - node_id: "sid-013"
-    seq: 3
-    goal: "be engaged in〜（従事）とbe engaged to〜（婚約）を前置詞から区別できる"
-  - node_id: "sid-013"
-    seq: 4
-    goal: "be opposed to〜（反対）とbe opposite to〜（正反対）の意味の違いを識別できる"
-  - node_id: "sid-014"
-    seq: 1
-    goal: "be supposed to doの肯定・否定の意味（〜することになっている/〜してはいけない）を使い分けられる"
-  - node_id: "sid-014"
-    seq: 2
-    goal: "be willing to do/be reluctant to do/be eager to doの積極性の度合いを比較して説明できる"
-  - node_id: "sid-014"
-    seq: 3
-    goal: "be apt to do/be liable to do/be prone to do/be inclined to doがすべてtend to doと同意であることを理解している"
-  - node_id: "sid-014"
-    seq: 4
-    goal: "be bound to do（きっと〜する）とbe bound for〜（〜行き）を区別できる"
-  - node_id: "sid-015"
-    seq: 1
-    goal: "well off/badly offとその比較級better off/worse offを使い分けられる"
-  - node_id: "sid-015"
-    seq: 2
-    goal: "on and off（断続的に）とon and on（休まず）の意味の違いを区別できる"
-  - node_id: "sid-015"
-    seq: 3
-    goal: "next toの「ほとんど」と「〜の隣に」の2つの意味を文脈から判断できる"
-  - node_id: "sid-015"
-    seq: 4
-    goal: "so far/as yetがともに「今までのところ」の意味で、as yetは否定文で多用されることを知っている"
-
+- node_id: sid-012
+  seq: 1
+  goal: be familiar to〜とbe familiar with〜の主語と前置詞の使い分けができる
+- node_id: sid-012
+  seq: 2
+  goal: be afraid of〜/be ashamed of〜とbe afraid to do/be ashamed to doの意味の違いを説明できる
+- node_id: sid-012
+  seq: 3
+  goal: be dependent on〜とbe independent of〜で前置詞が異なることを指摘できる
+- node_id: sid-012
+  seq: 4
+  goal: be concerned about〜（心配）とbe concerned with〜（関係・関心）を文脈から区別できる
+- node_id: sid-013
+  seq: 1
+  goal: be tired of〜（飽きた）とbe tired from〜（疲れた）の意味の違いを説明できる
+- node_id: sid-013
+  seq: 2
+  goal: be sure of〜（本人の確信）とbe sure to do（話し手の確信）の確信主体の違いを説明できる
+- node_id: sid-013
+  seq: 3
+  goal: be engaged in〜（従事）とbe engaged to〜（婚約）を前置詞から区別できる
+- node_id: sid-013
+  seq: 4
+  goal: be opposed to〜（反対）とbe opposite to〜（正反対）の意味の違いを識別できる
+- node_id: sid-014
+  seq: 1
+  goal: be supposed to doの肯定・否定の意味（〜することになっている/〜してはいけない）を使い分けられる
+- node_id: sid-014
+  seq: 2
+  goal: be willing to do/be reluctant to do/be eager to doの積極性の度合いを比較して説明できる
+- node_id: sid-014
+  seq: 3
+  goal: be apt to do/be liable to do/be prone to do/be inclined to doがすべてtend to doと同意であることを理解している
+- node_id: sid-014
+  seq: 4
+  goal: be bound to do（きっと〜する）とbe bound for〜（〜行き）を区別できる
+- node_id: sid-015
+  seq: 1
+  goal: well off/badly offとその比較級better off/worse offを使い分けられる
+- node_id: sid-015
+  seq: 2
+  goal: on and off（断続的に）とon and on（休まず）の意味の違いを区別できる
+- node_id: sid-015
+  seq: 3
+  goal: next toの「ほとんど」と「〜の隣に」の2つの意味を文脈から判断できる
+- node_id: sid-015
+  seq: 4
+  goal: so far/as yetがともに「今までのところ」の意味で、as yetは否定文で多用されることを知っている
 check_points:
-  - node_id: "sid-012"
-    seq: 1
-    question: "A is familiar with B と B is familiar to A はどのような関係か？"
-    answer: "同じ意味。familiarの後の前置詞で主語と目的語の関係が入れ替わる。withは「（人が）〜をよく知っている」、toは「（物事が）〜に知られている」。"
-  - node_id: "sid-012"
-    seq: 2
-    question: "be afraid of doingとbe afraid to doの違いは？"
-    answer: "be afraid of doing「〜することを恐れる（行為そのものへの恐怖）」、be afraid to do「（結果を心配して）怖くて〜できない」。"
-  - node_id: "sid-012"
-    seq: 3
-    question: "be dependent on〜の反意表現 be independent ___〜 の前置詞は？"
-    answer: "of。「〜から独立している」は「分離」を表すofを用いる。dependentはon、independentはofと前置詞が異なる。"
-  - node_id: "sid-012"
-    seq: 4
-    question: "be concerned about〜とbe concerned with〜はそれぞれどういう意味か？"
-    answer: "be concerned about〜「〜を心配している」(=be worried about)。be concerned with〜「〜に関係している/〜に関心がある」(=be interested in)。"
-  - node_id: "sid-013"
-    seq: 1
-    question: "be tired of〜とbe tired from〜の違いは？"
-    answer: "be tired of〜「〜にあきている/〜にうんざり」、be tired from〜「〜で疲れている」。of=飽き、from=疲労の原因。"
-  - node_id: "sid-013"
-    seq: 2
-    question: "He is sure of success. と He is sure to succeed. で確信しているのはそれぞれ誰か？"
-    answer: "sure of: 彼（本人）が確信。sure to do: 話し手が確信（彼はきっと成功する）。"
-  - node_id: "sid-013"
-    seq: 3
-    question: "be engaged in〜とbe engaged to〜の意味の違いは？"
-    answer: "be engaged in〜「〜に従事している/〜で忙しい」(=be occupied with)。be engaged to〜「〜と婚約している」。"
-  - node_id: "sid-013"
-    seq: 4
-    question: "「〜に特有である」を2つの表現で言うと？"
-    answer: "be characteristic of〜 と be peculiar to〜。前置詞がof/toで異なる点に注意。"
-  - node_id: "sid-014"
-    seq: 1
-    question: "be supposed to doの否定形 be not supposed to doはどういう意味か？"
-    answer: "「〜してはいけないことになっている」。例: You are not supposed to park here.（ここに駐車してはいけません）"
-  - node_id: "sid-014"
-    seq: 2
-    question: "be willing to doとbe eager to doの積極性の違いは？"
-    answer: "be willing to do「〜してもよいと思っている/〜するのをいとわない（消極的同意）」。be eager to do「〜を熱望している（積極的願望）」。be reluctant to doは「気が進まない」。"
-  - node_id: "sid-014"
-    seq: 3
-    question: "be bound to doとbe bound for〜の違いは？"
-    answer: "be bound to do「必ず〜する/きっと〜する」(=be certain to do)。be bound for〜「（乗り物が）〜行きである」。例: This train is bound for Hakata."
-  - node_id: "sid-015"
-    seq: 1
-    question: "on and offとon and onの違いは？"
-    answer: "on and off「ときどき/断続的に」(=sometimes)。on and on「どんどん/続けて/休まず」(=continuously)。"
-  - node_id: "sid-015"
-    seq: 2
-    question: "next toが「ほとんど」の意味になるのはどのような文脈か？"
-    answer: "通例否定語の前で用いる。例: next to impossible「ほとんど不可能」。「〜の隣」の意味もあるので文脈判断が必要。"
-  - node_id: "sid-015"
-    seq: 3
-    question: "let aloneはどのような文の後で使うか？"
-    answer: "否定文の後で使う。「〜は言うまでもなく」(=much[still] less)。例: The old dog can hardly walk, let alone run."
-
+- node_id: sid-012
+  seq: 1
+  question: A is familiar with B と B is familiar to A はどのような関係か？
+  answer: 同じ意味。familiarの後の前置詞で主語と目的語の関係が入れ替わる。withは「（人が）〜をよく知っている」、toは「（物事が）〜に知られている」。
+- node_id: sid-012
+  seq: 2
+  question: be afraid of doingとbe afraid to doの違いは？
+  answer: be afraid of doing「〜することを恐れる（行為そのものへの恐怖）」、be afraid to do「（結果を心配して）怖くて〜できない」。
+- node_id: sid-012
+  seq: 3
+  question: be dependent on〜の反意表現 be independent ___〜 の前置詞は？
+  answer: of。「〜から独立している」は「分離」を表すofを用いる。dependentはon、independentはofと前置詞が異なる。
+- node_id: sid-012
+  seq: 4
+  question: be concerned about〜とbe concerned with〜はそれぞれどういう意味か？
+  answer: be concerned about〜「〜を心配している」(=be worried about)。be concerned with〜「〜に関係している/〜に関心がある」(=be interested in)。
+- node_id: sid-013
+  seq: 1
+  question: be tired of〜とbe tired from〜の違いは？
+  answer: be tired of〜「〜にあきている/〜にうんざり」、be tired from〜「〜で疲れている」。of=飽き、from=疲労の原因。
+- node_id: sid-013
+  seq: 2
+  question: He is sure of success. と He is sure to succeed. で確信しているのはそれぞれ誰か？
+  answer: 'sure of: 彼（本人）が確信。sure to do: 話し手が確信（彼はきっと成功する）。'
+- node_id: sid-013
+  seq: 3
+  question: be engaged in〜とbe engaged to〜の意味の違いは？
+  answer: be engaged in〜「〜に従事している/〜で忙しい」(=be occupied with)。be engaged to〜「〜と婚約している」。
+- node_id: sid-013
+  seq: 4
+  question: 「〜に特有である」を2つの表現で言うと？
+  answer: be characteristic of〜 と be peculiar to〜。前置詞がof/toで異なる点に注意。
+- node_id: sid-014
+  seq: 1
+  question: be supposed to doの否定形 be not supposed to doはどういう意味か？
+  answer: '「〜してはいけないことになっている」。例: You are not supposed to park here.（ここに駐車してはいけません）'
+- node_id: sid-014
+  seq: 2
+  question: be willing to doとbe eager to doの積極性の違いは？
+  answer: be willing to do「〜してもよいと思っている/〜するのをいとわない（消極的同意）」。be eager to do「〜を熱望している（積極的願望）」。be reluctant to doは「気が進まない」。
+- node_id: sid-014
+  seq: 3
+  question: be bound to doとbe bound for〜の違いは？
+  answer: 'be bound to do「必ず〜する/きっと〜する」(=be certain to do)。be bound for〜「（乗り物が）〜行きである」。例: This train is bound for Hakata.'
+- node_id: sid-015
+  seq: 1
+  question: on and offとon and onの違いは？
+  answer: on and off「ときどき/断続的に」(=sometimes)。on and on「どんどん/続けて/休まず」(=continuously)。
+- node_id: sid-015
+  seq: 2
+  question: next toが「ほとんど」の意味になるのはどのような文脈か？
+  answer: '通例否定語の前で用いる。例: next to impossible「ほとんど不可能」。「〜の隣」の意味もあるので文脈判断が必要。'
+- node_id: sid-015
+  seq: 3
+  question: let aloneはどのような文の後で使うか？
+  answer: '否定文の後で使う。「〜は言うまでもなく」(=much[still] less)。例: The old dog can hardly walk, let alone run.'
 node_prerequisites:
-  - node_id: "sid-013"
-    prerequisite_id: "sid-012"
-  - node_id: "sid-014"
-    prerequisite_id: "sid-012"
-
+- node_id: sid-013
+  prerequisite_id: sid-012
+- node_id: sid-014
+  prerequisite_id: sid-012
 knowledge_references:
-  - node_id: "sid-012"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_232"
-    pages: ""
-  - node_id: "sid-012"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_233"
-    pages: ""
-  - node_id: "sid-013"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_234"
-    pages: ""
-  - node_id: "sid-013"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_235"
-    pages: ""
-  - node_id: "sid-014"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_236"
-    pages: ""
-  - node_id: "sid-015"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_237"
-    pages: ""
+- node_id: sid-012
+  book: スクランブル英文法・語法
+  section_id: Scr_232
+  pages: ''
+- node_id: sid-013
+  book: スクランブル英文法・語法
+  section_id: Scr_234
+  pages: ''
+- node_id: sid-014
+  book: スクランブル英文法・語法
+  section_id: Scr_236
+  pages: ''
+- node_id: sid-015
+  book: スクランブル英文法・語法
+  section_id: Scr_237
+  pages: ''

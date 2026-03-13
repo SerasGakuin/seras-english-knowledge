@@ -46,6 +46,18 @@ BOOKS: dict[str, BookConfig] = {
         db_book_name="入門英文問題精講",
         section_prefix="Ny_",
     ),
+    "scramble": BookConfig(
+        slug="scramble",
+        full_name="スクランブル英文法・語法",
+        db_book_name="スクランブル英文法・語法",
+        section_prefix="Scr",
+    ),
+    "narikawa": BookConfig(
+        slug="narikawa",
+        full_name="成川の深めて解ける！英文法 INPUT",
+        db_book_name="成川の深めて解ける！英文法 INPUT",
+        section_prefix="Nar",
+    ),
 }
 
 

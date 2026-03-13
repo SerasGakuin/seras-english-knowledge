@@ -7,7 +7,7 @@ book: "スクランブル英文法・語法"
 book_slug: "scramble"
 
 current_state:
-  phase: "Phase 3 完了 — 全体整合性チェック通過"
+  phase: "Phase 3 完了 — DB投入済み"
   current_section: null
   current_step: "完了"
   last_completed_section: "Scr_S10"
@@ -38,9 +38,7 @@ recent_decisions:
 active_concerns:
   - "sgh-026(限定用法と叙述用法)に紐づく英文が0件 — 書き起こし欠損による既知の警告"
 
-next_actions:
-  - "Phase 4: DB投入（import_scramble.py作成、Supabaseインポート）"
-  - "cross_book_links: 他参考書との参照リンク構築"
+next_actions: []
 
 must_reread:
   - "docs/design/構造化共通ワークフロー.md"

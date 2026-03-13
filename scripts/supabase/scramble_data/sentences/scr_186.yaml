@@ -1,213 +1,211 @@
 sentences:
-  - id: "scr-186-p01"
-    section_id: "Scr_186"
-    drill: 1
-    number: 741
-    role: "exam"
-    english: "The unexpected news drove him crazy."
-    japanese: "その予想外の知らせに、彼は気が動転した。"
-    notes: "drive〜「〜を（…の状態に）する/追いやる」。SVOC（形容詞）の形。"
-  - id: "scr-186-e01"
-    section_id: "Scr_186"
-    drill: 0
-    number: null
-    role: "example"
-    english: "Hunger drove him to steal."
-    japanese: "空腹に駆られて彼は盗みをした。"
-    notes: "問741プラスα。drive A to do「Aに〜させる」。drive A into B「AをBの状態に追いやる」もある。"
-  - id: "scr-186-p02"
-    section_id: "Scr_186"
-    drill: 1
-    number: 742
-    role: "exam"
-    english: "This room commands a fine view of the mountain."
-    japanese: "この部屋からは山がよく見渡せる。"
-    notes: "〈発展〉神田外語大。command〜「（風景など）を見渡す」。command a view of〜「（場所などが）（景色など）を見渡す」。"
-  - id: "scr-186-p03"
-    section_id: "Scr_186"
-    drill: 1
-    number: 743
-    role: "exam"
-    english: "Dave isn't answering the phone. He must be out."
-    japanese: "デーブは電話に出ない。外出しているにちがいない。"
-    notes: "大阪学院大。answer〜「（電話・ノックなど）に応答する」。answer the phone「電話に出る」は頻出。respondはrespond to〜の形。×respond to the phoneとは言わない。"
-  - id: "scr-186-p04"
-    section_id: "Scr_186"
-    drill: 1
-    number: 744
-    role: "exam"
-    english: "It suddenly struck me that we might be going the wrong way."
-    japanese: "突然、私たちは道を間違えているかもしれないという考えが心に浮かんだ。"
-    notes: "〈発展〉。strike〜「（考えなどが）〜の心にふと浮かぶ」（= occur to〜⇨ 1001）。It strikes A that節「〜という考えがA（人）の心に浮かぶ」。"
-  - id: "scr-186-e02"
-    section_id: "Scr_186"
-    drill: 0
-    number: null
-    role: "example"
-    english: "At first he struck me as a difficult person."
-    japanese: "最初は、彼を気難しい人だと思った。"
-    notes: "問744プラスα。strike A as B「AにBであると思わせる」。"
-  - id: "scr-186-p05"
-    section_id: "Scr_186"
-    drill: 1
-    number: 745
-    role: "exam"
-    english: "To put it clearly, she has no intention of apologizing."
-    japanese: "はっきり言えば、彼女は謝るつもりがない。"
-    notes: "〈発展〉。put〜「〜を言い表す/表現する」（= express）。to put it clearly「はっきり言えば」は独立不定詞（⇨ PU!24）。cf. to put it briefly [simply]「手短に［簡単に］言えば」。"
-  - id: "scr-186-e03"
-    section_id: "Scr_186"
-    drill: 0
-    number: null
-    role: "example"
-    english: "Let me put it another way."
-    japanese: "別の言い方で言ってみよう。"
-    notes: "問745プラスα。put it+副詞（句）の形。itは前に出た文脈を表すit。"
-  - id: "scr-186-p06"
-    section_id: "Scr_186"
-    drill: 1
-    number: 746
-    role: "exam"
-    english: "I instantly recognized his face, but I couldn't remember his name."
-    japanese: "彼の顔はすぐにわかったが、名前は思い出せなかった。"
-    notes: "〈頻出〉青山学院大。recognize〜「（前から知っている人・物）をそれと気づく［わかる］」。realizeは「気づく/悟る」、acknowledgeは「認める」なので不可。"
-  - id: "scr-186-p07"
-    section_id: "Scr_186"
-    drill: 1
-    number: 747
-    role: "exam"
-    english: "I was deeply moved to see him taking very good care of his old grandmother."
-    japanese: "彼が年老いた祖母をとてもよく世話しているのを見て、感動した。"
-    notes: "成城大。穴埋め（m-）。move〜「（人）を感動させる」（= impress）。be moved (by〜)「（人が）（〜で）感動する」。"
-  - id: "scr-186-p08"
-    section_id: "Scr_186"
-    drill: 1
-    number: 748
-    role: "exam"
-    english: "You look pale. Go and see a doctor."
-    japanese: "顔色が悪いね。医者に行って診てもらいなさい。"
-    notes: "南山大。see〜「（医者など）に会って相談する/診てもらう」（= consult）。see a doctor「医者に診てもらう」。"
-  - id: "scr-186-p09"
-    section_id: "Scr_186"
-    drill: 1
-    number: 749
-    role: "exam"
-    english: "If you follow my advice, you will have no trouble."
-    japanese: "私の忠告に従えば、何の苦労もしないだろう。"
-    notes: "中央大。follow〜「（指示など）に従う/（規則など）を守る」。"
-  - id: "scr-186-e04"
-    section_id: "Scr_186"
-    drill: 0
-    number: null
-    role: "example"
-    english: "I don't quite follow you."
-    japanese: "君の言っていることがよくわからない。"
-    notes: "問749発展。follow「（人の言うこと・説明など）を理解する」。頻出の意味。"
-
+- id: scr-186-p01
+  section_id: Scr_186
+  drill: 1
+  number: 741
+  role: exam
+  english: The unexpected news drove him crazy.
+  japanese: その予想外の知らせに、彼は気が動転した。
+  notes: drive〜「〜を（…の状態に）する/追いやる」。SVOC（形容詞）の形。
+- id: scr-186-e01
+  section_id: Scr_186
+  drill: 0
+  number: 1
+  role: example
+  english: Hunger drove him to steal.
+  japanese: 空腹に駆られて彼は盗みをした。
+  notes: 問741プラスα。drive A to do「Aに〜させる」。drive A into B「AをBの状態に追いやる」もある。
+- id: scr-186-p02
+  section_id: Scr_186
+  drill: 1
+  number: 742
+  role: exam
+  english: This room commands a fine view of the mountain.
+  japanese: この部屋からは山がよく見渡せる。
+  notes: 〈発展〉神田外語大。command〜「（風景など）を見渡す」。command a view of〜「（場所などが）（景色など）を見渡す」。
+- id: scr-186-p03
+  section_id: Scr_186
+  drill: 1
+  number: 743
+  role: exam
+  english: Dave isn't answering the phone. He must be out.
+  japanese: デーブは電話に出ない。外出しているにちがいない。
+  notes: 大阪学院大。answer〜「（電話・ノックなど）に応答する」。answer the phone「電話に出る」は頻出。respondはrespond to〜の形。×respond to the phoneとは言わない。
+- id: scr-186-p04
+  section_id: Scr_186
+  drill: 1
+  number: 744
+  role: exam
+  english: It suddenly struck me that we might be going the wrong way.
+  japanese: 突然、私たちは道を間違えているかもしれないという考えが心に浮かんだ。
+  notes: 〈発展〉。strike〜「（考えなどが）〜の心にふと浮かぶ」（= occur to〜⇨ 1001）。It strikes A that節「〜という考えがA（人）の心に浮かぶ」。
+- id: scr-186-e02
+  section_id: Scr_186
+  drill: 0
+  number: 2
+  role: example
+  english: At first he struck me as a difficult person.
+  japanese: 最初は、彼を気難しい人だと思った。
+  notes: 問744プラスα。strike A as B「AにBであると思わせる」。
+- id: scr-186-p05
+  section_id: Scr_186
+  drill: 1
+  number: 745
+  role: exam
+  english: To put it clearly, she has no intention of apologizing.
+  japanese: はっきり言えば、彼女は謝るつもりがない。
+  notes: 〈発展〉。put〜「〜を言い表す/表現する」（= express）。to put it clearly「はっきり言えば」は独立不定詞（⇨ PU!24）。cf. to put it briefly [simply]「手短に［簡単に］言えば」。
+- id: scr-186-e03
+  section_id: Scr_186
+  drill: 0
+  number: 3
+  role: example
+  english: Let me put it another way.
+  japanese: 別の言い方で言ってみよう。
+  notes: 問745プラスα。put it+副詞（句）の形。itは前に出た文脈を表すit。
+- id: scr-186-p06
+  section_id: Scr_186
+  drill: 1
+  number: 746
+  role: exam
+  english: I instantly recognized his face, but I couldn't remember his name.
+  japanese: 彼の顔はすぐにわかったが、名前は思い出せなかった。
+  notes: 〈頻出〉青山学院大。recognize〜「（前から知っている人・物）をそれと気づく［わかる］」。realizeは「気づく/悟る」、acknowledgeは「認める」なので不可。
+- id: scr-186-p07
+  section_id: Scr_186
+  drill: 1
+  number: 747
+  role: exam
+  english: I was deeply moved to see him taking very good care of his old grandmother.
+  japanese: 彼が年老いた祖母をとてもよく世話しているのを見て、感動した。
+  notes: 成城大。穴埋め（m-）。move〜「（人）を感動させる」（= impress）。be moved (by〜)「（人が）（〜で）感動する」。
+- id: scr-186-p08
+  section_id: Scr_186
+  drill: 1
+  number: 748
+  role: exam
+  english: You look pale. Go and see a doctor.
+  japanese: 顔色が悪いね。医者に行って診てもらいなさい。
+  notes: 南山大。see〜「（医者など）に会って相談する/診てもらう」（= consult）。see a doctor「医者に診てもらう」。
+- id: scr-186-p09
+  section_id: Scr_186
+  drill: 1
+  number: 749
+  role: exam
+  english: If you follow my advice, you will have no trouble.
+  japanese: 私の忠告に従えば、何の苦労もしないだろう。
+  notes: 中央大。follow〜「（指示など）に従う/（規則など）を守る」。
+- id: scr-186-e04
+  section_id: Scr_186
+  drill: 0
+  number: 4
+  role: example
+  english: I don't quite follow you.
+  japanese: 君の言っていることがよくわからない。
+  notes: 問749発展。follow「（人の言うこと・説明など）を理解する」。頻出の意味。
 sentence_structures:
-  - sentence_id: "scr-186-p01"
-    label: "overall"
-    value: "S V O C"
-  - sentence_id: "scr-186-p01"
-    label: "details"
-    value: "<The unexpected news>(S) drove(V) <him>(O) <crazy>(C:形容詞)"
-  - sentence_id: "scr-186-e01"
-    label: "overall"
-    value: "S V O M"
-  - sentence_id: "scr-186-e01"
-    label: "details"
-    value: "<Hunger>(S) drove(V) <him>(O) [to steal](M:不定詞)"
-  - sentence_id: "scr-186-p02"
-    label: "overall"
-    value: "S V O"
-  - sentence_id: "scr-186-p02"
-    label: "details"
-    value: "<This room>(S) commands(V) <a fine view of the mountain>(O)"
-  - sentence_id: "scr-186-p03"
-    label: "overall"
-    value: "S V O / S V C"
-  - sentence_id: "scr-186-p03"
-    label: "details"
-    value: "<Dave>(S) isn't answering(V:現在進行形) <the phone>(O) / <He>(S) must be(V) <out>(C)"
-  - sentence_id: "scr-186-p04"
-    label: "overall"
-    value: "It V O O"
-  - sentence_id: "scr-186-p04"
-    label: "details"
-    value: "<It>(S:形式主語) suddenly(M) struck(V) <me>(O) <that we might be going the wrong way>(O:that節)"
-  - sentence_id: "scr-186-e02"
-    label: "overall"
-    value: "M S V O M"
-  - sentence_id: "scr-186-e02"
-    label: "details"
-    value: "[At first](M:時) <he>(S) struck(V) <me>(O) [as a difficult person](M:as句)"
-  - sentence_id: "scr-186-p05"
-    label: "overall"
-    value: "M S V O"
-  - sentence_id: "scr-186-p05"
-    label: "details"
-    value: "[To put it clearly](M:独立不定詞), <she>(S) has(V) <no intention of apologizing>(O)"
-  - sentence_id: "scr-186-e03"
-    label: "overall"
-    value: "V O M"
-  - sentence_id: "scr-186-e03"
-    label: "details"
-    value: "Let(V:使役) <me>(O) put(V) <it>(O) [another way](M:様態)"
-  - sentence_id: "scr-186-p06"
-    label: "overall"
-    value: "S V O, but S V O"
-  - sentence_id: "scr-186-p06"
-    label: "details"
-    value: "<I>(S) instantly(M) recognized(V) <his face>(O), but <I>(S) couldn't remember(V) <his name>(O)"
-  - sentence_id: "scr-186-p07"
-    label: "overall"
-    value: "S V M"
-  - sentence_id: "scr-186-p07"
-    label: "details"
-    value: "<I>(S) was deeply moved(V:受動態) [to see him taking very good care of his old grandmother](M:感情の原因)"
-  - sentence_id: "scr-186-p08"
-    label: "overall"
-    value: "S V C / V and V O"
-  - sentence_id: "scr-186-p08"
-    label: "details"
-    value: "<You>(S) look(V) <pale>(C:形容詞) / Go(V:命令文) and see(V) <a doctor>(O)"
-  - sentence_id: "scr-186-p09"
-    label: "overall"
-    value: "M S V O"
-  - sentence_id: "scr-186-p09"
-    label: "details"
-    value: "[If you follow my advice](M:条件節), <you>(S) will have(V) <no trouble>(O)"
-  - sentence_id: "scr-186-e04"
-    label: "overall"
-    value: "S V O"
-  - sentence_id: "scr-186-e04"
-    label: "details"
-    value: "<I>(S) don't quite follow(V) <you>(O)"
-
+- sentence_id: scr-186-p01
+  label: overall
+  value: S V O C
+- sentence_id: scr-186-p01
+  label: details
+  value: <The unexpected news>(S) drove(V) <him>(O) <crazy>(C:形容詞)
+- sentence_id: scr-186-e01
+  label: overall
+  value: S V O M
+- sentence_id: scr-186-e01
+  label: details
+  value: <Hunger>(S) drove(V) <him>(O) [to steal](M:不定詞)
+- sentence_id: scr-186-p02
+  label: overall
+  value: S V O
+- sentence_id: scr-186-p02
+  label: details
+  value: <This room>(S) commands(V) <a fine view of the mountain>(O)
+- sentence_id: scr-186-p03
+  label: overall
+  value: S V O / S V C
+- sentence_id: scr-186-p03
+  label: details
+  value: <Dave>(S) isn't answering(V:現在進行形) <the phone>(O) / <He>(S) must be(V) <out>(C)
+- sentence_id: scr-186-p04
+  label: overall
+  value: It V O O
+- sentence_id: scr-186-p04
+  label: details
+  value: <It>(S:形式主語) suddenly(M) struck(V) <me>(O) <that we might be going the wrong way>(O:that節)
+- sentence_id: scr-186-e02
+  label: overall
+  value: M S V O M
+- sentence_id: scr-186-e02
+  label: details
+  value: '[At first](M:時) <he>(S) struck(V) <me>(O) [as a difficult person](M:as句)'
+- sentence_id: scr-186-p05
+  label: overall
+  value: M S V O
+- sentence_id: scr-186-p05
+  label: details
+  value: '[To put it clearly](M:独立不定詞), <she>(S) has(V) <no intention of apologizing>(O)'
+- sentence_id: scr-186-e03
+  label: overall
+  value: V O M
+- sentence_id: scr-186-e03
+  label: details
+  value: Let(V:使役) <me>(O) put(V) <it>(O) [another way](M:様態)
+- sentence_id: scr-186-p06
+  label: overall
+  value: S V O, but S V O
+- sentence_id: scr-186-p06
+  label: details
+  value: <I>(S) instantly(M) recognized(V) <his face>(O), but <I>(S) couldn't remember(V) <his name>(O)
+- sentence_id: scr-186-p07
+  label: overall
+  value: S V M
+- sentence_id: scr-186-p07
+  label: details
+  value: <I>(S) was deeply moved(V:受動態) [to see him taking very good care of his old grandmother](M:感情の原因)
+- sentence_id: scr-186-p08
+  label: overall
+  value: S V C / V and V O
+- sentence_id: scr-186-p08
+  label: details
+  value: <You>(S) look(V) <pale>(C:形容詞) / Go(V:命令文) and see(V) <a doctor>(O)
+- sentence_id: scr-186-p09
+  label: overall
+  value: M S V O
+- sentence_id: scr-186-p09
+  label: details
+  value: '[If you follow my advice](M:条件節), <you>(S) will have(V) <no trouble>(O)'
+- sentence_id: scr-186-e04
+  label: overall
+  value: S V O
+- sentence_id: scr-186-e04
+  label: details
+  value: <I>(S) don't quite follow(V) <you>(O)
 sentence_knowledge_tags:
-  - sentence_id: "scr-186-p01"
-    node_id: "sgi-002"
-  - sentence_id: "scr-186-e01"
-    node_id: "sgi-002"
-  - sentence_id: "scr-186-p02"
-    node_id: "sgi-002"
-  - sentence_id: "scr-186-p03"
-    node_id: "sgi-002"
-  - sentence_id: "scr-186-p04"
-    node_id: "sgi-002"
-  - sentence_id: "scr-186-e02"
-    node_id: "sgi-002"
-  - sentence_id: "scr-186-p05"
-    node_id: "sgi-002"
-  - sentence_id: "scr-186-e03"
-    node_id: "sgi-002"
-  - sentence_id: "scr-186-p06"
-    node_id: "sgi-002"
-  - sentence_id: "scr-186-p07"
-    node_id: "sgi-002"
-  - sentence_id: "scr-186-p08"
-    node_id: "sgi-002"
-  - sentence_id: "scr-186-p09"
-    node_id: "sgi-002"
-  - sentence_id: "scr-186-e04"
-    node_id: "sgi-002"
+- sentence_id: scr-186-p01
+  node_id: sgi-002
+- sentence_id: scr-186-e01
+  node_id: sgi-002
+- sentence_id: scr-186-p02
+  node_id: sgi-002
+- sentence_id: scr-186-p03
+  node_id: sgi-002
+- sentence_id: scr-186-p04
+  node_id: sgi-002
+- sentence_id: scr-186-e02
+  node_id: sgi-002
+- sentence_id: scr-186-p05
+  node_id: sgi-002
+- sentence_id: scr-186-e03
+  node_id: sgi-002
+- sentence_id: scr-186-p06
+  node_id: sgi-002
+- sentence_id: scr-186-p07
+  node_id: sgi-002
+- sentence_id: scr-186-p08
+  node_id: sgi-002
+- sentence_id: scr-186-p09
+  node_id: sgi-002
+- sentence_id: scr-186-e04
+  node_id: sgi-002

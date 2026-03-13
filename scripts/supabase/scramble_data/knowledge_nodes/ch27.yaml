@@ -1,147 +1,149 @@
 knowledge_nodes:
-  - id: "sid-019"
-    name: "「関連」「目的」を表す群前置詞"
-    category: "イディオム"
-    priority: "P1"
-    notes: |
-      Theme 245+246統合。「関連」と「目的」を表す群前置詞（9表現）。
-      【Theme 245 — 関連】as for〜「〜について言えば」(通例文頭。新しい話題・対照的な話題を持ち出す。=As far as I am concerned⇨451/For my part)、as to〜「〜について」(=about。wh-節・句が続く場合に多い。文頭ではas forと同じ「〜について言えば」)、as regards〜 / with[in] regard to〜 / with[in] respect to〜「〜に関して(は)」(=concerning。about/onより硬い表現。regard/respectは「注意・配慮すべき点」⇨755)。
-      語句: 1270 will be doing(未来進行形) — ①未来のある時点での進行中の動作、②自然な成り行きで起こりそうなこと(本問は②)。cf. be doing(現在進行形) — 確定的な近い未来の予定(⇨6)。
-      【Theme 246 — 目的】for the purpose of doing「〜する目的で」(for doingは不可。「目的」を強調する場合はfor the purpose of doingの形)、with a view to doing「〜する目的で/〜するつもりで」(viewは「目的/意図」。やや硬い表現)、for fear of doing「〜しないように/〜するといけないから」(=for fear (that) S should do⇨444/so that S would not do⇨443)、for the sake of〜「〜の(利益の)ために」(for A's sakeの形も。プラスα: for the benefit[good] of〜も同意表現)。
+- id: sid-019
+  name: 「関連」「目的」を表す群前置詞
+  category: イディオム
+  priority: P1
+  notes: 'Theme 245+246統合。「関連」と「目的」を表す群前置詞（9表現）。
 
-  - id: "sid-020"
-    name: "「原因・理由」「譲歩」を表す群前置詞"
-    category: "イディオム"
-    priority: "P1"
-    notes: |
-      Theme 247+248統合。「原因・理由」と「譲歩」を表す群前置詞（10表現）。
-      【Theme 247 — 原因・理由】because of〜 / on account of〜 / owing to〜 / due to〜「〜のために/〜が原因で」(4つはほぼ同意で入れかえ可)、〈重要〉due to〜は群前置詞としての用法の他に、be due to〜「〜のため[せい]である/〜による」の形も必須(His failure was due to a lack of preparation.)、thanks to〜「〜のおかげで/〜のせいで」(皮肉な意味でも使用)、on (the) grounds of〜「〜という理由で」(groundは「根拠・理由」。of〜の代わりにthat節も)。
-      語句: 1276 postpone「〜を延期する」(⇨922)、1278 is to be postponed「延期されることになっている」(⇨101)。
-      【Theme 248 — 譲歩】in spite of〜「〜にもかかわらず」(=despite⇨722)、〈重要〉in spite of oneself「思わず/われ知らず」(自分自身の気持ちにもかかわらず→思わず)、for all〜「〜にもかかわらず」(=in spite of)、プラスα: with all〜も同意、regardless of〜「〜にかかわらず/〜にかまわず」。
-      語句: 1284 as planned「予定通りに」。
+    【Theme 245 — 関連】as for〜「〜について言えば」(通例文頭。新しい話題・対照的な話題を持ち出す。=As far as I am concerned⇨451/For my part)、as to〜「〜について」(=about。wh-節・句が続く場合に多い。文頭ではas forと同じ「〜について言えば」)、as regards〜 / with[in] regard to〜 / with[in]
+    respect to〜「〜に関して(は)」(=concerning。about/onより硬い表現。regard/respectは「注意・配慮すべき点」⇨755)。
 
-  - id: "sid-021"
-    name: "その他の重要群前置詞"
-    category: "イディオム"
-    priority: "P1"
-    notes: |
-      Theme 249+250統合。その他の重要群前置詞（22表現）+ PU!219-222。
-      【Theme 249 — その他①】according to〜「(情報源)によれば」(プラスα:「〜に従って/〜に応じて」の意味も)、instead of〜「〜の代わりに/〜しないで(doing)」(of+動名詞で「〜しないで」)、in place of〜「〜の代わりに」(=instead of。take the place of〜「〜に取って代わる」⇨1062)、in terms of〜「〜の点から/〜に関して」、by means of〜「〜によって/〜を用いて」(means「手段/方法」⇨603)、by way of〜「〜経由で」(=via。〈発展〉「〜として/〜のつもりで」の意味も)、at the expense of〜 / at the cost of〜「〜を犠牲にして」(=at the sacrifice of)、at the mercy of〜「〜のなすがまま[で]/〜に左右されて」、in search of〜「〜を探して/〜を求めて」(search for〜との前置詞の違いに注意)、in addition to〜「〜に加えて/〜の他に」(=besides。〈比較〉in addition「さらに/その上」は副詞句)、as of〜「〜の時点で/〜現在で」。
-      【Theme 250 — その他②】up to〜 — 3つの意味: ①「〜の責任[義務]で/〜次第で」(It is up to A to do/whether〜)、②「(数値など)〜まで/〜に至るまで」、③「(通例悪事など)をたくらんで」。〈重要〉3つの意味を押さえること。on[in] behalf of〜「〜を代表して/〜に代わって」(=in place of。プラスα:「〜のために」の意味も)、in honor of〜「〜に敬意を表して/〜のために」、in favor of〜「〜に賛成して」(=for⇨716)、in charge of〜「〜を担当[世話/管理]して」(プラスα: take charge of〜「〜を担当する」)、contrary to〜「〜に反して」(〈比較〉on the contrary「それどころか」⇨1189と区別)、apart from〜「〜は別として/〜はさておき」(=aside from)、in the face of〜「〜に直面して/〜をものともせず」、at the sight of〜「〜を見て」、in return for〜「〜のお返しに/〜の返礼として」(for以下がなくin returnだけでもよく使う)。
-      語句: 1298 represent「〜を代表する」。
+    語句: 1270 will be doing(未来進行形) — ①未来のある時点での進行中の動作、②自然な成り行きで起こりそうなこと(本問は②)。cf. be doing(現在進行形) — 確定的な近い未来の予定(⇨6)。
 
+    【Theme 246 — 目的】for the purpose of doing「〜する目的で」(for doingは不可。「目的」を強調する場合はfor the purpose of doingの形)、with a view to doing「〜する目的で/〜するつもりで」(viewは「目的/意図」。やや硬い表現)、for fear of doing「〜しないように/〜するといけないから」(=for
+    fear (that) S should do⇨444/so that S would not do⇨443)、for the sake of〜「〜の(利益の)ために」(for A''s sakeの形も。プラスα: for the benefit[good] of〜も同意表現)。
+
+    '
+- id: sid-020
+  name: 「原因・理由」「譲歩」を表す群前置詞
+  category: イディオム
+  priority: P1
+  notes: 'Theme 247+248統合。「原因・理由」と「譲歩」を表す群前置詞（10表現）。
+
+    【Theme 247 — 原因・理由】because of〜 / on account of〜 / owing to〜 / due to〜「〜のために/〜が原因で」(4つはほぼ同意で入れかえ可)、〈重要〉due to〜は群前置詞としての用法の他に、be due to〜「〜のため[せい]である/〜による」の形も必須(His failure was due to a lack of preparation.)、thanks
+    to〜「〜のおかげで/〜のせいで」(皮肉な意味でも使用)、on (the) grounds of〜「〜という理由で」(groundは「根拠・理由」。of〜の代わりにthat節も)。
+
+    語句: 1276 postpone「〜を延期する」(⇨922)、1278 is to be postponed「延期されることになっている」(⇨101)。
+
+    【Theme 248 — 譲歩】in spite of〜「〜にもかかわらず」(=despite⇨722)、〈重要〉in spite of oneself「思わず/われ知らず」(自分自身の気持ちにもかかわらず→思わず)、for all〜「〜にもかかわらず」(=in spite of)、プラスα: with all〜も同意、regardless of〜「〜にかかわらず/〜にかまわず」。
+
+    語句: 1284 as planned「予定通りに」。
+
+    '
+- id: sid-021
+  name: その他の重要群前置詞
+  category: イディオム
+  priority: P1
+  notes: 'Theme 249+250統合。その他の重要群前置詞（22表現）+ PU!219-222。
+
+    【Theme 249 — その他①】according to〜「(情報源)によれば」(プラスα:「〜に従って/〜に応じて」の意味も)、instead of〜「〜の代わりに/〜しないで(doing)」(of+動名詞で「〜しないで」)、in place of〜「〜の代わりに」(=instead of。take the place of〜「〜に取って代わる」⇨1062)、in terms of〜「〜の点から/〜に関して」、by
+    means of〜「〜によって/〜を用いて」(means「手段/方法」⇨603)、by way of〜「〜経由で」(=via。〈発展〉「〜として/〜のつもりで」の意味も)、at the expense of〜 / at the cost of〜「〜を犠牲にして」(=at the sacrifice of)、at the mercy of〜「〜のなすがまま[で]/〜に左右されて」、in search
+    of〜「〜を探して/〜を求めて」(search for〜との前置詞の違いに注意)、in addition to〜「〜に加えて/〜の他に」(=besides。〈比較〉in addition「さらに/その上」は副詞句)、as of〜「〜の時点で/〜現在で」。
+
+    【Theme 250 — その他②】up to〜 — 3つの意味: ①「〜の責任[義務]で/〜次第で」(It is up to A to do/whether〜)、②「(数値など)〜まで/〜に至るまで」、③「(通例悪事など)をたくらんで」。〈重要〉3つの意味を押さえること。on[in] behalf of〜「〜を代表して/〜に代わって」(=in place of。プラスα:「〜のために」の意味も)、in
+    honor of〜「〜に敬意を表して/〜のために」、in favor of〜「〜に賛成して」(=for⇨716)、in charge of〜「〜を担当[世話/管理]して」(プラスα: take charge of〜「〜を担当する」)、contrary to〜「〜に反して」(〈比較〉on the contrary「それどころか」⇨1189と区別)、apart from〜「〜は別として/〜はさておき」(=aside
+    from)、in the face of〜「〜に直面して/〜をものともせず」、at the sight of〜「〜を見て」、in return for〜「〜のお返しに/〜の返礼として」(for以下がなくin returnだけでもよく使う)。
+
+    語句: 1298 represent「〜を代表する」。
+
+    '
 understanding_goals:
-  - node_id: "sid-019"
-    seq: 1
-    goal: "as for / as to / as regards 等の「関連」を表す群前置詞を適切に使い分けられる"
-  - node_id: "sid-019"
-    seq: 2
-    goal: "「目的」を表す群前置詞（for the purpose of doing / with a view to doing / for fear of doing / for the sake of）を正しく使える"
-  - node_id: "sid-019"
-    seq: 3
-    goal: "for doingでは「目的」を表せず、for the purpose of doingの形が必要であることを説明できる"
-  - node_id: "sid-019"
-    seq: 4
-    goal: "for fear of doing を for fear that S should do / so that S would not do と書き換えできる"
-  - node_id: "sid-020"
-    seq: 1
-    goal: "「原因・理由」を表す4つの群前置詞（because of / on account of / owing to / due to）が同意で入れかえ可能であることを理解している"
-  - node_id: "sid-020"
-    seq: 2
-    goal: "due toの群前置詞用法とbe due toの補語用法を区別できる"
-  - node_id: "sid-020"
-    seq: 3
-    goal: "thanks toが皮肉な意味（〜のせいで）でも使われることを説明できる"
-  - node_id: "sid-020"
-    seq: 4
-    goal: "in spite of / for all / regardless of の「譲歩」を表す群前置詞を適切に使える"
-  - node_id: "sid-020"
-    seq: 5
-    goal: "in spite of oneselfが「思わず/われ知らず」を意味する理由を説明できる"
-  - node_id: "sid-021"
-    seq: 1
-    goal: "up toの3つの意味（①責任・次第、②〜まで、③たくらんで）を文脈から区別できる"
-  - node_id: "sid-021"
-    seq: 2
-    goal: "according toの2つの意味（「〜によれば」と「〜に従って」）を文脈から区別できる"
-  - node_id: "sid-021"
-    seq: 3
-    goal: "in addition to（前置詞句）と in addition（副詞句）の違いを説明できる"
-  - node_id: "sid-021"
-    seq: 4
-    goal: "contrary toとon the contraryの違いを説明できる"
-  - node_id: "sid-021"
-    seq: 5
-    goal: "by means of / by way of / in terms of / in place of 等のその他の群前置詞を正しく使える"
-
+- node_id: sid-019
+  seq: 1
+  goal: as for / as to / as regards 等の「関連」を表す群前置詞を適切に使い分けられる
+- node_id: sid-019
+  seq: 2
+  goal: 「目的」を表す群前置詞（for the purpose of doing / with a view to doing / for fear of doing / for the sake of）を正しく使える
+- node_id: sid-019
+  seq: 3
+  goal: for doingでは「目的」を表せず、for the purpose of doingの形が必要であることを説明できる
+- node_id: sid-019
+  seq: 4
+  goal: for fear of doing を for fear that S should do / so that S would not do と書き換えできる
+- node_id: sid-020
+  seq: 1
+  goal: 「原因・理由」を表す4つの群前置詞（because of / on account of / owing to / due to）が同意で入れかえ可能であることを理解している
+- node_id: sid-020
+  seq: 2
+  goal: due toの群前置詞用法とbe due toの補語用法を区別できる
+- node_id: sid-020
+  seq: 3
+  goal: thanks toが皮肉な意味（〜のせいで）でも使われることを説明できる
+- node_id: sid-020
+  seq: 4
+  goal: in spite of / for all / regardless of の「譲歩」を表す群前置詞を適切に使える
+- node_id: sid-020
+  seq: 5
+  goal: in spite of oneselfが「思わず/われ知らず」を意味する理由を説明できる
+- node_id: sid-021
+  seq: 1
+  goal: up toの3つの意味（①責任・次第、②〜まで、③たくらんで）を文脈から区別できる
+- node_id: sid-021
+  seq: 2
+  goal: according toの2つの意味（「〜によれば」と「〜に従って」）を文脈から区別できる
+- node_id: sid-021
+  seq: 3
+  goal: in addition to（前置詞句）と in addition（副詞句）の違いを説明できる
+- node_id: sid-021
+  seq: 4
+  goal: contrary toとon the contraryの違いを説明できる
+- node_id: sid-021
+  seq: 5
+  goal: by means of / by way of / in terms of / in place of 等のその他の群前置詞を正しく使える
 check_points:
-  - node_id: "sid-019"
-    seq: 1
-    question: "as for とas toの使い分けのポイントは？"
-    answer: "as toはwh-節・句が続く場合に用いられることが多い。文頭ではas forと同じ「〜について言えば」の意味。それ以外はabout/onが一般的。"
-  - node_id: "sid-019"
-    seq: 2
-    question: "「〜する目的で」を for を使って表す場合、for doing は可能か？"
-    answer: "不可。for the purpose of doing の形を使う。with a view to doing も同意。"
-  - node_id: "sid-019"
-    seq: 3
-    question: "for fear of doingの書き換え表現を2つ答えよ。"
-    answer: "for fear (that) S should do / so that S would [might] not do。"
-  - node_id: "sid-020"
-    seq: 1
-    question: "「〜のために/〜が原因で」を表す群前置詞を4つ答え、それぞれ入れかえ可能か述べよ。"
-    answer: "because of / on account of / owing to / due to。ほぼ同意で入れかえて用いることができる。"
-  - node_id: "sid-020"
-    seq: 2
-    question: "due to を使った「彼の失敗は準備不足が原因だった」の英文を作り、この場合の due to の用法を説明せよ。"
-    answer: "His failure was due to a lack of preparation. この場合は be due to〜「〜のせいである」の補語用法で、群前置詞としての用法とは異なる。"
-  - node_id: "sid-020"
-    seq: 3
-    question: "in spite of oneself はどういう意味か？またその理由は？"
-    answer: "「思わず/われ知らず」。自分自身（の気持ち）にもかかわらず→意図せず、という論理。"
-  - node_id: "sid-021"
-    seq: 1
-    question: "up to の3つの意味を例文とともに答えよ。"
-    answer: "①「〜の責任/〜次第」(It is up to you to do)、②「〜まで」(His score is now up to 750.)、③「たくらんで」(He is up to something bad.)。"
-  - node_id: "sid-021"
-    seq: 2
-    question: "contrary to と on the contrary の違いは何か？"
-    answer: "contrary to〜は群前置詞で「〜に反して」(Contrary to my expectations, he failed.)。on the contraryは副詞句で「それどころか」。"
-  - node_id: "sid-021"
-    seq: 3
-    question: "in addition to（前置詞句）と in addition（副詞句）はどう違うか？"
-    answer: "in addition to〜は「〜に加えて」で後ろに名詞が続く前置詞句。in additionは「さらに/その上」で文修飾の副詞句。"
-
+- node_id: sid-019
+  seq: 1
+  question: as for とas toの使い分けのポイントは？
+  answer: as toはwh-節・句が続く場合に用いられることが多い。文頭ではas forと同じ「〜について言えば」の意味。それ以外はabout/onが一般的。
+- node_id: sid-019
+  seq: 2
+  question: 「〜する目的で」を for を使って表す場合、for doing は可能か？
+  answer: 不可。for the purpose of doing の形を使う。with a view to doing も同意。
+- node_id: sid-019
+  seq: 3
+  question: for fear of doingの書き換え表現を2つ答えよ。
+  answer: for fear (that) S should do / so that S would [might] not do。
+- node_id: sid-020
+  seq: 1
+  question: 「〜のために/〜が原因で」を表す群前置詞を4つ答え、それぞれ入れかえ可能か述べよ。
+  answer: because of / on account of / owing to / due to。ほぼ同意で入れかえて用いることができる。
+- node_id: sid-020
+  seq: 2
+  question: due to を使った「彼の失敗は準備不足が原因だった」の英文を作り、この場合の due to の用法を説明せよ。
+  answer: His failure was due to a lack of preparation. この場合は be due to〜「〜のせいである」の補語用法で、群前置詞としての用法とは異なる。
+- node_id: sid-020
+  seq: 3
+  question: in spite of oneself はどういう意味か？またその理由は？
+  answer: 「思わず/われ知らず」。自分自身（の気持ち）にもかかわらず→意図せず、という論理。
+- node_id: sid-021
+  seq: 1
+  question: up to の3つの意味を例文とともに答えよ。
+  answer: ①「〜の責任/〜次第」(It is up to you to do)、②「〜まで」(His score is now up to 750.)、③「たくらんで」(He is up to something bad.)。
+- node_id: sid-021
+  seq: 2
+  question: contrary to と on the contrary の違いは何か？
+  answer: contrary to〜は群前置詞で「〜に反して」(Contrary to my expectations, he failed.)。on the contraryは副詞句で「それどころか」。
+- node_id: sid-021
+  seq: 3
+  question: in addition to（前置詞句）と in addition（副詞句）はどう違うか？
+  answer: in addition to〜は「〜に加えて」で後ろに名詞が続く前置詞句。in additionは「さらに/その上」で文修飾の副詞句。
 node_prerequisites:
-  - node_id: "sid-019"
-    prerequisite_id: "sid-018"
-  - node_id: "sid-020"
-    prerequisite_id: "sid-019"
-  - node_id: "sid-021"
-    prerequisite_id: "sid-020"
-
+- node_id: sid-019
+  prerequisite_id: sid-018
+- node_id: sid-020
+  prerequisite_id: sid-019
+- node_id: sid-021
+  prerequisite_id: sid-020
 knowledge_references:
-  - node_id: "sid-019"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_245"
-    pages: ""
-  - node_id: "sid-019"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_246"
-    pages: ""
-  - node_id: "sid-020"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_247"
-    pages: ""
-  - node_id: "sid-020"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_248"
-    pages: ""
-  - node_id: "sid-021"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_249"
-    pages: ""
-  - node_id: "sid-021"
-    book: "スクランブル英文法・語法"
-    section_id: "Scr_250"
-    pages: ""
+- node_id: sid-019
+  book: スクランブル英文法・語法
+  section_id: Scr_245
+  pages: ''
+- node_id: sid-020
+  book: スクランブル英文法・語法
+  section_id: Scr_247
+  pages: ''
+- node_id: sid-021
+  book: スクランブル英文法・語法
+  section_id: Scr_249
+  pages: ''
