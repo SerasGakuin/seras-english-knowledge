@@ -6,9 +6,9 @@ book: "成川の深めて解ける！英文法 INPUT"
 book_slug: "narikawa"
 
 current_state:
-  phase: "Phase 3 完了"
+  phase: "Phase 3 完了 — DB投入済み"
   current_section: null
-  current_step: "全体整合性チェック完了"
+  current_step: "完了"
   last_completed_section: "Nar_15_04"
   last_completed_gate: 5
 
@@ -27,7 +27,6 @@ recent_decisions:
 
 active_concerns: []
 
-next_actions:
-  - "成川 Phase 3 完了。Supabase DBインポートへ"
+next_actions: []
 
 must_reread: []

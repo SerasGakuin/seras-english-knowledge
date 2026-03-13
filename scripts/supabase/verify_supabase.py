@@ -78,11 +78,11 @@ def main():
     print()
 
     # Expected minimum counts
-    # はじめ84 + 肘井49 + 核心76 + 入門70 = 279 nodes
-    # はじめ524 + 肘井405 + 核心473 + 入門210 = 1612 sentences
+    # はじめ84 + 肘井49 + 核心76 + 入門70 + スクランブル183 + 成川162 = 624 nodes
+    # はじめ524 + 肘井405 + 核心473 + 入門210 + スクランブル1746 + 成川893 = 4251 sentences
     expected = {
-        "knowledge_nodes": 279,
-        "sentences": 1612,
+        "knowledge_nodes": 624,
+        "sentences": 4251,
     }
 
     for table, exp in expected.items():
@@ -92,12 +92,12 @@ def main():
         else:
             print(f"  [OK] {table}: {actual} (expected >= {exp})")
 
-    # Sections: はじめ41 + 肘井39 + 核心26 + 入門85 = 191
+    # Sections: はじめ41 + 肘井39 + 核心26 + 入門85 + スクランブル271 + 成川162 = 624
     sections_count = counts["sections"]
-    if sections_count < 191:
-        errors.append(f"sections: expected >= 191, got {sections_count}")
+    if sections_count < 624:
+        errors.append(f"sections: expected >= 624, got {sections_count}")
     else:
-        print(f"  [OK] sections: {sections_count} (expected >= 191)")
+        print(f"  [OK] sections: {sections_count} (expected >= 624)")
 
     # Cross-book links: hijii25 + kakushin47 + nyumon44 = 116
     links_count = counts["cross_book_links"]

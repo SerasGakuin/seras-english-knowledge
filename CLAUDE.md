@@ -17,21 +17,26 @@ seras-english-knowledge/
 │   │   │   ├── supabase_client.py     # PostgRESTクライアント
 │   │   │   ├── supabase_data_store.py # SupabaseDataStore（本番用）
 │   │   │   ├── question_selector.py   # 出題ロジック（複数参考書対応）
-│   │   │   ├── section_parser.py      # セクション範囲パーサ（hajime/hijii/kakushin対応）
+│   │   │   ├── section_parser.py      # セクション範囲パーサ（6参考書対応）
 │   │   │   ├── pdf_generator.py       # PDF生成（WeasyPrint）
 │   │   │   └── gcs_uploader.py        # GCS アップロード
 │   │   ├── book_registry.py         # 参考書レジストリ（hajime/hijii/kakushin/nyumon）
 │   │   └── templates/                 # Jinja2テンプレート
-│   └── tests/                         # 96テスト
+│   └── tests/                         # 129テスト
 ├── scripts/
 │   └── supabase/              # DB関連スクリプト
 │       ├── 001_create_tables.sql  # DDL（11テーブル）
 │       ├── import_to_supabase.py  # YAML→DB インポート
 │       ├── import_exam.py         # Exam_01/02 データ投入
 │       ├── import_hijii.py        # 肘井データ投入（Phase F-1）
+│       ├── import_nyumon.py       # 入門精講データ投入（Phase F-2）
+│       ├── import_book.py         # 汎用インポートCLI（scramble/narikawa等）
+│       ├── book_importer/         # 汎用インポートパッケージ
 │       ├── hijii_data/            # 肘井の構造化データ（10モジュール）
-│       ├── import_kakushin.py     # 核心データ投入（Phase F-1.5）
 │       ├── kakushin_data/         # 核心の構造化データ（YAML）
+│       ├── nyumon_data/           # 入門精講の構造化データ（YAML）
+│       ├── scramble_data/         # スクランブルの構造化データ（YAML）
+│       ├── narikawa_data/         # 成川の構造化データ（YAML）
 │       ├── 002_cross_book_links.sql  # 参考書間リンクDDL
 │       └── verify_supabase.py     # データ整合性検証
 ├── supabase/              # Supabase CLI マイグレーション
@@ -54,7 +59,11 @@ seras-english-knowledge/
 - **データ量（はじめの英文読解ドリル）**: 84ノード、524英文、41セクション
 - **データ量（肘井の読解のための英文法）**: 49ノード、405英文、39セクション
 - **データ量（英文法の核心）**: 76ノード、473英文、26セクション
-- **参考書間リンク**: 72件（hijii↔hajime 25件 + kakushin↔hajime 28件 + kakushin↔hijii 19件）
+- **データ量（入門英文問題精講）**: 70ノード、210英文、85セクション
+- **データ量（スクランブル英文法・語法）**: 183ノード、1,746英文、271セクション
+- **データ量（成川の深めて解ける！英文法 INPUT）**: 162ノード、893英文、162セクション
+- **合計**: 624ノード、4,251英文、624セクション
+- **参考書間リンク**: 116件（hijii↔hajime 25件 + kakushin↔hajime 28件 + kakushin↔hijii 19件 + nyumon↔hajime 15件 + nyumon↔hijii 29件）
 - **接続**: postgrest-py（REST API経由）
 - **DDL実行**: Supabase CLI マイグレーション（`supabase db push`）
 - **環境変数**: `SUPABASE_URL`, `SUPABASE_KEY`, `DATA_STORE_TYPE=supabase`
@@ -62,9 +71,12 @@ seras-english-knowledge/
 
 ## 現在のフェーズ
 
-> Phase A〜E + D + F-1 + F-1.5 完了。**実運用開始（2026-02-13）**。Cloud Run + GAS統合でスプレッドシートからPDF生成可能。
+> Phase A〜E + D + F-1〜F-4 完了。**実運用開始（2026-02-13）**。Cloud Run + GAS統合でスプレッドシートからPDF生成可能。
 > Phase F-1: 肘井の読解のための英文法 構造化完了（49ノード・405英文・25参考書間リンク）。
 > Phase F-1.5: 英文法の核心 構造化完了（76ノード・473英文・47参考書間リンク）。
+> Phase F-2: 入門英文問題精講 構造化完了（70ノード・210英文・44参考書間リンク）。
+> Phase F-3: スクランブル英文法・語法 構造化完了（183ノード・1,746英文）。
+> Phase F-4: 成川の深めて解ける！英文法 INPUT 構造化完了（162ノード・893英文）。
 > 詳細は [ROADMAP.md](docs/ROADMAP.md) を参照。
 
 ## 複数参考書の構造化方針
@@ -122,6 +134,9 @@ seras-english-knowledge/
 - **はじめの英文読解ドリル**: strc: 品詞と文型 / vtyp: 動詞の型 / clau: 句と節 / subj: 準動詞の意味上の主語 / read: 読解テクニック
 - **肘井の読解のための英文法**: hsv: SVの発見 / hch: 意味のカタマリ / hid: 識別 / hco: 構文 / hvp: 動詞の型
 - **英文法の核心**: khs: 品詞 / kvt: 動詞と時制 / kjd: 準動詞 / kta: その他の重要単元
+- **入門英文問題精講**: nbk: 基本講義 / nsv: 主語と動詞 / njd: 準動詞 / nks: 関係詞 / nst: 接続詞 / nhk: 比較 / nta: その他
+- **スクランブル英文法・語法**: sdv: 動詞・時制 / shs: 品詞・構文 / sgh: 語法 / sid: イディオム / sgi: 語い / sjd: 準動詞 / skh/skw: 会話 / sdr: 読解文法
+- **成川の深めて解ける！英文法 INPUT**: nrv: 動詞語法と文型 / nrp: 品詞・特殊構文 / nrt: 時制・助動詞・仮定法 / nrj: 準動詞 / nrk: 接続詞・関係詞 / nrs/nrz: 前置詞・比較
 
 ## ドキュメント更新ルール
 

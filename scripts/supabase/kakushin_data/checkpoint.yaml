@@ -7,9 +7,9 @@ book: "英文法の核心"
 book_slug: "kakushin"
 
 current_state:
-  phase: "Phase 2 — 全バッチ完了"
+  phase: "Phase 3 完了"
   current_section: null
-  current_step: null
+  current_step: "完了"
   last_completed_section: "Kaku_21c"
   last_completed_gate: 5
 
@@ -164,7 +164,7 @@ final_summary:
     kvt: 22  # Part 2 動詞や時制
     kjd: 17  # Part 3 準動詞
     kta: 21  # Part 4 その他の重要単元
-  status: "Phase 2 完了 — 全26セクション構造化完了"
+  status: "Phase 3 完了 — DB投入済み（76ノード・473英文・47リンク）"
 
 recent_decisions:
   - "decision #12: Kaku_08 CHECK(1)「What do you do?」はe02と同一文 → 重複登録しない"
@@ -172,6 +172,4 @@ recent_decisions:
 
 active_concerns: []
 
-next_actions:
-  - "英文法の核心の構造化は完了"
-  - "コミット＆push"
+next_actions: []
